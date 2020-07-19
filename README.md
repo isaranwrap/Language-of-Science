@@ -1,4 +1,4 @@
-# Language-of-Science-AJS-ASR
+# Language of Science
 Extracting text from pdf files of journal articles from the Americal Journal of Sociology and the American Sociological Review (1896-2011) into .txt files. 
 
 Naively, we would just pop the pdf into PyTesseract (Python wrapper for Google's Tesseract-OCR [Optical Character Recognition] Engine) and call it a day. But this only works if the pdfs/images you feed in are nice. And it turns out to be a little bit of a chicken-and-egg situation --> to find a good image text conder, you need to specify the crop ahead of time... but if you want a good crop, you need to know where your text is. So, how do we work arround this issue? Many possible avenues. I stole from a bunch of places.
