@@ -1,0 +1,507 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+esearch on the relationship between com-
+
+munity size and a variety of personality di-
+mensions has generally found relatively weak
+effects (Fischer 1984). These findings provide
+the empirical basis for the claim prevalent in ur-
+ban sociology that urbanism has only modest so-
+cial psychological consequences (Palen 1979;
+Fischer 1984, p. 6;, Fischer 1975, p. 422; Fischer
+1982, p. 256; theoretical arguments consistent
+with the claim appear in Gans 1962a; Gans 1962b;
+Lewis 1952; Lewis 1965; Reiss 1955; Hauser
+1970). I re-examine urbanism’s effect on toler-
+ance, taking particular care to assess the effect of
+individuals’ urban experience — that is, expo-
+sure to population concentration. I also re-exam-
+ine the effect of migration on tolerance levels
+and argue that past studies confuse migrants with
+nonmigrants.
+
+Tolerance is the willingness to allow the ex-
+pression of divergent ideas and to treat others
+according to universalistic criteria independent
+of value differences (cf. Crick 1973; Parsons and
+Shils 1951). Tolerance has generally been oper-
+ationalized as a willingness to extend civil liber-
+ties to persons holding deviant religious or po-
+litical views.' Stouffer (1955) was the first to re-
+port that urbanism, measured in terms of com-
+munity size, is directly related to tolerance. Recent
+research has generally confirmed Stouffer’s
+
+* Direct all correspondence to Thomas C. Wilson,
+Department of Sociology, Gannon University, Erie,
+PA 16541. I thank the Editor and several anonymous
+reviewers for a variety of useful suggestions in the
+preparation of this paper.
+
+' Other tolerance indicators weakly but significant-
+ly related to urbanism include attitudes toward pre-
+marital sex and other sexual behavior, abortion, mar-
+ijuana legalization, and gay rights (Stephan and Mc-
+Mullin 1982; Fischer 1982, chap. 6; see differing
+findings in Fischer 1971).
+findings (Wilson 1975; Glenn and Alston 1967;
+Williams, Nunn, and St. Peter 1976; Smith and
+Petersen 1980; Abrahamson and Carter 1986;
+Wilson 1985; contrary findings are reported in
+Marcus, Piereson and Sullivan 1980). The few
+studies addressing size of present community and
+size of community of origin show that size of
+community of origin affects tolerance as well as
+size of present community (Glenn and Hill 1977;
+Smith and Petersen 1980; Wilson 1985). In gen-
+eral, these studies show only a weak effect of
+urbanism on tolerance. For example, size of
+present community explained only .6 percent of
+the variation in tolerance in Abrahamson and
+Carter’s (1986) study, and its net relationship
+with five tolerance scales was also weak in Wil-
+son’s (1985) analysis (average beta = .09).
+
+I argue that past research is inadequate to sup-
+port claims of only a modest effect of urbanism
+on social psychological factors. Urbanism is a
+quality not only of communities (determined by
+population size), but also of persons’ experience
+(determined by persons’ exposure to life in pop-
+ulous communities; Wirth 1956; Fischer 1984,
+p. 5).? Urban experience is the theoretical means
+by which population size affects personality,
+promoting tolerance by enabling residents to “rub
+shoulders” with diverse others, and exposing them
+to the “juxtapositions of divergent personalities
+and modes of life” from which they learn to “live
+and let live” (Stouffer 1955; Wirth 1938; Milgram
+1970). Furthermore, the effect of urban experience
+is expected to be enduring: exposure to urban life
+occurring throughout one’s past as well as that
+
+? Criteria other than population size have been used
+to define urbanism (see Castells 1976; Firey, Loomis,
+and Beegle 1957; Reissman 1964; Greer 1962), but
+population size is the most common. Its advantages
+are discussed in Fischer (1984, pp. 24-5).
+experienced in the present influences personality
+in general and tolerance levels in particular (Wirth
+1938; cf. Stouffer 1955; Smith and Petersen 1980;
+Grasmick and Grasmick 1978; Stephan and Mc-
+Mullin 1982; Fischer 1975; Fischer 1982; Fisch-
+er 1984, p. 218).
+
+Measures of urbanism in past research do not
+adequately tap urban experience. Table | presents
+a typology of urban experience based on three
+variables: present community size; size of com-
+munity of origin; and whether one still resides in
+the community of origin. The community size
+measures adequately tap urban experience only
+for persons who are life-long residents of a pop-
+ulation-stable community (type |). For no other
+type or subtype do the community size measures
+provide an unambiguous full reflection of urban
+experience. For migrants (subtypes 2c, 2d, and
+2e), present community size and size of com-
+munity of origin provide no information on in-
+tervening urban experience. For many migrants,
+repeated moves between communities of varying
+sizes are quite common (Zuiches 1981; Berry
+and Dahmen 1977; Hawley and Mazie 1981;
+Brown and Wardwell 1980; Ford 1978; Tucker
+1976). Similarly, for nonmigrants (subtypes 2a
+and 2b) origin community size and present
+community size measures reflect neither the on-
+set nor speed of community growth or decline,
+and so provide no information on respondents’
+urban experience when their community’s size
+was between origin and present levels. In sum,
+because past studies have found undramatic ef-
+fects of size of community of origin and/or present
+community size on personality dimensions, it does
+not follow that the effect of urban experience is
+similarly modest.
+
+Past studies are also inconclusive concerning
+the effect of migration between various-sized
+communities. Wirth (1938) suggested that ex-
+posure to the city’s social heterogeneity promotes
+tolerance, implying that movement to larger
+communities increases migrants’ tolerance levels,
+but that migration to smaller communities does
+not. Stouffer (1955) argued that the migrant ex-
+perience of culture shock — exposure to two
+disparate cultures, the rural and the urban — in-
+creases tolerance among migrants regardless of
+size of destination community. Empirical studies
+support Wirth: migrants to larger communities
+Become slightly more tolerant than individuals
+remaining behind, but migrants to smaller com-
+munities do not differ in tolerance from nonmi-
+grants (Smith and Petersen 1980; Wilson 1985).
+However, these studies determine migration status
+by comparing sizes of respondents’ present and
+origin communities: respondents whose origin
+and present community sizes were identical were
+assumed to be nonmigrants; those whose origin
+community was smaller than their present com-
+munity were assumed to be migrants to more
+urban communities; and those whose origin
+community was larger than their present com-
+munity were assumed to be migrants to less urban
+communities. As Table 1 shows, these assump-
+tions lead to classification errors that cast doubt
+on any resulting findings: migrants between same
+sized communities (type 2c) would be classified
+as nonmigrants; and nonmigrants in growing or
+declining communities (types 2a and 2b) would
+be classified as migrants.
+SMSA with central city between 50,000 and
+250,000; SMSA with central city of over 250,000.
+Size of community of origin is based on a six-
+category nominal scale tapping community size
+at age 16 that was collapsed and recoded into the
+same four dummy variables as size of present
+community. Migrant status — whether respon-
+dent has moved from community of origin — is
+a dummy variable with migrant coded 1. The
+distribution of cases across the urban experience
+types is shown in Table 1.3
+
+Tolerance measures are based on 15 dichoto-
+mous items, patterned after those developed by
+Stouffer (1955), that tap respondent’ s willingness
+to extend civil liberties (the right to teach in a
+college, to make a speech, or to have an authored
+book in the public library) to each of five target
+groups.‘ Using these 15 items, I constructed two
+composite measures of tolerance — one toward
+leftist groups (Communists, atheists, and homo-
+sexuals) and the other toward rightist groups
+(racists and militarists). Each measure, calculat-
+ed as the average summed score for items per-
+taining to each relevant group, is a continuous
+scale ranging from 0 to 3 with higher scores indi-
+cating greater tolerance.
+
+It is important to control for respondents’ per-
+sonal characteristics when assessing urbanism’s
+effect (Gans 1962a; Wirth 1956; Fischer 1984).
+Controls for education (years of school com-
+pleted) and age are particularly crucial because
+
+3 Size of present community reflects objective size
+data coded by NORC staff, whereas size of origin
+community is recalled by respondents, a less reliable
+though commonly-used measure (see Fischer 1984,
+p. 315). Also, some type | respondents in Table | may
+have lived elsewhere between age 16 and the inter-
+view date; NORC data do not allow us to identify
+such respondents.
+
+* These items, long used in tolerance research,
+equate tolerance with the extent to which respondents
+are opposed to the ideas or interests of particular groups
+(Sullivan, Piereson, and Marcus 1979; Marcus,
+Piereson, and Sullivan 1980). Respondents’ opposi-
+tion is more likely with use of a broad variety of target
+groups. Wording of the tolerance items for atheists is
+as follows:
+
+There are always some people whose ideas are
+considered bad or dangerous by other people. For
+example, somebody who is against all churches and
+religions . . . (a) If such a person wanted to make a
+speech in your community against churches and reli-
+gions, should he be allowed to, or not? (b) Should
+such a person be allowed to teach in a college or
+university, or not? (c) If some people in your commu-
+nity suggested that a book he wrote against churches
+and religions should be taken out of your public li-
+Table 2 reports results of regressions of tolerance
+measures on size of present community (with
+“open country” as the reference category), size
+of origin community (“open country” is again
+the reference category), migration status, and the
+control variables, for the national sample. Both
+community-size variables are significantly related
+to greater tolerance toward both rightists and
+leftists (except present community “<50,000” in
+the rightist analysis) but the effects are modest.
+The community size variables explain only 1.2
+percent of the variation in tolerance toward right-
+ists and 2.6 percent of that toward leftists (i.e.,
+increments in R? attributable to the community-
+size variables entered in a final regression step
+are .012 and .026, respectively). In comparison,
+education and age — important determinants of
+tolerance both theoretically and empirically —
+have far greater impacts on tolerance. Education
+explains 4.2 percent and 6.7 percent of variation
+in tolerance in the respective analyses, and age
+Table 2. Regression Coefficients and Squared Part Correlations for the Relationship Between Tolerance and Selected
+Independent Variables for a National Sample and Type | Respondents: U.S. 1976-1989
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Sample Type 1: Constant Urban Experience
+Tolerance Toward Tolerance Toward Tolerance Toward Tolerance Toward
+Rightist Groups Leftist Groups Rightist Groups Leftist Groups
+Squared Squared Squared Squared
+Part Part Part Part
+
+Independent Variable b Correlation b Correlation b Correlation b_ Correlation
+120 AMERICAN SOCIOLOGICAL REVIEW
+explains 2.8 percent and 3.8 percent (as indicat-
+ed by the squared part correlations; increments
+to R? attributable to education are .042 and .067
+respectively, and to age are .028 and .038).
+
+I argue that these results do not adequately
+document a modest effect of urbanism on toler-
+ance. The community-size measures provide only
+incomplete information on the urban experience
+of most respondents in the national sample.
+However, they do fully reflect urban experience
+for respondents with constant urban experience
+(type 1) and may still prove to have a consider-
+able effect on tolerance among that group. Re-
+sults of an analysis restricted to type | respondents
+are presented on the right side of Table 2. Be-
+cause type 1 respondents are nonmigrants whose
+present and origin community sizes are identical,
+migration status and present community size are
+excluded from the analysis.
+
+The community-size variables are again sig-
+nificantly related to greater tolerance and the ef-
+fect of community size is more marked. Com-
+munity-size variables explain 3.7 percent of the
+variation in tolerance toward rightists and 6.1
+percent of the variation in tolerance toward left-
+ists (based on increments to R?). Furthermore, the
+explanatory power of community size surpasses
+that of age — according to the squared part cor-
+relations, age explains 2.5 percent and 3.8 percent
+of the variation in tolerance toward rightists and
+leftists, respectively — and roughly equals that
+of education (4.5 percent and 5.6 percent, re-
+spectively). Among those for whom available
+community-size measures adequately tap urban
+experience (type | respondents), urban experience
+exerts a considerable effect on tolerance.®
+
+The left side of Table 2 shows that being a
+migrant is independently and directly related to
+greater tolerance toward both rightist and leftist
+groups. Table 3 reports regressions of tolerance
+on dummy variables corresponding to urban ex-
+perience types. Size of origin community and the
+personal characteristics are included ds controls
+(although coefficients for personal characteristics
+are not shown). As expected, migration to larger
+
+® This interpretation is supported by additional evi-
+dence. First, I compared the variability of variables
+between type | respondents and the balance of the
+sample (type 2), and found only minor dissimilarities
+that could not explain these findings. Second, I was
+unable to replicate the relatively strong urban effects
+found for type | respondents among any of the type 2
+subtypes, suggesting that the robust effects for type 1
+resulted from size measure’s better reflection of ur-
+ban experience for that group. Details of these pro-
+cedures are available on request from the author.
+communities is independently related to greater
+tolerance for both rightists and leftists. Contrary
+to past findings, however, migration to smaller
+communities and migration between same-sized
+communities are also related to greater tolerance
+although not as strongly. Lifelong residence in a
+growing community (type 2a) is related to great-
+er tolerance toward leftists but not rightists, while
+lifelong residence in a declining community (type
+2b) retards tolerance.
+cial heterogeneity. Consistent with Stouffer, on
+the other hand, is a weaker but significant posi-
+tive effect associated with migration to smaller
+communities. Contrary to both Wirth and
+Stouffer, migration between communities of the
+same size also promotes tolerance, though
+weakly. Together, the findings imply that en-
+counters with alien ways of life — what Stouffer
+called “culture shock” and what Wirth expected
+to be primarily an urban phenomenon- promote
+tolerance. However, this effect is likely to be
+experienced to at least some degree by any mi-
+grant, regardless of size of destination.
+
+Modest effects of community-size measures
+on tolerance were found among a national sam-
+ple, but far stronger effects were found among a
+subsample for whom the size measures ade-
+quately reflected urban experience. That urban
+tolerance is extended to both rightist and leftist
+groups implies that it is content free (cf. Marcus,
+Piereson, and Sullivan 1980). At least for my
+subsample, the claim that urbanism’s effects on
+personality are modest underestimates the true
+relationship. Although the “true” effect of ur-
+banism among the population generally may not
+be as strong as found in my subsample, studies
+using conventional operationalizations of urban-
+ism are clearly limited in their ability to assess
+urbanism’s impact on tolerance.
+1954 and 1972-3.” American Journal of Sociology
+81:491-513.
+
+Davis, James A. and Tom W. Smith. 1989. General
+Social Surveys, 1972-1989. Chicago: NORC.
+
+Firey, Walter, Charles P. Loomis, and J. Allen Beegle.
+1957. “The Fusion of Urban and Rural.” Pp. 214-
+22 in Cities and Society, edited by Paul K. Hatt and
+Albert J. Reiss, Jr. New York: Free Press.
+
+Fischer, Claude S. 1971. “A Research Note on Ur-
+banism and Tolerance.” American Journal of
+Sociology 76:847-56.
+
+. 1975. “The Effects of Urban Life on Tra-
+ditional Values.” Social Forces 53:420-32.
+
+. 1982. To Dwell Among Friends: Personal
+Networks in Town and City. Chicago: University of
+Chicago Press.
+
+. 1984. The Urban Experience (2nd ed.). New
+York: Harcourt Brace Jovanovich.
+
+Ford, Thomas R. 1978. Rural U.S.A.: Persistence and
+Change. Ames, IA: Iowa State University Press.
+Gans, Herbert J. 1962a. “Urbanism and Suburbanism
+as Ways of Life: A Reevaluation of Definitions.”
+Pp. 625-48 in Human Behavior and Social Pro-
+cesses, edited by Arnold M. Rose. Boston:
+
+Houghton-Mifflin.
+
+. 1962b. The Urban Villagers. New York:
+Free Press.
+
+Glenn, Norval D. and Jon P. Alston. 1967. “Rural-
+Urban Differences in Reported Attitudes and Be-
+havior.” Southwestern Social Science Quarterly
+47:381-406.
+
+Glenn, Norval D. and Lester Hill, Jr. 1977. “Rural-
+urban Differences in Attitudes and Behavior in the
+United States.” Annals 429:36-50.
+
+Grasmick Harold G. and Mary K. Grasmick. 1978.
+“The Effect of Farm Family Background on the
+Value Orientations of Urban Residents.” Rural
+Sociology 39:454-70.
+
+Greer, Scott. 1962. The Emerging City. New York: The
+Free Press.
+
+Hauser, Robert M. 1970. “Context and Consex: A
+Cautionary Tale.” American Journal of Sociology
+75:645-64.
+
+Hawley, Amos H. and S. Mazie. 1981. Understanding
+Nonmetropolitan America. Chapel Hill: Universi-
+ty of North Carolina Press.
+
+Lewis, Oscar. 1952. “Urbanization Without Break-
+down.” Scientific Monthly 75:31-41.
+
+. 1965. “Further Observations on the Folk-
+Urban Continuum and Urbanization.” Pp. 491-503
+in The Study of Urbanization, edited by Philip H.
+Hauser and Leo Schnore. New York: John Wiley.
+
+Marcus, George E., James Piereson and John Sullivan.
+1980. “Rural-Urban Differences in Tolerance:
+Confounding Problems of Conceptualization and
+Measurement.” Rural Sociology 45:731-7.
+
+Milgram, Stanley. 1970. “The Experience of Living
+in Cities.” Science 167:1461-8.
+
+Palen, J. John. 1979. “The Urban Nexus: Toward the
+Year 2000.” Pp. 141-56 in Societal Growth, edited
+by Amos Hawley. New York: Free Press.
+
+Parsons, Talcott and Edward A. Shils. 1951. “Values,
+Motives and Systems of Action.” Pp. 247-75 in
+Toward a General Theory of Action, edited by
+Talcott Parsons and Edward A. Shils. Cambridge:
+Harvard University Press.
+
+Reiss, Albert J. 1955. “An Analysis of Urban Phe-
+nomena.” Pp. 41-51 in The Metropolis in Modern
+Life, edited by E. M. Fisher. New York: Double-
+day.
+
+Reissman, Leonard. 1964. The Urban Process. New
+York: Free Press.
+
+Smith, Leslie Whitener and Karen Kay Petersen. 1980.
+“Rural-Urban Differences in Tolerance: Stouffer’s
+Culture Shock Hypothesis Revisited.” Rural
+Sociology 45:256-71.
+
+Stephan, G. Edward and Douglas R. McMullin. 1982.
+“Tolerance of Nonconformity: City Size as a Situ-
+ational and Early Learning Determinant.” American
+Sociological Review 47:411-5.
+
+Stouffer, Samuel A. 1955. Communism, Conformity
+and Civil Liberties. Garden City, NJ: Doubleday.
+
+Sullivan, John L., James Piereson and George E.
+Marcus. 1979. “An Alternative Conceptualization
+of Political Tolerance: Illusory Increases 1950s-
+1970.” American Political Science Review 73:781-
+94.
+
+Tucker, C. Jack. 1976. “Changing Patterns of Migra-
+tion Between Metropolitan and Nonmetropolitan
+Areas in the United States.” Demography 13:435-
+43.
+
+Williams, J. Allen., Clyde S. Nunn, and Louis St.
+Peter. 1976. “Origins of Tolerance.” Social Forces
+55:394-408.
+
+Wilson, Thomas C. 1985. “Urbanism and Tolerance:
+A Test of Some Hypotheses Drawn from Wirth
+and Stouffer.” American Sociological Review
+50:117-23.
+
+Wilson, W. Cody. 1975. “Belief in Freedom of Speech
+and Press.” Journal of Social Issues 31:69-76.
+
+Wirth, Louis. 1938. “Urbanism as a Way of life.”
+American Journal of Sociology 44:3-24.
+
+. 1956. “Rural-Urban Differences.” Pp. 165-
+9 in Classic Essays on the Culture of Cities, edited
+by R. Sennet. New York: Appleton-Century-Crofts.
+
+Zuiches, James J. 1981. “Residential Preferences in
+the United States.” Pp. 72-115 in Understanding
+Nonmetropolitan America, edited by Amos Haw-
+ley and S. Mazie. Chapel Hill: University of North
+Carolina Press.

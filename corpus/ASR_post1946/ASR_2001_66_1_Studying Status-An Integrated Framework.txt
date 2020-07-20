@@ -1,0 +1,1844 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+This paper reports development of an integrated framework for studying status. The
+framework provides models and methods for addressing long-standing, unresolved
+issues, such as (1) the emergence of status, (2) distinguishing between the status of
+individuals and the status of characteristics, and (3) measuring and understanding
+the status gap between subgroups (between men and women, or between races). The
+framework, which covers both small groups and large societies, and both task and
+nontask groups, utilizes ideas and insights from several literatures to identify three
+types of status, linked in precise ways to two kinds of personal characteristics
+(quantitative and qualitative). The three types of status are mathematically specified,
+and initial theoretical development is presented for all three, including, for each,
+formulation of measures, derivation of testable implications, and analysis of how to
+change status and the status structure. Testable implications cover such phenomena
+as status differences between group members, status gaps between subgroups, over-
+all status inequality, and status gains and losses from discrimination — all under
+varying conditions, including the number and intercorrelation of status-conferring
+personal characteristics and the proportions in the subgroups. The new status theory
+also identifies two mechanisms involved in the phenomenon of “internalized oppres-
+sion.” The framework thus opens many avenues for future work, both theoretical
+work, deriving more and sharper implications, and empirical work, testing the im-
+plications and using the new measures for the status of persons and the status of
+characteristics to assess key status phenomena in surveys and experiments.
+1996) provide new urgency for obtaining
+sharper, more precise, and more reliable
+knowledge about the operation of status.
+Although much has been learned, many
+basic questions about status remain unan-
+swered; and the insights that could be mar-
+shaled for sustained inquiry reside in sepa-
+rate literatures. In this paper I develop an in-
+tegrated framework for studying status.! The
+framework provides models and methods for
+addressing long-standing, unresolved issues.
+These issues include: (1) the emergence of
+status; (2) how to distinguish between, and
+measure, the status of persons and the status
+of characteristics; (3) whether quantitative
+and qualitative characteristics operate differ-
+ently; (4) how to measure status gaps be-
+tween subgroups of a group or society; (5)
+how to assess the effects of the proportions
+in different subgroups; (6) how to incorpo-
+rate multiple bases for status; (7) how status
+processes differ in small groups and large
+societies; (8) how status processes differ in
+task groups and other kinds of groups; and
+(9) how status is shaped by the degree of
+correlation among valued personal charac-
+teristics.
+
+The proposed framework has three key
+features. First, it distinguishes between two
+kinds of characteristics (quantitative and
+qualitative) and between three types of sta-
+tus which are linked in precise ways to the
+two kinds of characteristics. Second, it
+builds carefully on previous work, incorpo-
+rating seminal ideas and insights into a con-
+sistent, coherent whole; chief among these
+ideas and insights are (1) the mathematical
+specification for the production of status
+from quantitative characteristics (owed to
+Goode [1978] and Sgrensen [1979]), (2) the
+link between the status conferred on indi-
+viduals by quantitative characteristics and
+the status acquired by qualitative character-
+istics (owed to Ridgeway [1991, 1997b],
+Ridgeway and Balkwell [1997], and Webster
+and Hysom [1998]), and (3) the multidimen-
+sional specification of the status of individu-
+als (analyzed by Barber [1968], Goode
+[1978], Rossi [1979], and Turner [1984,
+1995]). Third, the framework is fully mathe-
+matized, leading to precise predictions about
+the magnitude of status conferred on indi-
+viduals and the magnitude of status obtained
+by qualitative characteristics, and about the
+conditions conducive to greater or lesser sta-
+tus and larger or smaller status gaps, and
+providing as well a set of measures ready for
+use in empirical work.
+
+For example, it is universally believed that
+in almost all societies, men have higher sta-
+tus than women. But the status gap between
+the sexes is also known to vary greatly, and
+there has not been a theory-based way to
+measure it. The status-gap continuum ex-
+tends from societies in which women are not
+permitted to vote or to own property to soci-
+eties in which women and men work in
+teams (on earth and in space, in war and in
+peace), vote their conscience, and face no
+legal bars to income and wealth. The new
+framework provides a coherent set of mod-
+els and tools, based on the status, prestige,
+and stratification literatures, which enable
+both measurement of the status gap and
+analysis of why and how the status gap var-
+ies in magnitude.
+
+The new framework not only enables ex-
+amination of all the unresolved issues but
+also yields unexpected results. It shows that
+key ideas and insights from the several sta-
+tus literatures, when combined together, pro-
+duce unexpected synergies, providing new
+testable implications and opening new av-
+enues for status research. The initial set of
+testable implications includes implications
+for the effects on status and status structure
+of (1) the number and intercorrelation of per-
+sonal characteristics, (2) the availability of
+information about personal characteristics,
+and (3) the proportions of a group in each
+category of a qualitative characteristic. Sta-
+tus processes have a long reach, and the new
+status theory identifies two mechanisms that
+may be involved in the phenomenon of “in-
+ternalized oppression” (Bourdieu 1997;
+Ridgeway 1997a:222; Stanton-Salazar
+1997), provides a new way to understand
+gains and losses from discrimination, and
+yields ceteris paribus implications for a wide
+range of behavioral and social phenomena
+including coalition formation, defection,
+identity and reference-group processes, re-
+sponse rates and missing data in surveys,
+veiling customs, relative size and skill of
+political parties, and the tension between in-
+dividualism and collectivism.
+
+Of course, the new framework for status
+analysis is preliminary, and further theoreti-
+cal and empirical inquiry will no doubt lead
+to modifications. To make the framework as
+useful as possible, I take a threefold ap-
+proach: First, I lay the foundation carefully,
+formalizing the three basic status functions
+(corresponding to the three kinds of status
+identified by the framework), which become
+the three basic assumptions of the new sta-
+tus theory. Second, I provide a sampling of
+the kinds of theoretical development enabled
+by the framework, deriving implications for
+several special cases, including both small
+groups and large societies under a variety of
+conditions. Third, I take a brief look at how
+The objective is to develop a general frame-
+work for the study of status—a framework
+that will cover status phenomena and status
+processes in all settings (e.g., task groups as
+well as nontask groups) and at both micro
+and macro levels (e.g., in both small groups
+and large societies), that distinguishes
+clearly between the status of individuals and
+the status of characteristics and between sta-
+tus and its determinants and its conse-
+quences, and that enables both measurement
+and analysis. The framework should contain
+the basic building blocks which provide the
+starting assumptions from which a variety of
+testable implications can be derived and
+which provide measures ready for use em-
+pirically. Future work can then proceed on
+three fronts—expanding and refining the
+framework, building theories and deriving
+more and sharper implications, and testing
+the implications and accumulating informa-
+tion on magnitudes and correlates of key sta-
+tus phenomena.
+
+The framework draws insights and reason-
+ings from the many pertinent literatures, in-
+cluding literatures on social organization,
+social stratification, status organizing pro-
+cesses, and inequality. The emphasis
+The new framework distinguishes between
+quantitative and qualitative characteristics.
+Quantitative characteristics are characteris-
+tics of which individuals can have “more” or
+“less”; qualitative characteristics, in con-
+trast, describe features of individuals that
+have no inherent ordering but which can be
+used to classify them into groups or catego-
+ries. Quantitative characteristics may be car-
+dinal (like wealth) or ordinal (like beauty).
+Qualitative characteristics may be binary
+(like gender) or polytomous (like race and
+ethnicity).
+
+Until a decade ago, status research did not
+distinguish between quantitative and quali-
+tative characteristics; any possible distinc-
+tiveness in status processes had not been no-
+ticed. For example, Berger et al. (1980) ob-
+served:
+Ridgeway (1991) was the first to pose the
+question of how qualitative characteristics
+acquire status value, and pioneered develop-
+ment of a theory of status construction in
+which cardinal characteristics produce status
+for qualitative characteristics (Ridgeway
+1991, 1997b; Ridgeway and Balkwell 1997).
+Webster and Hysom (1998) extended the
+theory so that ordinal as well as cardinal—
+that is, all quantitative characteristics—can
+be used to produce status for qualitative
+characteristics.
+
+QUANTITATIVE CHARACTERISTICS:
+GOopDs AND BADS. Within the set of quan-
+titative personal characteristics, most status
+research has focused on characteristics
+which have the property that “more” is pre-
+ferred to “less”; for convenience, these will
+be called “goods.” For simplicity, this analy-
+sis is couched in terms of goods, but, of
+course, “bads” (less is preferred to more)
+may also operate in status processes and
+their handling is straightforward.
+
+QUANTITATIVE CHARACTERISTICS:
+CARDINAL VERSUS ORDINAL GOODS, AND
+RANK VERSUS AMOUNT OF CARDINAL
+Goops. Two related questions arise: whether
+to distinguish between cardinal and ordinal
+goods; and whether, among cardinal goods,
+amounts play a part in status processes or
+only ranks. Note that the operation of cardi-
+nal and ordinal goods can only be distin-
+guished by incorporating amounts of cardi-
+nal goods; and, conversely, if only rank mat-
+ters in cardinal goods, then there is no dis-
+tinction between cardinal and ordinal goods.
+
+As discussed below, the process of choos-
+ing a functional form for first-order status
+led to the rank-based function that Sgrensen
+(1979) proposed in his work on the status of
+occupations; and thus the status of individu-
+als is modeled as a function of rank only. A
+shortcoming is that the distribution of a
+quantitative characteristic such as wealth is
+treated as flat, rather than, say, as a peaked
+distribution with most individuals located in
+some region of the distribution. This short-
+coming is mitigated somewhat, however, by
+two things: First, the status function, as will
+be seen, is not flat, being a nonlinear func-
+The framework distinguishes between three
+types of status. First-order status, denoted
+S1, is a property of individuals and is based
+on quantitative personal characteristics. Sec-
+ond-order status, denoted S2, is a property
+of qualitative characteristics. Third-order
+status, denoted S3, is a property of individu-
+als; it arises as a way to impute status to in-
+dividuals when S1 cannot be generated be-
+cause there is no information on quantitative
+characteristics, but may linger after informa-
+tion is obtained, combining both S1 and S2
+types of status. Each of the three types of
+status operates in distinctive ways—each
+arises and is maintained or altered via dis-
+tinctive processes, as elucidated below.
+
+The work on S1— the first kind of status,
+which is a property of individuals and which
+is based on quantitative characteristics—be-
+sides building in a general way on the sta-
+tus-relevant literatures, builds in a specific
+way on two seminal contributions to the
+mathematical specification of status, Goode
+(1978) and Sgrensen (1979). Similarly, the
+work on S2—the second kind of status,
+which is a property of qualitative character-
+istics—builds directly on Ridgeway (1991,
+1997b), Ridgeway and Balkwell (1997), and
+Webster and Hysom (1998). The work on
+S3—the third kind of status which is a prop-
+erty of persons and which arises when S1
+cannot be generated—builds on the multidi-
+mensionality aspect of status and prestige
+(Barber 1968; Goode 1978; Rossi 1979;
+Turner 1984, 1995).
+
+Modeling S1 status requires a function
+which yields a clear status metric and em-
+bodies the properties discussed in the status
+literatures. Chief among these properties is
+the property analyzed by Goode (1978) that,
+as rank increases, status increases at an in-
+creasing rate, rising steeply at higher ranks.
+The search for a function satisfying proper-
+ties desirable in an S1 function led to the
+function proposed by Sgrensen (1979) to
+measure the status of occupations. The sim-
+plicity, elegance, and tractability of this
+function made it an appealing choice.
+
+PERSONAL CHARACTERISTICS AND
+TYPES OF STATUS. Quantitative characteris-
+tics play a special role in the framework, as
+they form the basis for first-order status
+(S1). In this framework, building on
+Ridgeway’s fundamental insight, qualitative
+characteristics cannot confer first-order sta-
+tus, but rather they must first acquire sec-
+ond-order status. Accordingly, qualitative
+characteristics are used to form subgroups;
+the subgroups are characterized by a sum-
+mary measure of the members’ first-order
+status, and this summary measure in turn at-
+taches to each category of a qualitative char-
+acteristic, becoming its measure of second-
+order status (S2).
+
+SUMMARY MEASURE OF S1 WITHIN THE
+CATEGORIES OF A QUALITATIVE CHARAC-
+TERISTIC. The summary measure of S1,
+which becomes a category’s measure of S2,
+can be any measure of location, such as the
+arithmetic mean, the geometric mean, or the
+median. For simplicity and concreteness, in
+the theoretical development below, we use
+the arithmetic mean. As will be seen, choice
+of summary measure affects some results but
+not others. Future research might investigate
+both preference for, availability of, and ef-
+fects of alternative measures.
+INFORMATION AND TYPES OF STATUS.
+Information is of two kinds: (1) information
+about the quantitative characteristics of par-
+ticular individuals, and (2) information
+about the summary measure of first-order
+status in the subgroups formed by qualita-
+tive characteristics. Information about indi-
+viduals’ ranks on quantitative characteristics
+is used to produce first-order status (S1). In-
+formation about the average first-order sta-
+tus of the subgroups formed by qualitative
+characteristics is used to generate second-or-
+der status (S2) in the qualitative characteris-
+tics. In the absence of information about the
+quantitative characteristics of particular in-
+dividuals (i.e., when first-order status can-
+not be generated), second-order status is
+used to produce an imputed individual sta-
+tus, the third-order status (S3). But S3 may
+not disappear when information about the
+quantitative characteristics of particular in-
+dividuals is obtained; the process by which
+Corresponding to each type of status is a
+matrix containing each actor’s evaluations of
+the status of persons (S1 and S3) and the sta-
+tus of characteristics (S2). To illustrate, con-
+sider S1 status in a collectivity of N persons.
+Each individual (called “Self”) accords S1
+status (or makes prestige payments, in
+Goode’s [1978] evocative phrase) to every
+individual (to “Others” and also to “Self”).
+Group members may differ in the first-order
+status they accord to any given Other. Dif-
+ferent individuals may value different quan-
+titative personal characteristics; for example,
+one individual may value wealth, while an-
+other may value beauty, and a third may
+value both. Moreover, different goods may
+be weighted differently; for example, one in-
+dividual may weight wealth two-thirds and
+beauty one-third, while a second may do the
+opposite. Thus, the S1 status order is repre-
+sented by a matrix (Table 2).
+The S1 and S3 matrices are square, each
+member of the collectivity represented by
+both a row and a column. In the S2 matrix,
+each person occupies a row and each char-
+acteristic is represented by a set of columns,
+one column for each category of the charac-
+teristic.
+
+If all the rows of a matrix are identical,
+the matrix collapses to a vector. An impor-
+tant area of research focuses on the pro-
+cesses by which individuals agree, or not, on
+status matters, for example, how individuals
+choose the quantitative characteristics they
+use in the S1 function, how individuals
+shape the societal $1 function and societies
+in turn shape individuals’ $1 functions.*
+
+The initial theoretical development below
+follows a twofold approach. First, as in most
+status research, we characterize groups by a
+single status function, asking, for example,
+what status processes look like if all group
+members share the same S1 function (i.e.,
+use the same quantitative characteristics as
+bases of evaluation and weight them the
+same way). Second, we consider strategies
+for changing status structures, some of
+which involve parallel status structures. For
+example, individuals make, and expect,
+prestige payments (in Goode’s words) based
+on the S1 structure in their heads; con-
+versely, they receive prestige payments
+based on the S1 structures in others’ heads.
+Important and interesting phenomena ac-
+company such interindividual differences in
+S1 structure.
+The weights, which may take zero or posi-
+tive values, must sum to one; if zero, the as-
+sociated good does not produce status, and
+if one, the associated good is the only good
+that confers first-order status.
+
+Following Goode (1978), we assume that
+first-order status is a special kind of func-
+tion: it is not only an increasing function of
+the quantitative personal characteristics but
+also it increases at an increasing rate. As
+Goode (1978:142) observes, “prestige pay-
+ments rise steeply.” As discussed above, we
+adopt the function proposed by Sgrensen
+(1979), which has the upwardly-concave
+property as well as other appealing proper-
+ties. Accordingly, we specify S1 status as a
+function of rank on a valued characteristic:
+In this initial theoretical development, we
+analyze the operation of first-order status in
+several settings, varying the number of
+goods and their association and modeling S1
+in both small groups and large societies. The
+theoretical results are empirically testable
+implications. Of course, many more results
+can be obtained, and the framework can be
+applied to many new arenas.
+
+S1 IN THE SPECIAL CASE OF ONE-GOOD
+SMALL GROUPS. To examine how first-order
+status operates, we begin with the simplest
+one-good case in small groups of size rang-
+ing from 2 to 12, with no tied ranks. Table 3
+presents the magnitudes of S1 for each mem-
+ber of such groups; the valued characteristic
+can be any quantitative personal characteris-
+tic (e.g., wealth or beauty or athletic skill).”
+The figures immediately reveal three impor-
+tant implications of the S1 function in the
+one-good case. First, the status of the low-
+est-ranking person (Member 1) declines as
+group size increases. Second, the status of
+the highest-ranking person (the last member
+in each column) increases as group size in-
+creases. Third, average status increases as
+group size increases. Thus, the status differ-
+ence between the lowest- and highest-rank-
+ing members of the group increases steeply
+with group size, from .7 S1 units in the dyad
+and 1.1 in the triad to almost 2.5 in the 12-
+member case.®
+
+Many of the status phenomena in small
+groups involve interactions within subsets
+of the members. The status difference in
+each of the possible pairs of members of a
+group is thus an important feature of
+groups. The number of pairs rises steeply
+from one in the two-member group to 66 in
+the 12-member group. To investigate dyadic
+status difference in small groups, Table 4
+presents the complete S1-difference struc-
+ture for the possible pairs in three groups,
+those of sizes 4, 5, and 6. Although the full
+structure could be reported in the triangle
+above the diagonal, Table 4 presents com-
+pletely filled-out matrices; these have the
+advantage that they directly show not only
+the set of S1 differences for the group but
+also the set of S1 differences for each indi-
+vidual.
+
+As expected from Table 3, the magnitude
+of the smallest status distance decreases with
+group size, and the magnitude of the largest
+status distance increases with group size.
+Additionally, there are three main results in
+Table 4. First, the magnitude of the S1 dif-
+ference increases for successive ranks;
+Member | in the 4-member group is not only
+farther away from Member 4 than from
+Member 3 and farther away from Member 3
+than from Member 2 but also the increment
+in the status distance increases for each suc-
+cessive rank (from .288 to .405 to .683).
+Second, a group member is always closer to
+the individual below than to the individual
+above. For example, in the 6-member group,
+Member 3 is closer to Member 2 than to
+Member 4, but Member 2 is closer to Mem-
+ber 1 than to Member 3. Thus, dyadic rela-
+tions are not symmetric. Third, a few (very
+few) group members are equally distant
+from two group members, one below and the
+other above, with the one below being not
+immediately below and the one above being
+immediately above. In Table 4 there are
+three such persons, one in each group: Mem-
+ber 3 in the 4-member group, Member 4 in
+the 5-member group, and Member 5 in the
+6-member group. These individuals may
+play pivotal parts in group dynamics, being
+uniquely situated to bridge status distance in
+two directions.
+
+There is evidence from previous empirical
+research that observable behaviors produced
+by status follow the predicted S1 patterns.
+For example, Bales (1999) documented the
+acts initiated by each member of a group, in
+groups of size 3 to 8, coding both acts di-
+rected at the group and acts directed at an-
+other member. The number of acts initiated
+increases at an increasing rate with rank, and
+who-to-whom matrices of acts initiated in-
+dicate that each member is closer in status
+to the lower neighbor than to the higher
+neighbor, as predicted here.
+
+S1 IN THE SPECIAL CASE OF TWO-GOOD
+SMALL GROUPS. Consider now the case in
+which the members of a small group use two
+quantitative characteristics as bases of
+evaluation; as in the previous special case,
+there are no tied ranks. If the two goods are
+perfectly positively associated—that is, each
+member’s rank is the same on both charac-
+teristics—then the S1 structure remains the
+same as in the one-good case. However, if
+the two goods are independent or negatively
+associated or imperfectly positively associ-
+ated, then S1 structure changes. Here we in-
+vestigate the case in which two equally
+weighted goods are perfectly negatively as-
+sociated. Other special cases can be simi-
+larly studied.
+
+Table 5 reports the status structure in the
+case of two goods negatively associated and
+equally weighted, for groups of size 4, 5, and
+6. For each group member, the table reports
+S1 derived from each of the two goods, de-
+noted s1,; and sl). Member number denotes
+the rank on the first good. Thus, for example,
+Member 1 in the 4-member group ranks low-
+est on the first good and highest on the sec-
+ond good; Member 1 has a magnitude of .223
+on 51, (the lowest status) and a magnitude of
+1.609 on s1, (the highest status). The two-
+good S1 status is the unweighted average of
+s1,and s15, namely, .916.
+
+Table 5 shows that the status structure is
+dramatically compressed, although the aver-
+age status in each group remains the same
+(compare with Table 3). First, S1 no longer
+approaches zero, but now has a floor of
+In(2), or approximately .693.9 Second, the
+status of the top person—who is always the
+person who ranks highest and lowest on the
+two characteristics—is reduced by the
+amount In-/N; for example, $1 for Member
+1 in the 5-member group is reduced from
+1.792 (as in Table 3, as well as for the sec-
+ond good’s status sl, in Table 5) to .987.
+Third, the range of S1 is substantially re-
+duced, for example, from 1.792 (1.946—
+.154) to .347 (1.050 —.703) for the 6-mem-
+ber group. Fourth, all the groups are sym-
+metric, such that the S1 scores are symmet-
+ric about the midrange. Thus, except for
+odd-sized groups, each member has a fellow
+group member of identical status; for ex-
+ample, in the 4-member group, Members 1
+and 4 have identical status, and Members 2
+and 3 have identical status.
+
+To the extent that a group’s status struc-
+ture defines its character, the groups in Table
+5 are dramatically different from their one-
+good counterparts in Table 3—they have less
+inequality, less status distance, and more dy-
+adic symmetry.
+
+To more carefully assess these two-goods/
+equally-weighted/negatively-associated
+small groups, Table 6 presents the status-dis-
+tance matrices for the groups portrayed in
+Table 5. The results are striking. First,
+whereas the one-good status-distance matri-
+ces of Table 5 had large status distances—
+for example, ranging from .288 to 1.386 in
+the 4-member group—the corresponding sta-
+tus distances in these two-good matrices are
+small—for example, ranging from 0 to .203
+in the 4-member group. Second, the status-
+distance matrices retain the property that the
+largest status distance increases with group
+size, but the smallest status distance is now
+independent of group size, being zero for
+every group size. Third, all group members
+have several identical status distances from
+other members, in contradistinction to the
+one-good groups in which very few group
+members were in this situation; for example,
+in the 4-member group, every member has
+identical status distances from two other
+members.
+
+Figure 1 illustrates the contrast between
+the one-good and the two-goods/negatively-
+associated small groups, displaying the full
+set of S1 differences for the 4-member and
+5-member groups (i.e., with 6 and 10 status
+differences, respectively). It is clear from
+Figure 1 that the one-good group has con-
+siderably more status inequality.
+
+S1 IN THE SPECIAL CASE OF LARGE SO-
+CIETIES. Status phenomena and processes
+occur in groups and societies of all sizes, and
+thus it is important to investigate the opera-
+tion of first-order status (S1) in large societ-
+ies as well as in small groups. To do so, we
+use techniques from the study of probability
+distributions (Stuart and Ord 1987).!° Sub-
+stantively, the model is set up as before. S1
+is a function of valued quantitative personal
+characteristics; the function is the log-rank
+function given in equations 2 and 4. Be-
+cause, as seen, the case in which S1 arises
+from one good is identical to the case in
+which S1 arises from two perfectly posi-
+tively associated goods, we present an inte-
+grated theoretical development in which two
+goods are used as bases of evaluation. As
+before, let the two goods be weighted
+equally in the S1 function. Also as before,
+we distinguish between perfectly positively
+associated goods and perfectly negatively
+associated goods; we also introduce a new
+case, which arises naturally in the study of
+probability distributions—namely, the case
+in which the two goods are independent.
+
+At the outset it is known that the distribu-
+tion associated with S1 in the positively as-
+sociated case is the exponential and that its
+mean equals 1. Because the mean of the av-
+erage of two identical variates is equal to the
+original mean, it is also known that the mean
+N =6: Fifteen Pairs
+Member 1
+Member 2
+Member 3
+Member 4
+Member 5
+Member 6
+
+255
+347
+347
+255
+
+0
+
+.255
+
+091
+.091
+
+0
+
+.255
+
+347
+.091
+
+0
+
+091
+347
+
+347
+091
+
+0
+
+091
+347
+
+255
+
+0
+
+091
+091
+
+255
+
+0
+
+.255
+347
+347
+.255
+
+ 
+
+Note: Group members are ordered from lowest ranking to highest ranking on the first valued characteris-
+tic, as in Table 5; each person’s S1 status appears in Table 5. Each row and/or column provides the set of
+pairwise S1 status differences involving each member of the group. The full set of pairwise S1 status differ-
+ences for the entire group occupies the triangle above the diagonal (and is duplicated in the triangle below
+
+the diagonal).
+$1 Status Difference
+
+2.0
+
+ 
+
+Four-Member Group
+
+a |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ea
+
+i
+
+ 
+
+ 
+
+ 
+
+Five-Member Group
+
+TT
+
+ 
+
+ 
+
+ 
+
+ 
+
+all
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+One Good Two Goods
+
+One Good
+
+Two Goods
+A different way to gauge the three types
+of S1 structures is to examine their probabil-
+ity density functions (pdf). Figure 2 presents
+graphs of the three pdf’s. The graphs indi-
+cate several important features: First, there
+are individuals of very high status in all
+three types of S1 structure. Second, there are
+individuals of very low status (approaching
+zero) only in the positively associated and
+independent cases; as already known, in the
+negatively associated case, S1 has a floor of
+approximately .7. Third, in the positively
+and negatively associated cases, the mode
+occurs at the lower extreme value and in the
+independent case it occurs at .5; that is, there
+is a concentration of low-status persons.
+These graphs provide vivid depiction of the
+sociological insight that high status is rela-
+tively scarce and the philosophical insight
+that societies differ dramatically according
+to whether valued characteristics are posi-
+tively or negatively associated.
+individuals and groups reward and use as a
+status-conferring device. If individuals lose
+the valued characteristics, they lose their sta-
+tus, holding constant the goods in the S1
+function. Conversely, if individuals change
+their minds about what they find admirable
+and desirable, then receipt of S1 is altered.
+For example, suppose that Smith is the best
+swimmer in the world. As long as some in-
+dividuals (swimming enthusiasts, say) value
+swimming skill and Smith retains the skill,
+Smith will be accorded the highest status on
+the S1 swimming component (by swimming
+enthusiasts). However, if Smith loses the
+skill or if swimming enthusiasts disappear,
+Smith will lose status. Similarly, the strategy
+for the film character who says, “I don’t get
+no respect,” is to promote admiration for, or
+desirability of, some characteristic on which
+he or she ranks high.
+
+Note that the strategy of changing the
+quantitative characteristics used to confer
+status appears in two versions. In the first
+version, an individual attempts to change
+others’ valued goods, for example, by per-
+suading them that wealth is meaningless and
+should not be used as a status-conferring de-
+vice or that writing poetry is the most admi-
+rable and desirable skill. In the second ver-
+sion, an individual changes his or her own
+valued goods, effectively ceasing to make
+prestige payments, in Goode’s (1978) evoca-
+tive phrase, and thus putting an end to this
+micro form of “internalized oppression.”
+
+To illustrate, consider two college room-
+mates in a fraternity house: One is wealthy
+and an athlete of no particular distinction;
+the other comes from a poor family and is a
+gifted athlete.!? If both roommates value
+wealth only and use it to confer status, then
+the rich roommate will be accorded higher
+status than the other roommate—by both of
+them. The athlete roommate can change this
+S1 structure by two methods: (1) S/he can
+persuade him/herself and the rich roommate
+that athletic skill is highly desirable and
+should also be used to confer status; or
+(2) s/he can relinquish his/her love of riches
+and value only athletic skill. Under the first
+method, if successful (and athletic skill and
+wealth are weighted equally), the S1 struc-
+ture would be transformed into one of per-
+fect equality—the two goods are perfectly
+negatively associated, hence both room-
+mates would receive equal magnitudes of
+S1. Under the second method, if successful,
+the athlete roommate would no longer ac-
+cord higher status to the rich roommate. Of
+course, if the rich roommate still uses wealth
+as a basis of evaluation, there would be a
+new tension arising from their having dis-
+crepant S1 functions.
+
+As shown, the kind of statistical associa-
+tion between two or more valued goods—
+whether they are positively associated, nega-
+First-order status is a property of persons—
+individuals obtain first-order status from
+their quantitative characteristics. Individuals
+also have qualitative characteristics and, by
+processes of status generalization (Berger et
+al. 1977; Ridgeway 1991, 1997b; Ridgeway
+and Balkwell 1997; Webster and Hysom
+1998), if in a group or society there is an as-
+sociation between the valued quantitative
+characteristics (the goods) and a qualitative
+characteristic, the qualitative characteristic
+acquires status by that association. This sta-
+tus acquired by qualitative characteristics we
+call second-order status (S2).!4
+sociation is between quantitative characteristics
+(as between wealth and beauty), in the analysis
+of second-order status the focal association is be-
+tween one quantitative characteristic and one
+qualitative characteristic. Put differently, given
+that the term “goods” is used for quantitative
+characteristics of which more is preferred to less
+and given that here we are not working with
+“bads,” the focal association in the analysis of S1
+is between two goods, whereas the focal associa-
+tion in the analysis of S2 is between a good and a
+qualitative characteristic.
+We focus here on two outcomes—second-or-
+der status (S2) and the gap in second-order
+status between the categories of a qualitative
+characteristic (S2,,,)—and on determinants
+of these outcomes. We examine the effects
+of (1) the number of valued goods in the S1
+function and the goods’ association, (2) the
+association between the valued good(s) and
+the qualitative characteristic, and (3) the
+relative sizes of the categories of the quali-
+tative characteristic. The summary measure
+of S1 is specified as the arithmetic mean.
+SUFFICIENT CONDITIONS FOR SECOND-
+ORDER STATUS. To begin, look back at the
+layout of first-order status in one-good small
+groups presented in Table 3. If there is a per-
+fect association between the good (i.e., the
+quantitative characteristic used to confer
+first-order status) and a binary qualitative
+characteristic, then the qualitative character-
+istic will acquire second-order status. For
+example, in the group of size 4, if Member 1
+is female and Members 2 through 4 are
+male, or if Members 1 and 2 are female and
+Members 3 and 4 male, or if Members 1
+through 3 are female and Member 4 male,
+then gender will acquire second-order status,
+such that the category “male” will have a
+higher magnitude of S2 than the category
+“female.” And conversely, if the association
+goes in the opposite direction. Thus, the
+combination of (1) a one-good S1 function
+with (2) a perfect association between the
+good and a qualitative characteristic is suffi-
+cient to induce second-order status for the
+qualitative characteristic. Moreover, because
+the S1 structure of a one-good society is
+identical to that in a society with several per-
+fectly positively associated goods, the com-
+bination of (1) perfectly positively associ-
+ated goods in the S1 function with (2) a per-
+fect association between the goods and a
+qualitative characteristic is also a sufficient
+condition for second-order status to arise.
+
+Consider now a somewhat more compli-
+cated case, that of societies with negatively
+associated goods. Look at Table 5. If there is
+a perfect association between one of the two
+goods and the qualitative characteristic and
+if group members are assigned in equal num-
+bers to categories of a binary qualitative
+characteristic (e.g., let Members 1 and 2 of
+the four-member group be men and Members
+3 and 4 be women), then the average S1
+among men equals the average S1 among
+women. In this situation, gender does not
+acquire status. On the other hand, suppose
+that Members 1 and 4 are women and Mem-
+bers 2 and 3 are men—that is, eliminate the
+perfect association between the valued goods
+and the qualitative characteristic—then av-
+erage S1 status differs across the two sexes
+and gender acquires second-order status.!5
+
+Combining the results obtained from in-
+spection of Tables 3 and 5 leads to statement
+of sufficient conditions for the emergence of
+$2 status: Given a perfect association be-
+tween one quantitative good and the qualita-
+tive characteristic, singly sufficient condi-
+tions for the qualitative characteristic to ac-
+quire second-order status are: (1) S1 is based
+on one good; (2) S1 is based on several per-
+fectly positively associated goods; (3) S1 is
+based on two perfectly negatively associated
+goods, and the group size is odd; (4) S1 is
+based on two perfectly negatively associated
+goods, and the subgroup split is not fifty-
+fifty.!6
+
+Note again that even in this case of per-
+fect association between one quantitative
+good and the qualitative characteristic, there
+
+15 The case of imperfect correlation between
+the quantitative and qualitative characteristics is
+an important one to analyze. Although space con-
+straints prevent such an analysis here, two things
+are worth noting: First, a priori it is obvious from
+equation 7 that the status gap will be smaller if
+the correlation is weaker; the bottom subgroup
+will include higher scorers, so to speak, and the
+top subgroup will include lower scorers, thus at-
+tenuating the status gap. Second, attenuation of
+the status gap, especially in situations of multiple
+qualitative characteristics acquiring $2, may lead
+to competition among alternative views for struc-
+turing status relations.
+
+16 Work is underway to analyze the case of two
+independent goods.
+are situations in which S2 will not arise, in-
+cluding the situation, obvious from Table 5,
+in which S1 is based on two perfectly nega-
+tively associated goods and the subgroup
+split is fifty-fifty.!7
+
+S2 IN THE SPECIAL CASE OF ONE-GOOD
+SMALL GROUPS. Consider a group of size 12
+(as in Table 3). First-order status (S1) is
+based on either one good or several posi-
+tively associated goods, there are no tied
+ranks, and the qualitative characteristic is
+binary. Next, suppose that there is a perfect
+association between the good(s) and the
+qualitative characteristic. The subgroup with
+the lowest-ranking individuals on the quan-
+titative characteristic is called the bottom
+subgroup, and the subgroup with the high-
+est-ranking individuals is called the top sub-
+group. Now imagine all possible subgroup
+splits, ranging from the case in which the
+bottom subgroup has 1 member and the top
+subgroup has 11 members to the opposite
+case in which the bottom subgroup has 11
+individuals and the top subgroup has only 1.
+
+Table 8 reports the average first-order sta-
+tus in each subgroup formed by the 11 pos-
+sible subgroup splits (with each split repre-
+sented by a row). As shown, average S1 dif-
+fers for the two subgroups in each row; for
+example, in the case of a fifty-fifty split, av-
+erage S1 is .33 in the bottom subgroup and
+1.47 in the top subgroup. Thus, this situation
+unambiguously produces second-order sta-
+tus. If, in the example just given, the quali-
+tative characteristic is gender, then gender
+acquires second-order status, and if women
+are the top subgroup and men are the bottom
+subgroup, then the magnitudes of $2 are .33
+for the category “men” and 1.47 for the cat-
+egory “women.”
+
+Table 8 also reports the S2 gap between
+the two categories of the qualitative charac-
+teristic. As shown, the second-order status
+gap increases as the relative size of the bot-
+tom subgroup increases. To illustrate, if
+women are wealthier than men, such that the
+poorest woman is richer than the richest man,
+then the $2 gap between men and women is
+lowest when there is only one man and there
+are 11 women (a gap of .89 S1 units) and it is
+highest when there are 11 men and one
+woman (a gap of 1.82 S1 units).
+
+$2 acquisition is a general process, and
+this analysis applies to any qualitative char-
+acteristic. For example, consider the status
+of academic disciplines. Suppose that a
+given interdisciplinary course enrolls first-
+year graduate students from discipline A and
+third-year graduate students from discipline
+B. If competence is valued and if it increases
+with years of study, then S2 status arises, fa-
+voring discipline B. Moreover, if the disci-
+plines differ in sex ratio and racial or ethnic
+composition, then a train of further status in-
+equalities is set in motion.
+
+S2 IN THE SPECIAL CASE OF ONE-GOOD
+LARGE SOCIETIES. Consider now S2 in
+large societies in which a binary qualitative
+characteristic is perfectly associated with the
+good(s). As in the analysis of S1 in large so-
+cieties, techniques from the study of prob-
+ability distributions make it possible to ob-
+tain many a priori results. Table 9 presents,
+as in Table 8, the S2 acquired by the two cat-
+egories of the qualitative characteristic and
+the S2 gap. As shown, and consistent with
+the previous results, in both categories, sec-
+ond-order status increases with the relative
+size of the bottom subgroup. More impor-
+tant, the second-order status gap also in-
+creases with the relative size of the bottom
+subgroup. This means, for example, that
+given a racially divided society in which two
+races are, respectively, advantaged and dis-
+advantaged on the good, the status gap will
+be substantially larger if the disadvantaged
+race constitutes 90 percent of the population
+and the advantaged race constitutes 10 per-
+cent of the population than if the disadvan-
+taged race constitutes 10 percent of the
+population and the advantaged race consti-
+tutes 90 percent of the population.
+
+To more fully appreciate the results, it is
+useful to graph S1 and S2 (average S1) for
+each subgroup split of interest. Figure 3 re-
+ports the graphs of S1 and S2 for the case in
+which the population is evenly split between
+the two categories of the binary qualitative
+characteristic. As expected, S1 increases at
+an increasing rate as relative rank increases.
+A vertical dashed line divides the population
+into the two equal-sized subgroups. Average
+first-order status is represented by horizon-
+tal lines; the two short lines are for S2 in
+each of the two subgroups, and the long line
+is for average S1 over the entire population.
+
+In this equal-split case, the two categories’
+magnitudes of second-order status are equi-
+distant from the overall average S1 of 1; and
+the S2 gap between the two categories is
+2In(2). (There are precise relations between
+each subgroup split and the S2 gap.)
+
+This kind of analysis, carried out more
+elaborately and examining the effects of all
+95 842 05 3.996 3.153
+
+ 
+
+Note: Subgroup S2 status (average $1 status) is based on S1 arising from a single valued characteristic or
+several perfectly positively associated characteristics. $1 status for representative persons in this population
+is reported in the second column of Table 7. Formulas for calculating the S2 status (average S1 status) in the
+two subgroups and the S2 status gap in this large-population case (letting p denote the relative size of the
+bottom subgroup) are:
+tus changes, is maintained, or is discarded.
+According to the framework, S2 is totally
+dependent on S1 and on the configuration of
+goods, their weights, their association with
+each other and with the qualitative charac-
+teristic. Thus, S2 cannot be directly af-
+fected; rather it is altered by altering the de-
+terminants of S1 and the association be-
+tween the goods and the qualitative charac-
+teristic.
+
+To illustrate with an example based on the
+work of Ridgeway (1991, 1997b), Ridgeway
+and Balkwell (1997), and Webster and
+Hysom (1998): Suppose that wealth is the
+valued good and that wealth is perfectly as-
+sociated with gender, such that men are
+richer than women. Wealth produces first-
+order status, and first-order status generates
+second-order status—the category “male”
+has greater S2 than the category “female.”
+Strategies to make gender shed its second-
+order status include: (1) change the S1 func-
+tion (e.g., by eliminating wealth or by intro-
+ducing a second good negatively associated
+with wealth); and (2) change the association
+between wealth and gender (e.g., by recruit-
+ing wealthy women and/or destitute men
+into the society).
+These strategies illuminate the underlying
+dynamics, pointing to a mechanism that
+may play a part in the phenomenon of “in-
+ternalized oppression” (Bourdieu 1997;
+Stanton-Salazar 1997). If women did not
+value wealth, gender would not have ac-
+quired S2. The members of the bottom sub-
+group are always in collusion, so to speak,
+with the members of the top subgroup. By
+agreeing that wealth is desirable, members
+of the bottom subgroup let wealth confer
+first-order status, and once wealth confers
+first-order status, given the association be-
+tween wealth and gender, gender acquires
+second-order status. Hence, a radical way to
+remove S2 from gender is to renounce
+wealth. The literature on utopian communi-
+ties provides trenchant insights into this
+process for removing S2 from qualitative
+characteristics. Note, however, that if
+women renounce wealth but men still value
+it, then there will be two parallel status
+structures, with men making prestige pay-
+ments on the basis of wealth (to both men
+and women) and women making prestige
+payments on the basis of something else (to
+both men and women). The ensuing wind-
+falls and shortfalls in status constitute a
+We have described the processes for produc-
+ing first-order status—which is a property of
+individuals and arises from individuals’
+quantitative characteristics, together with in-
+formation about their ranks—and for pro-
+ducing second-order status—which is a
+property of qualitative characteristics and
+arises from first-order status. Now consider
+the case in which first-order status cannot be
+produced because there is no information
+about an individual’s ranks on quantitative
+characteristics. Suppose that wealth is the
+basis of evaluation, but there is no informa-
+tion about an individual’s wealth rank. In
+this case, if the individual can be catego-
+rized with respect to a qualitative character-
+istic (e.g., can be classified as male or fe-
+male) and if there is information about the
+average S1 status in that category of the
+qualitative characteristic, then third-order
+status is produced and imputed to the indi-
+vidual. Formally:
+The S3 formula may be generalized in a
+number of ways. First, there may be infor-
+mation about average S1 status for subsets
+formed by more than one qualitative charac-
+teristic (e.g., “black women,” “white men,”
+etc.). Second, if S1 is produced by more than
+one quantitative characteristic, there may be
+separate information about average S1 sta-
+tus derived from one good in one qualitative
+characteristic and average S1 status derived
+from another good in another qualitative
+characteristic (e.g., average S1 status due to
+wealth in each category of gender and aver-
+age S1 status due to beauty in each category
+of race).
+
+There is another important process. S2,
+once produced, acquires a life of its own, so
+to speak. Even if information about the per-
+tinent quantitative characteristic(s) becomes
+available, there may be a reluctance to relin-
+quish the S2 component of S3, leading to a
+generalized version of S3, denoted $3”. For-
+mally:
+group S2 lines intersect the S1 curve. To the
+left of the intersection in each subgroup, S2
+status (average S1 status) is greater than the
+individual’s first-order status (S1), and to the
+right, S2 status (average S1 status) is smaller
+than the individual’s $1. This indicates that
+there are status gains and losses from the use
+of $2: Individuals whose S1 is lower than
+their subgroup’s S2 gain status from the use
+of S2, while individuals whose S1 is higher
+than their subgroup’s S2 lose status from the
+use of $2.18
+
+Use of S2 is a form of discrimination—
+individuals are not assessed on their indi-
+vidual S1-pertinent quantitative characteris-
+tics but rather are treated as part of a sub-
+group and their subgroup’s characteristics are
+imputed to them. Thus, there are status gains
+and losses from discrimination, and they may
+not be what one expects. That is, it would be
+reassuring to find that all members of the
+bottom subgroup suffer from discrimination
+and that all members of the top subgroup gain
+from discrimination. But the reality is more
+complex, with some individuals in the bot-
+tom subgroup gaining status from discrimi-
+nation and some individuals in the top sub-
+group losing status from discrimination.!9
+
+S3 IN THE SPECIAL CASE OF ONE-GOOD
+SMALL GROUPS. To analyze S3 in small
+groups, we return to the case of a 12-member
+group which values one good and in which
+that good is perfectly associated with a bi-
+nary qualitative characteristic. The members’
+S1 was presented in Table 3, and the sub-
+groups’ S2 was presented in Table 8. Table
+10 reports the status gains and losses from
+discrimination in each subgroup and the total
+gain and loss, for all possible subgroup splits
+from 1-11 to 11-1. For each subgroup, Table
+10 reports the Member ID numbers of those
+who gain and those who lose, and the per-
+centage of the subgroup who gain and lose.
+For example, in the 3-9 subgroup split, the
+two lowest-ranking members (Member IDs 1
+and 2) gain from discrimination and the third
+member of the bottom subgroup (Member ID
+3) loses from discrimination—within the
+subgroup, then, 67 percent gain from dis-
+crimination and 33 percent lose from dis-
+crimination. Meanwhile, in the top subgroup,
+the bottom five members gain from discrimi-
+nation and the top four lose from discrimina-
+tion; thus, within the top subgroup, 56 per-
+cent gain from discrimination and 44 percent
+lose. Looking at the group as a whole, seven
+members gain and five members lose, for to-
+tal percentages of 58 percent who gain from
+discrimination and 42 percent who lose. Of
+course, when the subgroup has only one per-
+son, as in the bottom subgroup of the 1-11
+split and the top subgroup of the 11-1 split,
+the person neither gains nor loses from dis-
+crimination; in those cases, the total gain and
+loss do not sum to 100.
+
+Table 10 shows that the majority gain
+from discrimination in all subgroup splits
+except the 8-4 (a tie) and the 11-1 (which
+has a plurality gaining from discrimination).
+If individuals care about their status, then in
+most situations the majority will want to re-
+tain $3 even if information becomes avail-
+able to generate S1.
+
+If affinities arise from similarity in inter-
+ests and if individuals care about their sta-
+tus, then there is a natural affinity between
+those members of the bottom subgroup who
+gain from discrimination and those members
+of the top subgroup who also gain from dis-
+crimination. Similarly, there is a natural af-
+finity between those members of the bottom
+subgroup who lose from discrimination and
+those members of the top subgroup who also
+lose. Accordingly, the stage is set for coali-
+tions to form. These coalitions have the in-
+teresting property that proponents of dis-
+crimination are drawn from among the least
+advantaged of each subgroup, while oppo-
+nents of discrimination are drawn from
+among the most advantaged of each sub-
+group (regardless of the summary measure
+of S1 underlying S2). Thus, if the quantita-
+tive characteristic which confers S1 status is
+correlated with political skill, then oppo-
+nents of discrimination—although almost al-
+ways outnumbered—may by cunning win
+the day.
+S3 IN THE SPECIAL CASE OF LARGE SO-
+cleTIES. Next we analyze the status gains
+and losses from discrimination in large soci-
+eties which value one good or several posi-
+tively associated goods. $1 in such societies
+was reported in Table 7, and S2 in Table 9.
+Table 11 indicates that, for every subgroup
+split, majorities of both the bottom and top
+subgroups gain from discrimination. The
+sizes of these majorities differ between bot-
+tom and top subgroups and across the sub-
+group split. While in the top subgroup, the
+percentages who gain and lose are constant
+across all subgroup splits—63 percent al-
+ways gain and 37 percent always lose—in
+the bottom subgroup, the percentage who
+gain increases with the relative size of the
+bottom subgroup, and the percentage who
+lose decreases.?°
+To flesh out Table 11, suppose that the
+bottom subgroup (or its leadership) decides
+to fight against discrimination and the top
+subgroup (or its leadership) decides to fight
+for discrimination. Both the bottom and top
+subgroups are vulnerable to defections; that
+is, members may disagree with the leader-
+ship and refuse to participate in the fight or
+even sabotage it. The figures in Table 11
+quantify the danger of defection. In the bot-
+tom subgroup, those who gain from dis-
+crimination are at risk of defecting; and in
+the top subgroup, those who lose from dis-
+crimination are at risk of defecting. Accord-
+ingly, while the top subgroup has a constant
+risk of defecting of approximately 37 per-
+cent of the membership, the bottom sub-
+group has a larger subset at risk of defect-
+ing—the lowest subset at risk of defecting is
+over half (50.2 percent in the .05 subgroup
+split)—and the subset at risk increases with
+the subgroup’s relative size.
+
+Thus, the bottom subgroup is more diffi-
+cult to discipline (to prevent defections) than
+is the top subgroup. And the difficulty in-
+creases as the bottom subgroup increases in
+relative size.
+Although the subgroup-specific patterns
+are monotonic (or constant, as in the top sub-
+group), they combine to form totals which
+are nonmonotonic. As shown in Table 11, the
+overall percentage who gain first decreases
+as the relative size of the bottom subgroup
+increases, then when the bottom subgroup
+contains approximately 70 percent of the
+population, the overall percentage who gain
+begins to increase. Meanwhile, the overall
+percentage who lose first increases, then,
+when the bottom subgroup contains approxi-
+mately 70 percent of the population—mir-
+roring the pattern among the percentage who
+gain—the percentage who lose begins to de-
+crease. However, although the percentages
+who gain and lose vary, a majority always
+gains. Thus, in a contest adjudicated by ma-
+jority rule, and in which everyone voted and
+everyone voted for the platform under which
+their own status would be highest, discrimi-
+nation would win.
+
+However, as noted above, the proponents
+of discrimination are drawn from the bottom
+ranks of each subgroup, while the opponents
+of discrimination are drawn from the top
+ranks of each subgroup. Thus, if the status-
+conferring quantitative characteristic is cor-
+related with political skill, then opponents of
+discrimination—though always outnum-
+bered—may be able to snatch victory.
+
+A different way to approach these results
+is to assess the sources of support for and
+opposition to discrimination. Table 12 pre-
+sents, separately for the subset who gain sta-
+tus from discrimination and presumably sup-
+port it and the subset who lose status from
+discrimination and presumably oppose it, the
+percentage drawn from the bottom subgroup
+and the percentage drawn from the top sub-
+group. The percentages from the bottom and
+top subgroups sum to one. For example, in
+the case where 25 percent of the population
+is in the bottom subgroup (the fifth row),
+support for discrimination relies heavily on
+the top subgroup, which constitutes 78.7 of
+its base; concomitantly, opposition to dis-
+crimination also relies heavily on the top
+subgroup, which provides 69.3 percent of its
+constituency.
+
+The sources of support and opposition to
+discrimination operate monotonically. As the
+percentage in the bottom subgroup in-
+creases, the percentages of both the support
+and opposition constituencies drawn from
+the bottom subgroup increase, and the per-
+centages drawn from the top subgroup de-
+crease.
+A final way to examine the status gains
+and losses from discrimination is to graph
+the proportions of the entire population
+who are in each of the four subsets (those
+who gain and are in the bottom subgroup,
+those who lose and are in the bottom sub-
+group, those who gain and are in the top
+subgroup, and those who lose and are in
+the top subgroup) as a function of the rela-
+tive size of the bottom subgroup. Figure 4
+presents these plots. As shown, the two
+subsets from the top subgroup decrease lin-
+early, the gain subset from the bottom sub-
+group increases nonlinearly, and the loss
+subset from the bottom subgroup increases
+throughout most of the range but then
+shifts direction (at a subgroup split of ap-
+proximately .955).
+Because the proportions in the four sub-
+sets sum to one, Figure 4 enables assessment
+of which sets dominate, by population split.
+For example, in societies in which the pro-
+portion in the bottom subgroup is less than a
+little over half, the largest subset in the soci-
+ety is the one composed of top-subgroup
+members who gain from discrimination.
+Similarly, at the point where the top-gain
+and bottom-gain subsets intersect (i.e., when
+the proportion in the bottom subgroup is a
+little over half), the two subsets (top-gain
+and bottom-gain) are of equal size.
+
+It is especially interesting to examine Fig-
+ure 4 at the points corresponding to an equal
+population split. As shown, the smallest sub-
+set consists of individuals from the top sub-
+group who lose from discrimination (18 per-
+cent), and the largest subset consists of indi-
+viduals from the top subgroup who gain from
+discrimination (32 percent); the two subsets
+from the bottom subgroup occupy intermedi-
+ate places (26 percent in the bottom-gain sub-
+set and 24 percent in the bottom-lose sub-
+set). Given that the gender split is approxi-
+mately fifty-fifty, it would be useful to reex-
+amine data generated by experiments on gen-
+der and status in light of these results.
+Third-order status arises because of the lack
+of information on quantitative personal char-
+acteristics; but provision of such information
+does not guarantee its elimination. Nonethe-
+less, provision of the information may be
+useful in eliminating S3—for those who
+wish to eliminate it. Perhaps the most in-
+triguing result is that some members of the
+disadvantaged subgroup gain from discrimi-
+nation, suggesting another mechanism pro-
+ducing and maintaining “internalized op-
+pression” (Bourdieu 1997; Ridgeway 1997a:
+222; Stanton-Salazar 1997). Thus, devising
+strategies to change S3 entails devising strat-
+egies for all actors.
+
+Those who gain status from discrimination
+have as their objective to maintain S3 as a
+function exclusively of $2; introducing S1,
+even mildly weighted, diminishes their sta-
+tus. Accordingly, a useful strategy for them
+is to, first, prevent the free flow of informa-
+tion, second, discount the information or dis-
+pute its accuracy, and, third, make arguments
+for ignoring individual characteristics and
+focusing instead on subgroup membership or
+other communal considerations. Because
+S3 status provides fertile ground for sub-
+stantial further theorizing. One avenue in-
+volves the effects of status processes on
+identity phenomena. Suppose that activation
+of a subgroup identity produces status gains
+and losses, exactly as in the analysis of dis-
+crimination. Then, among other things, two
+ceteris paribus implications follow: First, in
+self-report surveys, the higher-ranking in
+each subgroup formed by a qualitative char-
+acteristic (such as race or ethnicity) will be
+less likely to answer subgroup-identification
+questions; thus, average schooling, skills,
+and income will be underestimated in all
+subgroups. Second, in face-to-face inter-
+views, if interviewer characteristics or be-
+havior activate subgroup identity, there will
+be a tendency for higher-ranking prospec-
+tive respondents to decline to participate in
+the survey; thus, nonresponse will be dis-
+proportionately greater among persons with
+higher schooling, skill, and income.
+
+Finally, suppose that the cross-subgroup
+coalitions discussed above lead to formation
+of political parties—an “individualistic”
+party comprising those who lose from dis-
+crimination (or from subgroup identifica-
+This paper presented an integrated frame-
+work for studying status. The framework
+combines ideas and insights from several lit-
+eratures in order to address long-standing,
+unresolved issues in status research, such as:
+(1) the emergence of status; (2) how to dis-
+tinguish between, and measure, the status of
+individuals and the status of characteristics;
+(3) how to measure and understand the sta-
+tus gap between subgroups (e.g., between
+men and women, or between races); and (4)
+how to distinguish the operation of quantita-
+tive and qualitative characteristics in the
+production of status.
+
+By identifying three distinct types of sta-
+tus and linking them in distinctive ways to
+quantitative and qualitative characteristics,
+the framework makes it possible to analyze
+a wide variety of status phenomena in a
+broad range of groups and societies.
+
+The new status theory yields many test-
+able implications and, based on the work to
+date, appears capable of yielding many
+more implications beyond the ones pre-
+sented here. The initial set includes impli-
+cations for the effects of (1) the number and
+intercorrelation of personal characteristics,
+(2) the availability of information about
+personal characteristics, and (3) the propor-
+tions of a group in each category of a quali-
+tative characteristic. The derived implica-
+tions cover such phenomena as status dif-
+ferences between group members, status
+gaps between subgroups, and overall in-
+equality in the status structure, all under
+varying conditions. For example, the analy-
+ses suggest that under certain given condi-
+tions: (1) status inequality is lower if the
+valued goods are negatively correlated; (2)
+in a two-subgroup society, the least advan-
+taged from both subgroups gain status from
+discrimination, and the most advantaged
+from both subgroups lose status from dis-
+crimination, leading to cross-subgroup
+coalitions; (3) the status gap between two
+subgroups increases with the relative size of
+the disadvantaged subgroup; (4) when two
+subgroups are fighting for and against dis-
+crimination, it is more difficult to prevent
+defections in the bottom subgroup than in
+the top subgroup; and (5) opponents of dis-
+crimination are outnumbered.
+
+The new framework for status analysis
+opens many avenues for future work—refin-
+ing the basic status functions, building theo-
+ries and deriving more and sharper implica-
+tions, and testing the implications and using
+the new measures for the status of persons
+and the status of characteristics to assess key
+status phenomena and their correlates in sur-
+veys and experiments.
+
+Ahead, a further integration looms on the
+horizon. The status analyzed here refers to
+evaluations of the worth of individuals and
+characteristics (footnote 1). This kind of
+status is related to the other major kind of
+status of interest in social science—the
+“status” in status attainment (Sewell and
+Hauser 1972, 1992)—in that the status in
+status attainment consists of the character-
+istics which confer the evaluation kind of
+status. Ultimately, this evaluation status
+Guillermina Jasso is Professor of Sociology at
+New York University. Recent work includes:
+“Trends in the Experience of Injustice” (Social
+Justice Research, 2000), “The Changing Skill of
+New Immigrants to the United States” (with M.
+R. Rosenzweig and J. P. Smith, in Issues in the
+Economics of Immigration, edited by G. J.
+Borjas, University of Chicago Press, 2000),
+“Some of Robert K. Merton’s Contributions to
+Justice Theory” (Sociological Theory, 2000),
+“The New Immigrant Survey Pilot (NIS-P)” (with
+D. S. Massey, M. R. Rosenzweig, and J. P. Smith,
+Demography, 2000), “How I Became a Theo-
+rist,” (Sociological Theory, 2000), “Assortative
+Mating among Married New Legal Immigrants to
+the United States” (with D. S. Massey, M. R.
+Rosenzweig, and J. P. Smith, International Mi-
+gration Review, 2000), and “Rule Finding about
+Rule Making: Comparison Processes and the
+Making of Norms” (in Social Norms, edited by
+M. Hechter and K.-D. Opp, Russell Sage, 2001).
+Bales, Robert Freed. 1999. Social Interaction
+Systems: Theory and Measurement. New
+Brunswick, NJ, and London, England: Trans-
+action.
+
+Barber, Bernard. 1968. “Stratification, Social:
+Introduction.” Pp. 288-96 in International En-
+cyclopedia of the Social Sciences, vol. 15, ed-
+ited by D. L. Sills. New York: Macmillan.
+
+Berger, Joseph, Hamit Fisek, Robert Norman,
+and Morris Zelditch. 1977. Status Character-
+istics and Social Interaction: An Expectation
+States Approach. New York: Elsevier.
+
+Berger, Joseph, Cecilia Ridgeway, M. Hamit
+Fisek, and Robert Z. Norman. 1998. “The Le-
+gitimation and Delegitimation of Power and
+Prestige Orders.” American Sociological Re-
+view 63:379-405S.
+
+Berger, Joseph, Susan J. Rosenholtz, and Morris
+Zelditch. 1980. “Status Organizing Processes.”
+Annual Review of Sociology 6:479-508.
+
+Blau, Peter M. 1977. Inequality and Heterogene-
+ity. New York: Free Press.
+
+Bourdieu, Pierre. 1997. “Masculine Domination
+Revisited.” The Goffman Prize Lecture. Trans-
+lated and edited by Loic Wacquant. Berkeley
+Journal of Sociology 41:189-203.
+
+Fararo, Thomas J. 1989. The Meaning of General
+Theoretical Sociology: Tradition and Formal-
+ization. Cambridge, England: Cambridge Uni-
+versity Press.
+
+Friedkin, Noah E. 1998. A Structural Theory of
+Social Influence. Cambridge, England: Cam-
+bridge University Press.
+
+Goode, William J. 1978. The Celebration of He-
+roes: Prestige as a Control System. Berkeley,
+CA: University of California Press.
+
+Homans, George C. 1967. “Fundamental Social
+Processes.” Pp. 27-78 in Sociology: An Intro-
+duction, edited by N. J. Smelser. New York:
+Wiley.
+
+Lipset, Seymour Martin. 1968. “Stratification,
+Social: Social Class.” Pp. 296-316 in Interna-
+tional Encyclopedia of the Social Sciences,
+vol. 15, edited by D. L. Sills. New York:
+Macmillan.
+
+Marmot, Michael. 2000. “Multilevel Approaches
+to Understanding Social Determinants.” Pp.
+349-67 in Social Epidemiology, edited by L.
+F. Berkman and I. Kawachi. Oxford, England:
+Oxford University Press.
+
+Merton, Robert K. [1949, 1957] 1968. Social
+Theory and Social Structure. 1968. Enlarged
+ed. New York: Free Press.
+
+Nagourney, Adam and David Barstow. 2000.
+“G.O.P.’s Depth Outdid Gore’s Team in
+Florida.” The New York Times, December 22,
+2000, pp. Al, A29. (www.nytimes.com)
+
+Parsons, Talcott. [1949] 1964. Essays in Socio-
+logical Theory. Rev. ed. New York: Free
+Press.
+
+Ridgeway, Cecilia L. 1991. “The Social Con-
+struction of Status Value: Gender and Other
+Nominal Characteristics.” Social Forces 70:
+367-86.
+
+. 1997a. “The Conservation of Gender In-
+
+equality.” American Sociological Review 62:
+
+218-35.
+
+. 1997b. “Where Do Status-Value Beliefs
+Come From? New Developments.” Pp. 137-58
+in Status, Networks, and Structure, edited by
+J. Szmatka, J. Skvoretz, and J. Berger.
+Stanford, CA: Stanford University Press.
+
+Ridgeway, Cecilia L. and James Balkwell. 1997.
+“Group Processes and the Diffusion of Status-
+Beliefs.” Social Psychology Quarterly 60:14—
+31.
+
+Rossi, Peter H. 1979. “Vignette Analysis: Uncov-
+ering the Normative Structure of Complex
+Judgments.” Pp. 176-86 in Qualitative and
+Quantitative Social Research: Papers in
+Honor of Paul F. Lazarsfeld, edited by R. K.
+Merton, J. S. Coleman, and P. H. Rossi. New
+York: Free Press.
+
+Sapolsky, Robert. 1993. “Endocrinology Al-
+fresco: Psychoendocrine Studies of Wild Ba-
+boons.” Recent Progress in Hormone Research
+48:437-68.
+
+Sewell, William H. and Robert M. Hauser. 1972.
+Education, Occupation, and Earnings:
+Achievement in the Early Career. New York:
+Academic.
+
+. 1992. “A Review of the Wisconsin Lon-
+gitudinal Study of Social and Psychological
+Factors in Aspirations and Achievements,
+1963-1990.” Working Paper 92-01, Center for
+Demography and Ecology, University of Wis-
+consin, Madison.
+
+Sgrensen, Aage B. 1979. “A Model and a Metric
+for the Analysis of the Intragenerational Sta-
+tus Attainment Process.” American Journal of
+Sociology 85:361-84.
+
+Skvoretz, John and Thomas J. Fararo. 1996. “Sta-
+tus and Participation in Task Groups: A Dy-
+namic Network Model.” American Journal of
+Sociology 101:1366-1414.
+
+Smith, James P. 1999. “Healthy Bodies and
+Thick Wallets: The Dual Relation between
+Health and Economic Status.” Journal of Eco-
+nomic Perspectives 13:145-66.
+
+Stanton-Salazar, Ricardo D. 1997. “A Social
+Capital Framework for Understanding the So-
+cialization of Racial Minority Children and
+Youths.” Harvard Educational Review 67:1—
+40.
+
+Stinchcombe, Arthur L. 1968. “Stratification, So-
+cial: The Structure of Stratification Systems.”
+Pp. 325-32 in International Encyclopedia of
+the Social Sciences, vol. 15, edited by D. L.
+Sills. New York: Macmillan.
+
+Stuart, Alan and J. Keith Ord. 1987. Kendall’s
+Advanced Theory of Statistics. Vol. 1, Distri-
+bution Theory. 5th ed. Originally authored by
+Sir Maurice Kendall. New York: Oxford Uni-
+versity Press.
+
+Turner, Jonathan H. 1984. Societal Stratification:
+A Theoretical Analysis. New York: Columbia
+University Press.
+
+. 1995. Macrodynamics: Toward a Theory
+on the Organization of Human Populations.
+ASA Rose Monograph Series. New Bruns-
+wick, NJ: Rutgers University Press.
+
+Veblen, Thorstein. [1899] 1953. The Theory of
+the Leisure Class: An Economic Study of Insti-
+tution. Rev. ed. Reprint, New York: New
+American Library.
+
+Wagner, David G. and Joseph Berger. 1993.
+“Status Characteristics Theory: The Growth of
+a Program.” Pp. 23-63 in Theoretical Re-
+search Programs: Studies in the Growth of
+Theory, edited by J. Berger and M. Zelditch Jr.
+Stanford, CA: Stanford University Press.
+
+Weber, Max. [1922] 1978. Economy and Soci-
+ety: An Outline of Interpretive Sociology.
+Translated and edited by G. Roth and C.
+Wittich. Berkeley, CA: University of Califor-
+nia Press.
+
+Webster, Murray, Jr. and Stuart J. Hysom. 1998.
+“Creating Status Characteristics.” American
+Sociological Review 63:351-78.
+
+Wilkenson, Richard G. 1996. Unhealthy Societ-
+ies: The Afflictions of Inequality. London, En-
+gland: Routledge.
+
+Zelditch, Morris, Jr. 1968. “Status, Social.” Pp.
+250-57 in International Encyclopedia of the
+Social Sciences, vol. 15, edited by D. L. Sills.
+New York: Macmillan.

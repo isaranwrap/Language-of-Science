@@ -1,0 +1,1660 @@
+Men and Women at Work: Sex Segregation and Statistical Discrimination
+Author(s): William T. Bielby and James N. Baron
+
+Source: American Journal of Sociology, Vol. 91, No. 4 (Tan., 1986), pp. 759-799
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2779958
+
+Accessed: 08-06-2016 03:42 UTC
+This article develops and tests hypotheses about the determinants of
+sex segregation in occupations employing both men and women,
+analyzing data on a diverse sample of California establishments. In
+the few instances in which men and women perform similar work
+roles, the jobs are typically done in distinct organizational settings,
+and when an enterprise employs both sexes in the same occupation,
+men and women are usually assigned different job titles. The
+findings are consistent with the theory of statistical discrimination,
+which posits that employers reserve some jobs for men and others
+for women. However, little evidence is found that employers’ prac-
+tices reflect efficient and rational responses to sex differences in
+skills and turnover costs. Alternative explanations for gender segre-
+gation within and among organizations are suggested and the re-
+search necessary to develop a more accurate account of the sexual
+division of labor in the workplace is outlined.
+pervasive and resistant to change (in the short run, at least) and thus seek
+to achieve pay equity by recalibrating the value of jobs women now
+perform. Policies emphasizing improved educational and training oppor-
+tunities for women, in contrast, involve quite different assumptions about
+the sources of segregated work.
+
+Though the sexual division of labor may not be inevitable, it is cer-
+tainly persistent. Recent research has shown that the level of occupational
+sex segregation has changed very little since 1900, despite changes in the
+sex composition of specific occupations (England 1981). Roughly 60%-
+70% of male (or female) workers would require reclassification across
+detailed occupations to equalize the sexual division of labor, although this
+percentage has declined somewhat over the past 20 years (Blau and Hen-
+dricks 1979; Beller 1984). While this result implies that the occupational
+structure is divided substantially along gender lines, it also shows that
+occupational specialization by sex is far from complete. During any given
+period, there are numerous occupations in which the sex composition is
+balanced.
+
+However, a recent study at the organizational level (Bielby and Baron
+1984) portrayed sex segregation as much more pervasive than did previ-
+ous occupation-level research, showing that men and women rarely share
+job titles within establishments. Our present article seeks to reconcile
+those results with findings based on census occupational data. We show
+that men and women in the same census occupation are sorted into dis-
+tinct organizations or are segregated by job titles within work settings.
+One set of explanations for this segregation stresses the optimal choices of
+employees and employers, sex differences in skills, and the technical
+requirements of work roles. These factors, it is argued, not only produce a
+sexual division of labor across occupations but also channel women into
+specific types of organizations or job classifications, even within occupa-
+tional roles performed by both sexes. The first section of the article sum-
+marizes this explanation for sex segregation. The perspective is oper-
+ationalized with a statistical model that predicts the sex composition of
+particular jobs within occupations employing both men and women. Hy-
+potheses about the parameters of that model are tested with data from a
+diverse sample of work organizations in California.
+
+Analyzing segregation within lines of work pursued by both men and
+women reduces the impact of socialization, occupational choice, and
+“supply-side” factors in general. That women are either pushed or pulled
+into a narrow range of occupations is well documented, although the
+causes of this “crowding” are still debated (Bergmann 1974; Polachek
+1979; England 1982). We do not attempt here to explain differences in the
+occupational distributions of men and women. Instead, we examine areas
+IS ORGANIZATIONAL SEX SEGREGATION “EFFICIENT”? THE
+STATISTICAL DISCRIMINATION PERSPECTIVE
+
+No doubt sex differences in labor supply account for some of the segrega-
+tion we observe, even within mixed occupations. That is, sex-based work
+role specialization could exist, even within narrowly defined lines of
+work. For example, women bus drivers may choose employment with
+school districts because of the attractiveness of part-time work. Met-
+ropolitan and intercity bus lines may offer more lucrative compensation,
+but such benefits may not outweigh the disadvantage of longer hours to
+women burdened with child care and other household responsibilities.
+However, supply-side factors cannot fully account for the nearly com-
+plete segregation we document below. There is too much overlap between
+the sexes in the distribution of job-relevant skills and aptitudes for sex
+differences to account for near-complete segregation within and across
+organizations (Marini and Brinton 1984). Indeed, whatever sex differ-
+ences in skills exist within representative samples of adults are likely to be
+much weaker among the select group of men and women in the same
+detailed occupation (Deaux 1985).
+
+The model of statistical discrimination offers a compelling explanation
+for the existence of extreme segregation despite considerable overlap be-
+tween the sexes in workers’ attributes (Phelps 1972; Arrow 1973; Thurow
+1975; Aigner and Cain 1977; Blau 1984). The model assumes employers
+perceive that on average the marginal productivity of men and of women
+differ for a given line of work. For example, within a specific occupation,
+women may be more likely to quit their jobs. If an employer incurs
+significant turnover costs due to the expense of finding and training new
+employees, the expected net contribution of the average female job appli-
+cant is less than that of an otherwise comparable male applicant. The
+model also assumes that it is unduly costly to ascertain these differences
+among individual male and female job applicants. For example, employ-
+ers may be unable to devise any procedure for screening individual appli-
+cants with respect to quit propensity or work commitment.
+
+Given these assumptions, profit-maximizing employers will reserve
+jobs with high replacement costs for the group with the greater expected
+productivity. Group differences may in fact be small relative to variation
+within groups; there may be many female applicants with lower quit
+propensities and greater work commitment than the average male appli-
+cant. But if employers are unable to obtain this information for individual
+applicants, expected profits are maximized by segregating workers by
+sex. Females will be allocated to jobs with low turnover costs. Conse-
+quently, economically efficient behavior by employers who face uncertain
+information about applicants can lead to extreme sex segregation across
+and within organizations, corresponding to differences in the average
+expected net productivity of male and female job applicants. Even when
+women fill the same occupational roles as men, they are likely to be
+concentrated in less demanding jobs or firms, where the turnover costs
+are lower. Moreover, statistical discrimination produces inequities be-
+tween men and women in wages and other career outcomes. Qualified,
+highly committed women obtain work assignments with lower pay and
+few opportunities for on-the-job investments in productivity-enhancing
+skills, which limits future wages as well. Conversely, men with weak
+work commitment are posited to receive the same favorable work assign-
+ments as the average male.
+
+The model of statistical discrimination avoids invoking bias, prejudice,
+or “tastes” for discrimination, so long as employers’ perceptions of group
+differences are accurate. In fact, economists argue that segregation would
+not persist if employers’ beliefs were incorrect, since employers not shar-
+ing those beliefs would gain a competitive advantage by hiring women to
+perform tasks from which they are excluded in rival firms (Arrow 1973;
+Aigner and Cain 1977). However, empirical evidence on sex differences
+in turnover behavior is mixed. Recent studies show that quit rates are
+indeed higher overall for women than for men but that these differences
+disappear when worker, labor market, and job characteristics are con-
+trolled (Viscusi 1980; Blau and Kahn 1981; Osterman 1982; Haber,
+Lamas, and Green 1983; Shorey 1983). In other words, turnover behavior
+differs little among women and men with comparable human capital and
+job responsibilities.
+
+We have highlighted explanations of segregation based on skill differ-
+ences and rational employer responses to uncertainty for several reasons.
+First, as noted above, we have already documented near-complete segre-
+gation at the level of job assignments within organizations (Bielby and
+Baron 1984), and the model of statistical discrimination purports to ac-
+count for such findings. Second, that model is based largely on untested
+assumptions about the technical features of jobs and firms staffed by men
+versus women. Our data, based on detailed information about jobs in
+diverse organizations, are well suited for testing these assumptions.
+Third, alternative explanations of segregation emphasize subjective at-
+titudes and intentions of employers and workers on the one hand and
+power relations among men and women on the other hand. Comparative
+information across organizations on those dimensions is difficult to
+obtain, and our data in these areas are qualitative and suggestive at
+best. Finally, the idea that workplace inequality reflects individual
+choices, technical demands, and optimal decision making figures promi-
+nently in economics, as well as in public opinion and social policy. It
+implies a particular set of remedies for gender inequality, namely,
+encouraging female workers to invest in certain vocational skills and pro-
+viding accurate information to employers about the labor market be-
+havior of men and women. The validity of such policies depends on
+whether there is empirical evidence of the optimality of existing arrange-
+ments.
+
+In other words, many sociological and economic theories take for
+granted either the truth or falsity of the view that sex segregation arises
+from employers’ satisficing behavior. However, we know of few studies
+that examine how consistent employers’ hiring practices and staffing pat-
+terns are with the predictions of the statistical discrimination framework.
+Consequently, we develop hypotheses from that approach, examining the
+extent to which sex segregation within mixed occupations reflects: (a)
+differences (perceived or real) in the traits and abilities of female versus
+male workers and (b) differences in turnover costs confronting employers.
+Our analyses clearly do not represent a definitive “test” of rational ac-
+counts of segregation. They do, however, allow us to assess the extent to
+which workers and employers act as if those accounts are correct, based
+on the allocation of men and women within mixed occupations to specific
+establishments and job titles. The next section describes our data, hy-
+potheses, and statistical model. We then present findings on the extent
+and determinants of sex segregation within and across organizations.
+First, we describe how occupation-level studies of segregation obscure the
+sexual division of labor by overlooking segregation within and across
+organizations, even within occupations that appear integrated. Then we
+report results from our statistical models that operationalize the efficiency
+accounts of segregation reviewed above. The concluding section consid-
+ers alternatives to the efficiency-based account of sex segregation and
+suggests avenues for further research.
+DATA AND METHODS
+
+Our data on the sex composition of mixed occupations were collected in
+290 economic establishments in California between 1964 and 1979 by the
+California Occupational Analysis Field Center of the U.S. Employment
+Service.’ This information is used primarily in preparing the Dictionary
+of Occupational Titles (hereafter, DOT). Over half the establishments are
+independent businesses; the rest are branches, regional divisions, sub-
+sidiaries, or production sites. Although the establishments do not consti-
+tute a probability sample from a distinct population, they reflect the
+diversity of California’s work settings. Industries represented include ag-
+riculture, aircraft manufacturing, electronics manufacturing, banking,
+food processing, public utilities, eating and drinking places, hotels, and
+medical services (among many others). Manufacturing establishments are
+overrepresented, and major California industries not represented include
+construction trades, trucking, department stores, insurance carriers, and
+miscellaneous business services (see Baron 1982, chaps. 2, 3; Bielby and
+Baron 1984).* About 40,000 males and 11,000 females are employed in
+over 10,000 official job titles in the 290 establishments in our sample.
+most restaurants employ either male waiters or female waitresses, but it is
+unusual to find both in the same enterprise. Such patterns presumably
+reflect differences among organizations in employment and reward prac-
+tices, work arrangements, and labor supply, and these differences often
+contribute to very different career prospects for men and women in the
+same occupation. Second, men and women can do equivalent work
+within an organization but hold distinct job titles. For example, male
+“operatives” and female “assemblers” in separate departments of a manu-
+facturing establishment may do virtually identical work, although their
+similar duties may not be reflected in their paychecks or statuses. In
+short, empirical research must attend to two distinct phenomena: segre-
+gation among organizations, arising from gender-based differentiation of
+occupational labor markets across enterprises, and segregation within
+organizations, sustained by a differentiation of positions held by men and
+women in the same setting. It is important to know how much our under-
+standing of sex segregation is obscured by studies at different levels of
+occupational detail.
+
+Major occupational groups. —Government agencies that monitor com-
+pliance with EEO regulations do collect data on the sex composition of
+jobs in specific enterprises. However, government monitoring efforts are
+based almost exclusively on measures of sex composition across highly
+aggregated occupational groups. The EEOC requires private employers
+to report employment in nine categories: officials and managers, profes-
+sionals, technicians, sales workers, office and clerical workers, skilled
+craft workers, semiskilled operatives, unskilled laborers, and service
+workers (U.S. EEOC 1982). It is therefore of interest to determine how
+much gender segregation is obscured by the highly aggregated scheme
+used to monitor trends. Five of the nine EEOC categories can be readily
+reconstructed from the DOT, but it is sometimes difficult to distinguish
+professionals from technicians and semiskilled from unskilled laborers.
+Consequently, we collapsed those categories to obtain seven major
+groups. Males tend to be overrepresented in each of the two major groups
+we combined (U.S. EEOC 1977) and therefore our measures of segrega-
+tion across seven major groups should be comparable with those com-
+puted from the nine-group EEOC classification scheme.
+
+Detailed occupational categories.—Because the three-digit DOT
+classification scheme used by the Employment Service differs consider-
+ably from that of the Census Bureau (Cain and Treiman 1981), we have
+taken two steps to improve comparability. First, unlike the Census
+Bureau, the DOT does not distinguish between skilled craft workers and
+operatives in manual occupations. Consequently, we divided each three-
+digit DOT production classification into skilled and unskilled categories
+on the basis of the DOT index of worker involvement with things.*
+Within a three-digit manual category, job titles having a rating of zero,
+one, or two (the three highest levels of technical complexity) constituted
+the skilled subcategory, and all others represented semiskilled or un-
+skilled jobs.
+
+Second, several three-digit DOT categories are based primarily on in-
+dustrial distinctions. As a result, some DOT production classifications
+actually include both manual and nonmanual work; for instance, “miscel-
+laneous transportation occupations, not elsewhere classified” includes
+both ticket agents and truck drivers. After examining six-digit production
+occupations in the third edition of the DOT, we discovered that titles
+having simple involvements with things (complexity ratings of three to
+seven) and moderate to high ratings on complexity with data (zero to four)
+are almost always nonmanual occupations. Therefore, manual and non-
+manual subcategories of three-digit titles were constructed accordingly.*
+These two modifications of the DOT three-digit classification increased
+the number of detailed categories in our sample from 455 to 645. Since
+our scheme is more detailed than the Census Bureau three-digit taxonomy
+(which included aboui 450 categories in 1970), segregation levels com-
+puted across the more detailed categories will be somewhat higher as
+well.
+
+The first set of empirical analyses we report assesses aggregation biases
+in occupational measures of segregation. We compute indices of segrega-
+tion across: (a) the seven major occupational groups, (b) our 645 detailed
+occupational categories, and (c) establishment job titles. Our measure of
+segregation is the index of dissimilarity—the percentage of female (or
+male) workers that would have to be reclassified to equalize the distribu-
+tions of work roles by sex (Duncan and Duncan 1955).
+Sex Composition of Jobs in Mixed Occupations
+
+The second set of analyses attempts to account for variation in the sex
+composition of jobs in “mixed” occupations. For our purposes, a detailed
+occupational category is “mixed” if males account for no less than 20% of
+employment (in our sample) and no more than 80%.° Of 645 detailed
+occupational categories, only 84 were mixed according to this criterion,
+accounting for 24% of employment in our 290 establishments.’
+
+Since we are interested in the determinants of segregation across and
+within organizations, we partition the sex composition of a job into two
+components. We denote the percentage female in the ith job in occupa-
+tion j within establishment k as p;;,. Averaging over jobs in one establish-
+ment yields p;, and over jobs and establishments gives p,.. The sex
+composition of jobs within a given occupation can be partitioned into the
+sum of within- and between-establishment components:
+
+(ijk — D5.) = yr — Dir) + Ose — Pz).
+
+Below we test hypotheses about characteristics of jobs and organizational
+context that explain why some establishments employ men while others
+employ women in the same mixed occupation. That is, we account for
+variation in the between-establishment component: (p ,, — ~,;). We also
+examine why a given establishment assigns men to some job clas-
+sifications and women to others within the same detailed occupation.
+That is, we examine variation in the within-establishment component,
+(Dijk — P jk).
+
+For example, over 2,000 workers in our sample are employed in the
+classification “packaging occupations,” and about 55% are women, giv-
+ing the appearance of an integrated line of work. The workers are distrib-
+uted across 106 establishments, and our analysis seeks to explain why
+some of those organizations employ mostly (or exclusively) male pack-
+agers while others rely on women. Twenty-eight of those establishments
+Determinants of Sex Composition of Jobs in Mixed Occupations:
+Hypotheses and Operationalization
+
+Table 1 lists attributes of organizations and jobs that are hypothesized to
+affect the sex composition of jobs in mixed occupations, according to the
+efficiency-based accounts of sex segregation outlined above. Collectively,
+these measures index the turnover costs, training requirements, and tech-
+nical features of work roles that are assumed to influence staffing deci-
+sions by employers and employees. Although some are more direct mea-
+sures of theoretically relevant dimensions than others, there is ample
+precedent in previous research for including each measure in table 1 in
+our statistical model. Descriptive statistics are reported in table 2.
+
+Organizational context.—Large organizations typically have formal
+job ladders and other personnel procedures that facilitate on-the-job
+training and reduce turnover costs. Oi argues: “The initial fixed invest-
+ments in recruiting and training employees are likely to be greater in large
+firms for two reasons. First, smaller firms with shorter, uncertain lives
+have less opportunity to capture the returns. Second, training yields
+higher returns when workers must be taught to conform with prescribed
+production methods. Large firms are thus provided with more incentives
+to design pay and personnel policies which can reduce labor turnover,
+thereby increasing the returns to firm-specific human capital” (1983, p.
+150). Empirical results on the relationship between establishment size,
+job tenure, and personnel practices support Oi’s contention (Bielby and
+Baron 1983; Oi 1983; Barth, Cordes, and Haber 1984; Pfeffer and Cohen
+1984; Wholey 1984). Consequently, the efficiency-based perspective sug-
+gests that within mixed occupations, women typically find employment in
+organizations operating on a smaller scale. We measure scale (z,) as the
+natural logarithm of total establishment employment.
+
+Williamson (1981) argues that formal governance structures regulating
+the employment relationship are implemented to economize on the cost of
+turnover and job-specific training. Accordingly, we expect women in
+mixed occupations to be underrepresented in organizations covered by a
+union contract or formal job posting and bidding procedures. A binary
+variable (z2) denotes the presence of such arrangements.
+
+When production technology creates interdependence among workers,
+they are less likely to be interchangeable and the costs of replacing work-
+ers who quit should be higher. Such interdependence is characteristic of
+TABLE 1
+
+HYPOTHESIZED RELATIONSHIPS BETWEEN JOB CHARACTERISTICS, ORGANIZATIONAL
+CONTEXT, AND PERCENTAGE FEMALE IN JoBS IN MIXED OCCUPATIONS
+
+ 
+
+ 
+
+Hypothesized Effect
+Independent Variable Description on % Female
+
+ 
+
+Organizational context:
+
+Organizational scale -
+Formal governance structures _
+Process technology -
+
+Specialization =
+Training time =
+Technical complexity =
+Numerical skills -
+Verbal skills
+Motor coordination
+Manual dexterity
+Finger dexterity
+Clerical perception
+Spatial skills aa
+Eye/hand/foot coordination =
+Physical strength aa
+Varied duties
+Performance standards
+Repetitiveness
+Interpersonal skills
+Direction or planning skills _
+
+lt +
+
+++
+“Mojaq payodad s}[nsai uo pasiaaar uaaq aavy suzIC ‘sainseaur apnynde zYy3!a ay} uO S][FyYs Y3ry 0} puodsaizo9 saio9s MOTE
+
+“mojaq payiodal s}jnsai uo pasiaaar usaq savy SUBIC “Ajxa]dwi09 YyBIy 0} puodsars09 sa10ds MOTE
+MoJaq pamndwios s}nser uo pasiaaar usaq aAvy SUIS “UORezTTEDaIdS YBIY 0) puodsa1i09 sa109s MOTT,
+
+“sa]QelIVA SNOWOJOY>IP Joy poy10dai JON,
+
+ 
+
+ 
+
+ 
+
+8b Cn (ayewaz %) uottsodurod xas qof
+ut IZ 1-0 qusweisduis} Suruueyd ‘jouos ‘uoNsaIIq.
+ze 1-0 quauresaduiay ajdoad yum Sureaq:
+9S" 1-0 quouresaduray ssauaayneday
+6o° T-0 quowreseduis} sprepurys ooueUI0ji0g
+€2° 1-0 quowreradura} sarynp pare,
+La 1-0 ‘Sq SZ = Buns ‘yWuaNs yeotshyd
++ sb ST apnynde uoreurps0os yooy/puey/ahq,
+s oe St apminde siirfs feneds
+OT re st apnynde uondaosad pesuayy circ tects eens 6x
+9 se oT apnynde Ayasoyxop 1oBuIg reeset eres ay
+9° re St apnynde Ajuayxop yenuepy octets terete Ly
+9° se oT apnynde uoreurpsooo rojo teeters Ox
+6: ze ct apnande eq corti tcitecececttecterseseste eee sy
+6 ee S- gopnynde jeuoumyy citer et erste eset ees by
+6T 8s £0 H@uUNeI LOG) SBA YM JuaUIaAoAUT Jo AyxapduTo eee fx
+a4 bb 6-1 puny Bummer, cotter ee teers ex
+oT 00 s1ayI0M °B0r] juonenpepadg crit treet crest reset ee et eee seen eees ly
+:sqof £66‘z Jo saInquNY
+Lt ee ++ (g7euray %) uotsoduios xas feuoneziuesiQ
+aor ir 1-0 ABopouyray ssavoag. etter fg
+62° 1-0 syuamiasueiie BUIPpiq JO UOTUGQ, tess rss es eg
+9ST 89° HatUKo|dwwa *3or7] ayeos TeuoryeztueBiQ, reer ee eters eee eee y
+ssJuaUIYst]qeyse 06Z Jo saInqLNYy
+xaS — ueay ou ainquny aqqeie,,
+
+ 
+
+ 
+
+SNOILVdN990 AAIXIPL NI SAOf[ ANV SLNAWHSITAVLSY JO SALNGMILLY YO SOLLSILVLS AAILARIOSAG,
+
+caTavL
+sample, these ratings were obtained from Employment Service analysts’
+on-site evaluations. Detailed job analyses were not performed for the
+remaining jobs, and ratings were obtained from the published Dictionary
+based on the nine-digit DOT classifications assigned to jobs.®
+
+Our single direct measure of training time (x2) is the DOT rating of
+specific vocational preparation (SVP). The scale ranges from one (“short
+demonstration only”) to nine (over 10 years). The typical job in our sam-
+ple from mixed occupations requires about six months’ training, and we
+expect women to be overrepresented in jobs requiring little training.°
+
+Technical complexity, like specialization, is assumed to be associated
+with higher training and turnover costs and therefore an underrepresen-
+tation of females. Our measure (x3) is the DOT rating of the job’s complex-
+ity of involvement with things.
+
+The next eight measures, x, through x;,, are based on DOT ratings of
+job aptitudes, “the specific capacities or abilities required of an individual
+in order to facilitate the learning of some task or job duty” (U.S. Depart-
+ment of Labor 1972, p. 233). Each is measured on the following scale: (1)
+the top 10% of the working population, (2) the ninetieth to sixty-seventh
+percentile, (3) the middle third, (4) the thirty-third to tenth percentile, and
+(5) the bottom decile.
+
+Previous research has documented small but significant differences be-
+tween men and women on traits corresponding to these eight aptitude
+measures (Maccoby and Jacklin 1974; Marini and Brinton 1984), and
+hypothesized signs in table 1 correspond to the directions of those differ-
+ences. That is, we expect men to dominate employment in jobs requiring
+numerical ability, manual dexterity, or spatial skills, but not verbal skills,
+motor coordination, finger dexterity, or clerical perception.!° Since sex
+differences across individuals are modest on these dimensions, however,
+male-female aptitude differences alone cannot explain extreme sex segre-
+gation across jobs; an efficiency-based account must also assume that
+employers statistically discriminate based on these aptitudes. For ex-
+ample, within a mixed line of work, it is difficult to explain why only
+women would choose to apply for jobs requiring finger dexterity, when
+many men also have the requisite skills. !1 However, if there is no reliable,
+less expensive method of measuring whether applicants can accurately
+manipulate small objects, employers are likely to reserve jobs requiring
+such tasks for women.
+
+On average, men have greater upper-body strength than women.
+Strength is one of the few physical traits related to work roles for which
+nontrivial sex differences exist (Maccoby and Jacklin 1974; Marini and
+Brinton 1984). Our binary indicator (x12) is based on DOT ratings of the
+amount of lifting required on the job (U.S. Department of Labor 1972,
+pp. 325-27) and is coded one for jobs requiring lifting 25 pounds or more
+(zero otherwise).
+
+Our last five measures of job characteristics are based on dichotomous
+DOT ratings of “temperaments,” defined as “the adaptability require-
+ments made on the worker by specific types of job-worker situations”
+(U.S. Department of Labor 1972, p. 297). The varied duties temperament
+(x13) characterizes jobs requiring “adaptability to performing a variety of
+duties, often changing from one task to another of a different nature
+without loss of efficiency or composure” (U.S. Department of Labor 1972,
+pp. 309-10). Within mixed occupations, such jobs are likely to have
+lower turnover costs owing to lower firm- and job-specific skill content.
+Consequently, we expect women to be overrepresented in jobs coded one
+on this measure.
+
+The performance standards temperament (x,4) denotes “adaptability to
+situations requiring the precise attainment of set limits, tolerances, or
+standards” (U.S. Department of Labor 1972, pp. 308-9. It should charac-
+terize work that is sufficiently routinized that control is embodied in
+technical standards of performance (Edwards 1979). Since training and
+turnover costs should be lower, women should be overrepresented in jobs
+characterized by this temperament. Similarly, within mixed occupations
+women should be concentrated in jobs requiring the repetitiveness tem-
+perament (x5): “adaptability to performing repetitive work, or continu-
+ously performing the same work, according to set procedures, sequence or
+pace” (U.S. Department of Labor 1972, p. 305).
+
+Finally, we expect women to be overrepresented in jobs characterized
+by the interpersonal or “dealing with people” temperament (x16) and
+underrepresented in jobs requiring the direction, control, and planning of
+activities (x17). The former is assigned to jobs requiring cooperativeness,
+the ability to work in teams, and ease in working relations (U.S. Depart-
+ment of Labor 1972, p. 304), interpersonal traits often thought to be more
+characteristic of women than men (Marini and Brinton 1984). Con-
+versely, the latter temperament corresponds to interpersonal traits more
+often attributed to men (Deaux 1985).
+
+Our model attempts to represent efficiency-based accounts of sex segre-
+gation as accurately as possible, given the available data. Some variables
+included in our model, however, also apply to other perspectives on
+segregation. In some cases, other accounts suggest hypotheses about vari-
+ables that are the opposite of those in table 1. For example, various
+organizational theories argue that larger organizations are more visible to
+and dependent on the state and are therefore more vulnerable to political
+pressures to provide employment opportunities for women and minorities
+(e.g., Salancik 1979). If so, women in mixed occupations should be over-
+represented in large establishments, contrary to the hypothesis in table 1.
+In other instances, competing perspectives on segregation suggest effects
+similar to those hypothesized in table 1, but for different reasons. For
+example, male-dominated unions might make deliberate efforts on behalf
+of male workers to exclude women from more desirable jobs (Deaux and
+Ullman 1983);!? we cannot distinguish that effect from the one hy-
+pothesized above for formal governance structures merely on the basis of
+our statistical model. We have opted to formulate a reasonably complete
+representation of one dominant approach to segregation, the efficiency-
+based account, rather than include weak measures from competing per-
+spectives within a single statistical model. That is, we have taken the
+statistical discrimination perspective seriously and operationalized it as
+faithfully as possible. We rely on two kinds of evidence in evaluating how
+well that perspective explains sex segregation within mixed occupations:
+the estimates obtained from our statistical model and, in a later section
+Statistical Model
+
+We represent the determinants of percentage female in the ith job in
+occupation j within establishment & as:
+
+Pik = @ + by Xie + by Ze + Uj + Cie, (1)
+where x,;, is a vector of job attributes (x, through «,, in tables 1 and 2) and
+z» includes establishment characteristics (z, through 23 in tables 1 and 2).
+The term u; represents all (unmeasured) occupational attributes that af-
+fect the sex composition of jobs in that line of work, and e;;, is an orthog-
+
+onal job-specific stochastic disturbance.
+Averaging equation (1) across jobs in an establishment yields
+
+Pie = 2 + Dy x je + byez + Uj + C 5p, (2)
+
+and averaging equation (2) across jobs in all establishments for the jth
+occupation gives
+tional levels. Both OLS and GLS estimates of eq. (5) are biased to the extent that
+relevant variables are omitted from x,,, and z, in eq. (1), but estimates for eq. (4) are
+unaffected by omissions from z,. The OLS estimates reported here were computed
+from pairwise present correlations, since DOT ratings of aptitudes, temperaments,
+physical demands, and training time were missing for about 8% of the jobs in our
+sample.
+
+'4 Tn fact, we have two estimates of the coefficients that make up by, since b, appears
+on the right side of both eqq. (4) and (5). We ignore estimates of b, from eq. (5) for two
+reasons. First, those estimates can be biased because of omissions of relevant organ-
+izational variables in z,, whereas estimates from eq. (4) are immune from that
+specification error. Second, estimates of b; from the two equations will differ if there
+are nontrivial “contextual” effects of job attributes. We have no substantive rationale
+for hypothesizing contextual effects, so we do not interpret differences in the effect of
+Xyz as estimated from eqq. (4) and (5). Instead, we assume that any apparent contex-
+tual effects actually reflect omitted establishment characteristics in eq. (5).
+
+'S In comparison, the index for the same seven groups among California establish-
+ments that filed reports with EEOC in 1975 was 42.6 across all industries and 44.6 in
+manufacturing (U.S. EEOC 1977). Our sample includes some small establishments
+not covered by the EEOC, which are likely to be more segregated (Bielby and Baron
+1984). Among establishments in our sample with at least 100 employees, the segrega-
+tion index across major groups equaled 38.4. Note that this figure is smaller than that
+computed from EEOC data, so it seems unlikely that our sample is biased toward
+establishments and industries that are more segregated than average.
+1°96 wel 609 sr oz Ooee SIOYIOM BITAIBG
+£786 T'sg 691 £e 8 SOST ttt SI9HIOM Sates *
+186 “9 yy9'7 16 ey SIVOD curt SIVYIOM [eID
+6°96 9°89 909‘z 861 62 BOS PT sa9y10M UoNINposd
+poyTHystues pue payrysuy,
+6°86 68 098'T O61 ¥ belo siayI0M UOTNposd pays ”
+0°98 y8r 209°T 0z 61 OLB s[efoyjo pue siaseuryl
++ ¥6 LOL Seo'T 6S os LOSE sIayIOM TeoTUYI2}
+pure [euolssajoig
+Sop. suonedns99, SUTLLL SNOILVdN990 FIVAI SuTyOM, dNOAD TWNOILVdN990 AOlv
+qo waia-¢ 40 ‘ON 40 “ON, % 40 “ON,
+
+ssouoy
+NOLLVOTIOTS Y
+
+ 
+
+SdNOAD TWNOLLVdND90 YOLVIA| Ad SATLIL, AOL GNV SNOILVdNDIO ONOWV NOILVOTANAS XIS
+
+© GTGVL
+reclassification across the 645 detailed occupations (bottom row, table 3).
+This is slightly higher than the index values reported for 1970 census
+three-digit categories (England 1981). The difference is not surprising,
+since our classification scheme is more detailed, particularly among
+highly segregated manufacturing occupations.
+
+At the level of establishment job titles, sex segregation is nearly com-
+plete. In our sample, over 96% of the women would have to be trans-
+ferred to different job titles to equalize sex ratios. © Indeed, only 8% of the
+workers in our sample shared job titles with members of the opposite sex,
+and only 4% of the titles were mixed.
+
+Nor is there much difference in job segregation across major occupa-
+tional groups, despite modest differences at the level of detailed occu-
+pations (compare the last two cols. of table 3). Administrative work
+(managers and officials) seems modestly desegregated, but job-level
+segregation is uniformly high (indeed, almost complete) in six of the seven
+groups and only slightly lower among managers and officials. Men and
+women may share occupational designations in a few lines of work; but
+even then they almost always work in different organizations or hold
+different job titles within an establishment.
+
+Table 4 demonstrates how assessments of segregation within estalish-
+ments are affected by aggregation. A classification scheme similar to the
+one used by EEOC portrays 28% of the establishments as having segrega-
+tion indices less than 40, and the same fraction has indices of 90 or above.
+Yet only a handful of enterprises were even modestly desegregated at the
+level of detailed occupations or establishment job titles.!” Indeed, only
+42% of the 290 establishments had amy job titles to which both men and
+women were assigned. An overwhelming majority of the work settings
+were either completely sex segregated by job title or nearly so.
+
+In sum, tables 3 and 4 demonstrate that occupational segregation in
+specific establishments is typically much higher than segregation com-
+puted from sex composition figures aggregated across establishments.
+Consequently, for many detailed occupations there appears to be dis-
+agreement across work settings about the sex label of specific occupa-
+tional roles. Moreover, results reported in table 4 imply that even when
+an establishment employs both sexes in the same (detailed) line of work,
+men and women are usually assigned different official job titles. In the
+oor 062 001 062 oor 062 0 ttrtttteretteess RI0oL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+z L z L £ L * (ayeurey [T2) OOT = V
+9 At 9 “1 9 ras “** @jew Te) OO1 = VV
+os Set ve 06 6 $2 (pextw) OOT = VV
+91 sb Wr ee s ST ttt ool > Vs 6
+9 41 L oz L OT rrr: $6 >V = 06
+8 zz I ee ot 62 tts 06 > V 508
+8 +2 oz Ls €1 le seers 995 08 > YS 09
+z L 8 4 IZ 19 09 >V = 0r
+z s z L oz 6s Or > V = 02
+a ' r ¢ 8 Sooo eee o>V
+% syuauystiqeysy % syusulysyqeysy % squamystyqeisy TIATT NOILVOIAOTS
+jo “ON jo on joon
+SaILL of ssouov Vv SNOLL¥dN990 SSOUDV SdNOU‘) YOLVIA SSOMOV V
+
+ 
+
+ 
+
+SHILI, dof NV
+‘SNOILVdND9O GITIVLIG ‘SdNOYD TVNOILVdN990 AOlvI{ SSOUOV GALNdWOD NOILVOIAOTS AO STAAD] AP SLNAWHSITAVISY 10 SNOILAGIILSIG
+
+valavs
+Segregation in Mixed Occupations: Statistical Models
+
+All but 24 of the 290 establishments in our sample employed workers in at
+least one mixed occupation.'* However, only 144 enterprises employed
+both men and women in mixed occupations. Roughly 12,000 workers in
+our sample (24%) were employed in seemingly mixed occupations, and
+over 4,000 of those were in organizations that did not hire members of the
+opposite sex in their line of work. Working in the same job classification
+with members of the opposite sex is even rarer. Of nearly 3,000 job titles
+in mixed occupations, only 215 were filled by both men and women. Just
+five establishments account for 85 (40%) of these mixed job titles.
+
+In short, the majority of workers in our sample did not work in mixed
+occupations, and those that did were typically engaged in routine admin-
+istrative tasks (e.g., bookkeepers, production clerks), production work
+(e.g., assemblers, packagers), or service jobs (e.g., hotel clerks, waiters,
+and waitresses). Workers in mixed occupations occasionally labored in
+settings where members of the opposite sex had similar roles, but men
+and women were rarely assigned the same job titles in the same enter-
+prise. Thus, even when men and women are not segregated occupation-
+ally, they are often segregated organizationally.
+
+Table 5 reports the effects of organizational and job characteristics on
+the gender composition (percentage female) of jobs in mixed occupations.
+The results modestly support the hypotheses we derived from efficiency-
+based explanations of sex segregation. All but three of the hypothesized
+effects are statistically significant; the strongest effects are associated with
+physical demands, training time, specialization, and finger dexterity. For
+example, consider two otherwise comparable jobs that differ on the bi-
+nary variable denoting heavy lifting, that differ by one point on the finger
+dexterity aptitude, and that are a standard deviation apart on specializa-
+tion and training time. The expected difference in percentage female is
+68, with the job that is less specialized, requires less training, involves
+greater finger dexterity, and does not require heavy lifting likely to be
+allocated to women.
+
+However, the statistical model specified in equation (1) is at odds with
+the empirical data in one important respect. The model assumes that job
+TABLE 5
+
+DETERMINANTS OF SEX COMPOSITION (% Female) OF WoRK IN MIXED OCCUPATIONS,
+METRIC COEFFICIENTS FOR REGRESSION (N = 2,997)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Coefficient
+Independent Variable Description Metric Estimate*
+Organizational context:
+By vee e cece ee eee Organizational scale Log employment ae ane
+BD eee cence ee eeee Union or bidding
+arrangements 0-1 — 8.8**
+Process technology 0-1 Son at
+Specialization Log workers? —6.5**
+Training time 1-7 —6.6**
+Complexity of involvement
+with things 0-7° —3.8**
+Numerical aptitude 1-54 —3.9*
+Verbal aptitude 1-5 ese
+Motor coordination aptitude 1-5 1.2
+Manual dexterity aptitude 1-5 —2.4
+Finger dexterity aptitude 1-5 13.3**
+Clerical perception aptitude 1-5 7.4**
+Spatial skills aptitude 1-5 —6.5**
+Eye/hand/foot coordination
+aptitude 1-5 ariel
+Physical strength, lifting
+2 25 lbs. 0-1 — 34.2**
+Varied duties temperament 0-1 10.2**
+Performance standards
+temperament 0-1 Sede
+Repetitiveness temperament 0-1 6.2**
+Dealing with people tem-
+perament 0-1 —14.3**
+MAD cece eee eeeeene Direction, control, plan-
+ning temperament 0-1 1.0
+Between Establishments Within Establishments
+Variance explained: @y» — P,) (Duk — P 5%)
+.142 156
+
+Adjusted R?
+sex composition has a continuous distribution and varies in response to
+marginal changes in organizational and job characteristics. In effect, the
+model assumes that both the sex composition of the applicant pool and
+the propensity of employers to hire females in mixed occupations are
+distributed continuously. Given the distributions on the independent
+variables and the coefficient estimates reported in table 5, nearly two-
+thirds (63%) of the jobs in our sample are predicted to have between 20%
+and 80% females. However, only 6% actually did; 54% of the jobs in our
+sample from mixed occupations contained no women and 39% were
+100% females. *®
+
+Thus men and women differ much more in their job assignments
+within mixed occupations than one would expect if segregation primarily
+reflects labor supply. That is, the women in our sample of mixed occupa-
+tions have already eschewed “female” work roles; consequently, it seems
+unlikely that the vast majority of them would have chosen to be seg-
+regated from men, either by organizational setting or by virtue of their
+specific job classification. Nor does it seem very likely that their abilities
+and aptitudes would be sufficiently different from their male counterparts
+within the same work role to explain the pervasive sex segregation within
+mixed occupations. Instead, the sharp discontinuity in the distribution of
+sex composition among jobs suggests that statistical discrimination by
+employers on the demand side has a far greater impact on segregation
+within mixed occupations than do labor supply constraints. Suppose, for
+example, that employers rank jobs with respect to their appropriateness
+for female applicants based on their perceptions of requisite skills, train-
+ing, and turnover costs. Then, using some type of mental discriminant
+function, they classify jobs into one cluster reserved for males and an-
+other reserved for females. Such behavior is consistent with the model of
+statistical discrimination and with the dichotomous distribution of gender
+composition observed in our job-level data.
+
+To test this notion more adequately, we reformulated our statistical
+model to account for whether or not women were excluded from a given
+job. That is, we specify the gender mix of a job as a dichotomous (rather
+than continuous) outcome, affected by the same factors that we suggested
+above are weighed by employers. Accordingly, we respecified equation
+(1) as a logistic model:
+
+Onn = exp(a + bixie + b2Z,), (6)
+where Oj;, represents the conditional odds that women are excluded from
+the ith job in occupation j in establishment k. Estimates of logistic
+coefficients are reported in table 6, along with the net effect of each
+variable on the probability of female exclusion (Hanushek and Jackson
+1977, p. 189). (Effects are evaluated with all independent variables set to
+their mean values.)
+
+The coefficients are comparable in relative size with those reported in
+table 5. Women in mixed occupations are most likely to be excluded from
+job classifications that are specialized; require heavy lifting; do not re-
+quire finger dexterity, verbal aptitude, or clerical perception; or have
+longer training requirements. Women are also more likely to be absent
+from jobs that involve variable tasks, spatial skills, eye/hand/foot coordi-
+nation; that are in larger establishments; or that are in enterprises with
+unions or formal bidding arrangements.
+
+The differences between tables 5 and 6 are informative. The predictive
+power of the model in table 5 was quite weak, since it attempted to locate
+jobs along a continuum of percentage female, when in fact most jobs had
+values of zero or 100. The model explained just 14% of the variance in sex
+composition of mixed occupations across establishments and only 16% of
+the, variance in the sex composition of jobs within establishments.’° In
+contrast, the logistic regression model in table 6 is remarkably successful
+in predicting whether or not women are excluded from a job, correctly
+classifying 82% of the 3,000 jobs.
+
+In short, the statistical results suggest that employers do reserve some
+jobs for men and others for women, based on their knowledge of technical
+and organizational features of work and their perceptions (however accu-
+rate) of sex differences in skills and work orientations. Technical features
+of jobs in the same mixed occupation are similar in many respects, but
+they are not identical. Our findings indicate that small differences in job
+requirements get amplified into large differences in gender composition.
+In the organizations we examined, the propensity to hire females in a
+mixed line of work appears to be an all-or-nothing proposition. With few
+exceptions, a job was either inappropriate for women or appropriate only
+for women, regardless of the amount of overlap in the attributes of pro-
+spective male and female employees.
+
+As we noted above, economists often assume that such employment
+practices are economically optimal and not based on bias or prejudice,
+TABLE 6
+
+DETERMINANTS OF LIKELIHOOD THAT WOMEN ARE EXCLUDED FROM JoBS IN MIXED
+OccuPaTIONS, LoGIsTIC REGRESSION COEFFICIENTS (N = 2,997)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Coefficient Effect on
+Independent Variable Description Estimate* Probability?
+Organizational context:
+Zee CCE EC eee Organizational scale .20** 05
+BZ eee e cence Union or bidding arrange-
+ments Soe 14
+BZ eve e cece eee Process technology
+Job characteristics:
+My cece cece eeee Specialization‘ .60** 14
+eee eee Training time .29** .07
+HZ cece cece eeee Complexity of involvement
+with things ee oer
+Numerical aptitude? 33** -08
+Verbal aptitude — .70** -.17
+Motor coordination aptitude
+Manual dexterity aptitude bee see
+Finger dexterity aptitude aaPl el Sa —.26
+Clerical perception aptitude — .58** —.14
+Spatial skill aptitude .52** 12
+Eye/hand/foot coordination
+aptitude mS 2nd 12
+Physical strength, lifting
+= 25 lbs. 1.45** 32
+Varied duties temperament — .27 —.07
+Performance standards
+temperament oer
+Repetitiveness temperament — .39* —.10
+Dealing with people tem-
+perament
+X17 Direction, control, planning
+temperament
+
+ 
+
+ 
+
+NOTE —Likelihood ratio x’ 1001.4 with 22 df; 82% of cases correctly classified.
+
+*Maximum likelihood estimate of linear net effect on log odds of exclusion. Three dots denote
+variables with insignificant effects in the full model and dropped from the final model.
+
+> Net effect on probability of exclusion of a one-unit change in the independent variable, evaluated at
+the mean.
+
+© Sign reversed so that high scores correspond to more specialized jobs.
+
+4 Signs reversed so that high scores correspond to greater aptitude.
+
+* P < 085 (two-tailed test).
+
+** P< ,001 (two-tailed test).
+Is Statistical Discrimination Efficient? Anecdotal Evidence regarding
+Employers’ Staffing Decisions
+
+Employers’ practices regarding the placement of women in jobs requiring
+strenuous physical effort are particularly difficult to reconcile with an
+efficiency perspective on sex segregation. According to table 6, whether
+or not a job required lifting 25 pounds or more was one of the strongest
+predictors of the likelihood of excluding women from that job. Since an
+individual’s ability to lift heavy objects seems neither difficult nor costly
+to measure, it should be possible to devise more efficient screening mecha-
+nisms for physically demanding jobs than totally excluding women who
+are in that line of work.
+
+Policies such as those summarized in Appendix A provide the context
+for our statistical results and suggest alternative explanations for our
+findings. Appendix A lists the observations of some Employment Service
+analysts about employer policies toward female employment. This infor-
+mation is compiled from narrative reports for 153 of the 290 establish-
+ments in our sample.”! Physical demands of work are mentioned in 41%
+of those reports, and Appendix A lists examples in which physical re-
+quirements figured explicitly or implicitly in employers’ policies for as-
+signing women to specific jobs.
+
+The comments in Appendix A (and others we encountered like them)
+underscore the diversity of organizational and industrial contexts in
+which restrictions based on physical demands were invoked, such as
+finance, transportation, utilities, and recreation, as well as light and
+heavy manufacturing. Narratives for some establishments (e.g., the air-
+line in App. A) mentioned state legal restrictions that, until struck down
+by the California Supreme Court in 1970, restricted women’s lifting to 25
+pounds. No doubt those restrictions provided the rationale for excluding
+women from heavy physical work in many other establishments as well.
+Nevertheless, our data contain numerous instances in which employer
+policy cited heavy lifting as the reason for excluding women from specific
+jobs, although detailed job analyses revealed that those jobs required no
+strenuous physical exertion (see also Deaux and Ullman 1983). Thus, our
+statistical model understates the impact of such policies on sex segrega-
+tion, since it assesses only the extent to which women were excluded from
+jobs that actually required lifting in excess of the (pre-1971) legal limit.
+
+Since legal restrictions on lifting for women became unconstitutional
+after 1970, we would expect rational, profit-maximizing employers to
+cease using sex as an inefficient screen for that job requirement, instead
+filling physically demanding jobs with workers of either sex who could
+demonstrate the capability to perform the work. Indeed, policies restrict-
+ing women’s employment based on physical demands were mentioned
+less frequently in narrative reports after 1970. Although 45% of the 124
+reports prepared between 1965 and 1970 mentioned such restrictions,
+only 24% of the 29 reports prepared between 1971 and 1979 did so.
+
+However, if employer policy—as articulated to Employment Service
+analysts—changed after 1970, employer practices apparently did not. We
+added two binary terms to our logistic regression model to test whether
+the tendency to exclude women from jobs requiring heavy lifting declined
+after 1970. The first was coded one if the establishment was studied after
+1970, and the second was an interaction term coded one if the job re-
+quired lifting 25 pounds or more and was studied after 1970. If anything,
+however, women were more likely to be excluded from jobs requiring
+heavy lifting in establishments studied after 1970. The logistic coefficient
+for the main effect of physical demands (the effect for establishments
+studied before 1971) was 1.1, but the sum of main and interaction effects
+for physical demands (the effect for establishments studied after 1970)
+was 2.6.7?
+
+In short, strenuous physical effort appears to have justified excluding
+women from specific jobs for some time after the legal rationale disap-
+peared. On the one hand, these results suggest that employers persisted in
+a practice for which they could be held liable under both state and federal
+civil rights legislation. On the other hand, staffing patterns observed in
+the 1970s partially reflect both job assignments made before the era of
+effective EEO enforcement and inertia in women’s work preferences. For
+all these reasons, organizational practices endure long after the circum-
+stances that warranted them have disappeared (Stinchcombe 1965).
+
+Although women are typically excluded from work perceived as physi-
+cally demanding, they are often given exclusive access to tasks viewed as
+routine and requiring attention to detail. Unlike the practices sum-
+marized in Appendix A, policies regarding employment of women in
+“detail” work have not been sanctioned by protective legislation and
+regulations. Nevertheless, as the examples in Appendix B show, an em-
+ployer’s beliefs about the work habits and skills of women can become
+part of an organization’s personnel policy. A job in assembly or packag-
+ing may be labeled “men’s work” or “women’s work” depending on
+whether it is identified as physically demanding—and therefore suitable
+only for men—or routine and requiring attention to detail—and thus
+suitable only for women. For example, women worked as bottlers and
+packers in several of the pharmaceutical enterprises in our sample,
+whereas men did remarkably similar tasks in a brewery (where a union
+refers job applicants to the plant).
+
+The labeling of “men’s work” and “women’s work” for similar tasks
+occurs within organizations as well. Table 7 reports staffing patterns in
+packing jobs for a pharmaceutical establishment. An Employment Ser-
+vice analyst classified each job into the same nine-digit DOT category of
+“packager, machine.” The establishment, however, recognized 10 dis-
+tinct job classifications for the eight men and 85 women performing this
+occupational role, terming men “technicians” and women “operators.”
+An establishment that processes sugar, studied in 1972, had a staffing
+pattern for the same DOT category that was the mirror image of the one
+in table 7. Over 120 male packagers were distributed across 15 job titles,
+and 19 women were employed in three different job classifications. For
+both establishments, our original statistical model in table 5, based on
+measures of job requirements and organizational context, predicts that
+each job would have between 30% and 50% female incumbents. How-
+ever, these jobs were actually fully segregated by sex, as were many
+others like them in our sample. In other words, the role of machine
+packager has some characteristics of traditionally “male” jobs, such as
+heavy lifting requirements, and of traditionally “female” jobs, such as
+repetitive tasks, low training requirements, low spatial skills, and modest
+finger dexterity. Thus, there appears to be no compelling technical
+rationale for attaching a specific sex label to each particular job, yet
+employers did so. Accounting for these gender distinctions among work
+roles requires going beyond efficiency perspectives on organizations and
+inequality, and we suggest some alternatives in the concluding section.
+to mill, but the separation of male and female work was almost universal;
+in most mills many rooms were staffed entirely by women. Thus the
+separate realms of work for men and women remained undisturbed”
+(1982, pp. 171-72). Sex segregation appears just as pervasive within and
+across organizations in almost every line of work represented in our di-
+verse sample of California establishments, even within seemingly inte-
+grated occupations. Work done by both men and women is often done in
+distinct organizational settings, and when enterprises employ both sexes
+in the same occupation, they typically assign them different job titles.
+Once established, sex labels of job titles acquire tremendous inertia, even
+when similar work is done by the opposite sex elsewhere in the same
+establishment or in other settings.
+
+To be sure, differences in the allocation of men and women across
+occupational roles, whether by choice or by constraint, do account for
+much of the segregation we observe. For example, as recently as 1980,
+men outnumbered women by more than two to one in managerial occupa-
+tions, whereas the ratio was about one to three in clerical work. Women
+still make up less than 3% of workers in the construction trades, whereas
+less than 4% of all registered nurses are men (U.S. Department of Com-
+merce 1983). But as we have shown, there is considerable sex segregation
+within and across organizations, even within detailed occupational cate-
+gories. This article focused on occupational roles that are filled by both
+men and women, allowing us to reduce the impact of vocational choice on
+segregation.
+
+Within the mixed occupations in our sample, men tended to be em-
+ployed in larger organizations and in establishments with unions or for-
+mal bidding arrangements. They also tended to monopolize specialized
+jobs with more complex tasks and firm-specific training requirements.
+Physically demanding work was typically not performed by women,
+whereas tasks requiring finger dexterity were rarely done by men. The
+organizations in our sample utilized diverse technologies, drew from
+many different labor pools, and ranged from small family businesses to
+massive bureaucracies. Yet men and women were found in distinct job
+classifications in almost every setting, even when their roles were so
+similar that they belonged to the same detailed (nine-digit) occupational
+classification.
+
+Our research has several important implications for studying the sexual
+division of labor. First, the aggregation biases we illustrate clearly under-
+score the limits of occupation-level analyses. Second, our finding of al-
+most complete job-level segregation by sex, even within seemingly inte-
+grated occupations, suggests a structural basis for sex differences in
+promotion opportunities, occupational status, and earnings trajectories.
+Third, our regression results are consistent with models of statistical
+discrimination, but they are difficult to reconcile with the view that such
+decision making is rational or optimal. Our findings suggest two impor-
+tant directions for future research: analyses of the role played by employ-
+ers’ beliefs and perceptions and studies of the institutionalization of gen-
+der-biased employment practices. Finally, our research demonstrates the
+importance of attending to changes in job- and organization-level struc-
+tures and processes in studying labor force trends. We discuss each of
+these issues briefly.
+confined to specific work settings, such as when driving school buses
+becomes “women’s work” while intercity bus driving remains “men’s
+work”; (2) increased employment of women in segregated job titles in
+organizations already utilizing male workers, as appears to be the case in
+some areas of data processing; or (3) transitory employment patterns as an
+occupation’s sex label changes from “men’s” to “women’s work” (e.g.,
+telephone operator and bank teller early in the century).*
+
+Second, using major occupational groups to monitor segregation, as
+EEOC does, seems virtually worthless. Biases in EEO-1 data have been
+documented by Smith and Welch (1984). They find that establishments
+that are covered by contract compliance regulations apparently have a
+broad view of what constitutes a managerial job when classifying women
+and minority workers. Moreover, these data are limited even when
+classification into major groups is done accurately. In our data, establish-
+ments that appeared integrated according to the major group clas-
+sification were seldom desegregated by official job titles, which usually
+form the basis for workers’ duties, pay, promotion opportunities, and
+responsibilities. In short, what gets reported on an EEO-1 form may have
+little to do with differences in work experiences and outcomes by sex.
+
+Third, in addition to aggregation biases, contemporary research efforts
+are limited because they restrict our understanding of the social organiza-
+tion of work. For example, in an imaginative analysis of occupational and
+industrial data, Bridges (1982) found that highly unionized industries
+have lower levels of occupational sex segregation. Our finding that
+unionized enterprises are more segregated by job titles (Bielby and Baron
+1984) is not necessarily inconsistent with Bridges’s results. The prolifera-
+tion of work rules, seniority systems, and detailed job hierarchies in
+unionized settings might facilitate the pattern we observe: employment of
+men and women in the same occupation but in distinct job titles (see
+Aronowitz 1973, p. 131; Deaux and Ullman 1983). In any event, reconcil-
+ing the two sets of results demands attention to organizational arrange-
+ments. Work tasks, authority relations, personnel practices, and wage
+determination are largely designed and implemented at the organizational
+level. Nowhere is that more evident than in the way sex differences
+become incorporated into work arrangements.
+
+Segregation and job hierarchies.—If jobs are almost perfectly seg-
+regated by sex, authority hierarchies and career ladders are likely to be
+segregated as well. Preliminary analyses of our data on job hierarchies
+show that women in positions of authority almost always supervised
+other women, though it is also common for women to be supervised by
+men. Women are much less likely to be in jobs with promotion opportuni-
+ties, and career ladders are typically longer for men. The few jobs con-
+taining men and women are mostly in entry-level slots at the bottom of
+organizational hierarchies, and typically women’s promotion opportuni-
+ties diminish almost entirely after moving a step or two beyond entry level
+(Baron and Bielby 1984; Baron, Davis-Blake, and Bielby 1984).
+
+Our data also provide numerous examples of men’s apparent ability to
+circumvent formal promotion rules. In these cases, an entry-level position
+was monopolized by women, and that position was listed as requisite
+experience for promotion to the next level. However, all occupants of the
+next highest position were men. Employment Service analysts were some-
+times quite explicit in conveying such inequalities:
+
+“(MOLDING MECHANIC] workers [three males] are usually ob-
+tained from outside the plant. . . . Promotion from OPERATOR,
+MOLDING MACHINE [to MOLDING MECHANIC] within the com-
+pany is not normal since these workers are all female” (Job analysis
+schedule 2909975, pen and pencil company, 1965). This recurrent pattern
+underscores the political aspect of credentials, skills, and experience (Col-
+lins 1979), Apparently, men can often substitute alternative qualifications
+for those required and obtained in the internal labor market, but women
+rarely enjoy this option.
+
+Thus, job-level segregation affects the structure of organizational au-
+thority and promotion, with dramatic consequences for the careers of
+men and women. Indeed, our analyses are consistent with case study
+results that document “rank segregation” as the basis of gender in-
+equalities in job rewards (Malkiel and Malkiel 1973; Grimm and Stern
+1974; Halaby 1979; Cabral, Ferber, and Greene 1981; Rosenbaum 1983)
+and access to high-wage employers as an additional source of male advan-
+tage (Mennerick 1975; Blau 1977; Talbert and Bose 1977). Future re-
+search should examine how job structures were first implemented and
+subsequently institutionalized and whose interests are currently served.
+
+Limitations of efficiency-based accounts of segregation.—It is difficult
+to reconcile our findings with supply-side accounts of sex segregation
+within mixed occupations. It is of course possible that a given female
+“invests” in becoming an assistant professor, but not an associate or full
+professor; or in becoming a training representative, but only in firms
+where that job is done exclusively by women. However, such extensions
+of supply-side accounts of segregation require us to assume not only that
+women “disinvest” in certain general lines of work (occupations) but also
+that those who do pursue male or integrated work roles avoid certain
+specific titles and organizational settings.
+
+Our findings are consistent with the model of statistical discrimination
+in one respect. Employers seem to reserve some jobs for men and others
+for women in a manner consistent with their perceptions of sex differ-
+ences in skills, turnover costs, and work orientations. However, gender
+seems to be a very inefficient screen for attributes as easy to measure as
+physical strength and finger dexterity, and these job requirements had
+some of the strongest effects on the sex composition of jobs in our statisti-
+cal models. In short, the end result—near-complete sex segregation
+across organizations and job titles in mixed occupations—may be consis-
+tent with the model of statistical discrimination, but there is considerable
+qualitative evidence that appears to undermine the notion that such deci-
+sion making is optimal.
+
+However, we do not mean to imply that employers are simply irra-
+tional, indulging their personal biases at the expense of profits. It is
+possible that employer actions are a rational response to the interests of
+male employees in excluding women from their job categories. For ex-
+ample, in Becker’s (1957) model, given “tastes for discrimination” among
+male employees, an employer must pay a wage premium to men in order
+to induce them to work in an integrated setting. Under such circum-
+stances, labor costs are minimized by employing either men or women
+exclusively.
+
+We cannot completely dismiss this explanation. The interests and at-
+titudes of male employees almost certainly play a role in generating sex
+segregation. Given the diversity of organizational and technical arrange-
+ments represented in our sample, there is almost certainly variation
+across jobs and establishments in the desire and ability of male workers to
+exclude women. For instance, where production is highly interdepen-
+dent, male workers may perceive the entry of women as particularly
+disruptive to stable work group relationships. Similarly, employers in
+competitive markets are least able to absorb the additional costs required
+to induce male employees to work alongside women. However, even
+within mixed occupations, we found that women were almost invariably
+segregated from men by job title or organizational context. Thus, at least
+some of the intraoccupational segregation that we observed probably does
+not reflect the exclusionary interests and actions of male coworkers. We
+hope that future theory and research will devote more attention to
+specifying when male workers might have both interests in promoting
+segregation and the means to realize those interests.
+Statistical discrimination as a self-fulfilling prophecy.—Some econo-
+mists maintain that statistical discrimination based on mistaken beliefs
+should not persist in a market economy. In contrast, social psychologists
+maintain that stereotypes are cognitive structures that are a normal part
+of one’s perception of others, a shorthand invoked to conserve our limited
+information-processing resources (Ashmore and Del Boca 1981, 1985).
+Even employers must cope with bounded rationality (Simon 1972). If
+workers’ performances are not exogenous but influenced by the social
+context of work (Roethlisberger and Dickson 1939; Hackman and Old-
+ham 1980), employer beliefs and perceptions might actually elicit the very
+behaviors employers expect. That is, given their initial beliefs, however
+accurate, employers might assign females to routine tasks and dead-end
+jobs, in which a particular woman’s actual skills remain invisible to the
+employer (Milgrom and Oster 1984). In response to such work conditions,
+rational women may exhibit higher turnover and lower work involve-
+ment, just as employers predicted. While some organizational research
+has shown the substantial impact of expectations on worker performance
+(Berlew and Hall 1966), the effect on subsequent employment policies
+and practices has to date been documented only in case studies (e.g.,
+Kanter 1977).
+
+Another reason that statistical discrimination might not vanish in a
+market economy is that individuals are more likely to attend to and retain
+information that confirms their stereotypes and to ignore information that
+does not fit expectations (Hamilton 1981). Employers are probably no
+exception. Such “expectancy confirmation sequences” have been docu-
+mented repeatedly in laboratory experiments (for reviews, see Berger,
+Rosenholtz, and Zelditch 1980; Darley and Fazio 1980).
+
+The institutionalization of gender-based job assignments.—Beliefs and
+perceptions alone cannot account for the extent to which segregated ar-
+rangements are built into the structure of work. We need to understand
+how sex-based job assignments become standard organizational proce-
+dure. For example, as noted above, laws against assigning women to
+heavy manual work rationalized segregation by job title until the early
+1970s. Case materials from our data repeatedly cited the California labor
+code to justify excluding women from some jobs, but we found no evi-
+dence of changes in job assignments after the laws were repealed. Thus,
+understanding current personnel practices and staffing patterns requires
+studying a legacy of interests that coalesced throughout this century in
+support of protective legislation and learning how bureaucratic inertia,
+cultural stereotypes, and contemporary interests sustain practices that are
+now illegal.
+
+Indeed, social histories of personnel practices in diverse lines of work,
+such as Tyack and Strober’s (1981) study of the teaching profession, can
+reveal how sex labels are assigned to jobs and formalized through organi-
+zational procedures. A promising line of inquiry would be to study new
+occupational specialties in rapidly growing fields to learn how definitions
+and sex labels of job titles emerge and are translated into organizational
+arrangements for personnel practices.
+
+Monitoring labor force changes. —Our data do not capture very recent
+employment trends as employers have responded to EEO pressures and
+changing career aspirations. However, although gender segregation has
+certainly abated during the decade or so since our typical firm was
+studied, we should not overstate how much progress has occurred. Con-
+sider, for instance, the data summarized in table 8, describing the gender
+composition of jobs in the civil service personnel system of California at
+the end of 1984. These data are of particular interest because they almost
+certainly provide a lower boundary on the degree of job segregation in the
+private economy. The vigor with which EEO has been pursued in this
+state’s public sector and the greater ability of agencies to pass along the
+costs of equality to customers (taxpayers) imply less job segregation than
+in the private sector as a whole.
+
+According to table 8, job-level segregation is less extreme than in our
+sample but still pervasive. Even with the exclusion of the 798 jobs having
+one incumbent, 66% of the jobs (employing 17% of state workers) are
+perfectly segregated. Kanter (1977) and Pettigrew (1975) argue that the
+psychological and social effects of tokenism become manifested when a
+role or group has roughly 80% or more of its members in one category.
+According to that criterion, over 64% of the full-time employees in the
+state civil service system are in positions whose gender balance is severely
+skewed. Also, male workers employed by the state are about three times
+more likely than women to be in job classes with no members of the
+opposite sex, suggesting that there are considerably fewer women doing
+“men’s work” than there are men doing “women’s work.”
+
+Moreover, unpublished statistics supplied by the California State Per-
+sonnel Board document numerous instances of the same forms of intraoc-
+cupational segregation encountered in our sample: sex-specific job titles
+within the same occupation and the segregation of women from men in
+mixed occupations across specific agencies or bureaus. In sum, notwith-
+standing recent changes in the sexual divison of labor, the patterns docu-
+mented in our research appear applicable to contemporary organizations.
+
+In case after case, as EEO officials, corporate leaders, and reformers
+try to effect (or avoid) changes in traditional employment patterns, they
+encounter intransigent organizational structures and processes that sus-
+tain the patterns of sex segregation documented in this article. Our
+findings were consistent with the theory of statistical discrimination as
+applied to gender segregation, but they are difficult to reconcile with
+TABLE 8
+
+GENDER COMPOSITION OF JOBS IN CALIFORNIA PERSONNEL SYSTEM, FULL-TIME
+WoRKERS, JOBS WITH TWO OR MoRE INCUMBENTS: DECEMBER 31, 1984
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+% of Jobs % of Full-Time Workers
+% female in job:
+
+100 ......... 29.5 (28.8) 6.9 (7.0)
+90.0-99.9 2.6 (2.4) 11.9 (11.9)
+80.0-89.9 3.2 (2.9) 6.0 (5.9)
+70.0-79.9 2.6 (2.4) 5.3 (5.3)
+60.0-69.9 3.3 (3.0) 10.1 (10.1)
+50.0-59.9 6.6 (6.0) 5.2 (5.2)
+40.0-49.9 1.9 (1.7) 3.0 (2.9)
+30.0-39.9 3.6 (3.3) 4.3 (4.2)
+20.0-29.9 4.5 (4.1) 8.0 (7.9)
+10.0-19.9 3.4 (3.1) 12.4 (12.3)
+
+-1- 9.9 2.2 (2.0) 17.1 (17.0)
+
+oO. 36.5 (40.3) 9.9 (10.3)
+
+N 8,159 (8,957) 121,962 (122,760)
+Gender mix:
+
+No workers of opposite sex .. 66.0 (69.1) 16.8 (17.3)
+
+< 10% workers of one sex... 70.8 (73.5) 45.8 (46.2)
+
+< 20% workers of one sex... 77.4 (79.5) 64.2 (64.4)
+
+< 30% workers of one sex... 84.5 (86.0) 77.5 (77.6)
+
+< 40% workers of one sex... 91.4 (92.3) 91.9 (91.9)
+
+ 
+
+NoTE.—When the same job class occurred in multiple agencies, each occurrence was treated as a
+separate job in the table. Figures in parentheses include the 798 job classifications having one incumbent
+each (632 men, 166 women).
+ics and clerical classifications because of the physical nature of other jobs
+(1964, natural gas utility).
+
+Employment opportunities for women are limited in the production
+sections due to the physical requirements of many of the jobs (1971, felt
+goods manufacturing).
+
+The nature of the work (medium to very heavy) does not lend itself to
+employment in production of either women or the handicapped, although
+these people are hired for office positions (1973, wire manufacturing).
+
+Normally they [women] are excluded from jobs requiring heavy physi-
+cal exertion such as DRIVER, PUTPOST INSTRUCTOR, and SWIM-
+MING INSTRUCTOR. They are specified for the job of ARTS AND
+CRAFTS INSTRUCTOR (1965, coeducational summer camp).
+
+Women are hired for office work classifications in all divisions. Women
+are also hired exclusively to fill HOSTESS, hostess supervisory, and
+training and cabin cleaning positions. They are preferred applicants for
+positions in reservations and counter sales. They are generally excluded
+from the passenger service counter, cargo service, and terminal opera-
+tions because of the physical labor involved. Women are not hired as
+maintenance or flight crew personnel primarily because those jobs have
+been traditionally filled by men and because workers are often required to
+lift or carry objects in excess of the 25 pound limit set by state law for
+women (1964, commercial airline).
+
+Males are hired as FLOOR REPORTERS and females as CLERKS,
+GENERAL. Both entry jobs are on the trading floor. FLOOR REPORT-
+ERS stand and walk constantly and CLERKS, GENERAL stand and
+walk about 50% of the time. . . . According to a stock exchange exec-
+utive, the FLOOR REPORTER classification is a “training ground” for
+young men starting a career in the securities business (1968, securities ex-
+change).
+
+Women are hired in clerical occupations and in other plant areas where
+the physical requirements of the tasks involved do not preclude it (1968,
+pharmaceutical manufacturing).
+
+SouRCE.—Narrative reports prepared by U.S. Employment Service
+Analysts for selected establishments.
+REFERENCES
+
+Aigner, Dennis J., and Glen C. Cain. 1977. “Statistical Theories of Discrimination in
+Labor Markets.” Industrial and Labor Relations Review 30:175-87.
+
+Aronowitz, Stanley. 1973. False Promises. New York: McGraw-Hill.
+
+Arrow, Kenneth. 1973. “The Theory of Discrimination.” Pp. 3-33 in Discrimination
+in Labor Markets, edited by O. Ashenfelter and A. Rees. Princeton, N.J.: Princeton
+University Press.
+
+Ashmore, Richard D., and Frances K. Del Boca. 1981. “Conceptual Approaches to
+Stereotypes and Stereotyping.” Pp. 1-35 in Cognitive Approaches to Stereotyping
+and Intergroup Behavior, edited by David C. Hamilton. Hillsdale, N.J.: Erlbaum.
+
+. 1985. The Social Psychology of Male-Female Relations. New York: Academic
+Press.
+
+Baron, James N. 1982. “Economic Segmentation and the Organization of Work.”
+Ph.D. dissertation, University of California, Santa Barbara.
+
+Baron, James N., and William T. Bielby. 1984. “Organizational Barriers to Gender
+Equality: Sex Segregation of Jobs and Opportunities.” Pp. 233-51 in Gender and
+the Life Course, edited by Alice S. Rossi. New York: Aldine.
+
+Baron, James N., Alison Davis-Blake, and William T. Bielby. 1984. “The Structure
+and Location of Internal Labor Markets.” Paper presented at the annual meeting of
+the Academy of Management, Boston.
+
+Barth, James R., Joseph J. Cordes, and Sheldon E. Haber. 1984. “Employee Charac-
+teristics and Firm Size: Are There Any Systematic Empirical Relationships?” Un-
+published manuscript, Department of Economics, George Washington University.
+
+Becker, Gary. 1957. The Economics of Discrimination. Chicago: University of
+Chicago Press.
+Beller, Andrea H. 1982. “Occupational Segregation by Sex: Determinants and
+Changes.” Journal of Human Resources 17:371-92.
+
+. 1984. “Trends in Occupational Segregation by Sex and Race, 1960-1981.” Pp.
+11-26 in Sex Segregation in the Workplace, edited by Barbara F. Reskin. Washing-
+ton, D.C.: National Academy.
+
+Berger, Joseph, Susan J. Rosenholtz, and Morris Zelditch. 1980. “Status Organizing
+Processes.” Annual Review of Sociology 6:479-508.
+
+Bergmann, Barbara R. 1974. “Occupational Segregation, Wages, and Profits When
+Employers Discriminate by Race or Sex.” Eastern Economic Journal 1:103-10.
+Berlew, David E., and Douglas T. Hall. 1966. “The Socialization of Managers: Ef-
+fects of Expectations on Performance.” Administrative Science Quarterly 11:207-
+
+23,
+
+Bielby, William T., and James N. Baron. 1983. “Organizations, Technology, and
+Worker Attachment to the Firm.” Research in Social Stratification and Mobility
+2:77-113.
+
+. 1984. “A Women’s Place Is with Other Women: Sex Segregation within Or-
+ganizations.” Pp. 27-55 in Sex Segregation in the Workplace, edited by Barbara F.
+Reskin. Washington, D.C.: National Academy.
+
+Blau, Francine D. 1977. Equal Pay in the Office. Lexington, Mass.: Heath.
+
+. 1984. “Discrimination against Women: Theory and Evidence.” Pp. 53-89 in
+Labor Economics: Modern Views, edited by William Darity, Jr. Boston: Kluwer-
+Nijhoff.
+
+Blau, Francine D., and Wallace E. Hendricks. 1979. “Occupational Segregation by
+Sex: Trends and Prospects.” Journal of Human Resources 14:197—210.
+
+Blau, Francine D., and Lawrence M. Kahn. 1981. “Race and Sex Differences in Quits
+by Young Workers.” Industrial and Labor Relations Review 34:563-77.
+
+Blauner, Robert. 1964. Alienation and Freedom. Chicago: University of Chicago
+Press.
+
+Bridges, William P. 1982. “The Sexual Segregation of Occupations: Theories of Labor
+Stratification in Industry.” American Journal of Sociology 88:270—-95.
+
+Cabral, Robert, Marianne A. Ferber, and Carole A. Greene. 1981. “Men and Women
+in Fiduciary Institutions: A Study of Sex Differences in Career Development.”
+Review of Economics and Statistics 63:573-80.
+
+Cain, Pamela S., and Donald J. Treiman. 1981. “The Dictionary of Occupational
+Titles as a Source of Occupational Data.” American Sociological Review 46:253-78.
+
+Collins, Randall. 1979. The Credential Society. New York: Academic Press.
+
+Darley, J. M., and R. H. Fazio. 1980. “Expectancy Confirmation Sequences.” Ameri-
+can Psychologist 35:867—-81.
+
+Deaux, Kay. 1985. “Sex and Gender.” Annual Review of Psychology 36:49-81.
+
+Deaux, Kay, and J. C. Ullman. 1983. Women of Steel: Female Blue Collar Workers in
+the Basic Steel Industry. New York: Praeger.
+
+Duncan, Otis D., and Beverly Duncan. 1955. “A Methodological Analysis of Segrega-
+tion Indices.” American Sociological Review 20:200-217.
+
+Edwards, Richard C. 1979. Contested Terrain. New York: Basic.
+
+England, Paula. 1981. “Assessing Trends in Occupational Sex Segregation, 1900-
+1976.” Pp. 273-95 in Sociological Perspectives on Labor Markets, edited by Ivar
+Berg. New York: Academic Press.
+
+. 1982. “The Failure of Human Capital Theory to Explain Occupational Sex
+Segregation.” Journal of Human Resources 17:358—70.
+
+Freeman, Richard B., and James L. Medoff. 1984. What Do Unions Do? New York:
+Basic.
+
+Grimm, James W., and Robert N. Stern. 1974. “Sex Roles and Internal Labor Market
+Structures: The ‘Female’ Semi-Professions.” Social Problems 21:690-705.
+Haber, Sheldon E., Enrique J. Lamas, and Gordon Green. 1983. “A New Method for
+Estimating Job Separations by Sex.” Monthly Labor Review 106 (June): 20-27.
+Hackman, J. Richard, and Greg R. Oldham. 1980. Work Redesign. Reading, Mass.:
+
+Addison-Wesley.
+
+Halaby, Charles N. 1979. “Job-specific Sex Differences in Organizational Reward
+Attainment: Wage Discrimination vs. Rank Segregation.” Social Forces 58:108-27.
+
+Hamilton, David L., ed. 1981. Cognitive Processes in Stereotyping and Intergroup
+Behavior. Hillsdale, N.J.: Erlbaum.
+
+Hanushek, Eric A., and John E. Jackson. 1977. Statistical Methods for Social Scien-
+tists. New York: Academic Press.
+
+Judge, George F., William E. Griffiths, R. Carter Hill, and Tsoung-Chao Lee. 1980.
+The Theory and Practice of Econometrics. New York: Wiley.
+
+Kanter, Rosabeth M. 1977. Men and Women of the Corporation. New York: Basic.
+
+Maccoby, Eleanor G., and Carol N. Jacklin. 1974. The Psychology of Sex Differences.
+Stanford, Calif.: Stanford University Press.
+
+Malkiel, Burton G., and Judith A. Malkiel. 1973. “Male-Female Wage Differentials in
+Professional Employment.” American Economic Review 63:693—704.
+
+Marini, Margaret Mooney, and Mary C. Brinton. 1984. “Sex Stereotyping in Occupa-
+tional Socialization.” Pp. 192-232 in Sex Segregation in the Workplace, edited by
+Barbara F. Reskin. Washington, D.C.: National Academy.
+
+Mennerick, Lewis A. 1975.“Organizational Structuring of Sex Roles in a Nonstereo-
+typed Industry.” Administrative Science Quarterly 20:570-86.
+
+Milgrom, Paul, and Sharon Oster. 1984. “Job Discrimination, Market Forces, and the
+Invisibility Hypothesis.” Unpublished manuscript, Yale University, School of Or-
+ganization and Management.
+
+Miller, Ann, Donald J. Treiman, Pamela S. Cain, and Patricia A. Roos. 1980. Work,
+Jobs, and Occupations: A Critical Review of the Dictionary of Occupational Titles.
+Washington, D.C.: National Academy.
+
+Oi, Walter Y. 1983. “Heterogeneous Firms and the Organization of Production.”
+Economic Inquiry 21:147-71.
+
+Osterman, Paul. 1982. “Affirmative Action and Opportunity: A Study of Female Quit
+Rates.” Review of Economics and Statistics 64:604-12.
+
+Pettigrew, Thomas F. 1975. “The Racial Integration of Schools.” Pp. 224-39 in Racial
+Discrimination in the United States, edited by Thomas F. Pettigrew. New York:
+Harper & Row.
+
+Pfeffer, Jeffrey, and Yinon Cohen. 1984. “Determinants of Internal Labor Market
+Arrangements in Organizations.” Administrative Science Quarterly 29:550-72.
+Phelps, E. S. 1972. “The Statistical Theory of Racism and Sexism.” American Eco-
+
+nomic Review 62:659-61.
+
+Polachek, S. 1979. “Occupational Segregation among Women: Theory, Evidence, and
+a Prognosis.” Pp. 137-57 in Women in the Labor Market, edited by Cynthia B.
+Lloyd, Emily S. Andrews, and Curtis L. Gilroy. New York: Columbia University
+Press.
+
+Reiss, Albert J., Jr. 1961. Occupations and Social Status. New York: Free Press.
+
+Roethlisberger, F. J., and W. J. Dickson. 1939. Management and the Worker. Cam-
+bridge, Mass.: Harvard University Press.
+
+Roos, Patricia A., and Barbara F. Reskin. 1984. “Institutional Factors Contributing
+to Sex Segregation in the Workplace.” Pp. 235-60 in Sex Segregation in the Work-
+place, edited by Barbara F. Reskin. Washington, D.C.: National Academy.
+
+Rosenbaum, James E. 1983. “Why Do the Rear Wheels Fall Further Behind? The
+Impact of Jobs and Job Statuses on Women’s Earnings Gains from Affirmative
+Action.” Paper presented at the National Research Council’s Seminar on Compara-
+ble Worth Research, Hilton Head, N.C., October 7-8.
+
+Salancik, Gerald R. 1979. “Interorganizational Dependence and Responsiveness to
+Affirmative Action: The Case of Women and Defense Contractors.” Academy of
+Management Journal 22:375—94.
+
+Scott, Joan Wallach. 1982. “The Mechanization of Women’s Work.” Scientific Ameri-
+can 247 (September): 166-87.
+
+Shorey, John. 1983. “An Analysis of Sex Differences in Quits.” Oxford Economic
+Papers 35:213-27.
+
+Simon, Herbert A. 1972. “Theories of Bounded Rationality.” In Decision and Organi-
+zation, edited by C. B. McGuire and Roy Radner. Amsterdam: Elsevier—North-
+Holland.
+
+Smith, James P., and Finis Welch. 1984. “Affirmative Action and Labor Markets.”
+Journal of Labor Economics 2:269-301.
+
+Snyder, David, Mark D. Hayward, and Paula M. Hudis. 1978. “The Location of
+Change in the Sexual Structure of Occupations, 1950-1970: Insights from Labor
+Market Segmentation Theory.” American Journal of Sociology 84:706-17.
+
+Spenner, Kenneth I. 1980. “Occupational Characteristics and Classification Systems:
+New Uses of the Dictionary of Occupational Titles in Social Research.” Sociological
+Methods and Research 9:239-64.
+
+Stinchcombe, Arthur L. 1965. “Social Structure and Organizations.” Pp. 142-93 in
+Handbook of Organizations, edited by James G. March. Chicago: Rand McNally.
+
+Talbert, Joan, and Christine E. Bose. 1977 “Wage-Attainment Processes: The Retail
+Clerk Case.” American Journal of Sociology 78:962—74.
+
+Thurow, Lester C. 1975. Generating Inequality. New York: Basic.
+
+Tyack, David, and Myra Strober. 1981. “Jobs and Gender: A History of the Structur-
+ing of Educational Employment by Sex.” Pp. 131-52 in Educational Policy and
+Management: Sex Differentials, edited by Patricia Schmuck and W. W. Charters.
+New York: Academic Press.
+
+U.S. Department of Commerce. 1983. Detailed Occupation and Years of School Com-
+pleted by Age, for the Civilian Labor Force by Sex, Race, and Spanish Origin: 1980.
+Report no. PC80-S1-8. Washington, D.C.: Government Printing Office.
+
+U.S. Department of Labor. 1972. Handbook for Analyzing Jobs. Washington, D.C.:
+Government Printing Office.
+
+U.S. Equal Employment Opportunity Commission. 1977. Equal Employment Oppor-
+tunity Report—1975. Washington, D.C.: Government Printing Office.
+
+. 1982. Equal Employment Opportunity Report—1980. Washington, D.C.:
+Government Printing Office.
+
+Viscusi, W. Kip. 1980. “Sex Differences in Worker Quitting.” Review of Economics
+and Statistics 62:388-98.
+
+Wholey, Douglas R. 1984. “Impacts of Firm Specific Skills and Organizational Demo-
+graphics on Law Firm Internal Labor Markets.” Paper presented at the annual
+meeting of the Academy of Management, Boston.
+
+Williamson, Oliver E. 1981. ‘The Economics of Organization: The Transaction Cost
+Approach.” American Journal of Sociology 87:548-77.
+
+Woodward, Joan. 1965. Industrial Organization: Theory and Practice. London: Ox-
+ford University Press.

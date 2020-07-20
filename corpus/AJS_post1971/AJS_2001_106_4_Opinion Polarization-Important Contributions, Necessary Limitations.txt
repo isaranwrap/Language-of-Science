@@ -1,0 +1,599 @@
+Opinion Polarization: Important Contributions, Necessary Limitations
+
+Author(s): John H. Evans, Bethany Bryson and Paul DiMaggio
+
+Source: American Journal of Sociology, Vol. 106, No. 4 (January 2001), pp. 944-959
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/320297
+
+Accessed: 08-06-2016 04:24 UTC
+In our 1996 article “Have Americans’ Social Attitudes Become More Po-
+larized?” (AJS 102 [3]: 690-755) we addressed the substantive question
+of whether or not polarization on 18 morally charged social issues had
+increased over a period of approximately two decades. That article ex-
+amined all of the then-available years of data from the General Social
+Survey (GSS) and the National Election Study (NES). The approach was
+necessarily broad, entailing more than 200 separate analyses of polari-
+zation within the population as a whole, within subgroups of the popu-
+lation and between groups. Moreover, each examination in turn required
+the use of three or four statistical models.
+
+Our major conclusion was that little polarization had occurred over
+these years and that the American public was by many criteria more
+unified in its views in the 1990s than it had been in the 1970s. The most
+important exception to this generalization, based on analyses of data from
+both the NES and the GSS, was that the population’s attitudes toward
+abortion had been polarizing. The results of Mouw and Sobel’s analysis
+of the NES data suggest that attitudes toward abortion had not been
+polarizing, thus challenging the one qualification we made to our central
+argument that polarization had not increased. Thus, although Mouw and
+Sobel challenge the methods we used in 1996, their analysis supports our
+central finding that widespread polarization of public opinion had not
+occured.
+
+Other scholars working in parallel have developed analogous methods
+for measuring attitude polarization in the senses of dispersion (Gay, El-
+lison, and Powers 1996) and consolidation (Hout 1999). Hoffmann and
+Miller (1998) expanded on our 1996 article to create a method for adjusting
+variance and kurtosis measures that would control for changes in dem-
+ographic variables.
+
+According to Mouw and Sobel, we and other scholars who have ex-
+amined polarization have erred in treating ordinal scales as if they were
+interval scales. Statisticians have many concerns about this practice, but
+the major problem, as Mouw and Sobel note, is that we do not know if
+the distance between 1 and 2 on the scale is the same as the distance
+between 3 and 4. Mouw and Sobel offer a solution to this problem for
+one of the four dimensions of polarization we discussed, dispersion, and
+analyze one of the 18 issues we examined, abortion (based on one of the
+two scales we used to examine it). Additionally, they criticize us for com-
+bining two different abortion questions in the NES into one time series,
+and they make the substantive claim that polarization over abortion at-
+titudes in the general population has remained unchanged from 1980 to
+1993, the last year in our time series. We respond to their methodological
+and substantive claims separately.
+
+To anticipate the essence of our comments, we welcome Mouw and
+Sobel’s approach as a valuable new tool for students of polarization. We
+raise some cautionary points of interpretation, but even in pointing to
+limitations in the application of the method we call attention to and
+provide examples of additional ways in which it can be valuable. At the
+same time, we emphasize that the method only addresses one of our four
+indicators of polarization in attitudes toward abortion. Moreover, using
+Mouw and Sobel’s method and additional years of NES data, we find
+support for our substantive conclusions about even this one measure of
+polarization with evidence indicating that polarization in responses to the
+NES abortion item increased between 1980 and 1998.
+Before we begin that longer discussion, we will address briefly a less
+complex methodological issue. Mouw and Sobel argue that we should not
+have combined the two abortion questions into one time series. Using an
+appropriate adjustment formula they reveal that our conclusions about
+the change in the mean and variance are unaffected by the change in
+wording, but that the decreasing kurtosis identified in our analysis may
+have been an artifact of the wording change.
+
+Faced with the 1980 wording change, we compared responses before
+and after the change and found (as Mouw and Sobel did) that slightly
+fewer respondents chose middling responses with the new wording. We
+had two choices. First, we could shorten the time span of the data series
+(as Mouw and Sobel do), thus reducing the chance of finding significant
+results, both by decreasing the number of cases and by reducing the
+chronological scope of our analysis. Or we could combine the questions
+and report in our article that the change in question wording could inflate
+estimates of polarization. We chose the latter course, reporting the limi-
+tations of the data and the risk inherent in our decision in table 1 and
+footnote 13 (pp. 700, 702). If we had been testing polarization on this one
+issue with one population and one data set, we would have taken Mouw
+and Sobel’s approach. But ours was a broad analysis of many issues and,
+because we were skeptical of finding polarization, we tried in every case
+to give the polarization hypothesis the benefit of the doubt. Moreover, we
+were confident that analysis of the longer and better-constructed time
+series on abortion attitudes from the GSS would prevent us from drawing
+the wrong conclusions about polarization in abortion attitudes. We accept
+Mouw and Sobel’s point in the context of their single-issue analysis. To
+test whether there has been polarization over abortion, the best course of
+action is to separate the two questions.
+Let us now turn to the heart of Mouw and Sobel’s methodological critique
+and contribution. Our 1996 article identified four dimensions of polari-
+zation: dispersion, bimodality, constraint, and consolidation. Mouw and
+Sobel only attempt to measure dispersion (variance). They dismiss the
+value of identifying bimodality (kurtosis) on the grounds that their mea-
+sure of dispersion also taps bimodal trends (see our 1996 article, pp.
+695-96, for a critique of this view). Although they do not mention the
+constraint of opinion across issue domains (Cronbach’s alpha) or the con-
+solidation of opinion parameters with structural parameters (group-level
+differences in means), they do discuss changes in means for one gruop
+over time. Such changes in a single group, however, do not indicate po-
+larization. Finally, although they do not make this argument, Mouw and
+Sobel’s general critique could extend to our method of measuring con-
+solidation by comparing group-level differences in means calculated from
+ordinal data.
+
+In recent work on polarization between and within religious traditions
+in the United States, Evans (2000) used a method that addresses Mouw
+and Sobel’s implicit critique of the consolidation measure. Instead of
+estimating the mean for each year for each group under comparison, he
+used an ordered logistic regression model, with the abortion scale as the
+dependent variable. A group x year interaction term tested whether
+changes in response to the abortion question were significantly different
+for the two groups. This approach also made it possible to control for
+covariates that may shape opinions over time, as advocated by Hoffman
+and Miller (1998). He found that polarization in abortion attitudes (in the
+sense of consolidation) has occurred between mainline and evangelical
+Protestants since 1972.
+omous dependent variables by transforming the observed data into a
+variable that meets the assumptions of regression. Whereas logistic re-
+gression—the most commonly used solution to this problem—turns the
+dependent variable into the log of the odds of an event, probit regression
+addresses the problem by taking the z-score of the probability to produce
+an unconstrained continuous variable. (Specifically, it calculates the cu-
+mulative normal probability of choosing the next higher category of Y.)
+It happens that a z-score includes the mean and standard deviation of
+the (now continuous) variable in question: (x — mean)/SD. The important
+point here is that z-scores contain estimates of variance for the new de-
+pendent variable. This is the reason to choose probit rather than some
+other transformation.
+
+Mouw and Sobel’s adapted probit procedure has the useful feature of
+making it possible to ascertain how well the model fits with prescribed
+changes in the variance across time (x). It does not focus our attention,
+as do most probit analyses, on the effect of x on y. Instead, Mouw and
+Sobel assess the fit of a model that posits increasing variance over time,
+and compares the fit of that model to the fit of other models that hold
+variance constant. Alvarez and Brehm (1995) use this method (derived
+from Harvey 1976) to demonstrate that respondents who hold conflicting
+values on the role of women and the sanctity of human life vary more
+in their responses to abortion questions than respondents who hold con-
+sistent positions on those issues.
+
+Mouw and Sobel estimate several of these probit models in order to
+test such assumptions as constant variance, increasing variance, increasing
+mean, and several combinations thereof, on the premise that the model
+with the best fit describes the data most accurately. If the best model were
+one that specified a linear change in variance, Mouw and Sobel would
+conclude that there had been a linear polarizing trend in underlying opin-
+ions. To better understand this point, consider the example of the NES
+abortion scale.
+
+The observed variable, here called ABLAW, has four possible values:
+1, 2, 3, and 4. The probit transformation begins with the probability of
+choosing each response category (represented by the percentage of re-
+spondents in each category). For example, the observed proportions of
+respondents in each category for 1980 were .115, .327, .190, and .368,
+respectively. To predict responses to multiple categories in one equation,
+the method standardizes the cumulative probability for each category, in
+this case, .115, .442, .632, and 1.00. Because such probabilities cannot
+range below 0 or above 1, probit standardizes the (cumulative) probability
+for reach category using a z-score: (x — mean)/SD.
+
+Think of the area under a normal curve as a histogram of sorts. A line
+down the middle of a normal curve would divide the area into two equal
+parts (50% in each category). Adding two more lines would divide the
+distribution into four categories, but equally spaced lines do not fit the
+observed data. The left two categories together only account for 44.2%
+of responses, so the middle line should go to the left of center. Figure 1
+represents the 1980 data as areas under a normal curve (mean = 0; SD
+= 1). We divide the bell into four unequal pieces of 11.5%, 32.7%, 19.0%,
+and 36.8%. To make the proportions match the 1980 data, we must draw
+the lines (hereafter, “cutpoints”) dividing that bell in specific locations that
+can be mathematically derived using the probability density function. This
+is the sense in which the analysis fits parameters to match the data. Every
+time the procedure “fits” a parameter, we lose a degree of freedom. In
+this example, we specified two parameters (the mean and SD). Those two
+parameters defined the scale and shape of the curve and the other three
+parameters (the cutpoints) emerged to fit the data as proportional divisions
+of the area under the curve. We could, however, choose to specify one
+cutpoint and the mean. Then the other three parameters (two cutpoints
+and the SD) could be identified from the data. This is the crux of Mouw
+and Sobel’s approach. It allows probit to identify a meaningful standard
+deviation from the observed data. Together, the five parameters inform
+the equation that estimates latent opinion on abortion law.
+Shifting Cutpoints Absorb Changes in Bimodality
+
+Probit defines the new variable as normal, forcing its shape to have zero
+skew and zero kurtosis. That transformation is usually acceptable, but it
+is fatal if the goal of an analysis is to identify change in kurtosis over
+time. The transformation is, furthermore, problematic for cases where the
+distribution has large tails or where the action occurs in the endpoints of
+an ordinal scale because the model’s assumptions do not fit the observed
+data as well as they might otherwise. The result would be a poorly fitting
+model that cannot identify changes in the skew or bimodality of a dis-
+tribution across the independent variable. This issue is particularly salient
+for the survey question that Mouw and Sobel reexamine. Figure 2 presents
+a histogram of responses to the abortion question in 1980 and again in
+1994. This is where Mouw and Sobel’s discussion of cutpoints becomes
+important.
+
+As indicated above, Mouw and Sobel’s figure 1 can be interpreted as
+a bell-shaped histogram divided with three “cutpoints” into four portions
+matching the frequency distribution in the observed variable—11% of
+the area in the first section, 32% in the second, and so on. Mouw and
+Sobel’s cutpoints are not evenly spaced and symmetrical because the
+observed variable does not have a normal distribution. We may think of
+this procedure as, in effect, absorbing bimodality into a normal curve.
+
+Over the course of the survey period, however, the proportion of re-
+sponses in category 4 increased, making the observed distribution even
+less appropriate for standardization. Mouw and Sobel’s method accom-
+modates this change by allowing the third cutpoint to move toward the
+center of the distribution after 1990—making room in the right tail for
+more pro-choice responses in the later part of the time period and thereby
+absorbing the change that produced decreasing kurtosis (increased bi-
+modality) in our 1996 models. Indeed, the large improvement in fit that
+Mouw and Sobel report as a result of allowing cutpoint 3 to move toward
+the mean constitutes evidence of this polarization. Following the logic
+that an improvement in fit indicates a significant effect of changes in the
+model’s parameters, we conclude that there has been a significant shift
+in abortion opinion from category 3 (a middling opinion) to category 4
+(an endpoint). Given that the leftmost category has not lost ground, we
+argue that the shift toward category 4 constitutes polarization of the sort
+measured by kurtosis.
+
+When the leftmost or rightmost cutpoint moves toward the center, an
+endpoint of that distribution increases, and polarization may result if the
+opposite pole maintains its strength. If both tails increase, we can be more
+certain that the shift is not a shift toward agreement on a polar position
+(as would be the case for opinion on women’s rights over time; see fig. 3
+1980
+
+ 
+
+50% —
+
+ 
+
+45%
+
+ 
+
+40% + -
+
+ 
+
+35% 4—
+
+ 
+
+30%
+
+ 
+
+25% -- —
+
+ 
+
+20% ——-
+
+ 
+
+15%
+10% +.
+
+ 
+
+5% -
+
+ 
+
+ 
+
+0% T Tt
+Never Danger Need Choice
+
+1994
+
+50%
+
+ 
+
+45%
+
+ 
+
+40%
+
+ 
+
+35%
+
+ 
+
+30%
+
+ 
+
+25% — =
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20% a a
+
+ 
+
+15% —+—— ee
+
+10%
+
+ 
+
+5%
+
+ 
+
+ 
+
+0% +
+Never Danger Need Choice
+
+Fic. 2.—Opinion on abortion law, 1980 and 1994
+in our 1996 article). If both tails increase at the same rate, however, there
+may be no need to allow cutpoints to shift. A small or moderate evenly
+balanced shift toward the tails would merely produce increasing variance
+and can be modeled that way with Mouw and Sobel’s method. Unfor-
+tunately, a strong polarizing trend has the potential to empty the middle
+beyond the constraints of normality. That is, there could be so few re-
+sponses in the middle category that 68% could not lie within one standard
+deviation of the mean at the same time that only 95% lie within two
+standard deviations of the mean. Therefore, the result of a strong trend
+toward the tails of a distribution would be a poorly fitting model rather
+than a significant increase in variance. This is not the case for the example
+at hand, but it is an unfortunate characteristic of the method that reduces
+its usefulness as a measure of polarization.
+
+Although scholars of the pro-choice movement might debate the merits
+of Mouw and Sobel’s historical claim that a new abortion discourse ap-
+peared in the early 1990s, the observed shift in survey responses does
+appear suddenly and in conjunction with political changes rather than in
+a long gradual trend of eroding middle ground. It appears, then, that
+Mouw and Sobel have documented the same shift that we found in our
+1996 article while offering an alternative explanation that fits the evidence
+more closely than does the linear view implicit in the culture wars
+hypothesis.
+
+On the other hand, we cannot know whether their interpretation is
+correct. Mouw and Sobel state that it would be inappropriate to allow
+for a cutpoint shift unless the researcher is fairly certain that there has
+been a shift (using the current example) in the way respondents interpret
+the question. Their decision to allow a cutpoint shift thus assumes that
+the hypothetical respondents who would answer category 3 in earlier years
+but switch to category 4 after 1992 would do so not because their un-
+derlying opinion had changed but because their interpretation of the ques-
+tion had changed such that they felt a different category better matched
+their unchanging opinion. In short, they argue that the relevant indicators
+changed because people changed the way they expressed a given attitude
+without necessarily changing the attitude itself.
+
+For our question, however, the theoretical interpretation of that change
+is irrelevant. We did not ask whether interpretations had changed over
+time, we asked whether the pattern of responses had changed, regardless
+of the meaning one might attach to survey questions or their response
+categories. It is entirely possible that political contexts changed the way
+respondents interpreted questions about abortion, producing an “artificial”
+polarization. But it is also possible that people changed their opinions
+and that a deeper moral rift appeared in attitudes toward abortion law.
+The data and methods before us cannot determine whether either of these
+assumptions is true. We can only know that more people chose category
+4 in later years than in earlier years and that there had not been any
+erosion in the popularity of the opposite pole.
+
+We suggest, however, that there is an important unremarked benefit to
+modeling cutpoint shifts and changes in the mean of a dependent variable
+as Mouw and Sobel do. If cutpoint changes can be interpreted as indicators
+of polarization, Mouw and Sobel’s method offers the useful feature of
+making it possible to distinguish the trend in dispersion from the trends
+in both means and kurtosis we observed in our 1996 article. In their
+analysis, an improved fit with changing cutpoints indicates and, in effect,
+controls for the change that produced decreasing kurtosis. From this per-
+spective, then, the comparison of their M@, and M, demonstrates that
+defining a linear change in variance does not significantly improve the fit
+of the model, when controlling for the shift from category 3 to category
+4 (e.g., an increase in bimodality). This method, furthermore, allows the
+researcher to test for changes in variance under other assumptions such
+as constant, fitted, or linear trends in the mean (another by-product of
+the increased size of category 4). Because the increasing proportion of
+respondents selecting the pro-choice category is clearly specified, tested
+and controlled, the result is a clearer view of changes in the NES measure
+of opinion toward abortion law between 1980 and 1994 than the one we
+presented in “Have Americans’ Attitudes Become More Polarized?”
+the NES variable is an ordinal measure and the GSS scale may fail to
+meet even this standard. The problem of using what appears to be an
+ordinal dependent variable is resolved in the operationalization used in
+our article. Rather than treating response categories as meaningful po-
+sitions “in relation to some theoretical maxim” (p. 693), we asked whether
+the distribution of responses had changed over time. For that purpose,
+meaningful estimates of mean, variance, and kurtosis only require that
+the data be unidimensional. Although we did not consider the meanings
+that survey respondents may have attached to response categories, schol-
+ars who wish to do so would find our methods inappropriate, as Mouw
+and Sobel indicate, which is one of many reasons that we consider their
+approach a useful complement to our own.
+
+Furthermore, there is a long and well-documented debate over whether
+the Rossi abortion scale in the GSS is bidimensional (e.g. whether three
+questions represent a latent attitude toward “hard” cases, and three toward
+“easy” cases of abortion morality decisions; see, e.g., Clogg and Sawyer
+1981; Duncan, Sloane, and Brody 1982; Muthen 1982; Gillespie, Vergert,
+and Kingma 1987, 1988). Whereas in the past many scholars used the six
+questions to create a Guttman scale, more recently researchers have cre-
+ated additive scales as we did (see, e.g., Hout 1999). Adjudicating this
+debate over scaling goes beyond the scope of this comment, but the re-
+search indicates that the Rossi scale is indeed unidimensional and, while
+not a Likert scale, that it is appropriate for use in the conventional manner
+(Gillespie et al. 1987, 1988). In other words, the most important evidence
+that we presented for the polarization of abortion attitudes, evidence from
+the GSS, remains compelling.
+
+Second, Mouw and Sobel have not challenged our conclusions about
+two of the four dimensions on which we measured (and found) opinion
+polarization over abortion. We have demonstrated, as have other re-
+searchers (Hout 1999), that intergroup differences in attitudes toward
+abortion have increased over time, indicating a form of polarization we
+called consolidation. Similarly, we found a significant increase in ideo-
+logical cohesion among the items used to form the GSS abortion scale,
+indicating an increase in the aspect of polarization we called constraint.
+
+Third, although we accept Mouw and Sobel’s conclusion that there
+was no linear trend in the dispersion of NES abortion attitudes from 1980
+to 1994, we have applied Mouw and Sobel’s method to the NES abortion
+question from 1980 to 1998, bringing the data series up to date and
+separating the effects of changes in variance from the pro-choice shift
+that produced declining kurtosis in our article. Because Ted Mouw gra-
+ciously shared his Stata code with us, we were able to apply their method
+precisely and find evidence of an increase in variance even when con-
+trolling for the cutpoint shift.
+We first ran a model (EBD1, reported in table 1) with constant variance,
+constant cutpoints, and fitted means as a baseline comparison. This model
+does not fit the data well. What about change in dispersion (variance)
+without a shifting cutpoint? We fit EBD2, which holds the cutpoints
+constant, but allows the variance to change linearly (their M,). EBD2 fits
+much better than EBD1, but not well enough for further consideration.
+We concur with Mouw and Sobel that there does not appear to be any
+linear increase in variance without also modeling a change in cutpoint.
+
+Has there been a nonlinear change in variance? One of the important
+innovations in Mouw and Sobel’s method is the ease with which nonlinear
+changes in variance can be modeled. In our article, we hypothesized
+increasing polarization as linear and monotonic not for any theoretical
+reason, but due to limitations of available data and methods. After re-
+jecting the hypothesis of a linear change in variance, Mouw and Sobel
+examined the variance in each year individually in their model 1 (/,),
+which suggested that there were three distinct variances: 0° = 1980, 1984,
+and 1988; o = 1986; and o = 1990, 1992, and 1994. The result was
+their M,,, where the variance from 1990 to 1994 differed from the variance
+in the 1980s (excepting 1986). Mouw and Sobel reported that while the
+coefficient for the difference in variance in the 1990s is highly significant,
+suggesting polarization, they dismiss the model because it fits the data
+poorly.
+
+Adding the 1996 and 1998 data to the series changes the perception of
+where the distinct variance eras begin and end. Our equivalent to Mouw
+and Sobel’s M, (available upon request) suggested that the discontinuous
+change in variance occurred in 1992, not 1990. We ran model EBD3 to
+determine whether there was a nonlinear increase in variance when not
+modeling the shifting cutpoint. Although the model improved upon EBD1,
+it does not fit within conventional standards. Thus, our findings support
+Mouw and Sobel’s conclusion that there has been no overall trend in
+dispersion without modeling the change in cutpoint.
+
+However, another strength of their method is the ability to disentangle
+generalized dispersion from a specific move toward one end of a distri-
+bution. Assuming that Mouw and Sobel are correct that the cutpoint shift
+occurred in 1990 we fit the equivalent of their model M, (EBD4), which
+allows for a change in cutpoint after 1990 but holds variance constant.
+This fit significantly better than EBD1, suggesting that after 1990 there
+was a move from the center to the most liberal category. This finding is
+also consistent with that of Mouw and Sobel.
+
+To approximate the linear methods that we used in our 1996 article,
+we can also ask whether variance increases in a linear fashion after mod-
+eling, and thus controlling for, the shifting cutpoint. Examining EBD5
+reveals that the answer is no.
+
+Finally, we ask whether or not there is a nonlinear change in variance,
+given the change in cutpoint. We created a model (EBD6) with fitted
+means, a cutpoint shift in 1990, and a nonlinear increase in variance from
+1992 on. The data fit the model adequately, using the same fit standard
+as Mouw and Sobel, and the change in variance is almost significant at
+the .10 level we used in our original paper (P = .105) (see table 2). This
+is weak evidence of increased dispersion in attitudes over abortion from
+1992 to present, assuming a change in cutpoint after 1990.
+
+In an effort to be as fair as possible to our earlier thesis, Mouw and
+Sobel created a model with the slightly weaker claim that dispersion is
+greater after 1990 than in earlier years except 1986 (M,,). When we control
+for 1986 in EBD6, the result is EBD7 (see table 3). The model fits the
+data quite well: the individual coefficient for the variances after 1992 is
+significant (P < .05) and the conditional likelihood test of difference be-
+tween EBD7 and EBD4 is also significant (P < .01). Thus, if we too make
+concessions to 1986 as an exception in the earlier period, there is evidence
+that attitudes over abortion are more dispersed from 1992 to present than
+in previous years, assuming a change in cutpoint after 1990. This is sug-
+gestive of increased dispersion in addition to the shift toward the pro-
+choice pole that we measured with kurtosis in our earlier paper. In sum,
+even when the change modeled by the shifting cutpoint is controlled, there
+seems to have been increased dispersion in abortion between 1980 and
+1998.
+REFERENCES
+
+Alvarez, R. Michael, and John Brehm. 1995. “American Ambivalence towards Abortion
+Policy: Development of a Heteroskedastic Probit Model of Competing Values.”
+American Journal of Political Science 39 (4): 1055-82.
+
+Bryson, Bethany. 2000. “Notes on Measuring Opinion Polarization with
+Heteroscedastic Probit Analysis.” Manuscript. Department of Sociology, University
+of Virginia.
+
+Clogg, Clifford C., and Darwin O. Sawyer. 1981. “A Comparison of Alternative Models
+for Analyzing the Scalability of Response Patterns.” Pp. 240-80 in Sociological
+Methodology, edited by Samuel Leinhardt. San Francisco: Jossey-Bass Publishers.
+
+Davis, Nancy J., and Robert V. Robinson. 1996. “Are Rumors of War Exaggerated?
+Religious Orthodoxy and Moral Progressivism in America.” American Journal of
+Sociology 102 (3): 756-76.
+
+DiMaggio, Paul, and Bethany Bryson. In press. “Americans’ Attitudes towards
+Cultural Diversity and Cultural Authority in Higher Education and the Arts.” In
+The Arts of Democracy: The State, Civil Society and Culture, edited by Casey Blake.
+Princeton, N.J.: Woodrow Wilson Center Press.
+
+DiMaggio, Paul, John Evans, and Bethany Bryson. 1996. “Have Americans’ Social
+Attitudes Become More Polarized?” American Journal of Sociology 102:690-755.
+Duncan, Otis Dudley, Douglas M. Sloane, and Charles Brody. 1982. “Latent Classes
+Inferred from Response-Consistency Effects.” Pp. 19-64 in Systems under Indirect
+Observation: Causality, Structure, Prediction, edited by K. G. Joreskog and H. Wold.
+
+Amsterdam: North-Holland.
+
+Evans, John H. 1996. “‘Culture Wars’ or Status Group Ideology as the Basis of U.S.
+Moral Politics?” International Journal of Sociology and Social Policy 16 34.
+
+. 1997. “Worldviews or Social Groups as the Source of Moral Value Attitudes:
+
+Implications for the Culture Wars Thesis.” Sociological Forum 12 (3): 371-404.
+
+2000. “Polarization over Abortion in American Religious Traditions,
+1972-1998.” Manuscript. University of California, Los Angeles.
+
+Gay, David A., Christopher G. Ellison, and Daniel A. Powers. 1996. “In Search of
+Denominational Subcultures: Religious Affiliation and ‘Pro-Family’ Issues
+Revisited.” Review of Religious Research 38:3-17.
+Gillespie, Michael W., Elisabeth M. Ten Vergert, and Johannes Kingma. 1987. “Using
+Mokken Scale Analysis to Develop Unidimensional Scales: Do the Six Abortion
+Items in the NORC GSS Form One or Two Scales?” Quality and Quantity 21:
+393-408.
+
+. 1988. “Secular Trends in Abortion Attitudes: 1975-1980-1985.” Journal of
+Psychology 122 (4): 323-41.
+
+Harvey, Andrew. 1976. “Estimating Regression Models with Mutiplicative
+Heteroscedasticity.” Econometrica 44:461-65.
+
+Hoffmann, John P., and Alan S. Miller. 1998. “Denominational Influences on Socially
+Divisive Issues.” Journal for the Scientific Study of Religion 37 (3): 528-46.
+
+Hout, Michael. 1999. “Abortion Politics in the United States, 1972-1994: From Single
+Issue to Ideology.” Gender Issues 17 (2): 3-34.
+
+Hunter, James D. 1991. Culture Wars: The Struggle to Define America. New York:
+Basic Books.
+
+. 1994. Before the Shooting Begins: Searching for Democracy in America’s
+Culture War. New York: Free Press.
+
+Muthen, Bengt. 1982. “Some Categorical Response Models with Continuous Latent
+Variables.” Pp. 65-80 in Systems under Indirect Observation: Causality, Structure,
+Prediction, edited by K. G. Joreskog and H. Wold. Amsterdam: North-Holland.
+
+Williams, Rhys H. 1997. Cultural Wars in American Politics: Critical Reviews of a
+Popular Thesis, edited by Rhys H. Williams. Hawthorn, N.Y.: Aldine de Gruyter.

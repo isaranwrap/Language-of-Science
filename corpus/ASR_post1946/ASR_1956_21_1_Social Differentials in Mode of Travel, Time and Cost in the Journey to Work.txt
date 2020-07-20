@@ -1,0 +1,565 @@
+@SAGE As)A
+http://www.jstor.org/stable/208934 1 ?seq=1 &cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+and the marked redistribution of resident
+population, the residential distribution of
+C.B.D. workers has remained very similar to
+that of the total population in terms of zonal
+distance from the center of the city. At the
+same time, the residential distribution of
+C.B.D. workers has remained strikingly dif-
+ferent from that of other workers in terms
+of distance from the workplace.
+
+Summary. The differentiated pattern of
+urban land use clearly implies a separation
+of workplaces and residences for labor force
+members. Lack of adequate data on work-
+place and residence for labor force members
+in the United States has prevented system-
+atic description and measurement of work-
+residence separation, although its importance
+in the organization of urban areas is rec-
+ognized. Data obtained as a by-product of
+the Occupational Mobility Survey are used
+to test a number of propositions appearing
+in the literature for the universe of wage and
+salary workers residing in the City of Chicago
+in 1951.
+
+The analysis supports the proposition that
+substantial variation in degree of separation
+obtains among groups comprising the labor
+force. Degree of separation varies directly
+with socio-economic level. Separation is sub-
+stantially greater for individuals working in
+the Central Business District than for those
+working outside the area. Socio-economic
+level and degree of workplace centralization
+operate jointly as well as independently to
+produce work-residence separation.
+The findings are consistent with more
+general propositions about the structure of
+urban areas. Good housing and preferred
+residential sites are seldom found in prox-
+imity to industrial and commercial areas.
+It would probably be possible to reproduce
+approximately the observed patterns of dif-
+ferentials in work-residence separation with
+a model which assumes that labor force
+members will reside in that area nearest
+their workplace which is compatible with
+their socio-economic level; however, such a
+model has not yet been adequately tested.
+
+No clear relationship of degree of separa-
+tion to socio-economic level or workplace
+centralization is evident for nonwhites. But
+the finding is not necessarily inconsistent
+with the hypothesis that socio-economic level
+and workplace centralization are major de-
+terminants of work-residence separation. The
+existing pattern of residential segregation
+of nonwhites, which permits little flexibility
+in residential location, may render them in-
+operative.
+
+Comparative data on work-residence sepa-
+ration in Chicago for 1916 suggest a per-
+sistence of work-residence differentials
+through time. Although mean separation in-
+creased during the period, the work-residence
+separation of Central Business District
+workers remained substantially greater than
+that of other workers. It seems likely that
+successive analyses can ascertain general
+relationships between work-residence sepa-
+ration and ecological, socio-economic, and
+demographic variables.
+Two recent studies subscribe to the hy-
+pothesis that “each worker seeks to mini-
+mize distance from home to work,” and
+that the distribution of industrial workers is
+a consequence of the operation of the “prin-
+ciple of least effort” as applied to human
+behavior.2 Ranyak modifies this thesis by
+suggesting that: “People tend to minimize
+their journey to work, maximize their em-
+ployment benefits and maximize their resi-
+dential amenities.” ? In a critical discussion
+of the “least effort” approach Schnore says
+that the least-effort hypothesis appears to
+confuse motivation with its external limiting
+conditions.*
+
+It has been suggested by Leipmann and
+Hawley that the daily journey to work has
+implications of a wider nature in the chang-
+ing social order.’ These daily movements
+may supplement migration in those cases
+where the motive is to seek new employment
+opportunities. Hawley goes further in sug-
+gesting that the daily journey to work might
+supersede migration, at least within local
+areas.
+
+Human ecologists, concerned as they are
+with regularities of spatial ararngements and
+the factors related to these regularities, have
+tended to focus their theoretical orientation
+toward the problem of commuting in terms
+of the restrictive nature of space.* While
+John E. Watson, “Traveling Time to Work,” ibid.,
+pp. 282-291; Institute for Research in Social Sci-
+ence, Population Distribution—Spatial and Tem-
+poral: A Study of Daytime-Nighttime Differentials
+in the Proportionate Distribution of the Total
+Population of Selected Urban Areas, Chapel Hill:
+University of North Carolina (Industrial Areas
+Study), 1952; Robert B. Mitchell and Chester
+Rapkin, Urban Traffic: A Function of Land Use,
+New York: Columbia University Press, 1954.
+
+2J. Douglas Carroll, Jr., “Home-Work Rela-
+tionships of Industrial Employees,” Ph.D. disserta-
+tion, Harvard University, 1950, pp. 21, 24, 130;
+Population Distribution—Spatial and Temporal,
+op. cit.
+
+8 John A. Ranyak, “A Theoretical Approach to
+the Journey to Work,” Bachelor’s Thesis, Massa-
+chusetts Institute of Technology, 1952, pp. 11-12.
+
+#Leo F. Schnore, “The Seperation of Home
+and Work: A Problem for Human Ecology,” Social
+Forces, 32 (December, 1954), pp. 336-343.
+
+5Kate K. Leipmann, The Journey to Work,
+New York: Oxford University Press, 1944; and
+Amos H. Hawley, Human Ecology, New York:
+The Ronald Press, 1950.
+
+See for example: James A. Quinn, Human
+Ecology, New York: Prentice-Hall, 1950, pp. 285-
+based upon an adaptation of the Bureau
+of the Census sampling procedure.’ The
+number of adults per dwelling unit in ran-
+domly selected blocks were listed, and the
+actual sample was then randomly selected
+from this listing. The respondents selected
+for the sample were interviewed during a
+one-week period in March, 1952. Schedules
+were completed for 331 respondents; data
+were secured on such items as: education,
+age, income, residential mobility, job mo-
+bility, occupation, house type, dwelling area
+rating, in addition to journey to work vari-
+of males in the sample (see Table 1). Analy-
+sis of the data showed that the median age
+for the sample as a whole was 44.8 years.
+
+The median weekly income for the home-
+owners in the sample was $82.56, and the
+median income for the renters in the sample
+was $68.17 per week.
+
+The data showing the occupational distri-
+bution in Table 1 indicate that the sample
+derived for this study tended to be skewed
+toward the upper end of the occupational
+scale. Although there is a high proportion
+of home ownership in Spokane, the sample
+is evidently biased in this direction (see
+Table 1).
+It has been pointed out that the mode of
+travel in our cities is related to the size of
+the city. Duncan found that the use of the
+automobile does not diminish appreciably in
+American cities of moderate size, despite
+the opportunity of reaching the place of
+work through other means.’ He found that
+in six cities of 100,000 to 500,000 popula-
+tion, there was a median of 72 per cent who
+arrived in private automobiles. The present
+study of Spokane found that 73 per cent of
+the sample used an automobile to travel to
+work.
+
+The sub-hypothesis involving the relation-
+ship in mode of travel and the daily cost of
+transporation to work was rejected. (All sta-
+tistically significant findings are shown in
+Table 2.) Analysis shows that the differ-
+ences in mode of travel with respect to the
+cost of the journey to work were significant
+beyond the .001 level. The cost of the
+journey to work was greater for a larger
+number of commuters using an automobile
+than for those using other means of trans-
+portation, particularly public transportation.
+The median cost of traveling to work one-
+way for those using an automobile was 26
+cents per day; for those not using an auto-
+mobile the cost was 14 cents per day. The
+median cost of the journey to work one-way
+for the total sample was 18 cents per day.
+Certainly, the argument that it costs more
+money to use an automobile to travel to work
+is borne out by these figures. This does not
+necessarily argue for using public transporta-
+tion, as is so often done by planners and
+traffic experts, for the use of the automobile
+is now considered a necessity by many
+Americans. It has, to be sure, become a part
+of the urban way of life, tied in with the
+growing separation of work-place from place
+of residence.
+
+The question of the validity and reliability
+of the measure of cost of travel to work might
+be legitimately raised. This is undoubtedly
+a complex problem, and the technique used
+in this study of asking people to estimate
+the costs of driving their car is admittedly
+deficient. A more satisfactory alternative
+would have been to have the respondents
+keep a record of all expenses within a given
+time period and to mail the record to the
+investigator at the end of that period.
+
+It was hypothesized that there would be
+no statistically significant differences in the
+mode of travel to work with respect to the
+time involved in travel to work. (Time is
+used here as an index to the distance be-
+tween workplace and residence.) No signifi-
+cant differences were found between those
+who walk or use public transportation and,
+on the other hand, those who use a private
+automobile. Of those respondents who ar-
+rived at work in less than ten minutes, 71.4
+per cent of them traveled via an automo-
+bile; for those who arrived at work in 10-19
+minutes from the time they left home, 73.8
+per cent traveled by automobile. Analysis
+of the data showed that at the extremes of
+the time involved in getting to work, ie.,
+the lower as well as the upper, the automo-
+bile users were in the majority.
+
+The median time involved in going to
+work for those using an auto was 17.0 min-
+utes, and for those not using an auto the
+median time was slightly higher, 19.0; for
+the total sample, the median time was 17.5
+minutes. A thirty minute commuting time
+in an automobile is equivalent to traveling
+a distance of about fifteen miles. Hence, the
+median distance traveled in Spokane was
+eight and one-half miles for those using an
+automobile. This is a rather high figure for
+a city of this size, but it may be partially
+explained by the fact that many workers
+living in Spokane commute to an industrial
+suburb to work in the aluminum mills. The
+data indicate that the automobile does lend
+a certain flexibility to the worker with re-
+spect to increasing the separation between
+his place of work and his residence.
+
+The sub-hypothesis concerned with the re-
+lationship of owners and non-owners of auto-
+mobiles and their mode of travel to work
+was rejected by the data. The differences
+between these two groups was significant
+beyond the .001 level, with the preponder-
+ant number of owner-respondents traveling
+to work either in their own or some other
+person’s automobile. Ownership of an auto-
+mobile undoubtedly influences the manner
+used to journey to work. Indeed, the spread
+of automobile ownership to all segments of
+society has led city planners to the belief
+of those using public transportation to travel
+to work, 91.6 per cent lived within two
+blocks of public transportation. Residential
+proximity to public transportation did not
+appear to be a factor in automobile owner-
+ship. Analysis showed no significant differ-
+ence in automobile ownership and non-own-
+ership with respect to distance to public
+transportation.
+
+Sex Differentials. One of the purposes of
+this study was to establish, in addition to
+the characteristics of occupation and in-
+come, the differential sex characteristics in
+regard to mode, time, and cost involved in
+traveling between place of residence and the
+place of work. Analysis of the data by sex
+characteristics with regard to commuting
+time to work failed to yield statistically sig-
+nificant differences. Are there differences be-
+tween the male and female working popula-
+the dynamics of urban working life. The
+data indicate that there are significant dif-
+ferences in the cost of the mode of travel,
+with the user of the automobile paying the
+higher cost for the convenience of driving to
+work in an automobile. Since these data indi-
+cate that the female worker in Spokane tends
+to ride to work in public transportation, we
+would expect that the costs of the journey
+to work would be differentiated on the basis
+of sex, i.e., it costs the women less money to
+get to work than it does the men. This was
+borne out by the results which showed that
+for those spending 20 cents or less to travel
+to work one-way, 51.5 per cent were males
+and 80.5 per cent were females.
+Socio-economic Status Differentials: In-
+come. A major determinant of status in our
+society is the amount of income earned by
+an individual. Ogburn has appropriately
+raised the question: “How do the length of
+the journey to work and the mode of travel
+vary with income . . . how prevalent is
+the tendency for higher income workers to
+live greater distances from work?” ® A cross-
+tabulation between income per week of the
+respondents and time involved in the journey
+to work showed that there were no statisti-
+cally significant differences. According to
+the data in this sample of Spokane, distance
+between place of residence and place of
+work, as measured by time involved in getting
+to work, was not differentiated on the basis
+of income. These findings are in disagree-
+ment with those of Carroll who found that
+lower income groups tend to live closer to
+work,2°
+
+The relationship between cost of the jour-
+ney to work and income per week was tested
+and also showed no statistically significant
+differences. Analysis of the percentage differ-
+ences of the income groups in terms of cost
+of travel showed that they were in the ex-
+pected direction although the over-all differ-
+ences were not statistically significant.
+
+Statistically significant differences (P=
+001) were found in the income of respond-
+ents with respect to their mode of travel to
+work. There were few respondents in this
+sample who walked to work; the majority of
+the respondents in the category “without
+auto” used public transportation. It is note-
+worthy to observe that the mode of travel
+was particularly differentiated in the ex-
+tremes; only 1.5 per cent of the respondents
+using an automobile to travel to work had
+a weekly income of $39 or less, whereas 32.3
+per cent had incomes of $100 or more.
+Furthermore, the two middle-income cate-
+gories of $60-$79 and $80-$90 showed little
+differentiation in the mode of travel to work.
+These findings again are in conflict with
+Carroll’s research in Masachusetts where he
+found that the lower income groups were
+more likely than upper income groups to use
+automobiles to travel to work.1! It should be
+recalled that Carroll’s study was made in a
+more developed, heavily populated, industrial
+center in the East, where the phenomenon of
+suburbanization and the commuter train is
+widespread. On the other hand, the cities
+of the West, such as Spokane, tend to have
+large areas of relatively sparsely-settled land
+within the corporate limits. In this city, as
+in others, the outer zone has been developed
+for middle-class residences. The phenomenon
+of the commuter train is non-existent here;
+the automobile is the major vehicle of trans-
+portation. The public transportation system
+does serve these areas, but this is not rapid
+transportation, and the resident of these
+areas utilizes his automobile to travel to
+work.
+
+Socio-Economic Status Differentials: Oc-
+cupation. A person’s occupation may be con-
+sidered to be of primary importance in the
+assignment of that person to a given class
+position in society. Some have even con-
+sidered it to be the most important single
+factor in the constellation of items that enter
+into determination of social class.1? The
+Edwards’ occupational socio-economic status
+scale was used to categorize the respondents
+in this study; cross-tabulations of the occu-
+pational classifications were then made with
+the commuting data to determine the rela-
+tionship between this variable and commut-
+ing.
+
+Analysis of the data by occupation and the
+time involved in getting to work showed that
+there were differences statistically significant
+at the .01 level. The data show that re-
+spondents in the upper socio-economic status
+occupations tend to spend less time traveling
+between their home and place of work than
+the respondents in the lower socio-economic
+status occupational categories.
+
+There were no statistically significant dif-
+ferences in occupational status of the re-
+spondents with respect to the daily cost of
+the journey to work. When the occupational
+groups were dichotomized into “High” and
+“Low” categories, the only differences noted
+in the cost of the journey to work were that
+30.3 per cent of the “High” occupational
+group spent more than 30 cents in one-way
+travel as compared to 26.5 per cent of the
+respondents in the “Low” occupational cate-
+gories.
+
+No significant differences in occupation
+were found with respect to the mode of travel
+to work.
+
+Socio-economic Status Differentials: Index
+of Status Characteristics. The data were also
+analyzed in terms of Warner’s Index of
+Status Characteristics.1* Every respondent
+was assigned a rating according to this tech-
+nique; these ratings were then combined into
+groupings for purposes of analysis. (Roughly
+the groupings correspond with Middle Class,
+Working Class, and Lower Class according
+to the method suggested by Warner, et. al.)
+The commuting data were then cross-tabu-
+lated with the ISC rating and no statistically
+significant differences were found. This find-
+ing is interesting in the light of the results
+obtained with income and occupation with
+respect to the variables of mode of travel
+and time.
+
+Socio-economic Status Differentials:
+Dwelling Area Rating. The sociological study
+of the community has included the spatial
+distribution of various types of residential
+areas, e.g., Burgess’ descriptive categories of
+“working men’s homes or ‘two-flat area’,
+single-family dwellings and the restricted
+district.” 14 Research has shown that income,
+occupation, and in general, socio-economic
+stratification is closely related to housing
+variation. One basis for stratifying the popu-
+lation of a community is to use the natural
+residential area, in this case, census tracts,
+and to assign relative ranks to each. It is
+then possible to test hypotheses relating to
+differences between residential areas and
+time-distance, cost, and mode of travel in
+the journey to work.
+
+The method employed in this study to
+classify the residential areas was based on
+the techniques described by Warner, Meeker,
+and Eells.1° They suggest the use of a seven
+point scale ranging from “very high” to
+“very low” to rank the areas. Each rating
+in the present study applies to the census
+tract in which the respondent lived. The
+This study has provided data about the
+commuting patterns and differences of vari-
+Ous socio-economic groups in a medium-sized
+city. Facts have been presented about the
+mode of travel, commuting time, and com-
+muting costs in the journey to work. Differ-
+entials in these commuting characteristics
+for major areas of the city, for each sex, for
+each occupational group as well as socio-
+economic characteristics were examined.
+
+The results of the study suggest certain
+implications for our changing social order.
+The rather widespread ownership of the
+automobile and its use as the major vehicle
+of transportation in the daily journey to
+work appear to render greater flexibility to
+the breadwinner with regard to location of
+his residence in terms of his place of work.
+This flexibility of movement may have an
+effect of reducing residential mobility, in-
+creasing job mobility, and perhaps increasing
+what Schnore calls the dysfunctional aspects
+of the journey to work.
+
+It is important to note that none of the
+socio-economic status variables showed sta-
+tistically significant differences with respect
+to the cost of the journey to work. Income
+N earlier paper+ presented data de-
+A signed to throw light on the possible
+
+selective aspect of rural-urban mi-
+gration among youth in Missouri. The data
+were drawn from a sample of young people
+who attended high school in 116 Missouri
+communities from 1939 to 1941 and whose
+whereabouts in 1952 were known. The in-
+vestigation seemed to support the conclu-
+sion that migration from farms and small
+towns in Missouri towards urban areas
+during the period between 1940 and 1952
+tended to be selective of those students with
+higher scores on a standard intelligence test.
+Both in terms of average score and in
+terms of the proportion of those with highest
+scores, the migrants seemed definitely su-
+perior to the nonmigrants. Those who moved
+to larger communities were superior to the
+ones remaining at home or moving to smaller
+towns, and those migrants who moved be-
+yond state boundaries seemed superior to
+those who remained within the State of
+Missouri.
+
+In the interpretation of the superior test
+performance of migrants as compared to
+nonmigrants, of migrants to cities as com-
+pared to movers to small towns and farms,
+or of long distance migrants as compared
+to short distance ones, it was suggested that
+intelligence in itself was probably not a
+
+1C. T. Pihlblad and C. L. Gregory, “Selective
+Aspects of Migration Among Missouri High School
+Graduates,” American Sociological Review, 19
+(June, 1954), pp. 314-324.
+primary factor. There is probably no “natu-
+ral tendency” for the less able to stay at
+home and for those with higher capacity to
+move. The explanation may lie in the fact
+that those with higher test intelligence tend
+to gravitate to occupations which are associ-
+ated more with urban than with rural life.
+That is, both in training opportunity and in
+the pursuit of occupation, outlets tend to be
+limited primarily to cities. The next steps in
+the study, therefore, are to analyze the re-
+lationship between intelligence ? and occupa-
+tion and, secondly, to relate occupation
+to various aspects of migration. We shall
+undertake the first of these steps in this
+paper, leaving the second for a later presenta-
+tion.
+
+The relationship between occupation and
+test intelligence has been the subject of
+considerable investigation.2 Most of the

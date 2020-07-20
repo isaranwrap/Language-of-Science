@@ -1,0 +1,1684 @@
+Children of Misfortune: Early Adversity and Cumulative Inequality in Perceived Life
+Trajectories
+
+Author(s): Markus H. Schafer, Kenneth F. Ferraro and Sarah A. Mustillo
+
+Source: American Journal of Sociology, Vol. 116, No. 4 (January 2011), pp. 1053-1091
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/655760
+
+Accessed: 08-06-2016 04:50 UTC
+‘ Earlier versions of this article were presented at the 2008 meeting of the American
+Sociological Association in Boston and the Indiana University Social Psychology,
+Health, and the Life Course workshop. The article has benefited from the helpful
+criticism of Pamela Jackson, Jane McLeod, Tim Owens, Eliza Pavalko, Joy Pixley,
+Brian Powell, Donald Reitzes, Peggy Thoits, Andrea Willson, and AJS reviewers.
+Support for this research was provided by a grant from the National Institute on Aging
+to the second author (RO1AG033541). Data were made available by the Inter-University
+Consortium for Political and Social Research, Ann Arbor, Michigan. Neither the col-
+lector of the original data nor the consortium bears any responsibility for the analyses
+or interpretations presented here. Direct all correspondence to Markus Schafer, De-
+partment of Sociology, Purdue University, West Lafayette, Indiana 47907-2059. E-mail:
+mhschafe@purdue.edu
+picious label (Sampson and Laub 1997), or socioeconomic strain (Hayward
+and Gorman 2004), can have enduring consequences on life chances. Early
+life course events and experiences are the seedbed for lifelong human
+development, and life course scholars are bringing fresh insights into how
+negative conditions during childhood and adolescence compromise adult
+well-being (Turner and Lloyd 1995; Conley and Bennett 2000; Dube et
+al. 2001; Singh-Manoux and Marmot 2005).
+
+Missing from most of this research, however, is explicit attention to
+how people interpret the course of their lives in light of the adversity they
+have experienced. Most previous studies on the topic identify the negative
+early-life exposures and seek to link these to outcomes during adulthood
+and later life. This genre of research is exemplary to aid our understanding
+of the life course, and the priority on structural disadvantage is well
+placed. At the same time, human agency plays an important role in how
+people interpret and respond to early adversity. Some people face major
+disadvantages but fare rather well by mobilizing resources, choosing
+wisely, and/or expending extraordinary effort (Thoits 2006). This is not
+to diminish the influence of structural disadvantage but to recognize the
+important role that human agency plays in facing adversity. As several
+recent papers demonstrate, how people interpret their experience of ad-
+verse events is critical for either the maintenance of well-being or opti-
+mization of life chances (Surtees and Wainwright 2007; Reynolds and
+Turner 2008).
+
+From an interactionist point of view, people actively interpret and de-
+fine lines of action (Goffman 1959; Blumer 1969), and reflective processes
+provide intrinsic motivations for behavior (Gecas and Burke 1995). Few
+studies, however, have examined how people fit together lines of actions
+over the life course to understand the ebb and flow of life sequences. To
+that end, this article systematically examines how adversity during child-
+hood affects the way in which adults understand their past, present, and
+future—whether things are getting better, growing worse, or staying the
+same. We examine a straightforward measure, general life evaluations,
+investigating how temporal appraisals are related to actualized futures
+and whether early adversity has long-term consequences on life evalua-
+tions.
+
+As beings that often construe events in narrative form, humans in-
+terpret life in a way in which circumstances in the past, present, and
+future constitute an understandable and unified story (Mead 1932; Call-
+ero 2003). These cognitive schemas are of interest to social psychologists
+interested in mental health (Keyes and Ryff 2000) but also to sociologists
+who argue that perceived life trajectories are closely linked to the process
+of cumulative inequality (Ferraro, Shippee, and Schafer 2009). Individ-
+uals’ interpretations of their lives are rooted in structural systems of
+advantage and disadvantage, but the interpretations also shape the fu-
+ture through goals, expectations, and/or self-fulfilling prophecies (Mer-
+ton 1995). Though beliefs about the modifiability of life trajectories are
+an essential element of human agency, the tenability of these optimistic
+beliefs has received little systematic attention. Do people’s forecasts
+generally envisage a brighter tomorrow? And do their evaluations of
+the past and expectations for the future actually influence how things
+turn out?
+
+These questions also fall within the purview of broader sociological
+discussion about the dialectic of agency and structure. Recent attention
+to agency emphasizes how situational and reflexive aspects of the self
+proceed through time and shape life trajectories, underscoring the im-
+portance of optimism for the attainment of agentic goals (Hitlin and Elder
+2007a, 2007b). The wealth of theorizing, while thoughtful and stimulating,
+has yet to eventuate in much empirical research on how agency and
+structure are related to processes of cumulative inequality. Much of this
+owes to the abstract nature of agency and the difficulty in empirically
+assessing its influence on individuals’ lives. As Hitlin and Elder note,
+agency remains a “slippery” concept because “theory and research have
+largely occurred in isolation” (2007), p. 185).
+
+Though social scientists often veer away from the deterministic posi-
+tions that characterize some biological theories of human development,
+perspectives on the long-term effects of early disadvantage vary in their
+emphasis on the irreversibility of early adversity—scarring effects versus
+opportunities for resilience.” We argue for some of each. Early disadvan-
+tage (relative deprivation, family dissolution, exposure to abuse, poor
+health) is not likely irreparable, and the optimism embodied in human
+agency can stave off resignation and fatalism in the face of early adversity;
+yet early disadvantage likely limits the ability to actually rebound, despite
+an optimistic stance toward the future. In developing our argument and
+through empirical evidence from the Midlife Development in the United
+States (MIDUS) study, we advance the theory of cumulative inequality,
+drawing fresh attention to the dialectic of structure and agency over the
+life course.
+
+To develop the research questions for contributions to the sociology of
+the life course, we discuss four topics in this introductory section. First,
+we briefly describe the origins of cumulative inequality theory and its
+utility for research on a variety of issues related to well-being. Second,
+we summarize the burgeoning literature on the early origins of adult well-
+CUMULATIVE INEQUALITY THEORY: AN INTEGRATIVE
+PERSPECTIVE ON THE LIFE COURSE
+
+One of the most important themes in life course research has been socio-
+genesis of inequality, including the dynamics of intracohort differentiation
+(Dannefer 2003; Elman and O’Rand 2004; Willson, Shuey, and Elder
+2007). The framework commonly known as cumulative advantage/dis-
+advantage (CAD) holds that statuses and events from early points in the
+life course pave the road to an individual’s future, creating a divergence
+between individuals that expands over the course of time (Dannefer 1987,
+2003; O’Rand 1996). As others have noted, many types of disadvantage
+proliferate across domains, setting into motion a cascading effect by which
+“one condition [is] overtaken by the next in a serial unfolding of hardships”
+(Hatch 2005, p. 131). The broad body of literature encompassing these
+processes is known alternately as cumulative advantage (DiPrete and
+Eirich 2006; Willson et al. 2007), cumulative disadvantage (Dupre 2007),
+or a combination of the two (Dannefer 2003). Building on these illumi-
+nating works, we integrate and expand on elements from other theories
+with cumulative inequality theory (CIT).
+
+CIT builds upon CAD and other theories to explicate the mechanisms
+by which inequality develops between persons over the life course (Ferraro
+et al. 2009). The theory maintains that “social systems generate inequality,
+which is manifested over the life course via demographic and develop-
+mental processes, and that personal trajectories are shaped by the ac-
+cumulation of risk, available resources, perceived trajectories, and human
+agency” (Ferraro and Shippee 2009, p. 333). Emphasis is thus placed on
+integrating both systemic and agentic processes, not only the “social system
+processes acting on populations or other collectivities” (Douthit and Dan-
+nefer 2007, p. 224). CIT is formulated axiomatically as a middle-range
+theory that integrates other theories in a synthetic way; it is, in Merton’s
+(19688, p. 68) words, “consonant with a variety of sociological systems of
+thought” and “consolidated into wider networks of theory.”
+The Importance of Early Origins on Cumulative Inequality
+
+One of the chief contributions from studies using CAD and life course
+theories has been to demonstrate long-term consequences of early status
+inequality, especially those associated with educational differences. Just
+as financiers understand that compound interest increases principal in-
+vestment at differential rates of return, so do life course scholars articulate
+that one’s initial allowance of capital—social, economic, physical reserve,
+or other—should set the stage for divergent life trajectories (Elman and
+O’Rand 2004). Indeed, Merton (1968a) referred to this as the Matthew
+effect because he observed the long-term benefits of early scientific
+achievement, not only for the acclaim attendant with an important dis-
+covery but also because the initial favor boosted the value of subsequent
+scientific contributions.
+
+Though it may seem rather intuitive that those with resources can
+parlay their advantage into further advantage, there may be other mech-
+anisms (outside of the individuals themselves) that can help explain why
+early periods of the life course are important for cumulative inequality.
+
+framework on “age-graded informal social control” that draws from several theories—
+life course, cumulative disadvantage, labeling, developmental criminology, and social
+control—and uses the concept of situated choice to explicate how the structure/agency
+dialectic influences criminal activity. For a systematic development of CIT’s five axioms
+and 19 propositions, see Ferraro et al. (2009).
+
+* As an exemplar of empi 1 tests, O’Rand and Hamil-Luker (2005) demonstrate that
+some aspects of early disadvantage can have long-term effects on the risk of heart
+attack during adulthood. Ferraro and Kelley-Moore (2003) also found health conse-
+quences due to long-term risks (obesity) but identified how compensatory mechanisms
+may offset some of the deleterious effects of earlier risks.
+Childhood, for example, is the life course period of crucial socialization
+processes, including the development of self-esteem, role-modeling of vo-
+cational and marital behavior, and the internalization of values and norms
+(McLeod and Almazan 2003). Especially early on, each of these influences
+is centered around the family institution (Cooksey, Menaghan, and Me-
+kielek 1997), and so it is for good reason that there has been considerable
+attention given to studying the consequences of childhood home factors.*
+
+With so much at stake during childhood—from development of the self
+to the introduction to key social institutions—it is perhaps with little
+surprise that social scientists of disparate disciplinary backgrounds con-
+verge at the conclusion that early life course conditions matter deeply for
+life chances. Considering educational attainment and adult earnings as
+one consequence, growing up poor does not predestine one for a life of
+penury, but household income during the initial five years of life is strik-
+ingly related to years of schooling completed, particularly among those
+growing up in poorer households (Duncan et al. 1998). Poverty during
+childhood is similarly associated with reduced likelihood of employment
+and economic productivity (e.g., annual earnings, wage rates) as an adult
+(Haveman and Wolfe 1995; Wagmiller et al. 2006). Conflict in the family
+and parental absence (e.g., through divorce) likewise have a dampening
+effect on status attainment (Caspi et al. 1998) in addition to the well-
+documented negative consequences for long-term emotional well-being
+(Amato, Loomis, and Booth 1995; Cherlin, Chase-Landsdale, and McRae
+1998). Low socioeconomic status and parental absence likewise alter the
+life course by downwardly extending adulthood; these factors increase the
+likelihood of adopting adult identities in adolescence (Johnson and Moll-
+born 2009) and provide a rationale for early parenthood—a role in which
+accomplishment is seen as attainable by those who stand little chance of
+flourishing in labor market hierarchies (Edin and Kefalas 2005). These
+premature transitions, in turn, are associated with less stable adult family
+relations and compromise human capital attainment (Amato et al. 2008).
+
+The fields of social epidemiology, criminology, and demography, too,
+have painted a compelling portrait of the importance of the early life
+course. Economic hardship as measured by father’s low-level occupation
+has been linked to increased risk of mortality from stroke and stomach
+cancer (Smith et al. 1998). Other dimensions of social class, such as father’s
+education level and childhood housing conditions, are also related to mor-
+tality risk (Elo and Preston 1992; Kuh et al. 2002). Family disruption,
+such as divorce of parents, is likewise associated with increased risk of
+adult mortality (Schwartz et al. 1995). Health outcomes—both physical
+and mental—are similarly affected by abuse and mistreatment during
+childhood (Horwitz et al. 2001; Irving and Ferraro 2006).° Beyond health,
+however, childhood maltreatment has consequences for early adult tran-
+sitions (Foster, Hagan, and Brooks-Gunn 2008) and likelihood of criminal
+record and arrests as an adult (Widom 1989).
+
+Though many studies have focused on how a particular adversity may
+affect adult life chances, a number of studies have considered the “joint
+or cumulative effects of multiple traumas” (Turner and Lloyd 1995, p. 268;
+Turner, Wheaton, and Lloyd 1995). A series of studies by Felitti and
+colleagues (1998) examined the long-term effects of multiple traumas.
+Using data from managed care enrollees, the researchers found that child-
+hood adversities (ranging from parental divorce to sexual abuse) are con-
+sequential in their effects on adult well-being decades later. They also
+showed that a count of adverse childhood experiences—what they termed
+an ACE score—predicted a host of adult problems, such as attempted
+suicide (Dube et al. 2001), alcohol abuse (Dube et al. 2002), depressed
+affect (Dube et al. 2003), and decreased health status (Felitti et al. 1998).
+Other studies taking the cumulative burden approach report a relationship
+between multiple childhood adversities and physical and mental health
+(Turner and Lloyd 1995; Surtees and Wainwright 2007). Adversities, when
+considered in additive form, signify how their accumulation limits life
+chances.’
+
+Of course, the simple accumulation of adversity is not the only way to
+conceptualize early disadvantage. Challenges during childhood related to
+family structure, abuse and trauma, and relative deprivation, for instance,
+may have distinct long-term effects because they impede the development
+of different forms of life course capital, such as human, social, and health
+capital (O’Rand 2006; Hamil-Luker and O’Rand 2007). Indeed, distin-
+guishing between these forms of life course capital proved quite useful in
+several studies of heart attack risk between the ages of 51 and 71 (O’Rand
+and Hamil-Luker 2005; Hamil-Luker and O’Rand 2007). As others have
+noted, however, childhood adversities tend to cluster within homes, and
+“attempts to disaggregate the effects of clustered adversities may offer
+relatively little insight into processes of risk and resilience” (McLeod and
+Almazan 2003, p. 401).
+
+With these competing considerations in mind, it seems reasonable to
+examine potential domains of adversity and compare the predictive va-
+lidity of domain-specific and overall-accumulation models on outcomes.
+In addition, although most studies use an overall count of adversities (e.g.,
+Surtees and Wainwright 2007), another consideration is whether a simple
+count adequately captures what is meant by accumulation. Simple counts
+presume that each unit difference is equivalent, but there may be thresh-
+olds of when people feel especially challenged. Most people will have at
+least one childhood adversity, but facing a second or third adversity may
+lead to a greater sense of affliction. And for persons with a high number
+of adversities, perhaps eight or nine, does a unit difference have equivalent
+consequences on well-being? The term accumulation is now widely used
+in the social sciences, but we contend that greater attention should be
+given to identifying thresholds and functional forms of adversities that
+may influence the life course. In identifying such thresholds, moreover,
+one needs to consider how the actor evaluates the accumulation of ad-
+versity.
+Social psychological research sheds interesting light on this phenomenon,
+finding that individuals use multiple temporal referents to envision “pos-
+sible selves” (Markus and Nurius 1986) and to engage in comparisons
+with others (Wilson and Ross 2000). Mead’s (1932) theory of time places
+reality itself in the present but acknowledges that the past is reconstituted
+in various ways as to maintain continuity in the passage of time (Maines,
+Sugrue, and Katovich 1983). Similarly, according to Maines et al., the
+future exists not as an ontological reality, but as an anticipated, hypo-
+thetical springboard from the “specious present.” Thus, diachronic think-
+ing, rooted in the present, yields two main anchor point evaluations:
+reflective and prospective. Reflective life evaluation pertains to interpre-
+tations of one’s past and current reality, whereas prospective life evalu-
+ation envisions a future state of affairs. In other words, the key distinction
+is between lived experience (reflective) and that period of life that the
+mind foresees (prospective).°
+
+What accounts for a diachronic self? The principal view among many
+scholars is that people universally construe, tell, and revise life stories,
+making sense of their world through narratives that have a beginning
+point and progress to some form of resolution (McAdams 2001). The
+elements of a story—plot, settings, characters, scenes, themes—are widely
+familiar and are useful schemas for interpreting and making sense of the
+social world. Indeed, this may be one of the most important tasks that
+individuals undertake. As Giddens (1991, p. 54) notes, “a person’s identity
+is not to be found in behavior, nor—importantly though this is—in the
+reactions of others, but in the capacity to keep a particular narrative going”
+(emphasis added). The narration that individuals construct is hardly an
+“objective” tale in any sense of that description.’
+
+Narrative form likely differs across the life course—contingent on cur-
+rent social roles within status hierarchies—but the primacy of early in-
+equality for directing the tone and form of the story is a more fundamental
+question. Because narrative efforts typically stress self-improvement and
+growth, it is reasonable to expect that people with an inauspicious life
+start (e.g., through material deprivation, abuse, family strain) will evaluate
+The Relation of Agency to Life Trajectories and Cumulative Inequality
+
+Human agency has many expressions, but a perceived trajectory is one
+way for actors to characterize their lot in life. Taken together, reflective
+and prospective life evaluations are elements of agency because they in-
+volve both a summary judgment of how the actor has fared to date and
+a projection of how the actor envisions his or her future. Our research
+addresses an empirical question that is encased in the theoretical issue of
+how people interpret and form lines of action (Goffman 1959; Blumer
+1969).
+
+Agency is defined by Hitlin and Elder (2007a) as “an individual capacity
+for meaningful and sustained action, both within situations and across
+the life course” (p. 39). Agency is inherently a time-bound process, with
+people acting in terms of current and situational goals, but also in order
+to arrive at planned courses of action in the future. Cumulative inequality
+theory privileges the structure/agency dialectic by recognizing how the
+actor perceives his or her life trajectory, whether overcoming adversity
+or maintaining a favored status. The difficulty often comes, however,
+when one tries to pin down the concept of agency. In this analysis, agency
+is assumed to be a human trait that cannot be proven per se but that is
+demonstrated most clearly by identifying its limits—consistent with Hitlin
+and Elder’s (20076) concept of existential agency. Structures impinge on
+agency, suggesting that our chief task is to explain the forces that may
+restrict agency. Specifically, agency is circumscribed to the extent that
+people’s wishes, goals, or expectations are thwarted.
+
+This article focuses on general expectations that people have about
+their lives, which, although invoking future-time horizons, differs appre-
+ciably from studies that tap concrete goals in the life course, such as
+educational attainment (e.g., Shanahan, Elder, and Miech 1997; Dino-
+vitzer, Hagan, and Parker 2003). In one such study, competent youths
+were found to demonstrate high levels of career and marital success nearly
+half a century past their adolescence because they made wise choices and
+followed through on premeditated goals (Clausen 1991). These types of
+“planful competence” clearly reflect an important aspect of agency, but
+what of more general processes, such as overall evaluations of life and
+expected evaluations in the future? People do not consciously plan for a
+sense of life evaluation, and the very reason that there are not clear ways
+to “achieve” such evaluations makes subjective correlates of biographical
+flow an important issue to study. Whereas people can take steps to fulfill
+educational requirements or gain experience for a better job, general life
+evaluations provide a context to examine how countervailing forces can
+restrict expectations in more subtle ways.
+
+A unifying theme between the above accounts of agency and the current
+article is the focus on agency’s temporal nature. In this way, optimism is
+one of agency’s most important components because it implies that action
+can be taken that will influence the future. Hitlin and Elder (2007a), for
+instance, argue that when social psychological constructs such as self-
+efficacy are put in their proper temporal context—reflecting agentic life
+course processes that people undertake (Hitlin and Elder 2007b)—the
+resultant construct is optimism. Indeed, optimism offers an “empirically
+measurable, but [mostly] unexamined aspect of agency” (Hitlin and Elder
+2007a, p. 44). Temporally, optimism relates to a future orientation; yet the
+past cannot be dismissed as a trivial constituent of future events. Mead
+(1932) emphasized that the past “is exhibited in memory, and in the his-
+torical apparatus that extends memory” (p. 17). In this way, the past
+“becomes a stabilizing influence that shapes the flow of effort and allows
+us to sustain identities, meanings, and interactions over time” (Emirbayer
+and Mische 1998, p. 975). Interestingly, however, Hitlin and Elder (20076)
+discuss how agency is observable in present behavior and the anticipation
+of future events, but there is very little sense of how influential the past
+is for life course agency.
+
+For people with an inauspicious life start (e.g., relative deprivation,
+abuse), the past offers a theoretically important springboard. We expect
+that adversity mars the past but offers room for redemption and life
+growth, though early hardship could conceivably lower the entire slope
+of perceived life trajectories. The question is essentially whether subjective
+trajectories exhibit patterns similar to or different from the more objective
+“trajectories of failure” (e.g., educational disruption) so often seen in stud-
+ies of early disadvantage (e.g., McLeod and Fettes 2007).
+
+The dialectic of agency and structure has occupied a central place in
+the sociological imagination. Empirically elucidating the interplay be-
+tween agency and structure, then, is an important and ongoing task.
+Following theorists such as Bourdieu, Giddens, and Sewell, life course
+sociologists too have made important contributions to how we understand
+structure (e.g., Shanahan 2000; Mayer 2009). We argue that to the extent
+RESEARCH QUESTIONS
+
+We formulate two main research questions to advance our understanding
+of the structure/agency dialectic and the long-term consequences of early
+adversity. First, we ask whether childhood adversity affects diachronic
+life evaluations. That is, do high levels of early adversity dampen one’s
+overall life evaluation, spanning the past, present, and future? One po-
+tential is that an inauspicious start suppresses optimism for the future,
+creating the perception of a negative life trajectory from the past to the
+future. Alternatively, early adversity could mean that life seems to be
+improving after a turbulent start. Either way, diachronic life evaluations
+provide a window into how actors interpret their lives and anticipated
+futures.
+
+Our second main research question concerns the nature of life course
+agency and pits expectations for the future against the future itself. Using
+a follow-up wave to the same survey, we investigate how diachronic life
+evaluations—reflective and prospective alike—affect one’s evaluations. If
+perceptions about past and future matter, we should observe that positive
+reflective and prospective evaluations confer some benefit in how people
+evaluate their lives. In pursuing this question, however, we also examine
+whether adverse experiences offset the beneficial effects of these positive
+life evaluations. In other words, do adversities from childhood diminish
+DATA AND METHODS
+National Survey of Midlife Development in the United States
+
+Data are drawn from the National Survey of Midlife Development in the
+United States (MIDUS; Brim et al. 2000). Data collection was undertaken
+from 1995 to 1996 by the MacArthur Foundation’s Network on Successful
+Midlife Development. The survey first used random-digit dialing to obtain
+a sampling frame of all English-speaking noninstitutionalized adults ages
+25-74 in the contiguous 48 states.’° Next, the investigators used dispro-
+portionate stratified sampling to oversample males between 65 and 74.
+The response rate from these initial telephone interviews was 70%. The
+final stage included a two-part follow-up questionnaire mailed to those
+who participated in the telephone interview, yielding an 86.6% response
+rate. Thus, the overall response rate was 61% (.70 x .87 = .61), producing
+a total sample of 3,032 participants who completed both the telephone
+and mail interviews. After we removed subjects with missing data points,
+the total study sample comes to 2,956 for wave 1 analyses.
+
+Respondents from wave 1 were then contacted 10 years later, in 2005,
+to secure their participation for wave 2. Of the complete wave 1 sample,
+1,748 individuals completed both the telephone and self-administered fol-
+low-up interviews (58%). Sixty-eight cases were removed for missing data
+(N = 1,680). Data from both waves come primarily from the questionnaire
+portion of the survey since this was the section in which respondents were
+queried on past, present, and future life evaluations.
+Finally, they were asked to look ahead 10 years into the future and provide
+an expected life evaluation (“Looking ahead ten years into the future,
+what do you expect your life overall will be like at that time?”).
+
+Our analyses of wave 1 utilize all three diachronic points of life eval-
+uation, and our analysis of wave 2 uses life evaluation from that point
+in time. We also used the data points from wave 1 as indicators for two
+additional measures. First, we calculated an average evaluation of lived
+experiences at wave 1, adding past and present life evaluations and di-
+viding by two. We refer to this measure as reflective life evaluation. The
+other key wave 1 measure is prospective life evaluation, which is simply
+life evaluation projected 10 years into the future. Life evaluation variables
+were centered around their means when used as independent variables
+in regression analyses to reduce multicollinearity, as they were multiplied
+to estimate interaction effects.
+
+In order to measure the extent of adversity experienced early in the life
+course, we created a summary score of 16 different events. Indicators of
+childhood adversity were (1) selected on the basis of prior literature (e.g.,
+Turner et al. 1995; Felitti et al. 1998) and (2) drawn from the available
+pool of MIDUS questions on childhood. These items include receipt of
+welfare; less than a high school education for father (or mother, in house-
+holds in which father was not present); report of being “worse off” than
+other families; lack of a male in the household; parental divorce; death
+of a parent; physical abuse at the hands of a mother, father, siblings, or
+other person; emotional abuse by any of the same parties; and reported
+“fair” or “poor” physical health and mental health at age 16. Of the 16
+variables, 12 were not initially in dichotomous form, so they were recoded
+as binary markers for experiencing the given adversity."' In order to retain
+as many respondents as possible, we generated an average score for all
+subjects with at least half of the questions answered. Childhood adversity
+is the count of conditions experienced in childhood.’ The variable was
+centered around its mean for analyses in which interactive effects were
+estimated (table 3 below). We also test for polynomial forms of childhood
+adversity.
+
+To investigate the possibility that various types of adversity may have
+distinct effects, we also undertook a latent class analysis to better un-
+derstand whether specific domains of disadvantage shape perceived life
+course trajectories in different ways. The best-fitting latent class model
+included six distinct classes (as determined by Vuong-Lo-Mendell-Rubin
+likelihood ratio tests): (1) abuse (physical or emotional) perpetrated by
+mother; (2) abuse perpetrated by father; (3) abuse perpetrated by other
+person; (4) abuse perpetrated by mother, father, sibling, and other person;
+(5) family/structural strain; and (6) a nonexposure group.’ Substantively,
+the six classes were associated with the dependent variables in the same
+direction and with similar effect sizes." For this reason and owing to the
+large number of classes, the final models are presented with the summed
+adversity score (and polynomials of it) to capture the “joint or cumulative
+effects of multiple traumas” (Turner and Lloyd 1995, p. 268; Turner et al.
+1995). We provide the results using the six clusters of adversity in appendix
+table Al, however, because it may be instructive for the study of other
+outcomes.
+
+In supplementary analyses, we also tested specifications treating each
+childhood adversity separately and for the sum of two types: parental
+financial distress (i.e., poverty during childhood and received welfare) and
+all 14 other adversities. Neither of these specifications altered the major
+conclusions presented below, giving further support to the robustness of
+our findings. Nevertheless, retrospective reports of early adverse events
+are prone to underreporting bias, so there is some likelihood that the
+relationships between childhood adversity and life evaluations reported
+in this article are underestimated (Hardt and Rutter 2004).
+
+Analyses include controls for a number of correlates of life evaluations,
+each of which were measured at wave 1. Age was coded as a continuous
+variable, and sex and race were coded as binary variables (1 for female,
+1 for black), respectively. An age-squared term was explored, but since it
+did not improve model fit for the models presented herein, it was removed
+from final analyses. Three dummy variables adjust for marital status,
+including currently married, currently divorced/separated, and widowed
+(never married is the omitted reference group). Two markers of social
+class were included. Education is an approximated count of years in
+formal education (e.g., high school diploma = 12 years, master’s degree
+= 18 years). Household income was measured as the dollar midpoint
+corresponding with categories from 0 (no income) to 31 ($1 million or
+more), divided by the number of people living in the household and log-
+transformed because of its skewed distribution.
+
+Finally, adverse childhood experiences are related to health and health
+behaviors (Turner and Lloyd 1995; Felitti et al. 1998; Dube et al. 2003),
+and health issues, in turn, have a marked influence on life evaluation.
+Health-related binary variables are thus included for smoking, sedentary
+lifestyle (engaging in vigorous or moderate activity less than once a
+month), and obesity (body mass index greater than 30). The MIDUS
+survey included an exhaustive battery of questions about medical con-
+ditions experienced within the past 12 months, as well as the experience
+of heart disease and cancer at any time during the respondents’ lifetime.’°
+We first divided morbidity into serious (life-threatening) and chronic ill-
+nesses (Ferraro and Farmer 1999), creating binary variables for the pres-
+ence of each type at wave 1.'° For the portion of the analysis that predicts
+life evaluations at the follow-up wave and examines the discrepancy be-
+tween expected and attained life evaluations, we also included a measure
+for 12-month (recent) morbidity not observed at wave 1 (incident mor-
+bidity). This latter measure, therefore, captures new and recently diag-
+nosed wave 2 conditions.
+Analysis
+
+The first portion of the analysis involves fitting a model of perceived life
+trajectories that estimates the intercept and slope of the three diachronic
+life evaluation data points at wave 1—past, present, and future. The
+model was estimated using MPlus, specifying the baseline probability
+weights representing the inverse probability for being selected into the
+sample on the basis of values from the 1995 Current Population Survey
+(geographical region, metropolitan statistical area, sex, race, age, educa-
+tion, and marital status).
+
+In a statistical sense, the model was specified similarly to a latent growth
+curve model; it included a latent intercept and latent slope for perceived
+life evaluation, which allowed individuals to vary on both their initial
+life evaluations and the shape of their trajectories over diachronic time.
+The model differs, however, from true latent growth models in that it
+does not span an actual period of chronological time. If assumed to be a
+traditional growth model, the approach could be questioned on the basis
+of period bias since observations were not independent in time. Diachronic
+indicators, however, are by their very nature entities that do not corre-
+spond to actual moments in historical time. Rather, they reflect the actor’s
+evaluation of the specified time. Our use of a trajectory model in this
+context, then, is somewhat unique, but it offers an efficient way to capture
+temporal judgments.
+
+In such trajectory models, time-specific individual-level measures are
+assumed to contain input from two sources: the latent process under
+consideration and random error. If we assume that the process of interest
+follows a linear pattern over diachronic time, the individual measures can
+be modeled with an individual-specific intercept and slope across time
+plus error. The level 1 equation is
+
+¥, = a; + BA, + &,
+
+i
+
+where Y,, is the response variable for individual 7 at time ¢; a; is a subject-
+specific intercept term; 6;\, is the subject-specific slope multiplied by
+diachronic time; and ¢,, is the disturbance for individual i at diachronic
+time ¢.
+
+This portion of the model captures the within-individual trajectory over
+diachronic time and is essentially equivalent to the level 1 submodel in
+the hierarchical linear model framework. In a structural equation mod-
+eling framework, the variance of the errors can be fixed or forced to be
+equal across time. We allow them to vary.
+
+The second level of the model allows the random intercepts and slopes
+to be a function of covariates. In this model, the random intercept and
+slope are allowed to correlate. The level 2 equations are
+
+K
+a; Ma + > Yew Xin + Eis
+=1
+
+K
+Bi = be + > Yon + E53,
+=1
+FINDINGS
+
+Descriptive statistics for the sample are presented in table 1. Consistent
+with the notion that one’s lot in life will improve over time, mean values
+of past, present, and future life evaluation likewise rise, from 7.201 to
+7.661 to 8.258 (each contrast is significant at P < .001). As for actual life
+evaluation as reported at wave 2, however, the overall mean fell short of
+expectations by 0.409 units.
+
+Observing that there was indeed variation over three diachronic life
+evaluations at wave 1, we proceeded to investigate whether adverse child-
+hood experiences help explain the average of the three evaluations as well
+as the shape of their trajectory. As shown in table 2, an examination of
+the relationship between childhood adversity and life evaluation indicates
+that the number of adverse experiences is indeed related to diachronic
+perceptions of change in life evaluation. Experiencing more adverse early
+events is associated with a lower intercept, indicating that challenging
+childhood years lead to a lower starting point for life evaluation. Specif-
+ically, each additional childhood adversity was associated with an 0.18-
+point decrease in mean initial life evaluation. For example, with a mean
+intercept of about six when predictor variables are equal to their mean,
+reporting five adversities would be associated with about a one-point
+lower level of initial life evaluation (mean initial life evaluation of five
+compared to six for those with five adversities compared to those with
+no adversities). At the same time, higher levels of early adversity are
+TABLE 1
+DESCRIPTIVE STATISTICS FROM THE MIDLIFE DEVELOPMENT IN THE UNITED STATES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+
+ 
+
+STUDY
+Variable Range Mean sD
+
+Life evaluation:*
+
+Past life evaluation (wave 1) ........... 0-10 7.201 1.954
+
+Current life evaluation (wave 1) 0-10 7.661 1.656
+
+Future life evaluation (wave 1) . 0-10 8.258 1.699
+
+Current life evaluation (wave 2) 0-10 7.849 1.555
+Childhood adversity ................. oO-11 2.630 2.094
+Demographic:
+
+Age ..... 20-74 46.981 13.110
+
+Female . 0-1 513
+
+Black ... 0-1 067
+
+Married 0-1 -643
+
+Widowed 0-1 057
+
+Divorced . 0-1 154
+Social status:
+
+Education ..................cceceeeeeee ee 4-20 13.809 2.606
+
+Income (logged) ................0000e0e ee —2.30-12.61 9.639 1.587
+Health:
+
+Smoker . 0-1 227
+
+Obese .. 0-1 -280
+
+Sedentary lifestyle . 0-1 015
+
+Serious medical condition (wave 1) 0-1 302
+
+Chronic medical condition (wave 1) ... 0-1 .738
+
+Incident serious medical condition
+
+(wave 2) .. 0-1 333
+Incident chronic medical condition
+(Wave 2) .......cc cece cece cece scene eee 0-1 335
+
+ 
+
+Note.—Number of observations is 2,956 for wave 1 variables and 1,680 for wave 2
+variables. SDs of binary variables are omitted.
+“For wave 2 analyses, the average of past life evaluation (wave 1) and current life
+evaluation (wave 1) is the measure of reflective life evaluation. Future life evaluation (wave
+1) is the measure of prospective life evaluation.
+TABLE 2
+ANALYSIS OF SLOPE AND INTERCEPT OF PERCEIVED LIFE TRAJECTORIES IN THE
+
+MIDLIFE DEVELOPMENT IN THE UNITED STATES STUDY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+INTERCEPT SLOPE
+INDEPENDENT VARIABLE b SE Beta b SE Beta
+Childhood adversity ........... —.179*** = 020 —.289 061*** — 013 134
+Demographic:
+Age ..... .050*** — 004 516 —.037*** — 002 —.529
+Female . —.110 077 —.042 .128** 049 066
+Black ... 249 170 064 003 .098 001
+Married 216 124 077 126 091 062
+Widowed .450* 203 073 —.133 158 —.030
+Divorced . —.689F** 155 —.191 A00*** 107 152
+Social status:
+Education ..................5 —.031 016 —.061 .026** .010 069
+Income (logged) ............. .009 .030 012 .018 .019 033
+Health:
+Smoker . —.147 103 —.048 —.048 034 025
+Obese .. —.268** 087 —.092 .122* 056 057
+Sedentary lifestyle . — 475 334 —.051 —.046 302 —.007
+Serious medical condition
+(wave 1) ............ : —.196* 097 —.070 —.032 .065 —.016
+Chronic medical condition
+(wave 1) ............. eee —.242** 087 —.082 -003 055 001
+Random components:
+Intercepts:
+Intercept . 4.581*** 376
+Slope .. 1.426*** — 250
+Residual variances:
+Past life evaluation ..... 2.712*** 227
+Present life evaluation . 1.480*** 111
+Future life evaluation . 201 196
+Intercept .............. . JS25*** 057
+Slope ..........ceeeeeeeeeee 644** 043
+
+ 
+
+Note.—N = 2,956, CFI = .971, RMSEA = .026, b = unstandardized coefficient.
+
+* P < .05 (two-tailed).
+P< O1.
+we P< O01.
+pattern of significant relationships for the covariates was identical to what
+was observed in the more parsimonious analysis using the sum of child-
+hood adversity.
+
+Divorce, an adult experience often associated with adverse conse-
+quences, is similarly related to a lower intercept but an upward slope
+from 10 years in the past to a decade in the future. Manifesting the opposite
+pattern, greater age is related to higher starting values of diachronic life
+evaluation but with a downward trajectory in looking forward. More
+highly educated subjects tended to have upward slopes. Obese respon-
+dents, like those who are divorced, tend to have a lower starting point
+for life evaluations but see things as getting better. Respondents with
+serious or chronic illnesses, although reporting lower initial life evalua-
+tions, do not demonstrate a similar level of optimism. This is demonstrated
+by the nonsignificant slope coefficient. Females, however, tend to be some-
+what more optimistic about their future prospects.
+
+Figure 2 shows graphically how varying levels of the childhood ad-
+versity count variable influence both reflective and prospective life eval-
+uations. This analysis separates the three elements of the diachronic tra-
+jectory into the two pairs of life evaluation anchored in the present,
+identifying whether early adversity affects reflective and prospective eval-
+uations up until a certain threshold or whether its effect is consistent
+across its range. The effect of early adversity is fairly linear for both
+evaluations: higher levels of childhood adversity dampen life evaluations.
+Though both evaluations are lower overall at higher levels of childhood
+adversity, the growth curve analyses (table 2) demonstrate that high levels
+of early adversity actually increase the slope of life evaluations relative
+to their intercepts.
+
+Having established that adverse childhood experiences leave adults
+lower in their overall life evaluations yet predispose them toward height-
+ened optimism for a better future, we move to a regression analysis to
+examine whether things actually improve with time. In table 3, the de-
+pendent variable is life evaluation as reported at wave 2. The first four
+columns are reduced models showing the effects of childhood adversity,
+reflective life evaluations, and prospective life evaluations. Model 5 es-
+timates the key variables mentioned above as well as the full range of
+controls. In order to test whether early adversity offsets the reflective and
+EE
+
+ 
+
+(s¢o") (s¢0) (s¢0) (s¢0) (r£0) (r£0)
+ce TO?) ——sekk60Z ae ST) sea TOT) aca PT eae SPT" “* (T aaa) uorpenyeaa ayy] aarjvadsorg
+(4£0) (9¢0") (z¢0°) (8£0) (z¢0°) (z£0°)
+ice E08 sek L8Z oT aka Z6Z7 oka E each bE" “(7 aaa) worenerd apy eanoayay
+(900°) (900°) (900°) (900°) (900°) (900)
+«b10" ea LTO" #£10" x6T0 see ZO" pe ZO ttn neeenseeseseeeesecess -Ays12ape pooypltyD
+(s¢0’) (460) (6r0) (sb0’) (6r0) (6v0) (120°)
+wSOT— STE 660 eT ke ELT ae Z82°— sae BOOK reese Aqs12ape pooypyyD
+SPPON LPP 9 PPON Ss PPON F PPO ¢ PPO 7 PPOWL T PPO ATAVRIVA LNTANTAATGNT
+
+ 
+
+(Z PARM\) NOLLVA TVA FATT
+
+ 
+
+ 
+
+AGOALS SALVLS GALINQ) FHL NI
+
+LINANdOTAIATG AATICIP, AHL NI SATAVIAVA LNAGNAdACGN]T NO Z GAVA, LY NOILVNTIVAY GAIT JO NOISSAMOAY
+
+© ATaVL
+“T00" > di xs
+
+TO > d xx
+
+“(poyte}-0m}) SO" > d x
+“SiS ore sasayjuared
+
+UI SIaqUINN| ‘SUBIUT JTaYy} puNoIe pasejud are UONEN[eAd ay] aATIadsoid pure ‘UoENTeAad aj] AATXayor ‘AIsIaApe PooypTYD ‘089 l = N—ALON
+
+ 
+
+cee Tea Sev oe sor
+(68T'T) (€6T'T) (€6T'T) (2171) (080°)
+ax POEL cee DEEL aaa PIT Lexx T $69 xxxOSSL
+
+(1L9) (bL9) (€19) (089°)
+COV T— x LOPT— cLo7T— 6I7T—
+(p80") (p80") (p80") (r80")
+aekOTE — tek OTE’— se OTL— ake BEL —
+(060°) (960°) (960°) (460°)
+aeeCl7— ——aexOL7— ee TOT — ee EST —
+(060°) (060°) (060°) (060°)
+srl — ost’ — 7st — 4st —
+(sor) (901) (sor) (Zor)
+£90° $90" cr0" 80"
+(26s") (409°) (179) (902')
+zs 889° cco £69°
+(260°) (260°) (€60°) (€60°)
+£70" 970" 970" £70"
+(221) (221) (Z2r) (ezr')
+
+er Tvl — sst— 69l —
+
+ 
+ 
+
+ 
+ 
+
+  
+
+ydas19quy
+
+ 
+
+ 
+
+ 
+
+“+++ gsuodsa1u0 N
+crests (Z PABM) UOIIPUOD [edIpeut ITUOAYD JUspIUT
+
+vetteeees (Z 9ABM) UOTIIPUOD [eoTpaU snotias yUaproUy
+
+ 
+
+(T aABM) UONIpPUOD [edIpsut dTUOIYD
+
+ 
+
+“** ([ dABM) UOTPIPUOD [edTpauT sNorLIaS
+
+ 
+
+ 
+
+ 
+
+* g[Aysajt] Areyuapas
+
+ 
+ 
+ 
+
+asaqoO
+
+ 
+
+ 
+
+ 
+
+creesess axyOULS
+prospective life evaluations, which would otherwise increase the possi-
+bility of enhanced future life evaluation, we also multiply childhood ad-
+versity scores by reflective life evaluations (model 6). Model 7 includes
+the interaction of childhood adversity with prospective life evaluations.
+Finally, model 8 includes both interaction terms.
+
+From models 1 and 2, it is apparent that childhood adversity continues
+to negatively affect life evaluations at wave 2, but the relationship is
+underestimated unless one takes into account a squared term of childhood
+adversity. The effect of childhood adversity on wave 2 evaluations is fairly
+steep through the lower levels of the variable but tapers off at the high
+levels of childhood adversity. The inflection point of the quadratic curve
+was at 6.02 adversities, which corresponds with the highest 5% of ad-
+versity scores.
+
+In model 3, high levels of both elements of life evaluation at wave 1
+predict higher life evaluations in the actual future. The effect is stronger
+for reflective evaluations than for prospective evaluations, however (a 6
+of .27 vs. a B of .15, respectively). Essentially, people’s attained life eval-
+uation at wave 2 is a result of both lived experience pushing forward and
+expected experience pulling along, though it seems that lived experience
+has more influence. When childhood adversity and its squared term are
+added to the life evaluation predictors, each variable retains a significant
+effect on wave 2 life evaluations, again revealing diminishing conse-
+quences for very high levels of early adversity. Note also that the R’ values
+increased appreciably from models 1 and 2 to models 3 and 4, signifying
+that the direct effect of childhood adversity on wave 2 life evaluation is
+modest.
+
+Model 5 introduces the full set of control variables to ascertain whether
+the effects of wave 1 life evaluations and childhood adversity remain.
+Each remains significant, though the effect of childhood adversity is at-
+tenuated somewhat. With the full set of control variables and with re-
+flective and prospective life evaluation variables included, childhood ad-
+versity contributes relatively little to the variance explained (about .007
+difference in R’ when adversity is removed from the equation). Though
+these direct effects are modest, we consider the moderating effects of
+childhood adversity (mentioned below) to be of chief substantive and
+theoretical importance.
+
+In model 5, higher levels of logged household income are associated
+with higher levels of life evaluation when we adjust for other variables,
+whereas the inception of an illness, whether chronic or serious, is asso-
+ciated with lower life evaluations. The final three models estimate a par-
+allel equation with the addition of the two interaction terms (childhood
+adversity by each type of life evaluation), entered separately (models 6
+and 7) and simultaneously (model 8). The variable for adverse childhood
+DISCUSSION
+
+Some of our most eminent social psychologists from the 20th century
+argued for sociologists to bring people back into social science research
+(Mead 1934; Goffman 1959; Wrong 1961; Homans 1964; Blumer 1969).
+Far from puppets that mindlessly fall into a structurally determined pat-
+tern of behavior, humans make sense of their social worlds and how they
+fit within them. This process involves interpreting one’s past and looking
+toward a malleable future. Sociological studies have had little difficulty
+showing that structurally generated disadvantage serves to limit life
+chances, and the analyses from these national data concur. Nevertheless,
+our goal was also to integrate components of self-reflexivity, projection,
+and personal agency in the study of how early adversity influences the
+life course. In doing so, we build on the legacy of Mead, Homans, and
+others to bring the person back into the study of social life and cumulative
+inequality, in particular.
+
+To that end, this study set out to investigate the long-term consequences
+of childhood adversity for people’s life evaluations during adulthood. We
+investigated whether a range of early misfortunes dampened an overall
+sense of past, present, and future life evaluation, as well the trajectory of
+those three evaluative time points. In addition, we explored whether the
+perception that things would get better was “wishful thinking.”
+
+Long-term effects of childhood disadvantage have been well established
+across a range of life experiences, such as adult health (Hayward and
+Gorman 2004) and social mobility (Biblarz and Raftery 1993); indeed,
+this large body of literature suggests that the early portion of the life
+course is pivotal for lifelong development and structures (i.e., constrains
+and enables) developmental trajectories (McLeod and Almazan 2003).””
+We have attempted to locate the self and its diachronic sense of life
+progression within the framework of the life course and cumulative in-
+equality theory. Boiled down to a simple question, is the self able to
+overcome early adversity? Although many believe that the race is to the
+swift, we sought to better understand how people interpret a rough start,
+perhaps pushed off course by structural disadvantage or the hurtful be-
+havior of others.
+
+Our results reveal that agency, conceived as “an internally complex
+temporal dynamic” (Emirbayer and Mische 1998, p. 963), results in diverse
+interpretations of early adversity. On the one hand, respondents facing
+high levels of early adversity tend to see the trajectory of their life im-
+provement as on the rise; despite an inauspicious start and an overall
+dampened sense of life evaluation, people experiencing higher levels of
+childhood adversity are more likely to believe that things are getting better.
+Past studies of Americans’ life trajectories demonstrate a pattern in which
+people anticipate brighter days (Lachman et al. 2008). When a series of
+challenges or setbacks is involved in this process, many people seem to
+go further in search of redemption, self-improvement, and growth
+(McAdams 2006), and this does not seem to be an insurmountable task.
+Rather, resilience enabled by individual effort is a powerful script in life
+narratives (Rudd and Evans 1998); though starting from a lower position
+(i.e., lower intercept in subjective life trajectory), there is a greater sense
+of improvement (i.e., higher slopes in subjective). There is evidence to
+suggest that infusing life narratives with redemptive turning points is a
+psychologically adaptive strategy (McAdams et al. 2001).
+
+On the other hand, the finding of statistical interactions between both
+reflective and prospective life evaluations at wave 1 and adverse childhood
+experiences for predicting wave 2 evaluations suggests that although
+higher life evaluations predict a better actualized future, accumulated
+childhood adversity compromises the buoyant outlooks. These results are
+obtained, furthermore, after adjusting for adult educational attainment,
+household income, and health status, among other factors. This is what
+we would expect if biography is capable of constraining life course agency
+and the optimism that things are getting better. Given that these childhood
+events occurred 20-80 years prior—yet still exerted an effect net of adult
+conditions—our results point toward an effect of biographical structur-
+ation.
+
+Biographical structuration, as we think of it, refers to the constraining
+influence of a person’s past for his or her present and future life chances.
+Structure is often portrayed as a set of present social conditions—external
+to the individual—that enables or limits choice. Social experiences, how-
+ever, often have a more enduring existence than their momentary ex-
+pression would suggest. It is through the human capacities of memory
+and narration that biographical details from across life are woven together
+and remain consequential for the present and future. This interpretive
+phenomenon adds another dimension to the concept of structure in the
+life course (Shanahan 2000; Mayer 2009). Situated choice, in other words,
+is biographically structured, reflecting both one’s social location and lived
+experiences.
+
+Putting biographical structuration in the context of our findings, child-
+hood adversity is not wiped clean with the progression of time, but its
+influence continues through life evaluations, including via its grip on early
+life evaluations. Early adversity is fundamentally rooted in concrete social
+conditions and meaningfully incorporated into human narrative; in this
+way, biographical experiences—as subjective and interpretive orientations
+to the past, present, and future—can constrain life course agency and
+work in tandem with the more objective structural forces that generate
+and increase interindividual inequality.
+
+Our results also highlight the mechanism of path dependency in how
+early adversity translates into revised life trajectories. Linking together
+lines of action arises “out of a background of previous actions” and “is
+connected with a context of previous action” (Blumer 1969, p. 20). Many
+presume that calls for studying such lines of action require a qualitative
+approach, but we have shown that these phenomena can be studied quan-
+titatively. With diachronic evaluations and longitudinal data, we uncov-
+ered a process whereby most people formed interpretations of early ad-
+versity that enabled them to engage in wishful thinking. Status and
+evaluation are relative, and these judgments are made in light of signif-
+icant others or personal biography. Early adversity led to lower intercepts
+but steeper positive slopes.
+
+These results were derived from a sample that was 25-74 years of age
+during the initial interview, thereby suggesting that people do not abruptly
+move on from adversity faced during childhood. In this regard, the results
+from table 3 also revealed the importance of accumulated adversity for
+shaping life course pathways. Coping with a single childhood adversity
+is hard, but when the adversities pile up during the early years, path
+dependence is more substantial over the adult life course.
+
+These findings also yield fresh insights for cumulative inequality theory.
+While past research drawing from the cumulative disadvantage/advan-
+tage paradigm has called attention to the importance of early events for
+shaping life course trajectories, it has not prioritized key underlying social
+psychological processes that may influence trajectories. Cumulative in-
+equality theory was articulated to recognize the importance of human
+agency within social systems; people are dealt advantages and disadvan-
+tages, but instead of passively floating along, they observe, interpret, and
+seek to change their social reality (Goffman 1959; Blumer 1969). This
+article, by developing the concept of biographical structuration, found
+that such realities are not altogether malleable.
+
+There is evidence to support the idea that people perceive things to be
+getting better, but the findings also highlight the life-pervading damage
+of early adversity, or the “long arm” of childhood adversity (Felitti et al.
+1998; Hayward and Gorman 2004; Haas 2008). After we accounted for
+wave 1 life evaluations, childhood adversity maintained a negative effect
+on life evaluations at wave 2. Moreover, childhood adversity counteracted
+the positive effects of such wave 1 life evaluations. The belief that hope
+springs eternal implies that existential agency—or agency as a subjective
+sense of capacity (Hitlin and Elder 2007b)—is not tightly circumscribed.”
+However, inauspicious beginnings may suppress life course agency in the
+sense of actually being able to attain a more fulfilling life. Future work
+using cumulative inequality theory should further specify how life per-
+ceptions redirect trajectories and consider the consequences of unfulfilled
+expectations. Does having more optimistic life evaluations protect mental
+or physical health or help career trajectories regardless of whether ex-
+pectations are fulfilled?
+
+Our aim has been to explicate a general framework for coupling ad-
+versity and inequality with the self, thereby lending a new eye to the role
+of agency in life course inequalities. Though our approach was pursued
+mostly on the basis of its innovativeness, we urge future researchers to
+more carefully refine particular types or configurations of adversity or
+disadvantage and their effects on reflexive and projective evaluations of
+life course trajectories.”’ The particular dependent variable we used, a
+general evaluation of a person’s life, can also be expanded in future re-
+search to include more specific domains. For example, trajectories of
+school success and failure among youths are elucidated by incorporating
+measures of the expectations of teachers (McLeod and Fettes 2007)—an
+exemplary approach. At the same time, including subjective appraisals
+by the actors themselves can also illuminate processes of how inequality
+accumulates (or fails to accumulate despite early adversity). Unfortunately,
+our data were limited to adults, and so we are unable to speak to the
+possibility that biographical evaluations in childhood or adolescence shape
+important life course outcomes such as status attainment in early adult-
+hood. Adult health, however, is an important context to observe the im-
+plications of pessimistic versus optimistic perceived life trajectories; we
+see this direction for future research as a natural extension of the findings
+presented in this piece.
+
+It is also worth noting that a limitation of the current research was the
+reliance on recollections of early adversity. Although retrospective reports
+allow for a unique life course analysis without the difficulties of actually
+following respondents over their lifetimes, we agree with O’Rand and
+Hamil-Luker (2005) that such designs are inherently limited because sub-
+jects may have recall problems. Nevertheless, we also concur with them
+that having measures of numerous forms of adversity is preferable to
+having only one or two indicators. By examining a composite score of
+the cumulative burden of these early adversities, we acknowledge that
+recall of early events will be imperfect but still capture a range of negative
+experiences. The reason is that the score captures an approximation of
+total adversity rather than a crude binary distinction between adversity
+and nonadversity.” Respondents may also recollect the occurrence or in-
+tensity of events from their past differently depending on their current
+condition (i.e., endogeneity of the independent and dependent variables).
+Past research using recall measures of childhood events indicates that
+underestimation is more common than overestimation (i.e., people report
+fewer adversities than occurred) and that the probability of potential bias
+produces overly conservative estimates (Dube et al. 2003). It is therefore
+likely that the findings presented are weaker than they would be if perfect
+measurement was available. These are important considerations for stud-
+ies using retrospective data, and the current findings must be considered
+in light of such limitations.
+
+The findings from this investigation also highlight the importance of
+the accumulation of adverse experiences. Although we examined whether
+the specific types or clusters of childhood adversity differentially shaped
+life trajectories, the analyses confirm those by Turner and Lloyd (1995)
+that the joint or cumulative effects of adverse childhood experiences mat-
+tered most. Life trajectories were less buoyant for persons experiencing
+multiple adversities, regardless of which adversities were reported. The
+relationship between childhood adversity and life trajectories was fairly
+linear through six reported adversities, but there was some tapering of
+this effect for persons with seven or more of the 14 possible adversities.
+Our finding on nonlinear relationships suggests that more attention needs
+to be given to studying accumulation processes. The term accumulation
+is used in many ways in life course studies, epidemiology, and criminology.
+Is accumulation simply adding items, or are there properties of how these
+accumulate that are important? Does the timing, or at least sequencing,
+of the accumulation matter? Are continual bouts of accumulation equal
+in their effects to those that occur intermittently? These and related ques-
+tions merit consideration as scholars seek to advance our understanding
+of accumulation processes that shape the life course.
+
+In conclusion, humans piece together strands of their past and present
+experiences to create a coherent life narrative (Mead 1934; Goffman 1959;
+Blumer 1969; Maines et al. 1983; McAdams 2001), and their dispositions
+toward the future tend to emphasize potential for growth and positive
+change (Markus and Nurius 1986). Even yet, evidence suggests that the
+constraining forces of early disadvantage prevail, suggesting a bounded
+nature of life course agency within the structuring context of biography.
+Persons dealt an inauspicious start in life often foresee improvement in
+their life evaluations, but their actual increase in life evaluation falls
+increasingly short of expectations when they accumulate high levels of
+adversity early in the life course.
+LT 8 6s Lo be br sp “* ppoyasnoy 100g.
+80° £0" IT or 40° 90 iv OT ase Uyyeay [eyUaUL 100g
++0" zo" £0° 40° +0" rl +0" “gy a8e yyeay peotsxyd 100g
+or or ee br ce sr sr * ploy
+-asnoy Jo peay—uonronpa MoT
+9c" 10° nd es te seeees “a0
+or co es 89° 7s Bugs
+tl so" £0" 00° er er * ped
+Iv £0" 1@ Ir 90° ea “WO
+vasnqe jeuorjowgy
+90° 10° £0° Iv 90° La LO’ seers BUTTQIS
+or £0" or Iv or 98° ol “14310
+8 70" £0" oe 0° 8S" OL “" ped
+or 00° er 8s 00° bh er “WOT
+rasnqe yesisxyd
+er so 6s eV 40° co sv “* paoloalp sjuateg
+40° 90° sc +O" +0" 80° so’ cress pap yuared
+90° 00° 19° 00° 00° Ir so" ployasnoy ut ajeut oN,
+90° TO" La so” £0" ca or are FLOM
+aTdNVS NI (ainsodxq (urens (wioyy Aq (72T]10 (rw Aq (eye WAL]
+AOVINAONId MOT) yeanjonays) pasnqy) Aq pasnqy) pasnqy) Aq pasnqy)
+TWOLoy 9 sseIQ, g sseID p sseIQ. € sseIQ Z sse[Q. T sse[g.
+
+ 
+
+SSVID LNGLV’T
+
+ 
+
+ 
+
+SALLISUAAGY 91 ‘SISATVNY SSWID LNALWT JO SLTASAY
+
+IV ATAVL
+TABLE A2
+ANALYSIS OF SLOPE AND INTERCEPT OF PERCEIVED LIFE TRAJECTORIES USING LATENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+CLASSES
+INTERCEPT SLOPE
+INDEPENDENT VARIABLE b SE b SE
+Childhood adversity:
+Class 1. —.663*** 158 .204* 092
+Class 2 . —1.316*** 190 340** 119
+Class 3. —.219 127 130 072
+Class 4 . — 546% 145 .260** 097
+Class 5. — 673% 162 2347 -103
+Demographic
+Age... 048 004 —.037*** 002
+Female . —.127 076 .122* 048
+Black ... 317 172 —.020 098
+Married .. 238 127 127 091
+Widowed . -505* 206 —.130 158
+Divorced .........0..6.se cece ee eee eee —.687%** 156 405 *** -106
+Social status:
+Education —.022 016 .022* 010
+Income (logged) .. 010 030 017 019
+Health:
+Smoker —.188 102 .061 065
+Obese .. — 286% 087 -128* 056
+Sedentary lifestyle . . —.449 339 —.053 301
+Serious medical condition (wave 1) —.226* .096 —.034 .064
+Chronic medical condition (wave 1) —.246** .088 004 055
+Random components:
+Intercepts:
+Intercept ............. cece eee 5.623 354
+Slope .. 1.449% .236
+Residual variances:
+Past life evaluation .... 2.712*** 257
+Present life evaluation . 1.480*** AL
+Future life evaluation . 203 197
+Intercept . 923 182
+Slope . SIGE 101
+
+ 
+
+NotTe.—N = 2,956, CFI = .972, RMSEA = .023. Latent classes are (1) abuse (physical
+or emotional) perpetrated by mother; (2) abuse perpetrated by father; (3) abuse perpetrated
+by other person; (4) abuse perpetrated by mother, father, sibling, and other person; (5) family/
+structural strain; and (6) a nonexposure group (reference group).
+
+* P < .05 (two-tailed).
+
+P< O1.
+
+we P< O01.
+Women’s Family Formation Pathways.” Journal of Marriage and Family 70:1271-—
+86.
+
+Amato, Paul R., Laura S. Loomis, and Alan Booth. 1995. “Parental Divorce, Marital
+Conflict, and Offspring Well-Being during Early Adulthood.” Social Forces 73:895—
+915.
+
+Barker, David J. 2003. The Best Start in Life. London: Century.
+
+Biblarz, Timothy J., and Adrian E. Raftery. 1993. “The Effects of Family Disruption
+on Social Mobility.” American Sociological Review 58:97-109.
+
+Blumer, Herbert. 1969. Symbolic Interactionism: Perspective and Method. Berkeley:
+University of California Press.
+
+Brim, Orville G., Paul B. Baltes, Larry L. Bumpass, Paul D. Cleary, David L. Feath-
+erman, William R. Hazard, Ronald C. Kessler, Margie E. Lachman, Hazel R.
+Markus, Michael G. Marmot, Alice S. Rossi, Carol D. Ryff, and Richard A. Shweder.
+2000. National Survey of Midlife Development in the United States MIDUS, 1995-
+1996 [computer file]. ICPSR version. Ann Arbor, Mich.: Inter-University Consortium
+for Political and Social Research [distributor].
+
+Bushway, Shawn, Brian D. Johnson, and Lee Ann Slocum. 2007. “Is the Magic Still
+There? The Use of the Heckman Two-Step Correction for Selection Bias in Crim-
+inology.” Journal of Quantitative Criminology 23:151-78.
+
+Callero, Peter L. 2003. “The Sociology of the Self.” Annual Review of Sociology 29:
+115-33.
+
+Case, Anne, Angela Fertig, and Christina Paxson. 2005. “The Lasting Impact of Child-
+hood Health and Circumstance.” Journal of Health Economics 24:365-89.
+
+Caspi, Avshalom, Bradley R. E. Wright, Terrie E. Moffitt, and Phil A. Silva. 1998.
+“Early Failure in the Labor Market: Childhood and Adolescent Predictors of Un-
+employment in the Transition to Adulthood.” American Sociological Review 63:424—
+51.
+
+Cherlin, Andrew J., P. Lindsay Chase-Lansdale, and Christine McCrae. 1998. “Effects
+of Parental Divorce on Mental Health throughout the Life Course.” American So-
+ciological Review 63:239-49.
+
+Clausen, John S. 1991. “Adolescent Competence and the Shaping of the Life Course.
+American Journal of Sociology 96:805-42.
+
+Conley, Dalton, and Neil G. Bennett. 2000. “Is Biology Destiny? Birth Weight and
+Life Chances.” American Sociological Review 65:458-67.
+
+Cooksey, Elizabeth C., Elizabeth G. Menaghan, and Susan M. Mekielek. 1997. “Life
+Course Effects of Work and Family Circumstances on Children.” Social Forces 76:
+637-67.
+
+Dannefer, Dale. 1987. “Aging as Intracohort Differentiation: Accentuation, the Mat-
+thew Effect, and the Life Course.” Sociological Forum 2:211-36.
+
+. 2003. “Cumulative Advantage/Disadvantage and the Life Course: Cross-
+Fertilizing Age and the Social Science Theory.” Journal of Gerontology: Social Sci-
+ences 58B:S327-S337.
+
+Dinovitzer, Ronit, John Hagan, and Patricia Parker. 2003. “Choice and Circumstance:
+Social Capital and Planful Competence in the Attainments in Immigrant Youth.”
+Canadian Journal of Sociology 28:463-88.
+
+DiPrete, Thomas A., and Gregory M. Eirich. 2006. “Cumulative Advantage as a Mech-
+anism for Inequality: A Review of Theoretical and Empirical Developments.” Annual
+Review of Sociology 32:271-97.
+
+Douthit, Kathryn Z., and Dale Dannefer. 2007. “Social Forces, Life Course Conse-
+quences: Cumulative Disadvantage and ‘Getting Alzheimer’s.’” Pp. 223-43 in Ger-
+ontology: Perspectives and Issues, edited by J. M. Wilmoth and K. F. Ferraro. New
+York: Springer.
+
+Dube, Shanta R., Robert F. Anda, Vincent J. Felitti, Daniel P. Chapman, David F.
+Williamson, and Wayne H. Giles. 2001. “Childhood Abuse, Household Dysfunction
+
+»
+and the Risk of Attempted Suicide throughout the Life Span: Findings from the
+Adverse Childhood Experiences Study.” Journal of the American Medical Associ-
+ation 286:3089-96.
+
+Dube, Shanta R., Robert F. Anda, Vincent J. Felitti, Valerie J. Edwards, and Janet B.
+Croft. 2002. “Adverse Childhood Experiences and Personal Alcohol Abuse as an
+Adult.” Addictive Behaviors 27:713-25.
+
+Dube, Shanta R., Vincent J. Felitti, Maxia Dong, Wayne H. Giles, and Robert F. Anda.
+2003. “The Impact of Adverse Childhood Experiences on Health Problems: Evidence
+from Four Birth Cohorts Dating Back to 1900.” Preventive Medicine 37:268-77.
+
+Duncan, Greg J., W. Jean Yeung, Jeanne Brooks-Gunn, and Judith R. Smith. 1998.
+“How Much Does Childhood Poverty Affect the Life Chances of Children?” Amer-
+ican Sociological Review 63:406-23.
+
+Dupre, Matthew E. 2007. “Educational Differences in Age-Related Patterns of Disease:
+Reconsidering the Cumulative Disadvantage and Age-as-Leveler Hypotheses.” Jour-
+nal of Health and Social Behavior 48:1-15.
+
+Edin, Kathryn, and Maria Kefalas. 2005. Promises I Can Keep: Why Poor Women
+Put Motherhood before Marriage. Berkeley and Los Angeles: University of California
+Press.
+
+Elder, Glen H., Jr. 1998. “The Life Course as Developmental Theory.” Child Devel-
+opment 69:1-12.
+
+Elman, Cheryl, and Angela M. O’Rand. 2004. “The Race Is to the Swift: Socioeconomic
+Origins, Adult Education, and Wage Attainment.” American Journal of Sociology
+110:123-60.
+
+Elo, Irma T., and Samuel H. Preston. 1992. “Effects of Early-Life Conditions on Adult
+Mortality: A Review.” Population Index 58:186-212.
+
+Emirbayer, Mustafa, and Ann Mische. 1998. “What Is Agency?” American Journal of
+Sociology 103:962-1023.
+
+Felitti, Vincent J., Robert F. Anda, Dale Nordenberg, David F. Williamson, Alison M.
+Spitz, Valerie Edwards, Mary P. Koss, and James S. Marks. 1998. “Relationship of
+Childhood Abuse and Household Dysfunction to Many of the Leading Causes of
+Death in Adults: The Adverse Childhood Experiences (ACE) Study.” American Jour-
+nal of Preventive Medicine 14:245-58.
+
+Ferraro, Kenneth F.,, and Melissa M. Farmer. 1999. “Utility of Health Data from Social
+Surveys: Is There a Gold Standard for Measuring Morbidity?” American Sociological
+Review 64:303-15.
+
+Ferraro, Kenneth F., and Jessica A. Kelley-Moore. 2003. “Cumulative Disadvantage
+and Health: Long-Term Consequences of Obesity?” American Sociological Review
+68:707-29.
+
+Ferraro, Kenneth F., and Tetyana Pylypiv Shippee. 2009. “Aging and Cumulative
+Inequality: How Does Inequality Get under the Skin?” Gerontologist 49:333-43.
+Ferraro, Kenneth F., Tetyana Pylypiv Shippee, and Markus H. Schafer. 2009. “A
+Theory of Age and the Accumulation of Inequality.” Pp. 413-33 in Handbook of
+Theories of Aging, 2d ed., edited by Vern L. Bengtson, Merril Silverstein, Norella
+
+M. Putney, and Daphna Gans. New York: Springer.
+
+Foster, Holly, John Hagan, and Jeanne Brooks-Gunn. 2008. “Growing Up Fast: Stress
+Exposure and Subjective ‘Weathering’ in Emerging Adulthood.” Journal of Health
+and Social Behavior 49:162-77.
+
+Gecas, Viktor, and Peter J. Burke. 1995. “Self and Identity.” Pp. 41-67 in Sociological
+Perspectives on Social Psychology, edited by K. Cook, G. A. Fine, and J. House.
+Boston: Allyn & Bacon.
+
+Giddens, Anthony. 1991. Modernity and Self-Identity: Self and Society in the Late
+Modern Age. Stanford, Calif.: Stanford University Press.
+
+Goffman, Erving. 1959. The Presentation of Self in Everyday Life. New York: Dou-
+bleday.
+Haas, Steven. 2008. “Trajectories of Functional Health: The ‘Long Arm’ of Childhood
+Health and Socioeconomic Factors.” Social Science and Medicine 66:849-61.
+
+Hamil-Luker, Jennifer, and Angela M. O’Rand. 2007. “Gender Differences in the Link
+between Childhood Socioeconomic Conditions and Heart Attack Risk in Adulthood.”
+Demography 44:137-58.
+
+Hardt, Jochen, and Michael Rutter. 2004. “Validity of Adult Retrospective Reports of
+Adverse Childhood Experiences: Review of the Evidence.” Journal of Childhood
+Psychology and Psychiatry 45:260-73.
+
+Hatch, Stephani L. 2005. “Conceptualizing and Identifying Cumulative Adversity and
+Protective Resources: Implications for Understanding Health Inequalities.” Journal
+of Gerontology: Social Sciences 60:5130-S134.
+
+Haveman, Robert, and Barbara Wolfe. 1995. “The Determinants of Children’s At-
+tainments: A Review of Methods and Findings.” Journal of Economic Literature
+33:1829-78.
+
+Hayward, Mark D., and Bridget K. Gorman. 2004. “The Long Arm of Childhood:
+The Influence of Early-Life Social Conditions on Men’s Mortality.” Demography 41:
+87-107.
+
+Heckman, James J. 1979. “Sample Selection Bias as a Specification Error.” Econo-
+metrica 47:153-61.
+
+Heidegger, Martin. 1962. Being and Time, translated by John Macquarrie and Edward
+Robinson. Oxford: Blackwell.
+
+Hitlin, Steven, and Glen H. Elder Jr. 2007a. “Agency: An Empirical Model of an
+Abstract Concept.” Pp. 33-67 in Advances in Life Course Research, vol. 11, edited
+by Ross MacMillan. Amsterdam: Elsevier/JAI.
+
+. 2007b. “Time, Self, and the Curiously Abstract Concept of Agency.” Socio-
+logical Theory 25:170-91.
+
+Holland, P., L. Berney, D. Blane, G. D. Smith, D. J. Gunnell, and S. M. Montgomery.
+2000. “Life Course Accumulation of Disadvantage: Childhood Health and Hazard
+Exposure during Childhood.” Social Science and Medicine 50:1285-95.
+
+Homans, George C. 1964. “Bringing Men Back In.” American Sociological Review 29:
+809-18.
+
+Horwitz, Allan V., Cathy S. Widom, Julie McLaughlin, and Helen R. White. 2001.
+“The Impact of Childhood Abuse and Neglect on Adult Mental Health.” Journal of
+Health and Social Behavior 42:184-201.
+
+Irving, Shalon M., and Kenneth F. Ferraro. 2006. “Reports of Abusive Experiences
+during Childhood and Adult Health Ratings: Personal Control as a Pathway?” Jour-
+nal of Aging and Health 18:458-85.
+
+Johnson, Monica Kirkpatrick, and Stefanie Mollborn. 2009. “Growing Up Faster, Feel-
+ing Older: Hardship in Childhood and Adolescence.” Social Psychology Quarterly
+72:39-60.
+
+Keyes, Corey Lee M., and Carol D. Ryff. 2000. “Subjective Change and Mental Health:
+A Self-Concept Theory.” Social Psychology Quarterly 63:264-79.
+
+Kuh, Diana, Rebecca Hardy, Claudia Langenberg, Marcus Richards, and Michael E.
+J. Wadsworth. 2002. “Mortality in Adults Aged 25-64 Related to Socioeconomic
+Conditions in Childhood and Adulthood: Post War Cohort Study.” British Medical
+Journal 325:1076-80.
+
+Lachman, Margie E., Christina Rocke, Christopher Rosnick, and Carol D. Ryff. 2008.
+“Realism and Illusion in Americans’ Temporal Views of Their Life Satisfaction.”
+Psychological Science 19:889-97.
+
+Maines, David R., Noreen M. Sugrue, and Michael A. Katovich. 1983. “The Socio-
+logical Import of G. H. Mead’s Theory of the Past.” American Sociological Review
+48:161-73.
+
+Markus, Hazel, and Paula Nurius. 1986. “Possible Selves.” American Psychologist 41:
+954-69.
+Mayer, Karl Ulrich. 2009. “New Directions in Life Course Research.” Annual Review
+of Sociology 35:413-33.
+
+McAdams, Dan P. 2001. “The Psychology of Life Stories.” Review of General Psy-
+chology 5:100-122.
+
+. 2006. The Redemptive Self: Stories Americans Live By. New York: Oxford
+University Press.
+
+McAdams, Dan P., Jeffrey Reynolds, Martha Lewis, Allison H. Patten, and Phillip J.
+Bowman. 2001. “When Bad Things Turn Good and Good Things Turn Bad: Se-
+quences of Redemption and Contamination in Life Narrative and Their Relation
+to Psychosocial Adaptation in Midlife Adults and Students.” Personality and Social
+Psychology Bulletin 27:474-85.
+
+McLeod, Jane D., and Elbert P. Almazan. 2003. “Connections between Childhood and
+Adulthood.” Pp. 391-411 in Handbook of the Life Course, edited by J. T. Mortimer
+and M. J. Shanahan. New York: Kluwer Academic/Plenum.
+
+McLeod, Jane D., and Danielle L. Fettes. 2007. “Trajectories of Failure: The Edu-
+cational Careers of Children with Mental Health Problems.” American Journal of
+Sociology 113:653-701.
+
+Mead, George Herbert. 1932. The Philosophy of the Present. Chicago: University of
+Chicago Press.
+
+. 1934. Mind, Self, and Society, edited by Charles W. Morris. Chicago: Uni-
+versity of Chicago Press.
+
+Merton, Robert K. 1968a. “The Matthew Effect in Science.” Science 159:56-63.
+
+. 1968b. Social Theory and Social Structure. New York: Free Press.
+
+. 1995. “The Thomas Theorem and the Matthew Effect.” Social Forces 74:379-
+
+ 
+
+ 
+
+ 
+
+ 
+
+424,
+
+O’Rand, Angela M. 1996. “The Precious and the Precocious: Understanding Cumu-
+lative Disadvantage and Cumulative Advantage over the Life Course.” Gerontologist
+36:230-38.
+
+. 2006. “Stratification and the Life Course: Life Course Capital, Life Course
+Risks, and Social Inequality.” Pp. 145-62 in Handbook of Aging and the Social
+Sciences, 6th ed., edited by Robert H. Binstock and Linda K. George. San Diego,
+Calif.: Elsevier.
+
+O’Rand, Angela M., and Jennifer Hamil-Luker. 2005. “Processes of Cumulative Ad-
+versity: Childhood Disadvantage and Increased Risk of Heart Attack across the Life
+Course.” Journal of Gerontology: Social Sciences 60B:117-24.
+
+Palloni, Alberto. 2006. “Reproducing Inequalities: Luck, Wallets, and the Enduring
+Effects of Childhood Health.” Demography 43:587-615.
+
+Pearlin, Leonard I. 1989. “The Sociological Study of Stress.” Journal of Health and
+Social Behavior 30:241-56.
+
+Pearlin, Leonard I, Kim Nguyen, Scott Schieman, and Melissa Milkie. 2007. “The
+Life Course Origins of Mastery among Older People.” Journal of Health and Social
+Behavior 48:164-79.
+
+Pearlin, Leonard I., Scott Schieman, Elena M. Fazio, and Stephen C. Meersman. 2005.
+“Stress, Health, and the Life Course: Some Conceptual Perspectives.” Journal of
+Health and Social Behavior 46:205-19.
+
+Preston, Samuel H., Mark E. Hill, and Greg L. Drevenstedt. 1998. “Childhood Con-
+ditions That Predict Survival to Advanced Ages among African-Americans.” Social
+Science and Medicine 47:1231-46.
+
+Reynolds, John R., and R. Jay Turner. 2008. “Major Life Events: Their Personal
+Meaning, Resolution, and Mental Health Significance.” Journal of Health and Be-
+havior 49:223-37.
+
+Riley, Matilda W. 1987. “On the Significance of Age in Sociology.” American Socio-
+logical Review 52:1-14.
+
+Rudd, Peter, and Karen Evans. 1998. “Structure and Agency in Youth Transitions:
+Student Experiences of Vocational Further Education.” Journal of Youth Studies 1:
+39-62.
+
+Sampson, Robert J., and John H. Laub. 1997. “A Life-Course Theory of Cumulative
+Disadvantage and the Stability of Delinquency.” Pp. 133-61 in Developmental The-
+ories of Crime and Delinquency, Advances in Criminological Theory, vol. 7, edited
+by Terence P. Thornberry. New Brunswick, N.J.: Transaction.
+
+. 2005. “A Life-Course View of the Development of Crime.” Annals of the
+American Academy of Political and Social Science 602:12—45.
+
+Schwartz, Joseph E., Howard S. Friedman, Joan S. Tucker, Carol Tomlinson-Keasey,
+Deborah L. Wingard, and Michael H. Criqui. 1995. “Sociodemographic and Psy-
+chosocial Factors in Childhood as Predictors of Adult Mortality.” American Journal
+of Public Health 85:1237-45.
+
+Shanahan, Michael J. 2000. “Pathways to Adulthood in Changing Societies: Variability
+and Mechanisms in Life Course Perspective.” Annual Review of Sociology 26:667—
+92.
+
+Shanahan, Michael J., Glen H. Elder Jr., and Richard A. Miech. 1997. “History and
+Agency in Men’s Lives: Pathways to Achievement in Cohort Perspective.” Sociology
+of Education 70:54-67.
+
+Sharot, Tali, Alison M. Riccardi, Candace M. Raio, and Elizabeth A. Phelps. 2007.
+“Neural Mechanisms Mediating Optimism Bias.” Nature 450:102-7.
+
+Singh-Manoux, Archana, and Michael Marmot. 2005. “Role of Socialization in Ex-
+plaining Social Inequalities in Health.” Social Science and Medicine 60:2129-33.
+
+Smith, George D., Carole Hart, David Blane, and David Hole. 1998. “Adverse Socio-
+economic Conditions in Childhood and Cause Specific Adult Mortality: Prospective
+Observational Study.” British Medical Journal 316:1631-35.
+
+Surtees, Paul G., and Nicholas W. J. Wainwright. 2007. “The Shackles of Misfortune:
+Social Adversity Assessment and Representation in a Chronic Disease Epidemio-
+logical Setting.” Social Science and Medicine 64:95-111.
+
+Thoits, Peggy A. 2006. “Personal Agency in the Stress Proce:
+Social Behavior 47:309-23.
+
+Turner, R. Jay, and Donald A. Lloyd. 1995. “Lifetime Traumas and Mental Health:
+The Significance of Cumulative Adversity.” Journal of Health and Social Behavior
+36:360-76.
+
+Turner, R. Jay, Blair Wheaton, and Donald A. Lloyd. 1995. “The Epidemiology of
+Social Stress.” American Sociological Review 60:104—25.
+
+Wagmiller, Robert L., Mary Clare Lennon, Li Kuang, Philip M. Alberti, and J.
+Lawrence Aber. 2006. “The Dynamics of Economic Disadvantage and Children’s
+Life Chances.” American Sociological Review 71:847-66.
+
+Widom, Cathy S. 1989. “Child Abuse, Neglect, and Violent Criminal Behavior.” Crim-
+inology 27:251-71.
+
+Willson, Andrea E., Kim M. Shuey, and Glen H. Elder Jr. 2007. “Cumulative Advan-
+tage Processes as Mechanisms of Inequality in Life Course Health.” American Jour-
+nal of Sociology 112:1886-1924.
+
+Wilson, Anne E., and Michael Ross. 2000. “The Frequency of Temporal-Self and Social
+Comparisons in People’s Personal Appraisals.” Journal of Personality and Social
+Psychology 78:928-42.
+
+Wrong, Dennis H. 1961. “The Oversocialized Conception of Man in Modern Sociology.”
+American Sociological Review 26:183-93.
+
+ 
+
+ 
+
+.” Journal of Health and

@@ -1,0 +1,1380 @@
+Talcott Parsons and the Theory of Action. I. The Structure of the Kantian Core
+Author(s): Richard Munch
+
+Source: American Journal of Sociology, Vol. 86, No. 4 (Jan., 1981), pp. 709-739
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2778340
+
+Accessed: 08-06-2016 03:31 UTC
+This essay presents the thesis that a correct understanding of Talcott
+Parsons’s writings must begin from the assumption of a fundamental
+congruence of basic structure and method between the theory of ac-
+tion and Kant’s critical philosophy. It is already generally under-
+stood that this congruence holds true on the metalevel of epistemolog-
+ical assumptions. It is less understood that the Kantian form of argu-
+ment penetrates down to the level of the object theory of the general
+theory of action. The core of action theory is the notion that concrete
+action is to be explained as a result of the inner laws and the char-
+acteristic interrelations of analytically distinct subsystems of action.
+Thus the Parsonian solution to the central problem of social order
+is not “utilitarian”; nor, however, is it in any simple sense “norma-
+tive,’ as it is often taken to be. Parsons’s solution lies instead in
+the notion of the “interpenetration” of distinct subsystems of action.
+This notion of interpenetration is a derivative of Kantian transcen-
+dental philosophy. In this sense, a Kantian “core” structures the
+theoretical framework of the general theory of action, and Parsons’s
+theoretical development must be understood as a progressive elabora-
+tion and refinement of this central core.
+philosophical position clearly underlies both Durkheim’s and
+Weber’s treatment of the moral component of societies, espe-
+cially modern societies. [PARSONS 1978, pp. 370-71]
+
+For the past four decades, no sociologist has been able to escape the in-
+fluence of the work of Talcott Parsons. This work, awesome in its scope,
+depth, and continuity, began with Parsons’s dissertation at Heidelberg on
+the concept of capitalism in the writings of Max Weber and Werner
+Sombart.? Several essays on Alfred Marshall (Parsons 1931, 1932) and
+Vilfredo Pareto (Parsons 1936, [1933] 1968) extended these early studies.
+A first culmination point in his theoretical development was reached with
+The Structure of Social Action ([1937] 1968), a book which has become
+a classic in its own right through its constructive interpretation of the
+classic authors. The remaining stages of Parsons’s development are likewise
+marked by major publications, the last of which is the collection Action
+Theory and the Human Condition (1978a). It has become an obligation
+for every sociologist, not only those working directly on theoretical ques-
+tions but also all those engaged in the various fields of practical applica-
+tion, to take into consideration Parsons’s work—however complete or
+incomplete, correct or incorrect, it may turn out to be.
+
+Although Parsons’s sociology has become in this sense an institution,
+it is equally true that the conventional attitude toward his theory is one
+of critical aloofness. Sociologists do not like to be identified with his op-
+timistic judgments on modern American society, or with the label of “con-
+servatism” which Dahrendorf (1955, 1958), C. Wright Mills (1959),
+Gouldner (1971), and many other critics have affixed to his sociology.®
+In addition, the complicated model building in Parsons’s sociology causes
+many sociologists to keep their distance from it.4 Certainly only a few
+sociologists have taken the trouble to follow Parsons’s elaborate technical
+manipulations of his theory through his numerous works. Outside a narrow
+circle of disciples, the potential of his work has barely been tapped. Fre-
+quently, the argument that his theoretical apparatus can only produce
+reifications and so blocks any access to reality has been used to avoid
+having to undertake the difficult task of testing systematically the ade-
+quacy of the theory’s application to the world. One can use such system-
+atic and thorough testing to exhibit the range and limits of a theory,
+but only if one is willing to go beyond wholesale criticisms.
+
+The question how much explanatory power a theory as elaborated as
+Parsons’s possesses is not one which can be decided by general arguments
+or global judgments. After all, Parsons himself demonstrated more than
+sufficiently how rewarding such a testing of the explanatory power of his
+theory can be. Not the least part of this demonstration is the very range
+of his work, from general theory construction down to the analyses, fre-
+quently in occasional pieces, of concrete empirical-practical problems.
+What one comes to realize is that it is exactly this joining of opposites—of
+general theory development with empirical-practical analysis—which makes
+Parsons’s sociology so fruitful. It makes possible that interpenetration
+of theory and experience, of logic and practice, which is such a crucial
+prerequisite for the development of every modern science. In an auto-
+biographical article, Parsons points out this twofold character of his so-
+ciological work and emphasizes that his kind of theory building is neither
+logically deductive nor sheerly inductive, but rather resembles the con-
+tinual process of the systematization of the law which one finds in Com-
+mon Law jurisdictions:
+
+In this process [ie., Parsons’s theoretical development] ... , I have
+indeed reacted to quite a number of externally presented stimuli of the
+sort that I have characterized, especially requests to write on topics sug-
+gested by others. In a sufficient proportion of such cases, I hope I have
+reacted somewhat in the manner of a competent common-law appellate
+judge: namely, that I have considered the submitted topics and problems
+in relation to a theoretical scheme, which—though its premises were not
+defined with complete precision and henceforth assumed as fully given
+in a logically complete sense—has had considerable clarity, consistency,
+We could describe this procedure as a specific form of the interpenetra-
+tion of two subsystems of the production of knowledge which are them-
+selves subject to their own laws: the subsystem of theoretical research
+and the subsystem of practical problem solving. In saying this we apply
+the central concept of Parsons’s theory to his own sociological work. Only
+by developing such zones of interpenetration is it possible to synthesize
+the results of differentiated subsystems into a unified whole which would
+possess its own specific character and which would have more power to
+illuminate the world than either an undifferentiated unity or the sum of
+the particular subsystems themselves. Here it is theory without intuitions
+which remains empty, while intuitions without theory are blind.
+
+The significance of this interpenetration of concept and intuition, of
+theory and experience, as a condition of modern science is nowhere made
+clearer than in Immanuel Kant’s Critique of Pure Reason ([1781] 19565).
+Among philosophers, it is Kant above all who articulates the specific
+epistemological structure of modern scientific knowledge, and Talcott Par-
+sons’s sociology is everywhere permeated with the structure of the philos-
+ophy of Kant. It is not only the aforementioned interpenetration of theory
+construction and empirical analysis in Parsons’s concrete sociological work
+which leads us to this conclusion. His general theory of action and his
+theory of social systems are themselves thoroughly Kantian. If we look
+at Parsons’s biography with this connection in mind, we notice that Par-
+sons began to read Kant’s philosophy intensively while studying at Hei-
+delberg in 1925-26. In his autobiographical essay of 1970, Parsons de-
+scribes his experience:
+
+In retrospect it seems to me that this experience was, even apart from
+the substantive importance of Kant for my problems, especially important
+training for my later work. It was reinforced by a seminar and oral exam
+on the same book under Karl Jaspers at Heidelberg in 1926. The im-
+portance lay in the fact that I undertook the detailed and repeated study
+of a great book, the product of a great mind, to a point of reaching a
+certain level of appreciation of the nature of its contribution, and not
+being satisfied with the myriad of current rather superficial comments
+about it. This experience stood me in good stead in working with the con-
+tributions of my own authors and coming to what I felt to be a high
+level of understanding of them in the face of many distorted interpreta-
+5 Studies on this topic exist, but they remain preliminary and fail to construct a com-
+plete interpretive framework. A direct connection between the cognitive theories of
+Kant and Parsons has been asserted by H. J. Bershady (1973), who in my view,
+however, fails to grasp the essential nature of the correspondence. Bershady draws
+a parallel between Parsons’s “action frame of reference” of 1937—conditions, means,
+ends, and norms as a priori categories of every social science—and Kant’s categories
+of the understanding, and he concentrates on the critical assessment of the claim that
+causal explanation according to the covering law model is possible only if it is based
+upon this frame of reference. Bershady does not see any continuous development of
+content in Parsons’s elaborations of his theory after 1937; he sees them instead as
+related attempts to satisfy the conditions of generalization and causal explanation
+with one theoretical framework after another. In this, he is hampered by an overly
+narrow, purely functionalist interpretation of the action frame of reference, reducing
+Parsonian theory to an attempt to formulate necessary conditions for the existence
+or evolutionary development of social systems, an attempt which is forced to settle
+for functionalist explanations as a second-best solution, strict causal explanation always
+seeming to be out of reach. Also unsatisfactory is the quasi-teleological solution to
+the dilemma of causal explanation vs. ideography which Bershady, following V.
+Wright, puts forth. This is nothing but a relapse into historicism which sacrifices
+Parsons’s greatest achievement, namely, the constitution of sociology as a discipline
+which is not forced to understand itself in terms of either the models of strict causal
+explanation of the natural sciences or the pure ideographic methods of the study of
+the arts and other cultural products. In order to understand Parsons’s basic perspec-
+tive, we must draw a parallel, not between the action frame of reference and the
+categories of the understanding, but between the action frame of reference and the
+structure and purpose of Kant’s critical project as a whole, concentrating on the
+interpenetration between the categories of the understanding and sense data, between
+the categorical imperative and hypothetical imperatives, between the teleological prin-
+ciple and concrete judgments. Only thus will we illuminate the interpenetration of
+the normative and the conditional in the theory of action. On this topic, see Schwanen-
+berg 1970, 1971.
+THE INTERPRETIVE PERSPECTIVE: KANT’S CRITICAL PHILOSOPHY
+
+In his last theoretical publication, “A Paradigm of the Human Condition,”
+Parsons, fresh from a renewed, intensive study of Kant, enlarges on the
+significance of Kant’s transcendental arguments for his own theory of
+action.® Parsons shows special interest in Kant’s dualistic construal of
+the nature of reality:
+
+Kant clearly thought in terms of dual levels: the categories of understand-
+ing and the sense data of empirical knowledge; the “categorical impera-
+tive” and the “problems” of practical ethics; the canons of judgment and
+esthetic “experience.” There seems to be a striking parallel between his
+version of duality and the linguist’s “deep structures” and “surface struc-
+tures,” the biologist’s “genotypes” and “phenotypes,” the cyberneticist’s
+“high on information” and “high on energy,” and indeed the sociologist’s
+“values,” or institutional patterns, and “interests.” We therefore suggest
+that the first term in each of these pairs be used to designate a metastruc-
+ture, which is not as such a property of the phenomena (also Kant’s
+term) under consideration but is rather an @ priori set of conditions with-
+out which the phenomena in question could not be conceived in an orderly
+manner. [1978¢, pp. 355-56]?
+is precisely that this is mere belief, not knowledge ([1748] 1902, pp. 20-
+45).
+
+The attempt to construct a completely consistent empiricism had led
+Hume to doubt the possibility of scientific knowledge. Kant, on the other
+hand, began from a completely different conception of the nature of sci-
+ence. For him, the validity of scientific knowledge was a given, a fact.
+His question was, How can we explain how such knowledge is possible?®
+His explanation took the form of a “transcendental argument,” by means
+of which he demonstrated that the possibility of scientific knowledge
+having universal validity for all men depends on the existence of certain
+preconditions. An important component of Kant’s argument here is the
+distinction between the specific capacities of a priori categories and of
+empirical sense experience. It is impossible fully to understand the nature
+of scientific knowledge by reference either to the order embodied in its
+abstract principles or to its empirical content alone. For Kant, modern
+scientific knowledge is explainable neither as a habitual generalization
+from empirical experience, as in Hume’s empiricism, nor as a series of
+deductions from the first principles of reason, as in the rationalism of
+someone like Descartes, but only as the mutual interaction of theory and
+experience. Experience that can become the touchstone of universal laws
+is itself only made possible by a table of categories and a set of general
+theoretical principles, which analytically order our sense perceptions. And
+it is only insofar as we constantly refer sense perceptions to these cate-
+gories and principles that we are entitled to say of them that they express
+empirical and not merely logical regularities.
+
+This connection of opposites—the abstract and the empirical—is a spe-
+cific historical occurrence whose product is modern Western science. The
+prototype of this interpenetration of theory and experience is the rational
+experiment, developed in a historical situation in which conditions were
+especially favorable to the interpenetration of spheres normally kept sep-
+arate. These conditions were provided primarily by the scientific associa-
+tions of the Italian Renaissance of the 15th and 16th centuries and the
+English scientistic movement of the 17th century. These associations united
+intellectuals with practical men of varying backgrounds—artists, engineers,
+artisans, merchants, politicians. Their collaboration produced what is by
+us today considered a matter of course: the interpenetration of theory and
+experience, of logic and practice, in modern science. Thus there were
+united for the first time functions performed previously by wholly separate
+intellectual classes.®
+
+Just as the Critique of Pure Reason is directed against empiricism in
+epistemology, Kant’s Critique of Judgment is an attack on all attempts
+to construct a theory of aesthetic judgment by generalization from the
+collection of given individual judgments. A theory of judgment can claim
+universal validity only if it establishes a connection between a priori
+categories of judgment (such as the category of “purposiveness as such”)
+and the sensations of pleasure experienced by individuals as they con-
+template works of art or the processes of nature ([1799] 1968, pp. 22,
+61-68). And the same logic, the logic of the transcendental argument,
+structures Kant’s Critique of Practical Reason. The latter work is par-
+ticularly significant for us, because in it we can discern the main outlines
+of Parsons’s theory of action.
+
+In the Critique of Practical Reason ([1797] 1967), Kant argues against
+any attempt to found moral principles on the subjective considerations of
+utility of individual actors. That is, he rejects all utilitarian moral theories.
+Just as we cannot account for the objective necessity of causal laws by
+reference solely to the content of sense perceptions, so we cannot derive
+the necessity of a moral law valid for all men at all times from the desires
+—or the calculations of utility—of individuals. Private calculations of
+utility may yield different results for different individuals, or for the same
+individual at different times. The criterion of a moral law, however, is
+that it is binding for all men at all times. We cannot explain the obligatory
+force of the moral law as the sum of all calculations of utility, because
+these calculations would yield extremely variable results, and we would
+have made no progress toward a concept of true obligation: “The principle
+of happiness can indeed give maxims, but never maxims which are com-
+petent to be laws of the will, even if universal happiness were made the
+object. For, since the knowledge of this rests on mere data of experience,
+as each judgment concerning it depends very much on the very changeable
+opinion of each person, it can give general but never universal rules; that
+is, the rules it gives will on the average be most often the right ones for
+the purpose, but they will not be rules which must hold always and neces-
+sarily. Consequently, no practical laws can be based on this principle”
+(Kant 1956a, p. 37).
+
+The characteristic of moral norms is that they lay claim to a validity
+which is independent of subjective considerations of utility. Our obedience
+to them is not based on inclination, which is variable, but on duty, which
+is unchanging. As a philosopher, Kant makes no attempt to provide a
+sociological analysis of how this sense of duty arises, empirically, in men.
+His inquiry is directed toward the question, What are the conditions of
+possibility of a universally binding moral law? Once again, Kant demon-
+strates that the phenomenon in question is possible only through the link-
+ing of abstract categories and empirical ethical problems. Any particular
+rule of action can be adjudged valid to the extent that it enables us to
+attain a given end, but there is no direct path from this “hypothetical”
+validity to a universal, unconditional validity, since our first particular
+rule might be called into question by other particular rules which function
+as means to other given ends. To bring order to the multitude of particular
+rules and to answer the question of their universal validity, we cannot
+begin from below, but must apply a scheme of categories from above.
+For Kant, order is produced by a ‘categorical imperative”: ‘So act that
+the maxim of your will could always hold at the same time as a principle
+establishing universal law” (Kant 1956a, p. 30).
+
+Insofar as moral theory takes the categorical imperative as “the su-
+preme principle of morality,” it can impose on the multiplicity of par-
+ticular rules a unifying order which allows us to judge the universal
+validity of these rules. In this way, the development of a universal moral
+order is a consequence of the interpenetration of the two parameters along
+which human action can be judged: (1) the laws of abstraction and of
+logical consistency and (2) the rules of mutual accommodation and of the
+satisfaction of needs and desires. A moral order must be in some way a
+reconciliation of the demands of abstraction and of logic and the needs
+of practical action. If these are kept separate, the former will generate
+only empty conceptual systems, while the latter will leave us with a mul-
+tiplicity of particularized rules of action, each pertaining to a narrowly
+delimited sphere of human activity, containing no potential for a com-
+prehensive morality.
+
+We know from the comparative studies of Max Weber that it is not a
+foregone conclusion for any given culture that this interpenetration will
+occur. A systematic conception of natural law has been developed only
+in the Occident; in China, as well as in India, the conditions of interpene-
+tration of abstract moral theory and practical regulation essential to such
+a development were lacking. In both places the two spheres have remained
+separate and isolated from one another.!°
+
+Accordingly, Kant’s philosophy articulates the presuppositions of mod-
+ern Western society in both the theory of knowledge and the theory of
+morality. And it is precisely because it has this characteristic that Kant’s
+THE CRYSTALLIZATION OF THE THEORY OF ACTION AS A THEORY
+OF INTERPENETRATION: THE STRUCTURE OF SOCIAL ACTION
+
+The significance of Kant’s transcendental arguments as a key to the un-
+derstanding of his own action theory, from its inception in The Structure
+of Social Action ([1937] 1968), was openly acknowledged by Parsons at
+the other end of his career, in “A Paradigm of the Human Condition”
+(1978c). There Parsons regards Kant as providing the hinge for the turn
+from a “positivistic” to a “voluntaristic” theory of action. Kant is there-
+fore a forerunner of Durkheim and Weber, who are read by Parsons in
+The Structure of Social Action as the founders, along with Pareto and
+Marshall, of a nonutilitarian, voluntaristic theory of action. “This position
+of Kant’s is clearly of central importance to the general theory of action.
+We hold that it is the locus of the most fundamental underlying premises.
+or assumptions of social ordering at the human level. It should explicitly
+be defined not as the data of moral problems but as the transcendental
+normative conditions of the ordering of such data. This Kantian philo-
+sophical position clearly underlies both Durkheim’s and Weber’s treatment
+of the moral component of societies, especially modern societies” (Parsons
+1978c, pp. 370-71).
+
+In order fully to appreciate the thrust of Parsons’s argument, we have
+to read The Structure of Social Action as the sociological equivalent of
+Kant’s moral philosophy. Only in this way will we be able to understand
+how this first major work opens out into the theory of action in general
+and the theory of social systems in particular. Just as Kant developed
+his theory of action as an alternative to philosophical utilitarianism, Par-
+sons developed his theory of action as an alternative to sociological utilitar-
+ianism. This alternative Parsons terms “voluntaristic action theory,” the
+basic principles of which he finds adumbrated in the writings of Marshall,
+Pareto, Durkheim, and Weber.
+
+A central reference point here is Hobbes’s ([1651] 1966) formulation
+of the problem of social order. A “social order” can be said to exist to the
+extent that individual actors are connected by a system of shared behavior
+patterns on the basis of which they can form rational expectations about
+each other’s actions. For example, if someone wants to make use of a
+pasture, he must be able to determine whether there are any other potential
+users of this pasture who might claim the same right to use it. If he cannot
+determine this, his use of the pasture is in principle not secure. At any
+time, a shortage of pasturage might cause others to dispute his right to
+use this pasture. He can successfully realize in action his aims and inten-
+tions only if he is able to defend himself against the attacks of others,
+and he can do the latter only if he has sufficient power. So it must be the
+goal of every actor to gain power over his fellows. The war of all against
+all is the inevitable consequence. But this state of war, in which every
+man must fear every other man, is an intolerable life for men. As Hobbes
+shows, in this situation—as in the so-called prisoner’s dilemma—the most
+rational actions that men can perform on the basis of their individual,
+subjective calculations of utility result in their being far worse off than
+if all had accepted some appropriate distribution of rights.1?
+
+As Parsons points out ([1937] 1968, pp. 89-94), Hobbes expresses in
+paradigmatic form the dilemma of utilitarian social theories. If the aims
+of actions are completely arbitrary and if rationality is the only criterion
+for the selection of the means to those ends, then within a system in
+which resources are limited and actors act wholly independently of each
+other, subjective rationality in fact produces irrational consequences for
+every actor. Looking at this system from the outside, we can easily con-
+clude that all the actors would obtain more satisfactory results if there
+were a distribution of rights and duties and if everyone could count on
+everyone else’s observance of these rights and duties. In other words,
+there ought to be a normative order within the system. The utilitarian
+dilemma consists in the fact that within the system there is no motivation
+for the actors to try to alter their self-destructive situation. The most
+rational strategy is still the acquisition of superior power; the acceptance
+of a normative order requires the confidence that others too will stick
+to the norms. This in turn requires that everyone treat adherence to the
+norms not as one end among others, but as a higher end which is never
+submitted to the conditions of utility calculation. Thus we must give up
+the utilitarian premise that there are no necessarily permanent ends; the
+free calculation of utility requires precisely that the rank ordering of
+ends be allowed to change as the consequences we expect to follow from
+their realization change. (And this means that utilitarian calculation can
+choose among ends only by evaluating them as if they were means.) If
+12 Cf. Buchanan 1975, esp. p. 27. Buchanan, in strict conformity with utilitarian
+theory, attempts to explain “how ‘law,’ ‘the rules of property,’ ‘rules for behavior,’
+might emerge from the non-idealistic, self-interested behavior of men” (Buchanan
+1975, p. 43), and he ends up, as might be expected, right in the snares of the Hobbes-
+
+ian dilemma: where “private sanctioning” no longer guarantees order, centralized
+sanctioning has to take over.
+the adherence to a norm is to function as a permanent high priority end,
+it must constitute the limit of the process of the calculation of utility;
+in other words, it must be ranked so high that it is never subjected to
+competition from other ends. So long as this condition is not satisfied,
+everyone is more likely to trust to his own resources of strength than
+he is to count on the adherence of others to the norms which define in-
+dividual rights.
+
+If we stay within the framework of a consistent utilitarianism, there
+is no way out of this dilemma. Hobbes’s own solution postulates that the
+actors, taking the position of observers of their own situation, would realize
+that it is more useful for them to adhere to a common order. When the
+need for security becomes an end with a high enough priority, the actors
+will supposedly be ready to come to an agreement with one another and
+to transfer all of their power to a sovereign ruler (Hobbes [1651] 1966,
+chap. 17). But Hobbes’s solution is inconsistent; it is not at all rational
+for the individual actor to make such an agreement: “This solution really
+involves stretching, at a critical point, the conception of rationality beyond
+its scope in the rest of the theory, to a point where the actors come to
+realize the situation as a whole instead of pursuing their own ends in terms
+of their immediate situation, and then take the action necessary to elim-
+inate force and fraud and, purchasing [sic] security at the sacrifice of the
+advantages to be gained by their future employment” (Parsons [1937]
+1968, p. 93).
+
+As long as the individual cannot rely completely on the fidelity of others
+to their mutual contract, it is not rational for him to enter into such a
+contract. And he can never trust in the fidelity of others unless such
+fidelity is no longer the object of utility calculations. This requires, how-
+ever, a normative limitation of the principle of utility binding for all
+actors; otherwise it will be safer to rely on “force and fraud” as a means
+of protection against the predations of others. Such a normative limita-
+tion on the principle of utility would have to precede the agreement of
+the actors in the system to resign power resources; it could never be the
+result of such an agreement. Hobbes of course realized this, which is why
+he withholds from the citizens the right to cancel their contract so long
+as the sovereign can guarantee order.
+
+Thus it is not calculation of utility which motivates the citizens’ ad-
+herence to the contract, since in regard to the contract we have the same
+distrust as everywhere else in the state of nature (Hobbes [1651] 1966,
+chaps. 14 and 15). According to Hobbes, only the threat of external sanc-
+tions can assure the citizens’ conformity to social norms. Order comes not
+from a contract spontaneously arrived at, but from a centralized authority.
+Hobbes thus provides a solution to the utilitarian dilemma which has
+become the traditional utilitarian response to the fact that a free play of
+individual interests does not spontaneously yield social order. The solution
+turns on the idea of the centralization of decision-making power and the
+power to enforce sanctions. Essentially the same solution is offered in the
+model of “collective resources” which James Coleman (1974a; see also
+1971, 19745) has advanced as a way of dealing with cases in which social
+exchange by itself proves unable to generate social order. The same can
+be said for the work of Viktor Vanberg (1978), who like Coleman is a
+modern utilitarian. The only alternative Vanberg is able to imagine to the
+formation of order out of a process of free exchange is the centralization
+of decision-making power. Collective obedience to a norm is simply stip-
+ulated by a central authority and imposed through the threat of force.
+The tensions inherent within the utilitarian solution can be seen in the
+fact that we are no longer talking about “norms,” but only about cen-
+tralized or decentralized “decisions.” In fact, Vanberg tends to use the
+terms “central decision,” “common decision,” and “social decision” as at
+least functional equivalents (Vanberg 1978, p. 671).
+
+What does motivate individuals to accept a centralization of decision-
+making power? In the various utilitarian models, the motivation can only
+be the fear of a superior ability to impose sanctions, since the possibility
+of a spontaneous acceptance generated by a free play of interests has
+already been ruled out. This implies that a rational agent should want
+to obtain this superior power to impose sanctions himself. So we have
+landed back where we started, with Hobbes’s war of all against all. A
+society can be expected to possess a stable order only if it contains a
+sufficiently pronounced hierarchy of power. But even this would be‘a very
+fragile order, endangered by every change in the availability of the re-
+sources of power. Thus the appeal to centralization of power is in the
+end no solution to the utilitarian dilemma, because it fails to touch the
+core of the problem: the need to limit the possible ends and means that
+individual actors may choose. “A purely utilitarian society is chaotic and
+unstable, because in the absence of limitations on the use of means, par-
+ticularly force and fraud, it must, in the nature of the case, resolve itself
+into an unlimited struggle for power” (Parsons [1937] 1968, pp. 93-94).
+Simple centralization of power will be nothing more than a stage in the
+struggle for power unless it can found itself on some limitation on the
+usage of power other than the mere existence of a sufficiently hierarchized
+distribution of power within the society.
+
+This is the argument on the basis of which Parsons maintains that
+within the system of utilitarian thought no solution to the Hobbesian
+problem of order is possible. If the human condition contained only those
+elements recognized by utilitarianism, there would be no social order. Like
+Kant in his criticism of skepticism, Parsons begins his own argument with
+the claim that social order does exist, even if in an always incompletely
+realized form, and that our task should be to try to explain how this is
+possible. Parsons’s solution to the problem of social order is often called
+a “normative solution.” The use of this phrase contains the assumption
+that Parsons explains the existence of order by reference to a common
+system of norms or values. Once Parsons has been oversimplified in this
+way, it is easy to take the next step and accuse him of not really explaining
+the existence of order at all, but only offering a definition. And thus the
+utilitarians feel justified in presenting again their old solutions—exchange
+or constraint or some combination thereof—while ignoring Parsons’s dem-
+onstration that these solutions are inherently inadequate.'*
+
+If we do not want to miss the point of Parsons’s solution to the prob-
+lem, we have to read him from the perspective of Kant, and that means
+first of all recognizing that Parsons’s solution can be neither normative
+nor utilitarian. Parsons presents a voluntaristic solution to the problem of
+social order. The term “voluntaristic’” indicates that social order need not
+be a completely causally determined factual order. As soon as a centralized
+force does not provide a factual order by causally determined compliance,
+social order is only possible as long as the actors voluntarily consent and
+bind themselves to a common normative frame of reference. A normative
+order of this kind, as opposed to a merely factual order, thus demands ra-
+tional justification of particular norms by subsuming them to universally
+accepted values. In fact, Parsons’s exposition of the voluntaristic theory of
+action requires that he fight on two fronts. We have seen that he defines
+his own position in opposition to the positivistic-utilitarian theory of ac-
+tion, which recognizes no criterion for the selection of human actions other
+than the rationality which weighs actions as means to ends. But he must
+also define his own position in opposition to idealistic theories of action—
+for example, that of German idealism, which understands all human action
+as an objectification of Geist. In opposition to both of these extremes,
+the voluntaristic theory of action maintains that human action must be
+understood as the result of an interpenetration of means-end rationality
+and a normative limitation on the free play of such rationality. Parsons
+refers to this relation as one of “interdependence” or “interaction”: “The
+voluntaristic system does not in the least deny an important role to con-
+ditional and other non-normative elements, but considers them as inter-
+dependent with the normative” (Parsons [1937] 1968, p. 82).14 Already
+at this stage in the development of his theory, Parsons has in mind that
+relation between analytically separate subsystems which he will later, in
+the fifties, refer to as “interpenetration.”’!®
+
+What precisely is meant by interpenetration between the “conditional”
+and the “normative”? It does not mean that action is always, in every
+particular case, determined by both components. It means rather that
+social order is possible only if there is such an interpenetration between
+self-interested, rationalized action and a frame of reference which sets the
+limits of the process of the calculation of utility by ruling certain ends
+and means out of bounds altogether and by giving to ‘others a stable
+priority independent of factual conditions and means-end considerations.
+Order can exist only if the actors are not free to shed their agreements
+with one another as easily as they might shed an uncomfortably starched
+shirt. The decisive question of transcendental logic is, then, Given that
+social order exists, what conditions constitute the framework within which
+social action necessarily takes place? Kant asks, If there is objective
+scientific knowledge and if sense experience by itself can provide us with
+only an unordered “sensuous manifold,” then whence the order and uni-
+versal validity which are the defining characteristics of scientific knowl-
+edge? Kant’s question and Parsons’s question have the same form. And
+just as for Kant the answer to the question turned on the discovery of
+the limits set on the arbitrariness of sense experience, so for Parsons the
+answer to his question turns on the discovery of a limit on the arbitrari-
+ness of action determined solely by subjective considerations of utility.
+A social order cannot be established by utility considerations alone; there
+must be something else which provides the structure within which alone
+such considerations are possible. Parsons does not formulate his problem
+in terms of a given activity of pure utilitarian action which then must
+somehow be limited by norms. Rather, the limitation itself provides the
+condition of possibility for that which it limits. This reversal of logical
+priority is a characteristically Kantian maneuver.
+
+The Kantian critical project is a comprehensive examination of the
+
+14 An interpretation which falls just short of giving a formulation of this core of
+Parsonian theory can be found in Alexander (1978). However, Alexander fails to
+emphasize “interpenetration” as the central idea and instead argues within the limits
+of the traditional theory of differentiation.
+
+15 On this topic, see Luhmann 1977a, 1978b; Jensen 1978. According to Luhmann,
+the concept of interpenetration occurs “only late” in Parsons’s writings, while Jensen
+asserts that it is introduced in the mid-fifties. Both authors fail to see that already in
+The Structure of Social Action Parsons is putting forth a theory of interpenetration.
+Nor are they aware of the basic affinity of this conception with Kant’s philosophy.
+Luhmann veers away from Parsons’s theoretical program before he really understands
+it, and his attempt at a new conceptualization of the program does not even reach
+the point at which Parsons left off, much less go beyond it.
+specific capacities of the human faculties of knowledge—sense perception,
+which supplies empirical data, and the understanding, which governs the
+formation of concepts and judgments. Kant’s conclusion is that the or-
+deredness of our experience, as it manifests itself in the fact that the
+canons of universal validity, the rules of logical consistency, and the laws
+of causality apply to it, is not something which is merely perceived, but
+occurs only through the a priori limitation of the possibilities of perception,
+the drawing of “the bounds of sense,” by the rules of concept formation
+and the modes of unity in judgment. In the same way, Parsons conducts
+an examination of the specific functions of the various elements of a sys-
+tem of action: (1) ends; (2) a situation consisting of (a) available means
+and (6) given conditions; and (3) a selective principle according to which
+means and conditions can be related to ends (Parsons [1937] 1968, pp.
+77-82). If the selective principle is a pure means-end rationality (Weber’s
+Zweckrationalitét)—for example, the calculation of utility—no social or-
+der can arise. A social order is possible only if there is a selective principle
+which exempts certain means and ends from utilitarian considerations and
+assigns to them a permanent priority. Within the limits thus established,
+action is motivated by considerations of utility and is as variable as em-
+pirical knowledge can be within the rules of the understanding.
+
+As Kant shows, there are only two kinds of selective principles: hypo-
+thetical and categorical. Only categorical principles can produce a con-
+stancy of choice of actions through the variableness of situations of action.
+We can make use of Kant’s distinction in order to understand Parsons’s
+argument that social order is possible only if action is guided, not solely
+by conditional selective principles, but also by normative selective prin-
+ciples which determine the scope of the validity of the conditional, hypo-
+thetical selective principles. These normative selective principles have the
+same functional significance for the theory of action that the pure intui-
+tions of space and time and the categories of the understanding have for
+classical mechanics in Kant’s Critique of Pure Reason: “A normative ori-
+entation is fundamental to the schema of action in the same sense that
+space is fundamental to that of the classical mechanics; in terms of the
+given conceptual scheme there is no such thing as action except as effort
+to conform with norms just as there is no such thing as motion except
+as change of location in space. In both cases the propositions are defini-
+tions or logical corollaries of definitions. But it is not necessary for present
+purposes even to raise the question whether human behavior is ‘really’
+normatively oriented” (Parsons [1937] 1968, pp. 76-77).
+
+A normative selective principle is a categorical rule in Kant’s sense. Its
+validity is not dependent on the character of the individual situations in
+which it is applied. Concretely, this means that, if there is to be a social
+order, a rule such as, for example, that excluding the use of force and
+fraud must not have merely a hypothetical validity contingent upon the
+actors’ expectations of profiting from it. If the validity of the rule were
+merely hypothetical, it would often turn out to be more advantageous for
+actors to employ means which subvert the rule. This would prove the
+impossibility of mutual trust, and Hobbes’s state of nature would be un-
+avoidable. Further, the motivation to restrict oneself to peaceful means
+of exchange under a threat of sanctions imposed by an external authority
+would also be hypothetical, since the individual would accept this restric-
+tion only as long as he himself was not strong enough to seize the position
+of centralized authority and turn it against his fellows. In this case there
+would be no selective principle guaranteeing a constancy of motives for
+action and determining the use of peaceful means of exchange as the
+limit of social interaction.
+
+The first thing we get out of Parsons’s answer to the question of the
+possibility of social order is the realization that the selective principle
+setting the limits of self-interested action must be categorically valid for
+all actors. That means that the actors obey the rule because it is their
+obligation to do so, and not because they think it will be useful for them
+to do so. The paramount question for a sociological theory of social order
+must be, How is this categorical obligation possible? Only by understand-
+ing the function of the normative rules in Parsons’s voluntaristic theory
+of action from this Kantian perspective can we grasp the full significance
+of Parsons’s theory. From the standpoint of this Kantian perspective, it
+makes no sense to criticize Parsons for offering as an explanation of the
+existence of social order the very fact he is supposed to be explaining,
+that is, the existence of common norms. It is equally beside the point to
+counter Parsons by proposing again the solutions of traditional utilitarian
+thought—social exchange and, where this fails, a centralized authority
+with the ability to impose sanctions (see Ellis 1971; Coleman 1971; Van-
+berg 1978). Parsons has shown these solutions to be fundamentally in-
+adequate, and it was in uncovering the sources of their inadequacy that
+he first arrived at a formulation of the criterion a theory of social order
+must meet in regard to the function of normative rules in a system of
+social action. It is not enough simply to explain “how norms come into
+existence.” One must explain precisely how a categorical obligation toward
+common norms comes about within a social system. Norms exist only when
+every actor in the social system can take general adherence to the norms
+to be a matter of course. This is possible only if adherence to the norms
+rests not upon merely hypothetical imperatives, but upon a categorical
+obligation which sets a limit to the process of utilitarian calculation. Every
+explanation of “the existence of norms” must simultaneously be an ex-
+planation of the source of the obligatory force of those norms. We will
+not be able to give this latter explanation if we continue to resort to free
+exchange or centralization of authority, or any other explanatory factor
+which remains wholly within the utilitarian framework.1¢
+
+Parsons’s analysis of the system of social action allows him to pose,
+in its correct form for the first time, the problem which the theory of
+social order must solve. It points out the direction in which a solution
+is impossible and the direction in which we must search if we are to find
+a solution. But Parsons does not simply replace the utilitarian theory of
+the genesis of norms with a normative theory which views social action
+solely as it is determined by categorical obligation. According to the vol-
+untaristic theory of action, norms can be generated only through the
+interpenetration of action oriented toward a means-end rationality and a
+categorical normative obligation. Neither the one nor the other by itself
+yields a concrete social order. Where pure means-end rationality reigns,
+no social order is possible. But if there is nothing but the categorical ob-
+ligation to obey norms, with no interpenetration with the various spheres
+of ordinary self-interested action, the result will be nothing but a “sacred”
+order which will remain so remote from everyday behavior that it will
+be incapable of imposing a concrete order.” An order permeating all areas
+of social life can be expected only when the spheres of self-interested
+action and categorical obligation interpenetrate. This interpenetration is
+not something which can be taken for granted. The degree of such in-
+terpenetration in a given society depends on specific conditions which
+help or hinder it, conditions which it is the task of any theory of the
+development of norms to articulate.18
+
+A theory of the development of norms must therefore be a theory of
+the interpenetration of opposed subsystems—in this case, the subsystem
+of action directed by means-end rationality and the subsystem of cate-
+gorical duty. Nowhere else in the discipline of sociology has this basic
+idea, so essential for any theory of the development of norms and for
+every theory of social change, been elaborated as lucidly as in the writings
+of Talcott Parsons. It is all the more ironic, then, that among sociologists
+it has become almost a ritual to deplore Parsons’s failure to provide an
+explanation of the development of norms and of social change; explaining
+
+16 This indispensable precondition of the explanation of the generation of norms as
+the core of social change has been ignored by all those critics who have declared
+Parsons’s theory unable to explain change. Consequently, all alternative theories
+exhibit an overly narrow conception of the problem in question and are doomed to
+failure from the start. This holds true of all contributions in this context from Dah-
+rendorf via Mills right up to Gouldner and others.
+
+17 If Weber had been able to finish his study of Islam, he would most likely have
+made this point the center of his argument: “The holy right could not be abolished,
+nor, in spite of all adaptation, could it be realized” (Weber [1922] 1976, p. 475).
+
+18 Only from this general perspective can we understand Weber’s explanation of the
+development of modern Occidental society. This in itself goes to prove the explanatory
+potential of a theory of interpenetration.
+THE SOURCES OF THE THEORY OF ACTION: WHITEHEAD, DURKHEIM,
+WEBER, FREUD
+
+The most important influences on the development of the theory of action
+as a Kantian theory are Whitehead’s epistemology and Durkheim’s and
+Weber’s sociology. These figures assumed in the course of Parsons’s devel-
+opment greater significance than Marshall or Pareto, with whom they
+are bracketed in The Structure of Social Action as founders of voluntaristic
+action theory. Another very important figure in the development of the
+theory is Freud, whose work Parsons studied in depth only after the
+appearance of The Structure of Social Action.
+
+Parsons’s “analytical realism,’’!® as an epistemological concept, has its
+roots in the work of A. N. Whitehead ([1925] 1967). Analytical realism
+claims that empirical phenomena acquire significance for a scientific dis-
+cipline only when they are formulated in terms of the theoretical frame
+of reference specific to that discipline. This means that any discipline
+can consider only certain aspects of reality, never reality in its full con-
+crete richness: “Descriptive frames of reference in this sense are funda-
+mental to all science. But by no means do they exhaust scientific con-
+ceptualization. Facts cannot be described except within such a schema.
+But their description within it has, in the first instance, the function of
+defining a ‘phenomenon’ which is to be explained. That is, of the great
+mass of possible empirical observations we select those which are at the
+same time meaningful within such a schema and ‘belong together.’ They
+thus serve together to characterize the essential aspects of a concrete
+phenomenon, which then becomes the object of scientific interest” (Par-
+sons [1937] 1968, p. 30). We recognize this conception as a derivative
+of Kant’s epistemology. The particular objects of a scientific discipline
+are themselves constituted through the interpenetration of empirical ob-
+servation and a theoretical frame of reference. The first function of the
+theoretical frame of reference is to differentiate as sharply as possible the
+various aspects of reality, in order to enable examination of the causal
+relations that might subsist among these aspects. Its second function is
+to open up the possibility of abstraction, which makes possible the trans-
+ference of knowledge from one field of phenomena to other fields of
+phenomena. These functions are best performed by a structure of cate-
+gories which can be given increasingly greater specificity and analytical
+precision through the internal differentiation of a few basic concepts and
+which does not constantly have to keep introducing new concepts to handle
+its empirical input. Thus the theoretical frame of reference should make
+possible the abstraction from particulars, on the one hand, and the par-
+ticularization of abstractions, on the other.
+
+It is impossible to understand the mechanics of Parsons’s theory apart
+from this background. The theory is designed to perform these two basic
+functions, and the later development of the four-function schema can be
+understood as the logical consequence of this fundamental commitment.
+It is supposed to make possible both abstraction and analytic differentia-
+tion, in order to provide the most precise assessment possible of the con-
+tributions of various aspects of reality in the causation of certain phe-
+nomena. This function of analytical schematization must be kept in mind
+when one tries to understand the development of the theory of action.
+Certainly this basic epistemological principle accounts for the emphasis,
+in all of Parsons’s writings, on the process of concept formation as con-
+stitutive of the “objects” of sociology. Yet, contrary to the frequent
+criticisms leveled against it, the theory of action consists of much more
+than mere “taxonomies.” Those who find in Parsons’s work nothing but
+a taxonomy have failed to read him carefully.
+
+Whitehead had a mostly formal influence on Parsons; the influence of
+Durkheim, Weber, and Freud was substantive. According to Parsons,
+Durkheim, Weber, and Freud all share a dualistic conception of action.
+All three managed to avoid the pitfalls of reductionism which lay in both
+directions. Durkheim was not a sociological reductionist, Weber was not
+an idealistic reductionist, and Freud was not a biological reductionist—
+although these charges are frequent even today.
+
+Reviewing the utilitarianism of Spencer in his study of the division of
+labor, Durkheim ([1893] 1964) points out that social exchange always
+presupposes the existence of rules which are categorically binding. These
+rules must be categorically binding if they are to serve as the “frame”
+for the free association of individuals guided by considerations of utility.
+If these rules themselves were constantly open to considerations of utility,
+no one could have any confidence that those with whom he had entered
+into social agreements would abide by those agreements. Durkheim holds,
+in Kantian fashion, that a stable limit on the free calculation of utility
+can only be the product of the moral-categorical authority of norms. Durk-
+heim’s overriding concern is with the conditions which allow the genera-
+tion of such categorical obligations and the moral crises which are en-
+gendered in societies by the absence of such conditions.
+
+Durkheim does more than stress the importance of obligation, however.
+The normative order must also be related to the needs and dispositions
+of individuals. Durkheim goes beyond Kant in his recognition that in-
+dividuals must abide by norms not simply because they must, but because
+they desire to do so. Hence the crucial point of a theory of moral order
+must be the connection of social obligation with individual desire. This
+insight is fundamental to the theory of the interpenetration of the social
+system and the personality system.
+
+Durkheim’s theoretical concerns begin with these basic questions and
+branch out in the direction of a theory of the institutionalization of norms
+in social systems and a theory of the internalization of norms within the
+individual personality (Durkheim 1973a, 19735; Parsons 1967, [1937]
+1968, pp. 324-408). Particularly important here is Durkheim’s theorem
+that it is only insofar as the individual is part of a group on whose ap-
+proval he is dependent that norms valid within the group can become
+categorically obligatory for the individual. For Durkheim, it is the lack
+of this bond between individual and group which explains the phenomenon
+of suicide—not only egoistic suicide but also anomic suicide (Durkheim
+[1897] 1972). But since such bonds exist only within groups which have
+both intensive and extensive contact among their members, the crucial
+question is, How can a society avoid particularization of these normatively
+governed bonds? Durkheim sought the solution to this problem in the
+strengthening of occupational groups as a basic element of social organiza-
+tions and in the institutionalization of common responsibilities in common
+assemblies which would enforce compromise decision making (Durkheim
+[1893] 1964, pp. 1-31).
+
+Durkheim also shows that the process of binding the individual to
+norms and the development of personality are not submitted in every case
+to zero-sum conditions. Division of labor has to be accompanied by the
+loosening of ties between an individual and a group; otherwise, the in-
+dividual would be unable to participate in social life outside his primary
+reference group. The individual must be bound in succession to the norma-
+tive demands of different groups; this is prerequisite not only for the
+development of a comprehensive normative order but for individualization
+as well.?° The “cult of the individual” is in this sense a form of social
+order in which institutionalization of a normative order and the individua-
+tion of the personality do not exclude each other, but reinforce each other.
+This discovery of Durkheim’s is of decisive importance for Parsons’s
+theory of institutionalization and internalization, because here Durkheim
+sets forth a theory of the interpenetration of social system and personality.
+
+We find such a theory of interpenetration in Weber’s work, too, par-
+ticularly in his comparative studies in the sociology of religion ([1920]
+1972).71 At the heart of Weber’s account of the origin and development
+of Western society is a conception of the interpenetration of spheres which
+outside the West have remained separate or even opposed to one another.
+An especially important role is played here by the tension between re-
+ligious ethics and the world, a tension which can be found, in the sense
+of a process of analytical differentiation, almost everywhere. This tension
+can be eased by any of four methods: accommodation to the world, escape
+from the world, reconciliation, or mutual penetration.??
+
+Accommodation to the world is the solution of Confucianism (Weber
+[1920] 1972, 1:276-536). This solution is found predominantly in societies
+in which religious ethics are articulated and expounded by a class which
+is involved in practical life and has its own status interests: for example,
+the Chinese literati. The consequence of this dominance of the sphere of
+means-end rationality over the sphere of religious ethics is the lack of an
+ethical order which could permeate the whole society. There can thus be
+only a limited ethical control of practical, utilitarian action.
+
+The paradigmatic example of reconciliation is Hinduism (Weber [1920]
+1972, vol. 2). The characteristic of this solution to the problem of the
+tension between religious ethics and the world is the separation of dif-
+ferent spheres having their own internal order (the castes). These mini-
+societies are integrated on the theoretical level by the ideology of the
+causality of karma and the transmigration of souls. There is no possibility
+here for a general religious ethics that would cover all of the different
+social spheres. There can only be particularized ethics for each sphere.
+
+The paradigmatic example of escape from the world as a solution to
+our problem is Buddhism (Weber [1920] 1972, vol. 2). This solution
+tends to arise in situations in which religious ethics is primarily the con-
+cern of a class of intellectuals who are isolated from the concerns of prac-
+tical life. The result is a sharp distinction between the ethics of the priests
+and the ethics of the laymen and the absence of a general ethical code
+which could regulate the actions in the spheres of everyday life.
+
+A mutual penetration of religious ethics and the world is found only in
+the Occident, and within the Occident its most. complete realization is
+ascetic Protestantism (Weber [1920] 1972, 1:17-237). Here alone have
+the practical spheres of economics and politics been ethically regulated,
+rather than consigned simply to the realms of utilitarian action and the
+manipulation of power. The typical Puritan business ethic is neither a
+mere appendage of economic acquisitiveness nor a pure emanation of
+religious ethics. It is instead the qualitatively new product of the in-
+terpenetration of two basically opposed spheres. Nothing comparable exists
+outside the Occident. This penetration of ethics into the domain of business
+is for Weber the specific mark of modern capitalism, in comparison with
+all non-Western and premodern forms of economic behavior. It could
+have occurred only where two institutionally independent spheres came
+together while retaining their own essential character.
+
+Although the institutional independence of the Christian religion re-
+sulted very early from the institutionalization of the custom of educating
+priests at universities, the penetration of the economic and _ political
+spheres by religion occurred only gradually and by steps. A giant step
+in this direction was the development of the medieval city, because in
+it, unlike the non-Western city, the religious community, the political
+community, and the market economy all were brought together (Weber
+[1922] 1976, pt. 2, chap. 9, sec. 7). But still there was a large gap between
+priestly ethics and lay ethics, and the bureaucratic organization of the
+institutionalized church tended to substitute control of external behavior
+for the internalization of norms. Yet religion and the world were close
+enough to create ever more extreme tensions between them as economic
+activity increased. These tensions were released by the Reformation,
+through a stronger ethical penetration of the world. The traditionalism
+of the German Reformation caused this process to be coupled there with
+a strengthening of absolutism. As a result, only in Calvinism and in the
+Puritan sects and denominations of England, the Netherlands, and the
+United States was there a truly reciprocal penetration of religious ethics
+and the world. Important elements of this development were the radical
+elimination of any distinction between an ethics for the priests and an
+ethics for the laymen and the importance given to internal control of
+behavior, an importance conferred first by Calvin’s doctrine of predestina-
+tion.2? Of paramount importance, however, was the tight binding of the
+individual to the group by its approval which was achieved within the
+free religious communities of Puritanism.4
+
+We cannot understand the emergence of the modern normative order,
+which manages to be both universal and individualistic, and both rational
+and activistic, apart from this interpenetration of religious ethics and the
+world. The characteristic of this modern order is that it is able to main-
+tain a common identity while encompassing a range of social activities
+that includes everything from philosophical theories of morality to prac-
+tical problems of economic and political action. Only the Occident rec-
+ognizes the philosophical concept of natural law, and the reciprocal pene-
+tration of “sacred” and “profane” codes is peculiar to the Occident. Out-
+side the Occident, these two realms have remained alien to one another,
+or one has dominated the other. In order to explain the genesis of the
+unique social order of the Occident, Weber has implicit recourse to a
+theory of interpenetration. Apart from this theoretical perspective, we
+will fail to understand Weber’s explanation of the origin and development
+of Western society. It is the merit of Talcott Parsons to have distilled
+this theoretical perspective from Weber’s sociological writings and to have
+made it the central idea of his own theory of action.
+
+As the third source of the theory of action, Sigmund Freud is considered
+by Parsons to have made the same contribution to a theory of the inter-
+penetration of social system and personality, from the perspective of the
+personality, as Durkheim made from the perspective of the social system.
+For Parsons, this convergence is of fundamental significance for the future
+development of the social sciences: “This convergence, from two quite
+distinct and independent starting points, deserves to be ranked as one of
+the truly fundamental landmarks of the development of modern social
+science” (Parsons 1953, p. 15).
+
+Through his analytic differentiation of the personality into an id, an
+ego, and a superego, Freud develops a perspective on personality which
+allows him to view it as a zone of interpenetration of the structure of
+drives, external reality, and cultural norms (Freud 1972). In connection
+with this Freudian schema, Parsons emphasizes that already in the earliest
+(oral) phase in the psychic development of the child, the reality principle
+of the ego, as well as the affective motivation of the id, is shaped by
+interaction with social objects, primarily the mother, and so is the result
+of symbolic processes. This means that the ego and the id are no less
+cultural products than the superego, an assertion which Parsons claims
+that Freud found himself increasingly drawn to.
+
+Freud’s analyses of the forms of identification between mother and
+child, and of the differentiation of the object cathexes in the oedipal stage
+and in the later stages of latency and adolescence, are of great importance
+for the understanding of the process of socialization (see Parsons 1956a,
+1956, 1964a, 19645, Parsons and Bales 1956). Identification is the result
+of the fact that the child in the oral phase is dependent on others for the
+satisfaction of his needs and desires; its basic mechanism is the cathexis
+of the libidinal object. This object cathexis progresses from a more par-
+ticularized dependence on pleasure to a more generalized and symbolically
+formed dependence on love. Identification is the basis for the internaliza-
+tion of cultural norms, which are psychically represented by the object
+of identification. In the oedipal phase, however, there is a loss of early
+objects of identification, along with a differentiation of object cathexes
+and a corresponding growth of as many identifications as there are dyadic
+relations for the child within the different roles within the family and,
+subsequently, outside the family, in peer groups and classrooms. Simul-
+taneously, a differentiation occurs between the child’s identification with
+individual role-partners in the group and his identification with the group
+as a whole. In this process of differentiation of object cathexes and the
+loss of infantile identifications, the internalized cultural norms are gen-
+eralized and detached from particular identifications. The superego which
+is the result of this process is thus not a replication of the institutionalized
+norms of a concrete group but rather a generalization from various sys-
+tems of norms which enables the individual to take part in social life
+outside his original reference group and to attain a steadily increasing
+autonomy. What Parsons primarily takes from Freud is this conception
+of the simultaneous, mutually reinforcing expansions of the scope of the
+social system and the personal autonomy of the individual as part of
+one complex process, a process dependent upon a specific form of inter-
+penetration.
+an understanding of this Kantian core, it is impossible to follow the further
+development of the theory of action. In fact, all of Parsons’s further the-
+oretical development is a series of refinements of this theoretical instru-
+ment for the analysis of relations of interpenetration. Before anything
+else, one needed an instrument with which one could analytically detach
+subsystems which possessed their own rule-governed order from the con-
+crete manifold of reality. Once this was accomplished, one would be able
+to analyze these subsystems as pure “ideal types” while also studying
+the nature and extent of their interpenetration. The fundamental theorem
+here is not the old doctrine of differentiation, according to which systems
+can increase their capacities through a process of functional differentiation,
+but the theorem of interpenetration, according to which only a process
+which allows both the greatest unfolding of the internal laws of a sub-
+system and the greatest amount of interpenetration with other subsystems
+can produce a new level of development for the subsystems and the system
+as a whole. This new level of development is as much the result of the
+tension between the subsystems as it is the result of their unity. The
+interpenetration of subsystems unifies opposites and raises the threshold
+level of tension which the systems can accommodate while still retaining
+their identity and unity.?®
+
+Ethics and business, for example, are here not isolated spheres with
+rules and laws wholly unique to each. Yet they are relatively independent
+of one another. They are shaped by different social groups, and so they
+remain clearly separable from one another. Their mutual interpenetra-
+tion, in which, for example, members of the same congregation become
+business partners, opens the possibility of the ethical regulation of busi-
+ness and forces ethics to be relevant to business life.
+
+We can call a relationship formed thus between business and ethics a
+dialectical one, as long as we understand that we accept the biases of
+neither the idealistic nor the materialistic dialectics (in fact, these biases
+prevent the idealistic and materialistic “dialectics” from being true dia-
+lectics at all).27 In the zone of interpenetration between business and
+ethics there appears a new phenomenon: business ethics, which is neither
+pure business nor pure ethics, but something in between. It brings previ-
+ously separate spheres together without incorporating one into the other,
+and it raises the level of each subsystem’s tolerance for what had previ-
+ously been incompatible with it, although this incompatibility can in prin-
+ciple never be totally eliminated. In such a system the possibilities of
+both economic action and ethical action are expanded. Interpenetration
+increases the scope and power of both spheres.?8
+
+Parsons’s theoretical development after The Structure of Social Action
+moves clearly in the direction of refining his theoretical instrument for
+the analytical differentiation of subsystems and the analysis of the rela-
+tions of interpenetration among them. The major landmarks in this de-
+velopment are: (1) the differentiation of cultural system, social system,
+and personality, and the analysis of institutionalization and internalization
+in The Social System (1951) and Toward a General Theory of Action
+(Parsons and Shils 1951); (2) the differentiation of levels of systems and
+the macroscopic-microscopic application of the four-function paradigm in
+Working Papers in the Theory of Action (Parsons, Bales, and Shils 1953);
+(3) the introduction of the hierarchy of cybernetic control and of the
+media of interchange (a) on the level of the social system (money, political
+power, influence, value commitments) in Economy and Society and after
+(Parsons and Smelser 1956; Parsons 1969a, 1969, 1969c); (5) on the
+level of the system of action (intelligence, performance capacity, affect,
+definition of situation), which dates from The American University (Par-
+sons and Platt 1973; Parsons 1977c); and (c) on the level of the human
+condition as a whole in “A Paradigm of the Human Condition” (1978c).
+
+In all of these works, Talcott Parsons has created a theory which might
+be compared with Kant’s critical philosophy. The task of examining the
+substantive and methodological issues in his work in order to reach a just
+determination of Parsons’s contribution to the social sciences will occupy
+social scientists for a long time to come.?®
+REFERENCES
+
+Alexander, J. C. 1978. “Formal and Substantive Voluntarism in the Work of Talcott
+Parsons: A Theoretical and Ideological Interpretation.” American Sociological Re-
+view 43:177-98.
+
+Bendix, R. 1971. “Two Sociological Traditions.” Pp. 282-98 in Scholarship and Par-
+tisanship: Essays on Max Weber, edited by R. Bendix and G. Roth. Berkeley and
+Los Angeles: University of California Press.
+
+Bershady, H. J. 1973. Ideology and Social Knowledge. Oxford: Blackwell.
+
+. 1977. “Commentary on Talcott Parsons’ Review of H. J. Bershady’s Ideology
+and Social Knowledge.” Pp. 134-41 in Social Systems and the Evolution of Action
+Theory, by T. Parsons. New York: Free Press.
+
+Buchanan, J. M. 1975. The Limits of Liberty: Between Anarchy and Leviathan. Chi-
+cago: University of Chicago Press.
+
+Burger, T. 1977. “Talcott Parsons, the Problem of Order in Society, and the Program
+of an Analytical Sociology.” American Journal of Sociology 83:320-34.
+
+Cohen, J. 1975. “Moral Freedom through Understanding in Durkheim: Comment on
+Pope.” American Sociological Review 40:104-6.
+
+Coleman, J. S. 1971. “Collective Decisions.” Pp. 272-86 in Institutions and Social Ex-
+change, edited by H. Turk and R. L. Simpson. Indianapolis: Bobbs-Merrill.
+
+. 1974a. “Inequality, Sociology, and Moral Philosophy.” American Journal of
+
+Sociology 80:739-64.
+
+. 1974b. Power and the Structure of Society. New York: Norton.
+
+Dahrendorf, R. 1955. “Struktur und Funktion: Talcott Parsons und die Entwicklung
+der soziologischen Theorie.” Kélner Zeitschrift fiir Soziologie und Sozialpsychologie
+7:491-519.
+
+. 1958. “Out of Utopia: Toward a Reorientation of Sociological Analysis.”
+American Journal of Sociology 64:115-27.
+
+Durkheim, E. (1893) 1964. The Division of Labor in Society. New York: Free Press.
+
+. (1897) 1972. Suicide: A Study in Sociology, edited by G. Simpson. London:
+
+Routledge & Kegan Paul.
+
+. 1973a. Moral Education: A Study in the Theory and Application of the So-
+
+ciology of Education, edited by E. K. Wilson. New York: Free Press.
+
+. 1973b. On Morality and Society: Selected Writings, edited by R. N. Bellah.
+Chicago: University of Chicago Press.
+
+Ellis, D. P. 1971. “The Hobbesian Problem of Order: A Critical Appraisal of the
+Normative Solution.” American Sociological Review 36:692-703.
+
+Faris, E. 1953. “Review of T. Parsons: ‘The Social System.’” American Sociological
+Review 18:103-6.
+
+Freud, S. 1972. “Das Ich und das Es.” Pp. 237-427 in Gesammelte Werke. Vol. 13. 7th
+ed. Frankfurt: Fischer.
+
+Gouldner, A. W. 1971. The Coming Crisis of Western Sociology. London: Heinemann.
+
+Hobbes, T. (1651) 1966. Leviathan. Collected English Works of Thomas Hobbes,
+edited by W. Molesworth. Vol. 3. Aalen: Scientia Verlag.
+
+House, F. N. 1939. “Review of T. Parsons: ‘The Structure of Social Action.’” Ameri-
+can Journal of Sociology 45:129-30.
+
+. 1950. “Review of T. Parsons: ‘The Structure of Social Action.’” American
+Journal of Sociology 55:504-5.
+
+Hume, D. (1748) 1902. “An Inquiry concerning Human Understanding.” Pp. 5-165
+in Enquiries concerning the Human Understanding and concerning the Principles
+of Morals, edited by L. A. Selby-Bigge. Oxford: Oxford University Press.
+
+. (1739-40) 1973. A Treatise on Human Nature, edited by L. A. Selby-Bigge.
+Oxford: Oxford University Press.
+
+Jensen, S. 1978. “Interpenetration—zum Verhiltnis personaler und sozialer Systeme?”
+Zeitschrift fiir Soziologie 7:116-29.
+
+Kant, I. 1956a. Critique of Practical Reason. Translated by L. W. Beck. Indianapolis:
+Bobbs-Merrill.
+. (1781) 1956b. Kritik der reinen Vernunft. Hamburg: Meiner.
+
+——. (1797) 1967. Kritik der praktischen Vernunft. Hamburg: Meiner.
+
+. (1799) 1968. Kritik der Urteilskraft. Hamburg: Meiner.
+
+Loubser, J. J.. R. C. Baum, A. Effrat, and V. M. Lidz, eds. 1976. Explorations in Gen-
+eral Theory in Social Science: Essays in Honor of Talcott Parsons. New York: Free
+Press.
+
+Luhmann, N. 1977a. “Arbeitsteilung und Moral—Durkheims Theorie.” Introduction
+to Uber die Teilung der sozialen Arbeit, by ¥. Durkheim. Frankfurt: Suhrkamp.
+
+. 1977b. “Interpenetration—zum Verhiltnis personaler und sozialer Systeme.”
+
+Zeitschrift fiir Soziologie 6:62—76.
+
+. 1978a. “Interpenetration bei Parsons.” Zeitschrift fiir Soziologie 7:299-302.
+
+. 1978b. “Soziologie der Moral.” Pp. 8-116 in Theorietechnik und Moral, edited
+by N. Luhmann and S. Pfiirtner. Frankfurt: Suhrkamp.
+
+Mills, C. W. 1959. The Sociological Imagination. London: Oxford University Press.
+
+Miinch, R. 1973. Gesellschaftstheorie und Ideologiekritik. Hamburg: Hoffman &
+Campe.
+
+. 1976a. Legitimitat und politische Macht. Opladen: Westdeutscher Verlag.
+
+. 1976b. Theorie sozialer Systeme: Eine Einfiirung in Grundbegriffe, Grundan-
+
+nahmen und logische Struktur. Opladen: Westdeutscher Verlag.
+
+. 1978a. “ ‘Kapitalismus’ und ‘okzidentaler Rationalismus’: Zwei Perspektiven
+
+zur Analyse der Strukturprobleme moderner Gesellschaften.” Pp. 72-106 in The-
+
+orienvergleich in den Sozialwissenschaften, edited by K. O. Hondrich and J. Matthes.
+
+Neuwied: Luchterhand.
+
+. 1978b. “Max Webers ‘Anatomie des okzidentalen Rationalismus’: Eine sys-
+
+temtheoretische Lektiire.” Soziale Welt 29:217-46.
+
+. 19804. “Talcott Parsons und die Theorie des Handelns II: Die Kontinuitat
+
+der Entwicklung.” Soziale Welt 31(1):3-47.
+
+. 1980b. “Uber Parsons zu Weber: Von der Theorie der Rationalisierung zur
+Theorie der Interpenetration.” Zeitschrift fiir Soziologie 9(1) :18-53.
+
+Nelson, B. 1969. The Idea of Usury: From Tribal Brotherhood to Universal Other-
+hood. Chicago: University of Chicago Press.
+
+Parsons, T. 1928. “Capitalism in Recent German Literature: Sombart and Weber, I.”
+Journal of Political Economy 36:641-61.
+
+. 1929. “Capitalism in Recent German Literature: Sombart and Weber, II.”
+
+Journal of Political Economy 37:31-51.
+
+. 1931, “Wants and Activities in Marshall.” Quarterly Journal of Economics
+
+46:101-40.
+
+. 1932. “Economics and Sociology: Marshall in Relation to the Thought of His
+
+Time.” Quarterly Journal of Economics 46:316-47.
+
+. 1936. “Pareto’s Central Analytical Scheme.” Journal of Social Philosophy
+
+1:244-62.
+
+. 1951. The Social System. Glencoe, Ill.: Free Press.
+
+. 1953. “The Superego and the Theory of Social Systems.” Pp. 13-29 in Par-
+
+sons, Bales, and Shils 1953.
+
+. 1956a. “Family Structure and the Socialization of the Child.” Pp. 35-131 in
+
+Family, Socialization, and Interaction Process, by T. Parsons and R. F. Bales. Lon-
+
+don: Routledge & Kegan Paul.
+
+. 19566. “The Organization of Personality as a System of Action.” Pp. 133-86
+
+in Family, Socialization, and Interaction Process, by T. Parsons and R. F. Bales.
+
+London: Routledge & Kegan Paul.
+
+. 1963. “Introduction” to Max Weber, The Sociology of Religion. Translated
+
+by E. Fischoff. Boston: Beacon.
+
+. 1964a. “The Incest Taboo in Relation to Social Structure and the Socializa-
+
+tion of the Child.” Pp. 57-77 in Social Structure and Personality. New York: Free
+
+Press.
+
+. 19646. “Social Structure and the Development of Personality: Freud’s Con-
+tribution to the Integration of Psychology and Sociology.” Pp. 78-111 in Social
+
+Structure and Personality. New York: Free Press.
+
+. 1967. “Durkheim’s Contribution to the Theory of Integration of Social Sys-
+
+tems.” Pp. 3-34 in Sociological Theory and Modern Society. New York: Free Press.
+
+. (1933) 1968. “Pareto.” Pp. 411-16 in International Encyclopedia of the Social
+
+Sciences, edited by D. L. Sills. Vol. 11. New York: Macmillan.
+
+. (1937) 1968. The Structure of Social Action. New York: Free Press.
+
+. 1969a. “On the Concept of Influence.” Pp. 405-38 in Politics and Social Struc-
+
+ture. New York: Free Press.
+
+. 19696. “On the Concept of Political Power.” Pp. 352-404 in Politics and So-
+
+cial Structure. New York: Free Press.
+
+. 1969¢c. “On the Concept of Value-Commitments.” Pp. 439-72 in Politics and
+
+Social Structure. New York: Free Press.
+
+. 1970. “On Building Social System Theory: A Personal History.” Daedalus
+
+99:826-81.
+
+. 1972. “Review of ‘Reinhard Bendix and Giinther Roth: Scholarship and Par-
+
+tisanship: Essays on Max Weber.’” Contemporary Sociology 1 (1972): 200-203.
+
+. 1975. “Comment on ‘Parsons’ Interpretation of Durkheim’ and on ‘Moral
+
+Freedom through Understanding in Durkheim’: Comment on Pope and Cohen.”
+
+American Sociological Review 40:106-11.
+
+. 1976. “Reply to Cohen, Hazelrigg and Pope.” American Sociological Review
+
+41:361-65.
+
+. 1977a. “Comment on Burger’s Critique.” American Journal of Sociology
+
+83 :335-39,
+
+. 1977b. “Review of ‘Harold J. Bershady: Ideology and Social Knowledge.’”
+
+Pp. 122-34 in Social Systems and the Evolution of Action Theory. New York: Free
+
+Press.
+
+. 1977c. “Some Problems of General Theory in Sociology.” Pp. 229-69 in Social
+
+Systems and the Evolution of Action Theory. New York: Free Press.
+
+. 1978a. Action Theory and the Human Condition. New York: Free Press.
+
+. 19786. “Comment on R. Stephen Warner’s ‘Toward a Redefinition of Action
+
+Theory: Paying the Cognitive Element Its Due.’” American Journal of Sociology
+
+83:1350-58.
+
+. 1978c. “A Paradigm of the Human Condition.” Pp. 352-433 in Parsons 1978a.
+
+Parsons, T., and R. F. Bales. 1956. “Conclusions: Levels of Cultural Generality and
+the Process of Differentiation.” Pp. 353-94 in Family, Socialization, and Interaction
+Process. London: Routledge & Kegan Paul.
+
+Parsons, T., R. F. Bales, and E. A. Shils. 1953. Working Papers in the Theory of Ac-
+tion. Glencoe, IIl.: Free Press.
+
+Parsons, T., and G. M. Platt. 1973. The American University. Cambridge, Mass.:
+Harvard University Press.
+
+Parsons, T., and E. A. Shils, eds. 1951. Toward a General Theory of Action. Glencoe,
+Ill.: Free Press.
+
+Parsons, T., and N. J. Smelser. 1956. Economy and Society. London: Routledge &
+Kegan Paul.
+
+Pope, W. 1973. “Classic on Classic: Parsons’ Interpretation of Durkheim.” American
+Sociological Review 38:399-415.
+
+. 1975. “Parsons on Durkheim, Revisited: Reply to Cohen and Parsons.” Amer-
+ican Sociological Review 40:111-15.
+
+Pope, W., and J. Cohen. 1978. “On R. Stephen Warner’s ‘Toward a Redefinition of
+Action Theory: Paying the Cognitive Element Its Due.’” American Journal of
+Sociology 83:1359-67.
+
+Pope, W., J. Cohen, and L. E. Hazelrigg. 1975. “On the Divergence of Weber and
+Durkheim: A Critique of Parsons’ Convergence Thesis.” American Sociological Re-
+view 40:417-27.
+
+. 1977. “Reply to Parsons.” American Sociological Review 42:809~11.
+Schluchter, W. 1976. “Die Paradoxie der Rationalisierung: Zum Verhiltnis von ‘Ethik’
+und ‘Welt’ bei Max Weber.” Zeitschrift fiir Soziologie 5:256-84.
+
+. 1978. “Max Webers Gesellschaftsgeschichte: Versuch einer Explikation.” Kél-
+
+ner Zeitschrift fiir Soziologie und Sozialpsychologie 30:438-67.
+
+. 1979. Die Entwicklung des okzidentalen Rationalismus: Eine Analyse von Max
+Webers Gesellschaftsgeschichte. Tiibingen: Mohr Siebeck.
+
+Schiitte, H. G. 1977. “Handlungen, Rollen und Systeme: Uberlegungen zur Soziologie
+Max Webers und Talcott Parsons.” Pp. 17-57 in Handlungstheorie interdisziplindr,
+edited by H. Lenk. Vol. 4. Munich: Fink.
+
+Schutz, A., and T. Parsons. 1977. Zur Theorie sozialen Handelns: Ein Briefwechsel,
+edited with an introduction by W. M. Sprondel. Frankfurt: Suhrkamp.
+
+Schwanenberg, E. 1970. Soziales Handeln: Die Theorie und ihr Problem. Bern: Huber.
+
+. 1971. “The Two Problems of Order in Parsons’ Theory: An Analysis from
+Within.” Social Forces 49:561-81.
+
+Tenbruck, F. H. 1975. “Das Werk Max Webers.” Kélner Zeitschrift fiir Soziologie und
+Sozialpsychologie 27:663-702.
+
+Vanberg, V. 1975. Die zwei Soziologien: Individualismus und Kollektivismus in der
+Sozialtheorie. Tiibingen: Mohr Siebeck.
+
+. 1978. “Kollektive Giiter und kollektives Handeln.” Kélner Zeitschrift fiir So-
+sziologie und Sozialpsychologie 30:652-79.
+
+van den Berghe, P. L. 1963. “Dialectic and Functionalism: Toward a Theoretical
+Synthesis.” American Sociological Review 28:695-705.
+
+Warner, R. S. 1978. “Toward a Redefinition of Action Theory: Paying the Cognitive
+Element Its Due.” American Journal of Sociology 83:1317-49.
+
+Weber, M. (1920) 1972. Gesammelte Aufsiétze zur Religionssoziologie. Tiibingen: Mohr
+Siebeck.
+
+. (1922) 1973. “Wissenschaft als Beruf.” In Gesammelte Aufsatze zur Wissen-
+
+schaftslehre. Tiibingen: Mohr Siebeck.
+
+. (1922) 1976. Wirtschaft und Gesellschaft. Tiibingen: Mohr Siebeck.
+
+Whitehead, A. N. (1925) 1967. Science and the Modern World. New York: Macmillan.

@@ -1,0 +1,500 @@
+@SAGE As)A
+Stress, Illness Behavior, and the Sick Role
+
+Author(s): David Mechanic and Edmund H. Volkart
+Source: American Sociological Review, Vol. 26, No. 1 (Feb.,
+Published by: American Sociological Association
+
+Stable URL: http://www.jstor.org/stable/2090512
+Accessed: 20-06-2016 20:04 UTC
+with the relative influence of stress as
+
+compared with the tendency to adopt
+the sick role upon the frequency of known
+illness. It was undertaken to resolve some
+questions posed by research purporting to
+find a direct relationship between stress and
+“illness in general,” i.e., regardless of spe-
+cific diagnosis.
+
+Hinkle and Wolff,) for example, studied
+the long-term patterns of health and illness
+among 2934 employees of a large organiza-
+tion which had maintained excellent medical
+records for its personnel. They found that,
+over long periods of time, the frequency of
+known illnesses (including the more com-
+mon ones) was closely associated with vari-
+ous occupational and social conditions which
+frustrated the needs and aspirations of the
+individuals studied, and which placed heavy
+
+T HE research reported here is concerned
+or conflicting demands upon them, or both.
+As a consequence, they regarded social and
+interpersonal stresses as major etiological
+factors in “all forms of illness,” and they
+concluded, “In the population in general,
+those who are attempting to adapt to such
+difficult life situations are those who exhibit
+a major proportion of the illnesses occurring
+in the adult population.” ?
+
+Such research, valuable as it is, fails to
+distinguish between two analytically sepa-
+rate phenomena: the development of illness
+states (symptoms, disease processes) on the
+one hand, and the act of coming under medi-
+cal care on the other. Severe or prolonged
+stress may, indeed, produce physical symp-
+toms,’ but this alone does not mean that all
+such “sick” persons will seek medical care
+with the same regularity. Thus it may be
+premature to assume that differential fre-
+quencies in medical visits and diagnoses re-
+flect proportionate differences in stressful
+experience or actual sickness, at least until
+the selective processes by which sympto-
+matic persons become patients are better
+understood.
+
+If, in research, we fail to control for such
+selective processes, misleading etiological hy-
+potheses may be formulated on the basis of
+known patient populations that have a sys-
+tematic bias. For example, persons who fre-
+*Talcott Parsons, The Social System, Glencoe:
+The Free Press, 1951, especially chapter 10.
+
+5 This is not the place to develop the complexities
+and implications of the Parsonian formulations. A
+few characteristics of the sick role as described by
+Parsons should, however, be noted: (1) that the
+person adopting this role is expected to seek com-
+petent medical care and take all measures necessary
+to get well, and (2) that the person is released from
+his usual role responsibilities in order to facilitate
+his recuperation and return to usual roles in the
+near future.
+
+Empirically, the ideal model of the sick role is
+often not fully realized. Persons often seek medical
+aid obtaining only partial release from usual respon-
+sibilities, while others obtain full release (i.e., they
+do not report to work, go to bed, etc.), but fail to
+consult physicians. Furthermore, persons are more
+or less motivated to get well and resume usual ac-
+tivities with varying rapidity. The contingencies of
+social structure and group expectations and influ-
+ences are highly important in determining whether
+a person will assume the sick role and, if he does, in
+what manner, For a fuller discussion of the vari-
+ables and how they operate in various settings, see
+David Mechanic, “Illness and Social Disability:
+Some Problems in Analysis,” Pacific Sociological
+Review, 2, (Spring, 1959), pp. 37-41. For a discus-
+sion of the sick role in a military setting, see David
+M. Schneider, “Social Dynamics of Physical Dis-
+ability in Army Basic Training,” in C. Kluckhohn,
+H. A. Murray, and D. M. Schneider, editors, Per-
+sonality, in Nature, Society, and Culture, Second
+edition, New York: Alfred A. Knopf, 1956, pp.
+386-397.
+desirability of the sick role, under various
+conditions of stress, may motivate persons,
+consciously or unconsciously, to seek its pro-
+tection. He writes “Illness may be treated as
+one mode of response to social pressures,
+among other things, as one way of evading
+social responsibilities.” ®
+
+The import of the foregoing is to suggest
+that a more systematic approach to the phe-
+nomena of reported illness must explicitly
+distinguish between two variables: (1) stress
+factors that may produce physical symp-
+toms; and (2) the inclination that different
+symptomatic persons may have to seek medi-
+cal treatment, i.e., to adopt the sick role.
+The purpose of the present research was to
+investigate both of these variables, sepa-
+rately and in combination, and their bearing
+on frequency of reported illness. Our con-
+cern, then, is with the social phenomenon of
+illness behavior, rather than with biological
+disorders simply considered.
+
+By illness behavior we mean the way in
+which symptoms are perceived, evaluated,
+and acted upon by a person who recognizes
+some pain, discomfort, or other signs of or-
+ganic malfunction. Two persons having much
+the same symptoms, clinically considered,
+may behave quite differently; one may be-
+come concerned and immediately seek medi-
+cal aid, while the other may ignore the
+symptoms and not consider seeking treat-
+ment at all. Various researches’ have re-
+ported the existence of differential patterns
+of illness behavior, as we conceive of it, but
+The research was conducted with fresh-
+man males at a large Western university.
+They were selected as subjects because they
+were of approximately the same age, and
+lived and ate their meals in the same univer-
+sity dormitory. Because of school require-
+ments, the academic demands made upon
+them were also substantially similar. At the
+same time, even though these freshmen were
+highly selected for admission, it could be as-
+sumed that many of them would find the
+college environment stressful, because of
+such factors as academic and social competi-
+tion, and perhaps the first prolonged separa-
+tion from family and friends.
+
+The medical records of these subjects,
+during the summer following their first year
+as students, were examined jointly by a
+physician and a sociologist. Various data
+were taken from the records, but for present
+purposes the most important item was the
+number of visits each student made to the
+University Health Service during his fresh-
+man year.?
+
+Then, during the second week of the first
+quarter of their sophomore year, a question-
+naire was administered to the subjects. It
+dealt with their perceptions and experiences,
+the stresses they felt, their difficulties, satis-
+factions, worries, and usual illness behavior
+during their freshman year. The respondents
+included 614 students, 94.3 per cent of the
+total possible population.1° To insure that no
+significant bias was introduced by those who
+failed to return the questionnaire, their medi-
+cal records were compared with the records
+of the group studied. No significant differ-
+ences in number of visits were revealed.
+
+The specific variables used in this study
+included (1) frequency of visits to a medical
+facility for diagnosis and treatment; *! (2)
+stress; and (3) inclination to adopt the sick
+role. Since (1) has already been described,
+let us now consider the measures of stress
+and tendency to adopt the sick role.
+
+The concept of stress has not been ade-
+quately or precisely defined in the behavioral
+sciences.!? In general, it seems to signify a
+state of affairs characterized by anxiety, dis-
+comfort, emotional tension, and difficulty in
+adjustment; it may be temporary and situa-
+tional, or protracted and recurrent. In the
+present study, stress was operationally de-
+fined as the subject’s report of the frequency
+with which he was bothered by “loneliness”
+and “nervousness.”’ These were chosen as in-
+dicators of stress because they appear to be
+closely associated with self-concern, sensi-
+tivity to environmental threats, and difficul-
+ties in dealing with relatively routine life
+situations. These indicators also seemed
+appropriate because of the age factor. Erik-
+son,}* for example, has suggested that feel-
+ings of “aloneness” and “isolation” are par-
+ticularly indicative of stress among adoles-
+cents. Presumably, the adolescent’s loneliness
+reflects his dissatisfactions or discomfort
+with his interpersonal relations, and conse-
+quently with himself and his own perform-
+ance.
+
+Nervousness, on the other hand, may re-
+flect concern with performance, and the an-
+ticipation of possible failure in those areas
+of life where high aspirations have been set.
+Moreover, both loneliness and nervousness
+imply excessive self-concern and the latter
+may augment the former by trapping the
+person in a “vicious circle.” A case in point
+would be the person who is so concerned
+about the adequacy of his performance that
+his nervousness interferes with his ability to
+do well. Implicit in what has been said is the
+assumption that perception of oneself as
+nervous and lonely is itself stressful, as well
+as being an indicator of other stresses.
+
+Accordingly, the respondents were asked
+the following two questions:
+
+During the past school year, how often were
+you bothered by: 14
+
+(1) Nervousness (2) Loneliness
+Very often Very often
+Fairly often Fairly often
+Not very often Not very often
+
+Never Never
+In order to evaluate the validity of this
+index, the responses were analyzed with re-
+gard to such other responses as might be re-
+garded as indicators of stress: worry, diffi-
+culty in college, general dissatisfaction,
+perception of the college environment as
+stressful, and being troubled by headaches,
+indigestion and inability to sleep. Statisti-
+cally significant relationships, at better than
+the .001 level, were found between the stress
+index and all of these.!> It can be said with
+some confidence, therefore, that this index
+discriminates between various levels of stress
+on the part of the respondents.
+
+The second variable considered was the
+inclination to adopt the sick role. In our view
+this concept points to a more or less learned
+pattern of behavior influenced by situational
+contingencies, and indicates the probability
+with which individuals will react to a given
+set of symptoms.’® Persons with a high in-
+
+15 The chi-square, a non-parametric statistical
+technique, was used throughout the analysis. In all
+cases (where df=1) the Yates correction for con-
+tinuity was used. Two-tailed probabilities are re-
+ported even though a priori predictions were made.
+The reported chi-square is, therefore, a highly con-
+servative estimate of relationships. Because of the
+crudeness of many of the indices used, and hence
+their low sensitivities, the 10 per cent level will be
+accepted as evidence of statistical significance.
+
+Since almost all freshman males are included in
+the study, it can be argued that probability statistics
+are not applicable. From another point of view,
+however, the group studied is a sample of college
+freshman attending universities of similar social
+structure which provide easily accessible medical
+services. It is believed that generalization to sub-
+sequent classes of freshmen at the university studied,
+as well as some others, would involve relatively
+small error. Since the magnitude of error is un-
+known, however, degree of significance will be used
+here primarily as a heuristic “indicator” of relation-
+ships worthy of attention.
+
+16 Tt seems clear that differences in the tendency
+to adopt the sick role are functions of learning, ex-
+Responses to these questions were weighted
+equally and scored, the scores ranging from
+“0” (highest inclination to adopt the sick
+role) to “9” (lowest inclination to adopt the
+sick role). The scores were dichotomized in
+such a way as to achieve the most equal divi-
+sion of the population. When this was done,
+a high tendency to adopt the sick role was
+defined by a score of 0-5, and a low tendency
+by a score of 6-9. The measure of the tend-
+ency to adopt the sick role has definite weak-
+nesses, which are worthy of note. In seeking
+information on the likelihood of students’
+reporting to the Health Service, we are tap-
+
+ 
+
+perience, availability of medical resources, etc. The
+researches of Koos and Saunders (see above foot-
+note 7) indicate striking differences that are pat-
+terned along class, ethnic, and cultural lines. In-
+volved also may be such factors as familial pres-
+sures, strength of dependency needs, stress, and the
+desire for various secondary gains.
+17 Our subjects were also asked how likely they
+would be to be absent from classes in each of these
+situations. Students’ reports of tendency to be ab-
+sent from class were significantly associated well
+beyond the .001 level with the measure of inclina-
+tion to seek medical help. The chi square value with
+one degree of freedom was 89.81.
+
+18 Considering the subtleties of illness behavior
+and secondary gain, this measure is fairly crude.
+The scores, therefore, do not readily lend themselves
+to meaningful, fine, distinctions. Where dichotomies
+have been used in the analysis, however, the data
+have been examined to insure that important effects
+are not being obscured.
+
+19 This assumption merits some qualification. It
+may be justifiably argued that persons who have
+considerable experience with illness and doctors
+learn to become more sensitive to a variety of
+symptoms and indicators of illness as well as to the
+possible threatening attributes of early symptoms.
+This extra-sensitivity might be one factor influenc-
+ing a high inclination to seek medical care. The
+possible extent of this influence among a population
+as young as the one studied remains an empirical
+question.
+A second analysis dealt with the relation-
+ship between stress, as measured, and fre-
+quency of known illness. In line with previ-
+ous research findings,” it was predicted that,
+
+20 While the sample includes 614 students, infor-
+mation for all students on all variables is not avail-
+able. Some students either failed to respond to some
+questions or responded in such a way that it was
+impossible to classify them on one or more variables.
+The reader should notice, therefore, that the total
+N reported in Tables 1-5 varies from 592 students
+to 598 students.
+
+21 Cf. footnote 3 above as well as the extensive
+bibliography in Janis, op. cit. For some other ex-
+amples of the stress literature concerned with social-
+psychological experiences, see J. Ruesch, “Social
+Technique, Social Status, and Social Change in III-
+ness,” in C. Kluckhohn and H. Murray, editors,
+Personality in Nature, Society, and Culture, New
+York: Knopf, 1948, pp. 117-130; S. Wolf and H. G.
+Wolff, Human Gastric Function: An Experimental
+as stress increased, usage of the Student
+Health Service would also increase. Table 2
+presents data bearing on this hypothesis. As
+predicted, persons under greater stress were
+more likely to seek medical aid than persons
+under low stress.
+
+The data thus indicate that, taken singly,
+both the expressed inclination to adopt the
+sick role and stress are associated with fre-
+quency of visits to a medical facility. But
+from Parsons’ viewpoint, as previously dis-
+cussed, stress may not only precipitate symp-
+toms, but may also be involved in the tend-
+ency to adopt the sick role. If this is true,
+the data should reveal a significant relation-
+ship between stress, as perceived, and the
+measured tendency to adopt the sick role;
+that is, persons who report high stress should
+also report a high tendency to adopt the
+sick role. Table 3 presents data bearing on
+this hypothesis. As the data show, there is a
+slight reversal between the medium high and
+medium low stress groups with reference to
+inclination to adopt the sick role. However,
+these interrelationships. It reveals that, for
+the high tendency group, stress is signifi-
+cantly related to medical visits; and that,
+while there is an observable tendency in the
+same direction among low tendency persons,
+the results are not statistically significant.
+
+In general, then, the effect of stress on
+frequency of visits to a medical facility is
+clear. In the high tendency group, 73 per
+cent of persons under high stress were fre-
+quent visitors, i.e., made three or more visits
+during the period observed, while in the same
+group only 46 per cent of low stress persons
+were frequent visitors. In the low tendency
+group, 42 per cent of high stress persons
+were frequent visitors, as compared with only
+30 per cent of the low stress persons. That
+even a small relationship between stress and
+medical visits is found in the predicted direc-
+tion for the low tendency group suggests
+that the effects of stress cannot be regarded
+as unimportant.
+
+However, as we have previously indicated,
+persons with a high tendency to seek medi-
+cal aid will probably visit a medical facility
+with fewer and less acute symptoms than
+will persons with a lower tendency. Thus,
+even if stress does produce symptoms, its
+effects on medical visits will largely depend
+on the person’s illness behavior. Low tend-
+ency persons are probably no less affected
+symptomatically by stressful experience, but
+they will be less likely to seek medical relief.
+
+The problem can be more clearly perceived
+if the data in Table 4 are reorganized with
+magnitude of stress as the controlled vari-
+able. Table 5 presents the data in this form,
+and it indicates that, regardless of magnitude
+of stress, the tendency to adopt the sick role
+exerts a significant effect on actual medical
+visits. In each stress group, persons with high
+tendency to adopt the sick role were more
+frequent visitors to the health service than
+were persons with low tendency. In sum, the
+probability that persons will be frequent
+visitors to a medical facility is largely a func-
+The inclination to adopt the sick role, a
+variable heretofore not investigated in
+studies of stress and illness, has been the
+major focus of this study. The frequency
+with which 614 males used the Student
+Health Service during their freshman year
+was established directly from their health
+records. In addition, their responses to ques-
+tionnaire items allowed for the construction
+of indices of “tendency to adopt the sick
+role,” and “stress.” Analysis of these data
+confirms some previous findings regarding
+relationships between stress and illness in
+general, but also demonstrate how this rela-
+tionship is affected by the intervening vari-
+able of “tendency to adopt the sick role.”
+Frequency of medical visits is a function of
+both these variables, but, in general, the
+tendency to adopt the sick role is a more
+influential variable than stress.
+
+These findings, which again underline the
+difference between true prevalence and
+“known illness,” would seem to have im-
+portant implications for basic research in the
+future. Etiological studies are fundamental
+to medical science, and to our understanding
+of human health and illness behavior. But
+such theories are usually proposed on the
+basis of known, or reported, illnesses and ob-
+served symptomatology. The data presented
+here, however, indicate systematic, non-
+medical biases in populations reporting for
+medical diagnosis and treatment.?? In the
+future, much more rigorous methodology
+must be developed to separate the processes
+leading to symptom formation from processes
+bringing persons to medical attention. The
+concept of “illness behavior,” and its meas-
+urement here in terms of the tendency to
+adopt the sick role, are but a few steps in
+that direction.
+
+In any event, we have attempted to indi-
+cate how sociological concepts may be linked
+to traditional medical concepts in the effort
+to gain a deeper understanding of illness and
+the phenomena associated with it. Human
+beings, even when concerned with symptoms,
+act under the influence of a variety of norms,
+values, fears, and expected rewards and pun-
+ishments—that is, in terms of the costs and
+rewards offered by the “social role of the
+sick person.” One of the tasks of medical
+sociology is to trace the connections between
+such influences and the occurrence of actual
+and known illnesses in various populations,
+and thus to reach a more accurate and sys-
+tematic interpretation of the phenomena
+involved.

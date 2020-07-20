@@ -1,0 +1,1523 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+In this paper, we integrate two vital but independent avenues of research on suicide.
+Quantitative studies in sociology, using official statistics to test hypotheses, focus on
+the effects of urbanization, religious affiliation and other reasons why individuals
+commit suicide. Observational studies examine legal, organizational and
+professional factors that lead to misclassifying suspicious deaths, but they fail to
+consider their effects on the causes of suicide. Surprisingly, no study has examined
+whether the social construction of rates biases attempts to test sociological theories
+of the cause of suicide. We attempt to bridge this gap by organizing criticisms of
+suicide rates theoretically, framing them in a measurement error model, and
+introducing a number of techniques to control for misreporting and “correct’’ official
+rates. Using several independently collected data sets for county groups (N= 404) in
+the United States for 1970-71, we find that systematic misreporting exists. However,
+misreporting in the official statistics has little discernible impact on the effects of
+variables commonly used to test sociological theories of suicide. Our results suggest
+a number of theoretical refinements necessary for pursuing further quantitative and
+qualitative studies of suicide.
+bias is an interesting sociological phenomenon
+in itself, the social construction view and its
+proponents argue that misreporting prevents
+the discovery of the true social correlates of
+suicide. According to Baechler (1973), the use
+of rates hinders an understanding of the mean-
+ing behind suicide. Because rates are socially
+constructed, any study using official statistics
+is viewed, at best, with a modicum of suspi-
+cion. Yet there is no empirical evidence to date
+to either support or deny these propositions. In
+practice, investigators interested in the social
+causes of suicide either overlook or explain
+away methodological problems in using official
+statistics. Of the many studies uncovering offi-
+cial misreporting (e.g., Barraclough, 1972),
+none has explored the impact of misreporting
+on the analysis of the social causes of suicide.
+To this point, no study has demonstrated that
+the social construction of rates distorts or does
+not distort the analysis of the social correlates
+of suicide. As such, Hindess (1973) points out
+that official rates can neither be accepted as a
+“given” nor dismissed as inadequate until rates
+themselves are analyzed to determine their
+value in testing sociological theories of suicide.
+
+Drawing from studies on the social processes
+influencing official statistics and sociological
+research on legal systems and organizational
+structure, we lay out possible confounding in-
+fluences and attempt to outline why social fac-
+tors impinge on the recording of suicide. From
+sociological theories on the causes of suicide,
+we gather a list of possible social correlates.
+Suicide as a word and as a classification of
+death is problematic. There is general agree-
+ment that suicides occur when people are the
+willful agents of their own death. The process
+of determining whether this statement cor-
+rectly describes any one death lacks the
+simplicity with which the words can be trotted
+out one after another in such a forthright man-
+ner. Few people who willfully terminate their
+lives express an intention to do so, particularly
+in writing. This has led many who study suicide
+to dwell on lengthy discussions of what suicide
+is (e.g., Durkheim, 1951 [1897]), while others
+abandon hope of meaningful analysis (Douglas,
+1967).? As early as the thirties, Zilboorg (1936)
+questioned the analytic use of statistics. While
+there is general agreement that the suicide rate
+is underreported, estimates vary. Dublin (1963)
+suggests that rates are underestimated by
+25-33 percent, while Seger and Flood (1965)
+claim that the true figure may be as much as 50
+percent higher.
+
+It is helpful to distinguish among three kinds
+of errors which may be associated with official
+statistics: random error, uniform underreport-
+ing, and systematic misreporting.* With purely
+random error, any individual death may be
+misclassified but there is no pattern to the mis-
+classification. On average, random error
+should lead to as many false suicides as unre-
+ported true suicides. In this case, there should
+where S is the probability of suicide, X; is the
+social correlates and a; is constants. If 30
+percent of all suicides are underreported, the
+mean value of S* the observed rate, would
+equal 70 percent of the true S. Substituting the
+observed S* into the above equation would
+cause all of the observed coefficients to be 70
+percent of their true value. All coefficients
+would be affected in the same proportion.
+Comparisons among coefficients would conse-
+quently remain valid even though the absolute
+levels of all the coefficients are too small.*
+Uniform underreporting does not prevent the
+testing of sociological theories of suicide using
+official rates although it raises questions about
+the magnitudes of the effects.
+
+Systematic misreporting, in contrast, could
+obfuscate the true relationships between
+suicide rates and social causation factors.
+Here, the probability that a suicide is mis-
+reported varies consistently with social con-
+struction factors. The ratio of true rates to offi-
+cial rates will be consistently correlated with
+observable characteristics such as the religious
+character of an area and the nature of
+medicolegal systems responsible for classifying
+deaths. Failure to correct for these biases
+could lead analysts to incorrect conclusions
+about the role of social causation factors. For
+example, if areas with a large percentage of
+Catholics successfully hide suicides, a simple
+correlation between official rates and the per-
+cent Catholic might suggest that Catholic areas
+discourage individuals from taking their own
+lives. Systematic misreporting could lead to
+this empirical finding even if the true effect of
+living in a Catholic area is to increase the prob-
+ability of suicide. Concerns of this type are at
+the heart of social construction theories and
+the problems of using official rates.Con-
+sequently, we focus upon systematic mis-
+reporting in the remainder of our analysis.
+First, we discuss the possible sources of sys-
+tematic error mentioned in the litera-
+ture. Second, we review the social corre-
+lates of suicide found in sociological work. We
+then present three methods to mitigate the ef-
+fects of expected misreporting. Finally, we em-
+ploy each of these methods using county group
+data for the United States in 1970 to examine
+the impact of social construction factors on the
+attempt to uncover the social causes of suicide.
+
+Sources of Systematic Error. Legal statutes
+do not clearly define suicide. Further, coroners
+and medical examiners are not guided by the
+kinds of definitions that social scientists pose
+in treatises on suicide (De Castro, 1968; Gibbs,
+1961; Nelson et al., 1978). Uncertainty per-
+vades the classification of suspected suicides.
+Some suicides may be misclassified because
+the suicidal nature of the death is undetectable.
+While unexplained sudden deaths usually re-
+quire investigation, deaths resulting from
+medical complications of earlier suicide at-
+tempts or self-destructive acts (e.g., refusing to
+eat) seldom do. These incidents of “indirect
+self-destructive behavior,” “hidden suicides”
+or “sub-intentioned death” escape classifica-
+tion as suicides (see Nelson and Farberow,
+1980; Simpson, 1950). Still other suicides es-
+cape classification because they fit neatly into
+more “objective” categories. Suicides can be
+masked in any other cause of death, but previ-
+ous research points out prime candidates:
+single car fatalities (Huffine, 1971; Phillips,
+1982, 1977; Simpson, 1950; Tabachnick et al.,
+1973), accidental deaths such as poisoning or
+overdoses (Baker, 1971; Barraclough, 1974;
+Freidman et al., 1973; Oliver and Hetzel, 1973;
+Ovenstone, 1973) or deaths from undetermined
+causes (Barraclough, 1972; Farberow and
+Shneidman, 1961; Litman, 1963; Murphy,
+1979).§
+
+The recording of suicides is complicated by
+two suspected sources of systematic reporting
+error: 1) concealment by social groups who
+vary in their condemnation of suicide, and 2)
+misclassification by coroners and medical ex-
+aminers who vary in their attitude towards a
+suicide verdict, in their qualifications to judge a
+cause of death, and in the resources available
+to conduct their investigations. Durkheim dis-
+misses earlier claims on the informal control of
+the religious community: “Once suicide was
+thought only a simple civil wrong committed
+against the State; religion had little or no inter-
+est in the matter” (1951:334). However, others
+contend that religion does influence the re-
+porting of suicides (Douglas, 1967; Farberow et
+al., 1977). Certain religious groups look upon
+suicide as a disgrace and exert control by de-
+nying religious benefits such as funeral rites
+and burial space (Noyes, 1970; Ovenstone,
+1973; Weiss, 1964). Catholics, traditionally,
+have low reported suicide rates but are sus-
+pected to be among the groups most likely to
+hide suicides. Given this situation, previous
+empirical research relating religious affiliation
+and suicide may test a social causation hypoth-
+esis that suicide varies with societal integration
+(e.g., Durkheim, 1951 [1897]; Pope and
+Danigelis, 1981; Stack, 1983). It may, on the
+other hand, test an alternative: suicide varies
+inversely with social condemnation of suicide
+(Gibbs, 1961).
+
+Since the task of classifying deaths defies
+straightforward categorization, we can expect,
+according to Perrow (1972:166), an absence of
+routine bureaucratic structure. In addition,
+while deaths are certified through a national
+vital statistics registry in the U.S., responsi-
+bilty for classifying cause lies with the states.
+As a result, a complex variety of systems
+exists. These can be characterized as either
+centralized at the state level (e.g., New
+Mexico, Oregon, Rhode Island) or county level
+(e.g., Utah, Montana, Massachusetts); as de-
+pendent on physicians (e.g., Virginia, Arizona)
+or on people from diverse backgrounds (e.g.,
+Nebraska’s county coroners are court attor-
+neys, Wyoming’s are morticians, Nevada’s are
+justices of the peace). In some states, coroners
+or medical examiners are full-time employees
+(e.g., Alabama, Missouri) while in most states
+they are part-time and often paid by the case
+(e.g., Kansas and Pennsylvania). Even within
+states there is diversity: larger counties in
+California have medical examiners with their
+own lab facilities and a full compliment of staff
+while the smaller counties depend on elected
+sheriffs serving ex-officio.®
+
+As in the case of police responding to a call,
+officials involved in classifying deaths are ac-
+corded a great deal of discretion.” Any legal or
+organizational factor influencing the discre-
+tionary power accorded to the coroner or
+medical examiner affects the suicide rate as
+well. Medicolegal offices, as part of a discre-
+tionary subsystem, depend on the particular
+“facts” surrounding an individual death and on
+the formal and informal social control mech-
+anisms in operation (Reiss, 1971). In the ab-
+sence of routine, scientific procedures which
+can provide “objective” evidence to classify a
+death as a suicide (e.g., autopsies), officials are
+not likely to record a “borderline” suspicious
+death as a suicide. Stigma on the family, politi-
+cal pressures, or practical considerations of in-
+surance compensation may predispose coro-
+ners and medical examiners to avoid the
+classification of suicide.
+
+Legal statutes exert formal control over dis-
+cretion by determining critical features of the
+social processes of classifying deaths. State
+statutes currently produce three types of sys-
+tems: medical examiner systems, a few
+coroner systems and a majority of hybrid
+systems where both types exist concurrently in
+one state. States with medical examiner sys-
+tems are required to employ only M.D.s often
+with specialized training in pathology. Previ-
+ous research indicates that the background and
+training of these officials affects the construc-
+tion of official rates (Johnson, 1969; Nelson et
+al., 1978; Turkel, 1953). Clarke-Finnegan
+and Fahy (1983:386) claim that “The clinical
+approach always finds more suicides than le-
+galistic methods of coroners’ courts because
+the former tend to depend on the balance of
+probability, while the latter are constrained by
+the need for more or less unequivocal evi-
+dence.”’ In our terms, laws which require sci-
+entifically trained personnel decrease the dis-
+cretion of the coroner or medical examiner by
+introducing “objective” scientific means of
+determining whether or not a suicide has oc-
+curred.
+
+In addition, legal statutes outline the way a
+coroner or medical examiner comes to hold
+office. Elected officials are suspected of being
+more attuned to powerful community interests
+while appointed officials are more “removed
+from partisan politics” and oriented toward
+“objective” evidence (Kornblum and Fisher,
+1972:i). This suggests that elected officials
+exert more discretion in their job than ap-
+pointed officials. If this is the case, we should
+expect that counties with elected officials hesi-
+tate more often in reporting suicides. Legal
+statutes can attenuate the coroner's power to
+call an inquest, either by dismissing this proce-
+dure as acceptable procedure or by granting
+this authority to attorneys (as in Michigan or
+Massachusetts). The discretion of the coroner
+to draw out the determination of death or to
+rely on nonscientific sources of evidence may
+result in a lower suicide rate. Denying that
+option decreases discretion and the likelihood
+of reporting error. Legal statutes vary and, as a
+result, so does the discretionary power of offi-
+cials who determine the cause of death—at
+least in theory. However, as Simon (1957)
+points out, organizations also control the
+premises of decision-making. Coroner and
+medical examiners are quick to point out that
+the authority and responsibilty granted in legal
+statutes are often not matched with necessary
+financial and technical resources.* The
+availability of toxiocology and pathology
+facilities, for example, shifts the premise for
+decision-making to more scientific criteria. The
+absence of routine analyses of this sort have
+been suspected in lowering detection of
+suicides in borderline cases (Johnson, 1969).
+
+These theoretical issues can be formalized in
+the following measurement model. The true
+suicide rate, P, is a function of the social cor-
+relates, a vector Z:
+Factors which increase the discretion of
+coroners and medical examiners (i.e., coroner
+systems, elected status, ability to call an in-
+quest) result in a lower reported suicide rate.
+Legal and organizational factors decreasing
+discretion (i.e., medical examiner systems, ap-
+pointed status, high availability of toxicology
+and pathology facilities) increase the reported
+suicide rates.
+
+The Social Causation of Suicide. The range
+of explanations for suicide is far greater than
+what we will concern ourselves with here.
+Sociological theories emphasize similar causal
+mechanisms: when the rhythms of social life
+are disturbed, suicides increase. Both the gen-
+eral social condition of the population and spe-
+cific disruptions in social relations take prece-
+dence in sociological approaches (Lindsay,
+1973). Specifically, sociological theories posit
+the importance of factors such as urbanization
+(Halbwachs, 1930), social status (Henry and
+Short, 1954; Morselli, 1882; Powell, 1958;
+Schmid and Van Arsdol, 1955), unemployment
+(Brenner, 1973; Sainsbury, 1955), irreligiosity
+(Masaryk, 1970), social disorganization (Port-
+erfeld, 1952a; Sainsbury, 1955; Schmid, 1928),
+secularization (Porterfeld, 1952b), crises
+(Gibbs and Porterfeld 1960), the status integra-
+tion of the population (Gibbs, 1961; Gibbs and
+Martin, 1974) and social integration/regulation
+(Durkheim, 1951 [1897]).°
+Data. Since no single data set exists which
+includes the information necessary to examine
+the models above, we have compiled and inte-
+grated several large bodies of data for this
+analysis. Death rates from specific causes were
+constructed by combining the 1970 mortality
+tape from the National Center for Health
+Statistics with the 1970 Census Public Use
+Sample. We included only white adults in this
+analysis because death rates by cause for
+blacks are often unreliable and because small-
+scale preliminary studies indicate that record-
+ing suicidal death particularly for blacks is
+problematic (Orcutt et al., 1977; Warshauer
+and Monk, 1978). Cause-specific death rates
+were constructed for each county group in the
+U.S. for eight separate demographic cate-
+gories: women 18-24, men 18-24, women25—44,
+men 25-44, women 45-64, men 45-64, women
+over 65, and men over 65. The county group
+(N=404, excluding Alaska and Hawaii) is a
+U.S. Census aggregation unit which combines
+adjacent counties into population groups of at
+least 250,000. We used information on the
+death rates of individuals from suicides, car
+accidents, all other accidents, undetermined
+causes, homicide and physical illness.!°
+
+We chose the county group level as our unit
+of analysis for both theoretical and method-
+ological reasons. The county group is the
+smallest geographical level for which the Cen-
+sus Bureau will release detailed information on
+individuals (to protect confidentiality). While it
+might have been feasible to gather additional,
+more detailed information on suicide victims,
+the same information would have had to be
+obtained for the comparison groups (i.e., all
+those who died in 1970 or, in some cases, all
+individuals in the population). Finally, we do
+not expect that the aggregation of counties into
+county groups hides a great deal of within-
+county variation. The Census Bureau cutting
+point of 250,000 individuals results in the fol-
+lowing type of aggregation: urban counties
+usually form separate county groups, suburban
+counties are sometimes combined with other
+suburban counties and rural counties are often
+aggregated together. We expect, then, a fair
+degree of homogeneity in the county group
+since the aggregation procedures do not lump
+together vastly diffrent types of places.
+
+We coded information on legal statutes and
+organization of coroner or medical examiner
+offices from a comprehensive report describ-
+ing ‘‘medicolegal investigative systems”
+(Kornblum and Fisher, 1972). This report
+classifies each state system (coroner, medical
+examiner or “‘mix’’) as it existed in 1971, out-
+lines the selection process for officials, and
+provides additional information on the
+availability of resources (e.g., pathology or
+toxicology facilities). Further, any variation in
+specific counties or cities is reported. For
+example, in Nebraska, only counties with over
+125,000 inhabitants (i.e., Dodge and Lancaster)
+have an available coroner’s physician and
+pathologist. In Florida, a 1970 act required the
+establishment of a medical examiner system,
+but, for all practical purposes, only Dade
+county had made the change-over by early
+1971. We are able, then, on a county-by-county
+basis, to correctly code counties which di-
+verged from the state system. The Kornblum
+and Fisher report covers all states and is fairly
+uniform in the information provided. In a few
+cases, where there was no description of avail-
+able resources, we assumed that they were not
+readily available.
+
+We constructed variables indicating 1) the
+type of systems classifying deaths (e.g., per-
+centage of the county group population served
+by a medical examiner system), 2) how the
+officials come to hold office (e.g., the percent-
+age of the county group population with an
+elected coroner or medical examiner), and 3)
+what facilities are available to them in the
+course of an investigation (e.g., the percentage
+of the county group population served by an
+official who has the authority to call an inquest,
+to easily access the services of pathologists, or
+to have toxicology facilities provided either lo-
+cally or by the state). Since one county, the
+capital or largest city, is likely to have
+classified the most deaths and have better
+facilities, we constructed the coroner/medical
+examiner variables to represent the percentage
+of the county group population covered, for
+example, by a medical examiner system. A
+complete and specific list is provided in Ap-
+pendix I.
+
+We culled independent variables for the so-
+cial correlate controls from a variety of
+sources. Indicators for etiological factors in
+suicide (e.g., social disorganization, social
+status) come from the 1970 Public Use Sample.
+Adult observations are aggregated in two
+ways. Cell-specific variables, characteristics
+descriptive of each age—sex grouping (e.g., the
+percent of women 18-24 who have never been
+married) are matched with each age-sex cell
+for every county group. County group vari-
+ables describe the entire county group (e.g.,
+the percent of people in the county group who
+have never been married). This is not equiva-
+lent to having individual and contextual infor-
+mation. Rather, we have information at two
+distinct levels of aggregation, one which is
+tailored to the age and sex composition of the
+analytic group, and the other which is charac-
+teristic of the county group. This procedure
+allows us to separate out how the suicide rate
+of all white males, age 25-44 for example, is
+affected by the marital status of their age—sex
+cell as opposed to the marital status of all
+adults in the county group.'!
+We matched information on the county
+group’s religious profile to each of the age-sex
+groupings. Data on the percentage of the total
+religiously affiliated population of each county
+group that are Catholic or Protestant come
+from a 1971 National Council of Churches
+study (Johnson et al., 1974). The information,
+originally provided by county, is aggregated to
+county group levels. Data on the number of
+Jewish temples and their membership is
+adapted from the American Jewish Yearbook
+(1977). National Jewish Census figures are re-
+corded 1) by city for cities with more than 500
+Jews and 2) by state. This information was
+matched to the appropriate counties and aggre-
+gated to the county group level. The city in-
+formation was assigned to the corresponding
+SMSA, and where no other information was
+available, the statewide average was used as an
+estimate.'?
+
+This variety of indicators gives us leverage in
+measuring the social correlates. High divorce
+rates and migration rates describe what Port-
+erfeld (1952a) characterizes as disorganized
+areas and also provide indicators of economic
+and social ‘‘rifts”. The strength of social ties, a
+component part of Gibbs and Porterfeld’s
+(1960) thesis and Durkheim’s (1951 [1897]) reg-
+ulation hypothesis, is reflected in religious af-
+filiation, divorce, marriage, migration and age
+(the latter implies the potential for contact and
+friendship). All of the unemployment vari-
+ables, education, income and the cost of living
+index provide indicators of integration (Durk-
+heim 1951 [1897]; see Appendix I for complete
+list).
+
+Analytic Methods. We test our hypotheses
+about the effect of misreporting upon the social
+correlates of suicide by comparing four dif-
+ferent equations. In the first, the effect of so-
+cial correlates on suicide is explored with no
+attempt to correct for misreporting. In the re-
+maining three equations, we try three different
+methods to control statistically for systematic
+misreporting. By comparing the controlled
+versus the uncontrolled coefficients of the so-
+cial causation variables, the first hypotheses
+(Hija and H,») are tested. In controlling for mis-
+reporting, we also test the second hypothesis
+(H,) concerning the effect of social construc-
+The basic social correlate model of suicide
+(1) is assumed to have the following form: The
+dependent variable, P,* is the official suicide
+rate (i.e., the total number of suicides in each
+cell divided by the cell population). The inde-
+pendent variables include a set of cell-specific
+characteristics (the X,;’s), a set of county group
+variables (Y,, Y2, Y3... Yn), a set of religion
+variables (R,, Ro, Rs ... Ry) and an average
+error term. Observations are weighted by the
+square root of the county group population N
+in order to correct for heteroscedasticity.'>
+
+To estimate the parameters of the model, we
+use ordinary least squares regression. The
+analysis is done within age and sex categories
+to allow for the possibility of multiple causa-
+tion (i.e., social groups may have high or low
+suicide rates for different reasons; see Gibbs,
+1961). Separate analysis of each age and sex
+cell not only captures the mean differences in
+suicide rates, but also reflects the interaction
+between age and sex, on the one hand, and the
+explanatory variables, on the other. This equa-
+tion is fit to each of the age and sex groups of
+white adults. A number of regression models
+are estimated for each cell to examine the sen-
+sitivity of each coefficient to different specifi-
+cations and to see if a more limited regression
+specification is appropriate. The full set of
+variables considered is listed in the Appendix.
+The actual values of coefficients in the reduced
+models reported change little from the fuller
+models, indicating that multicollinearity was
+not a problem (although the significance levels
+changed as expected).
+
+In the final table, we report the unstan-
+dardized regression coefficients and their
+standard errors (in parentheses). We compare
+both individual and groups of coefficients
+across specification to examine their signifi-
+cance. For example, we compare the individual
+t-test for education across specifications to see
+whether it changes across our control strate-
+gies. In addition, we use an overall F-test to
+see whether the set of social causation effects
+change in comparison with the uncontrolled
+model. Finally, we do an overall F-test of the
+set of social construction factors to see
+whether, as a group, they add to the overall
+explanatory power of the model. The overall
+F-tests are reported in Appendix I.
+
+We use three strategies to control for sys-
+tematic misreporting. In the first approach, we
+estimate a regression equation (2a) directly
+using ordinary least squares. To the extent that
+the factors, Z, describe why some officials fail
+to report suicides, these variables statistically
+control reporting bias and permit a test of the
+first hypotheses. The second hypothesis (H»)
+can be examined directly as well (i.e., through
+the significance of the coefficients in M). The
+major drawback with the single equation model
+involves the effects of any variables which
+serve both as a social construction (X) and
+social causation (Z) factor (e.g., religion). The
+single equation approach can only estimate
+their joints effects (M + A). Hypotheses about
+misclassification (M) or the social correlates
+(A) cannot be tested for these variables.
+
+For the remaining tests, we take advantage
+of our information about the other causes of
+death. We assume that the true mortality (Po)
+from other causes of death is a function of a
+vector of variables, W, which might vary by
+the specific cause of death:
+Because P,* contains misreported suicides, it
+controls for the variation due to misreporting.
+The approach also separates the effect of vari-
+ables which are in both X and Z (the coefficient
+of the social correlate, Z, reflects only the so-
+cial correlate effect, not the misreporting ef-
+fect). -
+
+There are major disadvantages with this sec-
+ond technique, however. Since the actual
+other causes of death are included in the re-
+gression, E, enters as part of the independent
+variables Po*. Because E, is negatively corre-
+lated with E,, this violates one of the basic
+assumptions of the Ordinary Least Squares re-
+gression model. The independent variables
+must be uncorrelated with the error term E,.'4
+The coefficients of the regression consequently
+could be biased. Second, this approach cannot
+yield hypothesis tests about the cause of mis-
+reporting (H.). Third, if true causes of other
+deaths W are correlated with measured or un-
+measured social correlates, it is possible that
+deaths from other causes could serve as a
+proxy for true causes of suicide (not merely
+misreporting).
+
+Our final approach employs two-stage least
+squares both to control for misreporting and to
+test hypotheses on the social construction of
+rates (see Johnston, 1972:380). In the first
+stage, the probability of death from other
+causes is regressed on variables contributing to
+the social construction of rates:
+The first step regression ‘‘cleanses” the
+mortality rates from other causes of the ran-
+dom mismeasurement (E,) and variation in the
+true rate that is not due to misreporting. We
+want to remove E, which is negatively corre-
+lated with E, and will lead to biased coeffi-
+cients. At the same time, we want to leave the
+systematic mismeasurement (MX) in the
+analysis. When these cleansed rates of death
+are entered in the suicide regression, they
+serve as controls for systematic mismeasure-
+ment. The two-step approach takes advantage
+of information contained in the other causes of
+death statistics. This is, in effect, an instru-
+mental variable approach to Two Stage Least
+Squares. This method also permits estimation
+of the individual social correlate effect of the
+variables which jointly enter the social con-
+struction of rates and the social correlates.
+
+All three of these approaches help to control
+statistically for misreporting. Because of
+omitted variables or improper functional form,
+some misreporting may not be controlled. It is
+also possible that some of the influence attrib-
+uted to misreporting could be due to true un-
+derlying social causes. However, since each
+approach relies on such different assumptions
+about the underlying model, it is unlikely that
+all of the approaches fail to control for a sub-
+stantial amount of misreporting. If critics of
+official suicide rates are correct in asserting the
+powerful influence of misreporting, the benefi-
+cial effects of controlling misreporting out-
+weigh any biases any of these three approaches
+might introduce. We offer three cautions.
+First, the findings apply to county groups and
+may not hold for different units of aggregation
+(e.g., counties or states) used in studies of the
+causes of suicide in the United States. Second,
+much greater differences exist in organizing
+and regulating the system of death classifica-
+tion cross-nationally than within the United
+States. The impact of social organization on
+the social construction of suicide rates among
+countries thought to be culturally similar pro-
+vide contradictory results. Coombs and Miller
+(1975), for example, contend that ‘‘ascertain-
+ment procedures” cannot account for the high
+Table 1 presents the mean suicide rates and
+their standard deviations for each of the eight
+age and sex cells that form the basis for our
+analysis. The differences are striking. The
+suicide rate increases with age and is higher for
+males than for females.
+
+Columns 1 through 4 of Table 2 report the
+results of several regression analyses for each
+of the eight age and sex cells. We present the
+unstandardized regression coefficients, their
+standard errors (in parentheses), and asterisks
+to indicate significance (alpha = .05, two-tailed
+test). Other variables (listed in Appendix I)
+were included but were dropped if they were
+consistently insignificant and if they had no
+effect on the coefficients presented here.
+
+Column 1 represents the ‘naive’ model.
+Only etiological or social causation factors are
+included. Columns 2, 3 and 4 of Table 2 repre-
+sent the result of our three different attempts to
+control for misreporting. Any differences in the
+coefficients of social correlates between Col-
+umn I and Columns 2, 3 and 4 reflect bias from
+systematic misreporting. The variables added
+in these latter columns also provide informa-
+tion on the social organization of rate con-
+struction. The final set of variables in these
+models explains between 9 and 40 percent of
+the variance in the suicide rate across county
+groups. We caution against the substantive in-
+terpretation of the differing magnitudes of R?
+across age-sex cells. These reflect artifactual
+differences resulting from a great variability in
+suicide rates across county groups for age and
+Table 2. Regressions of Social Causation and Social Construction Variables upon Suicide Rates—1970 U.S.
+
+County Groups?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+YOUNG MEN
+Independent Head eae
+Variables 1 2 3 4 1 2 3 4
+Cell Specific:
+Relative 2.75* 3.11* 2.64* 3.12* —4,25* —4.46* —2.85 —4,08*
+Income (0.70) (0.75) (0.89) (0.73) (1.46) (1.52) (1.53) (1.49)
+Never ~.06 -.07 .03 =.07 -.24 -.07 ~.32 =.13
+Married (0.09) (0.09) (0.09) (0.09) (0.25) (0.26) (0.25) (0.25)
+County Group:
+Education 3.18" 2.96* 2.16*
+social construction hypotheses about suicide
+rates. Only for females 18-24 and 65+ are the
+social construction coefficients significantly
+different from zero as a group (see Appendix
+I). Seven of the 48 individual social construc-
+tion coefficients are statistically significant;
+however, six of these have the wrong sign.
+ee ee
+
+ 
+
+Education 4.45* 4.31* 4.67* 4.17" 1.64 1.38 1.66 1.50
+(1.16) (1.19) (1.25) (1.17) (1.71) (1.74) (1.72) (1.72)
+
+Relative 5.82 5.12 4.86 4.67 —4.51 -5.78 1.76 —5.62
+Income (4.80) (4.85) (4.84) (4.86) (6.72) (6.79) (6.83) (6.76)
+Divorce AS* .18* i AS* .17* -19* .18* -18*
+Rate Sq. (0.03) (0.03) (0.03) (0.03) (0.05) (0.05) (0.05) (0.05)
+Never 39 50 Al 47 —.84 -.61 -.97 — 66
+Married (0.52) (0.53) (0.53) (0.53) (0.62) (0.63) (0.62) (0.63)
+Net 09 w1I* 1* 09 06 07 12 06
+Migration (0.05) (0.05) (0.05) (0.05) (0.07) (0.08) (0.08) (0.08)
+08 AZ 10 07 —1.16* —1.13* —.93 —1.11*
+(0.43) (0.43) (0.43) (0.43) (0.55) (0.56) (0.55) (0.55)
+
+11.4* 10.4 8.80 5.26 -2.31 —2.69 -2.98 -10.9
+Table 2. Continued
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OLDER MEN
+Independent
+Variables 1 2 4 1 2 3 4
+Cell Specific:
+Relative 9.96" 9.52" 9.62" 10.6" -9.98" = -10.1* -10.1*
+Income (2.21) (2.28) (2.29) 3.03) (3.07) (3.12) 3.03)
+Never 1.21" =1.21* -1.17* 04 -.01 -.00 -.00
+Married (0.45) (0.45) (0.45) (0.38) (0.39) (0.39) (0.39)
+County Group:
+1.38 1.66 1,50
+
+Education
+
+ 
+
+ 
+
+4,17" 1.64
+Table 2. Continued
+
+YOUNG WOMEN
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 25-44
+Independent Ue)
+Variables 1 2 3 4 1 2 3 4
+Cell Specific:
+Relative .29 37 24 38 22 7 29 3l
+Income (0.21) (0.22) (0.25) (0.22) (0.40) (0.42) (0.41) (0.41)
+Never OL 01 OL 01 OS 02 06 03
+Married (0.02) (0.02) (0.02) (0.02) (0.07) (0.07) (0.07) (0.07)
+County Groups:
+Education 33 36
+Medical —.02 — .08*
+Examiner (0.04) (0.04)
+Pathologist —.10* 01
+(0.04) (0.04)
+Local 09 —.00
+Toxicologist (0.05) (0.05)
+State 02 0S
+Toxicologist (0.03) (0.03)
+Elected —.05 05
+(0.03) (0.03)
+Inquest -.02 —.02
+(0.04) (0.04)
+Constant 8.93 —8.95 —9.08 -10.8
+Adjusted R? 052 072 160 160
+SEE 2.13 2.11 15
+F 3.01 2.83 2
+
+  
+
+ 
+
+ 
+
+continued
+Medical
+
+~.05
+
+=.51*
+
+ 
+
+ 
+
+Examiner (0.10) (0.21)
+Pathologist -.01 39
+(0.12) (0.25)
+Local -.03 =.17
+Toxicologist (0.15) (3.08)
+State 06 2B
+Toxicologist (0.08) (0.17)
+Elected 03 -.25
+(0.09) (0.18)
+Inquest 07 39
+(0.10) (0.21)
+Constant 6.72 7.29 22.0
+Adjusted R? 344 341 387
+SEE 6.04 6.06 12.48
+F 20.26 12.28 15.98
+
+ 
+
+a The regression equation is linear, with standard errors in parentheses, and significant coefficients
+marked with an asterisk. All control coefficients and standard errors are multiplied by 10 for ease of
+
+presentation.
+Table 2. Continued
+
+OLDER WOMEN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+45- 65+
+
+Independent 4
+Variables 1 2 3 4 1 2 3 4
+Cell Specific:
+
+Relative 1.09 1.08 =. -1.07 5.98" 6.18" $.71* 6.21
+
+Income (1.12) (1.16) (1.16) (1.14) 2.17) (2.18) (2.19) (2.18)
+
+Never ; -.45 —.50* -.47* -.39 -27 39 = 234
+
+Married (0.24) (0.25) (0.24) (0.24) (0.30) (0.30) (0.30) (0.31)
+County Group:
+
+Education 1.80* 171* 1.81* 3.33* 3.06*
+of death (other accidents, car accidents and all
+illnesses) are entered as control variables in
+Column 3.!5 In half of the age-sex cells (fe-
+males 65+ and all males under 65), the actual
+mortality controls as a group are statistically
+significant. Eight of the 24 individual coeffi-
+cients of these variables are significant. Car
+accidents are implicated, especially for men
+(18-24, 25-44 and 45-64) and sometimes for
+women (25-44); deaths from other illnesses
+come into play only for the oldest group of
+men; and other accidents matter for older
+women (45-64 and 65+) and the youngest
+group of men. These results support the notion
+that suicides may be ‘“‘hidden” in other
+categories such as car accidents and other acci-
+dents. Interestingly, all of the significant coef-
+ficients for the control mortality rates are posi-
+tive in direction. Areas with high death rates
+from car accidents, other accidents and all
+illnesses also have higher suicide rates. The
+social construction of rates, rather than
+creating false differences across areas, actually
+masks the true variation in true rates across
+communities. Except for the effect of relative
+income, we find little difference in the coeffi-
+cients or in the significance of social causation
+factors between Columns | and 3. Nor is there
+a significant difference in the overall set of
+coefficients between the two models for any
+age-sex cell (see Appendix I). According to
+this second test, official misreporting intro-
+duces little bias in the attempt to uncover the
+the social correlates of suicide.
+
+The two-stage least squares estimation
+(which takes into account official misreporting,
+difficulties in detecting suicide, and conceal-
+ment from religious groups) provides two sets
+of results. In the first stage, other causes of
+death are regressed upon the profiles of official
+agencies and religious affiliation. These results
+are reported in Table III. In all but 2 of the 24
+regressions, the coefficients are significant at
+the .05 level. Most of the significant individ-
+ual coefficients lie in the “‘all illnesses” regres-
+sion. This could be indicative of a widespread
+tendency to code suicides as deaths from
+illnesses. These results, however, would also
+be expected simply from the statistical fact that
+deaths from all illnesses occur more frequently
+and, as a result, are more accurately measured
+than mortality rates from car accidents or other
+accidents. The medicolegal coefficients tend to
+be statistically significant in these regressions
+(49 of the 144 coefficients). The most consis-
+tent effect is the presence of a local toxicologist
+(significant in 17 cases). This increases the
+mortality rate associated with all illnesses but
+tends to decrease the mortality rate associated
+with car accidents and other accidents. The
+election of the local official tends to produce a
+similar pattern in the coefficients. Finally, the
+inquest variable tends to have the opposite ef-
+fect. Because of these mixed findings, the re-
+sults do not strongly support the expectation
+that local toxicologists discourage misreporting
+suicides while elected coroners and inquest
+procedures encourage misreporting. The reli-
+gious coefficients in Table 3 were significant
+less often than the medicolegal coefficients
+(only 18 of 96 are significant). The religious
+coefficients for young men and women (18-24)
+and old women tend to be negative (27 of the 36
+are less than zero), but for older men and all
+other women, they are positive (45 of the 60 are
+greater than zero). These results suggest that
+if religious variables are causing fewer suicides
+to be reported, the effect is more pronounced
+for men over 24 and middle-aged women
+(25-64). Current social construction theories
+do not specify why and for whom differential
+effects of this type may occur.
+
+The results reported in Table 3 form the
+basis for computing the predicted rates of
+death solely on religious and official agency
+characteristics. The predicted rates are entered
+as controls in Column 4 of Table 2. Five of the
+24 coefficients of the predicted death rates in
+Table 2 are statistically significant. As a group,
+predicted death rates matter only for females
+age 25-44 and males age 18-45. All five of the
+significant individual coefficients are positive,
+suggesting that areas with high official rates
+may have higher, rather than lower, true rates.
+This is contrary to social construction views.
+The true suicide rate appears to vary even
+more dramatically across county groups than
+the official rates suggest. These results add
+further support to our finding that area-wide
+social causation effects may actually be under-
+stated in empirical analyses of suicide.
+
+Since different age and gender groups choose
+different methods of commiting suicide, it may
+be harder to distinguish suicides from acci-
+dents. For example, young females (18-44) are
+more likely to die from drugs, poisons or some
+form of asphyxiation (gas, carbon monoxide)
+while men (25—44, 65+) are more likely to die
+from automobile accidents. Predicted mortality
+from all illnesses is not significant in any of the
+age-sex cells. Despite the evidence that sys-
+tematic misreporting exists, the differences
+between the official and the true rates do not
+hinder attempts to detect the social causes of
+suicide. The coefficients of the social causation
+variables in Columns 1 and 4 of Table 2 tend to
+be similar in size, sign and significance. As
+we’ve seen in all but one case to this point, the
+overall F-test does not support a significant
+difference in the influence of social causes in
+the “naive” and controlled models.
+
+These results tell a consistent and robust
+story across all three specifications. First,
+where there appears to be a difference between
+the “official” and the “true” suicide rates, the
+latter fluctuate even more widely than the offi-
+cial rates indicate. Second, although the char-
+acteristics of the official agencies that certify
+death are occasionally correlated with the offi-
+cial suicide rate, these relationships rarely
+have the expected sign. Third, social construc-
+tion factors that shape the classification of sus-
+picious deaths do not alter the substantive con-
+clusions that one would draw from examining
+the effects of the social causes of suicide alone.
+Our results, then, are strong but they do not
+support the standard positions on the social
+construction of suicide rates.
+Using three independent techniques, we ex-
+amined whether the social construction of rates
+confounds empirical attempts to discover the
+social causes of suicide. Durkheim's original
+suspicion that “our moral sensitiveness will
+never be aroused by legislative measures”
+({1897] 1951:371) finds only partial support in
+our analysis. Suicides do, in fact, appear to be
+consistently underreported, and this is related
+to the legal and organizational character of
+agencies responsible for classifying deaths. We
+find, however, that misreporting has little ef-
+fect on the relationship between suicide rates
+and indicators of concepts in sociological
+theories of suicide. Whether or not misreport-
+ing is taken into account, the coefficients of
+social causation factors have the same sign and
+the same approximate magnitude. Despite the
+fact that suicides may be unilaterally underre-
+ported, we find that this makes very little dif-
+ference in unraveling the fundamental causes
+of suicide in the United States. The regularities
+we observe attest to social events of a mag-
+nitude great enough to survive rather than re-
+sult from the social construction of rates (see
+Hopperand Guttmacher, 1979). Misreporting, in
+fact, rather than explaining all variation in offi-
+cial rates from one area to another, actually
+masks the true variation. The importance of
+social factors may have been underestimated
+by the use of official rates in empirical re-
+search. Rather than dampening attempts to un-
+cover the social causation of suicide, our re-
+sults underscore the importance of pursuing
+these sociological investigations.
+
+Why do social construction factors fail to
+influence official rates as expected? There are
+two separate issues here: the lack of
+significance of social construction factors; and,
+more interestingly, results which are opposite
+to the ideas developed in social construction
+theories. Our findings, coupled with a re-
+examination of reports on or by coroners de-
+scribing actual judgements made, suggest two
+theoretical ideas which may prove useful in
+refining theories and in studies of official rates.
+
+First, a consideration of cross-pressures may
+explain either null or opposite findings and
+provide an agenda for much needed observa-
+tional studies of the social process of recording
+official statistics. While coroners and medical
+examiners acknowledge the subjectivity of
+rulings on suspicious deaths, they offer a com-
+plex version of how pressures from diverse
+sources often work at odds. For example, Mur-
+phy (1979), a pathologist and a coroner, reports
+two types of cross-pressures in his observation
+of an Ohio county: (1) those regarding the
+trade-off between experience and caseload,
+and (2) those from opposing parties with dif-
+ferent levels of social power. Over time, he
+observes that the number of undetermined
+rulings for each physician-coroner remains
+fairly constant. As officials gain greater experi-
+ence in determining the cause of death, their
+caseloads increase. These escalating demands
+cancel out improvements in skills in detecting
+suicides and produce a consistent performance
+Table 3. Continued
+
+ 
+
+ 
+
+YOUNG WOMEN
+
+ 
+
+ 
+
+ 
+
+18-24 25-44
+Independent Other Car All Other Car All
+Variables Accidents Accidents Illnesses Accidents Accidents _ Illnesses
+Medical Examiner —.13 —.00 16 —.13* 01 25
+(0.14) (0.25) (0.33) (0.04) (0.10) (0.32)
+Pathologist —.18 -03 —.97* —.02 —.23 —.85*
+(0.17) (0.29) (0.39) (0.05) (0.13) (0.39)
+signify more consistent organizational pressure
+to avoid the use of these residual categories.
+Either null or contradictory findings could re-
+sult from the operation of cross-pressures and
+the differential power of opposing parties.
+Second, the role of science needs to be more
+fully explored. While sociologists and officials
+alike argue that “scientific methods” uncover
+more suicides than legalistic methods em-
+ployed by coroners, two pieces of available
+evidence suggest otherwise. Warshauer and
+Monk (1978) studied the recording of suspi-
+cious deaths in New York City before and after
+the institution of the eighth revision of the In-
+ternational Classification of Diseases. When
+these medical examiners were given a new op-
+tion to rule “undetermined” as a cause of death
+under the revised ICD, the suicide rate
+dropped dramatically (66 percent for blacks
+and 50 percent for whites). In Murphy’s (1979)
+study, one of the Ohio county physician-
+coroners took a temporary leave to do a resi-
+dency in forensic pathology. Upon his return,
+the number of undetermined rulings made by
+this physician doubled and remained relatively
+constant at this new rate. Contrary to
+common-sense expectation, then, the depen-
+dence on “hard” evidence and objective proof
+called for by the scientific method may actually
+decrease the suicide rate. Coroners, depending
+on a relative weighing of legal and medical
+evidence, may actually have greater discretion
+in ruling that a suspicious death is a suicide.
+Coroners may overestimate the prevalence of
+suicide, and given greater latitude, may report
+too many suspicious deaths as suicides.
+
+As Ahlburg and Schapiro (1984) remind us,
+we can neither take for granted the supposition
+that suicides reflect more than official pro-
+cesses nor that the influence of social con-
+struction factors are of the magnitude or type
+suggested by these early theories. These re-
+sults set out two tasks for social construction
+approaches. First, social construction theories
+need to be refined along the lines suggested
+Catholic —1.92 —5.88 90.3* -9.70 —27.7* 223.
+
+ 
+
+(2.59) (4.24) (44.8) (7.53) (8.20) (240.)
+Constant 7.96 15.4 660. 38.1 38.7 4732.
+Adjusted R? -083 .073 109 038 143 -220
+SEE 4.99 8.19 86.43 14.53 15.81 463.27
+F 4.65 41.8 5.93 2.61 7.73 12.33
+
+ 
+
+4 The standard error is in parenthesis. Significant coefficients are marked with an asterisk. All coroner
+coefficients and standard errors are multiplied by 10 for ease of presentation.
+REFERENCES
+
+Ahlburg, Dennis A. and Morton Owen Schapiro.
+1984. “Socioeconomic Ramification of Changing
+Cohort Size: An Analysis of U.S. Postwar Suicide
+Rates by Age and Sex.” Demography 21:97-108.
+
+Atkinson, J. Maxwell. 1968. “On the Sociology of
+Suicide.” Sociological Review (New Series)
+16:83-92.
+
+Baechler, Jean. 1975. Suicides. New York: Basic
+Books.
+
+Baker, Johanna. 1971. ‘Survey of Suicide and Acci-
+dental Poisoning.” Nursing Times 67:258-61.
+
+Baron, James N. and Peter C. Reiss. 1985. “Same
+Time, Next Year :Aggregate Analyses of the Mass
+Media and Violent Behavior.’’ American
+Sociological Review 50:347-63.
+
+Barraclough, B. M. 1972. ‘Are the Scottish and En-
+glish Suicide Rates Really Different?” British
+Journal of Psychiatry 120:267-73.
+
+. 1974. “Poisoning Cases: Suicides or Acci-
+dents?” British Journal of Psychiatry 124:526-30.
+
+Bradshaw, Alfred. 1973. The Social Construction of
+Suicide Rates. PhD. Thesis: Department of
+Sociology, Syracuse University.
+
+Brenner, M. H. 1973. Mental Illness and the Econ-
+omy. Cambridge: Harvard University Press.
+Burvill, P. W., M. G. McCall, T. Wooding, and N. S.
+Stenhous. 1983. “Comparison of Suicide Rates and
+Methods in English, Scot and Irish Migrants in
+Australia.” Social Science and Medicine 17:705-
+08.
+
+Clarke-Finnegan, M. and T. J. Fahy. 1983. ‘Suicide
+Rates in Ireland.” Psychological Medicine
+13:385-91.
+
+Coombs, David and Howard Miller. 1975. “The
+Scandinavian Suicide Phenomenon: Fact or Ar-
+tifact? Another Look.” Psychological Reports
+37:1075-78.
+
+Danigelis, Nick and Whitney Pope. 1979. “Durk-
+heim’s Theory of Suicide as Applied to the Family:
+An Empirical Test.” Social Forces 57:1080-1106.
+
+DeCastro, Diego. 1968. “Sociologia e Statistica del
+Suicidio.” Minerva Medica 59:4858-65.
+
+Douglas, Jack. 1967. The Social Meanings of
+Suicide. Princeton: Princeton University Press.
+
+Dublin, Louis. 1963. Suicide: A Sociological and
+Statistical Study. New York: Ronald Press.
+
+Durkheim, Emile [1897] 1951. Suicide. New York:
+Free Press.
+
+Farberow, Norman, Douglas MacKinnon, and
+Franklin Nelson. 1977. “Suicide: Who's Count-
+ing?” Public Health Reports 92:223-32.
+Farberow, Norman and Edwin S. Shneidman. 1961.
+The Cry For Help. New York: McGraw-Hill.
+
+Freidman, Richard, Judith Freidman, and Terry
+Ramirez. 1973. “The Heroin Overdose as a
+Method of Attempted Suicide.” British Journal of
+Addiction 68:137-43.
+
+Gibbs, Jack. 1961. “Suicide.” Pp. 281-321 in Con-
+temporary Social Problems, edited by Robert K.
+Merton and Robert Nisbet. New York: Harcourt,
+Brace and World.
+
+Gibbs, Jack and Walter Martin. 1974. “A Problem in
+Testing the Theory of Status Integration.” Social
+Forces 53:332-39.
+
+Gibbs, Jack and Austin Porterfeld. 1960. ‘“*Occupa-
+tional Prestige and Social Mobility of Suicides in
+New Zealand.” American Journal of Sociology
+46:147-52.
+
+Goldberger, Arthur. 1973. “Correlations Between
+Binary Outcomes and Probability Predictions.”
+Journal of the American Statistical Association
+68:84,
+
+Halbwachs, Maurice. 1930. Les Causes du Suicide.
+Paris: Felix Alcan.
+
+Hannan, Michael. 1971. Aggregation and Disaggre-
+gation in Sociology. Massachusetts: Lexington
+Press.
+
+Henry, Andrew F. and James Short. 1954. Suicide
+and Homicide. Glencoe, IL: Free Press.
+
+Hindess, Barry. 1973. Official Statistics in Sociol-
+ogy. London: Macmillan.
+
+Hopper, Kim and Sally Guttmacher. 1979. “Re-
+thinking Suicide: Notes Toward a Critical
+Epidemiology.” International Journal of Health
+Services 9:417-38.
+
+Huffine, Carol. 1971. ‘“‘Equivocal Single-Auto
+Traffic Fatalities.” Life Threatening Behavior
+1:83-95.
+
+Jewish Publication Society. 1977. American Jewish
+Yearbook. Philadelphia: Jewish Publication Soci-
+ety of America.
+
+Johnson, Douglas, Paul Pican, and Bernard Quin.
+1974. Churches and Church Membership in the
+United States. Washington: Glenmary Research
+Center.
+
+Johnson, H. R. 1969. “‘The Incidence of Unnatural
+Deaths Which Have Presumed to be Natural in
+Coroner's Autopsies.”” Medicine, Science and the
+Law 9:102-106.
+Johnston, J. 1972. Econometric Methods. New
+York: McGraw-Hill.
+
+Kitsuse, John and Aaron Cicourel. 1963. “A Note on
+the Uses of Official Statistics.” Social Problems
+11:131-39,
+
+Kornblum, Ronald and Russell Fisher. 1972. A
+Compendium of State Medico-Legal Investigative
+Systems. Unpublished Manuscript: Maryland
+Medical-Legal Foundation.
+
+Lester, David. 1972. Why People Kill Themselves.
+Springfield, IL: Charles C Thomas.
+
+Lindsay, J. S. 1973. “Suicide in the Auckland Area.”
+The New Zealand Medical Journal 77:149-57.
+Litman, R. 1963. “Investigations of Equivocal
+Suicide.” Journal of the American Medical Asso-
+
+ciation 184:924-29.
+
+Liu, Ben-Chich. 1975. Quality of Life Indicators in
+U. S. Metropolitan Areas, 1970. Washington:
+Washington Environmental Research Center.
+
+Marshall, James R. and Robert W. Hodge. 1981.
+“Durkheim and Pierce on Suicide and Economic
+Change.” Social Science Research 10:101-114.
+
+Masaryk, Thomas. 1970. Suicide and the Meaning of
+Civilization. Chicago: University of Chicago
+Press.
+
+Morselli, Henry. 1882. Suicide: An Essay on Com-
+parative Moral Statistics. New York: Appleton.
+Murphy, G. K. 1979. “The ‘Undetermined’ Ruling: A
+Medicolegal Dilemma.” Journal of Forensic Sci-
+
+ences 24:483-91.
+
+Nelson, Franklin, Norman Farberow, and Douglas
+MacKinnon. 1978. ‘The Certification of Suicide in
+Eleven Western States: An Inquiry into the Va-
+lidity of Reported Suicide Rates.” Suicide and Life
+Threatening Behavior 8:75-88.
+
+Nelson, Franklin L. and Norman L. Farberow. 1980.
+“Indirect Self-Destructive Behavior in the Elderly
+Nursing Home Patient.” Journal of Gerontology
+35:949-57.
+
+Noyes, Russell. 1970. ‘Suicide: Motivation and Pre-
+vention.” Postgraduate Medicine 47:182-87.
+
+Oliver, R. and Basil Hetzel. 1973. International
+Journal of Epidemiology 2:91-101.
+
+Orcutt, Guy, Stephen Franklin, Robert Mendelsohn,
+and James Smith. 1977. ‘Does Your Probability of
+Death Depend on Your Environment? A Mi-
+croanalytic Approach.” American Economic Re-
+view 67:260-64.
+
+Ovenstone, Irene. 1973. “A Psychiatric Approach to
+the Diagnosis of Suicide and its Effects Upon the
+Edinburg Statistics.” British Journal of Psychiatry
+123:15-21.
+
+Perrow, Charles. 1972. Complex Organizations: A
+Critical Essay. Glenview, IL: Scott, Foresman.
+Phillips, David. 1977. ‘Motor Vehicle Fatalities In-
+crease After Just Publicized Suicide Stories.” Sci-
+
+ence 196:1464—66.
+
+. 1982. “The Impact of Fictional Television
+Stories on U. S. Adult Fatalities: New Evidence
+on the Effect of the Mass Media on Violence.”
+American Journal of Sociology 87:1340-59.
+
+Phillips, David P. and Kenneth A. Bollen. 1985.
+“Same Time, Last Year: Selective Data Dredging
+for Negative Findings.” American Sociological
+Review 50:364-71.
+
+Platt, Stephen. 1984. ‘Unemployment and Suicidal
+Behavior: A Review of the Literature.” Social
+Science and Medicine 19:93-115.
+
+Pope, Whitney and Nick Danigelis. 1981. ‘“Sociol-
+ogy’s ‘One Law’.” Social Forces 60:495-516.
+
+Porterfeld, Austin. 1952a. ‘Suicide and Crime in the
+Social Structure of an Urban Setting: Fort Worth,
+1930-1950." American Sociological Review
+17:341-49.
+
+. 1952b. “Suicide and Crime in Folk and Sec-
+ular Society.” American Journal of Sociology
+57:331-38.
+
+Powell, Elwin. 1958. “‘Occupation, Status and
+Suicide.”’ American Journal of Sociology
+23:131-39.
+
+Reiss, Albert J. Jr. 1971. The Police and the Public.
+New Haven: Yale University Press.
+
+Robinson, William S. 1950. “Ecological Correlation
+and the Behavior of Individuals.” American
+Sociological Review 15:351-57.
+
+Sainsbury, P. 1955. Suicide in London. London:
+Chapman and Hall.
+
+Schalkwyk, Johanna, Charles Lazar, and Elaine
+Cumming. 1979. “Another Look at Status Integra-
+tion and Suicide.” Social Forces 57:1063-80.
+
+Schmid, Calvin and Maurice VanArsdol. 1955.
+“Completed and Attempted Suicides: A Compar-
+ative Analysis.” American Sociological Review
+20:273-83.
+
+Schmid, Calvin F. 1928. Suicide in Seattle, 1914 to
+1925. Seattle: University of Washington Publica-
+tions in the Social Sciences.
+
+Seger, C. P. and R. A. Flood. 1965. “Suicide in
+Bristol.” British Journal of Psychiatry 111:919-32.
+
+Simon, Herbert. 1957. Administrative Behavior.
+New York: Macmillan.
+
+Simpson, George. 1950. “‘Methodological Problems
+in Determining the Aetiology of Suicide.” Ameri-
+can Sociological Review 15:658-63.
+
+Skolnick, Jerome. 1966. Justice Without Trial. New
+York: Wiley.
+
+Stack, Steven. 1982. “Suicide: A Decade Review of
+the Sociological Literature.” Deviant Behavior
+4:41-66.
+
+. 1983. “The Effect of Religious Commitment
+on Suicide: A Cross-National Analysis.” Journal
+of Health and Social Behavior 24:362-74.
+
+Tabachnick, Norman, John Gussin, R. Litman, M.
+Peck, N. Tiber, and C. Wold. 1973. Accident or
+Suicide? IL: Thomas Press.
+
+Tarde, Gabriel [1895] 1903. The Laws of Imitation
+(2nd ed.). New York: Holt.
+
+Turkel, H. 1953. “Merits of the Present Coroner
+System.” Journal of the American Medical Asso-
+ciation 153:1086-92.
+
+U.S. Bureau of the Census 1972. City and County
+Data Book, 1970 Census. Washington, DC: Gov-
+ernment Printing Office.
+
+Warshauer, M. Ellen and Mary Monk. 1978. **Prob-
+lems in Suicide Statistics for Whites and Blacks.”
+American Journal of Public Health 68:383-88.
+
+Weiss, Hilda. 1964. “Durkheim, Denmark and
+Suicide: A Sociological Interpretation of Statisti-
+cal Data.” Acta Sociologica 7:264-78.
+
+Zilboorg, Gregory. 1936. ‘Suicide Among Civilized
+and Primitive Race.” American Journal of Psychi-
+atry 92:1347-69.

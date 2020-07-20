@@ -1,0 +1,2274 @@
+Replacing Members with Managers? Mutualism among Membership and Nonmembership
+Advocacy Organizations in the United States
+
+Author(s): Edward T. Walker, John D. McCarthy and Frank Baumgartner
+
+Source: American Journal of Sociology, Vol. 116, No. 4 (January 2011), pp. 1284-1337
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/655753
+
+Accessed: 08-06-2016 04:58 UTC
+Associations with a professional staff but no members (nonmem-
+bership advocacy organizations, or NMAOs) are the subject of lively
+debate. Many argue that their proliferation has allowed an expan-
+sion of advocacy without an accompanying growth in civic en-
+gagement. This article asks if there has been significant recent
+growth of NMAOs and if those organizations have displaced mem-
+bership advocacy organizations (MAOs). The authors find no evi-
+dence for a proportional increase of NMAOs since the 1960s. Fur-
+ther, among all organizations in three populations—peace, women’s
+issues, and human rights—NMAOs have not displaced MAOs. In
+particular, the authors find that MAO density shapes NMAO found-
+ing, as membership groups provide a base for professional advocacy.
+These findings challenge the notion that U.S. civic life has undergone
+a systemic transformation away from organizational forms that pro-
+mote civic engagement.
+advocacy, by many indicators, appeared to be quickening during the long
+decade of the 1960s, it appeared that civic engagement was not keeping
+pace. The first approximation to a solution to the puzzle implicated the
+growth of professional advocacy organizations, or those led by experts
+who mobilized support through a variety of new channels, but mostly
+did not enlist member participation through dense local groups (McCarthy
+and Zald 1973). So, while surveys of individual participation and records
+of membership in voluntary associations do not reflect a strong suprt in
+civic engagement after the 1960s, there was, no doubt, an efflorescence
+of new citizen advocacy groups; these were more systematically docu-
+mented, first, by political scientist Jack Walker (1983, 1991) and then more
+thickly corroborated by a number of subsequent researchers. Some schol-
+ars of interest groups continued to misread that rapid growth of advocacy
+groups as an indicator of increasing citizen engagement, however: “In
+fact, a participation revolution has occurred in the country as large num-
+bers of citizens have become active in ever-increasing number of protest
+groups, citizens’ organizations and special interest groups” (Loomis and
+Cigler 1995, p. 10).
+
+In the late 1990s, two well-known Harvard scholars, Theda Skocpol
+and Robert Putnam, sparked what has become an expanding debate about
+the decline of civic engagement in the United States: Skocpol from the
+perspective of trends in voluntary associations and Putnam from the per-
+spective of trends in individual civic engagement. Both pointed to the
+profusion of professional advocacy organizations with no members or with
+members who are very weakly connected to organizational leadership,
+two types of groups they saw as deeply implicated in the stagnation, if
+not decline, of civic engagement.
+
+Yet there is no systematic assessment of this central premise in this
+widely accepted portrait of the expansion and role of nonmembership
+advocacy organizations in arguments for the transformation of civic en-
+gagement in the United States in recent decades. In this article we fill
+this void by presenting systematic evidence, drawn from the Encyclopedia
+of Associations, about the founding and density of citizen advocacy or-
+ganizations during the past four decades in order to assess (1) whether
+the rate of founding of memberless advocacy organizations has increased
+
+Hogan, Erik W. Johnson, Howard Kimeldorf, Calvin Morrill, Hans Noel, Jason Owen-
+Smith, Silvia Pedraza, Fabio Rojas, Vincent Roscigno, Sarah Soule, Jackie Smith,
+Patricia Strach, Kiyo Tsutsui, Bert Useem, and Mayer Zald. The usual disclaimers
+apply. Portions of the work reported here were supported by National Science Foun-
+dation grant SES-0111443, with Bryan D. Jones. The lead author acknowledges the
+support of the Robert Wood Johnson Foundation. Neither the NSF nor the RWJF
+bears responsibility for the analysis reported. Direct correspondence to: Edward T.
+Walker, University of Vermont, 31 South Prospect Street, Burlington, Vermont 05405.
+E-mail: Edward.Walker@uvm.edu
+GROWTH IN THE ADVOCACY GROUP SECTOR
+
+We focus our attention in this article on what we have been calling ad-
+vocacy organizations or groups. In so doing, we follow the synthetic lead
+of Kenneth Andrews and Bob Edwards (2004), who recently completed
+a systematic review of three quite separate but parallel literatures on
+interest groups, social movement organizations, and nonprofit organiza-
+tions. They make a convincing argument that “overall, there is substantial
+common ground in conceptual definitions” among these literatures, lead-
+ing them to define advocacy organizations as those “that make public
+interest claims either promoting or resisting social change that, if imple-
+mented, would conflict with the social, cultural, political or economic
+interests or values of other constituencies or groups” (p. 485).
+
+Jack Walker’s (1983, 1991) early and still widely influential attempt to
+map the extent of and the changes in the interest group sector in Wash-
+ington, D.C., estimated that advocacy groups—or what he called citizens’
+groups—made up approximately 20% of associations in 1980; the rest
+were primarily trade associations and professional associations. He further
+concluded, by analyzing the founding dates of the 564 organizations he
+surveyed, that there had been a rapid burst of new citizens’ groups during
+the 1960s and 1970s.’ Walker included only groups with members in his
+study, although he did include organizations whose members were other
+organizations.
+
+Walker’s data were later reanalyzed by Baumgartner and Leech (1998,
+p. 11) who found a 180% increase in citizens’ groups between 1960 and
+1985 of 180% compared to a 47% increase in trade associations and a
+65% increase in professional associations. These authors went on to il-
+lustrate the similarity of these trends to those seen among equivalent
+subgroups of associations listed in the Encyclopedia of Associations, a
+publication whose estimates avoid the bias created by omitting certain
+nonsurviving organizations (i.e., left censoring). These more systematic
+efforts to document the explosion of advocacy groups in the closing de-
+cades of the 20th century were consistent with more anecdotal approaches,
+generating a wide consensus that such an “explosion” had taken place.
+
+Subsequently, an expanding scholarly dialogue has documented the
+increasing prevalence and political influence of advocacy “associations
+without members” in the closing decades of the 20th century (Gray and
+Lowery 1996; Weir and Ganz 1997, p. 156; Skocpol 1999a, 1999b, 2003,
+2004a, 20046; Edwards and Foley 2002, p. 101; Skocpol, Cobb, and Klof-
+stad 2005; Eikenberry 2007; Strolovitch 2007; Minkoff, Aisenbrey, and
+Agnone 2008), from international nongovernmental organizations (Boli
+and Thomas 1997; Keck and Sikkink 1998) to think tanks and policy-
+planning organizations (Peschek 1987; McGann 1992; Rich 2004) to Wash-
+ington advocacy organizations concerned with postmaterial issues (Berry
+1999). These groups have become a prominent force in American society
+and politics and have undoubtedly increased in number among the pop-
+ulation of organizations engaged in voicing the concerns of citizens in
+public affairs (Skocpol 1999a, 1999b, 2003, 2004a, 2004b). As Skocpol
+(2004a, p. A6) puts it, “voluntary groups founded in the 1970s and ’80s
+adopted new forms of organization. Some—such as public law groups,
+think tanks, foundations, and political action committees—are not ac-
+tually membership groups at all. And many others are staff-centered as-
+sociations that have few, if any, chapters and recruit most supporters
+individually via the mail or media messages.”
+
+From one side, the recent dialogue has emphasized that NMAOs rep-
+resent a relatively novel form of organization and that their proportion
+in the “cause-oriented” organizational field has increased dramatically
+since the 1970s (Skocpol 2003, p. 163). Minkoff et al. (2008, p. 527) point
+out that the new advocacy environment is often seen, in much recent
+scholarship, as having a problem of “voice without variety.” The theo-
+retical suggestion here is that “significant resource and political constraints
+
+. . tend to promote a great deal of similarity—or, isomorphism—among
+organizations and. . . a higher level of structuration in the organizational
+field and very little diversity in organizing models” (p. 527). In this process,
+professional advocates are believed to have displaced the central role of
+traditional membership organizations.’ Underlying this discussion is the
+notion that this novel form of mobilization has troubling representational
+consequences, since these groups are only loosely connected to the public.
+Membership organizations, by contrast, have traditionally provided a cru-
+cial link between members of the public and the Washington policy pro-
+cess, while also providing opportunities for citizens to engage directly
+with one another in local settings; their decline and reorganization have
+been tied to increasing inequalities in both participation and represen-
+tation (Skocpol 2004b). The decline of traditional membership organi-
+zations and their replacement by professional advocates are therefore
+related to the decline in civic capacity. But is such replacement taking
+place?
+
+Robert Putnam (1995, 2000) approached the puzzle from a different
+direction, first exhaustively identifying trends that show the decline of
+individual citizen engagement during the last decades of the 20th century.
+From another side, he has explored a diverse array of explanations of the
+decline he documents, almost all of them at the individual level of analysis,
+paying somewhat less attention to what sociologists and political scientists
+have increasingly come to know as the availability of “opportunities to
+participate” that advocacy organizations can provide. We argue that ad-
+vocacy organizations could play a crucial role in accounting for changing
+levels of civic engagement: to the extent that advocacy organizations pro-
+vide fewer opportunities to participate, then the changing demography
+of organizational forms may be an important element in explaining de-
+clines in civic engagement. In Bowling Alone (2000), Putnam’s account
+of the decline of civic engagement, he endorses a version of the replace-
+ment hypothesis to the puzzle of apparently increasing numbers of ad-
+vocacy organizations occurring at the same time that levels of civic en-
+gagement are declining. Indeed, he attributes these changes to the
+considerable growth of “tertiary” organizations in which “‘membership’
+is essentially an honorific rhetorical device for fundraising” (p. 156). A
+replacement argument is consistent with Putnam’s, in that he emphasizes
+the emergence of memberless advocacy organizations, although he cer-
+tainly does not directly advance many general claims about the changing
+demography of advocacy organizational forms. Nevertheless, in concert
+with Skocpol’s influential argument, more or less explicit empirical claims
+about memberless organizations in the evolution of the advocacy orga-
+nizational sector in recent decades have pervaded much of the discussion
+about civic engagement in the United States (e.g., Gray and Lowery 1996;
+Edwards and Foley 2002, p. 101; Andrews and Edwards 2004, p. 488;
+Eikenberry 2007; Strolovitch 2007; Minkoff et al. 2008) and in transna-
+tional advocacy (Smith 2005), and the changing context of membership
+organizations is also well documented (e.g., Shaiko 1999; Bosso 2003;
+Sampson et al. 2005; Sobieraj 2006; Howard and Gilbert 2008). Marshall
+Ganz, for instance, has gone so far as to refer to nonmembership orga-
+nizations as “bodyless heads” (according to Skocpol [2003, p. 163)).
+
+While analysts of civic engagement and political participation have
+argued that the memberless organizational form is relatively novel, an-
+alysts of social movements and advocacy organizations have recognized
+that staff-dominated groups have long played an active role in advocacy,
+from policy institutes founded by former movement leaders (Meyer and
+Whittier 1994, p. 288) to legal defense funds (Tauber 1998) to national
+networks that train cadres for grassroots community organizations (Del-
+gado 1986; Warren 2001). Similarly, Minkoff et al. (2008) find that more
+than one-third of the advocacy field consists of nonmembership groups:
+about one in four is a centralized nonmembership organization (such as
+the Center for Responsive Politics); an additional 10% are nonmembership
+networks with chapters (such as the AIDS Action Council). Political sci-
+entists have also long recognized the importance of diverse organizational
+forms, particularly nonmembership “institutions,” in government advo-
+cacy (Salisbury 1984; Lowery and Gray 1998). So memberless advocacy
+organizations, this research implies, are neither a novel organizational
+form nor one that necessarily plays a proportionally larger role among
+modern advocacy organizations. Instead of replacing membership orga-
+nizations, then, nonmembership advocacy organizations (VMAOs) may
+instead play a complementary role in advocacy, if not also in the direct
+mobilization of citizen engagement.
+
+Our research asks two questions about memberless advocacy organi-
+zations. First, despite the increasing attention paid to nonmembership
+advocacy organizations in studies of civic engagement and the voluntary
+sector, there has yet to be a systematic examination of whether these
+organizations are, in fact, an increasing portion of the advocacy associ-
+ational community. Does systematic evidence support this claim? It seems
+more than appropriate, then, to consider whether NMAOs have grown
+as a proportion of the organizational population of advocacy groups active
+in public affairs. Second, in line with the contending perspectives outlined
+above, we also test the argument that NMAOs have been replacing mem-
+bership organizations. Are such associations a competing organizational
+form, effectively squeezing out traditional membership groups, or are they
+complementary, developing alongside membership groups, interacting
+with them and emerging from similar environmental contexts?
+
+In the present analysis, we examine the growth of the memberless
+organizational form both in the broader field of advocacy associations
+and, more specifically, in organizations active in three of the most prom-
+inent and contested issue arenas in the United States during the last 40
+years: peace issues, women’s issues, and human rights issues. We explain
+the logic and method of our selection of these three populations for analysis
+in later discussion. We employ data gathered from the complete public
+affairs section of the Encyclopedia of Associations over the period 1965-
+97. This time period captures the key years of changing civic organization
+in the United States, as documented by a variety of observers (Walker
+1991; Berry 1997; Weir and Ganz 1997; Skocpol 1999a), although it omits
+the very recent years in which the expansion of Internet and communi-
+cations technologies have further lowered the costs of collective action
+(Howard 2006). As the public affairs section of the Encyclopedia is a
+relatively comprehensive catalogue of national advocacy organizations in
+these three issue arenas, it is an appropriate source of data on both mem-
+bership and staff-only associations; for a full description of this data source
+and the extent to which it can be taken as representative of national
+advocacy organizations in the United States, we direct readers to the
+appendix.
+
+We begin by reviewing claims about the expansion and proportional
+representation of nonmembership advocacy associations since the 1960s.
+We then propose a strategy for assessing our claim that the density of
+each kind of association may actually enhance rather than inhibit the rate
+of founding of the other. Next, we describe the data sources and specific
+variables we bring to bear in understanding the macro-organizational
+dynamics (Minkoff 2002) of membership organizations and NMAOs in
+these three advocacy organization populations. In turn, we analyze the
+patterns of founding of memberless organizations using data on the den-
+sity of organizations in each issue sector, along with controls for govern-
+ment attention to the issue in question, the resource environment, and
+media attention. We conclude by discussing the broader implications of
+this study for research on civic engagement and voluntary associations.
+cates of a movement’s cause who would prefer to abstain from direct
+engagement (McCarthy and Zald 1977). Indeed, as we maintain here,
+there is good reason to believe that membership and nonmembership
+organizations play complementary rather than competitive roles, just as
+service providers—such as movement-related cultural groups, educational
+institutions, and publishing houses—tend to undergird the regular activ-
+ism of the primary organizations active in social movements (Della Porta
+and Diani 1999, p. 146).
+
+The common image in scholarly discourse of memberless associations
+is of a group that relies almost entirely on direct mail, telemarketing, and
+advocacy advertising in order to provoke a distant constituency into writ-
+ing a check to the organization or, perhaps more significantly, contacting
+their representatives to support the group’s issue positions. These orga-
+nizations are thought to be heavily focused on national politics—many
+of the largest such groups have headquarters in Washington, D.C.—and
+to mobilize individuals in their local communities mainly in order to make
+them a force in national-level politics through grassroots lobbying. Mem-
+berless organizations, relying as they do on paid staff members, are pur-
+ported to have grown in political significance in response to the changing
+patterns of professional and elite political participation (Skocpol 1999a,
+2003). Because many such organizations have only a “paper” constituency,
+their advocacy efforts are, at times, accused of lacking authenticity or
+even of being “Astroturf” (i.e., a “fake” grassroots organization in which
+participants either are fictional or were apparently misled into partici-
+pating; Loomis and Cigler 1995). Some, such as David Horowitz’s (now
+defunct) Center for the Study of Popular Culture, are little more than
+unanchored organizational names useful in the attribution of quotes in
+media reports. Jack Walker (1991) noted that many organizations active
+in the Washington advocacy community were, in fact, mobilized almost
+entirely through the efforts of elite-led organizational structures rather
+than arising spontaneously from popular demands. Wealthy patrons could
+fund advocacy organizations, and these groups might or might not later
+develop strong membership bases. Grant Jordan and William Maloney
+(1997) have even noted the degree to which organizational leaders may
+often launch lobbying efforts and media-savvy protest campaigns for the
+sole purpose of generating more check writing and anxiety from suppor-
+tive members of the public, effectively turning the relation between lob-
+bying activity and social mobilization on its head. So the links between
+the public and those organizations purporting to speak for them have
+been shown to follow many patterns, and scholars have—both implicitly
+and explicitly—raised normative questions about the rise of “associations
+without members.” In fact, however, we know little about whether these
+groups complement or, instead, compete with traditional member-based
+organizations.
+
+On the basis of a 1985 survey, Frank Baumgartner and Jack Walker
+showed that large proportions of Americans are financial contributors to
+various associations without considering themselves to be “members.”
+They compared survey results from the traditional question wording
+about membership in interest groups (see Verba and Nie 1972) to a more
+encompassing question that also asked, “Are you an active member, a
+non-active member, or have you given money only?” Inclusion of “con-
+tributors” more than doubled the total number of group affiliations beyond
+including only members (Baumgartner and Walker 1988, p. 921).4 Of
+course, contributors were especially common among some types of or-
+ganizations, such as charities; however, “issue” groups more than doubled,
+and even church groups had substantial increases when this broader def-
+inition of citizen linkage to the associational universe was used. By the
+1980s, it was clear that a broad range of forms of organizational affiliation
+were possible, from traditional membership to looser forms of affiliation
+through financial contributions, and of course these trends have certainly
+increased in the decades since this study. All of this motivates the current
+study. Organizational leaders seeking to build connections with their po-
+tential constituents through e-mail, Twitter, and Facebook connections
+certainly do so with the expectation that these connections will reinforce
+rather than replace their other connections.
+
+Although certainly not an “Astroturf” organization in any sense of the
+term, the prototype of this organizational form in dominant accounts of
+memberless advocacy is the Children’s Defense Fund (see Skocpol 1999b,
+2003, pp. 199-200). The CDF began in 1973 as a nonprofit organization
+engaged in advocacy on a variety of issues related to the health, education,
+and socialization of children, especially poor and/or minority children.
+The organization’s founder and president is Marion Wright Edelman,
+who first went to Washington as part of the legal counsel for Martin
+Luther King’s 1968 Poor People’s Campaign.’ Edelman had prior ex-
+perience working in perhaps the most important nonmembership orga-
+nization of the Civil Rights movement, the NAACP Legal Defense and
+Educational Fund (on the fund, see Jenkins and Eckert [1986]; Tauber
+[1998]). Since 1973, the CDF has engaged in research on the needs of
+children, program evaluation, lobbying campaigns on behalf of children’s
+issues, and the creation of coalitions between community organizations
+and state and local governments. The organization is driven by the efforts
+of paid staff and heavily focused on Washington lobbying and claims
+numerous legislative and budgetary victories on behalf of children in the
+over 30 years since its inception.’ The CDF is perhaps the prototypical
+example of what we refer to as a Washington advocate organization.’
+
+Interestingly, the case of the CDF helps to illustrate the ambivalent
+relationship between nonmembership groups and membership organi-
+zations. On the one hand, groups that focus on inside lobbying and rely
+more heavily on professional staff may be more likely to find financial
+support from outside institutions (Jenkins and Halcli 1999) and thereby
+encourage newcomers to adopt such structures for instrumental purposes.
+At the same time, however, these two types can be conceptualized as two
+organizational repertoires (Clemens 1998; McCarthy and Walker 2004) or
+models that can be adapted to work toward similar social change goals;
+the division of labor between these two organizational forms may instead
+be quite productive and complementary.
+
+We examine the relationship between membership- and nonmember-
+ship-based advocacy groups in the entire population of organizations ac-
+tive in public affairs, as well as in the particular issue domains of women’s
+issues, human rights, and peace. We selected these three issues for analysis
+because they constitute three of the most prominently represented ad-
+vocacy organizational populations included in our data source, and, more
+important, they represent three of the most significant social movement
+fields in the late 20th century; advocacy organizations in these fields have,
+respectively, pressed for equal opportunity laws and challenged gender
+discrimination (Mansbridge 1986), called attention to abuses of power and
+crimes against humanity across the globe (Keck and Sikkink 1998), and
+changed the terms of the policy debates over wars in Vietnam (McAdam
+and Su 2002), nuclear policy (Meyer 1990), and the Cold War (Edwards
+and Marullo 1995).
+
+On the basis of the previous discussion, then, our primary hypothesis
+is that despite the numeric increase in NMAOs in recent decades, there
+has been relative stability in the proportion of such organizations in the
+field of public affairs associations. More explicitly:
+
+HypoTuHEsis la.—NMAOs have grown in number between 1965 and
+1997 but have not significantly increased in proportional density through-
+out the field of public affairs associations.
+
+HyporTuHEsis 1b.—NMAOs have grown in number between 1965 and
+MEMBERSHIP STRUCTURES: COMPETITION OR MUTUALISM?
+
+We do not intend to develop here a full-blown theoretical account of how
+issue entrepreneurs select and re-form elements of organizational structure
+as they craft new organizations (in particular whether or not they choose
+to enlist constituent members). Instead, we aim to call attention to the
+direct and indirect cooperative ties between several types of memberless
+associations and those with members in order to buttress our expectation
+that NMAOs have been emerging side-by-side with membership orga-
+nizations in a process of mutual cooperation rather than competition. Once
+we have done so, we will sketch out an approach to assessing our ex-
+pectations based on ecological approaches to organizations, especially in
+regard to the role of cross-densities between interacting organizational
+populations.
+
+Most accounts of the expansion of memberless associations depend
+primarily on single organizational cases and anecdotes (McCarthy and
+Zald 1973; Skocpol 19996, 2003) and often depict what we call Washington
+advocates, such as the CDF. However, not all nonmembership organi-
+zations, even within advocacy organizational populations, engage in
+Washington-oriented lobbying. Many are not focused primarily on direct
+advocacy but assist in the formation of membership organizations in local
+communities; the reformed Industrial Areas Foundation would be one
+example (Warren 2001). Still others are funds and foundations that support
+both service and advocacy within a given issue domain providing services
+directly to membership advocacy groups.* Given the diverse and often
+tight interorganizational links that exist among NMAOs and traditional
+associations, how might we understand the relationship between these
+two forms? Drawing on work of previous scholars, we investigate how
+the rates of founding of membership and memberless advocacy organi-
+zations within competitive issue arenas affect one another.
+
+The structures that advocacy organizations adopt should be subject to
+significant interorganizational pressures. In particular, we emphasize the
+role of interorganizational legitimation and competition in structuring
+advocacy organizational populations, following the lead of organizational
+ecologists. Scholars have argued that the evolving density of an organi-
+zational population often follows an inverted-U-shaped curve because of
+the existence of density dependence; that is, the fluctuation of the total
+number of active organizations in the population at a given moment
+(density) is often critical in shaping the subsequent rates of patterns of
+founding and mortality in that population (Hannan and Freeman 1989;
+Hannan and Carroll 1992). This being the case, legitimation processes are
+crucial to the development of organizational fields, in that the early de-
+velopment of an organizational field tends to be characterized by increas-
+ing legitimacy alongside higher population density, as newcomers build
+on the resources and cultural acceptance already cultivated by existing
+organizations. Once this legitimacy is widespread, an organizational field
+can be said to be institutionalized, in which its structures and practices
+become, to some extent, “taken for granted” (Meyer and Rowan 1977).
+However, institutionalization does not imply limitless growth of the or-
+ganizational field since there is a finite supply of resources (financial,
+moral, and human) available to the entire field; therefore, once the or-
+ganizational field is well established, interorganizational competitive pres-
+sures become more influential in shaping field dynamics, especially pat-
+terns of founding and mortality (Hannan and Freeman 1989; Hannan
+and Carroll 1992).
+
+For our purposes, we call special attention to the pressures that or-
+ganizational populations exert on other, related populations, through what
+are referred to as cross-effects between populations (see also Barnett and
+Carroll 1987; Hannan and Freeman 1987; Baum and Oliver 1991; Rao
+and Nielsen 1992; Brittain 1994; Minkoff 1994). Assessing cross-density
+effects allows analysts to test whether the density of one population of
+organizations may shape the founding and/or disbanding rates of a sec-
+ondary organizational population. If one tends to find positive cross-
+effects—that is, increases in density in one population lead to increases
+in founding (or decreases in disbanding) in the second population—one
+may infer a mutualistic link between them; however, negative cross-effects
+suggest that the link is characterized mainly by competition (Minkoff 1994,
+p. 946). Minkoff, for example, finds a competitive “displacement effect”
+in which advocacy organizations expanded dramatically, thereby limiting
+the founding of new service organizations. Similarly, Hannan and Free-
+man (1989) find that the increasing density of craft unions depressed the
+founding rate of industrial unions and that higher densities of industrial
+unions, conversely, reduced the rate of founding of those engaged in craft
+organizations, thereby suggesting a competitive association. Carroll and
+Wade (1991), however, find a mutualistic relationship between urban and
+rural microbreweries.
+
+A key theoretical issue in understanding these macro-organizational
+dynamics regards mutual cooperation and division of labor within diverse
+organizational populations (Minkoff 1995, 1997; Olzak and Ryo 2007;
+Soule and King 2008). As Levitsky (2007) points out, while organizational
+theorists have recognized the potential for organizational populations to
+have either competitive or cooperative interorganizational relations, schol-
+ars of social movements and advocacy have often overlooked the mutual
+support that diverse organizations provide to one another, focusing instead
+on how organizations compete over such scarce resources as funding,
+constituent support and effort, and public attention. There is considerable
+evidence that advocacy populations benefit by taking a multipronged
+approach that coordinates professional advocacy—whether through legal
+tactics, media strategies, lobbying, or other “insider” means—with
+member-driven grassroots mobilization (Levitsky 2007; see also Mc-
+Farland 1984). Thus, even if organizations compete over resources and
+broader public support, the structural relationship between these two
+organizational forms appears likely to result in a productive division of
+labor that helps strengthen associations’ aggregate capacity for effective
+action within their issue domain.’
+
+In our case, the examination of cross-effects allows us to consider
+whether the relationship between membership and nonmembership or-
+ganizations is either competitive or mutualistic in nature. To the extent
+that we find positive cross-effects between populations of membership and
+nonmembership organizations, then, it is reasonable to conclude that
+NMAOs are not displacing membership organizations but facilitating their
+emergence. And, as organizational analysts have suggested, mutualism in
+organizational populations helps to create organizational community and
+a productive division of labor among groups (Barnett and Carroll 1987).
+The hypotheses, then, that are at the center of this analysis state our
+expectation of a mutually supportive relationship. The first of these is the
+replacement hypothesis described earlier.
+
+HyportuHEsis 2a.—The founding of membership organizations will be
+positively influenced by the density of NMAOs in the population, both in
+the broader field of public affairs associations and among peace, women’s,
+and human rights associations.
+
+HyportuHeEsis 2b.—The founding of NMAOs will be positively influenced
+DATA SOURCES AND MEASURES
+
+In order to assess our claims regarding the cross-effects of density that
+shape associational founding events, we employ data aggregated from the
+public affairs section of the Encyclopedia of Associations. While the En-
+cyclopedia was not developed with the purpose in mind of serving as a
+resource for the dynamic study of associational populations, the directory
+is remarkably consistent over time and captures well the national orga-
+nizational populations in question (Baumgartner 2005). The data file that
+we employ for our analyses includes all organizations listed under the
+heading of public affairs organizations, relying on data collected about
+such organizations from all editions of the Encyclopedia since the pub-
+lication of the fifth edition in 1968, up to and including the fortieth edition,
+published in 2003. The public affairs section of the Encyclopedia includes
+information about only one out of the 16 organizational sectors into which
+the directory is organized, but it includes the largest proportion of cause-
+oriented advocacy organizations and social movement organizations.”° Be-
+yond our three issue domains of primary interest, the public affairs data
+also include a sizable number of listings for organizations active in making
+basic ideological claims (e.g., conservative, liberal, libertarian; 12.6% of
+organization-edition listings), those expressing concerns about a specific
+nation or geographic area (13.5%), and those concerned about a specific
+racial/ethnic group (3.3%). In order to carry out the most conservative
+statistical analyses of the founding patterns of these organizations, we
+rely only on a restricted temporal portion of the data, including only 1965-
+97. We begin in 1965 because doing so allows us to capture the population
+of organizations founded just prior to the printing of the fifth edition (and
+just prior to the “explosion” of group founding events identified by other
+analysts) and end in 1997 because organizations often do not appear in
+the directory until, on average, approximately six years after their found-
+ing (Johnson and McCarthy 2004)."’ Thus, we do not analyze data on
+founding events from the most recent years of the Encyclopedia since
+doing so would likely have led us, inadvertently, to overlook some or-
+ganizations that have only recently been founded and were not yet listed
+in the annual volumes.
+
+From this data source we derive our measures of organizational found-
+ing and density for the entire field and within the three advocacy issue
+areas we study: peace, women’s issues, and human rights. We focus on
+these three issue areas because of their prominence in American politics
+and society in the closing decades of the 20th century.”’ In order to de-
+termine the issue area to which an organization within public affairs
+belonged, we used the keyword area assigned to the organization in the
+directory. Peace organizations include those that were listed under any
+of the following keywords: antidraft or draft, conscientious objectors,
+disarmament, nuclear war and weapons, peace, war resistance, or youth
+against war. Women’s organizations include the keywords woman/
+women, women’s rights, feminist/feminism, reproductive rights/freedoms,
+and sexual harassment. Human rights organizations included the key-
+words human rights, amnesty, capital punishment, political prisoners, and
+refugees. As such, our categorization includes all keywords that could
+reasonably be considered to be associated with each of these issue domains.
+
+In addition to grouping organizations into advocacy issue populations,
+the present data source also includes information about the organizational
+structures of each group included from each edition of the Encyclopedia.
+Organizations were classified into five categories: individual membership,
+organizational membership, mixed individual-organizational member-
+ship, nonmembership, and don’t know. Our category of interest, non-
+membership organizations, includes all groups in which the Encyclopedia
+entry fails to reference a member base and whose entry also contains a
+descriptor such as foundation, institute, center, committee, fund, cam-
+paign, program, project, conference, department, task force, or mission.'*
+Additional analyses (not presented) illustrate that certain organizations
+that have names including these descriptors are, in fact, membership
+organizations and are coded as such; groups falling in this category include
+the Citizens’ Committee for the Right to Keep and Bear Arms and the
+Freedom to Read Foundation. Individual membership organizations are
+those that could be clearly identified as composed of individuals; cases
+were coded as such if the organization referenced individual members in
+its statement regarding their membership dues or if the name of the or-
+ganization made clear that it was composed of individuals (including
+words such as “citizens,” “professionals,” “practitioners,” and the like).
+Organizational membership groups include, for example, groups of cor-
+porations, hospitals, universities, or other individual membership orga-
+nizations. Groups of individuals from other organizations (e.g., groups of
+executive directors of women’s nonprofits) were not considered organi-
+zational membership groups unless the represented organization itself is
+a member. Finally, those groups that met the criteria for both individual
+and organizational membership are placed into the separate category of
+groups that have a hybrid individual-organizational membership. Those
+remaining organizations that could not be classified were coded don’t
+know in each organization-edition and are excluded for the purposes of
+the following analyses. Although we present the distribution of all four
+membership types in figure 1 below, our statistical analyses group these
+membership structures into one of two categories: membership and non-
+membership. Finally, we include data from the Encyclopedia regarding
+whether each organization engages in government advocacy in our de-
+scriptive analyses below.” Although all organizations in our data advocate
+for the public or political recognition of a particular issue, only certain
+organizations engage in formal attempts to advocate their issue before
+government.
+
+In order to arrive at yearly estimates of the founding of organizations
+within each population, we used a series of unique identifiers allowing
+us to aggregate the data into histories for each organization. A team of
+research assistants sorted cases across Encyclopedia editions by name and
+location in order to match repeating organizations. Next, each organi-
+zation was assigned its own unique identifier. Consistent with standard
+practice in organizational analysis, groups that merged were coded such
+that the merged organization was treated as the survival of the largest
+of the merged pair, and the smaller organization was classified as an
+organizational death. After these identifiers were assigned to each unique
+organization, we aggregated the data into summaries of each organiza-
+tion’s history.
+
+The summary data for each organization use the modal value of the
+organization’s attributes over the years of observation for the purposes
+of analysis. For a group’s membership structure, issue area, and engage-
+ment in government advocacy, each organizational case was assigned the
+modal value of that variable across all of the Encyclopedia years in which
+the organization appeared. While this methodology underestimates the
+degree of organizational change in the population, using the modal values
+suits the primary purpose of our analysis in that it captures each orga-
+nization’s primary structures and activities throughout its life span. Fur-
+ther, since our main goal is to capture the means by which external pres-
+sures shape the organizational structures that advocacy organizations
+adopt and maintain and because over 96% of the organizations in our
+data retain an identical structure with regard to the membership/non-
+membership distinction that interests us throughout their entire life span,
+this strategy seems reasonable (cf. Minkoff 1999, p. 1681).’°
+As for the identification of the founding date, we rely on the modal
+value reported by the Encyclopedia across organization-editions. Al-
+though it is extremely rare for the founding date entries of an organization
+to be reported inconsistently across years, we rely on the modal value in
+order to reduce any error associated with conflicting listings. As well,
+certain cases lack a founding year, often in the earliest years of their
+existence, perhaps as a strategy to minimize the potential costs to their
+legitimacy of being recognized as a young organization. Following from
+the finding of Johnson and McCarthy (2004) that organizations, on av-
+erage, take about six years from the time of founding until they first appear
+in the directory, we impute a founding date to all missing cases, using
+the first year of their appearance in the directory minus six. This impu-
+tation was made for 11.5% of cases, a large proportion of which were
+organizations first seen in the 2003 edition (28% of the imputed cases).
+
+Using this comprehensive organization-level data file that aggregates
+organizational data across all years of the Encyclopedia (N = 4,832), we
+tabulated counts of the number of organizations active in each issue area
+according to their membership structure and focus on government ad-
+vocacy. As well, we calculated the density of each of these organizational
+populations by converting each organization into a series of dummy var-
+iables for yearly presence that tracked their life span from their founding
+year until either their last appearance in the Encyclopedia or right-
+censoring and then aggregating these values into annual density estimates
+for each respective population.
+
+Time-series data structure and measures.—In order to estimate the
+cross-density effects on rates of founding of memberless associations, we
+constructed a time-series data file of annual counts of founding events
+from 1965 to 1997 (NV = 33). As we describe below, our first set of de-
+pendent measures is made up of annual measures of the following: the
+founding of all public affairs organizations, nonmembership public affairs
+organizations, and the founding of nonmembership public affairs asso-
+ciations that engage in advocacy (see table 2 below). We then carry out
+analyses that predict and compare the founding of nonmembership and
+membership organizations within each of the three advocacy populations
+under consideration, estimating both the standard and cross-effects of
+density for each organizational form in order to test hypotheses 2a and
+2b.
+
+In calculating parameter estimates of the factors most influential in
+shaping the organizational founding, we rely on a number of data sources
+RESULTS
+Descriptive Statistics
+
+We began by calling attention to the fact that the NMAOs are not a novel
+organizational form. First, in order to assess the claim that such profes-
+sional-only organizations have displaced membership organizations in the
+associational population, we present a 100% stacked area chart of the
+proportional density of each organizational structure across all organi-
+zations engaged in public affairs, using counts of organizations from each
+edition of the Encyclopedia of Organizations.’° These results are presented
+
+in figure 1.
+As McAdam and Scott argue, “An important indicator of institutional
+change . . . involves changes over time in the relative numbers of or-
+
+ganizations exhibiting a given form” (2005, p. 24; emphasis added). While
+we know that the population of nonmembership organizations has ex-
+panded in number, it is important first to consider the relative proportions
+of each organizational form in the population. Figure 1 shows that when
+considered relative to the other organizational forms present in the pop-
+ulation of public affairs associations, the proportions of each type have
+remained relatively constant (in support of hypothesis 1a).’’ In fact, the
+year in which we find the highest proportion of nonmembership orga-
+jenpiaipuro
+jeuonjeziuebion
+Jeuojeziue6i0 pue jenpiAipur
+
+diyssaquiawuon @
+
+ 
+
+%0T
+
+%OE
+
+%0b
+
+%0S
+
+%09
+
+%O0L
+
+%08
+
+%06
+
+%00T
+
+dABaA Aad SUOIeZIUCBAO JO %
+nizations in the population is 1968, not during the years of the “advocacy
+explosion” of the late 1970s and early 1980s. Figure 1 illustrates that the
+relative proportions of each organizational structure remain remarkably
+constant over the period in question, with membership organizations (of
+all types) constituting between 59% and 69% of the organizational pop-
+ulation. We therefore find strong evidence that nonmembership organi-
+zations have not displaced membership organizations in the population
+of public affairs organizations (in line with hypothesis 1a).'*
+
+Secondarily, these data illustrate that nonmembership organizations
+have been a consistent, sizable presence in public affairs throughout the
+past half century. The descriptive statistics in table 1 present even further
+evidence of this fact. First, the figures in table 1 demonstrate that across
+the entire time series we examine (1965-97), NMAOs represented 33.4%
+of all organizations founded in an average year (39.4/117.8). These findings
+accord with those of two studies (both of organizations as of the year
+2000): Strolovitch (2007, p. 54) found that approximately 37.8% of ad-
+vocacy groups had a nonmembership structure, and Minkoff et al. (2008,
+p. 545) found that 36.4% of groups were NMAOs. Although, when com-
+pared to the density proportions reported in figure 1 and described above,
+this would appear to suggest that they have a longer life span, additional
+analyses (not presented) show that nonmembership groups have a slightly
+shorter life span than individual membership groups.” Interestingly, ad-
+ditional descriptive statistics (not shown) illustrate that the NMAO or-
+ganizational population is not overwhelmingly dominated by those groups
+that engage in formal efforts at governmental advocacy, since only 51.3%
+of all NMAOs founded in a given year were active in efforts to influence
+government. Thus, Washington advocates constitute only a portion of the
+NMAO population, as we describe later.
+
+Table 1 also shows that with respect to the density of organizations
+within each issue arena, peace has the highest mean annual density (about
+121 organizations), which is greater than women’s (about 99 organiza-
+TABLE 1
+DESCRIPTIVE STATISTICS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+ 
+
+ 
+
+ 
+
+  
+
+   
+ 
+ 
+
+Mean SD Median Min Max
+Dependent measures (founding events):
+Total public affairs:
+All organizations ............... 117.8 63.1 114 31 270
+Nonmembership organizations 39.4 23.0 40 13 100
+Nonmembership advocacy organi-
+zations .............. 20.2 15.1 17 4 68
+Membership organizations:
+Peace .............00005 5.1 5.9 3 0 25
+Women’s ..... 4.7 3.8 3 0 12
+Human rights . 24 24 2 0 9
+Nonmembership organizations
+Peace .. 2.3 3.1 2 Oo 13
+Women’s 2.2 24 1 Oo 10
+Human rights . 14 1.2 1 0 4
+Independent measures (¢ —
+Organizational density:
+All public affairs organizations .............. 1,936.1 669.5 2,172 779 2,799
+Peace .. 120.8 49.4 104 58 197
+Women’s = 98.5 43.1 116 17 147
+Human rights ................0.c ce ceeeee eee ee 56.1 26.9 73 15 87
+Government attentio
+Total hearings (three-year moving
+average) ... . 1,567.0 350.2 1,720 871 2,011
+Peace hearings . 5.4 3.7 4 1 15
+Women’s hearings 5.6 4.8 5 Oo 20
+Human rights hearings .. 9.7 6.7 11 Oo 21
+Resource environment:
+Federal transfer funds (1997 dollars, bil-
+lions) .. 63.0 65.8 47 2 223
+
+ 
+
+Aggregate disposable income (1997 dollars,
+millions) ..............0000cceeeeeeeeeeeeeeees 4,225.1
+Media attention:
+Peace articles ....
+Women’s articles o
+Human rights articles ...............0..000005
+
+ 
+
+9.7
+1.6
+
+ 
+
+ 
+
+1,032.7 4,124 2,460 5,926
+
+8.2 7 2 31
+LS 1 0 7
+2.0 2 0 8
+
+ 
+
+NotTEe.—The above estimates summarize annual values for the years 1965-97 for
+all dependent measures and the years 1964-96 for all independent measures (V = 33).
+0
+
+N Non-membership Orgs.
+So oO Oo So Oo o
+oO in +t “ N a
+
+oO
+NN
+
+08
+
+L66T S66T E66T T66T 686T Z86T S86T E8ET T86T GZ6T ZZ6T SZ6T EZL6T TZ6T 696T Z96T S96T
+
+r O
+
+ 
+
+0z
+
+ 
+
+AUSudg SS3|JaqUd,| — —
+Aylsuaq diySiaquUdy,| ——
+
+ 
+
+Oo
+t+
+
+ 
+
+oS
+wo
+
+ 
+
+oO
+co
+
+oot
+
+OzT
+
+ 
+
+ 
+
+ 
+
+ 
+
+OvT
+
+ 
+
+"sBiQ diysusquiow N
+N Non-membership Orgs.
+
+os
+
+09
+
+S66T CO6T 686T 986T E86T O86T ZLZ6T PL6T TZL6T 896T S96T
+
+ 
+
+ 
+
+Aylsuaq Ssaoquiay|—= —
+Aysuad diysiaquay] ———
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+0z
+
+°
+vt
+
+2
+Oo
+
+°°
+oO
+
+oot
+
+oct
+
+*sBio diysusquiow N
+S66T C66T 686T 986T
+
+E86T O86T LL6T LET TLET 896T S96T
+
+ 
+
+o
+a
+
+ 
+
+Alsuaq ssapaquay = —
+Ayisuag diyssaquiay
+
+in
+dd
+
+ 
+
+o
+N
+
+ 
+
+N Non-membership Orgs.
+
+in
+N
+
+ 
+
+0€
+
+SE
+
+ 
+
+ 
+
+oT
+
+oO o
+oO N
+*s619 diysusquioW N
+
+oO
+vt
+
+os
+
+09
+tions in the population, whereas the secondary y-axis displays the count
+of nonmembership organizations. Strikingly, these figures show that the
+patterns of organizational density in each of these three fields are nearly
+identical for both membership and nonmembership organizations, thereby
+providing support for hypotheses 1b, 1c, and 1d.
+
+Figure 5 shows the founding patterns of organizations in peace,
+women’s, and human rights issues, as well as comparable figures for the
+entire field of public affairs organizations. For this figure, the right-hand
+axis is scaled for the entire field of public affairs organizations (this in-
+cludes all three of these advocacy populations as well as all other orga-
+nizations in the broader field), and the left-hand axis indexes organiza-
+tional founding within the three issue domains. Figure 5 illustrates the
+patterns of organizational founding that shape, in part, the density counts
+displayed in figures 2-4. Most prominently, this figure indicates that the
+advocacy explosion of the late 1970s and early 1980s (Walker 1991; Berry
+1997) was not confined to general organizations engaged in public affairs
+since all three advocacy populations in question saw significant growth
+during that period. Women’s organizations grew steadily in the era sur-
+rounding the Roe decision and expanded again in the early 1980s; the
+founding of peace groups skyrocketed just before and after the inaugu-
+ration of Ronald Reagan; human rights organizational growth followed
+after the implementation of the International Covenant on Civil and Po-
+litical Rights by the United Nations in 1976.
+
+As well, we see that all three populations follow a somewhat similar
+founding pattern when compared to the overall population of public af-
+fairs organizations: steady growth as the total organizational field expands
+in the late 1970s, then a peak period followed by a decline or plateau in
+density. Such an inverted-U-shaped curve has been found in a diverse
+array of organizational populations, from labor unions (e.g., Hannan and
+Freeman 1987), to microbreweries (Carroll and Swaminathan 2000), to
+low-powered FM radio stations (Greve, Pozner, and Rao 2006). We there-
+fore find descriptive evidence that a process of density-dependent legiti-
+mation is at work in all three of these populations, as well as in the
+broader population of public affairs associations. However, the timing of
+the transition from expansion to contraction varies in each issue area:
+around 1987 for peace, 1993 for human rights, and 1989 for women’s
+issues (although the decline in women’s organizations is the most subtle).
+The degree of contraction appears to be greatest in the peace movement,
+which saw a 39% decrease in population density between 1989 and 1998.
+Following the end of the Cold War, the movement also faced a period of
+sharp increases in organizational mortality (Edwards and Marullo 1995).
+300
+
+N Total Public
+Affairs Organizations
+3
+
+250
+50
+0
+
+a = =
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+—- Human Rights
+—— Women's
+Organizations
+
+x Peace
+
+All
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40
+
+1965 1967 1969 1971 1973 1975 1977 1979 1981 1983 1985 1987 1989 1991 1993 1995 1997
+
+8 8 2 2 % °
+suoneziuebic Ases0apy
+enss| N
+
+35
+30
+Analysis
+
+Our goal in the subsequent analyses is a modest one. Our analyses provide
+the opportunity to assess the accuracy of our theoretical expectations about
+the cross-density effects of membership and nonmembership groups on
+their respective founding rates. We begin by presenting results from a
+series of regression analyses of the founding of all organizations engaged
+in public affairs from 1965 to 1997. Most important, we seek to examine
+what differences might exist in the factors that shape the founding of
+these two organizational populations. In order to do this, we carry out a
+series of generalized linear models (GLM) that specify a Poisson distri-
+bution and Newey-West heteroscedasticity- and autocorrelation-consis-
+tent variance estimates. A Poisson distribution is appropriate for these
+dependent measures, which are event counts that are not overdispersed.
+
+The coefficients presented in table 2 illustrate the strikingly consistent
+dynamics of how organizational populations shape the founding of public
+affairs associations, regardless of the type of association under consider-
+ation. Here we find support for the notion that the early stages of growth
+in the associational population under study are supported by the legiti-
+mation of the field, whereas in later years the dynamics of interorgani-
+zational competition become more prevalent (Hannan and Freeman 1989;
+Hannan and Carroll 1992). These findings provide further support for
+hypothesis 1a in that both populations follow a nearly identical founding
+pattern. As well, comparing the density coefficients in columns 2 and 3
+of table 2, it is clear that this pattern does not vary in any significant way
+on the basis of whether or not an NMAO engages in government advocacy,
+likely because—like membership associations—many such groups do not
+engage in formal government advocacy. This suggests that nonmember-
+ship and membership organizations serve complementary functions rather
+than representing contending associational forms. The only noteworthy
+difference between these three founding analyses is that the presence of
+government resources does not support the founding of memberless ad-
+vocacy organizations, but their presence does significantly increase the
+founding rate for the entire public affairs population. Mean disposable
+income, surprisingly, has a significant negative effect on all three public
+affairs founding patterns, as disposable income rose steadily throughout
+the late 1960s as well as the 1990s; during both periods the founding of
+public affairs organizations was relatively low, and we understand these
+effects to be largely period based.
+
+Having demonstrated that little difference exists in the factors that
+shape membership and NMAOs in the total field of public affairs orga-
+nizations, we now consider the particular dynamics associated with each
+of the three domains in question: peace, women’s, and human rights.
+Table 3 presents the results from GLM regression analyses of membership
+and NMAO founding within each of the latter organizational populations.
+For each of these models, we regress the founding measures on their issue-
+specific measures of organizational density, government attention, and
+media coverage, as well as the two measures of the resource environment.
+
+First and foremost, the results in table 3 provide strong evidence in
+favor of the argument that membership organizations and NMAOs are
+shaped by similar external factors, most predominantly those of organi-
+zational density. As in the case of public affairs associations in general,
+all three associational fields—peace, women’s, and human rights orga-
+nizations—show strong effects of positive density dependence for both
+organizational forms.
+
+More important for our purposes, we find, with one minor exception,
+that NMAOs have not displaced membership organizations (thereby pro-
+viding support for hypothesis 2a). For peace and human rights organi-
+zations, in fact, we find that NMAO density actually helps to increase
+the founding of membership organizations. It is only in the case of
+‘100’ S d xx
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 Sd xx
+
+‘SO Sd x
+
+OV Sd.
+
+“SOJRUINSI IDUPLIVA ]U9}SISUOD-UOTe[ALIOIOjNe pue -AJDT]SBPIIS019}9Y, yso-AOMIN Suisn poeye[no[ej— ALON
+ee ee ee ee ee CE eee nesses nurses sees suoneAlasqQ
+TL6b— soer— 6LTL— +9'9b— LV eL— 9g bs— + pooyyayt] 30]
+abbO'e— ose — 066'T oIL— ae 879" S— ax TOP L— * yueysuoy)
+
+00° Tso" — zor'— see CPT — z10"— ETO rt ssesessesssescnss saprre oytoads-plary
+suonuaye vIpayAy
+
+000° 100°— x 100°— +100°— 000° 100°— “1+ (SaRT]OP 4661) ewWOoUT a,qesodsIp aeSa133y
+
+600°— 000° 700° 100° ak ZO" — £00°— (sxe][Op £661) Spung Joysue. [e1apa,y
+‘JUSULUOIIAUS 9DINOSIY
+
+#9b0'— L£0° 400° O10" 870" — see 9 LT — “'* suneay oytoads-ppaty
+‘UOTJUIJE JUIUIUTIAOL)
+
+x767'86— ZIT'26 tes IT 291 61— $87'eT— OSLOZ ts Aysuap OVIAN 2ybeds-ppary
+
+seb ZS'8S $66 Lb— LLL 6— gge— xS86TE 998bI- (spaapuny) Aysuap OVINN 2yPeds-ppary
+:Ayisuap [euorjeztursi0 drysisquiawiu0N,
+
+61s's— x€68S9— — xaxO8OTI— x0 T6°6— *868'6— eax 88° TZ— Aysuap drysioquiour sytads-ppary
+
+£eo'l— CIV TS see TEST sek T 1707 £409 ae Shy Se (spaapuny) Aysuap diyssaquiaw sytoads-pjaty
+:Aqisuap [euoryeziuesio0 dryssaquiayyl
+
+suOneZIUeZIQ) =SOVINN suoneztuesi¢Q SOVINN. suoneZIUesIC) SOVINN
+diyssaquioyay drys1aquiayay diyssaquioyay
+SLHOTY NVWAY S,.NAINOM govad
+
+ 
+
+ 
+
+NOLLNALLY VIG, ONV ‘SAOUNOSAY ‘NOLLNGALLY LNAWNYAAO)
+‘ALISNA(, IVNOLLYZINVOYO NO SNOILYZINVOUCO dIHSXAMWAJ GNV dIHSYATNAWNON JO ONIGNNOY AHL JO NOISSaAOAY IAT) NOSSIOg
+
+© ATaVL
+women’s organizations that we find slight evidence of a competitive re-
+placement effect in the negative and slightly significant (P < .10) coeffi-
+cient for women’s NMAO density; we attribute this finding to the exclu-
+sion of women from many professions, especially prior to 1978. For
+instance, women’s exclusion from the legal profession in the mid-20th
+century is well documented (Abel 1986; Hagan et al. 1991)—women rep-
+resented 2.8% of all lawyers in 1970, compared to more than 10% by the
+mid-1980s (Curran 1986, p. 25)—and may have posed a barrier to en-
+gagement in legal advocacy NMAOs. Similarly, women’s exclusion from
+public office—consider, for instance, that the number of women in Con-
+gress more than doubled between 1969 and 1981 (Center for American
+Women and Politics 2010)—may have made the NMAO form less ap-
+pealing to women’s issue advocates, since this type of professional ad-
+vocacy is more likely to rely on elite ties, and a lack of women in elected
+office is associated with less attention to women’s issues (Thomas 1991).
+Despite divergence prior to 1978, we find that after that point, women’s
+membership and nonmembership organizations move largely in tandem.”
+
+However, how does the density of membership organizations influence
+the founding of NMAOs? Although different from our assessment of the
+replacement hypothesis (in which membership organizations are displaced
+by the growth of NMAOs), the results here show that membership or-
+ganizational density has strong positive effects on the founding of non-
+membership organizations in all three fields (supporting hypothesis 2b).
+Indeed, in all three cases, the founding of NMAOs was influenced more
+by the density of membership organizations than by the density of other
+NMAOs. As we describe later, this particular finding fits well with evi-
+dence from public affairs associations engaged in a number of issues, from
+community organizing to women’s advocacy. Most of all, what stands out
+here is the finding that membership organizations provide a strong foun-
+dation on which NMAOs build.
+
+We find few significant effects of the other control measures in the
+analyses, although certain findings are worthy of further attention. First,
+government hearings related to the concerns of a given advocacy field
+occasionally decrease the founding of new organizations; we find this
+pattern among peace NMAOs and human rights membership organiza-
+tions. We take this as preliminary evidence that government action dis-
+courages those who would found new organizations from taking action
+in the very short term. Second, we find relatively little influence of our
+resource measures, since neither transfer funds nor greater disposable
+income shaped founding patterns in most cases. Federal transfer funds
+increased dramatically the end of the Cold War, which helps to explain
+the negative effect of transfer dollars on the founding of peace membership
+organizations. Similarly, much of the advocacy on women’s issues took
+place during a period of relatively flat growth in disposable incomes.
+Finally, media attention to an issue has, in general, little effect on founding
+events, although less media attention is associated with significantly more
+women’s NMAOs founded in the following year. We expect that this
+finding derives from the increased media attention to women’s issues that
+such NMAOs often generate; attention to women’s issues was lower prior
+to the expansion of this field.
+
+Overall, then, our findings indicate that nonmembership and member-
+based organizations are, by and large, mutually supportive rather than
+competitive. In addition, these findings are consistent even when controls
+for the political, resource, and media environments are entered into the
+model.
+often help to conduct research, provide institutional linkages to policy
+makers, and help membership organizations get their message out in the
+media.” More directly, we discuss here five examples of the types of tight
+and supportive links that characterize this macro-organizational division
+of labor. In particular, we focus on organizational activities common
+among nonmembership organizations that appear to have as their main
+purpose the goal of enhancing the fortunes of membership-based groups
+within the same field. For representative examples of the membership
+and NMAO organizations that constitute our data, see appendix table
+Al.
+
+Recall that we earlier identified Washington advocates as the most
+widely recognized type of nonmembership organization. We now briefly
+explore the wide diversity among NMAOs beyond Washington advocates,
+calling attention to the diversity of activities, goals, and organizational
+linkages among NMAOs active in public affairs. In discussing this var-
+iation, we note the often complementary role of nonmembership orga-
+nizations to organizations that engage members more directly in orga-
+nizational activity.
+
+One of the most central organizations in modern antipoverty organizing,
+interestingly, is an association without members. The Industrial Areas
+Foundation (IAF) was founded by Saul Alinsky in 1939, following from
+the community organizing efforts of the Back of the Yards neighborhood
+of Chicago (Reitzes and Reitzes 1987; Horwitt 1989). Although the or-
+ganization was founded as an institutionally based grassroots community
+organization, the IAF restructured in the mid-1970s to be a national net-
+work of affiliated interfaith community groups engaged in efforts to pro-
+vide voice to low- and moderate-income regions of the country (Warren
+2001). As such, the main task of the IAF is to assist in the creation and
+maintenance of local community organizations, which in turn voice the
+concerns of those communities on issues such as job opportunities, school
+quality, health, housing, and urban blight (Osterman 2002). We refer to
+the IAF, and similar organizations such as PICO (previously the Pacific
+Institute for Community Organization, now called People Improving
+Communities through Organizing) and the Center for Third World Or-
+ganizing, as belonging to the membership organization network type; as
+such, although they are staff-driven organizations, their primary purpose
+is supporting face-to-face civic engagement and community organizing.
+Importantly, there is evidence to suggest that NMAOs of this type may
+be more effective in building civic infrastructure than federated mem-
+bership organizations (Minkoff et al. 2008, p. 542).”*
+
+Similarly, the Center for Community Change, established in 1968, is
+an NMAO that works to strengthen and build the voice of low-income
+community advocates. Its mission is to amplify the voice of local com-
+munity organizations (especially in national-level policy debates); bring
+together community organizations across race, issue, and location; and
+“build the social movements of tomorrow” by organizing leadership de-
+velopment conferences.” Like the IAF, this network supports and com-
+plements the activities of grassroots membership organizations.
+
+Beyond Washington advocates and membership organization networks,
+a third type includes think tanks, policy planning organizations, and other
+research organizations that seek to shape public discourse and policy
+making within an issue area (Peschek 1987; Rich 2004). Our shorthand
+for this type of NMAO is policy planning organization. These organiza-
+tions span the political spectrum, and many have come to play a quite
+significant role in the creation and implementation of public policy since
+the early 1970s. Perhaps the most prominent of these organizations are
+the conservative Heritage Foundation and American Enterprise Institute,
+the libertarian Cato Institute, and the centrist Brookings Institution. Al-
+though these organizations have staked claims in support of a somewhat
+diverse array of political ideologies, a number of analysts have associated
+their appearance with a broader rightward turn in American politics
+(Himmelstein 1990). For example, the Family Research Council, an off-
+shoot of Focus on the Family that was headed by former Reagan adviser
+Gary Bauer, was influential in shaping congressional dialogue regarding
+trade policy with China and other countries perceived to be active in
+restricting the religious freedoms of Christians (Martin 1999). Although
+organizations that devote time and effort to informing, educating, and
+communicating with members may, at times, preclude successful advocacy
+on fast-moving matters of policy creation and reform, there is a productive
+division of labor between policy planning organizations and grassroots
+membership organizations. Grassroots associations often lack policy ex-
+pertise, but policy planning groups may lack the authenticity of local
+citizens’ organizations.’
+Quite distinct from such professional organizations engaged in elite
+policy dialogue are those that avoid direct government advocacy in favor
+of indirect social advocacy and engage only in service provision to a
+constituency, which we refer to as service providers. One example of such
+a group is the American Woman’s Economic Development Corporation,
+which was founded in 1976 as an educational organization that provides
+training and technical assistance to women seeking to own a business.
+Similarly, a variety of service-providing NMAOs provide nonprofit legal
+services; an example of this is the Center for Constitutional Rights, which
+provides legal services to poor and minority communities and assists in
+legal battles related to human and civil rights. As such, this organization
+walks the line between advocacy and service provision (on this issue, see
+Minkoff [1994]). Such professional social service agencies have benefited
+from the increased government reliance on organizations in the voluntary
+sector to provide community programs in place of government (Heclo
+1978; Skocpol et al. 2005); importantly, many such programs rely on grass-
+roots support for their survival despite their staff-driven nature.
+
+Some of the most crucial NMAOs active in advocacy are what we refer
+to as ancillary organizations: those groups that engage directly in pro-
+viding the informational, legal, educational, lobbying, and/or constituent-
+based support often necessary to support the activism of a small number
+of movement organizations. Perhaps the quintessential example of such
+an organization is the NAACP Legal Defense and Education Fund. An-
+other such NMAO is an organization referred to as the People’s Project
+(Fisher 2006), which employs staff to carry out paid canvassing campaigns
+to build the membership and donor bases of organizations such as the
+Sierra Club, the Public Interest Research Groups, and Save the Children.
+Again, the tie between membership groups and professional advocates is
+apparent.
+
+Foundations are a final type of NMAO; these support social movement
+and interest group activism through grants and in-kind contributions (see
+Walker 1991; Prewitt 2006). While known for their support of more mod-
+erate and professional types of movement organizations (Jenkins and Hal-
+cli 1999), foundations often play a strong role in advocacy populations
+by providing resources to other organizations and by publicizing the policy
+victories of the groups to which they are sympathetic. Foundation funding
+is also associated with increases in longevity for the membership orga-
+nizations they support, although relying on any one source of income too
+heavily is often a liability for the recipient group (Cress and Snow 1996).
+AN ADDITIONAL NOTE ON CHANGE WITHIN MEMBERSHIP AND
+NONMEMBERSHIP ASSOCIATIONS
+
+At the outset of our discussion above, we noted that our analysis would
+be limited primarily to the interorganizational dynamics of the two or-
+ganizational forms in question and that we would not systematically eval-
+uate the notion that membership organizations themselves have changed
+from federated organizations that provide members with thick network
+ties, social capital, and political skills to those that represent distant cen-
+tralized offices that rely on membership lists and mass-distributed “action
+alerts.” A key implication of the arguments of Skocpol (2003) is that
+regardless of the increasing prevalence and significance of NMAOs, mem-
+bership organizations themselves have undergone a significant transfor-
+mation away from meaningful member participation in their own right.
+As such, the line between “member” and “supporter” is increasingly blurry
+(Bosso 2003). It may also be the case that nonmember associations have
+undergone significant change in this direction, relying more heavily on
+technologically driven grassroots lobbying techniques such as mass e-mail
+mobilization rather than more direct activities of their staff (such as direct
+legislative lobbying, legal advocacy, community-based fund-raising, and
+the like).
+
+Although not central to our study—our data do not allow for a rigorous
+evaluation of these claims—one approach to indirectly approximating
+whether such a change has, in fact, taken place is to examine structural
+changes in the organizational chapter structure within each type. We do
+so by estimating whether associations report having any regional, state,
+or local chapters (for a similar analysis using founding rather than density
+data from the 1995 edition of the Encyclopedia, see McCarthy [2005, pp.
+203-6]). To the extent that organizations today are less likely to have
+chapters—regardless of whether they have members in those chapters or
+instead populate their chapters with staff only, as in organizations such
+as Earthjustice Legal Defense Fund—this provides some indirect indi-
+cation as to whether associations have transformed in the direction of
+increasing centralized “management.” Our measure of associational lo-
+cation tracks the proportional density of organizations residing in Wash-
+ington, D.C.
+
+The findings presented in figure 6 illustrate that among membership
+associations, there has not been a dramatic increase in organizations with
+headquarters in the nation’s capital, with a slight but steady decline since
+the mid-1980s. And, despite expectations of a decline in federated orga-
+nizations, we see a dramatic increase in the proportional density of or-
+ganizations with any chapters; for example, while in 1974 only around
+21% of membership organizations had any regional, state, or local-level
+a ws Ss Ss ws w ws “ “ “ w
+© © © 6 © 6 © e © © ©
+eS & $ e SC SF SF YP LY Ww
+: \ %0
+%S
+%OT
+
+ 
+
+ 
+
+suaydeys sey ‘diyssequay|-UON tm
+suaqdeyd sey ‘diysiequicy! = %ST
+
+"D'a ‘uozBuysem ‘diyssaquay|-UON om
+“O'q ‘uojburysem ‘diysuaquiay ——
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+%0T
+
+ 
+
+ 
+
+ 
+
+%SZ
+
+ 
+
+%0E
+
+ 
+
+BdAL UIYIM SUO!eZIUeBIO JO %
+
+%SE
+
+ 
+
+%0v
+
+ 
+
+ 
+
+ 
+
+%Sb
+chapters, by 1998 that figure had increased to over 40%. This squares
+with Shaiko’s (1999, p. 11) finding that a key growth strategy for mature
+advocacy organizations in the 1980s and 1990s was to establish new chap-
+ters or branch offices. An important additional finding shows that the
+number of membership associations based in Washington, D.C., increased
+between 1968 and 1986 but declined between 1986 and 1998.”° In sum,
+then, this evidence suggests that there has not been a significant turn
+toward centralized Washington advocacy among membership organiza-
+tions active in public affairs.”’
+
+Have NMAOs, for their part, seen a decline in chapters and an increase
+in their likelihood of opening operations in Washington? As figure 6 also
+illustrates, the 1968-86 period also saw a significant increase in Wash-
+ington offices for NMAOs and a much steeper one than for membership
+groups, as nearly 43% of such associations were located within the Belt-
+way by the late 1980s; this figure declined and then maintained a plateau
+at around 33% thereafter. A comparatively far smaller proportion of
+NMAOs have regional, state, or local chapters, but the proportion that
+do increased gradually, nearly doubling, between the late 1960s and the
+late 1990s. Thus, while NMAOs are quite a bit more likely to be located
+in Washington, they are also more likely today to have chapters than they
+were in the 1970s. Importantly, those NMAOs that have chapters, evi-
+dence suggests, are especially adept at supporting the civic infrastructure
+needed to mobilize participants (Minkoff et al. 2008).
+mainly by stability in the relative proportions of the membership and
+nonmembership organizations that it comprises. More directly, we find
+little evidence to support the position that membership organizations are
+being displaced by a highly professionalized set of institutional advocates;
+we instead find evidence of a mutually supportive relationship.
+
+What our analyses show, most significantly, is that membership orga-
+nizations did not decline alongside the increasing number of professional
+staff-only associations engaged in public affairs; instead, both of these
+populations grew dramatically during the major period of interest group
+growth in the late 1970s and early 1980s. And, rather than displacing
+membership groups, these two populations grew at a roughly proportional
+rate. Our statistical analyses illustrate this finding even further by showing
+that the density of memberless associations had a positive and significant
+influence on the founding of membership organizations among peace and
+human rights organizations; conversely, the density of membership or-
+ganizations also had a positive and significant influence on the founding
+of NMAOs in all three fields under examination.
+
+An important implication of these findings is that the post-1960s era
+has involved a consistent division of labor between member-driven and
+professional advocacy, both among advocacy organizations as a whole
+and within particular issue domains on the left of the political spectrum.
+Modern advocacy organizations, then, appear to face a number of en-
+vironmental pressures that help to channel sets of organizations into these
+consistent complementary roles, in that (1) media and political environ-
+ments require both evidence of popular support and expert knowledge,
+(2) issues tend to be incredibly complex and require professional knowl-
+edge in order to make sense of them (Lippmann 1966; Brint 1996), and
+(3) effective issue advocacy both requires audience acceptance on the
+pragmatic grounds of being able to provide useful information (cf. Hall
+and Deardorff 2006) and at the same time has the moral legitimacy of
+accurately representing citizens’ views in a pluralist democracy.” While
+the environments within which organizations are embedded have evolved
+in the direction of increasing complexity and greater requirements for
+transparency, the requirement that advocates both mobilize mass partic-
+ipation and utilize the specialized expertise of professionals remains in
+place, even if the means of doing so have changed significantly with the
+development of new information and communications technologies.
+
+Regarding the question of whether citizen advocacy has expanded with-
+out an accompanying expansion of civic engagement, our findings suggest
+that even though the replacement hypothesis did not find support, it
+remains plausible—as we suggested earlier—that the meaning of “mem-
+bership” has evolved in those organizations that have members. A limi-
+tation of our analysis is that it effectively brackets the question of change
+in the qualitative meaning of “membership” in those organizations that
+claim them. Analysts have claimed that the supply side of participatory
+opportunities for individual engagement has decreased because the newly
+founded organizations of the “interest group explosion” (Walker 1991;
+Berry 1997) do less to engage their members in face-to-face activity, op-
+erating instead as “centralized and professionally led organizations focused
+on policy lobbying and public education” (Skocpol 19998, p. 68). Even
+though figure 6 suggests that membership organizations are more likely
+to have chapters today, membership organizations founded in more recent
+decades are likely to spawn fewer local chapters than older organizations
+(McCarthy 2005); moreover, groups that have regional, state, or local
+chapters may no longer be as effective in producing the thick face-to-face
+ties that older federated organizations once did (Skocpol 2003). Thus,
+while our research indicates that the decline of civic engagement and
+growth of professional advocacy do not appear to be outcomes of the
+growth of NMAOs, it remains possible—even likely—that “membership”
+does not carry quite the same meaning it once did. However, we also
+find evidence that NMAOs often provide significant support for civic
+engagement and appear to enhance rather than detract from civic infra-
+structure. Future research should investigate the extent to which staff-
+driven organizations support civic engagement, whether through incen-
+tivizing public participation or assisting membership organizations. In
+addition, we encourage researchers to explore which types of interactions
+are most common among these two organizational types, such that the
+emergence of this macro-organizational division of labor in public ad-
+vocacy can be understood in fuller detail.
+
+We believe that our findings also have implications for scholars inter-
+ested in the changing means by which organizations connect “people to
+politics” (Weir and Ganz 1997; Skocpol 2003; Walker 2009; Andrews et
+al. 2010). Weir and Ganz (1997), for instance, have argued that the chang-
+ing structure of civic organization in American society in the closing de-
+cades of the 20th century has meant quite different things for organizations
+on the political right and left, since organizations on the right have been
+more effective at building on the existing networks and infrastructures
+of religious, recreational, and social ties, whereas progressive organizations
+have focused more heavily on single-issue advocacy through lobbying and
+legal tactics (see also Fisher 2006). Although they believe that progressive
+organizations such as the Industrial Areas Foundation, described earlier,
+represent an exception, Weir and Ganz contend that even groups like
+these “have not been able to connect local organizing activities to broader
+political or policy goals” (p. 162). While our data and findings cannot
+speak directly to the comparative effectiveness of organizations on the
+right and left in influencing policy, an implication of this study is that
+the relatively constant presence of nonmembership associations in the
+advocacy field may not be quite the culprit of recent changes in civic
+capacity that they have been made out to be. Despite the expectation that
+organizations on the left of the political spectrum have been more heavily
+affected by the rise of professional advocacy, we have provided evidence
+that in three left-leaning organizational populations, there has been little
+proportional increase in this staff-driven organizational form.
+
+It is important to note, as we earlier mentioned, that associations with-
+out members are often created in order to support the activities of mem-
+bership organizations and build civic engagement; this argument is sup-
+ported by our finding that nearly half of all NMAOs do not engage in
+formal government advocacy and therefore do not fit the profile of a
+Washington advocate organization. Further, at no point during our time
+series did we find that more than 50% of all NMAOs were located in
+Washington, D.C. The legal defense funds, educational programs, lob-
+bying organizations, and project committees that constitute a sizable por-
+tion of the population of NMAOs are, in fact, often created in order to
+provide the technical and professional services that membership orga-
+nizations need in order to advocate their cause within political, media,
+legal, and other institutions. Many nonmembership organizations, such
+as the restructured Industrial Areas Foundation (Warren 2001; Osterman
+2002) and the National Congress of Neighborhood Women, lack “mem-
+bers” but are devoted to assisting the start-up and maintenance of grass-
+roots community organizations. As well, the growth of membership or-
+ganizations appears to create an increased demand for the services and
+support that staff-only institutes, centers, and funds often provide to ac-
+tivist groups. However, we also find the curvilinear effect of interorgan-
+izational competition present in all of our models (in both the standard
+and cross-density models), suggesting that once each population reaches
+its carrying capacity, both membership organizations and professional
+advocates compete over the same resources and support in the environ-
+ment (on this dynamic, see Singh and Lumsden [1990]). An important
+footnote to our analyses, then, is that the mutualism that exists between
+these two organizational forms entails both the benefits of mutual legit-
+imation and the costs of sharing scarce resources within a population of
+advocacy groups.
+APPENDIX
+
+Data Sources and Measures
+Encyclopedia of Associations
+
+Our data are drawn from the Encyclopedia of Associations, a directory
+of associations published on a regular basis by Thomson/Gale (previously
+Gale Research) since 1956. The data used in this paper were extracted
+from the public affairs section of the Encyclopedia.”® Our analyses here
+focus on all groups included in the public affairs section as a whole as
+well as those in three particular organizational fields that are almost fully
+contained within the public affairs section: peace, women’s, and human
+rights advocacy groups. Some potentially interesting advocacy organi-
+zational fields, such as those associated with the environment or civil
+rights, are much less fully contained within the public affairs section, so
+we do not analyze them here.
+
+There are, of course, important concerns regarding bias of inclusion
+and comprehensiveness of inclusion in the Encyclopedia, and our data
+are only as complete as the source from which they are drawn. It is difficult
+to assess the completeness of coverage of a directory such as the Ency-
+clopedia, which has consistently sought to include a record for every
+national-level association in America. Of course it cannot be complete.
+But how complete is it, and what is the nature of any bias of inclusion?
+This question has been assessed in a systematic manner for the case of
+labor unions included in the Encyclopedia on the basis of information
+available because all unions are required to register with the U.S. De-
+partment of Labor. Martin, Baumgartner, and McCarthy (2006, pp. 771-
+72) found that 76% of the unions registered with the Labor Department
+were listed in the Encyclopedia and that coverage for unions above 5,000
+and 10,000 members was 91% and 95%, respectively. Similarly, financial
+heft was a significant predictor of inclusion: 89% of those with annual
+receipts greater than $1 million were covered, compared to 51% of those
+with less than that amount. Geographical location (e.g., being based in
+the nation’s capital) was not a significant correlate of coverage (p. 776).
+This is the only systematic comparison of the Encyclopedia coverage with
+a known population list of which we are aware, and it suggests that the
+compilers of the directory have done a very good job of locating large,
+substantial organizations active at the national level but that coverage of
+smaller, newer, or less substantial groups may be considerably lower. We
+suspect that this pattern is replicated across other categories of national
+associations (see also Minkoff 1995, p.132).
+Questions may also be raised about the criteria for inclusion used by
+the Encyclopedia of Associations (especially with regard to the member-
+ship/nonmembership distinction) and whether its staff diligently, and con-
+sistently, worked to update entries through the years of its publication
+used in this research. We have read the introductory explanations for
+almost every annual volume of the Encyclopedia seeking answers to these
+questions. Two observations concerning that series of accounts are rele-
+vant to the current research. First, the early volumes aimed to be inclusive
+of “non-profit American organizations of national scope” (Ruffner et al.
+1964, p. 7) and, by 1973, aimed explicitly to include nonmembership
+groups (Fisk 1973, p. 7); by 1978, and subsequently, the editors indicated
+that “for-profit and non-membership groups are included if their names
+or activities suggest that they are voluntary nonprofit organizations” (Pair
+1978, pp. viii-ix). To the extent that the criteria for inclusion evolved
+during the period of our analyses, they made it increasingly likely that
+nonmembership groups were included in the Encyclopedia; however, this
+tendency would be expected to enhance any trend showing the increasing
+density of nonmembership groups included, rendering our test of the re-
+placement hypothesis a conservative one.
+
+Second, explanations of procedures described in each annual edition
+strongly suggest that Encyclopedia staff have actively updated entries
+and aggressively sought new organizations to be included even during its
+early years. By 1976, the editors “estimate that more than ninety percent
+of the previously listed organizations have made one or more changes in
+their listings for this edition” (Fisk 1976, p. viii). And, by 1981, the editors
+claim “that more than ninety percent of the previously listed organizations
+have made one or more changes in their listings for this edition... . This
+is about the same rate of change found in recent past editions... . 910
+new entries, prepared from questionnaires completed by the organizations
+or from secondary sources, have been added to this edition” (Akey 1981,
+p. vii). And in 1996, the editors state that their objective “for each edition
+of [the Encyclopedia] is complete verification or updating of existing en-
+tries and the identification and description of new or previously unlisted
+organizations. This intensive effort includes several revision form mailings
+and direct contact by correspondence and telephone with non-responding
+groups. Groups constantly form, disband, relocate, or refocus their efforts,
+and the editors estimate that for this edition more than 500 associations
+have been added and 90 percent of the respondents reported some change
+to their description” (Jaszczack 1996, p. ix). These several explanations
+point to relative consistency in procedures over the period of our research.
+The Encyclopedia added a parallel online version (Associations Unlimited)
+well after 1997, the last year of our present analyses.
+
+We have two rationales for using only the associations listed in the
+public affairs section of the print Encyclopedia for these analyses. The
+first is theoretical and the second purely practical. To begin with, the
+associations included in the public affairs section are, in general, much
+more germane to our current focus on national advocacy organizations
+than those included in any other section of the Encyclopedia. To be sure,
+many advocacy organizations are to be found in other sections, such as
+cultural organizations, educational organizations, religious organizations,
+and social welfare organizations. But the vast majority of advocacy or-
+ganizations appear to be concentrated in the public affairs section.
+
+Second, more practically, the data we use were generated as part of a
+larger project carried out by the second and third authors.” It relies on
+information that was extracted concerning many aspects of the organi-
+zational structure of each group on a nearly annual basis, including the
+nature of membership, but only for the public affairs section. Generating
+that level of detail annually for this section proved to be incredibly labor
+intensive, and as a result, it proved infeasible, because of a lack of re-
+sources, to continue to do this for additional sections. As a result, however,
+for all the organizations listed in the public affairs section for the years
+we examine here, we have reliable estimates of membership type on an
+annual basis, providing the basis for the current analyses.
+
+Since the detailed analyses that follow focus on three advocacy asso-
+ciational fields—peace, women’s, and human rights—one might ask
+whether we can provide assurance that the national advocacy associations
+included in the Encyclopedia for these three fields are contained mainly
+in the public affairs section through the years. To address this question
+we first did a search of the 1995 digital record of the Encyclopedia (Gale
+Research 1995) using the keywords we used in generating our three ad-
+vocacy associational fields for the present analyses.*’ This electronic record
+of the 1995 edition of the Encyclopedia allowed us, then, to determine
+what proportion of listed associations were located in the public affairs
+section in 1995, a crude indicator of the year-to-year inclusiveness of
+groups. For peace groups, more than 99% of the groups were included
+in the section; for human rights groups, more than 71% of the groups
+were included;” for women, a little more than 52% of the groups were
+included in the section. This initial assessment suggested that inclusion
+rates were acceptable for the peace and human rights advocacy fields but
+that we needed to look more deeply into which women’s groups were
+excluded from the public affairs section and to assess the appropriateness
+of groups included and their comparability to populations of women’s
+advocacy groups used in previous analyses of the field.
+
+Those women’s associations not included in the public affairs section,
+as captured by our string of keywords, are concentrated primarily in the
+sections of social welfare organizations (27), religious organizations (18),
+educational organizations (17), cultural organizations (11), and health and
+medical organizations (10). However, almost all of the associations (95 out
+of 98) captured by the keyword “feminism” are included in the public
+affairs section as are all of those captured by the keyword “reproductive
+rights.” These patterns suggest that the majority of the associations that
+Minkoff, in her several analyses of women’s associations, termed “ad-
+vocacy organizations” are included in the public affairs section of the
+Encyclopedia. As well, and importantly, Minkoff’s (1995, p. 59) basic data
+set includes 141 pure women’s advocacy groups having existed sometime
+during her 1955-85 time series as well as 74 women’s advocacy/service
+groups, whereas the data we analyze here show that a total of 248 women’s
+groups (included in the public affairs section) existed at some point during
+our 1964-96 time series, with 119 of them showing evidence of efforts to
+influence government. This correspondence strongly suggests that re-
+stricting our analysis of women’s advocacy groups to only those included
+in the public affairs section of the Encyclopedia does not, in any significant
+way, undermine their inclusiveness.
+
+Finally, its should be noted that, in spite of the serious concerns we
+have addressed about the source’s comprehensiveness and potential bi-
+ases, the Encyclopedia of Associations is widely recognized as the most
+inclusive census of national nonprofit associations. As a result, it has been
+used widely by researchers of various segments as well as the entire na-
+tional nonprofit organizational landscape, and much of what we know
+about that landscape depends on the source. We have compiled a list of
+more than 150 refereed journal articles that utilize information drawn
+Control Variables
+
+The following discussion describes the measurement of the independent
+variables employed in the analyses presented in tables 1-3. Our measure
+of government attention also comes from the Policy Agendas Project (pol-
+icyagendas.org) and uses annual estimates of the number of total con-
+gressional hearings on the issue in question. We constructed four measures
+of government activity. The first is a measure of overall government ac-
+tivity, which takes the three-year moving average of the total number of
+congressional hearings. We use three-year moving averages because non-
+election years have significantly higher numbers of hearings than election
+years. The remaining three measures indicate the volume of congressional
+hearings related to each specific social issue domain: peace, women’s, and
+human rights issues. Using the descriptions provided by the Congressional
+Information Service/Annual: Abstracts of Congressional Publications and
+Legislative History Citations, coders read the full text of the description
+of each hearing, sorting them into the issue areas of the Policy Agendas
+Project.** Using the issue areas, we created yearly counts of hearings
+related to each issue domain.* Congressional hearings are a useful in-
+dicator of government attention since they have a relatively low threshold;
+thousands of hearings are held on hundreds of topics each year, and
+hearings correspond generally with other possible indicators such as bill
+introductions, laws, and presidential attention (see Jones and Baumgart-
+ner 2005).
+
+The resource environment may also have significant influences on the
+structure and focus of an advocacy organization (Staggenborg 1988); we
+therefore include two lagged measures of the external resource environ-
+ment as controls in our analyses. First, we include an inflation-adjusted
+measure of federal transfer funds to states and localities, as provided by
+the Office of Management and Budget. As the grants that the U.S. federal
+government provides to these lower levels of government are one of the
+central sources of public-sector support to many associations (Minkoff
+1995), increased levels of federal support to localities should be associated
+with an increased rate of organizational founding. Second, we also include
+an inflation-adjusted indicator of the mean disposable income of US.
+residents, as reported by the Federal Reserve Bank and provided by the
+Statistical Abstract of the United States. We include this control mainly
+because of the criticism directed at nonmembership organizations for be-
+ing highly dependent on check-writing conscience constituents and be-
+cause evidence suggests that increased levels of disposable income may
+heighten individuals’ level of donation to nonprofits (Havens, O’ Herlihy,
+and Schervish 2006).*”
+Finally, we rely on a fourth data source in order to estimate the degree
+of public attention to the cause in question. Analyses have shown that
+media coverage is shaped by associational structure (Jacobs and Glass
+2002). We measure public attention to each issue by creating annual counts
+of the number of New York Times stories devoted, respectively, to peace,
+women’s issues, or human rights. Although the Zimes would perhaps be
+less appropriate if we were examining local-level social movement or-
+ganizations, it serves well as an indicator of the national attention devoted
+to a given issue domain. The data we employ come from the Policy
+Agendas Project, which includes a random sampling of the Times index
+for each year from 1946 to 2003; we employ data on all years of interest
+in our time series. For the present analyses, we created yearly counts of
+the number of sampled Times articles that fit into each of the three areas
+we examine.**
+REFERENCES
+
+Abel, Richard L. 1986. “The Transformation of the American Legal Profession.” Law
+and Society Review 20:7-17.
+
+Akey, Denise S., ed. 1981. Encyclopedia of Associations, 16th ed. Detroit: Gale.
+
+Andrews, Kenneth T., and Bob Edwards. 2004. “Advocacy Organizations in the U.S.
+Political Process.” Annual Review of Sociology 30:479-506.
+
+Andrews, Kenneth T., Marshall Ganz, Matthew Baggetta, Hahrie Han, and Chaeyoon
+Lim. 2010. “Leadership, Membership, and Voice: Civic Associations That Work.”
+American Journal of Sociology 115:1191-1242.
+
+Archibald, Matthew. 2007. “An Organizational Ecology of National Self-Help/Mutual-
+Aid Organizations.” Nonprofit and Voluntary Sector Quarterly 36:598-621.
+
+Barnett, William P., and Glenn R. Carroll. 1987. “Competition and Mutualism among
+Early Telephone Companies.” Administrative Science Quarterly 32:400-421.
+
+Baum, Joel A. C., and Christine Oliver. 1991. “Institutional Linkages and Organiza-
+tional Mortality.” Administrative Science Quarterly 36:187-218.
+
+Baumgartner, Frank R. 2005. “The Growth and Diversity of U.S. Associations, 1956—
+2004: Analyzing Trends Using the Encyclopedia of Associations.” Unpublished man-
+uscript. Pennsylvania State University, Department of Political Science.
+
+Baumgartner, Frank R., and Beth L. Leech. 1998. Basic Interests. Princeton, N.J.:
+Princeton University Press.
+
+Baumgartner, Frank R., and Jack L. Walker Jr. 1988. “Survey Research and Mem-
+bership in Voluntary Associations.” American Journal of Political Science 32:908—
+28.
+
+Berry, Jeffrey M. 1997. The Interest Group Society, 2d ed. New York: Longman.
+
+. 1999. The New Liberalism. Washington, D.C.: Brookings Institution Press.
+
+Boli, John, and George M. Thomas. 1997. “World Culture in the World Polity: A
+Century of International Non-governmental Organization.” American Sociological
+Review 62:171-90.
+
+Bosso, Christopher J. 2003. “Rethinking the Concept of Membership in Nature Ad-
+vocacy Organizations.” Policy Studies Journal 31:397-412.
+
+Brint, Steven. 1996. In an Age of Experts: The Changing Role of Professionals in Politics
+and Public Life. Princeton, N.J.: Princeton University Press.
+
+Brittain, Jack. 1994. “Density-Independent Selection and Community Evolution.” Pp.
+355-78 in Evolutionary Dynamics of Organizations, edited by J. A. C. Baum and
+J. V. Singh. New York: Oxford University Press.
+
+Brulle, Robert, Liesel Turner, Jason Carmichael, and J. Craig Jenkins. 2007. “Mea-
+suring Social Movement Organization Populations: A Comprehensive Census of U.S.
+Environmental Movement Organizations.” Mobilization 12:255-70.
+
+Carroll, Glenn R., and Anand Swaminathan. 2000. “Why the Microbrewery Move-
+ment? Organizational Dynamics of Resource Partitioning in the U.S. Brewing In-
+dustry.” American Journal of Sociology 106:715-62.
+
+Carroll, Glenn R., and James Wade. 1991. “Density Dependence in the Organizational
+Evolution of the American Brewing Industry across Different Levels.” Social Science
+Research 20:271-302.
+
+Center for American Women and Politics. 2010. “Women in the U.S. Congress.” http://
+www.cawp.rutgers.edu/fast_facts/levels_of_office/documents/cong.pdf.
+
+Clemens, Elisabeth S. 1998. “Organizational Form as Frame: Collective Identity and
+Political Strategy in the American Labor Movement.” Pp. 205-26 in Comparative
+Perspectives on Social Movements, edited by Doug McAdam, John D. McCarthy,
+and Mayer N. Zald. New York: Cambridge University Press.
+
+Cress, Daniel M., and David A. Snow. 1996. “Mobilization at the Margins: Resources,
+Benefactors, and the Viability of Homeless Social Movement Organizations.” Amer-
+ican Sociological Review 61:1089-1109.
+Curran, Barbara A. 1986. “American Lawyers in the 1980s: A Profession in Transition.”
+Law and Society Review 20:19-52.
+
+Delgado, Gary. 1986. Organizing the Movement. Philadelphia: Temple University Press.
+
+Della Porta, Donatella, and Mario Diani. 1999. Social Movements: An Introduction.
+Malden, Mass.: Blackwell.
+
+Dorfman, Marcia T. 1973. “Insurance Information Sources.” Journal of Risk and In-
+surance 40:263-66.
+
+Edwards, Bob, and Michael Foley. 2002. “Social Movement Organizations beyond the
+Beltway: Understanding the Diversity of One Social Movement Industry.” Mobili-
+zation: An International Quarterly 8:87-107.
+
+Edwards, Bob, and Sam Marullo. 1995. “Organizational Mortality in a Declining Social
+Movement: The Demise of Peace Movement Organizations in the End of the Cold
+War Era.” American Sociological Review 60:908-27.
+
+Eikenberry, Angela M. 2007. “Philanthropy, Voluntary Association, and Governance
+beyond the State: Giving Circles and Challenges for Democracy.” Administration
+and Society 39:857-82.
+
+Fisher, Dana. 2006. Activism, Inc. Stanford, Calif.: Stanford University Press.
+
+Fisk, Margaret, ed. 1973. Encyclopedia of Associations, 8th ed. Detroit: Gale.
+
+. 1976. Encyclopedia of Associations, 10th ed. Detroit: Gale.
+
+Freeman, Jo. 1973. “Origins of the Women’s Liberation Movement.” American Journal
+of Sociology 78:792-811.
+
+Gale Research. 1995. Encyclopedia of Associations: National Organizations of the U.S.
+Machine-readable data file (CD-ROM). Detroit: Gale Research.
+
+Gray, Virginia, and David Lowery. 1996. “A Niche Theory of Interest Representation.”
+Journal of Politics 58:91-111.
+
+Greve, Henrich R., Jo-Ellen Pozner, and Hayagreeva Rao. 2006. “Vox Populi: Resource
+Partitioning, Organizational Proliferation, and the Cultural Impact of the Insurgent
+Microradio Movement.” American Journal of Sociology 112:802-37.
+
+Hagan, John, Marjorie Zatz, Bruce Arnold, and Fiona Kay. 1991. “Cultural Capital,
+Gender, and the Structural Transformation of Legal Practice.” Law and Society
+Review 25:239-62.
+
+Hall, Richard L., and Alan V. Deardorff. 2006. “Lobbying as Legislative Subsidy.”
+American Political Science Review 100:69-84.
+
+Hannan, Michael, and Glenn R. Carroll. 1992. Dynamics of Organizational Popula-
+tions. New York: Oxford University Press.
+
+Hannan, Michael, and John Freeman. 1987. “The Ecology of Organizational Founding:
+American Labor Unions, 1836-1985.” American Journal of Sociology 92:910-43.
+
+. 1989. Organizational Ecology. Cambridge, Mass.: Harvard University Press.
+
+Havens, John J., Mary A. O’Herlihy, and Paul G. Schervish. 2006. “Charitable Giving:
+How Much, by Whom, to What, and How?” Pp. 542-67 in The Non-profit Sector:
+A Research Handbook, edited by W. W. Powell and R. Steinberg. New Haven,
+Conn.: Yale University Press.
+
+Heclo, Hugh. 1978. “Issue Networks and the Executive Establishment.” Pp. 87-124
+in The New American Political System, edited by A. King. Washington, D.C.: Amer-
+ican Enterprise Institute.
+
+Himmelstein, Jerome. 1990. To the Right. Berkeley and Los Angeles: University of
+California Press.
+
+Horwitt, Sanford D. 1989. Let Them Call Me Rebel. New York: Knopf.
+
+Howard, Marc M., and Leah Gilbert. 2008. “A Cross-National Comparison of the
+Internal Effects of Participation in Voluntary Organizations.” Political Studies 56:
+12-32.
+
+Howard, Philip N. 2006. New Media Campaigns and the Managed Citizen. New York:
+Cambridge University Press.
+
+Jacobs, Ronald N., and Daniel J. Glass. 2002. “Media Publicity and the Voluntary
+Sector: The Case of Nonprofit Organizations in New York City.” Voluntas 13:235-
+52.
+
+Jaszezak, Sandra, ed. 1996. Encyclopedia of Associations, 31st ed. Detroit: Gale.
+
+Jenkins, J. Craig, and Craig M. Eckert. 1986. “Channeling Black Insurgency: Elite
+Patronage and Professional Social Movement Organizations in the Development of
+the Black Movement.” American Sociological Review 51:812-29.
+
+Jenkins, J. Craig, and Abigail Halcli. 1999. “Grassrooting the System? The Develop-
+ment of Social Movement Philanthropy, 1953-1990.” Pp. 227-56 in Philanthropic
+Foundations, edited by E. C. Lagemann. Bloomington: Indiana University Press.
+
+Johnson, Erik, and John D. McCarthy. 2004. “The Sequencing of Transnational and
+National Social Movement Mobilization: The Organizational Mobilization of the
+Global and U.S. Environmental Movements.” Pp. 71-93 in Tvansnational Protest
+and Global Activism, edited by Donatella Della Porta and S. Tarrow. Lanham, Md.:
+Rowman & Littlefield.
+
+Jones, Bryan D., and Frank R. Baumgartner. 2005. The Politics of Attention. Chicago:
+University of Chicago Press.
+
+Jordan, Grant, and William A. Maloney. 1997. The Protest Business? Mobilizing Cam-
+paign Groups. Manchester: Manchester University Press.
+
+Keck, Margaret E., and Kathryn Sikkink. 1998. Activists beyond Borders. Ithaca, N.Y.:
+Cornell University Press.
+
+Levitsky, Sandra R. 2007. “Niche Activism: Constructing a Unified Movement Identity
+in a Heterogeneous Organizational Field.” Mobilization 12:271-86.
+
+Lippmann, Walter. 1966. Public Opinion. New York: Free Press.
+
+Loomis, Burdett A., and Allan J. Cigler. 1995. “Introduction: The Changing Nature
+of Interest Group Politics.” Pp. 1-32 in Interest Group Politics, 4th ed., edited by
+Allan J. Cigler and Burdett A. Loomis. Washington, D.C.: Congressional Quarterly
+Press.
+
+Lowery, David, and Virginia Gray. 1998. “The Dominance of Institutions in Interest
+Representation: A Test of Seven Explanations.” American Journal of Political Sci-
+ence 42:231-55.
+
+Mansbridge, Jane J. 1986. Why We Lost the ERA. Chicago: University of Chicago
+Press.
+
+Martin, Andrew W., Frank R. Baumgartner, and John D. McCarthy. 2006. “Measuring
+Association Populations Using the Encyclopedia of Associations: Evidence from the
+Field of Labor Unions.” Social Science Research 35:771-78.
+
+Martin, William. 1999. “The Christian Right and American Foreign Policy.” Foreign
+Policy 114:66-80.
+
+McAdam, Doug, and W. Richard Scott. 2005. “Organizations and Movements.” Pp.
+4—40 in Social Movements and Organization Theory, edited by Gerald F. Davis,
+Doug McAdam, W. Richard Scott, and Mayer N. Zald. New York: Cambridge
+University Press.
+
+McAdam, Doug, and Yang Su. 2002. “The War at Home: Antiwar Protests and Con-
+gressional Voting, 1965 to 1973.” American Sociological Review 67:696—721.
+
+McCarthy, John D. 2005. “Persistence and Change among Nationally Federated Social
+Movement Organizations.” Pp. 193-225 in Social Movements and Organization The-
+ory, edited by Gerald F. Davis, Doug McAdam, W. Richard Scott, and Mayer N.
+Zald. New York: Cambridge University Press.
+
+McCarthy, John D., and Edward T. Walker. 2004. “Alternative Organizational Rep-
+ertoires of Poor People’s Social Movement Organizations.” Nonprofit and Voluntary
+Sector Quarterly 33:97S-119S.
+
+McCarthy, John D., and Mayer N. Zald. 1973. The Trend of Social Movements in
+America. Morristown, N.J.: General Learning Press.
+
+. 1977. “Resource Mobilization and Social Movements: A Partial Theory.” Amer-
+
+ican Journal of Sociology 82:1212-41.
+McFarland, Andrew S. 1984. Common Cause. Chatham, N.J.: Chatham House.
+
+McGann, James G. 1992. “Academics to Ideologues: A Brief History of the Public
+Policy Research Industry.” PS: Political Science and Politics 25:733-40.
+
+Meyer, David S. 1990. A Winter of Discontent: The Nuclear Freeze and American
+Politics. New York: Praeger.
+
+Meyer, David S., and Nancy Whittier. 1994. “Social Movement Spillover.” Social Prob-
+lems 41:277-98.
+
+Meyer, John W., and Brian Rowan. 1977. “Institutionalized Organizations: Formal
+Structure as Myth and Ceremony.” American Journal of Sociology 83:340-63.
+
+Minkoff, Debra C. 1994. “From Service Provision to Institutional Advocacy: The
+Shifting Legitimacy of Organizational Forms.” Social Forces 72:943-69.
+
+. 1995. Organizing for Equality. New Brunswick, N.J.: Rutgers University Press.
+
+. 1997. “The Sequencing of Social Movements.” American Sociological Review
+
+62:779-99.
+
+. 1999. “Bending with the Wind: Strategic Change and Adaptation by Women’s
+
+and Racial Minority Organizations.” American Journal of Sociology 104:1666-1703.
+
+. 2002. “Macro-organizational Analysis.” Pp. 260-85 in Methods of Social Move-
+ment Research, edited by B. Klandermans and Suzanne Staggenborg. Minneapolis:
+University of Minnesota Press.
+
+Minkoff, Debra C., Silke Aisenbrey, and Jon Agnone. 2008. “Organizational Diversity
+in the U.S. Advocacy Sector.” Social Problems 55:525-48.
+
+Olzak, Susan, and Emily Ryo. 2007. “Organizational Diversity, Vitality and Outcomes
+in the Civil Rights Movement.” Social Forces 85:1561-92.
+
+Osterman, Paul. 2002. Gathering Power: The Future of Progressive Politics in America.
+Boston: Beacon.
+
+Pair, Mary Wilson, ed. 1978. Encyclopedia of Associations, 12th ed. Detroit: Gale.
+
+Peschek, Joseph G. 1987. Policy-Planning Organizations. Philadelphia: Temple Uni-
+versity Press.
+
+Prewitt, Kenneth. 2006. “Foundations.” Pp. 355-77 in The Nonprofit Sector: A Research
+Handbook, 2d ed. New Haven, Conn.: Yale University Press.
+
+Putnam, Robert D. 1995. “Bowling Alone: America’s Declining Social Capital.” Journal
+of Democracy 6:65-78.
+
+. 2000. Bowling Alone. New York: Simon & Schuster.
+
+Rao, Hayagreeva, and Eric Nielsen. 1992. “An Ecology of Agency Arrangements:
+Mortality of Savings and Loan Associations, 1960-1987.” Administrative Science
+Quarterly 37:448-70.
+
+Reitzes, Donald C., and Dietrich C. Reitzes. 1987. The Alinsky Legacy. Greenwich,
+Conn.: JAIL
+
+Rich, Andrew. 2004. Think Tanks, Public Policy, and the Politics of Expertise. New
+York: Cambridge University Press.
+
+Ruffner, Frederick G., et al., eds. 1964. Encyclopedia of Associations, 4th ed. Detroit:
+Gale.
+
+Salisbury, Robert H. 1984. “Interest Representation: The Dominance of Institutions.”
+American Political Science Review 78:64-76.
+
+Sampson, Robert J., Doug McAdam, Heather MacIndoe, and Simon Weffer. 2005.
+“Civil Society Reconsidered: The Durable Nature and Community Structure of
+Collective Civic Action.” American Journal of Sociology 111:673-714.
+
+Shaiko, Ronald G. 1999. Voices and Echoes for the Environment: Public Interest
+Representation in the 1990s and Beyond. New York: Columbia University Press.
+Singh, Jitendra V., and Charles J. Lumsden. 1990. “Theory and Research in Organi-
+
+zational Ecology.” Annual Review of Sociology 16:161-95.
+
+Skocpol, Theda. 1999a. “Advocates without Members: The Recent Transformation of
+
+American Civic Life.” Pp. 461-509 in Civic Engagement in American Democracy,
+edited by Theda Skocpol and Morris P. Fiorina. Washington, D.C.: Brookings In-
+stitution Press.
+. 1999b. “Associations without Members.” American Prospect (July/August): 66-
+
+ 
+
+73.
+
+ 
+
+. 2003. Diminished Democracy. Norman: University of Oklahoma Press.
+
+. 2004a. “The Narrowing of Civic Life.” American Prospect (June): AS—A7.
+
+. 2004b. “Voice and Inequality: The Transformation of American Civic De-
+mocracy.” Perspectives on Politics 2:3-18.
+
+Skocpol, Theda, Rachel V. Cobb, and Casey A. Klofstad. 2005. “Disconnection and
+Reorganization: The Transformation of Civic Life in Late-Twentieth-Century Amer-
+ica.” Studies in American Political Development 19:137-56.
+
+Smith, Jackie. 2005. “Globalization and Transnational Social Movement Organiza-
+tions.” Pp. 226-48 in Social Movements and Organization Theory, edited by Gerald
+Davis, Doug McAdam, W. Richard Scott, and Mayer N. Zald. New York: Cambridge
+University Press.
+
+Sobieraj, Sarah. 2006. “The Implications of Transitions in the Voluntary Sector for
+Civic Engagement: A Case Study of Association Mobilization around the 2000 Pres-
+idential Campaign.” Sociological Inquiry 76:52-80.
+
+Soule, Sarah A., and Brayden G. King. 2008. “Competition and Resource Partitioning
+in Three Social Movement Industries.” American Journal of Sociology 113:1568—
+1610.
+
+Southern Poverty Law Center. 2008. “Morris Dees Biography.” http://www.splcenter
+.org/center/history/dees.jsp.
+
+Staggenborg, Suzanne. 1988. “The Consequences of Professionalization and Formal-
+ization in the Pro-choice Movement.” American Sociological Review 53:585-605.
+Strolovitch, Dara. 2007. Affirmative Advocacy: Race, Class, and Gender in Interest
+
+Group Politics. Chicago: University of Chicago Press.
+
+Suchman, Mark C. 1995. “Managing Legitimacy: Strategic and Institutional Ap-
+proaches.” Academy of Management Review 20:571-610.
+
+Tauber, Steven C. 1998. “On Behalf of the Condemned? The Impact of the NAACP
+Legal Defense Fund on Capital Punishment Decision Making in the U.S. Courts of
+Appeals.” Political Research Quarterly 51:191-219.
+
+Taylor, Verta. 1989. “Social Movement Continuity: The Women’s Movement in Abey-
+ance.” American Sociological Review 54:761-75.
+
+Thomas, Sue. 1991. “The Impact of Women on State Legislative Policies.” Journal of
+Politics 53:958-76.
+
+Verba, Sidney, and Norman H. Nie. 1972. Participation in America. New York: Harper
+& Row.
+
+Walker, Edward T. 2009. “Privatizing Participation: Civic Change and the Organi-
+zational Dynamics of Grassroots Lobbying Firms.” American Sociological Review
+74:83-105.
+
+Walker, Jack. 1983. “The Origins and Maintenance of Interest Groups in America.”
+American Political Science Review 77:390-406.
+
+. 1991. Mobilizing Interest Groups in America. Ann Arbor: University of Mich-
+igan Press.
+
+Warren, Mark R. 2001. Dry Bones Rattling. Princeton, N.J.: Princeton University Press.
+
+Weir, Margaret, and Marshall Ganz. 1997. “Reconnecting People and Politics.” Pp.
+149-71 in The New Majority: Toward a Popular Progressive Politics, edited by
+Stanley B. Greenberg and Theda Skocpol. New Haven, Conn.: Yale University Press.

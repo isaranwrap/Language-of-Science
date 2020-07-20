@@ -1,0 +1,932 @@
+Sociology and the Social Sciences
+
+Author(s): Robert E. Park
+
+Source: American Journal of Sociology, Vol. 26, No. 4 (Jan., 1921), pp. 401-424
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2764494
+
+Accessed: 10-05-2016 17:09 UTC
+SOCIOLOGY AND THE SOCIAL SCIENCES
+
+ROBERT E. PARK
+University of Chicago
+
+I. SOCIOLOGY AND ‘‘SCIENTIFIC” HISTORY
+
+Sociology first gained recognition as an independent science
+with the publication, between 1830 and 1842, of Auguste Comte’s
+Cours de Philosophie Positive. Comte did not, to be sure, create
+sociology. He did give it a name, a program, and a place among
+the sciences.
+
+Comte’s program for the new science proposed an extension to
+politics and to history of the positive methods of the natural
+sciences. Its practical aim was to establish government on the
+secure foundation of an exact science and give to the predictions
+of history something of the precision of mathematical formulae.
+
+We have to contemplate social phenomena as susceptible of prevision,
+like all other classes, within the limits of exactness compatible with their
+higher complexity. Comprehending the three characteristics of political
+science which we have been examining, prevision of social phenomena sup-
+poses, first, that we have abandoned the region of metaphysical idealities,
+to assume the ground of observed realities by a systematic subordination
+of imagination to observation; secondly, that political conceptions have
+ceased to be absolute, and have become relative to the variable state of civili-
+zation, so that theories, following the natural course of facts, may admit of
+our foreseeing them; and, thirdly, that permanent political action is limited
+
+40
+by determinate laws, since, if social events were always exposed to disturbance
+by the accidental intervention of the legislator, human or divine, no scientific
+prevision of them would be possible. Thus, we may concentrate the condi-
+tions of the spirit of positive social philosophy on this one great attribute
+of scientific prevision.!
+
+Comte proposed, in short, to make government a technical
+science and politics a profession. He looked forward to a time
+when legislation, based on a scientific study of human nature, would
+assume the character of natural law. The earlier and more ele-
+mentary sciences, particularly physics and chemistry, had given
+man control over external nature; the last science, sociology, was
+to give man control over himself.
+
+Men were long in learning that Man’s power of modifying phenomena
+can result only from his knowledge of their natural laws; and in the infancy
+of each science, they believed themselves able to exert an unbounded influence
+over the phenomena of that science... .. Social phenomena are, of course,
+from their extreme complexity, the last to be freed from this pretension:
+but it is therefore only the more necessary to remember that the pretension
+existed with regard to all the rest, in their earliest stage, and to anticipate
+therefore that social science will, in its turn, be emancipated from the delusion.
+.... It [the existing social science] represents the social action of Man
+to be indefinite and arbitrary, as was once thought in regard to biological,
+chemical, physical, and even astronomical phenomena, in the earlier stages
+of their respective sciences... .. The human race finds itself delivered
+over, without logical protection, to the ill-regulated experimentation of the
+various political schools, each one of which strives to set up, for all future
+time, its own immutable type of government. We have seen what are the
+chaotic results of such a strife; and we shall find that there is no chance of
+order and agreement but in subjecting social phenomena, like all others, to
+invariable natural laws, which shall, as a whole, prescribe for each period,
+with entire certainty, the limits and character of political action: in other
+words, introducing into the study of social phenomena the same positive
+spirit which has regenerated every other branch of human speculation.?
+
+In the present anarchy of political opinion and parties, changes
+in the existing social order inevitably assume, he urged, the char-
+acter, at the best, of a mere groping empiricism; at the worst, of a
+social convulsion like that of the French Revolution. Under the
+
+1 Harriet Martineau, The Positive Philosophy of Auguste Comte, freely translated
+and condensed (London, 1893), II, 61.
+
+2 Harriet Martineau, o9. cit., II, 59-60.
+direction of a positive, in place of a speculative or, as Comte would
+have said, metaphysical science of society, progress must assume
+the character of an orderly march.
+
+It was to be expected, with the extension of exact methods of
+investigation to other fields of knowledge, that the study of man
+and of society would become, or seek to become, scientific in the
+sense in which that word is used in the natural sciences. It is
+interesting, in this connection, that Comte’s first name for sociology
+was social physics. It was not until he had reached the fourth
+volume of his Positive Philosophy that the word sociological is used
+for the first time.
+
+Comte, if he was foremost, was not first in the search for a
+positive science of society, which would give man that control over
+men that he had over external nature. Montesquieu, in his Spirit
+of the Laws, first published in 1747, had distinguished in the organi-
+zation of society, between form, “the particular structure,” and
+the forces, “the human passions which set it in motion.” In his
+preface to this first epoch-making essay in what Freeman calls
+“comparative politics,” Montesquieu suggests that the uniformi-
+ties, which he discovered beneath the wide variety of positive law,
+were contributions not merely to a science of law, but to a science
+of mankind.
+
+I have first of all considered mankind; and the result of my thoughts
+
+has been, that amidst such an infinite diversity of laws and manners, they
+are not solely conducted by the caprice of fancy.
+
+Hume, likewise, put politics among the natural sciences.? Con-
+dorcet wanted to make history positive. But there were, in the
+period between 1815 and 1840 in France, conditions which made
+the need of a new science of politics peculiarly urgent. The Revo-
+lution had failed and the political philosophy, which had directed
+and justified it, was bankrupt. France between 1789 and 1815
+
+1 Montesquieu, Baron M. de Secondat, The Spirit of the Laws, translated by
+Thomas Nugent (Cincinnati, 1873), I, xxxi.
+
+2 David Hume, Inquiry Concerning Human Understanding, Part II, sec. 7.
+
+8 Condorcet, Esquisse d’un tableau historique des progrés de Vesprit humain (1795),
+292. See Barth, Die Philosophie des Geschichte als Sociologie (Leipzig, 1897), Part I,
+pp. 21-23.
+had adopted, tried, and rejected no less than ten different con-
+stitutions. But during this period, as Saint-Simon noted, society,
+and the human beings who compose society, had not changed. It
+was evident that government was not, in any such sense as the
+philosophers had assumed, a mere artifact and legislative con-
+struction. Civilization, as Saint-Simon conceived it, was a part of
+nature. Social change was part of the whole cosmic process. He
+proposed, therefore, to make politics a science as positive as
+physics. The subject-matter of political science, as he conceived
+it, was not so much political forms as social conditions. History
+had been literature. It was destined to become a science.!
+
+Comte called himself Saint-Simon’s pupil. It is perhaps more
+correct to say Saint-Simon formulated the problem for which
+Comte, in his Positive Philosophy, sought a solution. It was
+Comte’s notion that with the arrival of sociology the distinction
+which had so long existed, and still exists, between philosophy, in
+which men define their wishes, and natural science, in which they
+describe the existing order of nature, would disappear. In that
+case ideals would be defined in terms of reality, and the tragic
+difference between what men want and what is possible would be
+effaced. Comte’s error was to mistake a theory of progress for
+progress itself. It is certainly true that as men learn what is, they
+will adjust their ideals to what is possible. But knowledge grows
+slowly.
+
+Man’s knowledge of mankind has increased greatly since 1842.
+Sociology, “‘the positive science of humanity,” has moved
+steadily forward in the direction that Comte’s program indicated,
+but it has not yet replaced history. Historians are still looking
+for methods of investigation which will make history “sciencific.”
+
+No one who has watched the course of history during the last generation
+can have felt doubt of its tendency. Those of us who read Buckle’s first
+volume when it appeared in 1857, and almost immediately afterwards, in
+1859, read the Origin of Species and felt the violent impulse which Darwin
+gave to the study of natural laws, never doubted that historians would follow
+until they had exhausted every possible hypothesis to create a science of
+history. Year after year passed, and little progress has been made. Perhaps
+
+1 Ocuvres de Saint-Simon et d’Enfantin (Paris, 1865-78), XVII, 228. Paul Barth,
+op. cit., Part I, p. 23.
+the mass of students are more skeptical now than they were thirty years ago
+of the possibility that such a science can be created. Yet almost every suc-
+cessful historian has been busy with it, adding here a new analysis, a new
+generalization there; a clear and definite connection where before the rupture
+of idea was absolute; and, above all, extending the field of study until it
+shall include all races, all countries, and all times. Like other branches of
+science, history is now encumbered and hampered by its own mass, but its
+tendency is always the same, and cannot be other than what it is. That
+the effort to make history a science may fail is possible, and perhaps probable;
+but that it should cease, unless for reasons that would cause all science to
+cease, is not within the range of experience. Historians will not, and even
+if they would they can not, abandon the attempt. Science itself would admit
+its own failure if it admitted that man, the most important of all its subjects,
+could not be brought within its range.!
+
+Since Comte gave the new science of humanity a name and a
+point of view, the area of historical investigation has vastly widened
+and a number of new social sciences have come into existence—
+ethnology, archaeology, folklore, the comparative studies of cul-
+tural materials, i.e., language, mythology, religion, and law, and in
+connection with and closely related with these, folk-psychology,
+social psychology, and the psychology of crowds, which latter is,
+perhaps, the forerunner of a wider and more elaborate political
+psychology. The historians have been very much concerned with
+these new bodies of materials and with the new points of view which
+they have introduced into the study of man and of society. Under
+the influences of these sciences, history itself, as James Harvey
+Robinson has pointed out, has had a history. But with the inno-
+vations which the new history has introduced or attempted to
+introduce, it does not appear that there have been any funda-
+mental changes in method or ideology in the science itself.
+
+Fifty years have elapsed since Buckle’s book appeared, and I know of
+no historian who would venture to maintain that we had made any consid-
+erable advance toward the goal he set for himself. A systematic persecution
+of the various branches of social science, especially political economy, sociology,
+anthropology, and psychology, is succeeding in explaining many things;
+but history must always remain, from the standpoint of the astronomer,
+physicist, or chemist, a highly inexact and fragmentary body of knowledge.
+. .. . History can no doubt be pursued in a strictly scientific spirit, but
+
+1Henry Adams, The Degradation of the Democratic Dogma (New York, 1919),
+p. 126.
+Il. HISTORICAL AND SOCIOLOGICAL FACTS
+
+Sociology, as Comte conceived it, was not, as it has been char-
+acterized, “a highly important point of view,” but a fundamental
+science, i.e., a method of investigation and ‘“‘a body of discoveries
+about mankind.’? In the hierarchy of the sciences, sociology, the
+last in time, was first in importance. The order was as follows:
+mathematics, astronomy, physics, chemistry, biology, including
+psychology, sociology. This order represented a progression from
+the more elementary to the more complex. It was because history
+and politics were concerned with the most complex of natural
+phenomena that they were the last to achieve what Comte called
+the positive character. They did this in sociology.
+
+Many attempts have been made before and since Comte to
+find a satisfactory classification of the sciences. The order and
+relation of the sciences is still, in fact, one of the cardinal problems
+of philosophy. In recent years the notion has gained recognition
+that the difference between history and the natural sciences is not
+one of degree, but of kind; not of subject-matter merely, but of
+method. This difference in method is, however, fundamental. It
+is a difference not merely in the interpretation but in the logical
+character of facts.
+
+Every historical fact, it is pointed out, is concerned with a
+unique event. History never repeats itself. If nothing else, the
+mere circumstance that every event has a date and location would
+
+1James Harvey Robinson, The New History, Essays Illustrating the Modern
+Historical Outlook (New York, 1912), pp. 54-55.
+
+2 James Harvey Robinson, of. cit., p. 83.
+give historical facts an individuality that facts of the abstract
+science do not possess. Because historical facts always are located
+and dated, and cannot therefore be repeated, they are not subject
+to experiment and verification. On the other hand, a fact not
+subject to verification is not a fact for natural science. History,
+as distinguished from natural history, deals with individuals, i.e.,
+individual events, persons, institutions. Natural science is con-
+cerned, not with individuals, but with classes, types, species. All
+the assertions that are valid for natural science concern classes.
+An illustration will make this distinction clear.
+
+Sometime in October, 1838, Charles Darwin happened to pick
+up and read Malthus’ book on Population. The facts of “the
+struggle for existence,” so strikingly presented in that now cele-
+brated volume, suggested an explanation of a problem which had
+long interested and puzzled him, namely the origin of species.
+
+This is a statement of a historical fact, and the point is that
+it is not subject to empirical verification. It cannot be stated, in
+other words, in the form of a hypothesis, which further observation
+of other men of the same type will either verify or discredit.
+
+On the other hand, in his Descent of Man, Darwin, discussing
+the réle of sexual selection in evolution of the species, makes this
+observation: ‘Naturalists are much divided with respect to the
+object of the singing of birds. Few more careful observers ever
+lived than Montagu, and he maintained that the ‘males of song-
+birds and of many others do not in general search for the female,
+but, on the contrary, their business in spring is to perch on some
+conspicuous spot, breathing out their full and amorous notes, which,
+by instinct, the female knows and repairs to the spot to choose her
+mate.’ ”
+
+This is a typical statement of a fact of natural history. It is
+not, however, the rather vague generality of the statement that
+makes it scientific. It is its representative character, the character
+which makes it possible of verification by further observation which
+makes it a scientific fact.
+
+It is from facts of this kind, collected, compared, and classified,
+irrespective of time or place, that the more general conclusions are
+drawn, upon which Darwin based his theory of the “descent of
+man.” This theory, as Darwin conceived it, was not an inter-
+pretation of the facts but an explanation.
+
+The relation between history and sociology, as well as the
+manner in which the more abstract social sciences have risen out of
+the more concrete, may be illustrated by a comparison between
+history and geography. Geography as a science is concerned with
+the visible world, the earth, its location in space, the distribution
+of the land masses, and of the plants, animals, and peoples upon
+its surface. The order, at least the fundamental order, which it
+seeks and finds among the objects it investigates is spatial. As
+soon as the geographer begins to compare and classify the plants,
+the animals, and the peoples with which he comes in contact,
+geography passes over into the special sciences, ie., botany,
+zodlogy, and anthropology.
+
+History, on the other hand, is concerned with a world of events.
+Not everything that happened, to be sure, is history, but every
+event that ever was or ever will be significant is history.
+
+Geography attempts to reproduce for us the visible world as
+it exists in space; history, on the contrary, seeks to re-create for us
+in the present the significance of the past. As soon as historians
+seek to take events out of their historical setting, that is to say,
+out of their time and space relations, in order to compare them and
+classify them; as soon as historians begin to emphasize the typical
+and representative rather than the unique character of events,
+history ceases to be history and becomes sociology.
+
+The differences here indicated between history and sociology
+are based upon a more fundamental distinction between the his-
+torical and the natural sciences first clearly defined by Windel-
+band, the historian of philosophy, in an address to the faculty of
+the University of Strassburg in 1894.
+
+The distinction between natural science and history begins at the point
+where we seek to convert facts into knowledge. Here again we observe that
+the one (natural science) seeks to formulate laws, the other (history) to portray
+events. In the one case thought proceeds from the description of particulars
+to the general relations. In the other case it clings to a genial depiction of the
+individual object or event. For the natural scientist the object of investiga -
+tion which cannot be repeated never has, as such, scientific value. It serves
+his purpose only so far as it may be regarded as a type or as a special instance
+of a class from which the type may be deduced. The natural scientist con-
+siders the single case only so far as he can see in it the features which serve
+to throw light upon a general law. For the historian the problem is to revive
+and call up into the present, in all its particularity, an event in the past. His
+aim is to do for an actual event precisely what the artist seeks to do for the
+object of his imagination. It is just here that we discern the kinship between
+history and art, between the historian and the writer of literature. It is for
+this reason that natural science emphasized the abstract; the historian, on the
+other hand, is interested mainly in the concrete.
+
+The fact that natural science emphasizes the abstract and history the con-
+crete will become clearer if we compare the results of the researches of the
+two sciences. However finespun the conceptions may be which the historical
+critic uses in working over his materials, the final goal of such study is always
+to create out of the mass of events a vivid portrait of the past. And what
+history offers us is pictures of men and of human life, with all the wealth of
+their individuality, reproduced in all their characteristic vivacity. Thus do
+the peoples and languages of the past, their forms and beliefs, their struggles
+for power and freedom, speak to us through the mouth of history.
+
+How different it is with the world which the natural sciences have created
+for us! However concrete the materials with which they started, the goal of
+these sciences is theories, eventually mathematical formulations of laws of
+change. Treating the individual, sensuous, changing objects as mere unsub-
+stantial appearances (phenomena), scientific investigation becomes a search
+for the universal laws which rule the timeless changes of events, Out of this
+colorful world of the senses, science creates a system of abstract concepts, in
+which the true nature of things is conceived to exist—a world of colorless and
+soundless atoms, despoiled of all their earthly sensuous qualities. Such is the
+triumph of thought over perception. Indifferent to change, science casts her
+anchor in the eternal and unchangeable. Not the change as such but the
+unchanging form of change is what she seeks.
+
+This raises the question: What is the more valuable for the purposes of
+knowledge in general, a knowledge of law or a knowledge of events? As far
+as that is concerned, both scientific procedures may be equally justified. The
+knowledge of the universal laws has everywhere a practical value in so far as
+they make possible man’s purposeful intervention in the natural processes.
+That is quite as true of the movements of the inner as of the outer world. In
+the latter case knowledge of nature’s laws has made it possible to create those
+tools through which the control of mankind over external nature is steadily
+being extended.
+
+Not less for the purposes of the common life are we dependent upon the
+results of historical knowledge. Man is, to change the ancient form of the
+expression, the animal who has a history. His cultural life rests on the trans-
+mission from generation to generation of a constantly increasing body of
+historical memories. Whoever proposes to take an active part in this cultural
+process must have an understanding of history. Wherever the thread is once
+broken—as history itself proves—it must be painfully gathered up and knitted
+again into the historical fabric.
+
+It is, to be sure, true that it is an economy for human understanding to be
+able to reduce to a formula or a general concept the common characteristics
+of individuals. But the more man seeks to reduce facts to concepts and laws,
+the more he is obliged to sacrifice and neglect the individual. Men have, to
+be sure, sought, in characteristic modern fashion, “to make of history a natural
+science.” This was the case with the so-called philosophy of history of posi-
+tivism. What has been the net result of the laws of history which it has given
+us? A few trivial generalities which justify themselves only by most careful
+consideration of their numerous exceptions.
+
+On the other hand it is certain that all interest and values of life are con-
+cerned with what is unique in men and events. Consider how quickly our
+appreciation is deadened as some object is multiplied or is regarded as one case
+inathousand. “She is not the first” is one of the cruel passages in Faust. It
+is in the individuality and the uniqueness of an object that all our sense of
+value has its roots. It is upon this fact that Spinoza’s doctrine of the conquest
+of the passions by knowledge rests, since for him knowledge is the submergence
+of the individual in the universal, the “once for all” into the eternal.
+
+The fact that all our livelier appreciations rest upon the unique character
+of the object is illustrated above all in our relations to persons. Is it not an
+unendurable thought, that a loved object, an adored person, should have
+existed at some other time in just the form in which it now exists for us? Is it
+not horrible and unthinkable that one of us, with just this same individuality,
+should actually have existed in a second edition?
+
+What is true of the individual man is quite as true of the whole historical
+process: it has value only when it is unique. This is the principle which the
+Christian doctrine successfully maintained, as over against Hellenism in the
+Patristic philosophy. The middle point of their conception of the world was
+the fall and the salvation of mankind as a unique event. That was the first and
+great perception of the inalienable metaphysical right of the historian to pre-
+serve for the memory of mankind, in all their uniqueness and individuality,
+the actual events of life.t
+
+Like every other species of animal, man has a natural history.
+Anthropology is the science of man considered as one of the animal
+
+1 Wilhelm Windelband, Geschichte und Naturwissenschaft, Rede zum Antritt des
+Rectorats der Kaiser-Wilhelms-Universitat Strassburg (Strassburg, 1900). The logical
+principle outlined by Windelband has been further elaborated by Heinrich Rickert in
+Die Grenzen der naturwissenschaftlichen Begriffsbildung, eine logische Einleitung in die
+historische Wissenschaft (Tiibingen u. Leipzig, 1902). See also Georg Simmel, Die
+Probleme der Geschichtsphilosophie, eine erkenntnistheoretische Studie (2d ed., Leipzig,
+1915).
+species, Homo sapiens. History and sociology, on the other hand,
+are concerned with man as a person, as a “political animal,”
+participating with his fellows in a common fund of social traditions
+and cultural ideals. Freeman, the English historian, said that
+history was ‘“‘past politics” and politics “present history.” Free-
+man uses the word politics in the large and liberal sense in which
+it was first used by Aristotle. In that broad sense of the word,
+the political process, by which men are controlled and states
+governed, and the cultural process, by which man has been domes-
+ticated and human nature formed, are not, as we ordinarily assume,
+different, but identical, procedures.
+
+All this suggests the intimate relations which exist between
+history, politics, and sociology. The important thing, however, is
+not the identities but the distinctions. For, however much the
+various disciplines may, in practice, overlap, it is necessary for the
+sake of clear thinking to have their limits defined. As far as
+sociology and history are concerned the differences may be summed
+up in a word. Both history and sociology are concerned with the
+life of man as man. History, however, seeks to reproduce and
+interpret concrete events as they actually occurred in time and
+space. Sociology, on the other hand, seeks to arrive at natural
+laws and generalizations in regard to human nature and society,
+irrespective of time and of place.
+
+In other words, history seeks to find out what actually happened
+and how it all came about. Sociology, on the other hand, seeks to
+explain, on the basis of a study of other instances, the nature of
+the process involved.
+
+By nature we mean just that aspect and character of things
+in regard to which it is possible to make general statements and
+formulate laws. If we say, in explanation of the peculiar behavior
+of some individual, that it is natural or that it is after all “simply
+human nature,” we are simply saying that this behavior is what we
+have learned to expect of this individual or of human beings in
+general. It is, in other words, a law.
+
+Natural law, as the term is used here, is any statement which
+describes the behavior of a class of objects or the character of a
+class of acts. For example, the classic illustration of the so-called
+“universal proposition” familiar to students of formal logic, “all
+men are mortal,” is an assertion in regard to a class of objects we
+call men. This is, of course, simply a more formal way of saying
+that “men die.” Such general statements and “laws” get meaning
+only when they are applied to particular cases, or, to speak again
+the terms of formal logic, when they find a place in a syllogism,
+thus: ‘Men are mortal. This is a man.” But such syllogisms
+may always be stated in the form of a hypothesis. If this is a
+man, heis mortal. If@is 6, aisalsoc. This statement, “Human
+nature is a product of social contact,” is a general assertion familiar
+to students of sociology. This law or, more correctly, hypothesis,
+applied to an individual case explains the so-called feral man.
+Wild men, in the proper sense of the word, are not the so-called
+savages, but the men who have never been domesticated, of which
+an individual example is now and then discovered.
+
+To state a law in the form of a hypothesis serves to emphasize
+the fact that laws—what we have called natural laws at any rate—
+are subject to verification and restatement. Under these circum-
+stances the exceptional instance, which compels a restatement of
+the hypothesis, is more important for the purposes of science than
+other instances which merely confirm it.
+
+Any science which operates with hypotheses and seeks to state
+facts in such a way that they can be compared and verified by
+further observation and experiment is, so far as method is con-
+cerned, a natural science.
+of law by the fact that it aims at nothing more than a description
+of the behavior of certain types or classes of objects. A description
+of the way in which a class, i.e., men, plants, animals, or physical
+objects, may be expected under ordinary circumstances to behave,
+tells us what we may in a general way expect of any individual
+member of that class. If natural science seeks to predict, it is able
+to do so simply because it operates with concepts or class names
+instead, as is the case with history, with concrete facts and, to use a
+logical phrase, “existential propositions.”
+
+That the chief end of science is descriptive formulation has probably
+been clear to keen analytic minds since the time of Galileo, especially to the
+great discoverers in astronomy, mechanics, and dynamics. But as a definitely
+stated conception, corrective of misunderstandings, the view of science as
+essentially descriptive began to make itself felt about the beginning of the
+last quarter of the nineteenth century, and may be associated with the names
+of Kirchhoff and Mach. It was in 1876 that Kirchhoff defined the task of
+mechanics as that of “describing completely and in the simplest manner the
+motions which take place in nature.”” Widening this a little, we may say
+that the aim of science is to describe natural phenomena and occurrences as
+exactly as possible, as simply as possible, as completely as possible, as con-
+sistently as possible, and always in terms which are communicable and veri-
+fiable. This is a very different réle from that of solving the riddles of the
+universe, and it is well expressed in what Newton said in regard to the law
+of gravitation: “So far I have accounted for the phenomena presented to
+us by the heavens and the sea by means of the force of gravity, but I have
+as yet assigned no cause to this gravity... .. I have not been able to deduce
+from phenomena the raison d’etre of the properties of gravity and I have not
+set up hypotheses. ’’!
+
+“We must confess,” said Prof. J. H. Poynting (1900, p. 616), “that
+physical laws have greatly fallen off in dignity. No long time ago they were
+quite commonly described as the Fixed Laws of Nature, and were supposed
+sufficient in themselves to govern the universe. Now we can only assign
+to them the humble rank of mere descriptions, often erroneous, of similarities
+which we believe we have observed. .... A law of nature explains nothing,
+it has no governing power, it is but a descriptive formula which the careless
+have sometimes personified.” It used to be said that “the laws of Nature
+are the thoughts of God”’; now we say that they are the investigator’s formulae
+summing up regularities of recurrence.?
+
+1 Newton, Philosophia naturalis principia mathematica, 1687.
+
+2 J. Arthur Thomson, The System of Animate Nature (New York, 1920), pp. 8-9.
+See also Karl Pearson, The Grammar of Science (2d ed.; London, 1900), chap iii,
+The Scientific Law.
+If natural law aims at prediction it tells us what we can do.
+Moral laws, on the other hand, tell us, not what we can, but what
+we ought to do. The civil or municipal law, finally, tells us not
+what we can, nor what we ought, but what we must do. It is very
+evident that these three types of law may be very intimately
+related. We do not know what we ought to do until we know
+what we can do; and we certainly should consider what men can
+do before we pass laws prescribing what they must do. There is,
+moreover, no likelihood that these distinctions will ever be com-
+pletely abolished. As long as the words “‘can,” “ought,” and
+“must” continue to have any meaning for us the distinctions that
+they represent will persist in science as well as in common sense.
+
+The immense prestige which the methods of the natural sciences
+have gained, particularly in their application to the phenomena of
+the physical universe, has undoubtedly led scientific men to over-
+estimate the importance of mere conceptual and abstract knowledge.
+It has led them to assume that history also must eventually become
+“scientific” in the sense of the natural sciences. In the meantime
+the vast collections of historical facts which the industry of his-
+torical students has accumulated are regarded, sometimes even by
+historians themselves, as a sort of raw material, the value of which
+can only be realized after it has been worked over into some sort
+of historical generalization which has the general character of
+scientific and, ultimately, mathematical formula.
+
+“History,” says Karl Pearson, “can never become science, can
+never be anything but a catalogue of facts rehearsed in a more or
+less pleasing language until these facts are seen to fall into sequences
+which can be briefly resumed in scientific formulae.”! And Henry
+Adams, in a letter to the American Historical Association already
+referred to, confesses that history has thus far been a fruitless quest
+for “the secret which would transform these odds and ends of
+philosophy into one self-evident, harmonious, and complete
+system.”
+
+You may be sure that four out of five serious students of history who
+
+are living today have, in the course of their work, felt that they stood on the
+brink of a great generalization that would reduce all history under a law as
+
+1 Karl Pearson, of. cit., p. 359.
+The truth is, however, that the concrete facts, in which history
+and geography have sought to preserve the visible, tangible, and,
+generally speaking, the experiential aspects of human life and the
+visible universe, have a value irrespective of any generalization or
+ideal constructions which may be inferred from or built up out of
+them. Just as none of the investigations or generalizations of
+individual psychology are ever likely to take the place of biography
+and autobiography, so none of the conceptions of an abstract
+sociology, no scientific descriptions of the social and cultural pro-
+cesses, and no laws of progress are likely, in the near future at any
+rate, to supersede the more concrete facts of history in which are
+preserved those records of those unique and never fully compre-
+hended aspects of life which we call events.
+
+It has been the dream of philosophers that theoretical and
+abstract science could and some.day perhaps would succeed in
+putting into formulae and into general terms all that was significant
+in the concrete facts of life. It has been the tragic mistake of the
+so-called intellectuals, who have gained their knowledge from text-
+books rather than from observation and research, to assume that
+
+1 Henry Adams, of. cit., p. 127.
+science had already realized its dream. But there is no indication
+that science has begun to exhaust the sources or significance of
+concrete experience. The infinite variety of external nature and
+the inexhaustible wealth of personal experience have thus far
+defied, and no doubt will continue to defy, the industry of scientific
+classification, while, on the other hand, the discoveries of science
+are constantly making accessible to us new and larger areas of
+experience.
+
+What has been said simply serves to emphasize the instrumental
+character of the abstract sciences. History and geography, all of
+the concrete sciences, can and do measurably enlarge our experience
+of life. Their very purpose is to arouse new interests and create
+new sympathies; to give mankind, in short, an environment so
+vast and varied as will call out and activate all his instincts and
+capacities.
+
+The more abstract sciences, just to the extent which they are
+abstract and exact, like mathematics and logic, are merely methods
+and tools for converting experience into knowledge and applying
+the knowledge so gained to practical uses.
+of widely scattered peoples, living under varied physical and social
+conditions. What one gets from a survey of this kind is not so
+much history as a study of human behavior. The history of
+marriage, as of any other institution, is, in other words, not so
+much an account of what certain individuals or groups of individuals
+did at certain times and certain places, as it is a description of the
+responses of few fundamental human instincts to a variety of social
+situations. Westermarck calls this kind of history sociology.
+
+It is in the firm conviction that the history of human civilization should
+be made an object of as scientific a treatment as the history of organic nature
+that I write this book. Like the phenomena of physical and psychical life
+those of social life should be classified into certain groups and each group
+investigated with regard to its origin and development. Only when treated
+in this way can history lay claim to the rank and honour of a science in the
+highest sense of the term, as forming an important part of Sociology, the
+youngest of the principal branches of learning.
+
+Descriptive historiography has no higher object than that of offering
+materials to this science.”
+
+Westermarck refers to the facts which he has collected in his
+history of marriage as phenomena. For the explanation of these
+phenomena, however, he looks to the more abstract sciences.
+
+The causes on which social phenomena are dependent fall within the
+domain of different sciences—Biology, Psychology, or Sociology. The reader
+will find that I put particular stress upon the psychological causes, which
+have often been deplorably overlooked, or only imperfectly touched upon.
+And more especially do I believe that the mere instincts have played a very
+important part in the origin of social institutions and rules.®
+
+1 Prof. Robertson Smith (Nature, XLIV, 270), criticizing Westermarck’s History
+of Human Marriage, complains that the author has confused history with natural
+history. ‘The history of an institution,” he writes, ‘‘which is controlled by public
+opinion and regulated by law is not natural history. The true history of marriage
+begins where the natural history of pairing ends... . . To treat these topics (poly-
+andry, kinship through the female only, infanticide, exogamy) as essentially a part of
+the natural history of pairing involves a tacit assumption that the laws of society are
+at bottom mere formulated instincts, and this assumption really underlies all our
+author’s theories. His fundamental position compels him, if he will be consistent
+with himself, to hold that every institution connected with marriage that has universal
+validity, or forms an integral part of the main line of development, is rooted in instinct,
+and that institutions which are not based on instinct are necessarily exceptional and
+unimportant for scientific history.”
+
+2 Edward Westermarck, The History of Human Marriage (London, 1901), p. 1.
+
+3 E. Westermarck, oP. cit., p. 5.
+This whole study is, in fact, merely an application of Durk-
+heim’s conception of “collective representations.”
+
+Robert H. Lowie, in his recent volume, Primitive Society, refers
+to “ethnologists and other historians,” but at the same time asks:
+“What kind of an historian shall the ethnologist be?”
+
+He answers the question by saying that, ‘If there are laws of
+social evolution, he [the ethnologist] must assuredly discover them,”
+but at any rate, and first of all, “his duty is to ascertain the course
+civilization has actually followed... . . To strive for the ideals
+of another branch of knowledge may be positively pernicious, for
+it can easily lead to that factitious simplification which means
+falsification.”
+
+In other words, ethnology, like history, seeks to tell what
+actually happened. It is bound to avoid abstraction, ‘“over-
+simplification,” and formulae, and these are the ideals of another
+kind of scientific procedure. As a matter of fact, however, eth-
+nology, even when it has attempted nothing more than a description
+
+1 Jane Ellen Harrison, Themis, A Study of the Social Origins of Greek Religion
+(Cambridge, 1912), p. ix.
+of the existing cultures of primitive peoples, their present distribu-
+tion and the order of their succession, has not freed itself wholly
+from the influence of abstract considerations. Theoretical prob-
+lems inevitably arise for the solution of which it is necessary to go
+to psychology and sociology. One of the questions that has arisen
+in the study, particularly the comparative study, of cultures is:
+how far any existing cultural trait is borrowed and how far it is
+to be regarded as of independent origin.
+
+In the historical reconstruction of culture the phenomena of distribution
+play, indeed, an extraordinary part. If a- trait occurs everywhere, it might
+veritably be the product of some universally operative social law. If it is
+found in a restricted number of cases, it may still have evolved through some
+such instrumentality acting under specific conditions that would then remain
+to be determined by analysis of the cultures in which the feature is embedded.
+. ... Finally, the sharers of a cultural trait may be of distinct lineage but
+through contact and borrowing have come to hold in common a portion of
+their cultures... . .
+
+Since, as a matter of fact, cultural resemblances abound between peoples
+of diverse stock, their interpretation commonly narrows to a choice between
+two alternatives. Either they are due to like causes, whether these can be
+determined or not; or they are the result of borrowing. A predilection for
+one or the other explanation has lain at the bottom of much ethnological
+discussion in the past; and at present influential schools both in England and
+in continental Europe clamorously insist that all cultural parallels are due
+to diffusion from a single center. It is inevitable to envisage this moot-
+problem at the start, since uncompromising championship of either alternative
+has far-reaching practical consequences. For if every parallel is due to bor-
+towing, then sociological laws, which can be inferred only from independently
+developing likenesses, are barred. Then the history of religion or social life
+or technology consists exclusively in a statement of the place of origin of
+beliefs, customs and implements, and a recital of their travels to different
+parts of the globe. On the other hand, if borrowing covers only part of the
+observed parallels, an explanation from like causes becomes at least the ideal
+goal in an investigation of the remainder.'
+
+An illustration will exhibit the manner in which problems
+originally historical become psychological and sociological. Tyler
+in his Early History of Mankind has pointed out that the bellows
+used by the negro blacksmiths of continental Africa are of a quite
+different type from those used by natives of Madagascar. The
+
+1 Robert H. Lowie, Primitive Society (New York, 1920), pp. 7-8.
+bellows used by the Madagascar blacksmiths, on the other hand,
+are exactly like those in use by the Malays of Sumatra and in
+other parts of the Malay Archipelago. This indication that the
+natives of Madagascar are of Malay origin is in accordance with
+other anthropological and ethnological data in regard to these
+peoples, which prove the fact, now well established, that they are
+not of African origin.
+
+Similarly Boas’ study of the Raven cycle of American Indian
+mythology indicated that these stories originated in the northern
+part of British Columbia and traveled southward along the coast.
+One of the evidences of the direction of this progress is the gradual
+diminution of complexity in the stories as they traveled into
+regions farther temoved from the point of origin.
+
+All this, in so far as it seeks to determine the point of origin,
+direction, speed, and character of changes that take place in cul-
+tural materials in the process of diffusion, is clearly history and
+ethnology.
+
+Other questions, however, force themselves inevitably upon the
+attention of the inquiring student. Why is it that certain cultural
+materials are more widely and more rapidly diffused than others?
+Under what conditions does this diffusion take place and why does
+it take place at all? Finally, what is the ultimate source of cus-
+toms, beliefs, languages, religious practices, and all the varied tech-
+nical devices which compose the cultures of different peoples?
+What are the circumstances and what are the processes by which
+cultural traits are independently created? Under what condi-
+tions do cultural fusions take place and what is the nature of this
+process?
+
+These are all fundamentally problems of human nature, and as
+human nature itself is now regarded as a product of social inter-
+course, they are problems of sociology.
+
+The cultural processes by which languages, myth, and religion
+have come into existence among primitive peoples has given rise in
+Germany to a special science. Folk-psychology (Vélkerpsycholo-
+gie) had its origin in an attempt to answer in psychological terms
+the problems to which a comparative study of cultural materials
+has given rise.
+From two different directions ideas of folk-psychology have found their
+way into modern science. First of all there was a demand from the different
+social sciences [Geisteswissenschaften] for a psychological explanation of the
+phenomena of social life and history, so far as they were products of social
+[geistiger] interaction. In the second place, psychology itself required, in order
+to escape the uncertainties and ambiguities of pure introspection, a body of
+objective materials.
+
+Among the social sciences the need for psychological interpretation first
+manifested itself in the studies of language and mythology. Both of these
+had already found outside the circle of the philological studies independent
+fields of investigation. As soon as they assumed the character of comparative
+sciences it was inevitable that they should be driven to recognize that in
+addition to the historical conditions, which everywhere determines the concrete
+form of these phenomena, there had been certain fundamental psychical forces
+at work in the development of language and myth.!
+
+The aim of folk-psychology has been, on the whole, to explain
+the genesis and development of certain cultural forms, i.e., lan-
+guage, myth, and religion. The whole matter may, however, be
+regarded from a quite different point of view. Gabriel Tarde, for
+example, has sought to explain, not the genesis, but the transmission
+and diffusion of these same cultural forms. For Tarde, communi-
+cation (transmission of cultural forms and traits) is the one central
+and significant fact of social life. “Social” is just what can be
+transmitted by imitation. Social groups are merely the centers
+from which new ideas and inventions are transmitted. Imitation
+is the social process.
+
+There is not a word that you say, which is not the reproduction, now un-
+conscious, but formerly conscious and voluntary, of verbal articulations reach-
+ing back to the most distant past, with some special accent due to your imme-
+diate surroundings. There is not a religious rite that you fulfil, such as praying,
+kissing the icon, or making the sign of the cross, which does not reproduce
+certain traditional gestures and expressions, established through imitation of
+your ancestors. There is not a military or civil requirement that you obey,
+nor an act that you perform in your business, which has not been taught you,
+and which you have not copied from some living model. There is not a stroke
+of the brush that you make, if you are a painter, nor a verse that you write,
+
+1 Wilhelm Wundt, Vélkerpsychologie, eine Untersuchung der Entwicklungsgesetze
+von Sprache, Mythus und Sitte. Erster Band, Die Sprache, Erster Theil (Leipzig,
+1900), p. 13. The name folk-psychology was first used by Lazarus and Steinthal,
+Zeitschrift fiir Volkerpsychologie und Sprachwissenschaft, I, 1860. Wundt’s folk-
+psychology is a continuation of the tradition of these earlier writers.
+if you are a poet, which does not conform to the customs or the prosody of your
+school, and even your very originality itself is made up of accumulated common-
+places, and aspires to become common-place in its turn.
+
+Thus, the unvarying characteristic of every social fact whatsoever is that
+it is imitative. And this characteristic belongs exclusively to social facts.1
+
+Tarde’s theory of transmission by imitation may be regarded,
+in some sense, as complementary, if not supplementary, to Wundt’s
+theory of origins, since he puts the emphasis on the fact of trans-
+mission rather than upon genesis. In a paper, “Tendencies in
+Comparative Philology,” read at the Congress of Arts and Sciences
+at the St. Louis Exposition in 1904, Professor Hanns Oertel, of
+Yale University, refers to Tarde’s theory of imitation as an alter-
+native explanation to that offered by Wundt for ‘‘the striking
+uniformity of sound changes” which students of language have
+discovered in the course of their investigation of phonetic changes
+in widely different forms of speech.
+
+It seems hard to maintain that the change in a syntactical construction
+or in the meaning of a word owes its universality to a simultaneous and inde-
+pendent primary change in all the members of a speech-community. By
+adopting the theory of imitative spread, all linguistic changes may be viewed
+as one homogeneous whole. In the second place, the latter view seems to
+bring linguistic changes into line with the other social changes, such as modi-
+fications in institutions, beliefs, and customs. For is it not an essential char-
+acteristic of a social group that its members are not co-operative in the sense
+that each member actively participates in the production of every single ele-
+ment which goes to make up either language, or belief, or customs? Distin-
+guishing thus between primary and secondary changes and between the origin
+of a change and its spread, it behooves us to examine carefully into the causes
+which make the members of a social unit, either consciously or unconsciously,
+willing to accept an innovation. What is it that determines acceptance or
+rejection of a particular change? What limits one change to a small area,
+while it extends the area of another? Before a final decision can be reached in
+favor of the second theory of imitative spread it will be necessary to follow out
+in minute detail the mechanism of this process in a number of concrete in-
+stances; in other words to fill out the picture of which Tarde (Les lois de
+Vimitation) sketched the bare outlines. If his assumptions prove true, then
+we should have here a uniformity resting upon other causes than the physical
+uniformity that appears in the objects with which the natural sciences deal.
+
+1G, Tarde, Social Laws, An Outline of Sociology, translated from the French by
+Howard C. Warren (New York, 1899), pp. 40-41.
+It would enable us to establish a second group of uniform phenomena which
+is psycho-physical in its character and rests upon the basis of social suggestion.
+The uniformities in speech, belief, and institutions would belong to this second
+group.
+
+What is true of the comparative study of languages is true in
+every other field in which a comparative study of cultural materials
+has been made. As soon as these materials are studied from the
+point of view of their similarities rather than from the point of view
+of their historical connections, problems arise which can only be
+explained by the more abstract sciences of psychology or sociology.
+Freeman begins his lectures on Comparative Politics with the state-
+ment that
+the comparative method of study has been the greatest intellectual achievement
+of our time. It has carried light and order into whole branches of human
+knowledge which before were shrouded in darkness and confusion. It has
+brought a line of argument which reaches moral certainty into a region which
+before was given over to random guess-work. Into matters which are for the
+most part incapable of strictly external proof it has brought a form of strictly
+internal proof which is more convincing, more unerring.
+
+Wherever the historian supplements external by internal proof,
+he is in a way to substitute a sociological explanation for historical
+interpretation. It is the very essence of the sociological method to
+be comparative. When, therefore, Freeman uses, in speaking of
+comparative politics, the following language he is speaking in
+sociological rather than historical terms:
+
+For the purposes then of the study of Comparative Politics, a political
+constitution is a specimen to be studied, classified, and labelled, as a building
+or an animal is studied, classified, and labelled by those to whom building or
+animals are objects of study. We have to note the likenesses, striking and
+unexpected as those likenesses often are, between the political constitutions
+of remote times and places; and we have, as far as we can, to classify our
+specimens according to the probable causes of those likenesses.”
+
+Historically sociology has had its origin in history. It owes its
+existence as a science to the attempt to apply exact methods to the
+
+1 Hanns Oertel, ‘Some Present Problems and Tendencies in Comparative Phi-
+lology,” Congress of Arts and Sciences, Universal Exposition, St. Louis, 1904 (Boston,
+1906), IIT, 59.
+
+2 Edward A. Freeman, Comparative Politics with the Unity of History (London,
+1873), p. 23.
+explanation of historical facts. In the attempt to achieve this,
+however, it has become something quite different from history. It
+has become like psychology with which it is most intimately related,
+a natural and relatively abstract science, and auxiliary to the
+study of history, but not a substitute for it. The whole matter may
+be summed up in this general statement: history interprets,
+natural science explains. It is upon the interpretation of the facts
+of experience that we formulate our creeds and found our faiths.
+Our explanations of phenomena, on the other hand, are the basis
+for technique and practical devices for controlling nature and human
+nature, man and the physical world.

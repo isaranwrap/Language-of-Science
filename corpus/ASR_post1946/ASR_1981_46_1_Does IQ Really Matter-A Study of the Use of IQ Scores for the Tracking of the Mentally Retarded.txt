@@ -1,0 +1,1270 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+Late in 1975, suit was filed in federal court
+charging that the means by which the
+Chicago school system placed children in
+classes for the mentally retarded were in-
+herently discriminatory. Represented by
+the Legal Assistance Foundation of
+Chicago, a group of parents with children
+assigned to classes for the mentally re-
+tarded (Parents in Action on Special Edu-
+cation [P.A.S.E.]) claimed that the school
+system was using IQ tests as the primary
+selection device and that such tests were
+culturally biased against minority stu-
+dents. School officials responded in part
+that, while IQ tests were indeed used to
+screen for retarded children needing spe-
+cial handling, a wide variety of other in-
+formation was also employed: achieve-
+ment tests, evidence of physical handi-
+caps, psychological adjustment, family
+background, and a host of additional at-
+tributes. Moreover, IQ scores were never
+used as the principal screening device.
+Rather, thé ‘‘whole child’’ was considered
+(P.A.S.E., et al., vs. Hannon, et al., U. S.
+District Court, Northern District of II-
+linois, Eastern Division, 1980, No. 74 C
+3586).
+
+It is hardly news to sociologists that
+people-processing institutions function
+through some complicated amalgam of
+formal and informal procedures (e.g.,
+Cicourel, 1968; Cicourel and Kitsuse,
+1963; Scheff, 1967; Zimmerman, 1969a,
+1971) and that the ‘‘official statistics’’ of
+such institutions figure prominently in the
+ways individuals are characterized and
+sorted (e.g., Sudnow, 1965; Wheeler,
+1969; Zimmerman, 1969b). Nor should
+there be any surprise that test scores and
+other official statistics of school systems
+are important in determining how students
+are tracked. However, with the exception
+of Jane Mercer’s (1973) important and
+controversial work, very little is known
+about the particular role of IQ tests in
+identifying ‘‘retarded’’ children.
+
+There is, of course, a much larger con-
+troversy about the general validity of IQ
+' In the eyes of some, the answer to this question
+may appear to be substantively trivial. A federal
+statute, Public Law 94-142, speaks to the education
+of the handicapped and, in particular, to the kinds of
+screening devices that are now required. However,
+there are at least two reasons why that legislation is
+essentially irrelevant. First, Public Law 94-142, at
+best, specifies a broad set of processural steps by
+which placement should occur, but it does not re-
+quire the use of IQ tests or any particular screening
+vehicle. For example, whatever the bureaucratic
+mechanisms by which children are placed in classes
+for the mentally retarded, they are not to be racially
+or culturally discriminatory. More important for our
+purposes here, the legislation requires that no single
+procedure be the sole criterion for determining the
+appropriate educational program for a child. In
+short, the legislation makes precisely the same issues
+problematic that we address. Second, our data span
+the period between January 1973 and December of
+1976. Public Law 94-142 was enacted on November
+29, 1975, and the sections relevant to EMH classes
+were, according to attorneys currently litigating the
+issues (Wallace Winter of Legal Assistance Founda-
+tion of Chicago and Jerrold Oppenheim of Commu-
+nity Action Legal Services, Inc., New York), not
+enacted until September of 1977. Consequently, at
+the very worst, the legislation is relevant for only the
+final year of our data. In any case, the results we will
+report later consistently hold up when the data are
+analyzed separately year by year. Finally, it may be
+worth noting in passing that, if the issues surround-
+ing the use of IQ scores for placing school children in
+classes for the mentally retarded were settled by
+legislation, two recent, lengthy, expensive, and con-
+troversial trials would have been unnecessary (Larry
+P. vs. Riles in California (1979) and P.A.S.E. et al.,
+vs. Hannon et al. (1980), in Illinois).
+with the use of IQ scores and a prevailing
+rhetoric which states that the ‘‘whole
+child’’ should be considered, IQ scores,
+per se, may have little influence on which
+students are directed to classes for the
+educably mentally handicapped (EMH).
+Moreover, there certainly is no dearth of
+alternative indicators measuring
+‘‘achievement,”’ or a shortage of qualita-
+tive assessments from teachers, parents,
+and guidance counselors. Finally, to the
+extent that IQ tests covary substantially
+with these alternative tracking vehicles,
+little unique variance may exist in any
+case. On the other hand, IQ scores may
+retain a certain validity in the minds of
+school officials (and parents), may build
+on organizational practices dating back
+many years, and may reinforce school
+practices that clearly single out certain
+students as being special and, therefore, in
+need of isolation from the mainstream.
+Furthermore, if retarded children are
+viewed. as particularly troublesome, IQ
+tests perhaps can be used to rationalize
+thorough tracking that might be difficult to
+justify solely on the basis of poor reading
+or poor mathematical skills. That is, if IQ
+scores are indicators of fundamental and
+stable mental deficiency, retarded stu-
+dents may be ‘‘properly”’ segregated from
+their peers. In short, IQ scores cannot
+help but play a significant role in the
+placement process.
+
+We address the importance of IQ tests
+in the processes by which Chicago
+elementary students are placed in classes
+for the mentally retarded. The analysis
+proceeds in two steps: first, examination
+of factors that determine the placement
+recommendation made by school psy-
+chologists who have the primary respon-
+sibility for assessing the merits of each
+student’s case; second, examination of
+factors affecting the actual placement.
+While the focus on the Chicago school
+system may seem to jeopardize the gener-
+alizability of our analysis, there is, how-
+ever, no reason to believe that the
+Chicago experience is unique. Indeed,
+similar concerns were recently litigated in
+California, and the presiding judge issued
+a permanent injunction prohibiting the use
+of IQ tests in that state’s evaluation of
+children for EMH placements (Larry P. et
+Our data were collected at the request of
+the plaintiffs in P.A.S.E. vs. Hannon et al.
+They are based on a systematic random
+sample of all children directed to school
+counseling personnel for educational
+testing and/or evaluation between 1973-
+1976.2 The relevant referral practice,
+known in the school district as ‘‘blue-
+slipping,’’ usually originates from the ac-
+tions of a teacher; on occasion, though,
+other persons also make referrals. After
+each evaluation (which, by the way, does
+not even always entail a personal inter-
+view between the school psychologist and
+the subject), a child study record is filled
+out, keypunched, and transferred onto
+machine-readable magnetic tapes.
+
+A separate set of records, the student
+membership file, is maintained on all stu-
+dents by the school system. This database
+comprises all classroom assignments for
+an individual during his/her tenure in this
+school system and is gathered by another
+department within the school bureau-
+cracy. As far as we can tell, no coordina-
+tion exists between these two data-
+collection efforts. From this student
+membership file, records were searched
+and matched with those in the child study
+file, generating what we call the ‘‘merged
+file.”’
+
+The child study file included 6,292 cases
+and was used for analysis of placement
+recommendation (e.g., a referral by the
+psychologist to an EMH class). The
+merged file had an N of 5,514 and was
+used for the analysis of actual placement.
+The difference in sample sizes is attrib-
+uted to the fact that not all observations in
+the child-study file matched correspond-
+ing records in the student-membership
+file, and vice versa. The school district,
+having delegated different record-keeping
+functions to separate departments, appar-
+ently failed to impose any rigorous stan-
+dards of quality control. In any case, there
+is no reason to suspect that cases were not
+lost at random; nor did comparisons of
+means and variances between the ‘‘full’’
+sample and the subset do anything to
+undermine this belief.
+
+In both the child-study and merged files
+a few individuals appear more than once.
+This is because some children were blue-
+slipped on multiple occasions, thereby
+necessitating the completion of a second,
+third, or fourth record. Duplicate obser-
+vations on the same child are included
+here because new or updated information
+is typically involved. That is, additional
+tests and other diagnostic procedures may
+have been undertaken, and changes in
+placement recommendations may have
+occurred. Only those student-membership
+records (i.e., classroom assignments) sub-
+sequent to a child-study record were used
+for matching in the merged file. For those
+with multiple child-study records, each
+extra entry constitutes an observation in
+the merged file. In other words, the basic
+unit of analysis for placement recom-
+mendation is the child study record,
+allowing for multiple observations on the
+same person. The unit of analysis for ac-
+tual placement is the merged file, again
+permitting duplications.
+
+Practically all of the variables used in
+our analysis were drawn from the child-
+study record. As noted earlier, these rec-
+VOUT LTA INADLE MCT ANU Ao)
+PHS (PHYSICALLY HANDICAPPED SENSORY)
+OTHSP (OTHER SPECIAL EDUCATION)
+
+   
+ 
+  
+  
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+MENTAL RETARDATION
+
+WHITE
+BLACK
+HISPANIC
+OTHER
+
+MALE
+FEMALE
+
+POVERTY
+WELFARE
+CROWDED HOME
+
+ 
+
+EMH PLACEMENT EMH
+RECOMMENDATION PLACEMENT
+
+SEIZURES/CONVULSIONS/
+EPILEPSY
+NEUROLOGICAL DISORDER
+
+PARENT OR SIBLING
+MENTALLY HANDICAPPED
+PARENT OR SIBLING
+CRIMINAL /DELINQUENT
+MENTAL ILLNESS IN FAMILY
+INADEQUATE PARENT
+FOREIGN LANGUAGE ENVIRONMENT
+BROKEN HOME
+FOSTER/BOARDING HOME
+
+1Q
+POOR ACHIEVEMENT
+TESTS INDEX
+
+SOCIAL MISFIT
+INDEX
+of the model. This will not be done for two
+reasons. First, the model has substantial
+face validity and most of the exogenous
+variables have figured significantly in the
+research of others. Thus, there seems no
+reason to justify the use of prior place-
+ment as a predictor of placement recom-
+mendation, and factors such as race, gen-
+der, and socioeconomic status are
+routinely included in these kinds of mod-
+els. Second, the critical question here is
+whether or not IQ scores, per se, are im-
+portant. We are including somewhat less
+common causal variables (e.g., ‘‘mental
+factors’? and ‘‘social disorganization
+characteristics’’) in order to ‘‘stack the
+deck’’ as much as possible against finding
+an important role for IQ scores, given that
+they are under such intense fire. In other
+words, if IQ does prove to be important,
+we want to allow. for the possibility that
+any officially recorded characteristic of
+school children be taken into account if it
+might make spurious the causal role of IQ.
+
+All of the exogenous variables, with
+three exceptions, are binary variables,
+coded either as a 1 or 0. The three ex-
+ceptions are IQ, a Low Achievement
+Index, and a Social Misfit Index. The Low
+Achievement Index was ultimately
+created by summing three dummy vari-
+ables on achievement test scores for
+reading, spelling, and arithmetic. Since
+the zero-order correlations between the
+original three standardized academic tests
+were quite high (r = .83 between reading
+and spelling, r = .71 between reading and
+arithmetic, and r = .68 between spelling
+and arithmetic), there was the prospect of
+serious multicollinearity had they been
+treated as distinct exogenous variables.
+For each skill, a dummy variable was first
+generated by assigning a value of 1 to
+those who scored two or more grades
+below their expected level of learning. We
+proceeded in this manner because of im-
+pressionistic information from interviews
+with school personnel which led us to be-
+lieve that this was how achievement tests
+were interpreted. The three binary vari-
+ables were then simply summed, yielding
+a score between 0 and 3.3
+
+The Social Misfit Index was con-
+structed by summing six binary behavioral
+factors and two binary reasons for re-
+ferral.4 The scores on this index could
+range from 0 to 6, although 5 was the
+highest any child received. IQ was, of
+course, an interval variable. It ranged
+from 6 to 157 in our sample. Slightly less
+than 5% of the sample scored lower than
+three standard deviations below the na-
+tional mean, and only 2.5% scored higher
+than one standard deviation above the na-
+tional mean.
+
+Upon completing an evaluation, the
+psychologist typically makes a recom-
+mendation for education placement. In
+this instance, the vast majority were for
+EMH (31.3%) or for regular classes
+(38.4%). Learning disability programs
+(LDP) received the third largest number of
+recommendations (20.2%) with the remain-
+der distributed among the trainable men-
+tally handicapped (TMH), with 2.92%, and
+miscellaneous other special education
+programs (7.39%). Because we are
+primarily interested in how students are
+referred to EMH and whether they actu-
+ally end up there, comparisons will be
+made only between EMH- and regular-
+placement recommendations. While this
+strategy decreases the sample size, it
+permits a much more incisive analysis. If
+the dependent variable were EMH vs.
+non-EMH recommendation, the null cate-
+gory would include several rather dif-
+ferent outcomes, perhaps responding
+quite differently to exogenous factors.
+Moreover, while it is certainly fair to in-
+quire about the relationships between
+EMH and TMH or between EMH and
+LDP, such queries may be deferred. In
+short, we are focusing on the two recom-
+mendations that account for over two-
+thirds of the total and around which most
+controversy has revolved. (See Shih, 1980
+for the other comparisons.)
+
+The decision to compare only EMH
+with regular classes in placement recom-
+mendation was also made in the analysis
+of actual assignments. In this instance,
+only about 13% of the sample cases were
+lost. Almost two-thirds (64%) of the as-
+signments after a child’s first evaluation
+were to regular classes, and 23.05% were
+to EMH classes.
+
+As implied above, actual assignments
+did not fully correspond to placement rec-
+ommendations (23% vs. 31.3% for EMH
+and 64% vs. 38.4% for regular classes,
+respectively). The disparities point to the
+existence of an intervening process be-
+tween the psychologist’s recommendation
+and the actual delivery of the child to the
+prescribed setting. A number of factors
+come into play at this point. One is that
+the child’s case often is subjected to a
+‘‘multidisciplinary staffing’’ that involves
+social workers, teachers, and other spe-
+cialists. in addition to the examining psy-
+chologists. In theory, this body has the
+power to overrule the psychologist’s rec-
+ommendation and alter the disposition of
+the case. Furthermore, even in the major-
+ity of those cases where the decision of
+the psychologist is upheld, a lag often oc-
+curs if there is a scarcity of space in the
+special education program.
+
+Substantively, this procedural delay
+poses a second opportunity to examine
+the relative weight of IQ and other factors.
+One speculation is that this lag offers an
+occasion for routinized testing procedures
+to be ‘‘humanized’’ through a considera-
+tion of mitigating circumstances. Alterna-
+tively, the delay may provide a chance for
+IQ to further affect the disposition of the
+case.
+
+To summarize, our proposed model of
+the relationships between IQ and EMH
+recommendation and placement is illus-
+trated in Figure 1. The left column con-
+sists of the dummy exogenous variables
+plus three indicators of cognitive and be-
+havioral status of the child at time of
+evaluation. They are followed by place-
+ment recommendation (center column)
+and actual placement (right column).
+
+At first, Figure 1 suggests that we have
+a two-equation recursive model for which
+ordinary least squares would be the ap-
+propriate statistical technique. However,
+given our binary endogenous variables,
+the application of the linear probability
+model risks inefficient estimates of the re-
+gression coefficients and inconsistent
+standard errors (and, hence, significant
+tests) as a result of the heteroskedasticity
+that necessarily follows (Pindyck and
+Rubinfeld, 1977:238—40). One solution is
+to apply generalized least squares, which
+in this instance is made very attractive
+because estimates of the residual vari-
+ances are easily obtained (Pindyck and
+Rubinfeld, 1977:241-2). As a matter of
+fact, we initially proceeded in this fashion.
+
+Unfortunately, three complications
+counsel against using the generalized
+least-squares technique. First, because
+the implied substantive processes are
+rather similar, there is good reason to sus-
+pect that the residuals in the two
+equations are correlated. Consequently,
+the OLS and GLS estimates for the
+placement equation are likely to be biased
+and inconsistent (Hanushek and Jackson,
+1977:231). Luckily, a relatively easy solu-
+tion exists through instrumental variable
+procedures in which the predicted values
+for the probability of EMH recom-
+mendations are used as a substitute for the
+observed dummy variable in the second
+equation (Hanushek and Jackson,
+1977:234-6). While instrumental variable
+procedures are justifiable only in asymp-
+totic terms (i.e., for large samples), our
+sample sizes are certainly adequate by
+conventional standards.
+
+Second, there are strong theoretical
+reasons for being uneasy with the implied
+linear relationships between the exoge-
+nous and endogenous variables in Figure 1.
+For example, it is unlikely that the dif-
+ference between an IQ of 100 and an IQ of
+110 will have any effect on the probability
+of an EMH recommendation or assign-
+ment to such classes (i.e., these are
+clearly ‘‘normal’’ IQ scores). Similarly,
+the differences between IQ’ scores of 40
+and 50 will have little or no impact (i.e,
+these. are clearly ‘‘retarded’’ IQ scores).
+In contrast, difference in IQ scores be-
+tween 75 and 85 should have a relatively
+large influence because it is within this
+range, especially, that the outcome is
+problematic. In other words, the marginal
+influence of variations in IQ scores should
+be larger in the middle ranges than at
+either extreme. This argues for what is
+essentially a ‘‘tipping’’ effect that applies
+also in the aggregate for most of the binary
+exogenous variables, where changes in
+the probabilities in the middle ranges
+should have the largest effects on both
+EMH recommendation and EMH assign-
+ment. Such phenomena suggest fitting to
+the data some ‘‘S-shaped’’ function,
+rather than a linear form, and at least two
+popular options exist: the cumulative
+normal and the logistic distribution. The
+former leads to probit analysis while the
+latter leads to logit procedures. In prac-
+tice, there is little advantage of one over
+the other although the logit approach is
+better justified by theoretical models of
+choice (McFadden, 1974; Nerlove and
+Press, 1973). It also has the extra virtue of
+producing coefficients that some persons
+find easier to interpret (Hanushek and
+Jackson, 1977:205-7).
+
+Finally, about 10% of our sample re-
+flects observations on the same child.
+These cases are probably not independent
+of one another, thereby raising the issue of
+cross-sectional serial correlation within
+equations. In the least-square context,
+such nonindependence produces ineffi-
+cient estimates of the regression coeffi-
+cients and inconsistent standard errors
+(Kmenta, 1971:273-82). Maximum-
+likelihood logit procedures are smilarly
+affected. Unfortunately, there is no easy
+solution to this problem. While it is possi-
+ble to adjust for the cross-sectional serial
+correlations by introducing a dummy vari-
+able for each child appearing more than
+once in the sample, the loss in degrees of
+freedom is too large and represents
+genuine overkill if the correlations are
+modest. Such considerations also argue
+against the deletion of all multiple obser-
+vations on the same individual, which
+would (in addition) risk sample selection
+bias (Heckman, 1979).
+
+What then are the implications of these
+problems for our analysis? The problem of
+correlated residuals across equations will
+be handled through instrumental variable
+procedures. The problem of fitting an
+‘*S-shaped’’ function form will be ad-
+dressed with logit procedures employing
+maximum-likelihood techniques
+(Hanushek and Jackson, 1977:200-3).°
+The complications produced by cross-
+sectional residual correlations within
+equations will not be directly addressed,
+despite the fact that such correlations are
+formally in violation of maximum-
+likelihood assumptions. We did, however,
+estimate our models with the full sample
+and with the subset in which duplicate
+observations were deleted, and the results
+were Virtually identical.
+
+As an introduction to our analysis, it
+may be helpful to describe briefly some
+basic characteristics of our sample. About
+60% of child-study records are for black
+children; a little more than 30% for whites;
+slightly less than 8% for Hispanics; with
+the balance distributed among various
+other minority groups. Two-thirds of
+those blue-slipped are male. The mean age
+is 10.8 years, and the median age is 11.
+Excluding those who were already in spe-
+cial education, the grade levels range from
+nursery school to ninth grade. The mean
+IQ score is 81.22.
+
+The majority of our sample were al-
+ready attending school. About seven out
+of ten were enrolled in regular classes at
+the time of referral. One out of six was
+already in programs for the EMH. The
+balance was distributed in various types of
+special education classes or not regis-
+tered. Consequently, our analysis is not
+only of those perceived to be in need of
+educational evaluation and counseling in
+the normal classrooms but also includes
+children who were already in special edu-
+cation and were referred again for further
+testing and/or evaluation.
+
+In sum, our subjects are predominantly
+children in the middle stages of their pri-
+mary education, with average IQ scores of
+more than one standard deviation below
+the mean of their peers across the coun-
+try. The majority were participants in the
+regular curriculum at the time of blue-
+slipping. All were subjected to educational
+evaluation and/or testing.
+
+Given the large number of variables that
+will figure significantly in the analyses to
+follow, there exists a wide array of ad-
+ditional descriptive material that could, in
+principle, be discussed. We will focus
+here on several bivariate relationships that
+may prove to be of particular interest.
+(See Shih, 1980, for a further considera-
+tion). Table 1 shows the mean and stan-
+dard deviation of IQ for whites, blacks,
+Hispanics, boys, and girls. Perhaps the
+most important conclusion is that, con-
+sistent with past research, blacks score
+about 12 points lower than whites on their
+IQ tests despite the fact that our sample is
+far more homogenous than the usual ran-
+dom sample of school children.® That is,
+the process of blue-slipping selects a sub-
+set of children from the school population
+that presumably has been experiencing
+some relatively common set of classroom
+difficulties. In any case, the IQ disparity
+implies that, should IQ tests prove to be
+an important placement variable (perhaps
+via placement recommendation), blacks
+will more likely be found in classes for the
+mentally retarded, all other things being
+equal. Moreover, because the mean for
+blacks in what approximates a normal
+distribution falls near the point at which
+placement in classes for the mentally re-
+tarded becomes a genuine issue, a rela-
+tively large ‘‘overrepresentation’’ of
+blacks could well result; we are not at one
+of the distribution’s tails. Hispanics score
+Initially, we hoped to estimate our two-
+equation nonrecursive model with the full
+set of variables listed on Figure 1. How-
+ever, this strategy was abandoned when it
+became apparent that the maximum-
+likelihood logit procedure we used (PRE-
+DICT in SAS79 by Barr et al., 1979) was
+extremely sensitive to exogenous vari-
+ables having little variance. Many itera-
+tions were required prior to convergence,
+and some of the resulting coefficients and
+their standard errors were highly im-
+plausible. Consequently, all exogenous
+dummy variables with splits worse than
+.95 to .05 were discarded. We assumed
+that nothing of interest would be lost since
+significant t-values for such variables are
+difficult to achieve. Nonetheless, to
+further justify our decision we ran OLS
+and GLS procedures with the full set of
+predictors. Not only were the results
+similar for the two procedures but also
+none of the variables discarded in the logit
+model came close to statistical
+significance. Perhaps most importantly,
+the overall substantive story from the
+least-squares approaches was virtually a
+replication of the logit findings. We sus-
+pect this comparability across techniques
+results, in part, from the relatively large
+sample size, along with the substantial ex-
+planatory power of a few exogenous vari-
+ables.
+
+Table 2 shows the results for the
+equations in which placement recom-
+mendation of the counseling personnel is
+examined. Relying on the conventional
+-05 level (for a two-tailed test), it is appar-
+ent that five exogenous variables have
+Statistically significant effects. The
+chances of a child receiving EMH-
+placement recommendation are increased
+if he/she performs poorly on the achieve-
+ment tests or if the classroom teacher cites
+retardation as the reason for referral. On
+the other hand, the chances of an EMH
+recommendation are reduced if a child
+scores high on the Social Misfit Index, if
+he/she was originally placed in a regular
+class, or if he/she has a high IQ score.
+Perhaps the only real surprise in our re-
+sults is the indication that EMH classes
+probably do not serve as a dumping
+ground for behaviorally disruptive chil-
+dren as Milofsky (1976) and others have
+claimed.®
+
+In order to evaluate the size of the
+statistically significant effects, one could
+employ the logit coefficients in the first
+column in Table 2. These coefficients re-
+flect the change in a particular exogenous
+variable. Because the log of odds is hardly
+an everyday metric, the logit coefficients
+were transformed into the metric of prob-
+abilities. While this was done easily
+(Hanushek and Jackson, 1977:189), there
+is an unfortunate complication. The mar-
+ginal impact of any given exogenous vari-
+able depends on the predicted probability
+of EMH recommendation and, therefore,
+on the values of each of the other exoge-
+nous variables for a particular child. (The
+marginal impact of each regressor varies.
+The smallest effects are associated with
+either high or low probabilities of EMH
+recommendation. Its largest effects are
+associated with probabilities around .50.)
+The usual solution is to report the margi-
+nal effects for some reasonable proba-
+bility. For current discussion, the margi-
+nal effects reported are for the EMH-
+recommendation probability of .50. In
+sum, we are reporting the impact of each
+regressor at what was referred to earlier as
+the tipping point. While such effects are
+the largest possible, the relative influence
+of each exogenous variable remains the
+same regardless of probability level.?
+
+In the right column, for each unit in-
+crease in the Social Misfit Index (which
+ranges from 0 to 8) the probability of an
+EMH recommendation decreases by .03.
+Because a child’s score rarely varies by
+more than three units in this scale, the
+likely impact is usually less than .09.1°
+Each unit increase in the Low Achieve-
+ment Index increases the chances of an
+EMH recommendation by .03. Because
+the index ranges from 0 to 3, the maximum
+effect is 9%. Children who are already
+placed in regular classes at the time of
+‘‘blue-slipping’’ have a .19 smaller proba-
+bility of being recipients of EMH recom-
+mendations. Students referred because of
+alleged retardation have a .15 greater
+probability of EMH recommendation.
+Last—and certainly not least—with each
+point increase in a child’s IQ score, his or
+her chances of receiving an EMH recom-
+mendation drop by .06. Clearly, a few IQ
+points can make a critical difference in the
+type of placement recommendation a child
+receives.
+
+What are the overall conclusions from
+Table 2?
+
+First, it is readily apparent that—
+holding constant a range of competing
+factors such as achievement test scores,
+behavioral problems, and race—IQ has an
+enormous effect on EMH-placement rec-
+ommendations. In the minds of school
+psychologists, at least, IQ scores do mat-
+ter, and this, in turn, raises two important
+issues. To begin with, a difference of only
+five IQ points, for example, apparently
+alters the probability of an EMH recom-
+mendation by well over .30 at or near the
+50/50 tipping point (keeping in mind the
+‘*S-shaped”’ functional form). For any in-
+dividual child, a five-point variation can
+easily result from a host of arbitrary fac-
+tors: mood, fatigue, scoring errors, and
+the like. Thus, the recommendation for
+EMH placement is likely to assume a ca-
+pricious quality that nevertheless has
+enormous implications for a student’s
+later educational experience. In addition,
+for our sample, the IQ scores for blacks
+are, on the average, twelve points lower
+than those for whites. Consequently,
+blacks will, on the average, face a greater
+likelihood of EMH placement. Keeping
+in mind that IQ distributions are concen-
+trated in their middle ranges, the overrep-
+resentation of blacks will be substantial.
+
+Second, the inertia of tracking is nontriv-
+ial, Students coming from regular classes
+have a reduced chance (about 19%) of
+receiving EMH recommendation. If EMH
+classes are beneficial, students from reg-
+ular classes may well be penalized. On the
+other hand, if EMH classes are beneficial,
+students from regular classes may well be
+penalized. On the other hand, if EMH
+classes are damaging, then students from
+EMH classes continue to suffer.
+
+Third, if the classroom teacher refers a
+student with the tentative label of ‘‘re-
+tarded,’’ the chances of EMH recom-
+mendation are markedly increased. What
+is perhaps most significant about this fact
+is that it is, of course, impossible to de-
+termine on what basis the teacher makes
+the ‘‘diagnosis.’’ One might, therefore, be
+justifiably concerned about the validity of
+the diagnosis.!!
+
+Fourth, no evidence has been found
+that, once a variety of factors has been
+held constant, a counselor’s recom-
+mendation for EMH is motivated by any
+desire to ‘‘dump’’ behaviorally problem-
+atic children into EMH classes. Indeed, the
+effect is precisely the reverse: children
+with behavioral problems have a some-
+what smaller probability of being recom-
+'2 For both of the models reported in Table 2 and
+Table 3, we explored the possibility of a large
+number of interaction effects with respect to the
+impact of IQ. For example, we considered the possi-
+bility that IQ had a larger effect for blacks or His-
+panics or boys. However, these efforts floundered
+on difficulties with multicollinearity so that, in effect,
+large standard errors and unstable estimates proved
+to be unsurmountable hurdles. In other words, we
+were unable to find any meaningful interaction ef-
+fects over and above the main effects. We also ex-
+amined (within OLS and GLS frameworks) the im-
+pact of IQ formulated, alternatively, as a spline
+function and in terms of a small set of dummy vari-
+ables. The goal was to assess the validity of the
+logistic functional form. We found nothing in these
+efforts to suggest that the logit formulation was inap-
+propriate or that some other functional relationship
+was better. Moreover, employing either the spline or
+dummy variable form cost several degrees of free-
+dom and increased markedly the multicollinearity.
+
+13 The two-step procedure we used in our instru-
+mental variable strategy necessarily produced biased
+standard errors. In essence, the estimate of the re-
+sidual standard deviation is derived in part from the
+instrumental variable rather than the actual en-
+dogenous regressor. When proper adjustments are
+made (Hanushek and Jackson, 1977:268-9), all t-
+values reported in Table 2 are multiplied by a factor
+of about two. However, this leaves the substantive
+story unchanged (no null findings become statisti-
+cally significant).
+ment for placement recommendation
+rather than the binary EMH-
+recommendation variable. Perhaps the
+most important initial question is whether
+any of our exogenous variables continues
+to have any direct influence after place-
+ment recommendation is taken into ac-
+count.
+
+Relying on the predicted probability of
+.50 to locate marginal influences, a rec-
+ommendation for placement into EMH in-
+creases the probability of such class as-
+signment by .63.'4 While this is a large
+effect and statistically significant, there is
+obviously sufficient room for other vari-
+ables to influence actual placement. As a
+matter of fact, six other variables have
+effects greater than by chance.
+
+Students who were in regular classes
+have a dramatically smaller probability
+(.62 smaller) of being assigned to EMH
+(see fn. 7). Boys have a .07 greater likeli-
+hood. For each unit increment in the Low
+Achievement Index, the prospect of EMH
+placement increases by .04. Each unit in-
+crease in the Social Misfit Index reduces
+the probability of EMH placement by .04.
+A referral for retardation increases the
+probability of an EMH placement by .11,
+and, finally, each additional IQ point re-
+sults in a .01 reduction in that probability.
+_ A number of important implications can
+be drawn from these findings. Most obvi-
+ously, the effect of tracking is under-
+scored. Indeed, the very large effect of the
+counselor’s recommendation for place-
+ment into EMH is approximately can-
+celled out by the very large effect of being
+a member of the regular class. When one
+recalls that an original placement in reg-
+ular classes also reduces the prospects of
+an EMH recommendation by .19, the net
+(reduced form) effect is to reduce the
+probability of an EMH placement by
+about .70. While these types of large,
+linear extrapolations yield overestimates
+in the context of the logistic curve, there
+can be little question that movement into
+and out of regular classes is often difficult.
+We cannot find any evidence that shows
+EMH classes to be ‘‘dumping grounds”’
+for children with behavioral problems.
+Also, both achievement tests and IQ tests
+make minor differences in actual place-
+ment over and above their prior effects on
+placement recommendation. Compared to
+the impact on recommendation, the effect
+of IQ is trimmed by a factor of ten, while
+the effect of low achievement-test scores
+remains about the same. In the context of
+the importance of coming from regular
+classes and the recommendation received,
+IQ has a relatively small role in explaining
+actual assignment to EMH classes.
+
+On the other hand, the effect of the
+classroom teacher’s initial ‘‘diagnosis”’
+remains salient even after the counselor’s
+recommendation is considered. This sug-
+gests that school administrators check
+back with the classroom teacher after the
+student’s session with the psychologist,
+and, at that point, the teacher can provide
+additional input to the ultimate placement
+decision. Indeed, the total effect (i.e., the
+reduced-form effect) of the teacher’s as-
+sessment approaches .20.
+
+Finally, there is no indication of
+discrimination—either direct or
+reverse—against blacks or Hispanics. On
+the other hand, boys are a bit more likely
+to be placed in EMH classes, ceteris
+paribus, so that who one is still seems to
+matter. Perhaps behavioral factors not
+tapped by our Social Misfit Index are the
+We have found that IQ level and the cur-
+riculum at time of blue-slipping are the
+most powerful causes of recommendation
+for placement into EMH classes.
+Moreover, the latter has a large additional
+influence when it comes to actual class
+assignment, even though the psycholo-
+gist’s recommendations have been
+provided to the school administrators.
+
+These findings have very clear implica-
+tions for the issues posed in our introduc-
+tion. Far from being solely a matter of
+academic interest and debate, IQ scores
+cast a long shadow on students’ educa-
+tional and vocational careers. The effect is
+particularly consequential for black
+youngsters whose overrepresentation in
+EMH programs may be significantly at-
+tributed to their lower IQ scores. Fur-
+thermore, it is important to recall that
+performance on achievement tests has al-
+ready been taken into account.
+
+Unfortunately, we have little data to
+help us understand why IQ scores figure
+so significantly in EMH recommendations
+and placements. Nevertheless, two dis-
+tinct possibilities come to mind.
+
+First, school officials may really believe
+that IQ tests are accurate measures of in-
+nate intelligence or, at least, that they are
+the best diagnostic tool currently avail-
+able. Depositions taken during the lawsuit
+against the Chicago Board of Education
+(P.A.S.E., et al., vs. Joseph P. Hannon, et
+al.) suggest some support for the latter.
+That is, some children are retarded and in
+need of special classes. In other words,
+school officials, perhaps pressed by in-
+creasing demands for their accountability,
+have seized upon the IQ test as the best
+diagnostic tool available (in their view),
+despite its flaws.
+
+Second, students, parents, and school
+officials are certainly aware that EMH
+placement marks a critical choice point in
+any student’s career; EMH placement is
+not something to be taken lightly.'5 Given
+the importance of the EMH placement,
+achievement tests, which do not neces-
+sarily identify something that is funda-
+mentally wrong with the child, may be an
+insufficiently compelling indicator. That
+is, because EMH classes are presumably
+for children who are innately disadvan-
+taged, one needs a test which truly ad-
+dresses innate intellectual abilities.
+
+A student’s placement prior to blue-
+slipping is also critical. However, the rea-
+sons for this effect are unclear. Such
+placements introduce substantial inertia in
+both the recommendation and placement
+process, so that past placement decisions
+affect future placement decisions. If one
+has faith in the validity of past place-
+ments, then this may be healthy: a stu-
+dent’s track record serves to check the
+influence of small and/or transient varia-
+tion in school performance. If, however,
+one is skeptical about the validity of past
+placements, then the tracking process
+exacerbates earlier misjudgments. Should
+one be prepared to give school officials
+the benefit of the doubt, perhaps they sub-
+scribe to the former view.
+
+At the same time, it is important to keep
+in mind that the current controversies sur-
+rounding the use of IQ tests are a con-
+tinuation of an ongoing debate that has
+spanned this century (Cronbach, 1975).
+Thus, even though the issues have be-
+
+'S It is important to keep in mind that, unless, at the
+very start, students are placed outside EMH classes
+(which rarely occurs), they remain in EMH classes
+throughout their educational careers.
+come especially visible of late, in part due
+to Jensen’s work and the greater involve-
+ment of the federal government in the
+education of handicapped children, our
+findings may also reflect educational pol-
+icy from the past that has become
+routinized in the present practices of
+school officials. That is, as a vestige of
+earlier policies, IQ scores may figure sig-
+nificantly in the placement process.
+School systems, like most large bureau-
+cracies, are hardly known for their ability
+to respond rapidly to a changing environ-
+ment.
+
+Finally, our findings take on special im-
+portance in the context of the litigation
+surrounding P.A.S.E. et al. The results
+reported here were introduced by the
+plaintiffs in the course of trial and, in the
+summer of 1980, Judge John Grady ruled
+in favor of the defendants. The judge con-
+curred with our conclusion that the results
+of IQ tests dominated the recommenda-
+tion and placement process. However, in
+contrast to the Larry P. decision in
+California by Judge Robert Peckham,
+Judge Grady did not find compelling evi-
+dence that IQ tests were culturally biased.
+In other words, the salient role of IQ tests
+in the selection process was fully proper.
+Given these conflicting rulings and ongo-
+ing controversy about the role of IQ tests
+in American schools, it is clear that far
+more litigation lies ahead.
+Cicourel, Aaron V., and Kitsuse, John I.
+
+1963 The Educational Decision Makers. New
+
+York: Bobbs-Merrill.
+Columbia Law Review
+
+1973 ‘‘Legal implications of the use of stan-
+dardized ability tests in employment and
+education.”’ 68:691-744.
+
+Cronbach, Lee J.
+
+1969 ‘‘Heredity, environment, and educational
+policy.’’ Harvard Educational Review
+39:338-347.
+
+1975 ‘*Five decades of controversy over mental
+testing."’ American Psychologist 30:1-14.
+
+Dorfman, D. D.
+
+1978 ‘The Cyril Burt question: new findings.”
+
+Science 201:1177-86.
+Edgerton, Robert B.
+
+1976 The Cloak of Competence. Berkeley: Uni-
+
+versity of California Press.
+Fehr, F. S.
+
+1969 ‘Critique of hereditarian accounts of ‘intel-
+ligence’ and contrary findings: a reply to
+Jensen.’’ Harvard Educational Review
+39:571-80.
+
+Gordon, Robert A., and Rudert, Eileen E.
+
+1979 **Bad news concerning IQ tests.’ Sociol-
+
+ogy of Education 52:174-90.
+Guterman, Stanley S.
+
+1979 ‘‘IQ tests in research on social stratifica-
+tion: the cross-class validity of the tests and
+measures of scholastic aptitude.’’ Sociol-
+ogy of Education 52:163-73.
+
+Hanushek, Eric A., and Jackson, John E.
+
+1977 Statistical Method .for Social Scientists.
+
+New York: Academic Press.
+Heckman, J.
+
+1978 ‘*Dummy endogenous variables in a simul-
+taneous equation system.’’ Econometrica
+47:931-1050.
+
+1979 ‘‘Sample selection bias as a specification
+error.’’ Econometrica 47:153-61.
+
+Herrnstein, R. J.
+
+1973 1.Q. in the Meritocracy. Boston: Little,
+
+Brown.
+Jensen, Arthur R.
+
+1969 **How much can we boost IQ and scholastic
+achievement?”’ Harvard Educational Re-
+view 39:1-123.
+
+Kamin, Leon J.
+
+1974 The Science and Politics of I.Q. Potomac,
+
+Maryland: Lawrence Erlbaum Associates.
+Kirp, David L.
+
+1973 ‘‘Schools as sorters: the constitutional and
+policy implications of student classifica-
+tion.”’ University of Pennsylvania Law Re-
+view 121:705-97.
+
+Kmenta, Jan
+
+1971 Elements of Econometrics. New York:
+Macmillan.
+
+MacMillan, Donald L., Jones, Reginald L., and
+Aloia, Gregory F.
+
+1974 “The mentally retarded label: a theoretical
+analysis and review of research.”’ American
+Journal of Mental Deficiency 79:241-61.
+
+Maddala, G. S.
+1977 Econometrics. New York: McGraw Hill.
+McFadden, D.
+
+1974 ‘Conditional logit analysis of qualitative
+choice behavior,’ in P. Zerembka (ed.),
+Frontiers in Econometrics. New York: Ac-
+ademic Press.
+
+Mercer, Jane R.
+
+1973 Labeling the Mentally Retarded. Berkeley:
+
+University of California Press.
+Milofsky, Carl
+
+1976 Special Education: A Sociological Study of
+
+California Programs. New York: Praeger.
+Nerlove, M., and Press, S. J.
+
+1973 Univariate and Multivariate Log-Linear
+and Logistics Models. Santa Monica: The
+Rand Corporation.
+
+Pindyck, Robert S., and Rubinfeld, Daniel L.
+
+1976 Econometric Methods and Economic Fore-
+
+casting. New York: McGraw-Hill.
+Ray, S., R. A. Berk and W. T. Bielby
+
+1980 ‘Correcting sample selection bias for
+bivariate logistic distributions: some
+theoretical results,” paper read at the 1980
+meetings of the American Statistical Asso-
+ciation.
+
+Scheff, Thomas J. (ed.)
+
+1967 Mental Illness and Social Processes. New
+
+York: Harper and Row.
+Shih, Anthony
+
+1980 ‘‘IQ and EMH: The Chicago experience.”
+Unpublished Ph.D. dissertation, Depart-
+ment of Sociology, University of California,
+Santa Barbara.
+
+Shockley, William
+
+1972 ‘*Dysgenics, geneticity, raceology: a chal-
+lenge to the intellectual responsibility of
+teachers.’”” Phi Delta Kappan 53:297-312.
+
+Sudnow, David
+
+1965 ‘‘Normal crimes: sociological features of
+the penal code in a Public Defender Of-
+fice."’ Social Problems 12:255-76.
+
+University of Michigan Law Review
+
+1973 **Segregation of poor and minority children
+into classes for the mentally retarded by the
+use of IQ tests.”’ 71:1212-50.
+
+Wheeler, Stanton (ed.)
+
+1969 On Record. New York: Russell Sage Foun-
+
+dation.
+Zimmerman, Don H.
+
+1969a ‘‘Tasks and troubles: the practical bases of
+work activities in a public assistance or-
+ganization,’ in D. A. Hansen (ed.), Explo-
+rations in Sociology and Counseling. Bos-
+ton: Houghton Mifflin.
+
+1969b ‘‘Record keeping and the intake process in
+a public welfare agency,”’ in S. Wheeler
+(ed.), On Record. New York: Russell Sage
+Foundation.
+
+1971 ‘‘The practicalities of rule use,” in J.
+Douglas (ed.), Understanding Everyday
+Life. London: Routledge and Kegan Paul.

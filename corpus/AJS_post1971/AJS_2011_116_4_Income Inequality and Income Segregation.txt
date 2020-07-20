@@ -1,0 +1,2438 @@
+Income Inequality and Income Segregation
+
+Author(s): Sean F. Reardon and Kendra Bischoff
+
+Source: American Journal of Sociology, Vol. 116, No. 4 (January 2011), pp. 1092-1153
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/657 114
+
+Accessed: 08-06-2016 04:51 UTC
+‘ An earlier version of this article was presented at the annual meeting of the American
+Sociological Association (Boston, August 2008) and the meeting of the International
+Sociological Association Research Committee on Social Stratification and Mobility
+(RC28; Stanford University, August 2008). We thank participants in the University of
+Chicago’s Sociology Workshop for helpful feedback. We thank Steve Graham and
+Yosef Bodovski for programming assistance. Research for this article was supported
+by the National Science Foundation (grant SES-0520400 to Reardon and a graduate
+research fellowship to Bischoff) and the William T. Grant Foundation (Reardon). Direct
+correspondence to Sean F. Reardon, School of Education, Stanford University, 520
+Galvez Mall, Stanford, California 94305. E-mail: sean.reardon@stanford.edu
+
+* See http://www.census.gov/hhes/www/income/data/historical/household/index.html,
+table H-4.
+and why income segregation has grown have been much less thoroughly
+investigated than they have been for income inequality. Common sense
+and empirical evidence suggest that these trends are linked—greater in-
+equality in incomes implies greater inequality in the housing and neigh-
+borhood “quality” that families or individuals can afford—but it is less
+clear in what specific ways income inequality affects income segregation.
+
+Income segregation—by which we mean the uneven geographic dis-
+tribution of income groups within a certain area—is a complex, multi-
+dimensional phenomenon.’ In particular, income segregation may be char-
+acterized by the spatial segregation of poverty (the extent to which the
+lowest-income households are isolated from middle- and upper-income
+households) and/or the spatial segregation of affluence (the extent to which
+the highest-income households are isolated from middle- and lower-
+income households). In addition, income segregation may occur at dif-
+ferent geographic scales. High- and low-income households may be spa-
+tially far from one another or may be in economically homogeneous
+neighborhoods that are spatially near one another (Reardon et al. 2008).
+And given the strong correlation between income and race in the United
+States, income segregation is often empirically entangled with racial seg-
+regation, implying the necessity of examining income segregation sepa-
+rately by race as well as for the population as a whole.
+
+Income segregation—and its causes and trends—is of interest to soci-
+ologists because it may lead to inequality in social outcomes. Income
+segregation implies, by definition, that lower-income households will live,
+on average, in neighborhoods with lower average incomes than higher-
+income households do. If the average income of one’s neighbors (and/or
+its correlates) indirectly affects one’s own social, economic, or physical
+outcomes (and a large range of sociological theories predict such contextual
+effects; see, e.g., Jencks and Mayer 1990; Sampson, Raudenbush, and
+Earls 1997; Leventhal and Brooks-Gunn 2000; Morenoff 2003; Sampson,
+Raudenbush, and Sharkey 2008), then income segregation will lead to
+more unequal outcomes between low- and high-income households than
+their differences in income alone would predict. In a highly segregated
+region, then, higher-income households may be advantaged relative to
+lower-income households not only by the difference in their own incomes
+but by the differences in their respective neighbors’ incomes.
+
+Given the potential consequences of income segregation on social, po-
+litical, and health-related outcomes, it is important to understand how it
+is produced. In this article, we seek to understand whether and how
+income inequality leads to income segregation. More specifically, we seek
+to understand if and how variation in income inequality—including var-
+iation in inequality among metropolitan areas, between racial groups, and
+over time—has shaped patterns of income segregation in the years 1970-
+2000. Despite the importance of understanding the connection between
+income inequality and income segregation, few studies have addressed
+these questions (for exceptions, see Mayer [2000] and Watson [2009]).
+Moreover, while these studies find that increasing income inequality leads
+to (or is at least correlated with) increasing income segregation, they do
+not investigate the ways in which income inequality is linked to income
+segregation in depth. As a result, these studies provide little or no infor-
+mation about income inequality’s effects on the segregation of poverty
+and/or affluence, about racial differences in income segregation, or about
+how income inequality affects the spatial scale of income segregation.
+
+The research presented here investigates these issues. First, we describe
+a set of trends in average metropolitan area income segregation from 1970
+to 2000, including overall trends, trends among white and black families
+separately, trends in the segregation of poverty and affluence, and trends
+in the geographic scale of segregation. We use a newly developed measure
+of rank-order income segregation that avoids the confounding of changes
+in the income distribution with changes in income segregation. Second,
+we estimate the effect of metropolitan area income inequality on overall
+metropolitan area income segregation during this time period. Third, we
+investigate in more detail how income inequality affects the geographic
+segregation of poverty and affluence, the extent to which it affects income
+segregation among white and black families differently, and the ways in
+which it affects the geographic scale of income segregation.
+and by 1970, this figure was below 8%, a 60% decline from its high in
+1928. In the 1970s and 1980s, income inequality began to rise again. By
+2006, the share of income held by the top decile was 45% and the share
+held by the top 1% of earners was 18%, approaching inequality levels
+similar to the pre-World War II highs (Piketty and Saez 2003, 2008;
+Burkhauser et al. 2009).
+
+The growth in income inequality in the past four decades has been
+driven largely by the growth of “upper-tail inequality”—dispersion in the
+relative incomes of those in the upper half of the income distribution—
+rather than by growth in “lower-tail inequality” (Piketty and Saez 2003;
+Autor, Katz, and Kearney 2006, 2008). This pattern is illustrated in figure
+1, which shows the changes in the household Gini index (a standard
+summary measure of income inequality), the 90/50 household income ratio
+(the ratio of the income of the household at the 90th percentile of the
+income distribution to that of the household at the 50th percentile), and
+the 50/10 household income ratio. The 90/50 ratio was 30% larger in 2007
+than it was in 1967, whereas the 50/10 ratio was actually 6%-7% smaller.
+This implies that the lower tail of the income distribution was compressed
+slightly (particularly in the early 1970s) whereas the upper tail was
+stretched.* Moreover, the growth in the household Gini index over the
+period very closely tracks the growth in the 90/50 ratio, indicating that
+the trend in the Gini index was driven largely—if not entirely—by growth
+in upper-tail inequality. Piketty and Saez (2003) argue that the notoriously
+sharp increase in chief executive officer pay evident in recent decades is
+indicative of a general shift from an elite rentier class in the beginning
+of the 20th century to an elite “working rich” class today, leading to the
+exceptional rise in inequality in the upper tail of the distribution.” As we
+discuss below, this pattern of growth in income inequality has important
+implications for the effects of income inequality on income segregation.
+Jea,
+
+OL0z so0z 000z S661 0661 S@6L Og6L Sl6L O/6L S961
+
+pr anne Leanne enennenennsnesenneeet nesses enenesenessssneeel nssonensesssseseseses senses leseneenssenensssesstlessenenmensssnsesssselny
+
+ 
+
+ 
+
+  
+
+xapul lulg -————
+oneY OL/0S
+OneY OS/06
+
+ 
+
+ 
+
+ 
+
+ 
+
+-s8'0
+
++060
+
+- S60
+
+— 001
+
+-SO'b
+
+robb
+
+Shh
+
+F072 b
+
+rScb
+
+-Oe'l
+
+ 
+
+ 
+
+ZLOGBL 0} BAHE|aY ‘Ayjenbau awoou) pjoyasnoy
+Dimensions of Income Segregation
+
+Income segregation—the uneven sorting of households or families among
+neighborhoods by income—is relatively ubiquitous in the United States.°
+Anyone who has rented an apartment or bought a house understands
+that housing costs more in some neighborhoods than it does in others.
+Except for those few with liquid wealth, income is a primary determinant
+of neighborhood affordability. Moreover, housing prices are tightly linked
+to the cost of nearby housing. Realtors, appraisers, and home buyers use
+recent sale prices of comparable neighborhood real estate to gauge ap-
+propriate sale prices for nearby properties, which leads to positive feed-
+back in local housing markets. And because mortgage loans are tied to
+income (the last few years notwithstanding), home buyers’ neighborhood
+options are constrained by their incomes. In principle, these mechanisms
+operate to place a (somewhat permeable) floor on the incomes of indi-
+viduals who can afford to live in a given neighborhood, leading to a
+certain degree of residential sorting by income.
+
+Income segregation has multiple dimensions. First, neighborhood sort-
+ing of families or households by income may produce the segregation of
+affluence and/or the segregation of poverty (by “segregation of affluence,”
+we mean the uneven distribution of high-income and non-high-income
+households among neighborhoods, and by “segregation of poverty,” we
+likewise mean the uneven distribution of low- and non-low-income house-
+holds among neighborhoods).’ Consider a stylized population made up of
+three types of families—high, middle, and low income—who are distrib-
+uted among three neighborhoods (see table 1). Under scenario 1, the low-
+income families all live in a single neighborhood, with no middle- or high-
+income neighbors, whereas the middle- and high-income families are
+evenly distributed between the other two neighborhoods—a situation in
+which the segregation of poverty is greater than the segregation of afflu-
+ence (high-income families have some non-high-income neighbors, but
+low-income families have only low-income neighbors). Under scenario 2,
+the situation is reversed: the segregation of affluence is greater than the
+segregation of poverty. And finally, in scenario 3, the segregation of both
+poverty and affluence is very high.
+
+A second important dimension of income segregation is its relationship
+to patterns of racial segregation. Given the correlation of race and income
+in the United States and the high levels of racial segregation in many
+metropolitan areas, racial segregation alone could produce a certain degree
+of income segregation, even if there were no within-race income segre-
+gation at all. Moreover, the factors that affect income segregation and
+that link income inequality to income segregation may differ importantly
+across race/ethnic groups. Housing discrimination and residents’ prefer-
+ences for same- or different-race neighbors, for example, may also affect
+residential sorting. Until relatively recently, black families’ neighborhood
+options were severely constrained by various discriminatory housing prac-
+tices (steering by realtors, redlining by banks, rental discrimination, etc.),
+and even now these processes have not been entirely eradicated (Yinger
+1995; South and Crowder 1998; Turner et al. 2002; Ross and Turner 2005;
+Turner and Ross 2005). Such practices meant that black and white families
+with identical incomes and assets, for example, had a very different set
+of residential options. This also likely meant that, historically, income
+inequality was not as tightly linked to income segregation for black fam-
+ilies as it was for white families.
+
+A third dimension of income segregation is its geographic scale (Reardon
+et al. 2008, 2009). This refers to the extent to which the neighborhood
+sorting of households by income results from large-scale patterns of res-
+idential sorting (as would be the case if all high-income families live in
+the suburbs and all low-income families live in the city) or from small-
+scale patterns of residential sorting (as would be the case if high- and
+low-income residents were distributed in a checkerboard pattern through-
+out a metropolis, with homogeneously wealthy neighborhoods adjacent
+to homogeneously poor neighborhoods throughout the area). The extent
+
+2004). We can have high levels of segregation of poverty without the spatial concen-
+tration of poor households within one area of a region (e.g., if low-income families live
+in many neighborhoods scattered throughout a metropolitan area but not in the same
+census tracts as higher-income families).
+Patterns and Trends in Income Segregation
+
+Most prior research on income segregation has focused on measuring
+overall income segregation and has attended little to either the geographic
+scale of income segregation or the extent to which it is characterized by
+the segregation of poverty and/or affluence. Research on the trends in
+overall household or family income segregation generally indicate that
+metropolitan area income segregation grew, on average, from 1970 to 2000,
+though studies differ on the details of the timing and magnitude of the
+increase because of differences in the measures of income segregation used
+and the sample of metropolitan areas included (see Jargowsky 1996, 2003;
+Mayer 2001b; Massey and Fischer 2003; Wheeler and La Jeunesse 2006;
+Watson 2009). In particular, income segregation appears to have grown
+most sharply in the 1980s. By many measures, income segregation, and
+particularly the segregation of poverty, declined in the 1990s (Jargowsky
+Potential Consequences of Income Segregation
+
+There are many mechanisms through which income segregation might
+affect individual outcomes. The quality of public goods and local social
+institutions is affected by a jurisdiction’s tax base and by the involvement
+of the community in the maintenance and investment of these public
+resources. If high-income households cluster together within a small num-
+ber of neighborhoods or municipalities, they may be able to collectively
+better their own outcomes by pooling their extensive financial and social
+capital to generate resources of which only they can take advantage. Such
+income segregation may be self-reinforcing: low-income communities are
+often unable to generate enough social and human capital to overcome
+the strong incentive for wealthy communities to isolate themselves, be-
+cause in homogeneously high-income communities, residents may be able
+to capitalize on their ability to provide high-quality public services at the
+lowest cost. Higher-income neighborhoods, therefore, may have more
+green space, better-funded schools, better social services, or more of any
+number of other amenities that affect quality of life. In addition, high-
+and low-income neighborhoods may differ in their social processes, norms,
+and social environments (Sampson et al. 1997; Sampson, Morenoff, and
+Earls 1999). Conversely, if high-income households are not clustered to-
+gether, then they may help to fund social services and institutions that
+serve lower-income populations. Thus, the ability of high-income house-
+holds to self-segregate affects the welfare of poor people and the neigh-
+borhoods in which they reside. Not only does this resource problem affect
+residents’ current quality of life and opportunities, but it can also bridge
+generations: the income distribution in a community may affect the in-
+tergenerational transfer of occupational status through investment in lo-
+cally financed institutions that serve children, such as schools (Durlauf
+1996).
+
+Nonetheless, relatively little prior research has directly assessed the
+impacts of income segregation on individual outcomes. Several studies
+show that income segregation within states or metropolitan areas is as-
+sociated with greater inequality in educational attainment between poor
+and nonpoor individuals (Mayer 2000; Quillian 2007). Likewise, Mayer
+and Sarin (2005) show that greater state-level income segregation is as-
+sociated with higher rates of infant mortality. A related body of research
+finds that metropolitan area racial segregation leads to greater racial in-
+equality in labor market, educational, and health outcomes (Cutler and
+Glaeser 1997; Ellen 2000; Ananat 2007; Osypuk and Acevedo-Garcia
+2008). Because racial segregation implies some level of income segregation
+(given the relatively large racial differences in income) and because income
+segregation is one plausible mechanism through which racial segregation
+may lead to racial inequality, the research showing that racial segregation
+increases racial disparities is consistent with the hypothesis that income
+segregation may lead to inequality of outcomes. In addition to the rela-
+tively small body of research directly investigating the effects of income
+segregation, a large body of recent research has attempted to investigate
+one potential mechanism through which segregation may affect individ-
+uals—the effect of living in a neighborhood with a high poverty rate. The
+empirical evidence for such “neighborhood effects,” however, remains both
+mixed and contested (see, e.g., Jencks and Mayer 1990; Rosenbaum and
+Popkin 1991; Sampson et al. 1997, 2008; Waitzman and Smith 1998a,
+19980; Leventhal and Brooks-Gunn 2000; Katz, Kling, and Liebman 2007;
+Clampet-Lundquist and Massey 2008; Ludwig et al. 2008; Sampson 2008).
+Nonetheless, a recent review of the neighborhood effects literature con-
+cludes that residential context does indeed matter for at least one out-
+come—children’s test scores—albeit in somewhat complex ways: these
+neighborhood effects may be nonlinear with respect to baseline disad-
+vantage and may depend on children’s age and the level of community
+violence that is experienced by the child (Burdick-Will et al., in press).
+In sum, while theoretical arguments suggest that income segregation likely
+produces inequality in social outcomes, empirical research has yet to con-
+clusively demonstrate this or to confirm its mechanisms.
+there could be no income segregation because all individuals would have
+the same income and thus all neighborhoods would have the same income
+distribution. Nonetheless, income inequality is not alone sufficient to cre-
+ate income segregation. Rather, income segregation also requires the pres-
+ence of income-correlated residential preferences, an income-based hous-
+ing market, and/or housing policies that link income to residential location.
+
+Three kinds of income-correlated residential preferences may lead to
+income segregation in the presence of income inequality: preferences re-
+garding the socioeconomic characteristics of one’s neighbors, preferences
+regarding characteristics of one’s neighbors that are correlated with their
+income, and preferences regarding local public goods. If some or all house-
+holds have preferences regarding the income level, educational attain-
+ment, or occupational status of their neighbors (i.e., if at least some house-
+holds prefer higher-income neighbors to lower-income neighbors), then
+households with similar incomes will be more likely to be neighbors than
+is expected by chance. Likewise, residential preferences based on neigh-
+borhood characteristics that are correlated with income may also produce
+income segregation. One obvious example is race. If households select
+neighborhoods on the basis of the racial composition of that neighborhood
+and household income is correlated with race, then this would also pro-
+duce income segregation, even in the absence of income-specific prefer-
+ences.
+
+Preferences for public goods refer to the value households place on
+amenities that can be collectively purchased (e.g., public school quality,
+public parks, police services). Households that value such public goods
+will have incentives to live in communities with neighbors who both share
+these preferences and have high enough incomes to contribute to their
+collective purchase (through property taxes, e.g.). This can be seen as a
+manifestation of the Tiebout model of residential sorting, in which resi-
+dents choose to live in municipalities that most closely match their ideal
+set of government services with their ability to pay (Tiebout 1956). The
+Tiebout model predicts income segregation because households with sim-
+ilar preferences and ability to pay tend to form homogeneous communities.
+Differences among communities in public goods, income-related demo-
+graphic characteristics, and other social and cultural amenities may also
+lead to the development of neighborhood status hierarchies, or what one
+might call “neighborhood brands.” The differentiation of communities
+along a status dimension in turn raises demand for those neighborhoods
+with the most desirable brands (and lowers demand for those with the
+least desirable brands). Thus, income differences may lead to the devel-
+opment of a rough status hierarchy among residential locations; this status
+hierarchy in turn may perpetuate income segregation by shaping house-
+hold preferences.
+Even in the presence of sizable income inequality, however, the income-
+correlated preferences outlined above may be insufficient to produce in-
+come segregation. Income segregation requires as well the existence of a
+housing market based on residents’ ability to pay or housing policies that
+sort households by income. For example, housing policies that constrain
+residential options for low-income households to public housing devel-
+opments may directly affect the segregation of poverty by virtue of the
+spatial density and distribution of those options. More generally, income
+segregation results from a residential allocation or sorting process, which,
+in principle, is constrained by housing policy. Under a housing policy that
+allows sorting on the basis of preferences and ability to pay, residential
+segregation will likely be highly sensitive to changes in income inequality
+and income-related residential preferences because, in such a society,
+higher-income households will be able to outbid lower-income households
+for access to preferred neighborhoods. In addition, when higher-income
+households have greater influence than lower-income households over
+local political processes, they may have the capacity to create housing
+policies that perpetuate segregation by income, such as zoning laws that
+prohibit multifamily housing or require minimum lot sizes to build new
+structures.
+@'Z = ONY OL/0S 87 = ONY OL/0S
+97 = oneY OS/I06 --——— V'Z = ney OS/06
+OF ‘0 = Xepul 1UId) vE'0 = Xepu
+
+ 
+
+ 
+
+ 
+
+ 
+
+aljuedieg uoleindog (spuesnoy,) ewoduy
+
+0 Wook =owsz = OS wsZ™CO SKY SF SF @e
+
+  
+
+&
+°
+€
+2 FS
+<p es
+= 3
+3 33
+a 5
+s 2 S ?
+@ 5
+°Q
+2 :
+st 3 ge
+3
+° e
+s
+
+ 
+
+ 
+
+ 
+
+Aysuaqg awoou] eayeinuund aesieAu|
+
+Ayisueg ewoou
+distributions depicted here differ only in the level of upper-tail inequality:
+the 50/10 income ratio is identical in both cases, but the 90/50 income
+ratio is 35% larger in the high-inequality case than in the low-inequality
+case.’ Note that the income distributions described in figure 2 are not
+based on actual data. Rather they are stylized distributions that exemplify
+typical differences in income distributions—an exercise that highlights
+how the type and magnitude of inequality relate to important features of
+income distributions.
+
+The left-hand panel of figure 2 shows that the income distribution is
+more spread out at the high end under conditions of greater inequality.
+There is greater variation in income among high earners in the higher-
+inequality distribution than in the lower-inequality distribution. At the
+low end of the income distribution, however, increasing inequality actually
+compresses the income distribution, a result of the fact that income must
+be nonnegative (at least in our stylized figures here).'°
+
+The difference in the effect of income inequality at the high and low
+ends of the income distributions is evident in the middle panel of figure
+2. For example, it is instructive to compare the incomes of households at
+the 20th and 30th percentiles in each scenario. In the lower-inequality
+distribution (solid line), the household at the 20th percentile has an income
+of $33,500 and the household at the 30th percentile has an income of
+$43,000, a difference of $9,500 and a ratio of 1.28. In the higher-inequality
+distribution (dashed line), the 20th- and 30th-percentile households have
+incomes of $29,000 and $37,000, respectively, a difference of $8,000 and
+a ratio of 1.28. That is, under high inequality, low- to moderate-income
+households of a given distance apart in income ranks have incomes that
+are actually closer together (and equally far apart if comparing incomes
+using ratios) than under low inequality. This implies that increases in
+income inequality of the type depicted here (i.e., increases in inequality
+that leave the 50/10 ratio unchanged) will not increase and may actually
+decrease income segregation among low-income households (segregation
+of poverty). The reason is that increasing inequality (somewhat paradox-
+ically) makes the incomes of low-income households more similar to one
+another.
+
+The opposite is true at the high end of the income distribution. When
+the incomes of the 70th- and 80th-percentile households under both the
+higher- and lower-inequality distributions are compared, it is apparent
+Racial Differences in the Effects of Income Inequality
+
+As we suggested above, income inequality may affect income segregation
+differently among black and white households because of the variation
+in housing markets available to each group. Racial discrimination in the
+housing market has meant that, historically at least, minority households
+(particularly black households) have had fewer residential options than
+white households with similar income and wealth. Even if black house-
+holds had the same preferences and the same level of income inequality
+as white households, the racially discriminatory aspects of the housing
+market likely led to lower levels of income segregation among black house-
+holds than among white households. The reason is that the segregation
+of black households compelled higher- and lower-income black households
+to live close to one another.
+
+The black middle class grew rapidly from 1940 to 1990," resulting in
+rising income inequality among black households (Son, Model, and Fisher
+1989; Farley and Frey 1994). Until the passage of the Fair Housing Act
+in 1968 and the Home Mortgage Disclosure Act in 1975, however, dis-
+criminatory housing practices severely limited the residential mobility of
+middle-class black families (Farley and Frey 1994). As a result, prior to
+1970, income inequality among blacks was probably less tightly linked
+to income segregation than it was for whites. In the period from 1970 to
+2000, however, the housing options available to middle-class blacks
+Empirical Predictions
+
+The above arguments suggest several testable hypotheses. First, because
+the U.S. housing market is largely based on ability to pay, we predict that
+income inequality will be positively correlated with income segregation
+and that changes in income inequality with be positively associated with
+changes in income segregation. Second, because most of the change in
+income inequality has been the result of growth in upper-tail inequality,
+we predict that changes in income inequality will affect the segregation
+of affluence to a greater degree than it affects the segregation of poverty.
+Third, we predict that income inequality will have a stronger relationship
+with income segregation among black families than among white families
+during the period 1970-2000, when housing market constraints were sub-
+stantially reduced for black households. Finally, although there is no ex-
+isting research on the geographic scale of income segregation, we expect
+that income inequality leads to income segregation primarily by increasing
+the spatial distance between high- and low-income households (due to
+suburbanization of middle- and upper-income households, e.g.). Thus, we
+predict that income inequality will have a stronger relationship with
+macro-scale segregation patterns than with micro-scale segregation pat-
+terns.
+
+There is little prior research regarding most of these hypotheses. Several
+existing studies demonstrate a positive association between income in-
+equality and income segregation. Mayer (2001b) shows that the well-
+documented increase in income inequality from 1970 to 1990 resulted in
+an increase in segregation between census tracts within states: although
+the income variance within census tracts remained stable, the income
+variance between tracts grew, indicating an increase in between-tract
+income segregation. Wheeler and La Jeunesse (2008) largely corroborate
+these findings using metropolitan areas, rather than states, as the unit of
+analysis. They find that the average level of income segregation (measured
+as the between-block group share of income inequality) within metro-
+politan areas grew sharply in the 1980s and declined slightly in the 1990s,
+a pattern that is only partly consistent with the trend in steadily rising
+income inequality over the same period. Because their analysis is based
+on a simple comparison of trends, however, it indicates little about the
+causal relationship between income inequality and segregation.
+
+A third recent study uses metropolitan area fixed-effects regression mod-
+els to estimate the causal effect of metropolitan area income inequality
+on income segregation, demonstrating that income inequality has a strong
+effect on income segregation (Watson 2009). Specifically, Watson finds that
+a 1-SD rise in income inequality leads to a 0.4-0.9-SD rise in income
+segregation. Moreover, Watson briefly investigates several additional as-
+pects of the relationship between income inequality and income segre-
+gation. First, she finds that income inequality leads to increases in the
+segregation of both poverty and affluence (though the effect is slightly
+larger on the segregation of affluence). Second, she finds that income
+inequality has a weaker effect on income segregation among black families
+than in the population as a whole (contrary to our hypothesis above).
+Finally, her results suggest no effect of income inequality on suburbani-
+zation rates from 1970 to 2000, implying, perhaps, that income inequality
+does not affect the geographic scale of income segregation (though Watson
+notes that data limitations render these results merely “suggestive”). None-
+theless, while each of these three analyses provides some evidence re-
+garding our hypotheses, they each rely on segregation measures that are
+not ideal. As we describe below, her preferred measure of segregation, the
+centile gap index, does not allow clear comparisons across metro areas
+and years and it cannot be used to measure geographic scale. In our
+analyses below, we use a more appropriate measure of income segregation
+that allows us to more directly estimate the effects of inequality on the
+segregation of affluence and poverty and on the geographic scale of seg-
+regation.
+to measuring income segregation and then describe the measure we will
+rely on, the rank-order information theory index (Reardon et al. 2006).
+
+Much of the small body of existing literature on income segregation in
+sociology has measured income segregation by using established measures
+of racial segregation, such as the dissimilarity index, applied to a small
+set of crude income categories (poor vs. nonpoor or upper, middle, and
+lower income). Examples of this approach are found in the literature in
+sociology (Massey and Eggers 1993; Massey 1996; Fong and Shibuya 2000;
+Massey and Fischer 2003), urban planning (Coulton et al. 1996; Pendall
+and Carruthers 2003), economics (Jenkins, Micklewright, and Schnepf
+2006), and public health (Waitzman and Smith 19980). There are a number
+of serious deficiencies with this technique, including the substantial loss
+of information that results from treating income as categorical and the
+arbitrary nature of selecting a small number of cut points to categorize
+the data. Even if the exact income of families is unknown, the 16 income
+categories reported in the 2000 U.S. census, for example, contain far more
+information than two or even four categories. Moreover, the income cat-
+egories (as well as the meaning of a given dollar amount of income) change
+over time, so that categories defined in one decennial census cannot be
+replicated in another.
+
+A second approach to measuring income segregation defines segregation
+as a ratio of the between-neighborhood variation in mean income to the
+total population variation in income. Income segregation measures de-
+rived from this approach have used a number of different measures of
+income variation, including the variance of incomes (Davidoff 2005;
+Wheeler 2006; Wheeler and La Jeunesse 2006), the standard deviation of
+incomes (Jargowsky 1996, 1997), the variance of logged incomes (Ioan-
+nides 2004), the coefficient of variation of incomes (Hardman and Ioan-
+nides 2004), and Bourguignon’s income inequality index (Ioannides and
+Seslen 2002). Similarly, the centile gap index (CGI) measures segregation
+as one minus the ratio of within-neighborhood variation in income per-
+centile ranks to the overall variation in percentile ranks (Watson 2006,
+2009). Most well known in sociology is Jargowsky’s (1996, 1997) neigh-
+borhood sorting index (NSI), which is defined as the square root of the
+ratio of the between-unit income variance to the total income variance.
+
+Although the NSI and measures like it improve on categorical measures
+of income segregation because they do not rely on arbitrary and changing
+dichotomizations of income distributions, they lack a key feature that is
+necessary for our purposes in this article. In order to distinguish income
+segregation (the sorting of households by income among census tracts,
+independent of the income distribution) from income inequality (the un-
+even distribution of income among families), a measure of income seg-
+regation is required that is independent of income inequality. One way
+The Rank-Order Information Theory Index
+
+Reardon et al. (2006) describe the rank-order information theory index in
+detail; we summarize its key features here. First, let p denote income
+percentile ranks (scaled to range from zero to one) in a given income
+distribution (i.e., = F(Y), where Y measures income and F is the cu-
+mulative income density function). Now, for any given value of p, we can
+dichotomize the income distribution at p and compute the residential
+(pairwise) segregation between those with income ranks less than p and
+those with income ranks greater than or equal to p. Let H(p) denote the
+value of the traditional information theory index (Theil and Finezza 1971;
+Theil 1972; Zoloth 1976; James and Taeuber 1985) of segregation com-
+puted between the two groups so defined. Likewise, let E(p) denote the
+entropy of the population when divided into these two groups (Theil and
+Finezza 1971; Theil 1972; Pielou 1977). That is,
+HR = zinc f E(p)H(p)dp. (3)
+
+The rank-order information theory index ranges from a minimum of
+zero, obtained in the case of no income segregation (when the income
+distribution in each local environment [e.g., census tract] mirrors that of
+the region as a whole), to a maximum of one, obtained in the case of
+complete income segregation (when there is no income variation in any
+local environment). Because the measure uses only information on the
+rank ordering of household incomes within a metropolitan area, it is
+independent of the income distribution. As a result, it is possible to make
+meaningful comparisons across time, regardless of monetary inflation and
+changes in income inequality, and across metropolitan areas and popu-
+lation subgroups (such as racial groups), regardless of differences in their
+income distributions. To compare the levels of within-group income seg-
+regation among racial groups, we compute the rank-order information
+theory index for each racial group separately. For a detailed description
+of the computation of H* from census data, see appendix A.
+
+Note that equation (3) defines H* as a weighted average of the binary
+income segregation at each point in the income distribution. The weights
+are proportional to the entropy E(p), which is maximized when p = 0.5
+and minimized at p = 0 or p = 1. In other words, if we computed the
+segregation between those families above and below each point in the
+income distribution and averaged these segregation values, weighting the
+segregation between families with above-median income and _ below-
+median income the most, we get the rank-order information theory index."
+These weights have an intuitive appeal since they imply that the extent
+of segregation between those above and below the median is more in-
+formative about overall residential sorting by income than the extent of
+segregation between those above and below the 90th percentile, for ex-
+ample.
+
+Figure 3 provides an illustration of the information used in the cal-
+culation of H® (see eq. [3] and app. A), using family income data from
+the Chicago metropolitan area in 2000. The x-axis of figure 3 corresponds
+to percentiles of the family income distribution in Chicago in the 2000
+census, with the values of the 15 specific census income category thresholds
+marked for reference. For example, roughly 5% of families in Chicago
+had incomes less than $10,000 and roughly 50% had incomes less than
+$60,000. The circular markers at each income threshold indicate the
+between-tract segregation computed between two groups of families—
+those with incomes below the threshold and those with incomes equal to
+or greater than the threshold. So, for example, the value of the information
+theory index of segregation between families earning less than $10,000
+and those earning greater than or equal to $10,000 was roughly 0.45 in
+Chicago in 2000. The markers indicate segregation levels for the 15 thresh-
+olds available in the 2000 census. The solid line describes a fitted fourth-
+order polynomial (our estimate of the function H(p); see app. A) through
+the measured segregation levels. In this example, the estimated rank-order
+information theory index is 0.298 (computed as the weighted average of
+the value of the fitted line over the range of percentiles from zero to one;
+see eq. [3]). It is possible to compute a segregation profile like this for any
+metropolitan area in any year. More important, because H(p) is a function
+of income percentiles rather than actual incomes, we can compare these
+profiles across metropolitan areas, racial groups, or years despite differ-
+ences in their underlying income distributions.
+
+Once we have estimated the function H(p) (as described in app. A, eq.
+[A1}), we can also compute estimated values of segregation at any desired
+threshold. Suppose, for example, that we wish to estimate the segregation
+between families in the top 10% of the income distribution and all others.
+Even if there is not an income threshold in the census data that corre-
+sponds exactly to the 90th percentile, we can estimate H(.9) from the fitted
+polynomial (eq. [A1]). For example, even though there is no income thresh-
+old in Chicago that corresponds exactly to the 90th income percentile, we
+can compute the estimated value of H(.9) = 0.370 from the estimated
+parameters of the fitted H(p) profile in figure 3. This will enable us to
+compute and compare the segregation levels of well-defined income groups
+even when the census does not provide the exact information needed.
+
+Finally, as Reardon et al. (2006) note, equation (3) implies that we can
+easily compute spatial measures of income segregation by replacing
+H(p) in (3) with its spatial analogue, the spatial information theory index,
+H(p) (Reardon and O’Sullivan 2004). The spatial information theory index
+takes into account the spatial proximity of neighborhoods and computes
+—— —— © Estimated Segregation at Census Category Threshold
+
+Fitted Profile (4th-order polynomial)
+
+   
+
+ 
+
+ 
+
+@xH
+
+0.304
+0.204
+o.10-+
+0.00-+{ ,
+0
+
+@
+°o
+
+‘xepul AloayL uolewoju|
+
+00'sz5
+
+00005
+
+Family Income (Dollars and Population Percentile)
+Measuring Income Inequality
+
+We measure income inequality within each race group-metro-year with
+the Gini index (G). The Gini index measures the extent to which the actual
+income distribution deviates from a hypothetical distribution in which
+each person receives an identical share of total income. The measure
+ranges from zero, indicating perfect equality (where each individual re-
+ceives an identical share of the distribution), to one, indicating maximum
+inequality (where one individual holds all of the income). The estimation
+of G usually requires individual-level income data so that the cumulative
+income shares of individuals can be plotted against the cumulative pop-
+ulation shares. However, publically available census data provide income
+data in categories, or bins, instead of as a metric measure. Thus, we
+compute the Gini index from census data using a procedure described in
+detail in Nielsen and Alderson (1997)."®
+“ These 100 metropolitan areas together were home to 173 million residents in 2000,
+62% of the US. total population, including 70% of non-Hispanic blacks (23.6 million),
+78% of Hispanics (27.6 million), and 89% of Asians (9 million). The metropolitan areas
+range in population from 11.3 million (New York—White Plains, New York-New
+Jersey) to 561,000 (Scranton—Wilkes-Barre, Pennsylvania).
+
+‘S For our analyses using spatial segregation measures, we use data from the 1980,
+1990, and 2000 censuses only, because large parts of many metropolitan areas were
+not tracted by the census in 1970, making the computation of metropolitan area
+spatial segregation measures from 1970 error prone. Although some parts of met-
+ropolitan areas were not fully tracted in 1980, untracted regions constitute only a
+small part of most metropolitan areas in 1980. Our results are robust to the exclusion
+of 1980 data.
+
+* Family income data are not available separately for Hispanic and Asian families in
+1970. In addition, because only 13 metropolitan areas contained at least 10,000 Asian
+families in 1980, 1990, and 2000 and only 36 of the 100 largest metropolitan areas
+contained at least 10,000 Hispanic families in 1980, 1990, and 2000, we do not include
+Asian and Hispanic families in our analyses (except insofar as they are included in
+the total population analyses).
+ularly in the 1970s, a pattern that reflects the continuing growth of the
+black middle class that began in the 1960s.
+
+Average metropolitan area income segregation followed a similar pat-
+tern, growing from 1970 to 2000, with the fastest increase occurring in
+the 1980s. For black families, income segregation grew rapidly in the
+1970s and 1980s, at a rate more than three times faster than the corre-
+sponding growth of white income segregation. In fact, average black in-
+come segregation was about 1/3 SD lower than white income segregation
+in 1970 but was about 1 SD higher than white income segregation by
+1990. As figure 4 shows, these patterns suggest a relationship between
+income inequality and income segregation; for both black and white fam-
+ilies, as well as for the total population, changes in income segregation
+appear to roughly mirror changes in income inequality.
+
+The trends in metropolitan area income segregation reported in table
+2 and figure 4 do not match the patterns found in some prior research.
+Watson (2009), for example, found that average metropolitan area income
+segregation of all families, as measured by the CGI, declined slightly in
+the 1970s and 1990s but rose sharply in the 1980s. Jargowsky (1996) and
+Yang and Jargowsky (2006), however, found that average metropolitan
+area income segregation of both white and black families, as measured
+by the NSI, rose in the 1970s and 1980s but declined sharply in the 1990s.
+Our estimated trends differ from these for two primary reasons. First, we
+use a different measure of income segregation than these prior studies,
+for reasons we describe above. Second, our estimates are based on the
+100 largest metropolitan areas, whereas Watson (2009) uses 216 metro
+areas; Jargowsky (1996) uses 228 and 76 metropolitan areas for the white
+90°0
+
++ an oO oO
+= = = 2
+oO oO oO oO
+
+( (\H Japio-yuey) uonebasGasg awoou|
+o
+S
+
+slo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yoeld oyUM soles |IV
+000Z 066 O86! OL6l 0002 066} 0861 O46} 000% O66! 0861 OZ6L
+1 1 1 1 1 1 1 1 1 1 1 1
+Lpe'o
+| |
+I |
+I | .
+| i + 9¢'0
+| |
+| |
+| | .
+| | + 8c'0
+I |
+| a |
+| — |
+I 2 I + Ob'0
+| f | v7?
+| as | Pa
+| = I 2
+. 4 .
+| © | 7 + zb'0
+| | 7
+I I 7
+| | --s
+| | ° L ro
+| | uonebaibag -—-e——
+| |
+| | Ayyenbau; —~e—
+| i + 9r'0
+
+ 
+
+ 
+
+(xepuy 1uId) Ayyjenbau; ewoouy
+and black trends, respectively, from 1970 to 1990; and Yang and Jar-
+gowsky (2006) use 324 and 130 metropolitan areas for the white and black
+trends, respectively, from 1990 to 2000. Our restriction to the 100 largest
+metropolitan areas has substantial implications for the estimated trends,
+as is evident in figure 5, which shows trends in income inequality and
+segregation for smaller metropolitan areas (those with at least 10,000
+families of the relevant group in each year, excluding the 100 largest
+metropolitan areas). For small metropolitan areas, the trends in income
+inequality are very similar to those for large metropolitan areas, but the
+trends in income segregation are quite different. Income segregation in
+small metropolitan areas is, on average, much lower than for large met-
+ropolitan areas. In addition, income segregation in small metropolitan
+areas declined in both the 1970s and 1990s (among all families and for
+white families). Pooling the trends for large and small metropolitan areas
+would yield a trend similar to that described by Watson (2009)—declining
+average income segregation in the 1970s and 1990s and a sharp increase
+in average income segregation in the 1980s.
+
+Although table 2 and figure 4 show changes in the average values of
+the rank-order information theory index from 1970 to 2000, they do not
+provide detail on the extent to which changes in income segregation are
+due to changes in the segregation of affluence and poverty. Figures 6-8
+(for details, see app. table C1) show average metropolitan area segregation
+profiles for 1970-2000. These enable us to examine the extent to which
+segregation has changed between the poor and nonpoor and the rich and
+nonrich, for example.
+
+Figure 6 shows the trend in the average income segregation profile
+across the 100 largest metropolitan areas from 1970 to 2000. First, note
+that in 1970, the poor were much less segregated from the nonpoor than
+the rich were from the nonrich. Income segregation between the poor and
+nonpoor (segregation of poverty) grew sharply between 1970 and 1980,
+however, whereas income segregation of the rich and nonrich (segregation
+of affluence) did not. In the 1980s, however, income segregation grew at
+all parts of the income distribution. In the 1990s, in contrast, income
+segregation grew only modestly, and only between families in the middle
+part of the income distribution. On average, the segregation of poverty
+and the segregation of affluence were relatively unchanged in the 1990s.
+These figures demonstrate that a single measure of income segregation
+may not fully convey the pattern of changes.
+
+Figures 7 and 8 show the corresponding trends for white (fig. 7) and
+black families (fig. 8) separately. As we would expect, given the size of
+the white population, the trends for white income segregation are similar
+to those of the population as a whole. The trends in black family income
+segregation, however, are rather different. Black income segregation grew
+90°0
+
++ a o oO
+= = = 2
+Ss S S S
+
+( (\H Japio-yuey) uonebeibas awoou|
+©
+S
+
+slo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yoeld oHwUM sollwer |IV
+0002 066 0861 O46 0002 066 0861 O46 0002 066} O086l OL6L
+1 1 1 1 1 1 1 1 1 1 1 1
+| L¢e'o
+f | |
+v I I
+’ | I .
+Zc \ \ + 9¢'0
+? I |
+/ | I
+| I
+/ I I + seo
+So
+NS I |
+» | I + OF'0
+| I
+| I
+| I
++ cro
+| I
+| I
+| I | pro
+| I
+| | uonebeibes -—-»——
+|
+| | Ayyenbou| —e— ||
+I i + 9r'0
+
+ 
+
+ 
+
+(xapuy 1uId) Ayyenbauy awoou]
+UOHINGUISIG eUodU| URWOdoujoyy JO aIIJUSDIEG
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oor og 09 oY
+
+| goo
+
+zbo
+
+oro
+
++020
+
+trz0
+oocz
+066
+oveL
+ozet
+
++ 8z'0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(@p) uoneBeiBeg ewosu]
+UoRNqUISsIG eUCoU| Ues|odojeYy Jo a]UEDEq
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oot og 9 OF
+
+| goo
+
+EzLo
+
+9L0
+
++020
+
++ z0
+007
+0661
+og6)
+ou6l
+
++8z0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(@p) uoneBeiBeg ewosu]
+UOINGUISIG eWICSU] UeYJodosJEY JO eI]UEDIEq
+09 ov
+
+ 
+
+OL og 0z 0
+eb
+Leoo
+rzro
++910
++020
++Pz'0
+o00z
+0661
+oe6L
+ou6)
+F870
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(@H) uoneBeiBeg ewoouj
+rapidly in the 1970s and 1980s at all parts of the black income distribution.
+Not only did low-income black families become more isolated from mid-
+dle- and higher-income black families, but higher-income blacks became
+increasingly segregated from lower-and middle-income black families as
+well. In the 1990s, this trend ceased abruptly. In fact, the segregation of
+lower- and moderate-income black families from higher-income black
+families declined slightly in the 1990s.
+
+The tables and figures above describe patterns and trends in income
+segregation using “aspatial” measures of segregation. These measures treat
+census tracts as discrete, spatially anonymous units and so are not fully
+sensitive to changing spatial patterns of segregation. In particular, they
+are insensitive to the spatial scale of segregation: they do not indicate the
+extent to which segregation levels are due to the large- or small-scale
+spatial patterning of families in residential space. Figure 9 reports average
+segregation profiles similar to those in figures 6-8 but using the spatial
+information theory index (Reardon and O’Sullivan 2004) computed at a
+range of spatial scales instead of the tract-based information theory index
+used in the figures above.
+
+In particular, figure 9 shows the average spatial information theory
+index household income segregation threshold profile computed using ra-
+dii of 500, 1,000, 2,000, and 4,000 meters for the 100 largest metropolitan
+areas in 2000.” These radii correspond roughly to local environments
+ranging from “pedestrian” in size (500-meter radius) to those that are
+considerably larger (4,000-meter radius)—the size of a large high school
+attendance zone, for example—in scale than the neighborhoods in which
+most people attend church, shop, and do much of their socializing (Rear-
+don et al. 2008). In addition, figure 9 shows the macro/micro segregation
+ratio (dashed line, with scale on the right-hand axis), which measures the
+proportion of micro-scale segregation (segregation among 500-meter ra-
+dius local environments) that is due to macro-scale segregation patterns
+(segregation among 4,000-meter radius environments). This ratio can be
+interpreted as a measure of the geographic scale of segregation, with larger
+values indicating that more of the measured segregation is due to the
+separation of groups over large distances (Reardon et al. 2008, 2009).
+
+Two key patterns are evident in figure 9. First, spatial income segre-
+gation patterns are very similar to the aspatial patterns shown in figure
+6. Segregation of high-income households from other households is, in
+general, higher than the segregation of low-income households from other
+households, regardless of the radius at which segregation is measured.
+OOoL
+1
+
+UOHNGLISIG awWooU] UeWOdoJOW JO BIUBDIEg
+
+08 09 or
+1 1
+
+02 0
+
+ 
+
+seo 4
+
+g
+
+g
+2
+
+(09s 4/0007) OEY OJOIA/OLDe YI
+B 8
+e 8
+
+09°04
+
+S904
+
+ 
+
+   
+
+ 
+
+ 
+
+WOOGHIWO00bH -————
+snipey Woody
+snipey WO00Z
+‘snipey WOOO}
+snipey WOOS
+
+ 
+
+ 
+
++ 00°0
+
++700
+
++ 800
+
+clo
+
++ 9loO
+
++ 02'0
+
+ 
+
+mca)
+
+ 
+
+((2)H) uoneBes6ag awooy jeneds
+Second, this pattern appears to be largely, if not entirely, due to the fact
+that upper-income households are much more segregated at a large geo-
+graphic scale than lower-income households. For high-income households,
+60% or more of segregation patterns are due to macro-scale segregation—
+presumably the concentration of high-income households in wealthy sub-
+urban and exurban areas. For low-income households, 40% or less of
+segregation patterns are due to macro-scale segregation; this implies that
+the poor are less concentrated spatially than the wealthy in most met-
+ropolitan areas.
+
+In sum, our descriptive analyses reveal several important trends. First,
+average metropolitan area income inequality and segregation both grew
+from 1970 to 2000, though the growth in income segregation was much
+larger for black families than for white families. Second, income segre-
+gation grew at all parts of the income distribution from 1970 to 2000,
+though at different times and at different rates for black and white fam-
+ilies. Most of the growth in income segregation occurred between 1970
+and 1990. Nonetheless, both the segregation of poverty and the segregation
+of affluence were much higher in 2000 than they had been in 1970 for
+white and black families alike. And third, the segregation of affluence is
+generally greater than the segregation of poverty in the 100 largest met-
+ropolitan areas, a pattern that appears to be driven by the macro-scale
+segregation of the highest earners from others. In the next section of the
+article, we investigate the extent to which variation in income inequality
+can explain these patterns.
+In addition, we wish to ensure that our estimates of the effect of in-
+equality on segregation are not biased by any confounding metropolitan-
+level covariates that are correlated with both inequality and segregation.
+On the basis of previous research, we control for metropolitan demo-
+graphic characteristics, housing market pressures and housing stock, intra-
+and intermetropolitan mobility, population growth, labor market char-
+acteristics, and family structure’ (Wilson 1987; Massey and Eggers 1993;
+Abramson, Tobin, and VanderGoot 1995; Jargowsky 1996; Pendall and
+Carruthers 2003; Wheeler 2006; Watson 2009). Notably, because the U.S.
+census does not provide information on family wealth, we are unable to
+include controls for metro-, year-, and race-specific aspects of the distri-
+bution of wealth in our models. Although wealth is only modestly cor-
+related with income, it plays a key role in residential location because it
+enables families to buy housing in communities where their current income
+may be insufficient and provides a financial cushion during unstable times,
+such as temporary unemployment, illness, or divorce, and so enables fam-
+ilies to remain in their home when their income cannot support them
+(Wolff 2006). Nonetheless, research suggests that wealth may not be a
+significant factor in neighborhood migration patterns (Sharkey 2008), al-
+though it is a stronger predictor of neighborhood choice for blacks than
+it is for non-Hispanic whites (Crowder, South, and Chavez 2006).
+
+In the first set of regression models (models 1 and 2), we estimate the
+effect of changes in inequality on changes in segregation, including both
+metropolitan area x group fixed effects and decade fixed effects. These
+models have the form
+
+Fingy = 0° 1
+
+mgy
+
++ Due +A, + XinyB + Wry + Emgys (4)
+
+mgy mgy
+
+where m indexes metropolitan areas, g indexes race groups, y indexes
+census years, and H,,,, and J,,,, indicate the rank-order segregation and
+income inequality, respectively, in metropolitan area m for group g in year
+y. The models include metropolitan area x group (I,,,) and decade (A,)
+fixed effects. The coefficient a on inequality from this model indicates the
+average within-metro-group association (over time) between inequality
+and segregation, net of any secular trend common to all metropolitan
+
+areas and race groups. Model 2 includes a set of metro-year and group-
+metro-year covariates (X,,, and W,,,,) as control variables in addition to
+the fixed effects. We compute bootstrapped standard errors in all of the
+regression models to take into account the clustered nature of the obser-
+vations.
+
+In the second set of models (models 3 and 4), we estimate the effect of
+differences in income inequality between race groups on income segre-
+gation, using metropolitan area x year fixed effects and group-specific
+
+dummy variables. These models have the form
+
+Foygy = 0+ Lygy +B yy + Ay + Wool + €ngys (5)
+
+mgy mgy my
+
+where I, and A, are metropolitan area x year and group-specific fixed
+effects, respectively. The coefficient a on inequality from this model in-
+dicates the average within-metro-year association (between race groups)
+between inequality and segregation, net of any average differences in
+inequality and segregation between race groups across metropolitan areas
+and time. Model 4 includes a small set of group-metro-year covariates as
+control variables as well as the fixed effects.
+
+In the third set of models (models 5 and 6), we estimate the effect of
+differences in income inequality among racial groups on income segre-
+gation, using metropolitan area and group x year fixed effects. These mod-
+els have the form
+
+Fingy = O° Tngy
+
++ Ty + An + Xny BA Wreyl + €neys (6)
+
+mey
+where I, and A,, are group x year and metropolitan area fixed effects,
+respectively. The coefficient a on inequality from this model indicates the
+average within-group-year association (across metropolitan areas) be-
+tween inequality and segregation, net of any average differences in in-
+equality and segregation among metropolitan areas across groups and
+decades. Model 6 includes a set of group-metro-year and metro-year co-
+variates as control variables as well as the fixed effects. Because the three
+models rely on different sources of variation in income inequality, each
+relies on a different key assumption in order to support a causal claim
+about the effect of income inequality on income segregation.” As a result,
+Main Effects of Income Inequality on Income Segregation
+
+Table 3 reports the estimates from the models described in equations (4)—
+(6) above. Of primary interest here are the estimated coefficients on the
+Gini index in models 2, 4, and 6, which include the full set of covariates
+as well as the fixed effects. Model 2 yields an estimated association of
+0.467 (SE = 0.060; P < .001) between income inequality and income
+segregation, net of the model’s fixed effects and covariates. In other words,
+a change of one point in a group’s income inequality is associated with
+a change of roughly half a point in income segregation. Note also that
+model 1 implies that changes in income inequality alone do not fully
+explain the trends in income segregation; even after controlling for income
+inequality, within-group income segregation grew, on average, by 0.013
+points in the 1970s and by another 0.015 points in the 1980s.
+
+Model 4, which relies on variation in income inequality between white
+and black families within the same metropolitan area and year, yields an
+estimated association between inequality and segregation of 0.783 (SE =
+0.125; P < .001), somewhat larger than the estimate from model 2. Note
+that model 3 implies that income inequality alone more than accounts for
+the differences in income segregation between black and white families.
+Model 3 implies that income segregation among black families is lower,
+on average, than among white families within the same metropolitan area
+and year, given the same level of income inequality.
+
+Finally, model 6 yields an estimated association between income in-
+equality and income segregation of 0.502 (SE = 0.110; P < .001). Thus,
+each of the three models yields estimated coefficients on income inequality
+that imply that inequality has a positive effect on income segregation. To
+get a sense of the magnitude of these effects, note that an effect of 0.500
+(roughly that found in models 2 and 6) implies that the changes in income
+
+ropolitan areas and differences associated with the covariates in the model. None of
+these three assumptions are likely to be perfectly true, but each model is somewhat
+insulated against threats to another. If we are worried about temporal confounding
+biasing the estimates from the first models, e.g., we can examine the second and third
+sets of models, each of which relies on cross-sectional variation across groups or met-
+ropolitan areas. If we are worried about unobserved group-specific factors, such as a
+correlation between employment sector and preferences for neighbors, biasing the
+estimates in the second set of models, we can look to the first and third sets of models,
+each of which relies only on within-group variation (over time or across metropolitan
+areas).
+Model specification:
+Metro-year co-
+variates ........
+Group-metro-year
+covariates .....
+Metro x group
+fixed effects ... ‘Yes
+Metro x year
+fixed effects ...
+Group x year
+fixed effects ...
+
+ 
+
+Metro fixed
+effects .
+Adjusted R’ . 879
+Observations ....... 644
+
+Aes Aen
+
+Yes
+Yes Yes
+Yes
+Yes Yes
+-933 691 770
+644 488 488
+
+644
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+883
+644
+
+ 
+
+NotEe.—Bootstrapped SEs are in parentheses. The sample includes observations from
+the 100 largest metropolitan areas in 2000, excluding black observations from 39 metro-
+politan areas with fewer than 10,000 black families in 1970. Coefficients on covariates and
+fixed effects are not shown. Metro-year covariates include metro population; unemployment
+rate; proportion under age 18; proportion over age 65; proportion with high school diploma;
+proportion foreign born; proportion female-headed families; per capita income; proportions
+employed in manufacturing, construction, financial and real estate, professional, and man-
+agerial jobs; and proportions of housing built within 10, five, and one years. Group-metro-
+year covariates include race-group-specific population, per capita income, proportion with
+
+high school diploma, proportion female-headed families, and unemployment rate.
+
+*P <.05.
+P< O01.
+wee P< O01.
+inequality from 1970 to 2000 shown in table 2 account for roughly 40%
+of the average change in black income segregation, 80% of the average
+change in white income segregation, and 60% of the average change in
+overall income segregation. Put differently, a 1-SD change in income in-
+equality leads to roughly a 0.25-SD change in income segregation.”
+
+To ensure that the estimates from models 2, 4, and 6 are not driven by
+one particular race group or decade, we fit an additional set of models
+for each race group separately and another set of models for each decade
+separately. The results of these models are shown in table 4. In each model,
+the coefficient on inequality is positive and statistically significant. In the
+group-specific models, the coefficients range from 0.450 to 0.561; in the
+decade-specific models, the coefficients range from 0.624 to 0.732. Thus,
+across all the models shown in tables 3 and 4, we find that income in-
+equality has a large and positive association with income segregation,
+regardless of whether we rely on temporal, between-group, or between—
+metropolitan area variation to identify this association and regardless of
+which groups or decades we use in the sample.**
+Metro-year
+covariates ..
+Group-metro-year
+
+ 
+
+  
+
+covariates ....... ‘Yes Yes Yes Yes Yes
+Metro fixed effects ‘Yes ‘Yes Yes Yes Yes Yes
+Adjusted R? 959 921 689 789 821 866
+Observations 400 244 161 161 161 161
+
+ 
+
+ 
+
+NotEe.—Bootstrapped SEs are in parentheses. The sample includes observations from
+the 100 largest metropolitan areas in 2000, excluding black observations from 39 metro-
+politan areas with fewer than 10,000 black families in 1970. Coefficients on covariates and
+fixed effects are not shown. Metro-year covariates include metro population; unemployment
+rate; proportion under age 18; proportion over age 65; proportion with a high school diploma;
+proportion foreign born; proportion female-headed families; per capita income; proportions
+employed in manufacturing, construction, financial and real estate, professional, and man-
+agerial jobs; and proportions of housing built within 10, five, and one years. Group-metro-
+year covariates include race-group-specific population, per capita income, proportion with
+high school diploma, proportion female-headed families, and unemployment rate.
+
+*P <.05.
+
+P< O1.
+
+we P< O01.
+Japoy oujay-usemjog J2POW dnoig-usemjog Japoy epeceq-usemjog
+sé cL os sz Ss sé GL os Gz Ss sé GL os Gz Ss
+L ! 1 ! 1 L ! L ! L 1 ! \ L L
+
+ 
+
+-S0-
+
+00
+
+ 
+
+ 
+
+rso
+
+Pol
+
+rgb
+
+ 
+
+ 
+
+pos peyeulysy
+sé
+
+cL
+
+yoeld
+os
+
+SL os
+
+soles |IV
+sz
+1 1
+
+ 
+
+l s‘o-
+
+p00
+
+SO
+
+Fol
+
+Sl
+
+ 
+
+ 
+
+popA peyeullysy
+Effects of Income Inequality on Spatial Segregation Patterns
+
+Our third set of analyses investigates whether income inequality produces
+macro- and/or micro-scale income segregation patterns. For these anal-
+yses, we focus on the relationship between overall income inequality and
+household income segregation rather than race-specific family income in-
+equality and segregation. As above, we focus on the 100 largest metro-
+politan areas in 2000. We fit models that include metropolitan area and
+year fixed effects and a set of metropolitan area x year covariates (the
+models are identical to those specified in col. 1 of table 4, except for the
+different outcome and the fact that we use data only from years 1980 to
+2000).
+
+In order to investigate the geographic scale of the effects of income
+inequality, we fit these models using five different measures of spatial
+segregation: four using different radii and one using the measure of “net
+micro segregation” described by Lee et al. (2008). Our rationale for this
+is as follows. The level of segregation among micro environments (local
+environments of 500-meter radius) can be thought of as made up of two
+nonnegative components: a component that is due to macro-scale segre-
+gation patterns—that is, segregation among macro environments (local
+environments of 4,000-meter radius)—plus a component that is due to
+micro-scale variation in neighborhood composition over and above the
+macro-scale patterns. By definition, then, the effect of inequality on seg-
+regation among micro-scale environments will be equal to the sum of its
+effect on macro-scale segregation and its effect on net micro segregation.
+Thus, by comparing the effect estimates across the outcome measures, we
+can infer the geographic scale at which income inequality affects segre-
+gation. For example, if inequality affects segregation among micro en-
+vironments much more than it affects segregation among macro environ-
+ments, then the effect of segregation must operate primarily to increase
+the small-scale spatial patterning of income (net micro segregation). Con-
+versely, if inequality affects segregation among micro- and macro-scale
+environments equally, then the effect of segregation must operate pri-
+marily to increase the macro-scale spatial patterning of income (and have
+no effect on small-scale pattering).
+
+Our estimates of these different effects are shown in table 5. The key
+result in table 5 is the consistency of the point estimates of the effect of
+inequality (reading across rows of the table), regardless of the radius used
+to define a household’s local environment. In each model, and regardless
+of the span of years, income inequality has a significant effect on macro-
+scale segregation (4,000-meter radius local environments) and a roughly
+similar-sized effect on smaller-scale segregation (though the latter esti-
+mates are not always statistically significant because of large standard
+errors). Moreover, the effect of income inequality on net micro-scale seg-
+regation (the difference between 500-meter and 4,000-meter radius seg-
+regation, shown in col. 5 of table 5) is indistinguishable from zero in these
+models, implying that the effect of income inequality on segregation op-
+erates entirely through its effect on macro segregation. In other words,
+income inequality affects income segregation by shaping residential pat-
+terns at a large spatial scale rather than by increasing the block-to-block
+sorting of households by income.
+
+In figure 12, we present the results of an analysis that combines features
+of two of the preceding analyses. Here we report the effects of income
+inequality on spatial household income segregation at specific percentiles
+of the income distribution and using different local environment radii to
+compute spatial segregation. The left-hand panel of figure 12 shows that
+income inequality has a large positive effect on the spatial segregation of
+affluence but a negative effect on the spatial segregation of extreme pov-
+erty (the bottom 5% of the income distribution) when segregation is com-
+puted among local environments of 500-meter radius. The center panel
+indicates that income inequality has a similar effect on macro-scale seg-
+regation except in the bottom quartile of the income distribution. The
+right-hand panel of figure 12 describes the portion of the effect of income
+inequality on 500-meter radius segregation that is not due to macro-scale
+segregation effects (mathematically, this effect is the difference between
+the two effects in the left and center of the figure). Except for the effects
+on the segregation of poverty, these net micro-scale effects are indistin-
+guishable from zero. Income inequality does, however, appear to reduce
+the segregation of extreme poverty by reducing the small-scale patterning
+of the segregation of the very poor, a finding consistent with the fact that
+income inequality may actually compress the lower part of the income
+distribution. As we note above, when the lower part of the income dis-
+tribution is compressed, low-income households at different percentiles of
+the income distribution may be more likely to be able to afford to live in
+the same neighborhoods, leading to lower income segregation. In sum,
+figure 12 suggests that income inequality affects income segregation pri-
+TABLE 5
+
+ESTIMATED EFFECTS OF INCOME INEQUALITY ON SPATIAL INCOME SEGREGATION, 100
+
+LarGEST METROPOLITAN AREAS, 1980-2000
+
+ 
+
+ 
+
+SAMPLE: OUTCOME (Radius)
+
+ 
+
+ 
+
+YEARS INCLUDED (500m) (1,000m) A(2,000m) A(4,000m) A(diff)
+1980-2000 (V = 300) ... 377 355 All 414* —.036
+(.247) (.213) (.214) (.194) (.089)
+
+915 894 874 852 -909
+
+1990-2000 (NV = 200) ... 396* 401* 385 HE -368** 028
+(.185) (.160) (114) (.140) (.112)
+
+-940 942 -942 -940 -890
+
+1980 (N = 100).......... 351* 3647 416% 366** —.016
+(.169) (133) (.109) (.133) (.076)
+
+629 621 585 586 .235
+
+1990 (N = 100).......... 466** A486 AQT RE 458% 008
+(.147) (139) (137) (.152) (.062)
+
+563 550 504 444 462
+
+2000 (N = 100).......... .270 .299* .260* 009
+(.148) (119) (117) (.065)
+
+385 388 369 268
+
+ 
+
+ 
+
+NoTeE.—Bootstrapped SEs are in parentheses below estimated coefficients. Adjusted R’’s
+are reported below the SEs. The top two rows are based on models that include metropolitan
+area and year fixed effects and the set of metro x year covariates described in the text. The
+bottom three rows are based on models that include metro-year covariates but no fixed
+
+effects.
+*P <.05.
+P< O1.
+we P< O01.
+sé
+L
+
+32949 9[29S-O191 JON
+
+SZ
+L
+
+0s
+Ll
+
+se
+L
+
+Ss
+L
+
+(WOQOOPH) 1993 a1eoS-o10e,
+
+sé
+1
+
+SL
+L
+
+os
+1
+
+sz
+1
+
+s
+L
+
+s6
+L
+
+(WOOSH) 23 12}0L
+
+SZ
+L
+
+os
+L
+
+gz
+L
+
+s
+
+ 
+
+—
+
+Lol
+
++S0-
+
+ 
+
+ft
+
+00
+
+so
+
+rol
+
+rst
+
+ 
+
+ 
+
+poy peyewijsy
+they imply that increasing income inequality was responsible for 40%-
+80% of the changes in income segregation from 1970 to 2000. The strength
+and consistency of our results across a wide range of model specifications
+suggest that this is a robust relationship, at least among large metropolitan
+areas in the decades from 1970 to 2000. The estimated effect, however,
+is much weaker among small metropolitan areas. Moreover, it is important
+to keep in mind that this analysis investigates the effect of income in-
+equality in an era of rising inequality. It is not clear to what extent these
+findings generalize to eras of lower, or stable, inequality.
+
+One might be concerned that our estimated effects are subject to various
+forms of bias. For example, despite our efforts to use a range of modeling
+strategies to protect our estimates from unobserved confounding, the es-
+timated associations here may nonetheless be biased by the presence of
+some unaccounted-for factors that shape both income inequality and in-
+come segregation. The consistency of the results across three sources of
+variation, however, strongly suggests a causal relationship. More impor-
+tant, one might worry that the estimated associations represent the effects
+of segregation on inequality rather than the other way around. Certainly
+there is reason to suspect that income segregation may engender increased
+income inequality by providing differential access to quality schooling,
+high-paying labor markets, and differential social capital. However, many
+mechanisms that would drive such effects would require considerable time
+to take effect (schooling effects would not manifest as increased income
+inequality for many years, e.g.), so we think that these are less plausible
+explanations for our findings. Nonetheless, we test the hypothesis of re-
+verse causality by reversing our regressions (using inequality as the de-
+pendent variable and segregation as an independent variable in models
+2, 4, and 6). In each case, the estimated associations between segregation
+and inequality are positive and statistically significant but much smaller
+in magnitude than the effects we report.”®
+
+Our second main finding is that income inequality affects income seg-
+regation primarily by affecting the segregation of affluence rather than
+the segregation of poverty. Although the segregation of poverty increased
+from 1970 to 2000 for both white and black families as well as for all
+families, very little of this change is attributable to changes in income
+inequality. Indeed, income inequality affects the relative incomes of lower-
+income households only to a small degree and may actually compress the
+low end of the income distribution. This suggests that changes in income
+inequality would be expected to have little effect on the segregation of
+poverty. Our estimates of the effect of income inequality on spatial seg-
+regation, in fact, suggest that income inequality may slightly reduce the
+spatial segregation of low-income households. Given that income in-
+equality does not seem to drive the patterns of the segregation of poverty,
+we suspect that the segregation of poverty is more a result of housing
+policy than of income inequality. Through the 1980s, federal and met-
+ropolitan housing policies fostered the development of high-density hous-
+ing for low-income families. These policies are likely responsible for much
+of the growth of the segregation of poverty over that time. Likewise, the
+growth in scattered-site low-income and mixed-income housing in the
+1990s, coupled with the demolition of some large, high-density public
+housing projects, may account for the stabilization of the segregation of
+poverty in the 1990s.
+
+Third, we find that the relationship between income inequality and
+income segregation differs for black and white families. In 1970, income
+segregation among black families was lower than among white families.
+This is likely the result of the ghettoization of minorities that took place,
+particularly in northern and midwestern American cities, during the post-
+World War II suburbanization boom. Because of housing discrimination,
+black families were largely denied access to suburban areas, leaving both
+middle- and lower-income black families living in relative proximity in
+urban areas. The passage of housing and lending antidiscrimination leg-
+islation in the 1970s, however, began to reduce the prevalence of housing
+discrimination, making a wider range of neighborhood options available
+to middle-income black families. As a result, income segregation among
+black families rose steeply from 1970 to 1990, as the growing black middle
+class was able to move into previously inaccessible suburban areas. By
+1980, in fact, income segregation among black families was higher than
+among white families. In this era, black income inequality is strongly
+related to the segregation of high-income black families in neighborhoods
+separate from lower-income black families. Although this growth in in-
+come segregation among black families is a result of both the growing
+black middle class and reductions in housing discrimination—both signs
+of progress since the 1960s—it nonetheless may have negative conse-
+quences. Given high levels of racial segregation in U.S. cities, the growth
+of income segregation among black families results in the increasing racial
+and socioeconomic isolation of lower-income black families in neighbor-
+hoods of concentrated disadvantage (Wilson 1987).
+
+Finally, we find that the effects of income inequality on income seg-
+regation are driven primarily by the effects of inequality on macro-scale
+patterns of segregation. Coupled with our earlier finding regarding the
+effects of inequality on the segregation of affluence, this means that income
+inequality appears to increase income segregation largely by inducing the
+highest-earning families to move far away from lower-income households.
+The expansion of suburban and exurban areas in the last few decades,
+facilitated by the growth of the highway system and the movement of
+many high-skill industries to the suburban ring, has allowed families to
+move farther away from metropolitan cores while still engaging in the
+high-skill labor market. The fact that the effect of income inequality on
+income segregation is much weaker in small metropolitan areas is con-
+sistent with this explanation. Because macro-scale segregation is often not
+possible in small metropolitan areas, inequality may have little room to
+affect income segregation. If one of the key amenities that high-income
+families desire to purchase is space—large lots, very low-density housing,
+and access to parks and undeveloped open space—then they will be much
+more able to do so in large metropolitan areas.
+
+In sum, our analyses show that income inequality has a strong and
+robust effect on income segregation but that this effect is more nuanced
+in form than one might initially expect. In fact, income inequality appears
+to be responsible for a specific aspect of income segregation—the large-
+scale separation of the affluent from lower-income households and fam-
+ilies. It does not, however, appear to be responsible for patterns of seg-
+regation of poverty (for that, housing policy is likely to blame). Nor is it
+responsible for patterns of small-scale income segregation, such as those
+seen resulting from the gentrification of urban neighborhoods adjacent to
+poor, nongentrifying neighborhoods.
+
+The macro-scale spatial segregation of high-income households from
+middle- and low-income households may have important and far-reaching
+consequences, particularly given that the top 10% of earners in the United
+States now receive 45% of all income. The segregation of these high-
+income households in communities spatially far from lower-income house-
+holds may reduce the likelihood that high-income residents will have
+social, or even casual, contact with lower-income residents. This in turn
+may make it less likely that they are willing to invest in metropolitan-
+wide public resources that would benefit residents of all income levels,
+such as transportation networks, utilities, parks, services, and cultural
+amenities. Moreover, the spatial separation of the affluent and poor implies
+that there will be few opportunities for disadvantaged families to benefit
+from local spillover of public goods. The distance between affluent and
+lower-income communities makes it unlikely that disadvantaged families
+will be able to take advantage of the local schools, parks, and services in
+which affluent communities invest. Although most sociological theory and
+research regarding the spatial distribution of income have focused on the
+effects of concentrated poverty on residents of poor neighborhoods, the
+findings here suggest that a better understanding of the effects of con-
+centrated affluence on residents far from affluent communities is needed
+as well. The segregation of affluence may directly affect the resources
+available to residents of both poor and lower-income neighborhoods.
+Given the evidence that income inequality has sizable effects on income
+segregation, it is plausible that income segregation may mediate the effects
+of income inequality on social outcomes. A large body of research has
+linked income inequality to negative health outcomes such as increased
+morbidity, mortality, and infant death as well as to negative effects on
+educational attainment, crime rates, social capital, network ties, and po-
+litical institutions (see Neckerman and Torche [2007] for a review). Al-
+though some scholars have argued that income segregation may serve as
+a mechanism that links income inequality to some of these negative social
+outcomes (Mayer 2002; Mayer and Sarin 2005; Neckerman and Torche
+2007), the scant research on this topic has produced mixed results. Mayer
+and Sarin (2005) explicitly test this hypothesis and show that income
+segregation is one mechanism that links income inequality to infant mor-
+tality at the state level. However, other research finds that economic seg-
+regation does not mediate the relationship between income inequality and
+mortality (Lobmayer and Wilkinson 2002) or between income inequality
+and the distribution of educational attainment (Mayer 2001a). Clearly the
+role of income segregation as a mediator between income inequality and
+various social outcomes warrants further investigation, as does the direct
+impact of income segregation on other forms of social inequality.
+APPENDIX A
+
+Computing Income Segregation
+
+Practical Issues in Computing the Rank-Order Information Theory
+Index, H®
+
+To compute H* from equation (3), we need to know the function H(p)
+over the domain (0, 1). In practice, however (given census data, e.g.), we
+can compute H() for only a finite number of values of p, corresponding
+to the income category thresholds that the census uses to report incomes.
+For example, in the 2000 census, income was reported in 16 categories
+(less than $10,000, $10,000-$15,000, $15,000-$20,000, and so on, up to
+$150,000-$200,000 and greater than $200,000). These allow us to compute
+H(p) at 15 distinct values of p (those corresponding to F(10,000),
+F(15,000), ..., #(200,000) in this case). Within each census tract, the census
+provides counts (estimates, really, based on a 1-in-6 sample) of the number
+of families with incomes below each of these income thresholds. For each
+of the thresholds, we can compute #, the proportion of the population
+with incomes below the threshold, and H(), the information theory index
+of segregation between those below the thresholds and those at or above
+the thresholds. Following Reardon et al. (2006), we then approximate the
+function H(p) over the range (0, 1) by fitting an mth-order polynomial to
+the values, weighting each point by the square of E(p):
+
+°
+
+Hi) = 6+ 80+ BP + BD Hey Gg ~N(0 Ge). (AD
+We use a fourth-order polynomial here, but our results are insensitive to
+the choice of any higher-order polynomial. If 6, is the estimated kth co-
+efficient from this model, then Reardon et al. (2006) show that equation
+(3) will evaluate to
+Correcting Small Sample Bias in Income Segregation Measures
+
+One complication with comparing income segregation levels across met-
+ropolitan areas and racial groups is that evenness measures of income
+segregation are biased upward in small populations (specifically, when
+the population is relatively small compared to the number of tracts). This
+bias results from the fact that income segregation measures (including the
+rank-order information theory index) are generally ratios of average
+within-unit (e.g., tracts) income variation to total population income var-
+iation. When the number of households in a unit is small (either because
+of a small population or because of sampling), estimates of within-unit
+variation will be biased downward, meaning that estimates of segregation
+will be biased upward. The bias can be substantial. When we take a
+random sample of 10,000 households from a metropolitan area and com-
+pare income segregation among the sample to income segregation among
+the total population, the sample estimates are considerably higher. Given
+that census family income data are based on 1-in-6 samples, this has
+implications for comparing income segregation across metropolitan areas,
+years, and groups that vary in population size.
+
+To ensure that our comparisons of the levels of segregation among
+metropolitan areas, race groups, and decades are not biased by differences
+in population size, we adjust the estimated segregation levels for popu-
+lation size. For each of the 644 cases in our analysis, we draw 50 random
+samples (without replacement) of 10,000 families of the specified racial
+group (or from the total population) and compute H* from each sample.
+The mean of these 50 estimates provides a population size—adjusted es-
+timate of income segregation for each group-metro-year case. This pro-
+cedure eliminates bias due to different population sizes by ensuring that
+each of the estimates of H® are based on the same size sample. The
+APPENDIX B
+
+Data and Sample
+Data Comparability Issues
+
+Metropolitan boundaries and definitions ——Metropolitan boundaries
+change over time. We use consistent metropolitan area definitions across
+census years to ensure comparability of the results over time. We use the
+OMB 2003 metropolitan area definitions, the first definitions based on
+the 2000 census.
+
+Census confidentiality procedures —The census employs certain mea-
+sures to ensure confidentiality that affect the reporting of race-specific
+income distributions. More specifically, the census suppresses data within
+certain geographic units when it determines that the population numbers
+for certain groups are small enough to threaten the privacy rights of
+individuals or families. For instance, if there are only a handful of black
+families in a census tract, the census would not release the income data
+for black families in that tract because it may be possible to identify
+individual families. In 1980 the census also employed complementary
+suppression, which can lead to the suppression of other groups besides
+the small subgroup to avoid inferences through subtraction. We do not
+adjust our analyses for suppression, but because we include in our race-
+specific analyses only metropolitan areas with more than 10,000 families
+in that race group, the problem is minimized.
+
+Income.—Total income is defined by the census as the sum of the
+amounts reported separately for wage or salary income; net self-employ-
+ment income; interest, dividends, or net rental or royalty income or income
+from estates and trusts; social security or railroad retirement income;
+Supplemental Security Income; public assistance or welfare payments;
+retirement, survivor, or disability pensions; and all other income.
+
+We use family income data from the 1970-2000 censuses. We obtain
+tract-level family income data by race for 1970, 1980, and 2000 from the
+GeoLytics Neighborhood Change Database CDs (GeoLytics 2004) as well
+as the 1990 data from the National Historical Geographic Information
+System’s online data extract system (Minnesota Population Center 2004).
+This was necessary because family income by race was not available in
+the STF3 files in 1990, the files available in the GeoLytics CDs. Instead,
+the 1990 family income by race was in the STF4a files.
+
+The census reports income for families and households. We use family
+income because the data are available by race for all four census years.
+Covariates: Data and Construction
+
+Total population (by race).—1970-2000 obtained from National
+Historical Geographic Information System (NHGIS).
+
+Unemployment (by race).—1970 obtained from NHGIS; 1980-2000 ob-
+tained from GeoLytics. We collapsed unemployment by gender and then
+calculated the percentage of the population that is unemployed. This
+measure includes persons 16 years of age and older in the civilian em-
+ployment force who are not employed.
+
+Age.—1970 obtained from NHGIS; 1980-2000 obtained from Geo-
+Lytics. We calculate the percentage of the population that is less than 18
+and the percentage of the population older than 65. In 1970, the under-
+18 category is actually under 19.
+
+Education (by race).—1970-2000 obtained from NHGIS. We calculate
+the percentage of the population with at least a high school diploma for
+the population 25 years and older.
+
+Per capita income (by race).—1970-2000 obtained from NHGIS. In
+1970 there was no specific variable for per capita income, so we con-
+structed the measure using the aggregate individual income variable.
+
+Foreign born.—1970-2000 obtained from GeoLytics. We calculate the
+percentage of the population that was born outside of the United States.
+
+Occupational industries —1970-1990 obtained from NHGIS; 2000 ob-
+tained from GeoLytics. We calculate the percentage of the population that
+is employed in the following occupational industries: manufacturing; con-
+struction; finance, insurance, and real estate; and professional/managerial
+(information; finance, insurance, and real estate; education; health; other
+professional; and public administration). This measure includes persons
+16 years of age and older in the civilian employment force.
+
+Family structure (by race).—1970 obtained from NHGIS; 1980-2000
+obtained from GeoLytics. We calculate the percentage of families that are
+headed by females. We also calculate the total number of families.
+
+Residential mobility —1970-2000 obtained from GeoLytics. We cal-
+culate the percentage of the population that resides in the same house
+that they did five years before as well as the percentage of the population
+that resides in a different house in the same county. These measures
+include persons 5 years of age and older.
+
+New housing construction.—1970 obtained from NHGIS; 1980-2000
+obtained from GeoLytics. We calculate the percentage of housing (occu-
+pied + vacant) built 10 years, 5 years, and 1 year before the census year.
+TABLE Cl
+
+TRENDS IN FAMILY INCOME SEGREGATION, BY RACE AND INCOME PERCENTILE, 100
+
+LarGEST METROPOLITAN AREAS, 1970-2000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+YEAR
+GROUP AND PERCENTILE 1970 1980 1990 2000 Change
+Black:
+Sth oo. cee 101 132 188 192 091
+10th .. 095 125 177 176 081
+25th 091 121 163 156 065
+50th 097 128 162 158 061
+75th 102 139 177 176 .074
+90th 127 71 .228 .230 103
+95th .. 145 192 260 264 119
+White:
+Sth .... 17 145 163 173 056
+10th .. 104 124 139 148 044
+25th .. 093 101 AL 118 025
+50th .. -100 107 118 126 026
+75th .. 119 123 144 151 032
+90th .. 178 175 .204 .207 029
+95th 216 .210 242 241 025
+All:
+Sth .. 134 .180 .208 -203 069
+10th 122 156 179 178 056
+25th 112 124 .140 144 032
+50th 114 122 136 143 029
+75th .. 128 134 156 163 035
+90th .. 184 187 213 215 031
+95th .. 221 223 .250 247 026
+
+ 
+
+ 
+
+NotTEe.—Segregation measures indicate segregation (H) of families with incomes above
+the specified income percentile from those with incomes below the percentile. The sample
+includes the 100 largest metropolitan areas (according to 2000 population). For blacks, the
+sample includes 61 of 100 metropolitan areas with at least 10,000 black families in each
+
+census, 1970-2000.
+TABLE C2
+ESTIMATED EFFECTS OF INCOME INEQUALITY ON INCOME SEGREGATION AT VARIOUS
+PERCENTILES OF INCOME DISTRIBUTION, 100 LARGEST METROPOLITAN AREAS, VARIOUS
+
+SPECIFICATIONS, 1970-2000
+
+ 
+
+ 
+
+PERCENTILE OF INCOME DISTRIBUTION
+
+ 
+
+ 
+
+MopeEL Sth 10th 25th 50th 75th 90th 95th
+
+Model 2 (V = 644)....... 076 = .138 292% ATAREE B39 — -T7QHEK BATHE
+(124) (.091) (051) (.057) (.069) (.108) (.130)
+
+Model 4 (V = 488)....... A86* —.626*** 782% 719% B4QeEE 1. O74*RE 1.15 6%**
+(.239) (.190) (.166) (.120) (.123) (132) (.147)
+
+Model 6 (V = 644)....... 133.235 A00** — 484 631K 785% 84H
+(135) (115) (.124) (.094) (.085) (.099) (.129)
+
+All families (V = 400)... 155.244 387 550%* — .789FEE BT TRRK 756%
+(181) (.158) (142) (.169) (.084) (133) (211)
+White (V = 400) ......... 110.164 273" — 462*** 661" — 61LRE 527*
+(116) (.098) (.100) (118) (.110) (141) (.229)
+
+Black (NV = 244) ......... 259.202 263 AT4RRE  SO5*E — Q62*EE 1. 250%**
+(.276) (.207) (141) (.106) (107) (.166) (.194)
+
+ 
+
+NotTEe.— Coefficients are estimated effects of income inequality on income segregation at the
+specified percentile of income distribution. Bootstrapped SEs are in parentheses. Estimates from
+models 2, 4, and 6 use the sample and corresponding model specifications from table 3. Estimates
+for all families use the sample of the 100 largest metropolitan areas and specifications from
+table 4; estimates for white and black families use the sample of the 100 largest metropolitan
+areas with at least 10,000 families of the specified group (100 metropolitan areas for white
+models and 61 metropolitan areas for black models) and use specifications from table 4.
+
+*P <.05.
+P< O01.
+wee P< O01.
+Burkhauser, Richard V., Shuaizhang Feng, Stephen P. Jenkins, and Jeff Larrimore.
+2009. “Recent Trends in Top Income Shares in the USA: Reconciling Estimates from
+March CPS and IRS Tax Return Data.” Working paper no. 15320. National Bureau
+of Economic Research, Cambridge, Mass.
+
+Card, David, and John E. DiNardo. 2002. “Skill-Biased Technological Change and
+Rising Wage Inequality: Some Problems and Puzzles.” Journal of Labor Economics
+20:733-83.
+
+Card, David, Thomas Lemieux, and W. Craig Riddell. 2004. “Unions and Wage In-
+equality.” Journal of Labor Research 25:519-59.
+
+Clampet-Lundquist, Susan, and Douglas S. Massey. 2008. “Neighborhood Effects on
+Economic Self-Sufficiency: A Reconsideration of the Moving to Opportunity Ex-
+periment.” American Journal of Sociology 114:107-43.
+
+Coulton, Claudia J., Julian Chow, Edward C. Wang, and Marilyn Su. 1996. “Geo-
+graphic Concentration of Affluence and Poverty in 100 Metropolitan Areas, 1990.”
+Urban Affairs Review 32:186-216.
+
+Crowder, Kyle, Scott South, and Erick Chavez. 2006. “Wealth, Race, and Inter-neigh-
+borhood Migration.” American Sociological Review 71:72-94.
+
+Cutler, David M., and Edward L. Glaeser. 1997. “Are Ghettos Good or Bad?” Quarterly
+Journal of Economics 112:827-71.
+
+Davidoff, Thomas. 2005. “Income Sorting: Measurement and Decomposition.” Man-
+uscript. University of California, Berkeley.
+
+DiPrete, Thomas A. 2007. “What Has Sociology to Contribute to the Study of Inequality
+Trends? A Historical and Comparative Perspective.” American Behavioral Scientist
+50:603-18.
+
+Duncan, Otis Dudley, and Beverly Duncan. 1955. “A Methodological Analysis of Seg-
+regation Indexes.” American Sociological Review 20:210-17.
+
+Durlauf, Steven. 1996. “A Theory of Persistent Income Inequality.” Journal of Eco-
+nomic Growth 1:75-93.
+
+Echenique, Federico, and Roland G. Fryer. 2005. “On the Measurement of Segrega-
+tion.” Working paper no. 11258. National Bureau of Economic Research, Cambridge,
+Mass.
+
+Ellen, Ingrid Gould. 2000. “Is Segregation Bad for Your Health? The Case of Low
+Birth Weight.” Brookings-Wharton Papers on Urban Affairs, 203-38.
+
+Farley, Reynolds, and William H. Frey. 1994. “Changes in the Segregation of Whites
+from Blacks during the 1980s: Small Steps toward a More Integrated Society.”
+American Sociological Review 59:23-45.
+
+Firebaugh, Glenn, and Matthew B. Schroeder. 2008. “Does Your Neighbor’s Income
+Affect Your Happiness?” American Journal of Sociology 115 (3): 805-31.
+
+Fong, Eric, and Kumiko Shibuya. 2000. “The Spatial Separation of the Poor in Ca-
+nadian Cities.” Demography 37:449-59.
+
+GeoLytics. 2004. “Neighborhood Change Database.” East Brunswick, N.J.: GeoLytics.
+
+Gottschalk, P., and Sheldon Danziger. 2005. “Inequality of Wage Rates, Earnings and
+Family Income in the United States, 1975-2000.” Review of Income and Wealth 51:
+231-54.
+
+Hardman, Anna, and Yannis M. Ioannides. 2004. “Neighbors’ Income Distribution:
+Economic Segregation and Mixing in U.S. Urban Neighborhoods.” Journal of Hous-
+ing Economics 13:368-82.
+
+Ioannides, Yannis M. 2004. “Neighborhood Income Distributions.” Journal of Urban
+Economics 56:435-57.
+
+Ioannides, Yannis M., and Tracey N. Seslen. 2002. “Neighborhood Wealth Distribu-
+tions.” Economics Letters 76:357-67.
+
+James, David R., and Karl E. Taeuber. 1985. “Measures of Segregation.” Sociological
+Methodology 14:1-32.
+Jargowsky, Paul A. 1996. “Take the Money and Run: Economic Segregation in U.S.
+Metropolitan Areas.” American Sociological Review 61:984-98.
+
+. 1997. Poverty and Place: Ghettos, Barrios, and the American City. New York:
+
+Russell Sage Foundation.
+
+. 2003. “Stunning Progress, Hidden Problems: The Dramatic Decline of Con-
+centrated Poverty in the 1990s.” Pp. 1-24 in Living Cities Census Series. Washington,
+D.C.: Brookings Institution.
+
+Jencks, Christopher, and Susan Mayer. 1990. “The Social Consequences of Growing
+Up in a Poor Neighborhood.” Pp. 111-86 in Inner-City Poverty in the United States,
+edited by Laurence E. Lynn Jr. and Michael G. H. McGeary. Washington, D.C.:
+National Academy Press.
+
+Jenkins, Stephen P., John Micklewright, and Sylke V. Schnepf. 2006. “Social Segregation
+in Schools: An International Comparison.” Paper presented at the 29th General
+Conference of the International Association for Research in Income and Wealth,
+Joensuu, Finland, August 20-26. http://www.iariw.org/papers/2006/jenkins.pdf.
+
+Katz, Lawrence F,, Jeffrey R. Kling, and Jeffrey B. Liebman. 2007. “Experimental
+Estimates of Neighborhood Effects.” Econometrica 75:83-119.
+
+Lee, Barrett A., Sean F. Reardon, Glenn Firebaugh, Chad R. Farrell, Stephen A.
+Matthews, and David O’Sullivan. 2008. “Beyond the Census Tract: Patterns and
+Determinants of Racial Residential Segregation at Multiple Geographic Scales.”
+American Sociological Review 73:766-91.
+
+Lee, David S. 1999. “Wage Inequality in the United States during the 1980s: Rising
+Dispersion or Falling Minimum Wage?” Quarterly Journal of Economics 114:977—
+1023.
+
+Leventhal, Tama, and Jeanne Brooks-Gunn. 2000. “The Neighborhoods They Live In:
+The Effects of Neighborhood Residence on Child and Adolescent Outcomes.” Psy-
+chological Bulletin 126:309-37.
+
+Levy, Frank, and Richard J. Murnane. 1992. “U.S. Earnings Levels and Earnings
+Inequality: A Review of Recent Trends and Proposed Explanations.” Journal of
+Economic Literature 30:1333-81.
+
+Lobmayer, P., and R. G. Wilkinson. 2002. “Inequality, Residential Segregation by In-
+come, and Mortality in US Cities.” Journal of Epidemiology and Community Health
+56:183-87.
+
+Ludwig, Jens, Jeffrey B. Liebman, Jeffrey R. Kling, Greg J. Duncan, Lawrence F.
+Katz, Ronald C. Kessler, and Lisa Sanbonmatsu. 2008. “What Can We Learn about
+Neighborhood Effects from the Moving to Opportunity Experiment?” American
+Journal of Sociology 114:144-88.
+
+Massey, Douglas S. 1996. “The Age of Extremes: Concentrated Affluence and Poverty
+in the Twenty-first Century.” Demography 33:395-412.
+
+Massey, Douglas S., and Nancy A. Denton. 1988. “The Dimensions of Residential
+Segregation.” Social Forces 67:281-315.
+
+Massey, Douglas S., and Mitchell L. Eggers. 1993. “The Spatial Concentration of
+Affluence and Poverty during the 1970s.” Urban Affairs Quarterly 29:299-315.
+
+Massey, Douglas S., and Mary J. Fischer. 2003. “The Geography of Inequality in the
+United States, 1950-2000.” Brookings-Wharton Papers on Urban Affairs, 1-40.
+
+Mayer, Susan E. 2000. “Income Inequality, Economic Segregation and Children’s Ed-
+ucational Attainment.” Manuscript. University of Chicago.
+
+. 2001a. “How Did the Increase in Economic Inequality Affect Educational
+
+Attainment?” American Journal of Sociology 107:1-32.
+
+. 2001b. “How the Growth in Income Inequality Increased Economic Segre-
+
+gation.” Working paper no. 230. Joint Center for Poverty Research, Northwestern
+
+University, Institute for Policy Research, and University of Chicago, Harris School
+
+of Public Policy Studies.
+. 2002. “How Economic Segregation Affects Children’s Educational Attain-
+ment.” Social Forces 81:153-76.
+
+Mayer, Susan E., and Ankur Sarin. 2005. “An A: ment of Some Mechanisms Linking
+Economic Inequality and Infant Mortality.” Social Science and Medicine 60:439-
+55.
+
+Minnesota Population Center. 2004. “National Historical Geographic Information Sys-
+tem: Pre-release Version 0.1.” Minneapolis: University of Minnesota. http://www
+nhgis.org.
+
+Moller, Stephanie, Arthur S. Alderson, and Frangois Nielsen. 2009. “Changing Patterns
+of Income Inequality in U.S. Counties, 1970-2000.” American Journal of Sociology
+114:1037-1101.
+
+Mora, Ricardo, and Javier Ruiz-Castillo. 2003. “Additively Decomposable Segregation
+Indexes: The Case of Gender Segregation by Occupations and Human Capital Levels
+in Spain.” Journal of Economic Inequality 1:147-79.
+
+Morenoff, Jeffrey D. 2003. “Neighborhood Mechanisms and the Spatial Dynamics of
+Birth Weight.” American Journal of Sociology 108:976-1017.
+
+Neckerman, Kathryn M., and Florencia Torche. 2007. “Inequality: Causes and Con-
+sequences.” Annual Review of Sociology 33:335-57.
+
+Nielsen, Francois, and Arthur S. Alderson. 1997. “The Kuznets Curve and the Great
+U-Turn: Income Inequality in U.S. Counties, 1970 to 1990.” American Sociological
+Review 62:12-33.
+
+Osypuk, Theresa L., and Dolores Acevedo-Garcia. 2008. “Are Racial Disparities in
+Preterm Birth Larger in Hypersegregated Areas?” American Journal of Epidemiology
+167:1295-1304.
+
+Pendall, Rolf, and John I. Carruthers. 2003. “Does Density Exacerbate Income Seg-
+regation? Evidence from U.S. Metropolitan Areas, 1980 to 2000.” Housing Policy
+Debate 14:541-89.
+
+Pielou, Evelyn C. 1977. Mathematical Ecology. New York: Wiley.
+
+Piketty, Thomas, and Emmanuel Saez. 2003. “Income Inequality in the United States,
+1913-1998.” Quarterly Journal of Economics 118:1-39.
+
+. 2008. “Income Inequality in the United States, 1913-1998 (Tables and Figures
+Updated to 2006).” http://elsa.berkeley.edu/~saez/.
+
+Quillian, Lincoln. 2007. “Does Segregation Create Winners and Losers? Education and
+Spatial Segregation on the Basis of Income and Race.” Paper presented at the annual
+meeting of the Population Association of America, New York City, March 29-31.
+
+Reardon, Sean F., Chad R. Farrell, Stephen Matthews, David O’Sullivan, Kendra
+Bischoff, and Glenn Firebaugh. 2009. “Race and Space in the 1990s: Changes in
+the Geographic Scale of Racial Residential Segregation, 1990-2000.” Social Science
+Research 38:55-70.
+
+Reardon, Sean F., and Glenn Firebaugh. 2002. “Measures of Multi-group Segregation.”
+Sociological Methodology 32:33-67.
+
+Reardon, Sean F.,, Glenn Firebaugh, David O’Sullivan, and Stephen A. Matthews.
+2006. “Measures of Socioeconomic Segregation.” Paper presented at the 29th General
+Conference of the International Association for Research in Income and Wealth,
+Joensuu, Finland, August 20-26. http://www.iariw.org/papers/2006/reardon.pdf.
+
+Reardon, Sean F., Stephen A. Matthews, David O’Sullivan, Barrett A. Lee, Glenn
+Firebaugh, Chad R. Farrell, and Kendra Bischoff. 2008. “The Geographic Scale of
+Metropolitan Racial Segregation.” Demography 45:489-514.
+
+Reardon, Sean F.,, and David O’Sullivan. 2004. “Measures of Spatial Segregation.”
+Sociological Methodology 34:121-62.
+
+Rosenbaum, James E., and Susan J. Popkin. 1991. “Employment and Earnings of
+Low-Income Blacks Who Move to Middle-Class Suburbs.” Pp. 342-56 in The Urban
+Underclass, edited by Christopher Jencks and Paul E. Peterson. Washington, D.C.:
+Brookings Institution.
+Ross, Stephen L., and Margery Austin Turner. 2005. “Housing Discrimination in Met-
+ropolitan America: Explaining Changes between 1989 and 2000.” Social Problems
+52:152-80.
+
+Ryscavage, Paul. 1999. Income Inequality in America: An Analysis of Trends. New
+York: Sharpe.
+
+Sampson, Robert J. 2008. “Moving to Inequality: Neighborhood Effects and Experi-
+ments Meet Social Structure.” American Journal of Sociology 114:189-231.
+
+Sampson, Robert J., Jeffrey D. Morenoff, and Felton Earls. 1999. “Beyond Social
+Capital: Spatial Dynamics of Collective Efficacy for Children.” American Sociolog-
+ical Review 64:633-60.
+
+Sampson, Robert J., Stephen W. Raudenbush, and Felton Earls. 1997. “Neighborhoods
+and Violent Crime: A Multilevel Study of Collective Efficacy.” Science 277:918-24.
+
+Sampson, Robert J., Stephen W. Raudenbush, and Patrick Sharkey. 2008. “Durable
+Effects of Concentrated Disadvantage on Verbal Ability among African-American
+Children.” Proceedings of the National Academy of Sciences 105:845-52.
+
+Schwartz, Christine R., and Robert D. Mare. 2005. “Trends in Educational Assortative
+Marriage from 1940-2003.” Demography 42:621-46.
+
+Sharkey, Patrick. 2008. “The Intergenerational Transmission of Context.” American
+Journal of Sociology 113:931-69.
+
+Son, In Soo, Suzanne W. Model, and Gene A. Fisher. 1989. “Polarization and Progress
+in the Black Community: Earnings and Status Gains for Young Black Males in the
+Era of Affirmative Action.” Sociological Forum 4:309-27.
+
+South, Scott J., and Kyle D. Crowder. 1998. “Housing Discrimination and Residential
+Mobility: Impacts for Blacks and Whites.” Population Research and Policy Review
+17:369-87.
+
+Taeuber, Karl E., and Alma F. Taeuber. 1965. Negroes in Cities: Residential Segregation
+and Neighborhood Change. Chicago: Aldine.
+
+Theil, Henri. 1972. Statistical Decomposition Analysis. Amsterdam: North-Holland.
+
+Theil, Henri, and Anthony J. Finezza. 1971. “A Note on the Measurement of Racial
+Integration of Schools by Means of Informational Concepts.” Journal of Mathe-
+matical Sociology 1:187-94.
+
+Tiebout, C. M. 1956. “A Pure Theory of Local Expenditures.” Journal of Political
+Economy 64:416-24.
+
+Turner, Margery Austin, and Stephen L. Ross. 2005. “How Racial Discrimination
+Affects the Search for Housing.” Pp. 81-100 in The Geography of Opportunity: Race
+and Housing Choice in Metropolitan America, edited by Xavier de Souza Briggs.
+Washington, D.C.: Brookings Institution Press.
+
+Turner, Margery Austin, Stephen L. Ross, George C. Galster, and John Yinger. 2002.
+“Discrimination in Metropolitan Housing Markets: National Results from Phase I
+HDS 2000” [electronic version]. Washington, D.C.: U.S. Department of Housing and
+Urban Development.
+
+Waitzman, Norman J., and Ken R. Smith. 1998a. “Phantom of the Area: Poverty-Area
+Residence and Mortality in the United States.” American Journal of Public Health
+88:973-76.
+
+. 1998b. “Separate but Lethal: The Effects of Economic Segregation on Mortality
+in Metropolitan America.” Milbank Quarterly 76:341-73.
+
+Watson, Tara. 2006. “Metropolitan Growth, Inequality, and Neighborhood Segregation
+by Income.” Manuscript. Williams College.
+
+. 2009. “Inequality and the Measurement of Residential Segregation by Income.”
+Review of Income and Wealth 55:820-44.
+
+Western, Bruce, Deirdre Bloome, and Christine Percheski. 2008. “Inequality among
+American Families with Children, 1975-2005.” American Sociological Review 73:
+903-20.
+
+Wheeler, Christopher H. 2006. “Urban Decentralization and Income Inequality: Is
+Sprawl Associated with Rising Income Segregation across Neighborhoods?” Man-
+uscript. Federal Reserve Bank of St. Louis.
+
+Wheeler, Christopher H., and Elizabeth A. La Jeunesse. 2006. “Neighborhood Income
+Inequality.” Manuscript. Federal Reserve Bank of St. Louis.
+
+. 2008. “Trends in Neighborhood Income Inequality in the U.S., 1980-2000.”
+Journal of Regional Science 48:879-91.
+
+Wilson, William Julius. 1987. The Truly Disadvantaged: The Inner City, the Underclass,
+and Public Policy. Chicago: University of Chicago Press.
+
+Wolff, Edward N. 2006. “Changes in Household Wealth in the 1980s and 1990s in the
+US.” Pp. 107-50 in International Perspectives on Household Wealth, edited by
+Edward N. Wolff. Northampton, Mass.: Elgar.
+
+Wong, David W. S. 1993. “Spatial Indices of Segregation.” Urban Studies 30:559-72.
+
+. 2002. “Spatial Measures of Segregation and GIS.” Urban Geography 23:85-
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+92.
+
+Yang, Rebecca, and Paul A. Jargowsky. 2006. “Suburban Development and Economic
+Segregation in the 1990s.” Journal of Urban Affairs 28:253-73.
+
+Yinger, John. 1995. Closed Doors, Opportunities Lost: The Continuing Costs of Housing
+Discrimination. New York: Russell Sage Foundation.
+
+Zoloth, Barbara S. 1976. “Alternative Measures of School Segregation.” Land Eco-
+nomics 52:278-98.

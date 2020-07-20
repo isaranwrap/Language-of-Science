@@ -1,0 +1,716 @@
+Pale AM ee ee ee at eta
+are now only accessible on
+
+the Chicago Journals website at
+
+EVR LeU
+Pee ot AR eee ea aaa
+are now only accessible on
+the Chicago Journals website at
+
+VESTA a
++ The author is grateful to Norman Bradburn of
+the University of Chicago Graduate School of Busi-
+ness and to Clifford Holmes and Alex Shukin of
+George Williams College for aid in obtaining
+subjects; to Lawrence Carson, Brian Heller, and
+Thomas Tyler for assistance in the analysis of the
+data; to Peter Blau for comments on the manu-
+script; and, particularly, to Morris Friedell for
+insightful contributions to the conceptualization
+as well as to later stages of this research. This
+research was supported by U.S. Public Health
+Service grant MH 05350, “Experiments on the
+Resolution of Interpersonal Conflict.”
+
+2 This notable correspondence of psychological,
+sociological, and general usage is found in Horace
+B. English and Ava C, English, A Comprehensive
+Dictionary of Psychological and Psychoanalytic
+Terms (New York: David McKay, 1958), p. 24;
+Emile Durkheim, Suicide (Glencoe, Ill.: Free Press,
+1951), p. 221; and C. L. Barnhart (ed.), The
+American College Dictionary (New York: Random
+House, 1962), p. 38.
+An explicit assessment of altruism as an
+individual characteristic serves at least two
+major lines of inquiry. First, it helps in
+the traditional problem of evaluation of
+the operation of general norms, as char-
+acterized by Durkheim in his examination
+of altruistic suicide, or by Parsons in
+positing collectivistic and individualistic
+orientations.®
+
+More recently, emphasis upon under-
+standing interpersonal behavior by evalu-
+ating its costs and rewards—epitomized by
+the work of Thibaut and Kelley, Homans,
+and Blau—has added new relevance to the
+concept of altruism. If the behavior of
+two individuals is to be assessed strictly as
+a function of the rewards (positive and
+negative) to each, then it becomes crucial
+to know to what extent these interact, such
+that the welfare of one person provides a
+reward to the other.
+Interpersonal behavior may be charac-
+terized by situations in which two or more
+persons each take certain of alternative
+actions, whose combination produces out-
+comes providing particular rewards for
+each. Such a formulation, deriving from
+and elaborating upon bargaining and game
+theory, has proven highly provocative of
+both conceptual and empirical analysis.>
+
+As conceived in this analysis, a person’s
+selection among alternative actions de-
+pends, to some degree, upon the resultant
+welfare not only to himself but to the other
+as well. Explicitly or implicitly, he places
+a certain weight upon the other’s welfare
+in relation to his own. Three particular
+values of this weight are of special in-
+terest, for they define the following promi-
+nent orientations.
+
+Co-operation, individualism, and com-
+petition—Assume that Person is inter-
+acting with Other in a situation in which
+there are several possible outcomes, not all
+equally favorable to both. Then, in arriv-
+ing at a preference among these outcomes,
+three prominent orientations that Person
+can take are these: (1) He can prefer that
+outcome in which the sum of his welfare
+and that of Other is the greatest; (2) he
+can simply prefer that outcome in which
+his own welfare is the greatest, irrespec-
+tive of Other’s; or (3) he can prefer that
+outcome in which the relative advantage of
+his welfare over Other’s is the greatest.
+These three orientations may be con-
+sidered as pure co-operation, pure indi-
+vidualism, and pure competition, and the
+conceptual element that differentiates them
+is the weight Person places upon the wel-
+fare (O) of Other in relation to his own
+(P). If Person is acting purely co-opera-
+tively, he maximizes P-+O; if acting
+purely individualistically, he maximizes P
+alone; and if acting purely competitively,
+he maximizes P — O. Examples of pure
+co-operation, individualism, and competi-
+tion occur in the interaction of (1) hus-
+band and wife striving to augment family
+income, (2) entrepreneurs each attempting
+merely to maximize his own profit, and (3)
+bureaucrats competing for relative pres-
+tige and status.
+
+Most interaction probably does not cor-
+respond exactly to any of these three situa-
+tions but rather to intermediate orientations
+involving their combination: for example,
+Person may place some positive weight
+on the welfare of Other, but not so much
+as on his own. The cases in which Person
+maximizes P-++O, P alone, and P—O
+serve as defining orientations to establish
+a continuum of degrees of altruism, on
+which pure co-operation and pure compe-
+tition are extremes, and pure individualism
+the midpoint. Then Person may be re-
+garded, not simply as evidencing one of
+three tendencies, but more generally as
+maximizing P + aO, where a (altruism)
+normally ranges from 1.0 (pure co-
+operation) through 0 (individualism) to
+—1.0 (pure competition). The relative
+weight placed upon the welfare of the
+other is thus summarized in a single param-
+eter, a—the assessment of which is the
+purpose of the Altruism Scale.
+
+In the present formulation, altruism is
+not necessarily opposed to egoism; it is
+possible (as in pure co-operation, when
+a equals 1.0) to be equally concerned with
+both one’s own and the other’s welfare.
+Altruism is not incompatible with a desire
+for greater individual welfare. If, for ex-
+ample, we both prefer a travel grant to
+Moscow over one to Los Angeles, then my
+preference that we each receive one to
+Moscow is equally altruistic with a pref-
+erence that we each receive one to Los
+Angeles, and both are more altruistic than
+a preference that mine be to Moscow and
+yours to Los Angeles.
+
+Conditions prescribed by Durkheim for
+altruistic suicide imply a value of @ much
+greater than 1.0; the value placed upon
+oneself is very small in relation to that
+placed upon (collective) others. Though
+this extreme act is relatively rare, lesser
+degrees of selflessness are common and
+find favor with various moral systems.
+Logic, however, cannot universally recom-
+mend even such lesser degrees of selfless-
+ness. In fact, it is reasonable for the
+altruism of one of two interacting persons
+to exceed 1.0 only if the other’s does not:
+Only if, for example, a husband’s altruism
+toward his wife is less than 1.0 can hers
+toward him reasonably be greater than
+1.0; then they are agreeing that his wel-
+fare is more important than hers.
+
+If, however, each person values the
+other’s welfare more than his own, this
+may cause an infinite regress in which
+each person says, “I want to do what you’d
+like,” and the intrinsic values, over-
+shadowed by the altruistic values, may
+never become known. For example, sup-
+pose that, in dining together, each of us
+would rather let the other have his choice
+of restaurant. Then I will try to make
+you believe that my preference is the
+restaurant I think you like, and you will
+do the same. Thus I will discount what
+you say, and guess at your true preference.
+If I guess wrong, you may eventually be-
+come convinced that the restaurant I
+claim I like is truly my preference (since
+you know it’s not yours), and we may
+thus go to a place neither of us prefers,
+though each may think (for a time, at
+least) that the other does.
+
+Toward the other end of the altruism
+continuum, values of @ less than —1.0
+may also have unreasonable aspects. Com-
+petition normally doesn’t go this far: If
+you and J are each trying to reach a goal
+before the other, I may welcome an event
+that slows me a week but slows you two
+weeks—but this only implies a value of a
+between 0 and —1.0. For a to be less
+than —1.0, I have to be so interested
+in your delay that I am willing to sustain
+even greater delay myself; such a feeling,
+especially if reciprocated, has highly
+destructive implications.
+
+Thus both unusually high and low
+values imply potential difficulties, and
+values from —1.0 to 1.0—between pure
+competition and pure co-operation—may
+be considered to constitute a normal range.
+Within this range, values should vary
+widely, depending upon the situation and
+upon the two persons. What levels of al-
+truism are typical for given situations, per-
+sons, and others is an empirical question,
+but it seems likely that effective inter-
+personal relations imply some moderately
+positive value, definitely greater than 0
+and less than 1.0.
+ever, conceives of altruism as a charac-
+teristic that may vary, within individuals,
+as a function of the object of the altruism
+and of the commodity and situation in
+which it is expressed. For example, one
+may be altruistic toward peers but not
+toward subordinates, altruistic with pres-
+tige but not with money, or vice versa.
+
+A direct and theoretically desirable way
+to assess such variation in a person’s
+altruistic behavior would be to observe him
+in specific natural situations where he
+makes choices that affect his own and
+another’s welfare. But practical difficulties
+of observation and methodological prob-
+lems of uncontrolled and unknown biases
+detract from this approach and suggest
+what is perhaps the next best procedure:
+Ask a person to report what he feels his
+behavior would be in such situations. This
+is the approach of the Altruism Scale,
+which employs for this purpose two sepa-
+rate measures—one a ranking of outcomes
+for self and other, the other a direct esti-
+mation of altruism on a scale from 1.0 to
+—100.
+
+Ranking of outcomes.—Subjects (all of
+whom were college students) received the
+following written instructions:
+In Figure 1, the response matrix is
+filled in as it would be by a purely co-
+operative respondent, who cares exactly
+as much about the other’s grade as about
+his own. Two A’s are best and two C’s
+worst, and it is better that one of them
+have an A and the other a B than that
+both have B’s, though the strictly co-
+operative person does not care whether he
+or the other person gets the A.
+
+A purely individualistic orientation re-
+sults in choices as in Figure 2, where a
+person prefers first the three combinations
+that give him an A, but does not dis-
+criminate among these by the grade the
+other receives. The third defining orienta-
+tion—pure competition—is represented in
+Figure 3. Most preferred is an A for one-
+self and a C for the other, and the oppo-
+site is the least preferred. A purely
+competitive person is indifferent between
+an A for himself and a B for the other,
+and a B for himself and a C for the other;
+in both cases his relative advantage—his
+only concern—is the same.®
+The ranks are scored to indicate how
+much a person values the other’s welfare
+in relation to his own—producing, for the
+three defining orientations, @ values of
+1.0, 0, and —1.0. The value placed upon
+own welfare is indicated by the extent to
+which one prefers higher to lower grades;
+this is indexed by the sum of the ranks
+he gives to the three cells in which he re-
+ceives C’s minus the sum of the ranks he
+gives to the three cells in which he re-
+ceives A’s. The larger the difference (the
+more he discriminates between an A and a
+C), the more he cares about his own wel-
+fare.
+
+Orientation toward the welfare of the
+other is assessed similarly, by subtracting
+from the summed ranks for the three cells
+in which the other receives a C the summed
+ranks for the three cells in which the other
+receives an A. For the other, however, one
+may prefer C’s to A’s, and the correspond-
+ing difference can be either positive (indi-
+cating positive altruism) or negative (in-
+dicating negative altruism).
+
+To produce the measure of relative al-
+truism, a, the discrimination between C’s
+and A’s for the other is divided by the dis-
+crimination between C’s and A’s for self.
+Thus,
+8.5)/(21.5 — 8.5), or 1.00; in Figure 2,
+@ equals (15 — 15)/(24 — 6), or .00;
+in Figure 3, a equals (8.5 — 21.5)/(21.5
+— 8.5), or —1.00.1°
+
+Thus, this measure of altruism trans-
+lates into a single value on an essentially
+continuous scale™! the several choices a
+person makes among alternatives that are
+better or worse for him or the other; it
+infers the value of altruism from the per-
+son’s choice behavior. Alternatively, how-
+ever, the person can, as in the following
+measure, estimate his value of @ directly
+upon a graphic scale.
+
+Direct scale estimation—The scale
+ranges from —1.0 to 1.0 by tenths, and the
+person checks one of the resulting twenty-
+one boxes. The scale is anchored by de-
+scriptions attached to the boxes at the
+ends and midpoint of the scale (the three
+defining orientations) and to the boxes
+halfway between these, as follows:
+
+1.0 I am equally interested in how good his
+
+grade is and in how good my grade is
+
+.5 Iam half as interested in how good his
+
+grade is as I am in how good my grade is
+
+.0 I am only interested in how good my
+
+grade is; how good or poor his grade is
+makes no difference to me
+The italicized words emphasize to the
+respondent the relation between his and
+the other’s welfare at each of the five
+anchor points.1? The words are chosen to
+correspond to values of @ in the general
+expression P + aO of the total weighted
+welfare. For the first three alternatives,
+the value of a@ is directly specified (by
+the words equally, half, and only). The
+fourth anchor statement specifies equal in-
+terest in P—O and in P, a total of
+2P — O, which is relatively the same as
+P — .50O. In the last anchor statement, the
+word “better” specifies P — O as the
+criterion.
+
+Thus defined by these five statements,
+this scale reflects the same rationale that
+underlies the previously described measure-
+ment through rankings; rather than in-
+ferring altruism from choices that allocate
+welfare, however, direct estimation as-
+sumes that a person can make a reasonable
+estimate of his preference for his own and
+other’s welfare. This serves to quantify
+such common feelings as “I’d do as much
+for him as for myself,” “I’m just looking
+out for myself,” and “All I care about is
+beating him.” A design to examine how
+well it serves is specified in the next sec-
+tion.
+both by ranking of outcomes and by direct
+scale estimation, for three groups of sub-
+jects, each toward three different alters and
+in two situations.
+
+Alters: friend, stranger, antagonist.—
+Since reciprocation of friendship or an-
+tagonism forms the most basic kind of
+interpersonal balance—widely theorized
+about and observed'*—altruism should
+vary strongly with the nature of one’s
+relation to the other person. To assess the
+influence of affective relations, subjects
+were presented not only the previously
+described situation I, involving a friend,
+but the following as well:
+Measures: ranking and direct estima-
+tion Each person responded using both
+measures, in both situations, toward all
+three alters—in this order: ranking of
+grades (first for friend, then stranger, then
+antagonist), direct estimation for grades,
+ranking of salaries, direct estimation for
+salary.
+
+Groups: social science, business, and
+YMCA _ students—Responses were ob-
+tained from three groups thought to differ
+in altruism: social science students (mostly
+sociology graduate students) in a small
+groups class at the University of Chicago;
+students in the University’s Graduate
+School of Business; and students at
+George Williams College, which trains stu-
+dents for YMCA and other social service
+positions. George Williams students come
+mainly from  lower-middle-class back-
+grounds, have usually been oriented to-
+ward the YMCA for some time, and are,
+according to Grinker and his associates, of
+unusual mental health.t¢
+MEAN ALTRUISM TOWARD FRIEND, STRANGER,
+AND ANTAGONIST, BY YMCA, BUSINESS,
+AND SOCIAL SCIENCE STUDENTS*
+
+ 
+
+Group
+
+Srrvation, MEAs-
+
+ure, Ano Arter | yMcA| Bust | Social | All 3
+
+ness | Science | Groups
+
+ 
+
+N=
+We | (= | (W=
+62) | “32) | 28) | 122)
+Grades (Ranking) |
+Friend. 47 29 AL 41
+
+ 
+
+Jf 24 03 12 16
+Antagonist....| —10 | —28 | —41 —22
+
+  
+
+ 
+
+  
+
+Friend 63 43 55 56
+
+Stranger. 18 —03 09 10
+
+Antagonist....] —06 | —37 | —35 | —21
+Salary (Ranking):
+
+Friend. . ‘ 35 22 35 32
+
+Stranger. 19 03 06 12
+
+Antagonist....} —0O1 —25 —25 | -13
+Salary (Scale):
+
+Friend. . 51 39 60 50
+
+Stranger. 15 | —O1 03 08
+
+ 
+
+Antagonist....| —02 | —25 | —31 | —15
+Both situations
+and both meas-
+
+  
+
+ures:
+
+Friend........ 49 33 48 45
+
+Stranger. : 19 o1 07 12
+
+Antagonist....| —05 —29 | -—33 | —18
+All twelve re-
+
+sponses........ 21 02 07 13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* All altruism values are in hundredths.
+consistency, such differences should emerge
+regardless of the mode of measurement,
+and altruism shown toward the three alters
+for the two commodities should correlate
+moderately though not too highly.!7
+
+Distinction among alters——As Table 1
+shows, there are, for all three groups, in
+both situations, using either measure,
+large and consistent differences among the
+three alters. Altruism toward a friend is
+substantially greater than that toward a
+stranger, which in turn is substantially
+greater than that toward an antagonist.18
+The over-all averages, .45, .12, and —.18,
+place the stranger almost exactly halfway
+between the friend and the antagonist;
+there is slight positive altruism toward
+strangers; and though altruism toward
+antagonists is negative, it is considerably
+smaller in absolute magnitude than the
+positive altruism shown toward friends.
+
+Group differences—YMCA college stu-
+dents are generally more altruistic; their
+mean altruism toward all alters is .21, and
+even toward an antagonist, it is barely nega-
+tive. Social science and business students
+both have mean altruism near zero, but dif-
+fer in the extent to which they discriminate
+among friend, stranger, and antagonist.
+Responses of business students are almost
+exactly balanced around the zero point,
+with a spread of about .6 between friend
+and antagonist. Social science students
+discriminate more (about .8) between
+friend and antagonist.
+
+Thus, each group appears to respond
+according to values generally ascribed to
+it: YMCA college students, interested in
+social service, show more altruism, gener-
+ally, toward anyone; business students are
+more concerned strictly with maximizing
+their own welfare, disregarding the other’s;
+social science students, trained to recognize
+individual differences in behavior, give
+more weight to their specific previous ex-
+perience with the other person. More than
+the other groups, the social science stu-
+dents act in accord with principles of ex-
+change and reciprocity.1® Grossly, the
+tendencies differentiating the three groups
+may be put as follows: YMCA students
+help everyone, business students help
+themselves, and social science students
+help those who help them.
+
+Individual characteristics —These group
+differences on altruism are reinforced in
+two ways by relations for the characteristic
+of authoritarianism, as measured by the
+F Scale.2° First, altruism appears to be
+quite distinct from authoritarianism, as
+evidenced by the correlation of —.03, over
+all 122 individuals, between a person’s F
+Scale and his total score on altruism,
+summed over the twelve measures. Even
+separate scores, computed for altruism
+toward friends, toward strangers, and
+toward antagonists, and for grades and
+for salary, all correlate less than .10 with
+the F Scale.
+
+Second, the F Scale itself discriminates
+among the three groups in a way that
+appears reasonable, lending further cre-
+dence to their use as standards: Business
+students are the most authoritarian, social
+science students the least, and YMCA col-
+lege students—whose lower-middle-class
+background suggests authoritarianism, but
+whose social service orientation suggests
+the reverse—are in the middle.
+
+Two sex differences appeared. Among
+YMCA college students, women are gen-
+erally even more altruistic—toward friend,
+stranger, or antagonist—than are men. Con-
+sidering the background of these students,
+it seems reasonable for them to display
+what is probably the general norm, belief,
+and fact—that women ave more altruistic.
+In social science, a less conventional field
+for women, their responses are more simi-
+lar to those of men. Only in their failure
+to share men’s unusual punitiveness
+toward antagonists do they differ marked-
+ly; women’s altruism toward antagonists
+is —.22, men’s —.42. If, within social sci-
+ence, these women are less likely than
+are men to achieve full-time professional
+status, it seems reasonable that they are
+also less likely to see antagonists as com-
+petitors whom one wishes ill.24
+
+Within the males of the YMCA college
+group, two variables of family struc-
+ture relate to altruism.2? The 30 per cent
+who are married have a mean altruism of
+.39; mean altruism for single males is .15.
+The number of older sisters correlates .35
+with total altruism; for men having no
+older sisters, mean altruism is .14, for those
+having at least one older sister, mean
+altruism is .47. Number of older brothers,
+younger brothers, or younger sisters is not
+related to altruism.
+
+To understand why only the older-
+sister sibling relation might be associated
+with altruism, one should recognize that
+of the four possible age-sex combinations
+for a pair of siblings (twins excepted), only
+the pairing of an older sister and a younger
+brother fails to produce a clear dominance.
+Among like-sex pairs, the older is domi-
+nant, while an older brother is clearly
+dominant over a younger sister. But in
+the older sister-younger brother combina-
+tion, dominance of the older and domi-
+nance of the male may be partially com-
+pensatory—and by thus having a more
+nearly equal sibling relation, the boy with
+an older sister may thereby have a greater
+chance to learn the value of co-operation.
+This interpretation is also consistent with
+the greater altruism of married men; it
+may in both relations be the opportunity
+for prolonged and intensive co-operation
+with a near equal—whether an older sis-
+ter or a wife—that causes these experiences
+to relate to the display of altruism.
+
+Internal consistency—The most direct
+index of over-all altruism, across the vari-
+ous alters, measures, and situations, is
+simply the sum of the twelve separate
+scores a subject receives; considered as
+a twelve-item scale, this measure of
+altruism has an internal-consistency re-
+liability of .79.23 Other consistencies ap-
+pear between particular subsets of scores:
+A composite score for the four scales in-
+volving a stranger correlates .63 with a
+corresponding composite for friends and
+.57 with one for antagonists. Thus not
+only is altruism toward strangers midway
+between that toward friends and antagonists
+(as previously shown by the means) but it
+is equally related to each. The correlation
+between the two more distant points of
+friend and antagonist is correspondingly
+less: .31.
+
+Altruism in situations involving grades
+corresponds rather closely to altruism in
+situations involving salary; the correla-
+tion between the two six-item composites
+is .75. Correlation between the six-item
+composite measuring altruism by direct
+subjective estimation and the composite
+measuring it by ranking is much smaller:
+.32. Despite the logical relation that con-
+nects the two modes of measurement,
+subjects are far from perfectly consistent
+in their responses. This discrepancy may
+result partly from lack of understanding
+or of motivation by the subjects, since the
+task is in some ways novel and complex.
+However, complete ranking of pairs of
+grades—the more difficult task—can be
+achieved instead by presenting a number
+of paired comparisons, each calling only
+for a preference for one pair of grades or
+another.
+
+The low correlation of the two measures
+may also partially reflect multidimension-
+ality in the rankings. Direct estimation on
+the twenty-one-point scales promotes uni-
+dimensional judgments, but ranking the
+nine pairs of outcomes in the matrix makes
+it easy for persons to consider more than
+the single dimension of altruism. One
+added principle is egalitarianism—indeed
+shown by some subjects, who prefer first
+A’s for both, then B’s for both, then C’s
+for both; by preferring these over such
+alternatives as A for one and B for the
+other, they show that they value strict
+equality more than absolute level of re-
+ward.”4 Such egalitarianism warrants sepa-
+rate assessment as another principle for
+allocating rewards between persons—
+though one that in these data accounts
+for fewer choices than does altruism.
+
+Everything considered, the present re-
+search shows the Altruism Scale to assess,
+with moderate validity and reliability, a
+continuum, ranging from co-operation
+through individualism to competition, that
+defines a central orientation of a person
+toward the rewards he and another expe-
+rience in interaction.

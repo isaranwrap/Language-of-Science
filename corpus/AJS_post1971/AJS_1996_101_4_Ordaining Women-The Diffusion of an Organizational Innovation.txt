@@ -1,0 +1,1396 @@
+Ordaining Women: The Diffusion of an Organizational Innovation
+
+Author(s): Mark Chaves
+
+Source: American Journal of Sociology, Vol. 101, No. 4 (Jan., 1996), pp. 840-873
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2782232
+
+Accessed: 08-06-2016 04:07 UTC
+INTRODUCTION
+
+One of the most significant transformations in 20th-century American
+religion is the entry of women into the clergy. In terms of numerical
+
+! This research was supported by a large grant from the Louisville Institute for the
+Study of Protestantism and American Culture and by smaller grants from the Society
+for the Scientific Study of Religion and the University of Notre Dame. Elizabeth
+Caniglia, James Cavendish, and Sam Reimer contributed excellent research assis-
+tance. Helpful comments were offered by Gail Bederman, Rebecca Bordt, Virginia
+Brereton, Patricia Chang, Kevin Christiano, Elisabeth Clemens, Chris Coble, William
+R. Hutchison, Edward C. Lehman, Suzanne Marilley, George Marsden, John Meyer,
+David Strang, and AJS reviewers. This paper also benefited from the comments of
+participants in Harvard Divinity School’s American Colloquium and Duke Divinity
+School’s Leadership Development Seminar. Direct correspondence to Mark Chaves,
+Department of Sociology, University of Notre Dame, Notre Dame, Indiana 46556.
+E-mail: chaves@irishmvs.cc.nd.edu
+
+© 1996 by The University of Chicago. All rights reserved.
+0002-9602/96/10104-0002$01.50
+strength, this is largely a post-1970 development. In 1974, only 14.3%
+of students in U.S. theological seminaries were female; by 1993, 31%
+were female (King 1994, p. 76). The increasing presence of professional
+women after 1970 is not unique to the clergy, as figure 1 shows. With
+the exception of World War II, the proportion of female doctors, lawyers,
+and clergy was across the board very low from 1880 until 1970, after
+which the proportion female started to rise steeply for all three
+professions.
+
+This influx of women into the clergy has prompted a fair amount of
+sociological attention. Research has investigated the social backgrounds
+of women entering the ministry, their experiences in seminary and on
+the job market, and the ways in which their careers systematically differ
+from the careers of male clergy (Carroll, Hargrove, and Lummis 1983;
+Kleinman 1984; Nesbitt 1993). Other research has examined sources of
+continuing resistance to female clergy among lay people (Lehman 1980,
+1987), among male clergy (Nason-Clark 1987b), and among denomina-
+tional officials (Lehman 1981). Still other research has focused on the
+consequences for denominations of growing numbers of female clergy
+(Nason-Clark 1987a; Royle 1987). Most recently, research has begun to
+address the question of whether or not female clergy practice ministry
+styles that are systematically different from the styles practiced by men
+(Lehman 1993; Guth et al. 1994; Simon and Nadell 1995).
+
+Distinct from the individual-level phenomenon of women entering the
+ministry, however, is the organizational-level phenomenon by which de-
+nominations adopted formal policies granting women access to all reli-
+gious positions.” Figure 2 shows the diffusion of this organizational policy
+among U.S. Christian denominations. Unlike the individual-level trend
+in figure 1, the organizational change tracked in figure 2 diffuses slowly
+but steadily across the denominational population during the 20th cen-
+tury. In 1890, about 7% of U.S. denominations gave full clergy rights to
+women; today, approximately half of U.S. denominations do so. This
+diffusion of formal rules granting gender equality is the subject of the
+present paper. Why did some denominations begin to ordain women so
+much earlier than others? What are the differences between early and
+late adopters of this organizational innovation?
+Previous work on these questions has tended to focus on very narrow
+slices of the denominational population. In addition to the numerous
+accounts of women’s ordination within single denominations, extant
+comparative work tends to focus on relatively small sets of denominations
+(e.g., Bliss 1952; Lynch 1975; Brereton and Klein 1980; Barfoot and
+Sheppard 1980; Bednarowski 1980; Boyd and Brackenridge 1983; Carroll
+et al. 1983; Gilkes 1985; Zikmund 1986; Carden 1989; Ward 1991). In
+addition to providing a wealth of factual material from which to draw,
+this work also contains hypotheses about factors that influence how early
+or late a denomination begins to ordain women.
+
+The present paper builds on this earlier work by using a much larger
+set of denominations and by exploiting recent methodological and theo-
+retical advances in the study of organizational change. Methodologically,
+this paper uses an event-history framework to study the diffusion of
+formal gender equality across the denominational population. This strat-
+egy for studying diffusion has been used profitably by others (e.g., Strang
+1991; Sutton et al. 1994). Theoretically, this paper draws on the “new
+institutionalist” approach to organizational change (Powell and DiMag-
+gio 1991).
+
+A basic insight of new institutionalism is that the loose coupling of
+formal rules with everyday practice indicates that those rules likely have
+a source outside the organization. Loose coupling suggests “the de-
+pendence of organizations on the patterning built up in wider envi-
+ronments—rather than on a purely internal technical and functional
+logic” (Scott and Meyer 1994, p. 2). A formal rule or policy only loosely
+connected to actual organizational practice is a clue that such a rule
+exists more to respond to the environment than to govern internal opera-
+tions.
+
+As foreshadowed by the comparison of figures 1 and 2, formal rules
+about gender equality in religious denominations are only loosely coupled
+with the actual practice of women and men in congregations. The nature
+of this loose coupling can be seen from several angles. First, there is a
+clear disjunction between the timing of denominational policy changes
+and trends in the number of women actually seeking clergy status. In
+addition to figure 1, another indicator of these trends is the number of
+women pursuing the relevant professional degree. Before 1970, women
+did not pursue the professional degree for clergy in significant numbers
+even in denominations that ordained women. After 1970, women began
+to pursue the professional degree in significant numbers even within de-
+nominations that did not ordain women.’
+Second, women have performed and continue to perform significant
+leadership roles within denominations that forbid women access to formal
+leadership positions. Ethnographic investigators of U.S. religious groups
+with restrictive gender roles consistently observe gaps between rhetoric
+and practice, both with respect to women’s roles in households (e.g.,
+Ammerman 1987, p. 136; Rose 1987; Davidman 1991, p. 161) and, more
+to the point, with respect to women’s roles in religious organizations (e.g.,
+Brasher 1994). Such gaps have been observed within mid-20th-century
+fundamentalism (Hamilton 1993), contemporary American Catholicism
+(Wallace 1992), and contemporary African-American Pentecostalism
+(Gilkes 1985, p. 688).
+
+Third, there also has been and continues to be loose coupling in denom-
+inations that grant full formal equality to women. Research on female
+clergy consistently documents the fact that formal rules asserting gender
+equality do not necessarily produce real gender equality (Carroll et al.
+1983; Nesbitt 1993). Congregations resist female clergy, and official de-
+nominational policies designed to encourage congregations to consider
+hiring female clergy often are ignored both by congregations and by
+denominational officials (Lehman 1981, 1987). This sort of loose coupling
+between national policy and congregational practice is not new.*
+
+Such ubiquitous loose coupling between rule and practice indicates
+that organizational rules have their source, at least in part, in external,
+institutional pressures on organizations rather than in internal problems
+to which the rules are solutions. Various sources of external pressure to
+institute formal gender equality can in fact be identified. Both waves of
+the women’s movement, most obviously, exerted direct political pressure
+on American religion. Opening the clergy to women was an early move-
+ment goal (see, e.g., Stanton et al. 1881, pp. 67, 73). The American
+Association of Women Ministers (1923) formed in 1919, said that their
+objective was “to secure equal opportunity for women in the ecclesiasti-
+cal world,” and this association helped to influence events in several
+denominations (see, e.g., Noll 1992, p. 91). Near the beginning of second-
+wave feminism, the National Organization for Women established an
+Ecumenical Task Force on Women and Religion (Hole and Levine 1971,
+p. 390). Since then, groups devoted either to winning full clergy status
+for women or, in denominations that already grant full status, to advo-
+cating enhanced opportunities for female clergy have formed inside
+very many denominations (Wuthnow 1988, pp. 228-35; Bendroth 1984,
+p. 133).
+
+In addition to this direct sort of pressure from an organized social
+movement, denominations also experienced a more subtle form of norma-
+tive pressure to ordain women. American religion has tended to lag be-
+hind other areas of professional activity with respect to adopting formal
+gender equality. As early as 1917, for example, all but four states admit-
+ted women to the bar (Morello 1986, p. 36), and by 1972 every law school
+in the country admitted women on an equal basis with men. Already by
+1944, 90% of U.S. medical schools admitted women, and the last holdout
+opened its doors to women in 1960 (McAnarney 1977, p. 10).
+Denominational leaders have been quite conscious of the increasing
+legitimacy of formal gender equality during the previous 100 years of
+American history. Throughout the 20th century, denominational debates
+and reports on the subject of women’s ordination virtually always have
+acknowledged the normative pressure for gender equality coming from
+outside the religious organizational world.* This is as true for denomina-
+tions that continue to restrict women’s access to positions as it is for
+denominations that proceed to change their formal rules in favor of full
+clergy rights for women. The difference between the two is that, in some
+denominations, recognition of the normative pressure leads to the conclu-
+sion that they need to follow suit, while, in other denominations, recog-
+nizing the normative pressure leads them to conclude, in effect, that they
+must resist. Normative pressure, associated with the increasing legiti-
+macy of formal gender equality in American society, was salient to reli-
+gious leaders even between the two waves of the women’s movement.
+The loose coupling and the external sources of the pressure to ordain
+women that I have described strongly suggest that the diffusion of
+women’s ordination should be understood in “new institutionalist”
+terms.° That is, a denomination’s formal policy permitting female clergy
+should be understood as a symbolic marker signaling orientation to and
+cooperation with a broader movement for women’s equality. The diffu-
+sion of women’s ordination is, at least in part, the result of an externally
+generated norm of gender equality working its way through an organiza-
+tional population.
+
+At the same time, figure 2 makes clear that denominational response
+to external pressure toward ordaining women has been far from uniform.
+Some denominations adopted formal gender equality very early, others
+later, still others not yet. This variation suggests that the experience of
+external pressure, in and of itself, cannot fully explain the diffusion
+of women’s ordination. An adequate explanation of the diffusion of
+women’s ordination will invoke both the external sources of pressure
+toward ordaining women and the internal organizational factors influ-
+encing how denominations variously receive and respond to those exter-
+nal pressures. This paper develops such an explanation.
+
+The next section of the paper theorizes organizational change as a
+combination of institutional pressures, cultural and network boundaries
+within the denominational population, and internal organizational char-
+acteristics, all of which affect the likelihood that a denomination will
+ordain women. The third section describes the event-history analysis and
+results, and a concluding section discusses implications of the argument.
+roll et al. 1983, p. 42) have suggested that those shortages were responsi-
+ble for the fact that some denominations granted full clergy rights to
+women during that decade. In more recent decades, some Protestant
+denominations have experienced clergy surpluses (Carroll and Wilson
+1980) at the same time as the Roman Catholic Church is famously and
+increasingly short of clergy (Schoenherr and Young 1993). In light of this
+sort of historical and cross-denominational variation, it is plausible to
+hypothesize that a denomination finding it difficult to fill its key positions
+will be pressured to change its criteria of office to create a larger pool of
+eligible individuals. By this logic of organizational rationality, we would
+expect that denominations will be more likely to begin to ordain women
+when they are in the midst of a clergy shortage.
+
+Neoinstitutionalist logic, by contrast, while not denying the market
+forces that lead congregations faced with a shortage of male clergy to
+draft women to do the work, emphasizes the likelihood that such market
+forces will not directly translate into formal rules. In this case, neoinstitu-
+tionalism counterintuitively predicts that a clergy shortage will not raise
+the likelihood that a denomination will begin to officially permit women’s
+ordination.
+
+Members’ preferences.—Denominations are quasi-political organiza-
+tions, by which I mean that, with only a very few exceptions, they con-
+tain more or less democratic mechanisms meant to assure that national
+policy represents the wishes of the constituency. Thus, another way that
+denominational policy concerning gender equality might be “rational”
+would be if that policy reflected the wishes of the membership on the
+matter. Gender equality, as a goal, does not enjoy equal levels of support
+in all corners of our society. Recent survey data show, for example,
+that individuals living in the South and living in more rural areas are
+significantly less likely to endorse principles of gender equality, whether
+they apply to family and work in general or to clergy in particular.’
+These differences apparently represent long-standing social differences
+in attitudes toward gender equality (Flexner 1974, pp. 229-30).
+
+Denominations, of course, vary in their cultural contexts. Some are
+based in certain geographical regions, some are more rural in their social
+base, some are more middle class than others, and so on. To the extent
+that these sociocultural variations are associated with feminism or anti-
+feminism, they should influence the likelihood that a denomination grants
+full equality to women #f official policy represents an aggregation of mem-
+bers’ wishes. More specifically, from the perspective of organizational
+rationality we would expect denominations that are more rural and more
+Southern to adopt the innovation of female equality later than denomina-
+tions that are more urban and non-Southern.*®
+
+In this situation, however, it is not clear that neoinstitutionalism would
+predict differently. A correlation between organizational rules and prefer-
+ences of members would also be expected if, as neoinstitutionalism em-
+phasizes, individuals’ preferences are themselves constituted by the insti-
+tutional context in which they are embedded. Members of denominations
+not ordaining women would be expected to be less favorable toward
+gender equality but not only because organizational policy reflects mem-
+bers’ independently held prior preferences. Rather, the correlation is pro-
+duced in part because denominations that do not ordain women them-
+selves help to shape the preferences of their members.
+
+Denominations with a predominantly rural social base present another
+complication. The extent to which a denomination’s social basis is rural
+might “rationally” influence organizational policy both via a clergy-
+shortage mechanism and via an aggregation-of-preferences mechanism.
+On the one hand, as described above, individuals living in rural areas
+are less supportive of gender equality as a goal; as a result, rural denomi-
+nations might be expected to be more resistant to ordaining women. On
+the other hand, rural congregations are most likely to be unable to find
+male clergy willing to work for the lower salaries characteristic of these
+congregations. Consequently, it is in rural congregations that women are
+most likely to function as clergy both in denominations that ordain them
+and in denominations that do not (Carroll et al. 1983; Wallace 1992). By
+this mechanism, if women’s ordination is partly a solution to an internal
+labor shortage, rural denominations might be expected to be /ess resistant
+to women’s ordination. Thus, positing that rules about women clergy
+are a response to internally generated organizational problems (e.g.,
+matching rules to members’ preferences or tothe need to staff rural
+congregations) does not yield a clear expectation regarding the effect of
+a more rural constituency on such rules.
+
+There is similar ambiguity regarding how the racial composition of a
+denomination will influence its propensity to grant full clergy rights to
+women. On the one hand, both waves of the women’s movement have
+involved mainly white women, and there is a long-standing competitive
+tension between the goal of expanding women’s rights and the goal of
+expanding the rights of African-Americans. In the years immediately
+following the Civil War, for example, some prominent feminists agitated
+against the Fourteenth Amendment because it gave the vote to black
+Institutional Pressures outside the Denominational Field
+
+Women’s movement.—Most obviously, we would expect that both
+waves of the women’s movement have influenced denominations’ adop-
+tion of gender equality. There is good reason, however, to expect that
+second-wave feminism will have had a stronger effect on denominations
+than did the first wave of the women’s movement. Although the early
+movement had broad goals, it became more narrowly focused on suffrage
+as time went on (Buechler 1990, p. 90). More recent feminism, by con-
+trast, has consistently maintained broad social change goals. I would
+expect, then, that the historical periods associated with the first and
+second waves of the women’s movement will see faster rates of adoption
+by denominations of full clergy rights for women, but I also would expect
+the effect to be stronger during the second wave than during the first.
+
+Founding date.—A new institutionalist approach focuses on increasing
+homogeneity among organizations within a particular institutional field.
+Given the increasing legitimacy of formal gender equality within Ameri-
+can society over this period—a trend that continued even during the
+period between the two waves of direct political pressure from an orga-
+nized women’s movement—it is reasonable to expect that denominations
+founded later will be more likely to ordain women earlier in their organi-
+zational lives. The idea is that environmental pressure to ordain women
+increases steadily from the mid-19th century on, and, since organizations
+are especially susceptible to environmental pressure early in their histo-
+ries, denominations founded more recently will be more likely to have
+gender policies that conform to these external expectations.
+Institutional Pressures within the Denominational Field
+
+The variables described in this subsection remain firmly within the new
+institutionalist approach since, although they refocus attention inside the
+denominational sphere, they represent influences external to any one de-
+nomination. Two features of the denominational organizational field can
+be expected to shape the diffusion of women’s ordination: the interde-
+nominational network structure and the symbolic boundaries that sepa-
+rate denominations from each other.
+
+Interdenominational networks.—At least since Coleman, Katz, and
+Menzel’s (1957) classic study of how the practice of prescribing tetracy-
+cline diffused through communities of physicians, sociologists have inves-
+tigated the ways in which social structure affects the diffusion of various
+innovations. Recent advances in the conceptualization and measurement
+of social networks have permitted more sophisticated studies of the effect
+of social structure on diffusion (e.g., Burt 1987; Galaskiewicz and Burt
+1991). Moreover, the development of event-history methods has provided
+a new technique for studying diffusion, one into which network data are
+easily incorporated (Marsden and Podolny 1990; Strang 1991; Strang and
+Tuma 1993). The present study exploits these developments by incorpo-
+rating interdenominational network data into an event-history analysis
+of the adoption of women’s ordination.
+
+Substantively, recent work on the diffusion of organizational innova-
+tions strongly supports the idea that organizational action is influenced
+by other organizations in the environment. Davis (1991), for example,
+found that, among businesses, having ties to prior adopters of the “poi-
+son pill” (a shareholder rights plan that makes hostile takeover more
+difficult by increasing the costs an acquiring company would have to pay)
+increases the rate at which a Fortune 500 company will itself swallow the
+pill. Haunschild (p. 579), to take another example, found that “the num-
+ber of prior acquisitions completed by the tied-to firms is positively re-
+lated to the number of current acquisitions completed by the focal firm.”
+The central idea of this recent research is that populations of organiza-
+tions are not homogeneous with respect to the degree of influence of each
+actor on each other actor. Instead, the behavior of organizations to which
+an organization is more closely linked will be more important than the
+behavior of organizations less closely connected.
+
+There is good reason to expect that denominations will similarly be
+influenced more by the denominations with which they are most closely
+tied. Descriptive accounts of debates over the issue of women’s ordina-
+tion makes it very clear that denominations are both aware of and not
+indifferent to the practices of other denominations when it comes to
+women’s ordination. But denominations are not equally aware of all
+other denominations. Rather, they appear to be most influenced by the
+behavior of denominations they understand to be most like them, espe-
+cially denominations with whom they may imagine future merger. Given
+this kind of structured awareness of denominations by other denomina-
+tions, it is plausible to hypothesize a network effect on the likelihood that
+a denomination will grant equal access to women. That is, other things
+being equal, if denominations to which a target denomination is closely
+tied via common memberships in interdenominational organizations
+(e.g., the National Council of Churches) already ordain women, then the
+target denomination itself will be positively influenced in that direction.
+
+Perceived similarities: Sacramentalism and biblical inerrancy.—It is
+unlikely, however, that the network variable will capture all of the struc-
+ture among denominations that is relevant for shaping the diffusion of
+gender equality. Strang and Meyer (1994) have argued that the diffusion
+of a culturally meaningful practice is not adequately understood solely
+in terms of literal social ties. That is, when a diffusing object or practice
+carries meaning, the diffusion process is likely to be influenced by more
+than “realist” elements of social structure such as connectedness, struc-
+tural equivalence, spatial contiguity, and the like. Stated positively,
+Strang and Meyer (1994, p. 100) argue that diffusion patterns also will
+be influenced by “culturally theorized understandings of the nature of
+social actors and of diffusing practices.” Most relevant in the present
+context is their hypothesis that diffusion “flows are increased where the
+actors involved are perceived as similar [since] perceptions of similarity
+provide a rationale for diffusion” (p. 103). (I would add that perceptions
+of dissimilarity provide a rationale for resisting diffusion.) From this
+perspective, “diffusion processes often look more like complex exercises
+in the social construction of identity than like the mechanical spread of
+information” (Strang and Meyer 1994, p. 102).
+
+Following this logic, I hypothesize that the diffusion of women’s equal-
+ity across the denominational population will be influenced by cultural
+boundaries within the denominational population. That is, denomina-
+tions that understand themselves as similar to denominations and other
+organizations that grant women full formal equality will ordain women
+earlier than denominations that understand themselves as dissimilar to
+such “liberal” organizations. Denominations construct their corporate
+identities in part by their policies on women, and therefore it is likely
+that relevant aspects of those identities will affect the diffusion of gender
+equality. Consequently, I adopt one of the analytic strategies suggested
+by Strang and Meyer (1994, p. 110) by explicitly measuring two cultural
+similarities among denominations that are likely to influence the diffusion
+of this particular practice: whether or not a denomination is highly sacra-
+mental in its theology and liturgy, and whether or not a denomination
+holds biblical inerrancy as an official ideology. Although denominations
+perceiving themselves as similar in these ways are likely also to be more
+closely linked via memberships in common interdenominational organi-
+zations, the argument here is that the two diffusion mechanisms—direct
+network ties and perceived similarities—are not identical. I expect both
+to influence the diffusion of gender equality among denominations.
+
+Sacramental denominations are those—including Roman Catholics,
+Episcopalians, Eastern Orthodox, and Lutherans—in which the commu-
+nion ritual is not seen as a symbolic remembrance of a meal long ago; it
+is believed to be a transformation of bread and wine into body and
+blood.® Similarly, in more sacramental denominations, baptism is not a
+ritual marking membership in a group; it is an act that itself purifies and
+sanctifies an individual, literally conferring salvation. Biblically inerrant
+denominations are distinguished by an official assertion that, to take the
+Conservative Baptist Association as an example, the “Old and New
+Testaments are regarded as the divinely inspired Word of God and are
+therefore infallible and of supreme authority” (Jacquet 1989, p. 54).
+
+In different ways, the maleness of clergy is crucial to the core identity
+of both sacramental and biblically inerrant denominations. In the case
+of sacramental denominations, producing valid sacraments is central to
+organizational identity, and the maleness of the clergy often is seen as a
+crucial ingredient to the production of valid sacraments. Thus, to tradi-
+tionalists within sacramental denominations, the ontological nature of
+women makes them literally incapable of producing valid sacraments. ’°
+Biblical inerrancy is also a doctrine that forms part of the core organiza-
+tional identity for some denominations. Moreover, it is an idea as closely
+tied to the gender of biblically inerrant clergy as the production of sacra-
+mental ritual is to the gender of sacramental clergy. Here, biblical texts
+regarding the submission of women to men and regarding the proper
+roles for women during worship are taken to preclude female clergy.
+
+Space constraints inhibit more elaboration of the connection between
+sacramentalism and biblical inerrancy on the one hand and gender in-
+equality on the other hand. It is important to see, however, that the
+internal logic of neither sacramentalism nor biblical inerrancy requires
+excluding women from the clergy. The connection is cultural, not logical.
+The reason why the literal maleness of clergy has come to be seen as
+essential to sacramental ritual is not at all obvious. Mary Douglas (1992,
+pp. 275-76) puts the point nicely when she adopts the persona of a
+“questioner” of sacramental rejection of female clergy: “Among the fa-
+mous Nuer of the Sudan a cucumber can substitute for an ox in a sacri-
+
+fice . . . and among the Mandari a ritual that requires a red ox to be
+sacrificed can be performed with a white ox if the right words are ut-
+tered... . So why cannot a woman be transformed by an agreed incanta-
+
+tion into a man?” Regarding inerrant denominations, the biblical text
+is, in fact, quite ambiguous regarding women’s proper roles, and propo-
+nents of women’s ordination are easily able to cite their own biblical
+passages to counter the passages favored by their opponents. Thus, it is
+not the case that an all-male clergy is inherent either in sacramental
+theology or in the Bible. The empirical fact of these connections among
+contemporary denominations raises the question: Whence the connection
+between sacramentalism and biblical inerrancy on the one hand and
+gender inequality on the other hand?
+
+Unfortunately, it is impossible to address this question in this paper.'!
+The key point for the present argument is simply that these connections
+exist, which means that excluding women from the clergy is a way of
+symbolizing commitment to a certain kind of sacramentalism, and it is
+also a way of symbolizing commitment to a particular way of interpreting
+the Bible. Hence, the distinction between sacramental and nonsacramen-
+tal denominations and the distinction between inerrant and noninerrant
+denominations represent cultural boundaries within the denominational
+population that are very likely to influence the diffusion of women’s
+ordination.
+nation has had an autonomous women’s mission society at some point
+in its history.
+
+Centralization.—In decentralized denominations, congregations have
+the authority to ordain whomever they like and otherwise run their own
+affairs; in more centralized denominations, congregations are subject to
+the policies of regional or national bodies. There are several reasons to
+expect that decentralized denominations will ordain women earlier than
+centralized denominations. Most important, decentralization means that
+there will be fewer denominationwide rules of any sort governing the
+behavior of congregations, leaving congregations in such denominations
+with greater freedom of action. In such denominations, the presence of
+only a very few women wanting to be clergy would be enough to force
+the issue, as long as such women could find even one sympathetic congre-
+gation. Such denominations would be expected to begin to ordain women
+almost as soon as there were any women who wanted to be ordained.
+
+Compare, for example, the experience of Clara Celeste Babcock within
+the decentralized Disciples of Christ to the experience of Louisa Woosley
+within the more centralized Cumberland Presbyterian Church. Babcock
+began preaching in 1888. Apparently a gifted speaker, she was hired by
+a congregation in Erie, Illinois, after they heard her deliver a sermon,
+and she remained pastor there for 12 years, becoming the first officially
+recognized female minister in this denomination (Riley 1989).
+
+In 1887, Louisa Woosley was asked to preach at a Cumberland Presby-
+terian Church in Kentucky. Another fine preacher, she was welcomed
+into the pulpits of congregations in the area, and the Presbytery, the local
+governing body, ordained her in 1889. In 1890, the Kentucky Synod, the
+regional governing body, revoked the ordination, an action that was
+ratified by the 1894 General Assembly, the national governing body.
+Woosley continued to function as a minister despite being stripped of her
+formal status, but it was not until 1921 that the denomination officially
+declared that religious offices were equally open to males and females
+(Hudson 1990; Smith 1989, p. 58).
+
+This example illustrates the importance of organizational decentraliza-
+tion to the early granting of official clergy status to women. Small num-
+bers of women were attempting to preach and be ordained throughout
+American religion in the last decades of the 19th century. Often, such
+women could find congregations that would hire them and support their
+quest for formal status within the denomination. In a relatively decentral-
+ized denomination such as the Disciples of Christ, a congregation’s sup-
+port was all that was needed to break the formal gender barrier within
+the denomination. In more centralized denominations, by contrast,
+higher-level judicatories stood in the way. The result was that small
+numbers of women seeking ordination could make it happen more easily
+in decentralized denominations than in centralized denominations.
+There, the formal change would require more pressure. '”
+
+This may also be understood as an example of the general process
+identified by Tolbert and Zucker (1983). That is, the earliest adopters of
+an organizational innovation are more likely than later adopters to be
+responding to internally generated organizational problems. The presence
+of women, even small numbers of women, who request clergy status can
+be understood as such an organizational “problem” to which denomina-
+tions have to respond. My argument about the relevance of organiza-
+tional centralization is that decentralized denominations are more likely
+to “solve” this problem by permitting female equality while more cen-
+tralized denominations are more likely to respond by forbidding it. The
+key difference is that, in more highly centralized denominations, oppo-
+nents to women’s ordination had at their disposal organizational infra-
+structure that could be used to block the adoption of women’s ordi-
+nation. '%
+
+Autonomous women’s missions.—A second internal organizational
+variable is inspired by recent work on 19th-century women’s voluntary
+organizations and their social and political influence (e.g., Freedman
+1979; Scott 1991; Clemens 1993). Skocpol (1992), for example, found that
+the activity of women’s groups was a key force explaining state-level
+variation in the enactment of “mother’s pensions” in the early part of
+the 20th century. Within American religion, women’s organizing was
+most evident in the form of women’s mission societies. Virtually every
+denomination formed a women’s mission society in the decades sur-
+rounding the turn of the century (Beaver 1980; Gilkes 1985; Hill 1985;
+Higginbotham 1993). A 1902 Centennial Survey of Foreign Missions
+(Dennis 1902, pp. 9-13) lists 90 societies directly engaged in foreign mis-
+sions. Of these, 42 were women’s mission societies, and most were affili-
+ated with particular denominations.
+
+However, while many denominations formed women’s mission soci-
+eties and while these societies almost always raised a substantial propor-
+tion of a denomination’s missions budget, denominations varied substan-
+tially in the extent to which their female mission societies and boards
+were organizationally autonomous. Women’s boards in some denomina-
+tions were completely independent, raising their own money, sponsoring
+their own missionaries, and completely controlling their organizational
+lives. In other denominations, women’s societies were merely “auxil-
+iary” to the denominational agencies, providing another avenue for fund-
+raising but granted little say over the disbursement of funds (Beaver
+1980, p. 95). Consequently, these women’s societies varied in their capac-
+ity to wield financial power within the organizational structure of denom-
+inations.
+
+It seems plausible to hypothesize with Carden (1989, p. 154) that this
+variation in the intradenominational organizational position of women’s
+mission boards has affected the likelihood that a denomination will grant
+full clergy rights to women. More autonomous women’s societies can be
+expected to wield more intradenominational power, and, if they take on
+women’s ordination as a cause (which they often did), they could be
+expected to be effective activists. By this logic, we would expect a posi-
+tive effect of autonomous women’s boards on the likelihood of a denomi-
+nation granting full clergy rights to women.
+
+There is another mechanism by which having had an autonomous
+women’s mission board might lead to a greater likelihood of full clergy
+rights for women. In virtually every denomination that had an autono-
+mous women’s organization, these societies were incorporated into de-
+nominational agency structures by the end of the first quarter of this
+century. These incorporations were conflict ridden: The men running the
+other denominational agencies dearly wanted the resource-rich women’s
+societies more completely under the denominational umbrella, and the
+women running their own mission societies often resisted those efforts to
+centralize control (Beaver 1980; Hill 1985). One might suppose that these
+conflicts would bring to the fore broader issues of women’s participation
+in denominational life, and one might suppose further that the still pow-
+erful female executives of these organizations would be active in the
+cause of greater organizational participation for women. This essentially
+describes the case of the Presbyterian Church in the USA, where female
+executives of the newly incorporated women’s boards were in fact key
+players in 1920s conflicts over women’s ordination (Boyd and Brack-
+enridge 1983). Brereton and Klein (1980, p. 182) suggest that this dy-
+namic was more widespread.
+had clergy, some degree of national-level organization, and over 300
+congregations in 1992 were identified from that year’s Yearbook of Ameri-
+can and Canadian Churches. Second, denominations in this group that
+were the result of mergers were traced backward in time in order to
+identify their organizational precursors. These precursors were added to
+the population. This procedure yielded 103 denominations.'* Enough
+data to include the denomination in the analysis were collected on 100
+of these denominations for a “response rate” of 97%. Figure 2 is based
+on this group of 100 denominations, only some of which existed in any
+given year.
+
+Of these 100 denominations, eight were excluded from the event-
+history analysis because they were the result of merger between two or
+more denominations, all of which already ordained women at the time
+of the merger. For example, the United Presbyterian Church in the
+United States of America (UPUSA) and the Presbyterian Church in the
+United States (PCUS) merged in 1983 to form the Presbyterian Church
+in the USA. But both of the merging denominations already ordained
+women—the UPUSA since 1956 and the PCUS since 1964. Thus, the
+merger did not create a new entity at risk of beginning to ordain women,
+so the new denomination is excluded from the event-history analysis. Its
+precursors, of course, remain.
+
+The event-history analysis, then, is based on 92 denominations, 44
+of which ordain women by 1987, the final year of observation. Each
+denomination enters the data set at its founding date and leaves when it
+either begins to ordain women or merges to form another denomination.
+The resulting data set includes 6,696 denomination-year combinations.
+
+The dependent variable.—The dependent variable is a dummy vari-
+able that equals “O” for every year that a denomination both exists and
+does not yet grant full clergy rights to women and equals “1” for the
+year in which the denomination begins to ordain women. Information
+about whether or not denominations ordain women and, if they do, when
+they began, was gathered from several sources. First, historical sources
+and literature were searched. Second, a 1987 National Council of
+Churches (NCC) survey of denominations on this issue was used.!> Third,
+telephone interviews were conducted with an informant from every de-
+nomination that did not respond to the NCC survey and for which no
+published descriptions on this issue had been found. The purpose of these
+interviews was to establish the denomination’s current policy regarding
+the access of women to official positions and, in denominations that cur-
+rently granted full clergy rights to women, to establish the date at which
+formal equality began.
+
+The model.—Event-history analysis focuses on the occurrence of
+events or “changes of state.” The dependent variable is an unobserved
+quantity called the “hazard rate,” which is the rate (per unit time) of
+movement from one state to another—here, the rate at which a denomi-
+nation grants full clergy rights to women. Because time in this case is
+measured in one-year discrete lumps rather than continuously, I use a
+discrete-time logit model. In such a model, the dependent variable (the
+hazard rate) is represented as the log of the odds of experiencing the
+event at any given discrete point in time. This model can be written:
+
+log{P,;(/[1 — P;(]} = a + bx; + cz,(t),
+
+where P;(¢) is the probability that organization 7 has the event at time ¢,
+given that it is still at risk of the event at time ¢; x; is a vector of explana-
+tory variables characterizing denomination i that do not vary over time;
+2,(t) is a vector of explanatory variables for denomination 7 that may vary
+over time; and b and ¢ are vectors of parameters giving the effects on the
+hazard rate of time-constant and time-varying variables, respectively. '®
+The logit model is estimated in the usual way, using maximum likelihood.
+
+The independent variables.—Four variables measure internally gener-
+ated rationalizing pressures. Whether or not a denomination is experienc-
+ing clergy shortage is measured by a time-varying dummy variable that
+is “1” if a denomination has fewer clergy than congregations and “0”
+otherwise. Because relatively complete data on numbers of clergy are
+available only as early as 1890, the 1890 value of this variable is imputed
+backward for denominations existing before that date. This means that
+this variable is time varying after 1890 and time constant before that.
+While not ideal, this procedure makes the most use of available informa-
+tion. Two checks were made to gain confidence that the coefficient re-
+ported for this variable is not an artifact of this procedure. First, I
+reestimated models treating this variable as missing before 1890. Results
+are nearly identical. Second, I reestimated models treating this variable
+as a time-constant variable that is “1” if a denomination experienced a
+clergy shortage at any point in its history. In this case, the coefficient is
+significantly negative; denominations ever experiencing a clergy shortage
+are slower to ordain women. Whatever the meaning of this result, it does
+not support the idea that denominations begin to ordain women in an
+attempt to address internal personnel supply problems.
+Whether or not a denomination’s constituency is largely Southern is
+measured by a time-constant dummy variable that is “1” for denomina-
+tions with substantial Southern constituencies and “0” otherwise.!” This
+variable was constructed using a four-step process. First, data were gath-
+ered on the proportion of congregations that were located in three census
+regions: South Atlantic, East South Central, and West South Central.
+These data were gathered at two time points: 1936 and 1990 (Religious
+Bodies 1941; Bradley et al. 1992). Second, for denominations in which
+a regional breakdown was available in 1990 but not in 1936, the 1936
+percentage Southern was estimated using an equation obtained by re-
+gressing, for denominations with nonmissing data at both time points,
+the percentage of Southern congregations in 1936 on the percentage of
+Southern congregations in 1990. Third, this ratio measure was dichoto-
+mized at 50% Southern congregations: Denominations with more than
+50% of their congregations in the South were coded “1” and denomina-
+tions with fewer than or equal to 50% of their congregations in the South
+were coded “0.” Fourth, denominations for which no regional break-
+down was available in either 1936 or 1990 were assigned “1” or “0”
+based on the location of their national denominational headquarters: “1”
+if located in the South; “O” otherwise."
+
+The extent to which a denomination has a rural constituency was
+measured in the same way using the same sources. It is coded “1” if at
+least 60% of a denomination’s actual or estimated 1936 congregations
+were located (a) outside incorporated areas having at least 2,500 inhabit-
+ants or (b) outside other political subdivisions having a total population
+of at least 10,000 and a population density of at least 1,000 per square
+mile. Despite changing census definitions of “rural” and despite substan-
+tial movement of individuals into cities over this period, the correlation
+across denominations between the percentage of congregations that are
+rural in 1936 and the percentage rural in 1990 is .79. A denomination’s
+racial composition is measured by a time-constant dummy variable that
+is “1” for predominantly black denominations and “0” otherwise.
+Three variables measure institutional pressures for gender equality em-
+anating from outside the denominational field. Two time-varying dummy
+variables indicate the two waves of an active women’s movement: A
+variable indicating wave 1 is “1” in the years 1880-1920 and “0” other-
+wise. A variable indicating wave 2 is “1” in the years 1966-1983 and
+“OQ” otherwise. A time-constant variable indicates the denomination’s
+founding date, which usually means the date at which a national-level
+organization was formed in the United States.
+
+Three variables measure institutional pressures emanating from within
+the denominational field. A time-varying denominational network mea-
+sure indicates the proportion of a denomination’s ties to prior or concur-
+rent adopters of women’s ordination. Denominational networks were
+defined by comembership in an interdenominational organization, such
+as the National Council of Churches. These network data were developed
+in five steps. First, existing interdenominational organizations were iden-
+tified at 10-year intervals beginning in 1915, yielding 46 organizations.
+Second, attempts were made to identify the denominations that belonged
+to each interdenominational organization for each year ending in a “5”
+that the interdenominational organization existed. Such information
+was available for 34 of the interdenominational organizations, and it is
+these 34 organizations that constitute the network. Third, this organ-
+izational membership information was used to construct a set of eight
+denomination-by-denomination matrices—one for 1915, one for 1925,
+and so on to 1985. The cells of these matrices contained the proportion
+of a row denomination’s total ties that were to a column denomination
+at a given time point.’® Fourth, each matrix was multiplied by the appro-
+priate member of a set of time-varying vectors which, for each denomina-
+tion in each year, contained “1” if the denomination already ordained
+women by that year (inclusive) and “O” otherwise. Fifth, and finally,
+the entries in the product vectors from the previous step were summed.
+The result is a time-varying variable giving, for each denomination in
+each year, the proportion of that denomination’s interorganizational ties
+that are to denominations that already have begun to ordain women.”?
+The extent to which a denomination is sacramental is indicated by a
+time-constant dummy variable constructed on the basis of a denomina-
+tion’s religious tradition. This variable is coded “1” for Lutheran, East-
+ern Orthodox, Roman Catholic, and Episcopalian denominations and
+“O” otherwise.
+
+Whether or not a denomination’s official position on the Bible included
+inerrancy was coded from descriptions of denominational theology avail-
+able in a variety of published sources. The measure is a dummy variable
+where “1” indicates a denomination that explicitly states its position as
+one of holding the Bible to be something more than merely “inspired” by
+God.*! The distinction between inerrant and noninerrant denominations
+became culturally salient only in the 1880s (Marsden 1980, p. 25). Before
+that, virtually all denominations are inerrantist, so this variable is coded
+“1” for all denomination-year combinations prior to 1880. After 1880,
+the variable is coded either “0” or “1” depending on a denomination’s
+stance toward the Bible, although it is not permitted to vary with time
+after 1880.”
+
+Finally, two variables measure internal organizational features of de-
+nominations. Decentralized religious authority is measured by a time-
+constant dummy variable that is “1” for denominations in which congre-
+gations have complete or nearly complete autonomy to enforce religious
+discipline, hire and ordain clergy, and otherwise organize their religious
+activities, and is “0” for other denominations. The presence of a strong
+women’s voluntary organization inside a denomination is measured by a
+dummy variable that is “1” for denominations that, at any point in
+their history, had an autonomous women’s mission society, and is “0”
+otherwise. “Autonomous” means that the women’s organization con-
+trolled how money they raised was spent. Because the earliest denomina-
+tionwide women’s mission organization was founded in 1868, this vari-
+able is coded “0” in every year before that date. For denominations that
+did at some point have an autonomous women’s mission organization,
+this variable is coded “1” beginning either at the denominational found-
+ing date (if the denomination is founded after 1895) or at the founding
+date of the women’s mission organization (if the denomination is founded
+before 1895). The reason for this procedure is that, by 1895, having a
+denominational women’s mission organization (autonomous or not) is
+a well-institutionalized organizational feature of denominations, which
+Results
+
+An interpretive note is necessary before discussing the event-history re-
+sults. Because these data are from an entire organizational population—
+the largest U.S. Christian denominations—rather than from a random
+sample of a population, it is justifiable to interpret substantively large
+effects even in the absence of statistical significance. To aid interpretation
+of effect magnitude, table 1 contains the antilog of each coefficient, repre-
+senting the multiplicative effect of a unit change in the independent vari-
+able on the odds of the hazard rate. An antilog of 2.00 or greater (or one
+of .5 or lessy means that a unit change in the independent variable doubles
+(or halves) the odds of a denomination beginning to ordain women in a
+given year. When independent variables are coded as dummy variables,
+these antilogs represent the difference in the odds of beginning to ordain
+women between denominations in the two categories denoted by the
+variable. It seems reasonable to consider a doubling of the odds a strong
+effect, and so table 1 marks with a superscript letter a the effects that
+reach this threshold. These antilogs are less easily interpretable for vari-
+ables that are not dummies (i.e., founding date and ties to prior adopters).
+For those variables, I will rely on statistical significance to guide interpre-
+tation.
+
+All models in table 1 include 10 dummy variables measuring the age of
+each denomination. While several of these age dummies are statistically
+significant, I discern no interpretable pattern in the set of coefficients,
+and so they are not presented in the table. All models also include two
+variables measuring historical time. One is a dummy variable that is
+“1” before 1850 and “O” after that date. This variable shows a large
+negative effect, which is not surprising since no denomination ordains
+women before 1850.”> The other is a continuous variable that is simply
+historical year. This variable was included because inspection of a set of
+"SO" > d xx
+‘Ol > dx
+00°2 = (q)dxa 410 Os" = (q)dxe
+“s[feyap a10UL 10 4X9} 94} 22g “doqs sty} Je peppe e19m
+
+ose sa[quizea jens ay} pue aBezOYs ABIa]O ay} UO saNyeAa ZuIsstus Joy Saqelzea AuUINp asnesaq 9 = fPY ‘I Japowl UT “Japoud Yyva UT papnjoul are YTYyAr Jo [Te ‘o[qQuLTeA
+qeak snonuruos & pue ‘osg] 0} Jord potied ay} 10; Aurunp & ‘saruIUINp a3e OT YIM Japoul e 0} aANeIaI aBuLYD 0} Joyal Joy pue arenbs-1y9Vy ‘] [apoul 10J—"ALON
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+0" 00" 10" 9s" “a
+z £ £ 9 “2PYV
+br'9 v8 LZ v8°271 OS tert tt ttsssesesecseeescceeeeccceeeeccecececcs azenbs-1y9V
+O16 v6'r 46'S — HCO Leet eee teneee seca ecu eeseeee seers yueysu0Zd
+2977 TS nsec AYQIDOS UOISSTUL S,UaWIOM SNouOUO;Ny
+wlth Z 4488" ue “* paziyerjuaseqy
+rammjonays feusayuy
+20e" #x02°T — 267" #e€7T — * queiour Aypeotqig:
+287" x97 T— eT" KOT tnrnntnninnerinnrnnnce ccceceneneneneeeeess ystyeyuauIeI9eS
+wb lol #697 286TT 48h 7 siajdope so1id 0} sary
+rorayds snorstjar Spisur Wo4JJ Seinssaid yeuorNysuy
+BST #86" wh 88° 267 ee8OT eter tttenereeseccesececcasercccecececeecccceees Z OAC
+ToT 10" eat 12 19T BR nnnnnrngenenn nena gue cescecereeueereeess T oAeM
+ve UISTUTUIEy BAT
+so't +80" sot 80° sot eeSO0) ater t EEE SEES teeetenaaeaeeueaeerececeees ayep Zurpuno,y
+alo SNOISI]aI apIsyno w1oIJ samnssaid reuonninsuy
+13° vt 6L" ve SLT 9s" est 09° ” Pela
+et It Tar or" LOT Is OLT es” yernyy
+20S" OL - why" 418° — 20S" #0L°— es” ¢9— *~ uray Nog
+71 6r" eet 62° TOT To’ - 64" ETI ri rrerstnesseeeeeeeceeseecccessceeee es aBey10ys AB19{D,
+:samnssaid Surziyeuoryer payeroues AyfeusoUy
+(q)dxo q (q)dxa q (q)dxa q (q)dxo q
+> TAGOW € TACO! 2 TAQOW | Tadow
+
+ 
+
+ 
+
+SISATVNY AYOLSIH-LNGAY AWIL-ALAIANSIC: VY :NAWOM OL SLHORY ADYATD TINY ONILNVAD
+
+1 ATGVL
+dummy variable period effects showed that, after a large spike upward
+in the period encompassing 1850, the period coefficients drop steadily
+from 1850 to the present. Apparently, as time goes on and the denomina-
+tions that are more likely to ordain women begin to do so, those that
+remain at risk are increasingly less likely to ordain women. Thus, these
+two variables seemed the most appropriate way to specify the overall
+effects of historical time.”
+
+Model 1 includes the four variables measuring aspects of denomina-
+tions’ internal features that could be expected to influence the rate at
+which denominations begin to ordain women if that transition reflects
+denominations’ “rational” response to internal organizational problems.
+Adding these four variables (plus the two missing data indicators) to the
+model does not significantly improve the fit over a model with only the
+age and period effects. Neither experiencing a clergy shortage, nor having
+a rural constituency, nor having an African-American constituency in-
+fluences the rate of adopting female ordination. Having a Southern con-
+stituency, however, just misses the cutoffs and, in later models, is statisti-
+cally significant. I interpret this pattern of results as support for the idea
+that denominations with Southern constituencies are less likely to ordain
+women than are denominations with non-Southern constituencies. This
+one coefficient, however, is the only support for the view that denomina-
+tional rules reflect a rational organizational response either to internally
+generated problems or to constituent preferences. As noted above, this
+support is ambiguous since neoinstitutionalism also would predict a cor-
+relation between individual preferences and organizational rules, though
+emphasizing a mechanism other than the aggregation of preferences into
+formal rules.
+
+Model 2 adds measures of externally generated pressure to ordain
+women. Adding these three variables significantly improves the fit of the
+model, and the coefficients are as expected, except that the years associ-
+ated with first-wave feminism did not see a higher rate of adoption of
+women’s ordination large enough to reach specified cutoffs. This result,
+in conjunction with the consistently strong positive coefficient associated
+with second-wave feminism, supports part of the argument developed
+above: Second-wave feminism had a much more substantial impact on
+religious organizations than did the movement’s first wave. During both
+waves, however, denominations began ordaining women at rates higher
+than were evident during other periods.
+
+The statistically significant coefficient associated with organizational
+founding date indicates that, as expected, more recently founded denomi-
+nations adopted women’s ordination faster. Taken together, these results
+support the idea that pressures coming from outside the religious
+sphere—both direct political pressure from a social movement and indi-
+rect normative pressure from the increasing legitimacy of gender equal-
+ity—impinged on denominations’ official policies concerning women.
+
+Model 3 significantly improves the goodness of fit by adding variables
+measuring institutional pressures from inside the denominational sphere.
+All three coefficients are very strong and in the expected directions. De-
+nominations that are sacramentalist or biblically inerrant are much
+slower to ordain women, and denominations more tied to prior ordainers
+of women are themselves much more likely to begin to ordain women in
+a given year. The diffusion of gender equality across denominations is
+strongly influenced both by structural and by cultural divides within the
+denominational world.”
+
+Model 4 adds variables measuring aspects of organizational structure,
+and this again significantly improves goodness of fit. Denominations that
+had an autonomous women’s mission society at some point in their history
+are more than twice as likely to begin to ordain women in a given year than
+are denominations that never had an autonomous women’s group. And,
+as expected, decentralized denominations are substantially more likely to
+ordain women earlier than are more centralized denominations.”°
+
+Overall, then, these results present strong support for the argument
+developed earlier in the paper. While there is some empirical support for
+the idea that denominations with more conservative Southern constituen-
+cies resist ordaining women, none of the other indicators of internal
+“problems” to which women’s ordination might be a “solution” show
+any explanatory power. At the same time, there is strong empirical sup-
+port for the idea that institutional pressures of various sorts strongly
+influenced the diffusion of women’s ordination. The years corresponding
+to second-wave feminism saw a substantially higher adoption rate than
+other periods, and more recently founded denominations ordain women
+sooner. Structural and cultural divides within the denominational popu-
+lation show particularly strong effects on the diffusion rate: Interorgani-
+zational ties to prior adopters powerfully affect diffusion, as does main-
+CONCLUSION
+
+Rather than summarize the argument, I offer, in this section, four con-
+cluding comments. First, “new institutionalist” analyses tend to depict
+organizational change as the inevitable result of homogenizing pressure,
+occurring inexorably as faceless organizations helplessly succumb to un-
+yielding environmental pressures. A consequence of this focus is that
+human agency tends to drop out of the picture (DiMaggio 1988). But, of
+course, there are agents, or carriers, of institutional change, and the
+social location of these agents within organizations shifts over time in
+nonrandom ways. This suggests that a full understanding of organiza-
+tional change, even of change that is largely externally driven, requires
+close attention to the internal politics of organizations.
+
+A cursory look at the history of intradenominational conflicts over
+women’s ordination reveals the intriguing fact that the organizational
+location of promoters of women’s ordination shifts over time. In the
+earliest period, approximately 1850 to World War I, the conflicts emerged
+in response to small numbers of individual women who wanted to speak
+and preach in congregations. Then, from about 1920 to about 1970,
+conflicts over women’s ordination shifted to become more “top-down” in
+nature. Here, conflicts about gender equality in denominations occurred
+mainly among denominational elites with, as I argued above, women
+mission executives being important actors. After 1970, however, the con-
+flicts look more like “bottom-up” social movements. The key actors now
+are female seminarians who form organizations, mobilize constituencies,
+and conduct “illegitimate” actions. After 1970, efforts to win the ordina-
+tion of women also often face organized countermovements. Organiza-
+tional elites still are key players, but they are joined, and sometimes
+overshadowed, by the “special purpose groups” now on the scene (Wuth-
+now 1988).””
+This change in the social basis of the conflicts has produced change in
+the nature of the conflicts. Post-1970 conflicts over women’s ordination
+are much more contentious, much more divisive, and much more painful
+for denominations than were earlier conflicts over the issue. This shift
+calls out for more attention to help us understand how conflicts over the
+exact same issue—in this case, women’s ordination—can take on such
+different character depending on the social location of the key actors.
+Moreover, this seems an example of a diffusion process in which, some-
+what counterintuitively, late adoption is much more wrenching than
+early, truly innovative, adoption. It is very likely that these phenom-
+ena—intraorganizational conflicts that change as the social context
+changes and diffusion in which innovation is easier than late adoption—
+are more general.
+
+Second, the influx of women into seminaries after about 1970 is a
+development of tremendous importance for the diffusion of women’s or-
+dination. The post-1970 shift in the social location of the proponents of
+women’s ordination described above is partly explained by this surging
+female enrollment in seminaries, especially since that influx occurred
+even in denominations that did not yet grant full equality to women.
+Seminaries have served the important function of bringing together in
+one place women with common interests and common grievances, and
+they have provided settings for forging the social networks that are cru-
+cial for mobilizing a social movement, even an intraorganizational social
+movement. As such, they have been important sites for feminist activism
+within American religion. But, although the increase in women’s semi-
+nary enrollment is very widespread across denominations, the results of
+that increase are not uniform. Women mobilized more in some denomina-
+tions than in others, and, where they did mobilize, they achieved differ-
+ent degrees of success in winning their goals. Studying this variation is
+likely to yield insight into the ways in which a broad social movement
+such as feminism variously penetrates and effects change across organiza-
+tional settings. Again, the intersection of social movement and organiza-
+tional change is a phenomenon more general than the case of feminism
+and women’s ordination.
+
+Third, although I have been emphasizing the loose coupling between
+formal rules and practice, it would be a mistake to overstate the discon-
+nection between formal rules and organizational activity. Changing the
+formal rules to permit female clergy does have organizational conse-
+quences beyond symbolic display to the environment. Denominations
+that already ordained women by 1970, for example, experienced larger
+increases in female seminary enrollment than did denominations that did
+not yet grant full clergy rights to women. As a result, the functional
+clergy role may be feminizing in these denominations faster than in de-
+nominations that withhold formal status from women.
+
+Perhaps more important, the presence of a formal rule permitting fe-
+male clergy provides an organizational opening for those who advocate
+a deeper institutionalization of gender equality within the organization.
+For example, within the United Presbyterian Church, a denomination
+that had ordained women since 1956, the 1970s saw the creation of new
+denominational organizations (e.g., the Council on Women and the
+Church), which “gave priority to assisting women in their preparation
+for and placement in pastorates” (Boyd and Brackenridge 1992, p. 294).
+This kind of development was very widespread in the 1970s and 1980s.
+In denominations that already had formal equality, efforts toward inter-
+nal change were thus concentrated on establishing and implementing a
+variety of equal opportunity programs and policies rather than on forcing
+changes in formal rules.
+
+In this way, officially permitting female clergy channels conflicts over
+gender equality in particular directions, not unlike the ways that legal
+rules channel broader collective action into certain standard forms of
+organization and tactics (McCarthy, Britt, and Wolfson 1991). The for-
+mal rules granting full equality matter, but they matter more because
+they present opportunities for new sorts of legitimate social action inside
+the organization than because they directly govern internal practice.
+
+Fourth, and finally, a major theme of this paper has been that the
+loose coupling of formal rules and practice concerning women’s ordina-
+tion indicates that these rules mainly serve as symbolic display to the
+outside world. This “new institutionalist” insight has led me to empha-
+size variables measuring aspects of a denomination’s environment: the
+presence of active feminism, embeddedness in networks of ordainers,
+embeddedness in organizational cultures that support (or resist) gender
+equality. But I have not directly addressed another question: What, ex-
+actly, is the cultural message contained in a denomination’s formal poli-
+cies concerning female clergy? If these policies are symbols, to what do
+they point?
+
+The passage from John Stuart Mill at the beginning of this article
+contains a clue. For Mill, gender equality was one part of a broader
+liberal agenda associated with “progressive human society,” with “hu-
+man improvement,” with “modern tendencies.” To support gender
+equality was to support this larger project of modernity; to resist gender
+equality was to resist that project. If this symbolic connection between
+gender equality and modernity remains salient, and I believe it does,
+then to resist gender equality is to resist a modernizing, liberal agenda
+within which the elevation of individual rights is of paramount impor-
+tance. Meyer, Bolin, and Thomas (1994, p. 25) call this agenda the
+REFERENCES
+
+Allison, Paul D. 1984. Event History Analysis: Regression for Longitudinal Data.
+Newbury Park, Calif.: Sage.
+
+American Association of Women Ministers. 1923. “Who Are We?” Woman’s Pulpit
+(April), p. 3.
+
+Ammerman, Nancy Tatom. 1987. Bible Believers: Fundamentalists in the Modern
+World. New Brunswick, N.J.: Rutgers University Press.
+
+Barfoot, Charles H., and Gerald T. Sheppard. 1980. “Prophetic vs. Priestly Religion:
+The Changing Role of Women Clergy in Pentecostal Churches.” Review of Reli-
+gious Research 22:2-17.
+
+Beaver, R. Pierce. 1980. American Protestant Women in World Mission: History of
+the First Feminist Movement in North America, rev. ed. Grand Rapids, Mich.:
+William B. Eerdmans.
+
+Bednarowski, Mary Farrell. 1980. “Outside the Mainstream: Women’s Religion and
+Women Religious Leaders in Nineteenth-Century America.” Journal of the Ameri-
+can Academy of Religion 48:207-31.
+
+Beggs, John J. 1995. “The Institutional Environment: Implications for Race and
+Gender Inequality in the U.S. Labor Market.” American Sociological Review 60:
+612-33.
+
+Bendroth, Margaret L. 1984. “The Search for ‘Women’s Role’ in American Evangeli-
+calism, 1930-1980.” Pp. 122-34 in Evangelicalism and Modern America, edited
+by George Marsden. Grand Rapids, Mich.: William B. Eerdmans.
+
+. 1993. Fundamentalism and Gender, 1875 to the Present. New Haven, Conn.:
+Yale University Press.
+
+Bliss, Kathleen. 1952. The Service and Status of Women in the Churches. London:
+SCM.
+
+Borgatti, Stephen P., M. G. Everett, and L. C. Freeman. 1992. UCINET IV. Version
+1.0. Columbia, S.C.: Analytic Technologies.
+
+Boyd, Lois A., and R. Douglas Brackenridge. 1983. Presbyterian Women in America:
+Two Centuries of a Quest for Status. Westport, Conn.: Greenwood.
+
+. 1992. “Presbyterian Women Ministers: A Historical Overview and Study of the
+Current Status of Women Pastors.” Pp. 289-307 in The Pluralistic Vision: Presbyte-
+rians and Mainstream Protestant Education and Leadership, edited by Milton J.
+Coalter, John M. Mulder, and Louis B. Weeks. Louisville, Ky.: John Knox.
+
+Bradley, Martin B., Norman M. Green, Jr., Dale E. Jones, Mac Lynn, and Lou
+McNeil. 1992. Churches and Church Membership in the United States, 1990. At-
+lanta: Glenmary Research Center.
+
+Brasher, Brenda. 1994. “The Hand that Rocks the Cradle? Ambiguous and Articu-
+lated Instances of Women’s Authority and Women’s Power in Two Christian Fund-
+amentalist Congregations.” Paper presented at the Association for the Sociology of
+Religion meeting, Los Angeles, August.
+
+Brereton, Virginia Lieson, and Christa Ressmeyer Klein. 1980. “American Women
+in Ministry: A History of Protestant Beginning Points.” Pp. 171-90 in Women
+in American Religion, edited by Janet Wilson James. Philadelphia: University of
+Pennsylvania Press.
+
+Buechler, Steven M. 1990. Women’s Movements in the United States. New Bruns-
+wick, N.J.: Rutgers University Press.
+
+Burt, Ronald S. 1987. “Social Contagion and Innovation: Cohesion versus Structural
+Equivalence.” American Journal of Sociology 92:1287-1335.
+
+Carden, Maren Lockwood. 1989. “The Institutionalization of Social Movements in
+Voluntary Organizations.” Research in Social Movements, Conflicts, and Change
+11:143-61.
+
+Carroll, Jackson W., and Robert L. Wilson. 1980. Too Many Pastors? The Clergy
+Job Market. New York: Pilgrim.
+
+Carroll, Jackson W., Barbara Hargrove, and Adair Lummis. 1983. Women of the
+Cloth: A New Opportunity for the Churches. San Francisco: Harper & Row.
+
+Chaves, Mark. 1995. “The Symbolic Significance of Women’s Ordination.” Manu-
+script. University of Notre Dame, Department of Sociology.
+
+Clemens, Elisabeth S. 1993. “Organizational Repertoires and Institutional Change:
+Women’s Groups and the Transformation of U.S. Politics, 1890-1920.” American
+Journal of Sociology 98:755—98.
+
+Coleman, James, Elihu Katz, and Herbert Menzel. 1957. “The Diffusion of an Inno-
+vation among Physicians.” Sociometry 20:253-69.
+
+Davidman, Lynn. 1991. Tradition in a Rootless World: Women Turn to Orthodox
+Judaism. Berkeley and Los Angeles: University of California Press.
+
+Davis, Gerald. 1991. “Agents without Principles? The Spread of the Poison Pill
+through the Intercorporate Network.” Administrative Science Quarterly 36:
+583-613.
+
+Davis, James A., and Tom W. Smith. 1990. General Social Surveys, 1972-1990.
+Machine-readable data file. Chicago: National Opinion Research Center. Available
+from the Roper Center for Public Opinion Research, University of Connecticut,
+Storrs.
+
+DeBerg, Betty A. 1990. Ungodly Women: Gender and the First Wave of American
+Fundamentalism. Minneapolis: Fortress.
+
+Dennis, James S. 1902. Centennial Survey of Foreign Missions. New York: Fleming
+H. Revell.
+
+DiMaggio, Paul. 1988. “Interest and Agency in Institutional Theory.” Pp. 3-22 in
+Institutional Patterns and Organizations, edited by Lynne G. Zucker. Cambridge,
+Mass.: Ballinger.
+
+Douglas, Mary. 1992. “The Debate on Women Priests.” Pp. 271-94 in Risk and
+Blame: Essays in Cultural Theory. New York: Routledge.
+
+Field-Bibb, Jacqueline. 1991. Women towards Priesthood: Ministerial Politics and
+Feminist Praxis. New York: Cambridge University Press.
+
+Flexner, Eleanor. 1974. Century of Struggie: The Woman’s Rights Movement in the
+United States. New York: Atheneum.
+Freedman, Estelle. 1979. “Separatism as Strategy: Female Institution Building and
+American Feminism, 1870-1930.” Feminist Studies 5:512-29.
+
+Galaskiewicz, Joseph, and Ronald S. Burt. 1991. “Interorganization Contagion in
+Corporate Philanthropy.” Administrative Science Quarterly 36:88—105.
+
+Gilkes, Cheryl Townsend. 1985. “‘Together and in Harness’: Women’s Traditions
+in the Sanctified Church.” Signs 10:678-99.
+
+Guth, James, John C. Green, Corwin E. Smidt, and Lyman A. Kellstedt. 1994.
+“Women Clergy and the Political Transformation of Mainline Protestantism.”
+Paper presented at the Social Science History Association meeting, Atlanta,
+October.
+
+Hamilton, Michael S. 1993. “Women, Public Ministry, and American Fundamental-
+ism, 1920-1950.” Religion and American Culture: A Journal of Interpretation 3:
+171-96.
+
+Haunschild, Pamela R. 1993. “Interorganizational Imitation: The Impact of Inter-
+locks on Corporate Acquisition Activity.” Administrative Science Quarterly 38:
+564-92.
+
+Hawley, John Stratton. 1994. Fundamentalism and Gender. New York: Oxford Uni-
+versity Press.
+
+Higginbotham, Evelyn Brooks. 1993. Righteous Discontent: The Women’s Movement
+in the Black Baptist Church, 1880-1920. Cambridge, Mass.: Harvard University
+Press.
+
+Hill, Patricia. 1985. The World Their Household: The American Woman’s Foreign
+Mission Movement and Cultural Transformation, 1870-1920. Ann Arbor: Univer-
+sity of Michigan Press.
+
+Hole, Judith, and Ellen Levine. 1971. Rebirth of Feminism. New York: Quadrangle
+Books.
+
+Hudson, Mary Lin. 1990. “‘Shall Women Preach?’ Louisa Woosley and the Cumber-
+land Presbyterian Church.” American Presbyterians 68:221-30.
+
+Jacquet, Constant H., ed. 1989. Yearbook of American and Canadian Churches. Nash-
+ville: Abingdon.
+
+Jay, Nancy. 1992. Throughout Your Generations Forever: Sacrifice, Religion, and
+Paternity. Chicago: University of Chicago Press.
+
+King, Gail Buchwalter, ed. 1994. Fact Book on Theological Education, 1993-1994.
+Pittsburgh: Association of Theological Schools in the United States and Canada.
+Kleinman, Sherryl. 1984. Equals before God: Seminarians as Humanistic Profession-
+
+als, Chicago: University of Chicago Press.
+
+Lehman, Edward C., Jr. 1980. “Patterns of Lay Resistance to Women in Ministry.”
+Sociological Analysis 41:317-38.
+
+. 1981. “Organizational Resistance to Women in Ministry.” Sociological Anal-
+
+ysis 42:101-18.
+
+. 1987. “Sexism, Organizational Maintenance, and Localism: A Research
+
+Note.” Sociological Analysis 48:274-82.
+
+. 1993. Gender and Work: The Case of the Clergy. Albany: State University of
+New York Press.
+
+Lincoln, C. Eric, and Lawrence H. Mamiya. 1990. The Black Church in the African
+American Experience. Durham, N.C.: Duke University Press.
+
+Lynch, John E. 1975. “The Ordination of Women: Protestant Experience in Ecumeni-
+cal Perspective.” Journal of Ecumenical Studies 12:173-97.
+
+Marsden, George M. 1980. Fundamentalism and American Culture: The Shaping
+of Twentieth-Century Evangelicalism, 1870-1925. New York: Oxford University
+Press.
+
+Marsden, Peter V., and Joel Podolny. 1990. “Dynamic Analysis of Network Diffusion
+Processes.” Pp. 197-214 in Social Networks through Time, edited by Jeroen Weesie
+and Henk Flap. Utrecht: ISOR.
+McAnarney, Elizabeth R. 1977. “The Impact of Medical Women in United States
+Medical Schools.” Pp. 9-66 in Women in Medicine, 1976, edited by Carolyn
+Spieler. New York: Josiah Macy, Jr., Foundation.
+
+McCarthy, John D., David W. Britt, and Mark Wolfson. 1991. “The Institutional
+Channeling of Social Movements by the State in the United States.” Research in
+Social Movements, Conflicts, and Change 13:45—76.
+
+Melton, J. Gordon, ed. 1991. The Churches Speak On: Women’s Ordination. Detroit:
+Gale Research.
+
+Meyer, John W., John Boli, and George M. Thomas. 1994. “Ontology and Rational-
+ization in the Western Cultural Account.” Pp. 9-27 in Institutional Environments
+and Organizations: Structural Complexity and Individualism, by W. Richard Scott,
+John W. Meyer, and Associates. Thousand Oaks, Calif.: Sage.
+
+Morello, Karen Berger. 1986. The Invisible Bar: The Woman Lawyer in America,
+1638 to the Present. New York: Random House.
+
+Nason-Clark, Nancy. 1987a. “Are Women Changing the Image of Ministry? A Com-
+parison of British and American Realities.” Review of Religious Research 28:
+330-40.
+
+. 1987b. “Ordaining Women as Priests: Religious vs. Sexist Explanations for
+Clerical Attitudes.” Sociological Analysis 48:259-73.
+
+Nesbitt, Paula D. 1993. “Dual Ordination Tracks: Differential Benefits and Costs
+for Men and Women Clergy.” Sociology of Religion 54:13-30.
+
+Noble, David. 1992. A World without Women: The Christian Clerical Culture of
+Western Science. New York: Alfred A. Knopf.
+
+Noll, William T. 1992. “A Welcome in the Ministry: The 1920 and 1924 General
+Conferences Debate Clergy Rights for Women.” Methodist History 30:91-99.
+
+Powell, Walter W., and Paul J. DiMaggio, eds. 1991. The New Institutionalism in
+Organizational Analysis. Chicago: University of Chicago Press.
+
+Religious Bodies. 1941. Vol. 1, 1936. Washington, D.C.: Government Printing Office.
+
+Riesebrodt, Martin. 1993. Pious Passion: The Emergence of Modern Fundamentalism
+in the United States and Ivan. Berkeley and Los Angeles: University of California
+Press.
+
+Riley, Janet. 1989. “The Ordination of Disciple Women: A Matter of Economy or
+Theology?” Encounter 50:219-31.
+
+Rose, Susan D. 1987. “Women Warriors: The Negotiation of Gender in a Charismatic
+Community.” Sociological Analysis 48:245-58.
+
+Royle, Marjorie H. 1987. “Using Bifocals to Overcome Blindspots: The Impact of
+Women on the Military and the Ministry.” Review of Religious Research 28:
+341-50.
+
+Schoenherr, Richard A., and Lawrence A. Young. 1993. Full Pews and Empty Altars:
+Demographics of the Priest Shortage in United States Catholic Dioceses. Madison:
+University of Wisconsin Press.
+
+Scott, Anne Firor. 1991. Natural Allies: Women’s Associations in American History.
+Chicago: University of Illinois Press.
+
+Scott, W. Richard, John W. Meyer, and Associates. 1994. Institutional Environments
+and Organizations: Structural Complexity and Individualism. Thousand Oaks,
+Calif.: Sage.
+
+Simon, Rita J., and Pamela S. Nadell. 1995. “In the Same Voice or Is It Different?
+Gender and the Clergy.” Sociology of Religion 56:63—70.
+
+Skocpol, Theda. 1992. Protecting Soldiers and Mothers: The Political Origins of
+Social Policy in the United States. Cambridge, Mass.: Harvard University
+Press.
+
+Smith, Frank. 1989. “Petticoat Presbyterianism: A Century of Debate in American
+Presbyterianism on the Issue of the Ordination of Women.” Westminster Theologi-
+cal Journal 51:51—76.
+Stanton, Elizabeth Cady, Susan B. Anthony, and Matilda Joslyn Gage, eds. 1881.
+History of Woman Suffrage. Vol. 1, 1848-1861. Rochester, N.Y.: Charles Mann.
+Strang, David. 1991. “Adding Social Structure to Diffusion Models: An Event History
+
+Framework.” Sociological Methods and Research 19:324-53.
+
+Strang, David, and John W. Meyer. 1994. “Institutional Conditions for Diffusion.”
+Pp. 100-112 in Institutional Environments and Organizations: Structural Complex-
+ity and Individualism, by W. Richard Scott, John W. Meyer, and Associates.
+Thousand Oaks, Calif.: Sage.
+
+Strang, David, and Nancy Brandon Tuma. 1993. “Spatial and Temporal Heterogene-
+ity in Diffusion.” American Journal of Sociology 99:614-39.
+
+Sutton, John R., Frank Dobbin, John W. Meyer, and W. Richard Scott. 1994. “The
+Legalization of the Workplace.” American Journal of Sociology 99:944-71.
+
+Tolbert, Pamela S., and Lynne G. Zucker. 1983. “Institutional Sources of Change
+in the Formal Structure of Organizations: The Diffusion of Civil Service Reform,
+1880-1935.” Administrative Science Quarterly 28:22-39.
+
+Wallace, Ruth A. 1992. They Call Her Pastor: A New Role for Catholic Women.
+Albany: State University of New York Press.
+
+Ward, Gary L. 1991. “Introductory Essay: A Survey of the Women’s Ordination
+Issue.” Pp. xiii-xxxv in The Churches Speak On: Women’s Ordination, edited by
+J. Gordon Melton. Detroit: Gale Research.
+
+Wuthnow, Robert. 1988. The Restructuring of American Religion. Princeton, N.J.:
+Princeton University Press.
+
+Yamaguchi, Kazuo. 1991. Event History Analysis. Newbury Park, Calif.: Sage.
+
+Zikmund, Barbara Brown. 1981. “The Struggle for the Right to Preach.” Pp. 193-
+206 in Women and Religion in America. Vol. 1, The Nineteenth Century, edited by
+Rosemary Radford Ruether and Rosemary Skinner Keller. San Francisco: Harper &
+Row.
+
+ 
+
+1986. “Winning Ordination for Women in Mainstream Protestant
+Churches.” Pp. 339-50 in Women and Religion in America. Vol. 3, 1900-1968,
+edited by Rosemary Radford Ruether and Rosemary Skinner Keller. San Francisco:
+Harper & Row.

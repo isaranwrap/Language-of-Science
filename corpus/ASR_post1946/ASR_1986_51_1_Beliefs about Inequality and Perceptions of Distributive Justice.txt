@@ -1,0 +1,1613 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+This paper addresses a number of theoretical and empirical issues derived from
+distributive justice theory regarding the social psychological process of justice
+evaluation. Building upon current theory and research, justice evaluation is
+conceived as a comparison of the rewards one receives with rewards s/he expects.
+Using data from a 1979 Indianapolis area survey, we examine beliefs about
+inequality and their role in subjective perceptions of distributive justice. We examine
+the extent to which “what is” affects perceptions of “what ought to be’ using
+collective beliefs about distribution practices, that is, the extent to which persons
+perceive departures from justice in terms of existential standards. We find that it is
+possible to abstract, with a high degree of distinctiveness, a set of aggregate
+principles representing existential notions about the ways in which individual
+characteristics are related to household income. We find that this approach to the
+measurement of reference standards for the evaluation of income receipts has some
+empirical validity, in that it predicts perceptions of over- vs. under-reward, but such
+an approach to measuring departures from justice does not produce meaningful
+variation in measures of satisfaction and acceptance of income.
+with concrete social outcomes, such as per-
+ceptions of fairness in the distribution of in-
+come.
+
+One recent exception to this pattern is the
+sociological treatment by Rossi and his col-
+leagues of fairness in the income distribution.
+In a path-breaking set of papers, this group
+(Jasso and Rossi, 1977; Jasso, 1978; 1980;
+Alves and Rossi, 1978) has taken up the task of
+quantifying the principles governing the evalu-
+ation of fairness in the income distribution.
+This research has created new opportunities
+for the solution of some of the measurement
+issues in the study of distributive justice (see
+Rossi and Nock, 1982) and has stimulated new
+theoretical developments as well. Jasso (1978),
+for example, has developed an empirically-
+based formulation of the justice evaluation
+process, and she has presented a theory of
+distributive justice that focuses on the expla-
+nation and prediction of a wide range of indi-
+vidual and collective phenomena (Jasso, 1980).
+
+A theoretical model that would guide the
+empirical evaluation of perceptions of fairness,
+however, presupposes knowledge of the
+individual-level standards by which social re-
+wards are believed to be legitimately distrib-
+uted. Students of distributive justice (e.g. Ho-
+mans, 1974; Walster et al., 1978) have long
+observed that individuals frequently use dif-
+fering criteria for evaluating the fairness of re-
+wards and place differential emphasis on
+agreed-upon criteria. As Walster et al. (1976:4)
+put it, ‘ultimately, equity is in the eye of the
+beholder, [and] . . . an individual's perception
+of how equitable a relationship is will depend
+What images do members of society have
+about the processes that produce economic in-
+equality in the U.S.? What are their images
+about what would constitute a fair income allo-
+cation for themselves and others? Economists
+and sociologists can point to a number of fac-
+tors that produce individual differences in eco-
+nomic rewards, such as earnings or personal
+income (e.g. Sewell and Hauser, 1975; Jencks
+et al., 1979), but the reflection of these factors
+in the belief systems of individuals is not clear
+from existing research. Very little research has
+investigated the beliefs of Americans regarding
+the principles that govern the allocation of
+economic rewards in society. There has been
+some attention to questions concerning beliefs
+about opportunity and life chances (Huber and
+Form, 1978), beliefs about the fairness of social
+inequality and discriminatory practices
+(Robinson and Bell, 1978; Kerckhoff and
+Parker, 1979), and beliefs about the determi-
+nants of status (Coleman and Rainwater, 1978;
+Nock and Rossi, 1978). Yet the assessment of
+general beliefs about properties of individuals
+and social structure that produce inequalities
+has been neglected (Kluegel and Smith,
+1981:50).
+
+Moreover, belief systems per se have not
+been linked to theories of distributive justice.
+While the work of the Jasso-Alves-Rossi group
+on the evaluation of the fairness of income
+allocations has taken some important steps in
+the direction of understanding this process, it
+has overlooked the critical role of belief sys-
+tems in mediating reactions to injustice. This
+work has emphasized the role of consensually
+shared normative standards in shaping justice
+evaluations (Jasso and Rossi, 1977:649; Alves
+and Rossi, 1978:562—563) rather than cognitive
+expectations derived from beliefs about in-
+equality.
+
+This emphasis has provoked a number of
+criticisms. Faia (1980:951), for example, argues
+that the ‘‘Alves and Rossi concept of normative
+judgement, however, is mis-informed and can-
+not properly be used to test for the existence of
+normative regulation as conventionally under-
+stood.” Also, Baker (1980) and Alwin et al.
+(1980) point out that while Jasso, Alves and
+Rossi bolster their view of consensually held
+normative standards using empirical data,
+there is considerable evidence within their own
+analysis for the view of dissensus in justice
+standards (see especially Alves and Rossi,
+1978:557-62). Baker (1980:641) also criticizes
+the Jasso-Alves-Rossi methods of aggregation
+in their estimation of the degree of consensus
+in fair income judgements, and he argues that
+“any models based on aggregation of such
+judgements are artificial and meaningless.”
+
+There is considerable ambiguity in this lit-
+erature concerning the type of standards per-
+sons employ when evaluating the fairness of
+reward allocations, such as family income. For
+instance, do persons invoke utopian standards
+in evaluating the fairness of rewards, e.g. prin-
+ciples of equality and need (Rawls, 1971;
+Deutsch, 1975; Schwinger, 1980), or do they
+use existential criteria?' There is a strong
+theoretical basis for the expectation that if in-
+dividuals perceive certain “going rates of re-
+turn” to reward-relevant characteristics, they
+will evaluate their lot in accord with these dis-
+tribution principles (e.g. Berger et al., 1972;
+Cook, 1975). There is some question, however,
+regarding whether persons agree on what these
+existential principles are, let alone what they
+should be. And while, in the Jasso and Rossi
+(1977) work, individuals are clearly capable of
+making fairness judgments regarding income
+allocations, these results are unclear with re-
+gard to the relative role of existential vs. uto-
+pian standards in the evaluation of justice.
+
+We suggest that in order to understand the
+justice evaluation process, it is important to
+disentangle the role of existential standards—
+what is defines what ought to be—from the role
+of non-existential or utopian standards. In the
+following discussion we examine the nature of
+existential versus utopian reward allocative
+standards and their significance to judgements
+of fairness. Our purpose is to explore how be-
+liefs about the existential structure of income
+inequality shape cognitive reward expecta-
+tions, and in turn how these existentially-based
+reward expectations influence subjective reac-
+tions to family income.
+
+Existential versus Utopian Standards of
+Justice. The study of distributive justice re-
+quires a specification of the reference stan-
+dards persons use when evaluating the fairness
+of their social rewards. The major theoretical
+statements of distributive justice assert that
+persons’ expectations regarding what they
+ought to receive are formed in relation to stan-
+dards for allocating rewards. Despite their
+major differences, both the exchange (Ho-
+mans, 1961; Walster et al., 1967) and status-
+value (Berger et al., 1983; Cook, 1975) theories
+suggest that existential rather than utopian
+standards are employed in evaluative compari-
+sons.
+
+According to the exchange perspective,
+claims to ‘‘just” rewards are made on the basis
+of local comparisons. Specifically, expecta-
+tions about a just reward evolve from the com-
+parison of one’s status and rewards to a spe-
+cific, local other’s status and rewards (Adams,
+1965). Individuals assess two status dimen-
+sions when evaluating just reward levels (Ho-
+mans, 1974:245—46): what persons give within
+social exchanges (i.e., their costs), and what
+persons bring to the social exchange (i.e., their
+investments). As such, the expectation of a just
+reward develops out of interaction in social
+exchanges.
+
+Emphasizing the local comparison between
+two persons (P and O) from the point of view of
+P, the exchange formulation assumes that P
+evaluates his/her investments and costs against
+that of another, O. If P perceives O's ‘“‘contri-
+butions” to equal his/her own, s/he will expect
+to receive the same amount of reward as O.? If
+P’s contributions are superior to O’s, then P’s
+reward level should also be superior to O’s,
+and so on. In any event, P’s perception of being
+under- or over-rewarded relative to O is based
+on the negotiated terms of exchange within a
+local setting (see Stolte, 1983).
+
+According to the exchange perspective,
+there are no absolute standards of justice, but
+rather comparisons of the relative fairness of
+individuals’ reward levels. Through the appli-
+cation of the “rule of distributive justice,” that
+is, that rewards should be in line with each
+person’s respective contributions to the ex-
+change (Homans, 1961; Adams, 1965; Walster
+et al., 1976), a person can decide whether his/
+her reward receipt is just, in comparison with
+another’s.3 For Homans (1974:251-52) this
+means that ‘there is no just society, though
+there may be societies and groups that are
+more or less just, to the extent that their mem-
+bers agree in their evaluations and maintain a
+rough proportionality between contributions
+and rewards.”
+
+While the exchange formulation implicitly
+suggests that persons rely on existential more
+than utopian standards in defining the social
+outcomes they may legitimately expect, the
+status-value model explicitly relates
+existentially-based principles of reward alloca-
+tions with issues of justice. Indeed, Berger et
+al. (1972:122) have argued that distributive jus-
+tice issues arise only in the presence of “a
+stable frame of reference,” from which the
+meaning of justice derives. Berger et al. (1972)
+formulate the process of justice evaluation in
+terms of referential standards—frames of ref-
+erence that contain empirical information re-
+garding the characteristics and rewards of gen-
+eralized individuals.
+
+According to this theory, persons develop
+expectations about their reward levels using
+existential standards, and these expectations
+have a normative character. By comparing self
+with similar generalized others, persons come
+to expect the same reward level that is typi-
+cally allocated to persons like themselves.
+Going rates of return to reward-relevant char-
+acteristics are, according to Berger et al., re-
+flected within the referential reward structure,
+and persons’ expected or ‘‘just rewards” are
+based on the existential terms of known pat-
+terns of exchange. Since the referential reward
+structure consists of stereotypic information
+about the relation between levels of charac-
+teristics possessed by the generalized re-
+ference other [contributions or investments in
+Homans’ terms, or more generally, inputs (see
+Walster et al., 1976)] and levels of reward,
+these stereotyped conceptions about “what is”
+become the basis for defining “what ought to
+be” in local comparative evaluations. Sum-
+marizing this principle, Berger et al. (1972:139)
+write, “As a consequence of beliefs about what
+is typically the case, expectations . . . come to
+be formed about what one can legitimately
+claim ought to be the case.”
+
+The status-value formulation of Berger et al.
+explicitly suggests that persons rely on exis-
+tential rather than utopian standards in defining
+what they may legitimately expect in the way
+of social rewards.‘ It is consistent with Ho-
+mans’ (1974:250) observation that ‘‘what
+people say ought to be is determined in the long
+Tun and with some lag by what they find in fact
+to be the case;” and Heider’s (1958:235) view
+that “tradition represents the existing reality
+made solid by a long history in which it be-
+comes identified with the just, the ethical, the
+‘should be’ . . . the ‘is’ takes on the character
+of the ‘ought’ . . .” In a broader sociological
+context, the use of existential principles may
+be viewed as a part of the process of legitimat-
+ing social inequality (Della Fave, 1980) and the
+individual internalization of responsibility for
+differences in social rewards (Sennett and
+Cobb, 1972).
+
+If the status-value formulation is correct in
+asserting that claims to “‘just’” rewards are de-
+fined in relation to existing reward allocative
+structures, then presumably claims to just
+earnings receipts will be formed in relation to
+persons’ beliefs about the sources of economic
+inequality. Recognizing the role that beliefs
+about inequality play in evaluative compari-
+sons, Jasso (1980) has reformulated the
+classical models of justice evaluation so that
+existential reward allocative standards can be
+explicitly taken into account. In her examina-
+tion of Homans’ and Berger et al.’s theoretical
+positions Jasso (1978:1417) observes that the
+major disagreement between the two seems “‘to
+be exclusively about just shares, about
+whether the principles of justice actually held
+by individuals and societies are based on exis-
+tential or utopian criteria.” With the introduc-
+tion of the concept ‘just reward” Jasso (1978)
+proposes a potential solution to this contradic-
+tion in that, in principle, the reward level a
+person expects, based either on existential or
+nonexistential principles, can be meaningfully
+measured and related to the justice evaluative
+process (see Alwin et al., 1980).
+
+According to Jasso’s (1978; 1980) general
+theory of justice evaluation, persons desire
+goods of value which are socially controlled.
+Knowledgeable of the way these social goods
+are actually distributed within society, persons
+are able to assess their own positional location
+within that stratified reward structure. It is in
+the use of a “comparison aggregate,” a con-
+ceptual frame of reference used in comparison
+processes, that persons can locate their rela-
+tive rank or amount of a social good. While
+individuals may employ a comparison aggre-
+gate to calculate their just share of a good as
+well as an actual amount, Jasso does not
+specify the manner by which individuals
+choose comparison aggregates and determine
+their level of just reward. By leaving exogen-
+ous the basis of the just term, Jasso (1980:6)
+suggests that the general theory is capable of
+handling both existential and utopian standards
+and that her model “can accommodate both
+Homans’ (1974) and Berger et al.’s (1972) con-
+ceptions of the sources of justice.”
+
+If a person’s actual and just reward levels are
+known, the justice evaluation process amounts
+to a comparison between a person’s actual and
+expected (or just) reward. That is, for an indi-
+vidual to determine the fairness of his/her re-
+ward, the actual level of reward is compared to
+that which is expected to be a just level. The
+person’s just reward may be based on the re-
+ward level of the generalized referent [referred
+to by Jasso (1978, 1980) as the Just Reward or
+the Just Amount] or on some utopian criteria,
+such as need or equality.
+
+The simple ratio of actual to just rewards
+may not capture the justice evaluation phe-
+nomenon (Jasso, 1978:1414—15). Positive de-
+partures from justice (over-reward) may not be
+equivalent to negative departures (under-
+reward), and “this appears to violate the
+human experience that deficiency is felt to be
+more unjust than a comparable excess”
+(Jasso, 1978:1403). The injustice created by an
+actual reward that exceeds the just reward by a
+factor of k may not be equivalent to the injus-
+tice created by an under-reward of the same
+magnitude. Jasso (1978:1415) suggests that the
+problem can be resolved by obtaining the natu-
+ral logarithm of the comparison ratio of actual
+reward to just reward.
+
+Beliefs About Inequality and Reward Ex-
+pectations. From an existential theory per-
+spective, if a person’s beliefs about how re-
+wards are allocated in the system are known,
+one would presumably also know something
+about what s/he expects in social rewards and
+how s/he would evaluate the justice of reward
+allocations. In order to determine what is a just
+reward based on existential standards, then, a
+person has need of a set of principles that s/he
+believes define the pertinent reward-relevant
+criteria and the relative weights specifying the
+importance of these allocative criteria (see
+Cook, 1975:373-74). Such a set of existential
+principles may be conceptualized in terms of
+the following expression:
+where x is a(p X 1) vector of evaluative criteria
+that are, in P’s view, relevant to reward alloca-
+tion and B is a (1 X p) vector of weights that
+express their relative contributions (again in
+P’s view) to the reward in question. Then, if
+these principles were known for an individual,
+it would be a simple matter to assess their role
+in his/her expected level of reward. If such
+principles were consensually shared by most
+members of the social group in question,
+aggregate standards could be derived from
+these individual principles.
+
+Consensus in Beliefs. A major issue raised in
+the literature on distributive justice is the ex-
+tent to which beliefs about criteria of justice
+are shared or agreed upon by all members of
+society. Members of social groups may possess
+a wide range of beliefs about the sources of
+social inequality. Homans (1974:251) states
+that only “for rather brief spans of time or in
+rather small groups are men [and women] fully
+agreed not only on what the rule of distributive
+justice is but also on what particular invest-
+ments, contributions, and rewards should
+fairly be placed in the scales and at what
+weights.” If a person’s beliefs about the princi-
+ples of distribution are those that ultimately
+condition his/her evaluation of justice or injus-
+tice, it is important to know if persons’ fairness
+evaluations are based on shared criteria. Jasso
+and Rossi (1977:649) and Alves and Rossi
+(1978:557-562) suggest that fairness evalua-
+tions are based on shared normative criteria
+and that a high degree of consensus exists on
+what the existential norms are. The measure-
+ment of consensus in these studies is flawed by
+an inadequate conceptualization of the prob-
+lem, however, and further investigation of
+these issues is necessary to evaluate this ques-
+tion.
+replied, but both agree that the utility of the
+principle in understanding perceptions of jus-
+tice in concrete social outcomes has not been
+empirically established.
+
+An empirical examination of this principle
+requires the observation of two quantities—the
+actual and just rewards—and a set of depen-
+dent variables of interest. The most critical
+question for any empirical examination of
+these issues in non-experimental research is
+the manner by which reward expectations are
+defined and assessed. In this research we de-
+fine the ‘Just Reward” in terms of existential
+beliefs about the relationships of reward-
+relevant characteristics to variation in actual
+rewards. Specifically, we are concerned with
+persons’ beliefs about the ways in which
+socio-economic rewards are distributed in so-
+ciety and the role of these beliefs in persons’
+subjective reactions to their own level of
+socio-economic rewards. Although there is a
+variety of such rewards (e.g. salaries, promo-
+tions, privileges, status, influence and au-
+thority), we focus here on a generalized status
+characteristic of households—family income.
+
+We assume that family income is to some
+degree systematically allocated on the basis of
+socially relevant and evaluated characteristics
+of household members (e.g. indicators of con-
+tributions, investments, need, worth, etc.), and
+that these reward-relevant characteristics are
+to some degree known to members of society.
+We also assume that, in matters of family in-
+come, perceptions of reward-relevant criteria
+and their importance are not idiosyncratic.
+While there may be considerable individual
+variation in justice standards, we assume that
+individuals to some degree share common be-
+liefs about the way income is distributed and/or
+regulated. We can conceive, therefore, of a
+referential structure (Berger et al., 1972) that,
+with some degree of error, represents the per-
+ceived distribution principles of individuals
+(see Cook, 1975:374). However, the degree to
+which persons perceive the same legitimate
+rules of distribution or have the same beliefs
+about ‘‘who gets what?” are empirical issues.
+
+If justice evaluations are primarily idiosyn-
+cratic, as some theorists suggest they might
+be (e.g., Walster et al., 1976:4; Homans,
+1974:251), then it would be very difficult to
+predict individual reactions to injustice using
+some estimate of a societal standard aggre-
+gated over all persons’ beliefs. By contrast, to
+the extent that there is universal knowledge of
+the relevant evaluative criteria and their
+weights and to the extent that individuals agree
+on their relevance, as well as on their relative
+importance, then it may be possible to deter-
+mine a person’s expected (or just) claim on
+valued social goods and to evaluate the justice
+of rewards in these terms. A number of authors
+(e.g. Cook, 1975:374; Jasso and Rossi,
+1977:640; Jasso, 1978:1416) suggest that unless
+there is some shared aggregate principle for
+reward distribution, which can be applied to
+most members of the social aggregate, it is
+difficult or impossible to assess individuals’
+reactions to departures from justice.
+
+In the research presented here we measure
+existential criteria for justice evaluation of the
+income distribution and assess the effects of
+departures from economic justice concep-
+tualized in these terms. Our analysis focuses
+on four quite specific questions: (1) What are
+the criteria, within a standard set of socio-
+economically relevant factors, that members of
+contemporary society perceive as relevant to
+the allocation of family income? (2) How accu-
+rate are individuals’ perceptions of the factors
+influencing income distribution in the aggre-
+gate? Do persons’ beliefs about income deter-
+mination reflect “real-world” processes, or do
+they exaggerate some factors and minimize the
+role of others? (3) How much agreement exists
+in judgements about household income? Are
+assessments of the relative importance of
+income-relevant criteria shared, or are beliefs
+about inequality largely idiosyncratic? Finally,
+(4) Do existential criteria of justice have any
+consequences for individuals’ subjective reac-
+tions to income allocations? Do measures of
+departures from justice, assessed in existential
+terms, relate to measures of perceptions of
+fairness and income satisfaction?
+randomly assigned to respondents. In all, 135
+vignettes were used; forty-five describing
+single-person households, sampled from the
+1977-78 GSS (n = 970), and 90 describing
+married-couple households, sampled from
+1,733 cases in the 77-78 GSS. These 135 vig-
+nettes were taken to represent the relevant
+socio-economic composition of American
+households. We intentionally over-sampled
+blacks in order to examine differences in the
+patterns of income estimation by race. Overall,
+each vignette was rated an average of 30 times,
+thus providing a relatively good estimate of the
+mean income rating for each vignette descrip-
+tion.
+
+The vignettes described the education, oc-
+cupation, number of children, gender and race
+of single and married households; in ‘married
+vignettes” both husband’s and wife’s education
+and occupation were described® (see Shepelak
+(1981) for a detailed description of the vignette
+construction procedures). Responses to these
+vignette descriptions were scaled in dollar in-
+come, and scores for respondent-raters were
+ipsatized (i.e. centered about their own means)
+so as to remove uninteresting individual dif-
+ferences in anchor points (see Cunningham et
+al., 1977). In other words, the component of
+vignette ratings due to what Rossi and Ander-
+son (1982:23) call “judgement thresholds” was
+removed in order to restrict inter-individual
+variation resulting from the use of different
+
+ 
+
+sample vignettes from this population (see Faia
+(1980:95 1-52) for a similar argument). This approach
+differs in critical ways from that advocated by Rossi
+and Anderson(1982), whichconstrainsthe correlations
+among vignette characteristics to zero in the con-
+struction of vignettes. We believe the strategy used
+here produces a less distorted picture of the world to
+respondents, and therefore is more valid in terms of
+representing relevant referential standards.
+
+© Following the lead of Jasso and Rossi (1977), we
+use a limited, but broadly representative, set of
+socio-economically relevant characteristics of
+households. The characteristics (and their levels) are
+as follows: gender (male, female), race (white,
+black), marital status (single, married), number of
+children (0 to 6), education (less than high school,
+high school graduate, some college, college graduate
+and post-graduate training), occupation (a variety of
+occupational titles ranging from professional work-
+ers to private household workers, and including the
+titles of housewife and persons looking for work).
+Hodge-Seigel-Rossi scores were used to scale dif-
+ferences in occupational status (see Rossi et al.,
+1974). In order to control for age in the vignette
+descriptions, respondents were told that all vignettes
+described persons in the age range 35-40. Assign-
+ment procedures were used that guaranteed each
+respondent to receive 10 married-household vignet-
+tes and 5 single-household vignettes; and 5 black
+household vignettes and 10 white household vignet-
+tes.
+anchor points in income ratings. After ipsati-
+zation, the scores were then centered at the
+grand mean of the vignette income ratings.”
+
+The persons rating these vignettes were
+selected on an area-probability basis from the
+population of persons aged 18—64 residing in
+the urbanized portions of Marion County (In-
+dianapolis), Indiana in 1979. U.S. Census in-
+formation for 1970 population characteristics,
+updated by local planning data, was used for
+purposes of sampling. The sampling frame was
+stratified by racial composition in order to ade-
+quately represent ethnic diversity in the popu-
+lation, and block clustering methods were used
+to minimize costs and increase the efficiency of
+the sample. Interviews were conducted by stu-
+dents in the Indianapolis Area Project and by
+professional interviewers from the local area.
+About one-third of the interviews were con-
+ducted by telephone—the remainder were
+done in person. The response rate achieved in
+the field was approximately sixty percent.
+About sixty percent of the respondents were
+women; the racial composition was predomi-
+nantly white (80 percent); and sixty-one per-
+cent were married. The mean age was 37 years,
+and the average level of education was 13
+years.
+
+In addition to the vignettes described above,
+the interview covered a number of subjects
+dealing with attitudes and beliefs about social
+inequality, including subjective reactions to the
+respondent’s own reward allocations. A full
+range of relevant household socio-economic
+information was also obtained. In this analysis
+we examine several measures related to in-
+come and subjective reactions to income. The
+principal measures we examine here, in order
+of their appearance on the questionnaire, are as
+follows:
+
+Income—Would you please tell me what
+your total family income was in 1978 (last year)
+before taxes, including all sources of income?
+
+Fair income—Thinking about your (your
+family’s) income for the last year, what do you
+believe the fair and just income for yourself
+(your family) should have been?
+In this section of the paper we present data
+from three principle sources. First, we use the
+vignette data (described above) from the 1979
+Indianapolis Area Project (IAP) as a means of
+determining aggregate beliefs about the
+sources of income inequality and for defining
+an aggregate existential distribution principle,
+y = Bx. In Blau’s (1971) terms, we are
+measuring the ‘‘going rate” of return to a vari-
+ety of household characteristics. Second, we
+use data from the 1977-78 General Social Sur-
+veys to gauge the veridicality of these distribu-
+tional beliefs. Then we use the IAP respondent
+data on subjective responses to income, at-
+tempting to predict subjective responses to in-
+come on the basis of departures from existen-
+tial justice.
+
+Beliefs About Income Determination. It is
+possible to determine the relative weight that
+members of the sample give in the aggregate to
+the vignette characteristics (race, gender, mar-
+ital status, education, family size and occu-
+pational status) by constructing a data set that
+contains (p x k) records (where p = the
+number of persons and k = the number of
+vignettes), each representing a unique
+person—vignette combination. In this case this
+equals 4,656 person—vignette combinations
+with complete data. By regressing the cen-
+tered vignette income ratings on the charac-
+teristics of the vignettes, we then obtain a rep-
+resentation of beliefs (in the aggregate) about
+the determinants of income in the vignette
+sample (Rossi and Anderson, 1982:20-21).?
+Our vignettes were constructed so that we
+could estimate these equations separately by
+race. Since there are statistically significant
+slope differences by race and gender in these
+data [Single vignettes: F = 3.86 with df = 9,
+1503; Married vignettes: F = 13.16 with df =
+5,3125], we present the race x gender sub-
+group models for the single vignette house-
+holds and the race subgroup models for the
+married vignette households. These re-
+gressions in the person—vignette data for single
+and married vignettes are presented in Table 1.
+The regression coefficients in Table 1 represent
+the direction and magnitude of influence on
+income of the several household charac-
+teristics described in the vignettes. In review-
+ing the general models of single and married
+vignette households, we learn that our respon-
+dents attribute a positive role in income judge-
+ments to educational attainment(s) and the
+prestige of the occupation(s) held by household
+members. This is consistent both with
+common-sense impressions and the empirical
+literature on income determination. Also con-
+sistent with known empirical regularities,
+males are viewed as relatively advantaged over
+females (in single-person households), and
+similarly, all other things equal, whites are
+seen to have a structured advantage over
+blacks. Larger family size, in addition, is asso-
+ciated with lower household income in the be-
+lief systems of our respondents, in that family
+size has a negative regression coefficient in
+both single and married households. The belief
+in the existence of a negative association of
+family size and income, however, runs counter
+both to economic theory and the empirical lit-
+erature (see Freedman and Thornton, 1982).
+It is important to note, however, that despite
+the systematic nature of these effects and their
+statistical significance, the overall R? in these
+equations suggests only a modest degree of
+responsiveness to the characteristics described
+in the vignettes.'° If individual raters respond
+consistently over vignettes, using the same
+principles, and if individuals agree on the same
+relative weighting of vignette factors, we
+would expect a higher R? in these equations.
+We expect, then, that some of this lack of
+prediction in the individual vignette ratings is
+due to a lack of intra- and inter-individual con-
+sistency. According to these results, in any
+event, individual estimates of family income
+are systematically dependent on the charac-
+teristics of the vignettes, and for the most part,
+there is reason to believe that respondents
+weigh factors in income judgements in a way
+that bears more than a trivial resemblance to
+the empirical world.
+
+The Veridicality of Beliefs. In order to com-
+pare these estimated weightings of factors in
+income determination with actual sample esti-
+mates for the characteristics of households in
+the NORC 1977-78 GSS data (from which we
+sampled the vignettes) we carried out the same
+regression models in the 1977—78 data. Table 2
+presents the regression of family income on the
+socio-economic characteristics considered in
+the above analysis using the data from the
+combined 1977-78 GSS surveys. We compare
+these results to the additive single- and
+married-vignette models described in panel A
+of Table 1.'!
+Table 1. Regression of Family Income on Household Characteristics: IAP Vignette Sample, 1979
+
+ 
+
+ 
+
+Single (n= 1,519)
+
+Married (n = 3,137)
+
+ 
+
+(A) Additive Model
+
+ 
+
+Race $ —860*
+Gender —3,314*
+Education 490*
+Family Size —381*
+Prestige 130*
+Intercept 13,408
+
+Race $ —303
+Husband Education 941*
+Wife Education 346*
+Family Size —218
+Husband Prestige 194*
+Wife Prestige 171*
+Intercept 20,282
+stances there is a surprising level of accuracy
+in these judgements.
+
+There are some significant ways in which
+respondents err in their estimates of household
+income. In general, our respondents under-
+estimate the role of ascribed characteristics
+(race and gender) and exaggerate the influence
+of achievements. It is relatively clear from this
+analysis that our respondents systematically
+under-estimate the disadvantaging role of both
+race and gender in the determination of house-
+hold income. The effect of race is substantially
+smaller in magnitude in both the single- and
+married-household vignette judgements than in
+the estimates based on the NORC—GSS data.
+According to these NORC data, black house-
+holds (both single and married-couple house-
+holds) have, on the average, about $2,000 less
+than comparable white single-households; and
+in the IAP data respondents estimate that black
+married-households make only $300 less, and
+single black-households make almost $900 less
+than comparable white households (ignoring
+subgroup differences). Black households in the
+IAP vignette sample, therefore, are judged to
+be less disadvantaged than they in fact are in
+the NORC data. Similarly, the effect of gender
+in the single-household vignettes is under-
+estimated by about $1,000—the IAP respon-
+dents estimate that single females receive
+about $3,300 less on the average than single
+males, while in the NORC data the disadvan-
+tage is actually $4,300.
+
+Consensus in Beliefs About Income Deter-
+mination. There are several ways in which the
+term ‘‘consensus” is used in the literature on
+judgement ratings. One can get divergent views
+of the degree of consensus surrounding a set of
+judgements, depending on how the term is de-
+fined (see Baker, 1977, 1980; Nock, 1982).
+Jasso and Rossi (1977) and Alves and Rossi
+(1978) maintain that there is a high degree of
+consensus on the relevance of a specified set of
+evaluative criteria in evaluating the justice of
+household income, given specified levels of the
+evaluative criteria, but these assertions have
+been questioned on both theoretical and meth-
+odological grounds (Faia, 1980; Baker, 1980;
+Alwin et al., 1980).
+
+In the consideration of consensus in fairness
+judgements there are several conceptually dis-
+tinct issues. As Homans (1974:251; 1976:232)
+observes, even if persons accept the propor-
+tionality conception of justice (discussed
+above), they may disagree on the reward-
+relevant characteristics of persons, and in the
+assigning of relative weights to agreed-upon
+characteristics. Because of the vicissitudes of
+social exchange, furthermore, behavioral
+theorists generally concede that consensus in
+such matters is difficult to achieve (e.g.
+Deutsch, 1975).
+Here we assess the degree of consensus in
+income judgements and in assigning weights to
+relevant factors in the vignette ratings. We first
+measure the degree of agreement among vig-
+nette raters by assessing the relative amounts
+of between- versus within-vignette variance in
+vignette ratings (see Table 3).'? To the extent
+that individual raters place vignette households
+in the same relative order, and in the extreme,
+assign a given vignette household the same in-
+come, the within-vignette variance (variance
+between raters assessing the same vignette) is
+minimal. On the other hand, to the extent that
+there is no consistency between raters in the
+assessment of vignettes, then little between-
+vignette variance exists, and one would con-
+clude that there is little consensus in income
+judgements. Based on these calculations,
+about one-half of the vignette rating variance
+lies between vignettes (see Table 3) and an
+equal amount occurs within vignettes (or be-
+tween raters), suggesting only a moderate de-
+gree of consensus.
+
+Conceptualizing the vignette variance in
+terms of its within- and between-vignette com-
+ponents in this matter clarifies the discussion
+of a number of different aspects of the issue of
+consensus. First, we assume that income rating
+variance occurring between vignettes reflects
+shared perceptions of differences in the rele-
+vance of household characteristics to family
+income, that is, variation in income ratings
+which is potentially linked to variation in
+household characteristics described in the vig-
+nettes. The regression of mean vignette ratings
+on the vignette characteristics in these data
+supports this assumption. In this instance, we
+estimate that slightly less than seventy percent
+of the between-vignette variance is attributable
+to the additive and non-additive effects of the
+vignette characteristics (see Table 3).!3 This
+figure is not itself a measure of consensus in
+income judgements, although it does affect the
+overall degree of consensus. Rather, it is a
+measure of what attribution theorists (see
+Kelley, 1973:112) refer to as the distinctiveness
+of the features described in the vignettes. In
+other words, it is possible to differentiate the
+incomes of households in the vignette sample
+to a relatively high degree using the reward-
+relevant criteria specified in the vignettes. The
+remaining 30 percent assesses the degree to
+which the features of the vignettes suggest
+idiosyncratic households, which are not easily
+evaluated in terms of expected income or about
+which there is little agreement. On the whole,
+the 70 percent of the income rating variance
+captured by the manipulated characteristics of
+the vignettes, indicates a high degree of dis-
+tinctiveness of these selected characteristics.
+
+The within-vignette or between-raters com-
+ponent of vignette rating variance—one-half of
+the total rating variance—can be potentially
+attributed to a number of factors (Rossi and
+Anderson, 1982:23). Characteristics of raters
+can in theory affect income ratings, but in the
+present case respondent characteristics ac-
+count for virtually none of the within-vignette
+variance (see Table 3). A regression analysis
+revealed that the respondent characteristics of
+race, sex, occupational prestige, educational
+attainment, total family income, marital status
+and number of children accounted for less than
+one percent of the variance in judgements of
+vignette income. Since we have removed indi-
+vidual “judgement thresholds” by ipsatizing
+our vignette ratings from the outset, the re-
+maining within-vignette variance represents
+mainly two inseparable components of varia-
+tion: idiosyncrasy in beliefs about the determi-
+nants of income, tied neither to aggregate nor
+subgroup principles, and random measurement
+error occurring in the response process. Since
+each person rated only 15 vignettes in our sur-
+vey, it is not easily possible to distinguish these
+components empirically in our data.'4
+
+The within-vignette component of variance,
+thus, is open to considerably more interpreta-
+tion than is the case with the between-vignette
+variance, and for this reason it is important to
+separate the two sets of issues in assessing the
+degree of consensus. If one believes that re-
+sponse errors in the data-gathering process are
+minimal and that the inter-individual dif-
+ferences mainly represent idiosyncrasies in be-
+liefs, then one would conclude that only mod-
+erate levels of agreement or consensus exist in
+the beleif systems of individuals. This in-
+terpretation would lead to the conclusion that
+only .690 x .491 x 100 = 34 percent of the
+variation in beliefs represents shared aggregate
+principles. There is some support in the meth-
+odological literature on magnitude estimation
+that vignette evaluation ratings are relatively
+reliable (see Baker, 1977), and this is consistent
+with such a point of view. However, no exami-
+nation of this issue in vignette ratings of in-
+come is available.
+
+One might assume, on the other hand, that
+virtually all of the interindividual variance (i.e.
+within-vignette variance) is due to random or
+stochastic processes attributable to individual
+inconsistency or unreliability of measurement.
+Since, in this case, the true or reliable variance
+(the between-vignette variance) is highly pre-
+dictable by vignette characteristics, the esti-
+mate of consensus in beliefs reflected in the R?
+calculated at this level (R? = .690) suggests a
+much higher degree of agreement. As indicated
+above, there is no way in the present context to
+distinguish individual idiosyncrasies in beliefs
+from unreliability of measurement, and we
+must therefore leave the issue unresolved.
+
+Subjective Responses to Inequality. To this
+point in our empirical analysis we have found
+that it is possible to abstract, with a high degree
+of distinctiveness at the vignette level, a set of
+aggregate principles representing existential
+notions about the ways in which individual
+household characteristics are related to house-
+hold income. We have also concluded that,
+while there are some important ways in which
+these notions differ from existing empirical
+regularities, there is some degree to which in-
+dividual beliefs coincide with existential
+reality. However, these data do not necessarily
+support the view that individuals share to any
+great extent beliefs about “who gets what” in
+the social world.
+
+Given the ambiguities in assessing the degree
+of consensus in income judgements, definitive
+statements about consensus in fairness stan-
+dards seem risky (cf. Jasso and Rossi, 1977;
+Alves and Rossi, 1978). Still, there is some
+basis for concluding that individuals do share
+beliefs about how the socio-economic world is
+ordered, and it appears feasible to formulate an
+aggregate set of principles or weights that rep-
+resent the existential rules persons perceive to
+be operating in the vignette sample. We deter-
+mine here the extent to which existential be-
+liefs about income inequality are related to
+perceptions of fairness and satisfaction with
+one’s own family income. Table 4 presents the
+descriptive univariate information for the
+major variables of interest, and Table 5 pre-
+sents their bivariate correlations.
+
+Interestingly, very few persons in this
+sample—two percent—believe they are over-
+rewarded with respect to the income they (or
+their family) receive(s). This is consistent with
+Homans’ (1976:232) observation that ‘the ben-
+eficiaries of injustice are much less likely than
+the victims to be disturbed by it;” and Jasso’s
+(1978:1403) belief that experiences of defi-
+ciency are more unjust than comparable exces-
+ses. Slightly over one-half of our respondents
+believe themselves to be under-rewarded—33
+percent “a little’ and 19 percent “‘a lot”; and a
+nearly equal number—46 percent—believe
+they are fairly rewarded. Despite this slight
+majority sentiment in the direction of unfair-
+ness in family income allocation, more persons
+(71 percent) are satisfied with their lot—44 per-
+cent ‘more or less satisfied” and 27 percent
+“pretty well satisfied”. In short, while there is
+substantial dissatisfaction with household in-
+come levels in this sample, most persons ex-
+press relative satisfaction with their income.
+
+Despite this relatively high degree of satis-
+faction with family income, there is evidence in
+these data that most persons would actually
+prefer a somewhat higher amount of income
+that the one they currently have. An examina-
+tion of the means of the Income and Fair in-
+come variables in Table 4 suggests that our
+respondents, on the average, judge their fair
+income to be somewhat higher than their actual
+earned income. The joint distribution of these
+variables speaks directly to this issue. They
+correlate very highly (r = .924) and may be fit
+quite well with a simple linear regression equa-
+tion as follows:
+relate to subjective reactions to inequality
+captured in a survey research context. The
+task before us is the specification of a model
+that allows us to assess the unique effects of
+departures from justice, given measures of
+actual and just reward. Here we define the just
+reward as a value predicted on the basis of the
+set of aggregate beliefs about income determi-
+nation given in Table 1. In other words, we use
+an equation y = a + Bx for each subgroup
+defined in the non-additive model as a basis for
+calculating an expected reward.
+
+Following Jasso’s specification of injustice,
+that is, the logarithm of the ratio of actual to
+expected rewards, we examine the magnitude
+of departures from just income separately for
+persons whose comparison ratio is above zero
+(over-rewarded persons) and those whose
+comparison ratio is below zero (under-
+rewarded), controlling for income. We employ
+the following model to assess these effects:
+show that perceptions of income are generally
+more strongly related to income level itself
+than to measured departures from expected
+levels of income. The strongest example of this
+here is the measure of Fair income discussed
+above. Given the respondent’s income, there is
+little that can be added to the prediction of this
+variable using our measures of departures from
+justice. Similarly, perceptions of relative in-
+come and satisfaction with income are not re-
+sponsive to variations in measured departures
+from justice, but are significantly dependent on
+income. Only one of our measures, Over—
+underpaid, is sensitive to variation in both in-
+come and our measure of departures from jus-
+tice. Thus, there is support in these data for the
+idea that men and women accept tradition, or
+“the way things are,” as a basis for perceiving
+the fairness of their reward allocations. While
+our measure of existential justice affects per-
+ceptions of over- vs. under-payment, however,
+these considerations do not appear to be re-
+lated to income satisfaction and reports of what
+a fair income would be.
+economic characteristics produce systematic
+responses on the part of our subjects, suggest-
+ing a rather high degree of relevance to family
+income. Insofar as we have measured
+existentially-based expectations regarding
+household income using this approach, we find
+some evidence that departures from existential
+justice are perceived by individuals. This mea-
+sured sense of fairness, however, is not re-
+flected in persons’ reports of satisfaction with
+income or in their reports of what would con-
+stitute a fair and just income for themselves
+and their families. Income level itself appears
+to be much more strongly predictive of these
+aspects of subjective attitudes toward income.
+
+Given the strong theoretical basis for an
+existential view of justice evaluation in both
+Homans’ social exchange model and the Ber-
+ger et al. theory of status value, why do the
+measures of departures from existential justice
+presented here fail to relate to individuals’ per-
+ceptions of the fairness and satisfaction with
+their income? Do these findings cast doubt on
+the theoretical veracity of distributive justice
+theory, which maintains that persons experi-
+ence a sense of injustice and dissatisfaction
+when faced with rewards that do not measure
+up to existentially-based expectations? Or has
+the operationalization of the components of
+justice evaluation used in this research limited
+our ability to detect true levels of perceived
+injustice? While this research has attempted to
+circumvent some of the methodological prob-
+lems in assessing fairness evaluations of in-
+come receipts, we believe there are a number
+of problems in the use of vignettes to measure
+expectations of rewards.
+
+One fundamental problem with the use of the
+vignette measurement approach in the present
+context is suggested by attribution theory.
+While our respondents appear to be knowl-
+edgeable about the “rules” or “norms” that are
+applied in the allocation of income, it is not
+clear that they apply these standards to them-
+selves. According to attribution theory, actors
+may account for their behavior in terms very
+different from those used to account for the
+behavior of others. Actors are more likely, in
+other words, to explain their behavior using
+situational accounts, while outside observers
+are more likely to perceive the actor's actions
+in dispositional terms (Jones, 1976). Jones and
+Nisbett (1971) suggest that these variations in
+attributional styles may reflect real differences
+between actors’ and observers’ access to
+unique historical information. And since the
+vignettes used here asked about hypothetical
+others, these others may be irrelevant to the
+self-assessment of satisfaction and acceptance
+of income. One such situationally relevant
+factor, not assessable by the vignettes, is the
+factor of need; and, as we indicated above, this
+factor may often govern responses to issues of
+fairness. To the extent, then, that our respon-
+dents took situational factors into account
+when assessing their level of Fair income, they
+might have ignored the very existential princi-
+ples they used in assessing the expected in-
+come of the vignette households. The modest
+level of correlation we observe between Fair
+income and Just income (see Table 5) may be
+interpretable in these terms. Moreover, the
+analysis here of the correlation between actual
+income and fair income suggests that individu-
+als base their considerations of fairness in their
+own situation primarily in terms of need, rather
+than dispositional factors.
+
+A second difficulty with the measurement
+approach we have taken is in its specification
+of the referential comparison against which
+persons measure departures from justice. If the
+theory of status-value is correct in stating that
+individuals use a referential structure specify-
+ing levels of reward-relevant characteristics
+that are similar, indeed equivalent, to their own
+(see also Pettigrew, 1967; Williams, 1975), then
+with the use of these standards it is possible to
+predict for any category of earner his/her jus-
+tice evaluation (Jasso, 1978:1416). Although
+the use of consensually held standards of jus-
+tice appears to be a theoretically promising
+advancement in the conceptualization of the
+justice evaluation process, we have relied ona
+vignette strategy that is inherently limited.
+While we have not denied that individuals may
+choose from a variety of reference points or
+employ a variety of individual or structural
+criterion, we have attempted to use a small and
+limited set of averaged aggregate standards.
+
+Undoubtedly referential comparisons are
+much more constrained by local settings and
+persons’ comparisons of fairness must reside
+primarily within the organizations and social
+networks they inhabit. The locus of referential
+comparisons may actually be limited to infor-
+mation obtained from behavior settings quite
+close to the individual, and our measurement
+of existential beliefs does not take this infor-
+mation into account. Thus, the vignette ap-
+proach used here places too great an emphasis
+on the role of generalized socio-economic
+characteristics in belief systems at the expense
+of obtaining the expectations derived from the
+norms and practices that exist within organi-
+zational settings.
+
+We have also assumed that once we deter-
+mine a person’s actual earnings and his/her just
+earnings, as estimated from existential princi-
+ples, we could estimate a person’s subjective
+response to income inequality. Our analysis of
+persons’ justice sentiments was therefore made
+outside of the local comparative context. Thus,
+the lack of predictive findings regarding sub-
+jective responses to income inequality may be
+due to our failure to evaluate how the structure
+of local work/income settings affects peoples’
+reactions to their own reward situations.
+
+A third possible explanation of these
+results—one that has been voiced in criticism
+of the Jasso-Alves-Rossi work—is that non-
+existential standards affect considerations of
+fairness. While there is some theoretical sup-
+port for existential considerations of fairness of
+income allocations, there is also considerable
+support for the idea that non-existential factors
+play a role in justice evaluations. For example,
+while we can imagine that persons in this soci-
+ety (and others) accept the economic disad-
+vantages of women and racial minorities as
+just, many do not. For such persons ascribed
+social characteristics, like race, ethnicity and
+gender, are perceived to be irrelevant as a basis
+for allocating social rewards. To the extent,
+then, that persons perceive the realities of the
+income distribution as a relevant basis for fair
+reward allocation, we would expect their be-
+liefs about income determination to be relevant
+to their reports of satisfaction and fairness; but
+if non-existential standards are overriding in
+persons’ judgements of fairness, the use of es-
+timates of “referential structures” based on
+existential norms will be of little use in pre-
+dicting individuals’ reactions to inequity. A
+somewhat related explanation for these find-
+ings involves the idea that whatever standards
+persons use to define what is just, there is little
+consensus surrounding these standards. We
+may be unable, therefore, to predict levels of
+satisfaction and perceived fairness because we
+have applied an aggregate set of existential
+weights. Whether we use existential or non-
+existential considerations in formulating the
+justice evaluation process, the degree of indi-
+vidual idiosyncrasy in the relevance of various
+household characteristics may make it difficult
+to establish an empirical basis for evaluating
+perceptions of fairness and satisfaction.
+Finally, we suspect that individuals attribute
+their levels of social reward to those situational
+and dispositional factors that, on the one hand,
+maintain and protect their sense of dignity and,
+on the other hand, maintain and protect the
+system of legitimated inequality in the distri-
+bution of social rewards. When individuals ac-
+cept responsibility for their social rewards rel-
+ative to others, rather than challenging the
+structure of economic relations, voices of dis-
+content are not heard and revolutions in the
+socioeconomic order do not occur (Sennett and
+Cobb, 1972; Hochschild, 1981; Thurow, 1981).
+The issues of social inequality and distributive
+justice are joined when individuals come to
+believe that they deserve what they get and get
+what they deserve (Della Fave, 1980; Lerner,
+1975; Lerner and Lerner, 1981). Given that one
+of the major findings of this research is that
+income level itself is more strongly tied to our
+measures of satisfaction with and acceptance
+of income than are measured departures from
+justice, future research on these issues will be
+more successful to the extent that it addresses
+the social psychological meaning of positional
+inequality and the attributional bases of per-
+ceived levels of attainment and success.
+Alves, Wayne and Peter Rossi. 1978. “Who Should
+Get What?: Fairness Judgements of the Distribu-
+tion of Earnings.” American Journal of Sociology
+84:541-64.
+
+Alwin, Duane, Norma Shepelak, Larry Wolfarth,
+and David Morgan. 1980. “Individual Responses
+to Inequity: Evaluating Normative Conceptions of
+Justice.” Paper presented at the 75th annual
+meeting of the American Sociological Association,
+New York.
+
+Aristotle. [1962]. Nicomachean Ethics. (Translated
+by Martin Ostwald) New York: Bobbs-Mer-
+rill.
+
+Austin, William and Elaine Hatfield. 1980. ‘Equity
+Theory, Power, and Social Justice.” Pp. 25-61 in
+Justice and Social Interaction: Experimental and
+Theoretical Contributions from Psychological Re-
+search, edited by Gerold Mikula. New York:
+Springer-Verlag.
+
+Austin, William, Neil McGinn, and Charles Sus-
+milch. 1980. ‘Internal Standards Revisited: Ef-
+fects of Social Comparison and Expectancies on
+Judgements of Fairness and Satisfaction.” Journal
+of Experimental Social Psychology 16:426—41.
+
+Baker, Paul M. 1977. “On the Use of Psychological
+Methods in the Study of Social Status: A Replica-
+tion and Some Theoretical Problems.” Social
+Forces 55:898-920.
+
+. 1980. “Consensus and Dissensus in the At-
+tribution of Status and Equity: Comment on Nock
+and Rossi and on Alves and Rossi.” American
+Journal of Sociology 86:641—43.
+
+Berger, Joseph, M. Hamit Fisek, Robert Norman,
+and David Wagner. 1983. ‘The Formation of Re-
+ward Expectations in Status Situations.” Pp.
+127-68 in Equity Theory: Psychological and
+Sociological Perspectives, edited by David Mes-
+sick and Karen Cook. New York: Praeger.
+
+Berger, Joseph, Morris Zelditch, Bo Anderson, and
+Bernard Cohen. 1972. ‘Structural Aspects of Dis-
+tributive Justice: A Status Value Formulation.”
+Pp. 119-46 in Sociological Theories in Progress,
+Vol. 2, edited by Joseph Berger, Morris Zelditch
+and Bo Anderson. Boston: Houghton Mifflin.
+
+Berkowitz, Leonard and Elaine Walster. 1976.
+Equity Theory: Toward a General Theory of Social
+Interaction, Vol. 9, Advances in Experimental So-
+cial Psychology. New York: Academic.
+
+Blau, Peter 1971. “Justice in Social Exchange.” Pp.
+56-68 in Institutions and Social Exchange: The
+Sociologies of Talcott Parsons and George C.
+Homans, edited by Herman Turk and Richard
+Simpson. New York: Bobbs-Merrill.
+
+Cohen, Ronald and Jerald Greenberg. 1982. “The
+Justice Concept in Social Psychology.” Pp. 1-41
+in Equity and Justice in Social Behavior, edited by
+Jerald Greenberg and Ronald Cohen. New York:
+Academic.
+
+Coleman, Richard, Lee Rainwater, and with Kent
+McClelland. 1978. Social Standing in America:
+New Dimensions of Class. New York: Basic
+Books.
+
+Cook, Karen. 1975. “Expectations, Evaluations and
+Equity.’’ American Sociological Review
+40:372-88.
+
+Cunningham, William H., Isabella C. Cunningham,
+and Robert Green. 1977. “The Ipsative Process to
+Reduce Response Set Bias.” Public Opinion
+Quarterly 41:379-84.
+
+Della Fave, L. Richard. 1980. ‘The Meek Shall Not
+Inherit the Earth: Self-Evaluation and the Legiti-
+macy of Social Stratification... American
+Sociological Review 45:955-71.
+
+Deutsch, Morton. 1975. “Equity, Equality, and
+Need: What Determines Which Value Will Be
+Used as the Basis of Distributive Justice?” Jour-
+nal of Social Issues 31:137-49.
+
+Dohrenwend, Barbara S., Larry Krasnoff, Alexan-
+der Askenasy, and Bruce P. Dohrenwend. 1978.
+“Exemplification of a Method for Scaling Life
+Events: The PERI Life Events Scale.” Journal of
+Health and Social Behavior 19:205-29.
+
+Faia, Michael A. 1980. “The Vagaries of the Vignette
+World: A Comment on Alves and Rossi.” Ameri-
+can Journal of Sociology 85:951-54.
+
+Freedman, Deborah S. and Arland Thornton. 1982.
+“Income and Fertility: The Elusive Relationship.”
+Demography 19:65-78.
+
+Goodman, Paul. 1974. ‘“‘An Examination of Re-
+ferents Used in the Evaluation of Pay.” Organi-
+zational Behavior and Human Performance
+12:170-95.
+
+Heider, Fritz. 1958. The Psychology of Interpersonal
+Relations. New York: Wiley.
+
+Hochschild, Jennifer. 1981. What’s Fair? American
+Beliefs about Distributive Justice. Cambridge,
+MA: Harvard University Press.
+
+Homans, George C. 1961. Social Behavior: Its
+Elementary Forms. New York: Harcourt, Brace
+and Jovanovich.
+
+. 1974. Social Behavior: Its Elementary Forms
+
+(Rev. Ed.). New York: Harcourt, Brace and
+
+Jovanovich.
+
+. 1976. “Commentary.” Pp. 231-47 in Equity
+Theory: Toward a General Theory of Social In-
+teraction, edited by Leonard Berkowitz and
+Elaine Walster. New York: Academic.
+
+Huber, Joan and William Form. 1978. Income and
+Ideology. New York: Free Press.
+
+Jasso, Guillermina. 1978. ‘On the Justice of Earn-
+ings: A New Specification of the Justice Evalua-
+tion Function.” American Journal of Sociology
+83:1398-1419.
+
+. 1980. “A New Theory of Distributive Jus-
+
+’ American Sociological Review 45:3-32.
+
+. 1981. “Further Notes on the Theory of Dis-
+tributive Justice.” American Sociological Review
+46:352-60.
+
+Jasso, Guillermina and Peter Rossi. 1977. “Distribu-
+tive Justice and Earned Income.” American
+Sociological Review 42:639-51.
+
+Jencks, Christopher, Susan Bartlett, Mary Corco-
+ran, James Crouse, David Eaglesfield, Gregory
+Jackson, Kent McClelland, Peter Mueser, Michael
+Olneck, Joseph Schwartz, Sherry Ward, and Jill
+Williams. 1979. Who Gets Ahead?: The Determi-
+nants of Economic Success in America. New
+York: Basic Books.
+
+Jones, Edward 1976. “How People Perceive the
+Causes of Behavior.” American Scientist 64:300-
+305.
+
+Jones, Edward and Richard E. Nisbett. 1971. “The
+Actor and the Observer: Divergent Perceptions of
+the Causes of Behavior.” Pp. 79-94 in Attribution:
+
+ 
+
+ 
+
+ 
+
+ 
+
+tice
+Perceiving the Causes of Behavior, edited by Ed-
+ward Jones, David Kanouse, Harold Kelley,
+Richard Nisbett, Stuart Valins, and Bernard
+Weiner. Morristown, NJ: General Learning Press.
+
+Kelley, Harold. 1973. ‘The Processes of Causal At-
+tribution.” American Psychologist 28:107-28.
+
+Kerckhoff, Alan and Robert Parker. 1979. “Equity,
+Success and Social Justice in England and the
+United States: A Commentary and Critique.”
+American Sociological Review 44:328-34.
+
+Kluegel, James and Eliot Smith. 1981. ‘Beliefs
+About Stratification.” Annual Review of Sociology
+7:29-56.
+
+Lerner, Melvin. 1975. ‘The Justice Motive in Social
+Behavior: An Introduction.” Journal of Social Is-
+sues 31:1-20.
+
+Lerner, Melvin and Sally Lerner. 1981. The Justice
+Motive in Social Behavior. New York: Plenum.
+Messe, Lawrence and Barbara Watts. 1983. ““Com-
+plex Nature of the Sense of Fairness: Internal
+Standards and Social Comparison as Bases for
+Reward Evaluations.” Journal of Personality and
+
+Social Psychology 45:84-93.
+
+Mikula, Gerold. 1980. Justice and Social Interac-
+tion; Experimental and Theoretical Contributions
+from Psychological Research. New York:
+Springer-Verlag.
+
+National Opinion Research Center. 1982. General
+Social Surveys, 1972-1982: Cumulative
+Codebook. Chicago: NORC.
+
+Nock, Steven. 1982. ‘‘Family Social Status: Consen-
+sus on Characteristics.” Pp. 95-144 in Measuring
+Social Judgments, edited by Peter Rossi and Ste-
+ven Nock. Beverly Hills: Sage.
+
+Nock, Steven and Peter Rossi. 1978. ‘‘Ascription
+Versus Achievement in the Attribution of Family
+Social Status.” American Journal of Sociology
+84:565-70.
+
+Pettigrew, Thomas. 1967. ‘Social Evaluation
+Theory: Convergences and Applications.” Pp.
+241-311 in Nebraska Symposium on Motivation,
+edited by David Levine. Lincoln: University of
+Nebraska Press.
+
+Rawls, John. 1971. A Theory of Justice. Cambridge:
+Harvard University Press.
+
+Robinson, Robert and Wendell Bell. 1978.
+“Equality, Success, and Social Justice in England
+and the United States.” American Sociological
+Review 34:125—43.
+
+Rossi, Peter. 1979. “Vignette Analysis: Uncovering
+the Normative Structure of Complex Judge-
+ments.” Pp. 176-86 in Qualitative and Quantita-
+tive Social Research: Papers in Honor of Paul F.
+Lazarsfeld, edited by Robert Merton, James
+Coleman and Peter Rossi. New York: Free Press.
+Rossi, Peter and Andy Anderson. 1982. ‘The Facto-
+rial Survey Approach: An Introduction.” Pp.
+15-67 in Measuring Social Judgments: The Facto-
+rial Survey Approach, edited by Peter Rossi and
+Steven Nock. Beverly Hills: Sage.
+
+Rossi, Peter and Steven Nock. 1982. Measuring So-
+cial Judgments: The Factorial Survey Approach.
+Beverly Hills: Sage.
+
+Rossi, Peter, William Sampson, Christine Bose,
+Guillermina Jasso, and Jeff Passel. 1974.
+‘Measuring Household Social Standing.” Social
+Science Research 3:169-90.
+
+Schwinger, Thomas. 1980. “Just Allocations of
+Goods: Decisions Among Three Principles.” Pp.
+95-125 in Justice and Social Interaction: Exper-
+imental and Theoretical Contributions from Psy-
+chological Research, edited by Gerold Mikula.
+New York: Springer-Verlag.
+
+Sennett, Richard and Jonathan Cobb. 1972. The
+Hidden Injuries of Class. New York: Vintage.
+Sewell, William and Robert Hauser. 1975. Educa-
+tion, Occupation and Earnings: Achievement in
+
+the Early Career. New York: Academic.
+
+Shepelak, Norma J. 1981. Normative versus idiosyn-
+cratic paradigms of distributive justice: Compet-
+ing models of equity. PhD Thesis, Indiana Univer-
+sity. Cited in Dissertation Abstracts International,
+42(7-A):3324, 1982.
+
+Soltan, Karol. 1981. ‘‘Jasso on Distributive Justice.”
+American Sociological Review 46:348-52.
+
+Stevens, S. S. 1966. “‘A Metric for the Social Con-
+sensus.” Science 151:530-41.
+
+Stolte, John. 1983. ‘The Legitimation of Structural
+Inequality.’’ American Sociological Review
+48:331-42.
+
+Thurow, Lester. 1981. ‘The Illusion of Economic
+Necessity.” In Value Judgment and Income Dis-
+tribution, edited by Robert Solo and Charles An-
+derson. New York: Praeger.
+
+Walster, Elaine, Ellen Berscheid, and G. William
+Walster. 1976. ‘New Directions in Equity Re-
+search.” Pp. 1-42 in Advances in Experimental
+Social Psychology, Vol. 9, edited by Leonard Ber-
+kowitz and Elaine Walster. New York: Academic.
+
+Walster, Elaine, G. William Walster, and Ellen
+Berscheid. 1978. Equity: Theory and Research.
+Boston: Allyn and Bacon.
+
+Weick, Karl 1966. ‘The Concept of Equity in the
+Perception of Pay.’ Administrative Science
+Quarterly 11:414-39.
+
+Williams, Robin. 1975. “Relative Deprivation.” Pp.
+355-78 in The Idea of Social Structure: Papers in
+Honor of Robert K. Merton, edited by Lewis
+Coser. New York: Harcourt, Brace and
+Jovanovich.

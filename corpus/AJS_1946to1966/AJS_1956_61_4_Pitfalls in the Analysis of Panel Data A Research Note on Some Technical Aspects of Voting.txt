@@ -1,0 +1,245 @@
+Pale AM ee ee ee at eta
+are now only accessible on
+the Chicago Journals website at
+
+ 
+
+EVR LeU
+Voting
+
+Author(s): Eleanor E. Maccoby
+
+Source: American Journal of Sociology, Vol. 61, N
+Published by: The University of Chicago Press
+Stable URL: http://www.jstor.org/stable/2773538
+Accessed: 06-06-2016 18:48 UTC
+Voting is an extremely valuable book. How-
+ever, it does appear to contain some technical
+analysis problems which should be discussed in
+the hope that future workers with panel studies
+will avoid the pitfalls which raise serious ques-
+tion about the validity of some, but not most, of
+the conclusions.
+
+The central problem is one of the unreliabil-
+ity of measurement. In polling, there is always
+a group of cases in which an error has been
+made. The interviewer accidentally checks the
+wrong box, the respondent misunderstands the
+question, the punch-clerk punches the wrong
+number, etc. Let us assume for purposes of illus-
+tration that this kind of error occurs in 10 per
+cent of the cases and that it is random and so
+equally likely to happen for any case included
+in the study. If we are dealing with an attitude
+whose distribution in the population is uneven,
+the situation may be seen in Table 1.
+
+In this table we see that among the 400 cases
+in the sample who are really “for” the issue, 40
+will be erroneously classified as “against” and
+will be added to the “against” total. At the
+same time, 10 of the 100 people who are really
+“against” will be classified as “for.” Thus the
+loss of the larger group is numerically greater,
+being only partially compensated for by errors
+in the opposite direction, and the distribution of
+opinion as measured is somewhat more evenly
+divided than it would be if the measurement
+were free of error. The limiting case of this proc-
+ess would occur if the measurement had no re-
+liability at all (so that every case was classified
+as though by tossing a coin), when the measured
+distribution would show a 50-50 split, no matter
+what the “true” division of opinion might be.
+
+Now let us assume that we remeasure these
+cases, as is done in a panel study. To begin with,
+for the sake of simplicity, let us assume, further,
+that errors will not be made in the same case
+twice. Among our larger group, the “for’s,”
+there are 10 people who are there by accident.
+
+1 By Bernard R. Berelson, Paul F. Lazarsfeld, and
+
+William N. McPhee. Chicago. University of Chi-
+cago Press, 1954. Pp. xix+395.
+Upon remeasurement, they should revert to
+their proper place, the “against” column. But 10
+new errors will occur to take their place. That is,
+there will be 10 new people who are actually
+“against” who will now be measured as “for.”
+Similarly, the 40 cases who were erroneously
+classed as “‘against’’ in the first measure will
+revert to type and will be replaced by the same
+number of new errors. To continue the illustra-
+tion, the shift of cases upon remeasurement
+would be as shown in Table 2. The distribution
+on the first measurement and the distribution
+on the second measurement are the same. Cases
+have simply changed places across the dividing
+line which separated “for” from “against,” the
+same number moving from “‘for” to “against”
+as move in the opposite direction.
+
+Occasionally, of course, an error will occur
+twice in succession in the same case. Since the
+error rate is 10 per cent, among the 40 cases who
+were originally mismeasured “against” and are
+shown in Table 2 as moving to the “‘for’’ col-
+umn, 4 will be mismeasured again and will re-
+main where they were, erroneously classified in
+the “against” column; in addition, 1 out of the
+10 originally misclassified as “for” will be mis-
+measured a second time and remain where it is.
+These 5 cases will take the place of 5 of the new
+errors in the second measurement. Thus, in fact,
+only 45 cases, rather than 50, will move each
+way upon remeasurement. But the distribution
+remains the same upon the second measurement
+as it was upon the first.
+
+Suppose, now, that we select groups on the
+basis of their score on the first measurement and
+ask ourselves how many of them will get a dif-
+ferent score upon remeasurement. Out of our
+370 cases who were classified as “for” on the
+first measurement, 45, or about 12 per cent of
+those originally “for,” will change over to the
+opposite position; out of the 130 originally clas-
+sified as “against,” 45, or about 35 per cent of
+those originally classified as “against,” will
+change. We see from this that, while equal num-
+bers of cases in each group change upon re-
+measurement, it will inevitably be true that a
+“the majority opinion has much more effect on
+the minority than vice versa,” whereas, ac-
+tually, the shifts may be attributed entirely to
+errors of measurement. This brings us back to
+Berelson ef al., who have not taken measure-
+ment errors into account in their analysis and
+who appear to have come to some conclusions
+about the effects of social pressures on vote
+changes when the findings could be explained on
+the basis of the kind of error-produced shifts dis-
+
+2 Experiments on Mass Communication (Princeton,
+N.J.: Princeton University Press, 1949), Appen-
+dx D.
+household. While there are occasional devia-
+tions, individual members of a family adjust
+their views toward each others’. . . . Those with
+compatible associates are stable, the others un-
+stable. As a consequence, the already high
+homogeneity of small groups maintains itself
+and even builds up still further.”
+
+Actually, there is no evidence here that the
+homogeneity of the family as a small group is
+built up further during the campaign. Thirteen
+people who differed with their families at the
+beginning of the campaign returned to the fold.
+But 22 people who were in the family fold at the
+the respondents between the first and second
+interviews, until we know something about how
+much shift would occur upon remeasurement
+the next day because of errors of measurement
+alone.
+
+One other point may be relevant here. In our
+discussion so far, it has been assumed that
+measurement errors are random—that an error
+is equally likely to occur for any case in the
+sample. There are some kinds of error for which
+this is not a good assumption. Let us assume
+that we are dealing with the attitude of a man
+who vacillates a little from day to day, always
+remaining generally pro, for example, but some-
+times feeling more so than at other times. His
+vacillating may depend on the interviewer’s
+tone of voice when he asks the question, the
+topic that was uppermost in the respondent’s
+mind just before the interviewer arrived, etc.
+Let us assume further that we are dealing with
+an attitude which is really continuous in the
+population, ranging from very much pro (scale
+point 7) to very much anti (scale point 1) but
+that we have chosen to treat the answers as a
+dichotomy. for convenience in measurement.
+The distribution of the population (upon first
+measurement) might be something like that
+shown in Figure 1.
+
+The item in this illustration splits the popu-
+lation into two groups: 65 per cent pro and 35
+per cent anti. Now let us assume that the in-
+stability of opinion is such that nearly everyone
+in the sample feels a little different at the time
+of remeasurement from the way he did the first
+time. The man who originally felt very pro
+(point 7) now feels a little less so (point 6). Or
+the man at point 2 has shifted from point 2 to
+point 3 or 1. None of these shifts will show up in
+the tabulations, for none of them will take the
+individual across the border line which divides
+pros from antis. The chances that a shift in
+opinion will show up as a changed score from
+one interview to the next are obviously greater
+for the people who lie near the border line—in
+this example, for those whose opinions fall at
+We know that most people do not discuss the
+election during the campaign with anyone of the
+opposite party. It is probable that the people
+who do so aré not such strongly convinced par-
+tisans in the first place as those who avoid cross-
+party discussion. In August they already lie
+closer to the border line of change. The chances
+are, then, that if they had been remeasured be-
+fore they discussed the election with a person of
+the opposite party, more of them would have
+changed. The evidence is not conclusive that
+their change is related to their discussion with a
+person of different political views. A check is.
+needed of the amount of change that would oc-
+cur with simple remeasurement and no inter-
+vening events.
+Clearly, it is much easier to point out prob-
+lems of the sort that have been discussed than it
+is to offer solutions for them. Some check on
+test-retest reliability appears essential, however,
+before the errors of measurement can be isolated
+and the independent contribution of other fac-
+tors assessed.
+
+Obtaining such a check is not a simple mat-
+ter. The “split-half” method of measuring re-
+liability is obviously not applicable for a vari-
+able such as party preference, which is generally
+measured by a single question. And the “alter-
+native-form” method also implies a group of
+questions devoted to the measurement of the
+variable being studied. Retest within a short
+period appears to be the only feasible method,
+and this has the drawback that the second
+measurement may be influenced by the re-
+spondent’s recollection of what he said on the
+first one. To determine the magnitude of this
+effect, a control group is sometimes recom-
+mended, to be measured at the same time as the
+second measurement, without having been ex-
+posed to the first measurement. However, even
+if the distribution of party preferences in such a
+control group were identical with the distribu-
+tion in the main group upon second measure-
+ment, this would not rule out the possibility of a
+spurious consistency between the first and sec-
+ond measurements of the main group—such a
+consistency could occur, owing to the memory
+of the first response, without affecting the mar-
+ginal distributions.
+
+Further discussion should produce a solution
+to the problem of getting a valid measure of the
+error of measurement involved in panel studies.
+The solution would much enhance the power of
+the panel method.

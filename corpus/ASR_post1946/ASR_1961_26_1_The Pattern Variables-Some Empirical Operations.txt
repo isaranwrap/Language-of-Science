@@ -1,0 +1,910 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+set forth a detailed account of our
+
+efforts, in a social psychological study
+of aging, to operationalize two of Talcott
+Parsons’ five pattern variables. We will not
+describe the Kansas City Study of Adult
+Life, except to indicate the relevance of the
+pattern variables to our general conceptual
+
+O: primary intent in this report is to
+
+* This report is based on data from The Kansas
+City Study of Adult Life, a project financed by
+Grant 3M-9082 from the National Institute of
+Mental Health to the Committee on Human Devel-
+opment of the University of Chicago. It is under
+the supervision of William E. Henry (Principal
+Investigator), Robert J. Havighurst, and Bernice
+L. Neugarten. The Study Director has been Elaine
+Cumming, and the Field Director, Lois R. Dean.
+Some of the material contained in this paper ap-
+peared previously in “Interaction Style and Success
+in Aging,” a report prepared by the author, while
+a member of the field research staff, for the Fifty-
+third Annual Meeting of the American Sociological
+Association, Seattle, Washington, August, 1958.
+framework. We will report only the most
+rudimentary findings, in order merely to
+illustrate some uses to which we are putting
+the operations we have developed. And
+finally, we will assume on the reader’s part
+a general familiarity with the Parsonian
+action scheme, although we will of course
+report the refinements and modifications in
+Parson’s own definitions of the pattern
+variables that the empirical tasks have im-
+posed on us.
+
+In short, our purpose here is principally
+to relate the means by which we have
+attacked the following problem: How does
+one go about asking, for example, a middle-
+aged, Midwestern, lower middle class house-
+wife, with rural origins, average intelligence,
+and an eighth grade education, whether her
+orientations to interaction with others are
+primarily affective or affectively neutral, and
+whether her role behavior tends on the whole
+toward diffuseness or functional specificity?
+
+We have not met with unqualified success,
+nor do we consider our work by any means
+complete. There remain, for one thing, the
+other three pattern variables, although the
+two we have used are most relevant to our
+present purposes. And, as will become clear,
+we are faced with nagging questions of
+validity, and of the extent to which we can
+safely compare questionnaire items based on
+concrete interactions with items based on
+the rewards paradigm.
+
+Nevertheless, we believe that we now have
+in hand some easily administered operations
+that enable us tentatively to measure three
+aspects of a person’s orientations to inter-
+action as expressed in terms of the pattern
+variables. These are (a) his “actual” orienta-
+tions: an objectively (or externally) eval-
+uated summary of his principal roles and
+their accompanying orientations; + (b) his
+“self-image”: a subjective statement of his
+principal roles and accompanying orienta-
+tions; and (c) his “approved” orientations:
+a subjective statement of the roles and
+orientations he values most highly. Measures
+for still a fourth aspect—‘cathected”
+orientations that derive from that cluster
+of human motivations variously called
+“needs,” “impulses,” or “desires”—are still
+in the earliest stages of development, and
+will not be reported here.
+about what social-psychological changes, if
+any, occur during the process of “normal”
+aging that can be directly attributed to age
+change alone, rather than to such age-related
+but peripheral variables as, say, reduced
+economic circumstances, retirement, or the
+loss of children from the home. Basically,
+we are addressing ourselves to two questions:
+(1) What, in fact, is aging, in social-psy-
+chological terms? and (2) How well or how
+poorly do different people cope with this
+phase of the life span, and what accounts for
+variations in the ability to cope? Since ours
+is a pilot study, we are chiefly concerned
+with producing reasonably well documented
+hypotheses, not conclusive and definitive
+findings. It is, therefore, as hypotheses that
+the actual content we report here should be
+viewed.
+
+In pursuit of hypotheses, then, we have
+employed a longitudinal research design
+whereby, since 1956, we have observed a
+panel of some 140 residents of Kansas City
+in transit from middle to old age. Their ages
+at selection ranged from 49 to 69. Since
+“normal” aging is the focus, our panel mem-
+bers are working and middle class. The very
+bottom and top of the class structure were
+sheared off at the outset. They are ambula-
+tory and self-sufficient, not institutionalized,
+indigent, or severely handicapped either
+physically or mentally. To this basic study
+panel we have since added a group (herein-
+after called the ‘quasi-panel”’) of similarly
+healthy and ambulatory people in their
+seventies and eighties, permitting us to con-
+trast the terminal and the transitional age
+periods. We have “observed” our more than
+200 respondents by means primarily of
+periodic questionnaire-type interviewing. At
+this writing all have been interviewed at least
+twice, the regular panel members four times.
+
+Quite early in the research, by contrasting
+our 80-year olds with our middle-aged panel
+members, we began to develop the concept
+of “disengagement” as the major social-
+psychological dimension along which change
+in the latter part of the life span occurs. We
+have elaborated this concept in detail else-
+where,” but to summarize briefly: by “dis-
+
+2Elaine Cumming, Lois R. Dean, David S.
+Newell, and Isabel McCaffrey, “Disengagement—A
+Tentative Theory of Aging,” Sociometry, 23 (March,
+1960), pp. 23-35.
+engagement,” we refer to a process whereby
+people become extricated with age from the
+close, obligatory interactions of middle life.
+We have tentatively posited disengagement
+as an emergent as well as a responsive
+phenomenon, and see as its major con-
+comitants (1) a reduction in amount, variety,
+and intensity of social interactions; (2) a
+release, therefore, from many of the norma-
+tive controls governing social interactions;
+and (3) a shift in orientation to social inter-
+action. The end product is the relatively
+isolated (though not necessarily “lonely”),
+comparatively carefree, somewhat eccentric
+and exceedingly egocentric old person, a
+familiar figure in American society.
+
+It is with the third concomitant orienta-
+tion to interaction, that we are concerned
+here, since we elected to express this
+variable in terms of the two pattern variables
+Parsons posits as principally concerned with
+the actor’s motivations in interactive situa-
+tions. These are (1) Affectivity-Affective
+Neutrality, and (2) Diffuseness-Specificity,
+which Parsons defines as follows: ®
+
+(1) Affectivity-A ffective Neutrality. Af-
+fective interactions carry “the role expecta-
+tion that the incumbent of the role may
+freely express certain affective reactions to
+objects in the situation and need not attempt
+to control them in the interests of discipline
+. ..” In affectively neutral interactions, the
+expectation is that the actor “should restrain
+any impulses to certain affective expres-
+sions.”
+
+(2) Diffuseness-Specificity. In diffuse in-
+teractions, the expectation is that the actor
+“will accept any potential significance of a
+social object, including obligation to it, which
+is compatible with his other interests and
+obligations, and that he will give priority to
+this expectation over any disposition to con-
+fine the role orientation to a specific range
+of significance of the object.” Specificity is
+the reverse: the expectation that the actor
+will be oriented to the social object only
+within a concretely defined range of signif-
+icance, and will give priority to this expecta-
+tion over any disposition to push the inter-
+action beyond this limited range.
+When the two pattern variables are
+combined, four orientation-to-interaction
+typologies emerge: diffuse-affective, diffuse-
+neutral, specific-affective, and specific-
+neutral. Each orientation carries an antic-
+ipated relational reward for the actor, and
+with Parsons’ rewards paradigm and the
+above definitions as a point of departure, we
+developed the following empirical descrip-
+tions of these four major orientations:
+
+1. Diffuse-affective interactions carry the
+expectation of potentially unlimited mutual
+obligation and affection. The actor views
+these interactions as permanent, and engages
+in them for their own sake. The anticipated
+relational reward is love,* defined as uncon-
+ditional acceptance; and the flavor, or tone,
+is warmth, homeyness, “togetherness” in the
+uncorrupted sense of that word.
+
+2. Diffuse-neutral interactions carry an
+expectation of potentially unlimited mutual
+obligation, but no expectation of mutual
+affection. They are perceived as occurring
+not for their own sake, but in pursuit of a
+goal apart from the interactions themselves.
+In contrast to the family or close friendship
+context of diffuse-affective interactions,
+diffuse-neutrality is perhaps best typified by
+the interactions between clergymen and
+parishioner, teacher and pupil, or among
+fellow members of such goal-directed col-
+lectivities as unions, charities, fraternal
+orders, and the like. The anticipated reward
+is esteem, and the tone is moral and evalua-
+tive.
+
+3. Specific-affective interactions carry the
+expectation of short-run affective gratifica-
+tion in the context of limited, quite clearly
+defined mutual obligation. In contrast to
+diffuse interactions, where obligation attaches
+to the relationship itself, the specific inter-
+action attaches obligation to the context of
+the relationship. The specific-affective inter-
+action may be intimate, but it does not
+imply long-term mutual responsibility; and
+the anticipated reward, as contrasted to the
+diffuse rewards of love and esteem, is
+responsiveness or receptiveness in the im-
+mediate situation. The flavor of the specific-
+affective interaction is spontaneous and
+affective, but fleeting; and for our purposes,
+we have included in this category the myriad
+vicarious or pseudo-interactions with person-
+alities in television, radio, books, movies,
+etc.
+
+4. Specific-neutral interactions carry the
+expectation of adequate mutual performance
+toward a goal apart from the interaction
+itself. As in the specific-affective interaction,
+obligation attaches to the context of the
+interaction, and the range is limited and
+clearly defined. But unlike the specific-affec-
+tive interaction, no emotional gratification
+is necessarily involved. These are the inter-
+actions of work and the market place, the
+“good day’s work for a good day’s pay.”
+The anticipated reward is approval, and the
+flavor is efficient, businesslike.
+
+In short: affective interactions are ends in
+themselves; neutral interactions are means
+to other ends. Diffuse interactions carry
+obligations that are potentially unlimited,
+loosely defined, and relational; specific inter-
+actions, if they carry any, carry obligations
+that are limited, relatively clearly defined,
+and contextual. None of the four types can
+be found in pure form, empirically. There
+may be many specific acts between persons
+having diffuse relationships, and many
+specific relationships hover constantly on
+the edge of diffuseness, but never become
+defined as diffuse. Similarly, the closely knit
+family circle has moments of neutrality, and
+the assembly line worker may often crack
+jokes with the boss. But by combining the
+notions of range, purpose, nature of obliga-
+tion, affective tone, and anticipated reward,
+we can at least roughly typify people in ac-
+cordance with one or another of these four
+orientations.
+
+Now, with respect to the disengagement
+hypothesis, we predicted that there would
+be a shift in orientation to interaction with
+advancing age, and that this shift would be
+away from disciplined, cognitive orientations
+toward the expressive and gratificatory ones;
+away from the orientations carrying long-
+term obligations to those in which obligations
+are either absent or limited. We believed
+that our respondents could be classified
+empirically according to the primary orienta-
+tions they characteristically display in their
+daily interactions, classifications that would
+constitute a logically coherent summation of
+a person’s roles, plus his motivational set
+toward those roles. Having developed such a
+measure, we would then use it as a partial
+test of the disengagement hypothesis.
+
+As a first step, a staff member closely
+familiar with a small group of panel mem-
+bers she had interviewed intensively, impres-
+sionistically classified each of these respond-
+ents on his “actual” orientations to inter-
+action. Two orientations were assigned each
+respondent, since it was soon apparent that
+nearly everyone at some time or another
+interacts diffusely and specifically, affectively
+and neutrally. But it did seem reasonable,
+empirically, to assign each person two
+orientations, a primary and a secondary,
+into which most of his daily interactions
+would fit. The staff member making these
+initial classifications based her impressions
+on data contained in three panel-wide ques-
+tionnaires, in the intensive interviews, and
+in her observations of the interaction style
+the respondent displayed in the interview
+situation itself.
+
+The 70 year old Mr. B, for example,
+showed a keen cognitive interest in the pur-
+poses and methods of our study, and in the
+interview situation endeavored to convey
+that he was himself an eminently suitable
+respondent by reason of his status and
+achievements in life. He also had a good
+time being interviewed, and was enthusiastic
+in his responses. An examination of the sur-
+vey data revealed that a large number of
+Mr. B’s interactions occur in organizational
+contexts: He is a pillar of his church and the
+prime mover in a men’s club associated with
+the church. Mr. B is also an amateur rose
+grower, reads romantic poetry, and watches
+television regularly. He is a family man, but
+his children have long since established
+homes of their own, and Mr. and Mrs. B
+see them only once or twice a month. In ad-
+dition, Mr. B is retired, so that the world of
+work is no longer his.
+In marked contrast to Mr. B is Mrs. W,
+a housewife in her mid-fifties, whose daily
+life is bound up in her home, her husband,
+her sister, and her many “do-it-yourself” ac-
+tivities about the house and yard. Mrs. W
+and her husband are their own painters, dec-
+orators, upholsterers, electricians, plumbers,
+and gardeners. They work together at these
+tasks, and spend their leisure hours together
+listening to the radio or playing cards with
+a small group of old, close friends. Mrs. W
+sees her sister every day and is in frequent
+contact with her grown son and his family
+by letter or telephone. Although Mrs. W is
+active in her church, these interactions are
+to her an extension of her home and family
+pattern, and lack the moral and evaluative
+tone of Mr. B’s church participation. Simi-
+larly, Mrs. W’s socializing takes place in the
+home and family context, and she has few
+social activities that do not include her
+husband.
+
+Still another type is Mr. F, a bachelor in
+his early fifties, who lives with his unmarried
+sister in an elegantly old-fashioned apart-
+ment crammed with antiques and tropical
+plants. Mr. F is a music, art, and theatre
+lover, a voracious reader of romantic fiction
+(he favors Balzac), an enthusiastic antique
+fancier, a grower of roses and exotic potted
+plants, and a skilled devotee of Kingsley
+Double Crostics. He has relatively few
+friends, and those he has appear to have
+quite specific functions; they are shared-
+interest friends, not close, intimate ones. Mr.
+F is also devoted to his family, an old and
+prominent one from another city, but his
+interactions with them, including the sister
+with whom he lives, appear essentially neu-
+tral: he is concerned not with Togetherness
+but with Holding Up the Side. He works at
+a routine and solitary job, so that his inter-
+actions at his office are few.
+
+And finally, there is Mr. S, a shoelace and
+razor blade peddler of 61, who lives alone in
+a tiny house with a pot-bellied stove, and
+whose only flesh and blood interactions oc-
+cur in the course of his daily work. He has
+no immediate family and no close friends.
+His only “social life” is essentially vicarious,
+consisting of wandering about among the
+downtown crowds, going to the movies on
+Saturday afternoons, and watching televi-
+sion.
+
+In pattern variable terms, then, Mr. B is
+aman for whom diffuseness is largely neutral,
+specificity largely affective. The predomi-
+nance in his life of church activities, rose-
+growing, television, and romantic poets, plus
+the moral and evaluative tone of his utter-
+ances, led us to classify him as a diffuse-
+neutral interactor with a specific-affective
+secondary orientation. Mrs. W’s preoccupa-
+tion with home, family, and household tasks
+gives her a diffuse-affective primacy, with
+specific-neutrality as her secondary orienta-
+tion. Mr. F, with his seven lively arts, his
+roses and his antiques, is specific-affective in
+his primary orientation, while his detached
+concern for the family tie gives him a diffuse-
+neutral secondary orientation. Mr. S, of the
+shoelaces and razor blades, is almost exclu-
+sively specific and neutral, with a trace of
+specific-affectivity in his downtown meander-
+ings, his movies, and his television shows.
+
+Having made several impressionistic clas-
+sifications, and having reassured ourselves
+that it could be done, our next step was to
+try to render our classifications more objec-
+tive. We therefore pulled from the three sur-
+vey questionnaires then completed those
+items that, when taken together, provided
+us with the clearest overall picture of the
+respondent’s daily interactions. This pro-
+cedure yielded 23 items that told us how
+often the respondent engaged in what kinds
+of interactions. We then began tediously to
+classify our respondents, and soon found
+that in fact our instrument was more than
+twice as long as it needed to be. In addition,
+it contained items too dependent on the sub-
+jective judgment of the staff member making
+the classifications. We therefore undertook,
+first, to shorten the instrument, and second,
+to determine its reliability from one classifier
+to another.
+
+To this end, we reduced the number of
+items in the series to eleven. Then, enough
+time having elapsed for forgetfulness to set
+in, our staff member reclassified a random
+thirty cases on the basis of the new short
+forms, and we compared these with her origi-
+nal long-form classifications. We found the
+short form quite reliable, on this test-retest
+trial: only 7 per cent of the two sets of clas-
+sifications were completely disjunctive, and
+73 per cent showed exact agreement, with 20
+per cent partial agreement—e.g., either pri-
+mary or secondary orientation was the same
+in both cases. Next, we gave a new and “un-
+contaminated” staff member a short course
+of instruction in the Parsons pattern vari-
+ables, following which she classified the same
+random thirty cases, using the short form.
+Once again, this instrument showed gratify-
+ing reliability: only 10 per cent of the two
+sets of classifications were entirely disjunc-
+tive; 67 per cent showed exact agreement;
+and 17 per cent showed partial agreement.
+For primary orientation only, the score was
+much better: 6 per cent disjunctive, 77 exact
+agreement, and 17 per cent partial agree-
+ment.
+
+At this writing, then, we have, we believe,
+a reliable instrument for measuring “actual”
+orientations to interaction that is short, easily
+administered, and objective. The items it
+contains are: ®
+Who else lives here with you?
+
+What is your occupation?
+
+Would you describe what an ordinary
+week day is like for you?
+
+Could you tell me more about your work?
+I'd like to know exactly what you do at
+work, what your position is, whom you
+work with, etc.
+
+What do you usually do on week ends
+(or days off)?
+
+How often do you attend church? Do you
+belong to any committees, auxiliaries,
+teach Sunday School, or anything like
+that?
+
+Do you belong to any groups, clubs, or
+associations, or anything like that? (What
+are they? How often do you attend meet-
+ings? What usually goes on at the meet-
+ings? Are you an officer in any of these
+organizations? )
+
+Could you tell me what relatives, other
+than the ones who live here with you,
+you feel closest to, and how often you
+see them?
+
+How many people that you know do
+you consider really close friends: people
+you can confide in anud talk over personal
+matters with? (How often do you get
+together with any of these close friends?
+TasBLe 2, EMPLOYMENT STATUS, AGE, AND PRIMARY ORIENTATION TO INTERACTION
+
+Not Employed
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Employed
+Orientation Panel Quasi-panel Panel Quasi-panel
+Neutral primacy 94% 67% 38% 8%
+Affective primacy 6% 33% 62% 72%
+100% (90) 100% (9) 100% (51) 100% (98)
+Since we have written elsewhere in detail
+of our efforts to measure that elusive con-
+cept “morale,” § we merely summarize here:
+our study design requires us to evaluate vary-
+ing degrees of “success in aging,” and it was
+therefore necessary for us to define and meas-
+ure “success.” One factor in the definition
+we are working out is the individual respond-
+ent’s subjective sense of well-being. It is this
+factor, for which we have developed a four-
+item index, that we are presently calling
+morale. Although the precise meaning of this
+index is not yet clear to us, we do have
+strong evidence for a belief that it reflects
+primarily an inner psychological state, and
+is not, like many morale or satisfaction meas-
+ures, primarily a statement of cognitive or
+moral values.
+
+Among our hypotheses with respect to this
+morale measure is one that concerns orienta-
+tions to interaction as expressed in pattern
+variable terms. We predicted that a discrep-
+ancy between the relational goals a person
+seeks or values and the relational realities of
+his everyday life would be associated with
+low morale. But to test this hypothesis, we
+needed at least three measures: (1) an ob-
+jective measure of relational realities, which
+we had in “actual orientations to interaction”
+described above; (2) a subjective measure
+of relational realities, since we thought it
+likely that where there was disjunction, the
+subjective view of self-as-interactor would
+be more important than the objective for
+purposes of morale; (3) a measure of rela-
+tional goals.
+
+We decided to attack first the problem of
+relational goals, which we defined very
+loosely as those orientations to interaction a
+person appeared to “prefer” or find “most
+congenial,” irrespective of his heavily role-
+determined “actual” orientations. Accord-
+ingly, we again combed the questionnaires
+for items bearing on this variable, and
+emerged with twelve, on the basis of which
+one staff member classified the panel, assign-
+ing both a primary and a secondary “pre-
+ferred” orientation. However, it quickly be-
+came apparent, particularly when we ran a
+reliability check, that this measure would
+have to be abandoned.® The reasons for its
+failure seemed to be these:
+
+1. Most of the items produced responses
+that mixed what appeared to be cathected
+preferences (‘‘needs” or “desires”) with cog-
+nitive or moral value positions, and we felt
+inadequate to decide which the respondent
+could be said to “prefer.” For example, the
+item, “What would you say is the nicest
+thing that has happened to you in the past
+six months?” would give us something like,
+“Oh, I had a party on my birthday and got
+lots of gifts and cards! But I guess I’d have
+to say being elected secretary of (organiza-
+tion) was the nicest thing.” Does this re-
+spondent “prefer” specific-affective or dif-
+fuse-neutral interactions?
+
+2. Many of the items seemed to cry out
+for hedonistic responses. As a result, the
+distribution of primary “preferred” orienta-
+tions revealed a panel overwhelmingly de-
+voted to the pursuit of fun and games (spe-
+cific-affective) which from other evidence,
+including interviewer evaluations, we knew
+was simply not so.
+
+Since we were about to enter the field with
+a fourth questionnaire, our next step was to
+experiment with new items which we wrote
+with the pattern variables specifically in
+mind. Combining the concepts of social role
+predominance and relational rewards, we de-
+vised the following items, designed to elicit
+(a) the respondent’s subjective view of his
+Here are four general types of people we
+see around us in our daily lives. Look
+these descriptions over carefully, then
+tell me which two of these descriptions
+you think resemble you most, as you
+actually are. First, tell me the one you
+think resembles you most, then the one
+that resembles you second most:
+
+(a) A person who is esteemed by others,
+and takes a continuous interest in
+human welfare in general. (Diffuse-
+Neutral)
+
+(b) A person who is enjoyed by others,
+and takes his joys and sorrows as
+they come, from day to day. (Spe-
+cific-A ffective)
+
+(c) A person who is Joved by others, and
+takes a continuous interest in the
+personal welfare of all those who
+are dear to him. (Diffuse-Affective)
+
+(d) A person who is approved of by
+others, and attends to his affairs
+conscientiously from day to day.
+(Specific-Neutral)
+
+. Now go back over the four descriptions
+
+and tell me which two (first choice and
+second choice) you would most like to
+resemble.
+
+Here is another list of four types of
+
+people. Of these four, which type do
+
+you most prefer to have as friends?
+
+Which do you prefer second most?
+
+(a) People who completely accept you
+the way you are, and feel responsible
+for your personal problems and wel-
+fare. (DA)
+
+(b) People who do their work, attend to
+their affairs, and leave you free to
+do the same. (SN)
+
+(c) People who try to improve them-
+selves, and have definite ideals and
+aims in life. (DN)
+
+(d) People who are friendly and lively,
+and enjoy getting together to talk
+or to socialize. (SA)
+
+Which of the following kinds of people
+do you most prefer to have around you
+
+in you daily work? Which do you like
+
+next best?
+
+(a) People who are friendly and enjoy-
+able to work with. (SA)
+
+(b) People you can cooperate with to
+improve the quality and standards
+of your occupation or profession.
+(DN)
+
+(c) People you can count on to do their
+jobs or tasks properly, as they should
+be done. (SN)
+
+(d) People you have known and trusted
+for a long time and feel comfortable
+working with. (DA)
+
+Which of the following kinds of people
+
+do you most prefer to have around you
+
+as neighbors? Which do you like next
+best?
+
+(a) Neighbors you feel familiar and
+comfortable with and can treat like
+members of the family. (DA)
+
+(b) Neighbors who go about their busi-
+ness and live their own lives, leaving
+you free to do the same. (SN)
+
+(c) Neighbors you can work with to
+preserve or improve the value and
+reputation of the neighborhood as a
+whole. (DN)
+
+(d) Neighbors who are friendly and soci-
+able, and pleasant to pass the time
+of day with. (SA)
+We now had at least first approximations
+of the three measures we needed to test the
+relationship between reality-goal discrepan-
+cies and morale. The first, an external judg-
+ment, was as objective as we could make it,
+and quite reliable as between judges. The
+second and third being self-statements, the
+question of objectivity does not arise; and
+since, at this writing, we have no test-retest
+data, we can say nothing about the reliability
+of the self-statements, one compelling reason
+for continuing to regard these measures as
+first approximations. As to their validity,
+perhaps only Professor Parsons himself can
+render a verdict. Lacking that, we can only
+hope that we have comprehended the pattern
+variables accurately, and that our modifica-
+tions and elaborations have remained reason-
+ably faithful to the original concepts.
+
+The table below shows the comparative
+distribution for the three measures in both
+the panel and quasi-panel.
+
+Since discrepancies do appear in this com-
+parative distribution," our next step was to
+devise a method for scoring each respondent
+Orientations
+
+ 
+
+ 
+
+(Primary) Actual S-I Approved Actual S-I Approved
+SN 57% 43% 17% 8% 28% 15%
+DN 14% 18% 26% 5% 24% 25%
+SA 16% 14% 21% 68% 29% 27%
+DA 13% 25% 36% 19% 19% 33%
+
+100% 100%
+Tasie 5. AGE, ORIENTATION DISCREPANCIES, AND Morate 18
+
+ 
+
+ 
+
+ 
+
+(70’s Only)
+Panel (N=101) Quasi-Panel (N=50)
+Medium or Medium or
+
+Morale High (18) Low (83) High (24) Low (26)
+Discrepancy A
+
+Higher* 22% 36% 48% 52%
+
+Lower 78% 64% 52% 48%
+Discrepancy B
+
+Higher 22% 55% 45% 50%
+
+Lower 78% 45% 55% 50%
+Discrepancy C
+
+Higher 17% 471% 37% 27%
+
+Lower 83% 53% 63% 73%
+
+ 
+
+* Because our case base is small, we dichotomized these scores, at the point at which the population
+“divided itself” on discrepancy in relation to other variables, designating scores of 0-2 as “lower,” and
+
+3-6 as “higher.”
+
+ 
+
+and self-image, a disjunction that we cannot
+interpret conclusively at present. However, we have
+speculated that the explanation may lie principally
+in our attempt to reconcile classifications based on
+activities, or specific role performances (the objec-
+tive measure) with classifications based largely on
+values and general role constellations (the self-
+statements). In middle age, roles and values tend
+to be synonymous, and thus no major actual vs.
+self-image disjunctions appear among our panel
+members. But in old age, roles change drastically,
+while the old values appear to persist (although
+Table 4 does show for the quasi-panel some retreat
+from the SN self-image and some rise in the SA
+self-image). What seems needed are two sets of
+three measures which will separate specific roles
+from role constellations and rewards. We have, in
+fact, devised a list of concrete activities, classifiable
+in pattern variable terms, on which we can obtain
+self-ratings for comparison with the objective
+specific role classifications. And we have interviewer
+
+ratings of the relational rewards respondents seem
+to seek in the interview situation, which we hope
+may give us objective value classifications for com-
+parison with the self-statements.
+
+12Tn computing the discrepancy score, we assign
+two points for each discrepant variable in the
+primary orientation, one point for each discrepant
+variable in the secondary orientation, then sum the
+two-sub-scores for our total. For example, a
+respondent whose objectively rated orientation is
+SN-SA, but whose self-image is DA-SN, would
+score “5S” on Discrepancy A. One exception is made,
+in the case of a simple reversal of orientations, to
+which we arbitrarily assign a score of “1,” on the
+grounds that such a discrepancy is not qualitatively
+a serious one. For a principal role in the develop-
+ment of this scoring system, we are indebted to
+James A. Davis, National Opinion Research Center,
+Chicago, Illinois.
+
+18 At least two observations should be made about
+this table: (a) It does not include our over-80
+We repeat that it is not our purpose in
+this report to dwell on findings and their in-
+terpretations. But to summarize Table 5 very
+briefly: Among the middle-aged, a strong
+relationship does appear to exist between re-
+lational realities, both “real” and perceived,
+and relational goals or values. As predicted,
+respondents having high morale are far more
+likely than respondents with lower morale to
+show a low discrepancy between goals and
+realities. But no such relationship appears
+in the older population. We suggest that this
+may reflect a generally lower level of con-
+cern in this age group with social interactions
+and their rewards. If so, this would tend to
+support the disengagement theory of aging,
+but a test of this hypothesis must await the
+development, now in progress, of an index
+for measuring disengagement.
+above should be viewed as merely suggestive,
+for at least two reasons. First, our case base
+is pitifully small, in many instances. Second,
+we have had perforce to test hypotheses on
+the same population that engendered them.
+But ours is a pilot study, whose major objec-
+tives are to formulate hypotheses and develop
+operations for testing them on large popula-
+tions. It has been the main purpose of this
+paper to report progress on three such opera-
+tions and to suggest some of their uses; it
+has not been our purpose to state definitive
+conclusions about the social psychology of
+aging.
+
+We therefore conclude only that the ori-
+entations to interaction summarized by at
+least two of the pattern variables can be
+efficiently and reliably measured for ordinary
+cross sectional populations. And we believe,
+with rough supporting evidence, that (a)
+these orientations shift with age from a neu-
+tral and cognitive to an affective and appre-
+ciative primacy; (b) that discrepancies be-
+tween relational realities and relational goals,
+as summarized by the pattern variables, are
+associated for our middle-aged people with
+low morale; and (c) that these discrepan-
+cies are not related to morale for our older
+people, a result which we tentatively inter-
+pret as support for the disengagement theory
+of aging.

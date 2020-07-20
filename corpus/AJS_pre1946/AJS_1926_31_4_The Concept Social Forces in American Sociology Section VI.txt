@@ -1,0 +1,570 @@
+The Concept "Social Forces” in American Sociology. Section VI. Wishes and Attitudes as
+Social Forces
+
+Author(s): Floyd N. House
+
+Source: American Journal of Sociology, Vol. 31, No. 4 (Jan., 1926), pp. 512-525
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2764748
+
+Accessed: 03-06-2016 19:37 UTC
+SECTION VI. WISHES AND ATTITUDES AS SOCIAL FORCES
+
+ABSTRACT
+
+Wishes and attitudes as items in a comprehensive new theory of social behavior.
+—wW. I. Thomas and Park and Burgess have been responsible for the introduction
+into the literature of American sociology of a fairly elaborate new conceptual system
+for the analysis and explanation of human social behavior, with particular reference
+to its motivation. The principal formal terms used to designate the concepts in this
+system are “attitude,” “value,” “situation,” “definition of the situation,” “wish,” and
+the “four wishes” or classes of wishes.
+
+The wish concept—The wish concept originated with the psychologists;
+Thomas and Park and Burgess appear to have been influenced especially by E. B.
+Holt’s account of it. Thomas’ earlier formulations of the “attitude” concept did not
+discriminate clearly between attitudes and wishes, but his correlation of attitudes
+with social values or social objects was later carried over to the definition of the
+wish concept. A wish is now defined as a wish for something; it involves a motor
+tendency. All wishes are conceived to fall in four classes, which cannot be substi-
+tuted for one another.
+
+The attitude as a behavior pattern.—Park has abstracted the attitude concept
+from the wish concept more clearly than Thomas had done, and has classified atti-
+tudes as behavior patterns in four classes: approaching, withdrawing, superordina-
+tion, subordination.
+Peasant in Europe and America. In two methodological discus-
+sions in this study the authors have made the effort to define the
+terms “wish” and “attitude” for the purposes of sociological
+analysis, and to correlate them with each other. The generalized
+exposition of the concepts has been carried further in Park and
+Burgess’s Introduction to the Science of Sociology, in Park and
+Miller’s Old-World Traits Transplanted, and in Thomas’s The
+Unadjusted Girl. Probably the last-mentioned work, which pre-
+sumably contains Thomas’s latest thoughts on the subject, is the
+most satisfactory expression at the date of writing of the concep-
+tion of wishes and attitudes as social forces which is so influential
+at present with the Chicago school of sociologists.*®
+
+As we examine, in the following pages, some of the passages
+most in point from the writings of these men, it will appear that
+the concept “wishes” is not of an entirely different order from
+Ward’s concept “desires.” What Thomas has done, in effect, is
+to redefine somewhat the notion of fundamental, more or less uni-
+versal human nature motives, and to signalize his revision of the
+concept by the adoption of a new term, imported from the field of
+psychoanalysis—the “wish,” and of still another, the “attitude,”
+incorporated into a scientific hypothesis from the field of ordinary
+discourse by giving to it a precise definition. Along with these
+fundamental motive-concepts, Thomas and his followers have
+found it necessary to develop some three other closely related
+ones—that of the social “value,” the particular “situation,” and
+the “definition of the situation” made by the individual or pro-
+vided in the culture of the group. There is not entire agreement
+among those who have been working with these terms as to the
+exact meanings to be attached to them, but this will come out in
+the passages to be quoted below.**
+
+* Thomas’s doctrine of the attitudes and wishes has had considerable influence
+upon some of the younger members of the Department of Political Economy of the
+University of Chicago, where he formerly taught. Compare Douglas, Hitchcock, and
+Atkins, The Worker in Modern Economic Society (1923), pp. 52 ff., and Atkins and
+Lasswell, Labor Attitudes and Problems (1924), chapter i.
+
+** The readings in this chapter are arranged in the natural order of the-develop-
+ment of social forces. They were first thought of by historians as tendencies or
+trends. Then, in the popular sociology, social forces were identified with significant
+By way of introducing more carefully the story of the develop-
+ment of these concepts, it may be observed that there are two pos-
+sible bases of classification of the fundamental human motives.
+As an actual research procedure, each of these will involve a
+method somewhere between systematic induction and a crude
+process of trial-and-selection. Following the one line of approach,
+the methodologist will attempt to classify motives according to the
+ends toward which they are, or appear to be, directed. If the other
+approach is used, the basis of classification is the actual form of
+the behavior pattern itself. The former is substantially the method
+by which Ward’s classification of desires and Small’s classification
+of interests were formed. It is also the principle on which the
+Thomas fourfold classification of “wishes” is based. Park and
+Burgess, on the other hand, following up rather vague suggestions
+made in the writings of Thomas, have made a fourfold classifica-
+tion of attitudes as behavior patterns, stating at the same time
+that a more elaborate classification might be made on the same
+basis. In the earlier writings of Thomas, however, there are, as we
+shall see from quotations to be given below, only faint adumbra-
+tions of the distinction which we have just noted.
+
+In The Polish Peasant, Thomas and Znaniecki approached
+the problem of defining their “attitude” concept through a pre-
+liminary definition and description of “social values”:
+
+By a social value we understand any datum having an empirical content
+accessible to the members of some social group, and a meaning with regard to
+which it is, or may be, an object of activity. Thus, a foodstuff, an instrument,
+a coin, a piece of poetry, a university, a myth, a scientific theory, are social
+values... .. The meaning of these values becomes explicit when we take
+them in connection with human actions... .. The social value is thus op-
+posed to the natural thing, which has a content, but, as a part of nature, has
+no meaning for human activity, is treated as “valueless”; when the natural
+thing assumes a meaning, it becomes thereby a social value. And naturally a
+social value may have different meanings, for it may refer to many different
+kinds of activities.
+
+By attitude we understand a process of individual consciousness which de-
+termines real or possible activity of the individual in the social world. Thus,
+hunger that compels the consumption of the foodstuff; the workman’s decision
+to use the tool; the tendency of the spendthrift to spend the coin; the poet’s
+feelings and ideas expressed in the poem and the reader’s sympathy and ad-
+miration; the needs which the institution tries to satisfy and the response
+which it provokes; the fear and devotion manifested in the cult of the divin-
+ity; the interest in creating understanding, or applying a scientific theory, and
+the ways of thinking implied in it—all these are attitudes. The attitude is thus
+the individual counterpart of the social value; activity, in whatever form, is
+the bond between them.17
+
+In the sentences which follow those just quoted, the authors set
+forth plainly another feature of their conception of the attitude as
+they were defining the term; they were making an attempt to
+establish an objective, behavioristic classification, in place of the
+subjectively defined categories of motives used by the older psy-
+chology:
+
+By its reference to activity, and thereby to the social world, the attitude
+is distinguished from the psychical state. In the examples quoted above we
+were obliged to use, with reference to ideas and volitions, words that have be-
+come terms of individual psychology by being abstracted from the objective
+social reality to which they apply, but originally they were designed to express
+attitudes, not psychological processes. A psychological process is an attitude
+treated as an object in itself, isolated by an act of reflective attention, and
+taken first of all in connection with other states of the same individual. An
+attitude is a psychological process treated as primarily manifest in its refer-
+ence to the social world, and taken first of all in connection with some social
+value. Individual psychology may later re-establish the connection between
+the psychological process and the objective reality which has been severed by
+reflection; it may study psychological processes as conditioned by the facts
+going on in the objective world. In the same way social theory may later con-
+nect various attitudes of an individual and determine his social character. But
+it is the original (usually unconsciously occupied) standpoints which deter-
+mine at once the subsequent methods of these two sciences. The psychological
+process remains always fundamentally a state of somebody; the attitude re-
+mains always fundamentally an attitude toward something.18
+
+* Thomas and Znaniecki, The Polish Peasant in Europe and America, I, 31-32.
+Compare also Thomas, The Unadjusted Girl, pp. 232-33.
+* Loc. cit. pp. 22-23.
+In their definition of the concept “attitude,” the authors made
+it very clear that they were attempting to set up a category in the
+realm of the social, as the preceding passage has shown. That in
+the attitude as they defined it—an objective, observable process of
+behavior—they had something essentially social in nature, they
+further demonstrated by an analysis of the formation of attitudes.
+Briefly, the course of that analysis was as follows: We have to as-
+sume some kind of behavior to start with, of course; activity, and,
+apparently, to judge from the observations of Watson, several
+recognizable patterns of activity, are found in the newly born hu-
+man infant. Let us then label these assumed but little known in-
+born behavior patterns “temperamental attitudes.” Now it is evi-
+dent that we do not have temperamental attitudes to deal with in
+our study of the behavior of ordinary persons; for the tempera-
+mental attitude is altered to some extent the first time it operates.
+The infant acts on the prompting of its inborn impulses, but the
+first time it acts, it acquires as a result of the act some perception
+of an object or “value,” and at the same time the attitude is modi-
+fied or defined. The next time the impulse occurs, it is an impulse
+which has in it something of the previous experience—something
+of the previously experienced object. Hence the attitude which is
+now operative is a compound of the first “temperamental” atti-
+tude and the value with which it came in contact. Similarly, when
+an object occurs in experience for any time after the first experi-
+ence of it or something like it, it has in it, humanly speaking, or
+for that person, a certain quality which it received by the impact
+of the former act. A child has, let us say, a certain value category,
+“ball,” formed out of its experience with its soft rubber plaything;
+it has linked with this value a certain attitude or behavior pattern
+of manipulation. One day some one tosses the child a baseball, and
+at once both its value “ball” as “something to play with—soft, it
+won’t hurt me” is altered to fit the new experience; while at the
+same time the attitude called forth by the occurrence of the ex-
+perience “ball” is correspondingly modified. This line of analysis
+the authors have summed up in the following propositions:
+The fundamental methodological principle of both social psychology and
+sociology—the principle without which they can never reach scientific explana-
+tion—is . . . . the following one:
+
+The cause of a social or individual phenomenon is never another social or
+individual phenomenon alone, but always a combination of a social and an in-
+dividual phenomenon.
+
+Or, in more exact terms: The cause of a value or an attitude is never an
+attitude or a value alone, but always a combination of an attitude and a
+value.t®
+
+The implication of this, according to Thomas and Znaniecki,
+is that social science, in its search for working hypotheses and
+general concepts, is limited primarily to cultural data:
+
+The more generally an attitude is shared by the members of a given social
+group, and the greater the part it plays in the life of every member, the strong-
+er the interest which it provokes in the social psychologists, while attitudes
+which are either peculiar to a few members of the group or which manifest
+themselves only on rare occasions have, as such, a relatively secondary signifi-
+cance, but may become significant through some connection with more general
+and fundamental attitudes.
+
+On the other hand, scientific generalizations are productive and valuable
+only in so far as they help to discover certain relations between classes of the
+generalized data and to establish a systematic classification by a logical sub-
+ordination and co-ordination of concepts; a generalization which bears no rela-
+tion to others is useless. Now, as the main body of the materials of social psy-
+chology is constituted by cultural attitudes, corresponding to variable and
+multiform cultural values, such elementary natural attitudes as correspond to
+stable and uniform physical conditions—for example, attitudes manifested in
+sensual perception or in the action of eating—in spite of their generality and
+practical importance for the human race, can be investigated within the limits
+of this science only if a connection can be found between them and the cul-
+tural attitudes—if, for example, it can be shown that sensual perception or the
+organic attitude of disgust varies with the variation of social conditions. As
+long as there is no possibility of an actual subordination or co-ordination be-
+tween the cultural and natural attitudes, the natural attitudes have no immedi-
+ate interest for social psychology.?°
+
+The fundamental methodological problem which gives rise to
+this discussion is, of course, as Thomas and Znaniecki have very
+clearly seen, that of establishing or discovering valid general cate-
+gories under which the manifold data of social science can be
+
+* Loc. cit.,1, p. 44. » Loc. cit., 1, 29-30.
+classified." Such general categories they have set up, and Thomas
+has later refined, in their fourfold classification of wish patterns—
+without, however, making it at all clear to us by what process of
+reasoning these categories were arrived at. Presumably it was a
+matter of trying out first one classification and then another, till
+one was found which satisfied the logical criteria that had been set
+up in the beginning. We know from the evidence of some of
+Thomas’ earlier writings that he had dallied with the plan of re-
+ducing all human phenomena to explanation in terms of two cate-
+gories of motives, hunger and sex, and in various sentences in the
+methodological note from which we are quoting passages there is
+an assumption of the existence in the human organism of “in-
+stincts,” from which these classes of wishes are presumably some-
+how derived. Thomas and Znaniecki give the following as their
+first rendition of the fourfold classification:
+
+We have assumed throughout this argument that if an adequate technique
+is developed it is possible to produce any desirable attitudes and values, but
+this assumption is practically justified only if we can find in the individual at-
+titudes which cannot avoid response to the class of stimulations which society
+is able to apply to him. And apparently we do find this disposition. Every in-
+dividual has a vast variety of wishes which can be satisfied only by his incor-
+poration in a society. Among his general patterns of wishes we may enumer-
+ate: (1) the desire for new experience, for fresh stimulations; (2) the desire
+for recognition, including, for example, sexual response and general social ap-
+preciation, and secured by devices ranging from the display of ornament to the
+display of worth through scientific attainment; (3) the desire for mastery, or
+the “will to power,” exemplified by ownership, domestic tyranny, political des-
+potism, based on the instinct of hate, but capable of being sublimated to laud-
+able ambition; (4) the desire for security, based on the instinct of fear and
+exemplified negatively by the wretchedness of the individual in perpetual soli-
+tude or under. social taboo.?2
+
+In the Introduction to Volume III of The Polish Peasant,
+written apparently some time after the Methodological Note in
+Volume I, from which the above passages are quoted, we find that
+the authors have modified both the classification of the wishes
+and the terms applied to the categories. In this volume the dis-
+tinction between temperament and character is emphasized; tem-
+
+* On the difficulties of generalization in social theory see also ébid., I, 62.
+
+* Loc. cit., 1, 72-73.
+perament being used to refer to the sum total of the inborn, “in-
+stinctive” attitudes with which the individual is endowed at birth,
+and character referring to the attitudes which are organized
+through experience on the basis of the temperament. In this vol-
+ume there is suggested, rather indefinitely, a new scheme of four
+categories of wishes, in two pairs. The desire for new experience,
+resting upon the instinct of curiosity, and the desire for security
+or stability, resting upon the instinct of fear, seem to be conceived
+of as nearer to the temperamental basis. The desire for response,
+ie., for intimacy, friendship, love, and the desire for recognition,
+i.e., for superior status, admiration, social position, are conceived
+of as classes of wishes evolved in a larger degree from forces in the
+social milieu.
+
+In The Unadjusted Girl (1923), Thomas has asserted more
+confidently and clearly the classification as presented in Volume
+III of The Polish Peasant.* In this book the author gives us the
+fruit of riper reflection and experimentation with the whole scheme
+of analysis of human social behavior through the concepts “atti-
+tude,” “value,” “situation,” “definition of the situation,” and
+“wish.” It will be enlightening in this connection to examine two
+particularly clear passages from this later book.
+
+When a concrete wish of any general class arises it may be accompanied
+and qualified by any or all of the other classes of wishes. Thus when Pasteur
+undertook the quest described above we do not know what wish was upper-
+most. Certainly the love of the work was very strong, the ardor of pursuit,
+the new experience; the anticipation of the recognition of the public, the sci-
+entific fame involved in the achievement was certainly present; he invited re-
+sponse from his wife and colleagues, and he possibly had the wish also to put
+his future professional and material life on a secure basis. The immigrant who
+comes to America may wish to see the world (new experience), make a fortune
+(security), have a higher standing on his return (recognition), and induce a
+certain person to marry him (response).?4
+
+The whole matter, as Thomas saw it at the time of writing, is
+summed up very clearly in a passage near the close of this book:
+
+All the types of wishes coexist in every person—the vague desire for new
+experience, for change, for the satisfaction of the appetites, for pleasure; the
+new experience contained in pursuit .... ; the desire for response in personal
+
+* Loc. cit. p. 4. * Loc. cit., pp. 38-39-
+relations; the desire for recognition; and the desire for security—the assur-
+ance of the means and conditions for gratifying all the wishes indefinitely. And
+all of these classes of wishes are general mental attitudes ready to express
+themselves in schemes of action which utilize and are dependent upon the ex-
+isting social values. These values may be material . . . . or they may be the
+mental attitudes of others, as when a bogus nobleman imposes on the desire
+for recognition of a bourgeois, or a scientist appeals to a philanthropic person
+to endow an institution for medica] research.
+
+The attitudes of a given person at a given moment are the result of his
+original temperament, the definitions of situations given by society during the
+course of his life, and his personal definitions of situations derived from his ex-
+perience and reflection. The character of the individual depends upon these
+factors.
+
+Any mobilization of energies in a plan of action means that some attitude
+(tendency to action) among the other attitudes has come to the front and sub-
+ordinated the other attitudes to itself for the moment, as the result of a new
+definition of the situation. This definition may be the counsel of a friend, an
+act of memory reviving a social definition applicable to the situation, or an ele-
+ment of new experience defining the situation. . . . .25
+
+It can be seen by a comparison of the relevant passages in The
+Polish Peasant (1917, 1919) with those in The Unadjusted Girl
+(1923) that Thomas’ own interest led him more and more away
+from the “attitude” concept in the direction of a closer and closer
+definition of the four classes of wishes. Park and Burgess have
+made further contributions toward the definition of the “wish”
+concept, in their Introduction to the Science of Sociology (1921,
+revised 1924):
+
+The wishes, as popularly conceived, are as numerous as the objects or
+values toward which they are directed. As there are positive and negative val-
+ues, so there are positive and negative wishes. Fears are negative wishes. The
+speculations of the Freudian school have attempted to reduce all wishes to one,
+the libido. In that case the wishes, as we know them and as they represent
+themselves in consciousness, are to be regarded as offshoots, or perhaps better,
+specifications, of the one wish. As the one wish is directed to this or that ob-
+ject, it makes of that object a value, and the object gives its name to the wish.
+In this way the one wish becomes many wishes.
+
+Science demands, however, not a theory of the origin of the wishes, but a
+classification based on fundamental differences which it is necessary to take
+account of in explaining human behavior. Thomas’ fourfold classification ful-
+fills this purpose. The wish for security, the wish for new experience, the wish
+
+* Tbid., p. 241.
+for response, and the wish for recognition are the permanent and fundamental
+unconscious motives of the person which find expression in the many and con-
+scious wishes. As wishes find expression in characteristic forms of behavior,
+they may also be thought of in spatial terms as tendencies to move toward or
+away from their objects... ..
+
+The fundamental value for social research of the classification inheres in
+the fact that the wishes in one class cannot be substituted for wishes in an-
+other. The desire for response and affection cannot be satisfied by fame and
+recognition, or only partially so. The wholesome individual is he who, in some
+form or other, realizes all the fundamental wishes. The security and perma-
+nence of any society or association depends upon the extent to which it per-
+mits the individuals who compose it to realize their fundamental wishes. The
+restless individual is the individual whose wishes are not realized even in
+dreams.?6
+
+E. B. Holt, in The Freudian Wish,” has made one of the more
+helpful statements of the wish doctrine, and also, in effect, of the
+concept “attitude,” although he does not use the latter term as a
+label for a scientific concept. Park and Burgess have quoted a
+passage from this book which embodies in concise form a defini-
+tion of the wish that does much to clear up the relation of wishes
+to attitudes, a matter which seems to have occasioned considerable
+difficulty to Thomas and those of his followers who have tried to
+use this set of concepts as tools of sociological research.
+
+An exact definition of the “wish” is that it is a course of action which
+some mechanism of the body is set to carry out, whether it actually does so or
+does not. All emotions, as well as the feelings of pleasure and displeasure, are
+separable from the “wishes,” and this precludes any thought of a merely he-
+donistic psychology. The wish is any purpose or project for a course of action,
+whether it is being merely entertained by the mind or is being actually exe-
+cuted—a distinction which really is of little importance. We shall do well if
+we consider this to be, as in fact it is, dependent upon a motor attitude of the
+physical body, which goes over into overt action and conduct when the wish is
+carried into execution.?8
+
+In the book from which the foregoing passage is quoted, Holt
+has set forth at length a theory of human behavior which may be
+referred to by his term “specific response.” He points out that
+
+* Loc. cit. p. 442 (1924 ed.).
+
+*E.D. Holt, The Freudian Wish—A Treatise in Ethics, 1915.
+
+* Park and Burgess, loc. cit. (1924 ed.), p. 479 (quoting Holt, The Freudian
+Wish).
+the psychology of the past has sought to explain behavior largely
+in terms of the reflex arc or stimulus-response co-ordination; the
+human organism has been thought of, as has indeed every other
+animal organism, as a bundle of potential responses to stimuli.
+When we observe the behavior of human beings as such, however,
+we find that the distinguishing feature is what he calls the “specific
+response,” the power to correlate two or more stimuli and to deal
+with them in an act which is no longer a response to a stimulus
+simply, but a “specific response” which has reference to some
+phase or aspect of the environment. Holt’s language in this ac-
+count has perhaps not been as felicitous as one could wish, but in
+his “specific response” he has practically the same concept which
+Park and Burgess have developed as the “attitude.” Their most
+formal definition of the attitude is “the tendency of the person to
+react positively or negatively to the total situation.’””® Their ex-
+planation proceeds as follows:
+
+Attitudes are as many and as varied as the situations to which they are a
+response. It is, of course, not to be gainsaid that instincts, appetites, habits,
+emotions, sentiments, opinions, and wishes are involved in and with the atti-
+tudes. Attitudes are mobilizations and organizations of the wishes with refer-
+ence to definite situations. My wishes may be very positive and definite in a
+given situation, but my attitude may be wavering and undetermined. On the
+other hand, my attitude may be clearly defined in situations where my wishes
+are not greatly involved... . . The wishes enter into attitudes as compo-
+nents..... The fundamental wishes, we may assume, are the same in all situ-
+ations. The attitudes and sentiments, however, in which the wishes of the indi-
+vidual find expression are determined not only by those wishes, but by other
+factors in the situation, the wishes of other individuals, for example.®°
+
+What we arrive at, then, is this: The wishes—elementary be-
+havior tendencies presumably having some basis in the physical
+organism in the form of mechanisms which can be set in operation
+by appropriate external or internal stimuli—are in a certain ulti-
+mate sense, from the viewpoint of this theory, the most elementary
+motives. But we can get at the wishes only by an intellectual
+process of inference and analysis. In general, it is possible to
+observe no wishes, and no one has seen the significant nerve con-
+nections under the microscope. For purposes of observation, then,
+
+” Loc. cit. p. 438 (1924 ed.). * Loc. cit., pp. 438-39 (1924 ed.).
+the attitude is elementary, and attitudes can be observed; for we
+can define an attitude as an observable behavior pattern, capable
+of being described in terms of approach, withdrawal, and other
+simple features of objective performance. Any account of the
+wishes as elementary neural mechanisms or connections is outside
+the scope of sociology, and must be left for the further researches
+of the psychologists. The sociologist, gua sociologist, however, is
+constrained for his own purposes to make use of such categories of
+wishes as will stand the pragmatic test—they must be able to ac-
+count for all forms of social behavior, and they must be such that
+a wish in one category cannot be entirely realized through values
+corresponding only to the other categories. The classes of wishes
+are therefore elementary for sociological purposes; but so also, for
+another phase of sociological analysis, are the attitudes. For we
+can classify attitudes as such, i.e., we can classify them according
+to their general direction and form. Park and Burgess have made
+the beginnings of such a classification in the following passage. So
+far as is known to the present writer, systematic analysis of atti-
+tudes along these lines has been carried no further by anyone up
+to the present time, though doubtless distinctions among the forms
+of behavior which might be made use of for the amplification of
+such a classification are to be found in the literature of psychology.
+
+If the attitude may be said to play the réle in sociological analysis that
+the elementary substances play in chemical analysis, then the réle of the
+wishes may be compared to that of the electrons.
+
+The clearest way to think of attitudes is as behavior patterns or units of
+behavior. The two most elementary behavior patterns are the tendency to ap-
+proach and the tendency to withdraw. Translated into terms of the individual
+organism, these are tendencies to expand and to contract. As the self expands
+to include other selves, as in sympathy and fellowship, there is an extension of
+self-feeling to the whole group. Self-consciousness passes over, in the rapport
+thus established, into group consciousness. .. . .
+
+The simplest and most fundamental types of behavior of individuals and
+of groups are represented in these contrasting tendencies to approach an object
+and to withdraw it. If, instead of thinking of these two tendencies as unre-
+lated, they are thought of as conflicting responses to the same situation, where
+the tendency to approach is modified and complicated by the tendency to
+withdraw, we get the phenomenon of social distance. There is the tendency to
+approach, but not too near... .. Where the situation calls forth rival or
+conflicting tendencies the resulting attitude is likely to be an accommodation,
+in which what has been described as distance is the determining factor. When
+an accommodation takes the form of the domination of A and the submission
+of B, the original tendencies of approach and withdrawal are transformed into
+attitudes of superordination and subordination.*+
+
+That is, more simply stated, we have a fourfold classification of
+attitudes: (1) attitudes of approach or expansion; (2) attitudes
+of withdrawal or contraction; (3) attitudes of domination or
+superordination; and (4) attitudes of subordination or submis-
+sion. Ideally, if we are to make use of the conceptual equipment
+thus provided, sociological analysis of behavior would proceed,
+first to describe and classify the attitudes, and then to analyze the
+attitudes in terms of the fundamental wishes which underlie them
+and the definitions of the situation which have reacted with the
+wishes to produce the attitudes observed.
+
+Before we leave this subdivision of our study, notice should be
+taken of the attempt which Park has made to standardize for so-
+ciological purposes and to correlate with the wish and attitude
+concepts the notion of sentiments. Like “wish” and “attitude,”
+“sentiment” has long been a term freely used in common-sense
+and literary descriptions of human behavior. Some years ago
+Shand gave an objective definition of “a sentiment” in his Foun-
+dations of Character, a definition which was adopted and discussed
+by McDougall in Social Psychology. That definition is concisely
+expressed in the following passage:
+
+Mr. Shand points out that our emotions, or, more strictly speaking, our
+emotional dispositions, tend to become organized in systems about the various
+objects and classes of objects that excite them. Such an organized system of
+emotional tendencies is not a fact or mode of experience, but is a feature of
+the complexly organized structure of the mind that underlies all our mental
+activity. To such an organized system of emotional tendencies centered about
+some object Mr. Shand proposes to apply the name “sentiment.”?
+
+Now it is clear that a sentiment involves some sort of tendency to
+
+act, and it is also a well-known fact that any particular sentiment
+
+—patriotism or parental affection, for instance, frequently be-
+* Loc. cit., pp. 439-41 (1924 ed.).
+
+* Adapted in Park and Burgess (1924), p. 465, from McDougall, An Introduc-
+tion to Social Psychology (1916).
+comes embodied in quite definite behavior patterns, so that when-
+ever the sentiment is excited by certain common types of situa-
+tions which could be described in general terms, the behavior pat-
+tern is released quite automatically or spontaneously. In com-
+menting upon the nature of opinions as rationalizations—justifica-
+tions to one’s self and to others of the attitude taken, Park has
+invented another category for the designation of the type of mo-
+tivation involved, the “sentiment-attitude.”** Adding this to the
+list of terms which we have surveyed in this section, we have then
+some eight more or less closely defined categories constituting a
+theory of human motives as “social forces.” These categories are
+(1) the wishes, (2) the four classes of wishes, (3) the attitudes,
+(4) the sentiment-attitudes, (5) the social values (objects), (6)
+situations, (7) definitions of situations, and (8) opinions. It is, of
+course, quite possible to co-ordinate with these concepts a number
+of others which could be fitted into a comprehensive theory of
+social causation, and this is, in effect, one of the tasks which Park
+and Burgess have attempted in their Introduction to the Science
+of Sociology. The whole theory is too new to make possible con-
+fident prediction as to the influence it may have in the further
+development of sociological theory and research.
+
+* Robert E. Park, Principles of Human Behavior (pamphlet, 1915), quoted in
+Park and Burgess, p. 478 (1924 ed.).

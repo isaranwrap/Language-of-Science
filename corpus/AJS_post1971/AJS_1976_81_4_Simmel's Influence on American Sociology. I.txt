@@ -1,0 +1,1531 @@
+Simmel's Influence on American Sociology. I
+
+Author(s): Donald N. Levine, Ellwood B. Carter and Eleanor Miller Gorman
+Source: American Journal of Sociology, Vol. 81, No. 4 (Jan., 1976), pp. 813-845
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2777598
+
+Accessed: 08-06-2016 03:25 UTC
+Georg Simmel stands in the unusual position of being the only European
+scholar who has had a palpable influence on sociology in the United States
+throughout the course of the 20th century. This is particularly noteworthy
+in view of the fact that, contrary to current impressions about the history
+of the discipline, when sociology was becoming established within the
+American academic system during the first few decades of this century, it
+was truly a homegrown product.
+
+Social research in this country was initially stimulated by such indigenous
+currents in American intellectual life as pragmatism and the social gospel
+movement, and by conspicuous domestic problems such as crime, ethnic
+relations, immigration, industrial conflict, suffragism, and rapid changes
+in rural and urban communities. Its leading proponents were predominantly
+self-made American social analysts—Charles Horton Cooley, Franklin H.
+Giddings, Edward A. Ross, William Graham Sumner, and Lester F. Ward.
+These five were the men named most frequently as important sources of
+intellectual stimulation in the autobiographical statements of 258 Ameri-
+can sociologists collected by Luther L. Bernard in 1927. Only 20% of
+those respondents mentioned any European author as having exerted a
+significant influence on their intellectual outlook.”
+
+Among the European authors who were mentioned as influential by
+professional American sociologists in the late 1920s, the three most often
+cited were, in order of frequency, Herbert Spencer, Georg Simmel, and
+Gabriel Tarde. A similar picture emerges from a look at the general
+treatises on sociology and social psychology of that period: the authors
+most frequently cited are the pioneer American sociologists listed above
+and their epigoni, while the scarcer citations of Europeans are invariably
+to Spencer and Simmel, frequently to Tarde, Comte, Hobhouse, and Durk-
+heim, and rarely if ever to Marx, Tonnies, Pareto, or Weber.®
+
+Not long after Bernard’s survey, however, interest in Spencer, Tarde,
+Comte, and Hobhouse dropped precipitously and irreversibly; in their
+place as sources of stimulation from abroad came Vilfredo Pareto—himself
+later eclipsed by an upsurge of attention to the works of Karl Marx—and,
+slowly but more durably, Emile Durkheim and Max Weber. Interest in
+Simmel, by contrast, remained alive though subdued during the 1930s and
+1940s and thereafter revived to become more extensive than ever.
+
+Simmel’s influence on American sociology is unusual in another respect.
+Although literate American sociologists today could be expected to produce
+a coherent statement of the theoretical frameworks and principal themes
+of Marx, Durkheim, and Weber, few would be able to do the same for
+Simmel. In good measure this condition reflects the character of Simmel’s
+intellectual productions themselves: the bewildering variety of topics he
+treated and the disorganized manner in which he presented his general
+principles. After all, Simmel himself advised the reader of Soziologie
+(1908) that the best way to get a complete picture of what his volume
+contained would be to consult the list of topics presented (in alphabetical
+order) in the index! However, the fragmentary picture of Simmel’s soci-
+ology held by American sociologists must also be connected with the dis-
+jointed manner in which his ideas entered the mainstream of American
+sociology over the past seven decades, not to mention the transmutations
+they underwent in the process. The two parts of this paper attempt to
+outline the main events in the long and erratic career of Simmel’s thought
+in the history of sociology in the United States.
+1895-1930: Defining the Sociological Domain
+
+The diffusion of Simmel’s sociological writings to the United States de-
+pended initially on the fact that many of those who sought to establish
+the social sciences in American universities looked to the universities of
+Germany for inspiration and legitimation and, in particular, that a small
+number of graduate students (from Johns Hopkins, Harvard, and the
+University of Chicago) who subsequently occupied influential positions in
+American sociology studied at the University of Berlin when Simmel was
+active there.* Simmel stood out during those years as one who took the
+question of establishing a clearly demarcated analytic domain for sociology
+with especial seriousness, and his forthright delimitation of the field helped
+to provide a sense of professional identity for some of those who learned
+from him.
+
+Albion W. Small was the earliest American sociologist to establish a
+link with Simmel. Small studied at the University of Berlin in 1880,
+when Simmel himself was a student there. At some point the two developed
+a close collegial relationship. Small visited Simmel during later trips to
+Germany and corresponded regularly with him. He thus kept abreast of
+Simmel’s sociological productions from the outset and became the first to
+bring the good news of Simmel’s work to the United States.
+
+Among those who actually attended Simmel’s lectures in Berlin were
+no fewer than six men who became sociologists as the discipline was
+starting to gain footing in American universities: Frederick A. Bushee,
+Charles A. Ellwood, Edward C. Hayes, Robert E. Park, Nicholas J.
+Spykman, and Howard J. Woolston. Ellwood, sometimes called the
+“founder of scientific psychological sociology,” heard Simmel lecture in
+the fall of 1897. Although he considered Simmel’s approach to social
+psychology excessively philosophical, Ellwood recalled that he had found
+some of Simmel’s ideas very stimulating, and named him as one who had
+a significant impact on his intellectual career.5 Robert Park, who was to
+become the most influential of Simmel’s American students, arrived in
+Berlin two years later. Acquiring from Simmel the only formal instruction
+in sociology he ever had, Park later recalled that “it was from Simmel that
+I finally gained a fundamental point of view for the study of the newspaper
+and society” (Baker 1973, p. 256).
+
+If the first condition favoring the transmission of Simmel’s ideas to the
+United States was the creation of agents of diffusion through direct contact
+with Simmel in Germany, the second was the creation of a center of diffu-
+sion at a single prominent institution. Of the 11 sociologists in Bernard’s
+survey who indicated that they had been strongly influenced by Simmel,
+six were directly and one indirectly associated with the University of
+Chicago.®
+
+Albion Small established the first department of sociology in the United
+States at the University of Chicago in 1892, and founded the American
+Journal of Sociology there in 1895. Through the department and the A/S
+Small was well situated to promote the dissemination of Simmel’s ideas.
+Around the turn of the century Small sent three of his students to Berlin
+to study with Simmel. He undertook an active program of publishing
+papers by Simmel in the AJS—15 such entries appeared between volumes
+2 and 16, most translated by Small himself—and also published an ap-
+preciative article by S. P. Altmann, “Simmel’s Philosophy of Money,” in
+1903.
+
+Small was particularly attracted by Simmel’s seriousness about the need
+to define a proper domain for sociology; after all, as Small wrote to one
+of his colleagues in 1908, “the main business of my life is to show that
+there is a definitely definable field for the division of social science to
+which we are applying the name Sociology.” Although Small hesitated
+to embrace Simmel’s definition of the domain, he remained steadfast in
+his efforts to secure a proper hearing for Simmel’s formulations. In the
+year before he died, he expressed one last “devout hope” that American
+sociologists would be wise enough to familiarize themselves with Simmel’s
+social theory (Small 1925, p. 87).
+
+Activity on Simmel’s behalf at Chicago continued under Robert Park,
+who succeeded Small as the dominant figure in the department. Apart from
+the interest in Simmel which Park kindled in his own students, he gave a
+major boost to the diffusion of Simmel’s writings through the list of
+readings assembled with his junior colleague, Ernest W. Burgess, and
+published in 1921 by the University of Chicago Press as their Introduction
+to the Science of Sociology. The Park and Burgess volume included 10
+selections by Simmel, some of them new translations made by Park—many
+more selections than were drawn from any other author. “Park and Bur-
+gess” became the most influential introduction to sociology in the United
+States in the 1920s and 1930s, playing a major role in the exposure of
+generations of sociology students to Simmel’s writings.
+
+Although almost no new translations of Simmel’s work were published
+in the United States for nearly three decades after the Park and Burgess
+volume, another contribution to the diffusion of Simmel’s sociology was
+issued by the University of Chicago Press in 1925. This was Nicholas J.
+Spykman’s The Social Theory of Georg Simmel. Spykman summarized
+much of Simmel’s sociological material in a systematic, albeit uninspired,
+fashion, thereby enabling American students to become acquainted with
+some ideas contained in Simmel’s untranslated works.
+
+By 1930, then, three decades of students at the preeminent department
+of sociology in the United States had been exposed to men who had had
+personal contact with and enthusiasm for Simmel, and through the publica-
+tions of the University of Chicago Press the fledgling sociological com-
+munity in the country had been given readier access to a small but
+provocative sampling of Simmel’s sociological thought.
+
+By the end of this period, the process of drawing attention to Simmel
+was no longer confined to Chicago—nor was all of it favorable. In Con-
+temporary Sociological Theories Pitirim A. Sorokin devoted considerable
+space to Simmel, rejecting his sociological enterprise as misguided in aim
+and flawed in execution, and warning that “‘to call the sociologists back to
+Simmel, as Drs. Park and Spykman do, means to call them back to a pure
+speculation, metaphysics, and a lack of scientific method” (1928, p. 502,
+n. 26).7 Theodore Abel, in an energetically argued critique of Simmel’s
+“formal sociology” in Systematic Sociology in Germany, faulted Simmel
+1930-55: Recovering the European Classics
+
+From the early 1930s to the late 1950s, American sociology appears to
+have been animated by two rather different kinds of value orientations.
+One, representing what has been called the dominant American ethic of
+instrumental activism, motivated the development of new observational
+technologies, substantive specializations, and responsiveness to societal
+demands for the services of social research. The other orientation, that of
+a small minority, was concerned chiefly with the quality of thought in
+intellectual work. Expressed by those who sought to introduce a finer
+philosophical tone into the discipline (and were perhaps sensitive to the
+threat to European civilization posed by the rise of Nazism), it actuated
+the efforts of Europe-oriented American scholars and European immigrants
+who sought to acquaint American colleagues with rich works from the
+European literature which had been neglected.
+
+It was chiefly the latter impulse which sustained the limited interest
+in the works of Simmel throughout the second period. At the University
+of Chicago, a tradition of interest in Simmel was symbolically institutional-
+ized with the publication in 1931 of Park’s 1899 notes on Simmel’s Berlin
+lectures, issued by the Society for Social Research, a newly formed or-
+ganization of faculty and graduate students from the Chicago department.
+The tradition of teaching Simmel at the University of Chicago was con-
+Simmel’s Influence on American Sociology. I
+
+tinued by Park’s students, Louis Wirth and Everett C. Hughes, and by
+their younger colleague, Edward A. Shils. In 1936, Shils translated Sim-
+mel’s essay on the metropolis and mental life for the benefit of the students
+at Chicago. Hughes published his translation of “The Sociology of
+Sociability” in the AJS in 1949.
+
+Meanwhile, instruction concerning Simmel was spreading to other
+universities. Talcott Parsons, who studied in Germany in the mid-1920s
+and became familiar with Simmel’s work as well as that of Max Weber
+and other German scholars, offered an influential course on social theory
+at Harvard in the early 1930s which considered the works of Simmel,
+Durkheim, Hobhouse, and Weber. Robert K. Merton has attributed the
+origins of his interest in Simmel to that course, as well as to the Simmel
+selections in the Park and Burgess volume and the numerous references to
+Simmel in Sorokin’s Contemporary Sociological Theories.®
+
+Merton himself went on to make Columbia University an important
+center for the diffusion of Simmel’s sociology. Having acquired a personal
+copy of Soziologie during a trip to Europe in 1937, Merton soon after
+began to affect generations of students through concentrated attention to
+Simmel in his basic courses on the history of sociological theory and
+analysis of social structure. Merton’s interest in Simmel came to be shared
+by several of his students at Columbia, including a number who figure
+prominently later in this paper: Peter M. Blau, James S. Coleman, Lewis
+A. Coser, and Charles Kadushin.
+
+Another center for the teaching of Simmel appeared in the 1930s with
+the establishment of the University in Exile at the New School for
+Social Research in New York City. Created to provide a haven for
+European scholars who had escaped the menace of Nazism, the University
+in Exile (shortly renamed the Graduate Faculty of Political and Social
+Science) symbolizes the major impetus of the second period much as the
+University of Chicago symbolizes that of the first. A new wave of interest
+in Simmel in the 1940s and 1950s was engendered by the teachings and
+translations of a distinguished group of immigrants: Alfred Schutz and
+Albert Salomon at the New School itself and, elsewhere in the country,
+Reinhard Bendix, Lewis A. Coser, Hans Gerth, Gustav Ichheiser, Kurt
+Lewin, and Kurt H. Wolff. Wolff’s translation of a substantial amount of
+new material from the Simmelian corpus, published by the Free Press in
+1950 as The Sociology of Georg Simmel, was more than any other single
+factor responsible for the revival of American students’ interest in Simmel
+in the postwar years. It was followed, in 1955, by the translation of two
+more chapters of Soziologie by Wolff and Bendix (Simmel 1955).
+
+By the end of this period, a baseline of “missionary” work on behalf of
+1955-75: Codifying Traditions of Inquiry
+
+During the early 1950s, Simmel was still regarded by many American
+sociologists as a talented but archaic figure who could readily be dispensed
+with in any properly scientific view of the discipline. This view was
+buttressed by the fact that the most prestigious synthesis of major
+developments in early 20th-century social theory, Parsons’s The Structure
+of Social Action, concentrated on the works of Pareto, Durkheim, and
+Weber, and did not include a section (written, but never published) on
+Simmel. The impression given by this authoritative volume was that Sim-
+mel was not a figure with whom serious students had to reckon.
+
+That impression was shaken by a profusion of statements to the contrary
+in the latter half of the decade. At that time American sociology was
+starting to become more self-conscious: to codify its achievements, reassess
+its past, and reconsider its theoretical orientations. These impulses were
+reflected in a number of efforts to integrate Simmel into a more carefully
+wrought reconstruction of the sociological tradition and to mine his works
+for what appeared to contain a considerable untapped theoretical resource
+for contemporary sociology.
+
+In two year-long graduate seminars on the theory of organization
+Merton and his students systematically combed Simmel’s sociology for
+ideas germane to a codification of group properties. In personal communi-
+cations about those seminars, Merton has written that they “focussed on
+Simmel’s work as an indispensable point of departure for developing a
+problematics of social structure and organization. . . . I had become con-
+vinced . . . that there was much in Simmel that would lend itself to a style
+of theorizing he himself could never bring himself to do.” Some of the
+results of that inquiry were published in Merton’s lengthy chapter, ‘“Conti-
+nuities in the Theory of Reference Groups and Social Structure,” in the
+1957 edition of his Social Theory and Social Structure.
+
+In the same year Donald N. Levine presented a dissertation entitled
+“Simmel and Parsons: Two Approaches to the Study of Society” at the
+University of Chicago. He maintained that Simmel’s approach remained
+rich and fruitful, providing a sociology different from but complementary
+to the orientation which Parsons had developed on foundations laid by
+Pareto, Durkheim, and Weber.
+
+Reprints of several of the Simmel translations were included in two
+Simmel’s Influence on American Sociology. I
+
+quickly accepted anthologies of sociological theory produced in 1956 and
+1957.° Parsons himself contributed to the movement toward a revised
+appreciation of Simmel by including five selections from Simmel in the
+masterful anthology he edited with Shils, Naegele, and Pitts, Theories of
+Society (1961).
+
+Two publications designed to commemorate the centenary of Simmel’s
+birth gave further notice that his sociology was still a challenge for
+critical scholarship and a fertile source of stimuli for the sociological
+imagination. The May 1958 special issue of the A/S, edited by Peter H.
+Rossi, included a number of articles which sought to elaborate some of
+Simmel’s key ideas. A commemorative volume, Georg Simmel, 1858-1918,
+edited by Kurt H. Wolff and published by Ohio State University Press
+the following year, contained exegetical articles as well as new translations
+of Simmel’s essays. These were followed by a small but steady stream of
+additional translations: the little monograph on religion (Simmel 1959),
+further chapters from Soziologie and Philosophie des Geldes (Simmel
+1971), and several of the philosophical essays (Simmel 1968, 1971).
+
+A similar message was broadcast at the Durkheim-Simmel Centenary
+Session of the American Sociological Association in 1958. Reversing the
+harsh negative assessment of Simmel’s work he had expressed three decades
+earlier, Theodore Abel (1959, p. 474) proclaimed that Simmel “could
+justifiably be regarded as the founder of modern sociology” and suggested
+that it had taken the many years of development in sociology since
+Simmel’s death to enable the profession to appreciate his importance.
+Robert A. Nisbet fully concurred with this reappraisal and added that
+“of all the pioneers, Simmel is the most relevant at the present time”
+(1959, p. 480).
+
+By the 1960s Simmel’s work was being taught in numerous universities,
+and one can no longer speak of one or a few special centers of diffusion.
+Even so, the presence of both Coser and Wolff at Brandeis University
+during that decade made its department a particularly favorable ambience
+for the serious study of Simmel. One of the products of that milieu, Murray
+A. Davis, has gone on to become a spirited advocate of what he considers
+Simmel’s distinctive approach to sociology (Davis 1973).
+
+Throughout this third period of diffusion there appeared efforts to
+reinterpret the classical tradition of sociological theory in which Simmel
+was accorded a more prominent place than ever before. Important syntheses
+by Don Martindale (1960), Robert A. Nisbet (1966), and Lewis A. Coser
+(1971) devoted considerable attention to Simmel’s place in the history of
+social theory. Coser also produced a volume of choice selections from the
+secondary literature on Simmel for the Prentice-Hall series, Makers of
+
+9 Borgatta and Meyer (1966) reprinted four of the Small translations. Coser and
+Rosenberg (1957) reprinted three of the Wolff translations.
+It is one thing to admit an author’s work into a select list of classical
+readings and another to utilize that work as a point of departure for
+scientific inquiry. Received as a classic, the work becomes an intrinsically
+valuable object: an exemplary specimen of intellectual creativity and a
+statement about the human condition so rich and so deep that it rewards
+the attention of each new generation. It seems fair to state that many of
+Simmel’s sociological writings that have been translated into English have
+attained the status of classics in the curriculum of higher learning in
+America.
+
+To assess the status of Simmel’s work as a source of stimuli for further
+scientific inquiry is more problematic. There are many variations with
+respect to both what has been incorporated and how it has been taken.
+One must distinguish, in speaking of Simmel’s influence, among borrowings
+that range from particular observations and specific hypotheses to general
+theoretical orientations and the definition of significant problem areas.
+In addition, one must take care to determine whether the borrowings are
+real or only apparent; if real, whether direct or retrospective; if retro-
+spective, whether they represent prediscoveries, anticipations, or merely
+adumbrations.!°
+
+In discussing the extent of Simmel’s influence we try to be mindful of
+the latter sets of distinctions. As for the content to be considered, we deal,
+in the next section, with general theoretical orientations and, in the
+remaining sections, with those problem areas whose treatment by Simmel
+appears to have had the greatest impact on American sociology: the
+
+10 For clarification of the meanings and relationships of these concepts, and the
+mandate to scholarship implicit in their use, see Merton (1968, chap. 1).
+GENERAL THEORETICAL ORIENTATIONS
+
+Even though Simmel failed to articulate all his sociological principles in a
+systematic manner, his general position can be represented by the following
+major assumptions: !
+
+1, Sociology should restrict its inquiries to a precisely demarcated ter-
+rain identified on the basis of a technically specific definition of its core
+concept: society.
+
+2. Society is to be viewed neither as a corporate entity distinct from and
+exerting constraints upon individuals nor as an aggregation of corporate
+entities such as classes and elites nor as an epiphenomenon reducible to
+the motives and acts of individuals, but rather as the modality of inter-
+action among individuals—the general process and particular processes of
+Vergesellschaftung (which has been translated variously as societalization,
+sociation, and association).
+
+3. Individuals enter into interaction with one another (i.e., form
+“society”) in order to satisfy such basic needs as those for companionship
+and the expression of aggression and to pursue such goals as income,
+territory, salvation, education, and the like. Individuals enter into inter-
+action with only parts of themselves: an individual always stands both
+within and outside social interaction.
+
+4. The defining characteristic of interaction is reciprocity of effect: A
+acts on B and in turn responds to B’s reaction to him. Interactions differ
+with respect to the degree of symmetry of such reciprocity, but it is
+always there to some extent. All human interactions should be viewed as
+kinds of exchange.
+
+5. Interactions take place in discrete identifiable forms, such as com-
+petition, conflict, super- and subordination, and sociability, having deter-
+minate properties that to some extent remain constant despite variations
+in content, that is, in the purposes served by the interactions.
+
+6. Interactions relate individuals who stand at varying distances from
+one another. A major variable in forms of interaction thus concerns the
+amounts and combinations of horizontal and vertical distance they entail.
+This is distinct from what may be called the valence of interactions—
+whether the affect in question is positive or negative.
+
+7. Every tendency in interaction is to some extent balanced by an
+opposing tendency. The fundamental dualism of social life stems both
+from man’s ambivalent instinctual dispositions and from the need for
+
+11 Earlier versions of these formulations of the basic principles of Simmel’s sociology
+appear in Levine (1959; 1971, pp. xxxi-xliii).
+American Journal of Sociology
+
+some ratio of discordant to harmonious tendencies in order that society
+may have a determinate shape. The principal sociological dualisms are
+conformity and individuation, solidarity and antagonism, publicity and
+privacy, compliance and rebelliousness, and constraint and freedom.
+
+8. Cultural forms emerge in social interaction and become fixed. As
+such, they stand in a relationship of perpetual tension with the ongoing
+life processes, which bring about recurrent efforts to modify those forms
+or create new ones.
+
+Several efforts by American sociologists to construct a general theo-
+retical framework reflect Simmel’s influence. They differ from one another
+largely in the kinds of selections made from the eight principles just
+presented. This selectivity has been based, for the most part, not on a
+careful analysis of which of Simmel’s ideas appear viable and which not,
+but on a relatively haphazard reading of his work. Owing to this careless-
+ness, most of them either ignore other ideas of Simmel which are germane
+to and should have been incorporated into their statements or deviate from
+Simmel’s position without noting, let alone seeking to justify, the diver-
+gence.
+
+Although Introduction to the Science of Sociology was highly eclectic in
+the best sense of the term, its central chapters articulate a coherent
+theoretical orientation which must be quite what Park had in mind when
+he wrote that Simmel was the man from whom he “finally gained a fun-
+damental point of view for the study of . . . society.’ These chapters,
+which contain the 10 selections by Simmel, fall into two parts. Chapters
+4—7 treat the ways by which individuals move from isolation into contact
+and then ongoing interaction and conceptualize the phenomenon of social
+distance along lateral and vertical dimensions. Chapters 8-11 discuss the
+four major interaction processes identified by Park: competition, conflict,
+accommodation, and assimilation. The heart of the volume thus outlines
+a program for sociology grounded on principles 5 and 6: a concern with
+distance as the key dimension of society and with specific forms of
+interaction as they appear in varying circumstances.1?
+
+Regarding Simmel’s basic conception of society, however, Park’s position
+is notably ambiguous. At some points he seems to follow Simmel in
+equating society with human interaction, pure and simple—particularly
+when he suggests that the “four great types of interaction” underlie the
+four main types of “social order”: economic equilibrium (competition),
+political order (conflict), social organization (accommodation), and
+12 Guided by this theoretical orientation, Melvin Vincent, a student of Park’s student
+Emory Bogardus, produced a dissertation (1928) entitled “A Study of Accommodation
+as a Conscious Social Process Reflected in Employer and Employee Relationships.”
+In it he states that “the sociology of this dissertation is based largely upon that of
+
+Georg Simmel. The forms (processes) of interaction must be abstracted from the
+complex phenomena (content) of social life.”
+personality and the cultural heritage (assimilation) (Park and Burgess
+1921, pp. 506-10). More characteristically, and especially in his later
+work, however, Park leaned toward the more conventional identification
+of the social with the moral order, which he contrasted with the ecological
+order derived from the mere pursuit of individual self-interest. “Society,”
+Park asserts, ‘“‘may be said to exist only so far as this independent activity
+is controlled in the interest of the group as a whole” (Park and Burgess
+1921, p. 508). Social control, then, became for Park and Burgess “the
+central fact and the central problem of society’—not the normatively
+indifferent phenomena of human association, as with Simmel—and soci-
+ology ‘“‘a point of view and a method for investigating the processes by
+which individuals are inducted into and induced to cooperate in some sort
+of permanent corporate existence which we call society” (ibid., p. 42).
+
+A more explicit attempt to build a general sociology on Simmelian
+principles was made by Leopold von Wiese in his System der allgemeinen
+Soziologie (1924-28). Howard Becker, who was an exchange fellow at
+von Wiese’s institute in Cologne in the 1920s, undertook on returning to
+the United States to work out an adapted and amplified version of that
+monograph. It was published in 1932 as Systematic Sociology. In new
+chapters written for the volume, Becker paid great tribute to Simmel for
+having enunciated the first principle—the need to demarcate a scientific
+terrain peculiar to sociology—and followed Simmel and von Wiese by
+making that terrain the abstracted properties of “specifically interhuman”
+phenomena.
+
+Like Park and Burgess, von Wiese and Becker proceed from a discussion
+of isolation and contact to a classification of interaction patterns. Three
+sets of distinctions undergird Becker’s elaborate taxonomy. One is the
+broad division of interhuman phenomena into action patterns of association
+and dissociation, both categories to be subsumed under the inclusive
+concept of sociation. The second distinction is between relationships and
+processes, that is, the static aspect of sociation represented in terms of
+distance and the dynamic aspect represented in terms of motion. A third
+distinction separates elementary types of process or relationship called
+“action patterns,” like adjustment, amalgamation, competition, and con-
+flict, from structured clusters of relationships and processes called (un-
+happily) “plurality patterns” (Simmel’s and von Wiese’s Gebdilde). In
+addition, differentiation, integration, and “constructive and destructive
+processes” are identified as special forms of association and dissociation:
+the former differ from “common-human” patterns in that they take place
+only within and between plurality patterns.
+
+Becker’s adaptation of von Wiese was one of the most determined
+attempts in American sociology to construct a general theory along lines
+staked out by Simmel. Widely regarded as an uninspired work of taxon-
+omy, the book had relatively little impact on sociology itself. Neverthe-
+less, the basic idea of classifying social phenomena into basic processes of
+association and dissociation subsequently became popular in several
+branches of American social psychology.®
+
+If Becker is to be viewed as a follower of Simmel, however, it should be
+noted that he, like Park, failed to represent some of the most distinctive
+features of Simmel’s conception of social conflict. By equating societal
+order with the moral order produced by accommodation and assimilation,
+Park came to see conflict as a source of disruption and necessary change,
+thus neglecting Simmel’s emphasis on the ways in which conflict, as
+routinized antagonism, serves also to constitute and stabilize social order.
+Like Simmel, however, Park did see conflict as a process which brought
+people into closer contact, whereas Becker classified conflict and ‘“contra-
+vention” as forms of dissociation—directed, that is, toward avoidance and
+away from social contact.
+
+Since World War II a number of scattered efforts to crystallize a
+general orientation in sociology have been made by authors seeking to
+revive and extend Simmel’s approach. One such effort has been animated
+chiefly by devotion to the second principle: the conception of society
+as interaction process as the fundamentally appropriate image for socio-
+logical inquiry. Proponents of this line of thought have found it worth-
+while to return to Simmel’s own point of departure in developing the
+notion, that is, to an explicit repudiation both of organismic models of
+society and of models which reduce society to purely individual phenomena
+and their mechanical interactions.
+
+Werner Stark argues that these models repudiated by Simmel have been
+the dominant metaphors for society in Western intellectual history and
+suggests why they have continuously reappeared despite the patent flaws
+of each. Although he faults Simmel for lack of consistency on the question,
+Stark writes that Simmel was “the thinker who, perhaps more ably than
+any other, drew the necessary conclusions from the fact . . . that both
+philosophical realism [organicist] and philosophical nominalism [mech-
+anist] are inappropriate in sociological theory.” Stark concludes that
+“what we must above all retain out of Simmel’s far-flung investigations is,
+of course, his definition of society. This, as we have seen already, is simple
+enough. ‘Society exists where several individuals enter into interaction.’
+. . . Nothing could be more elementary and nothing more true” (1963,
+pp. 213, 216).
+
+A similar argument was set forth by Hugh Duncan, urging that society
+be viewed as a process of communication: “Following Simmel, we argue
+that the study of society is the study of the forms of sociation. But we
+argue further—and here our clue is supplied by Mead and Burke—that
+the data of sociation exist in the various kinds of symbolic expressions
+men use to enact their social roles in communication with one another”
+(1962, p. xvii).
+
+Independently of both Stark and Duncan, Walter Buckley has used
+a more elaborate technical vocabulary to make essentially the same point.
+Urging American sociologists to abandon “outmoded” conceptions of
+society predicated on mechanical equilibrium models and organismic
+homeostatic models, Buckley advocates a model incorporating general
+systems research, cybernetics, and information and communication theories.
+Its main feature would be an emphasis on process—“‘a move down from
+structure to social interrelations and from social relations to social actions
+and interaction processes” (1968, p. 499)—and on the continuous activity
+by which complex adaptive systems create new forms in response to
+changing conditions.
+
+Buckley gives Simmel credit for anticipating the basic thrust of a
+“process” model. After criticizing modern sociological theory for being
+dominated by mechanical-organismic models with their overemphasis on
+fixed structures, he notes that “mention should be made of the ‘process’
+model, which was a predominant point of view in American sociology of
+the early twentieth century under the leadership especially of the ‘Chicago
+school,’ including, in particular, Albion W. Small, G. H. Mead, R. E. Park
+and W. E. Burgess, who in turn were stimulated by such German soci-
+ologists as G. Simmel and L. von Wiese” (1967, p. 17). Buckley observes
+
+that “though Simmel and others
+
+ocused on ‘forms’ of interaction, their
+
+emphasis was always on the interaction as process rather than on the
+
+‘forms’ ” (ibid., p. 19). In Buckley
+can be considered a genuine antici
+
+*s view, this earlier emphasis on process
+ation of the basic principles of cyber-
+
+netics. What he fails to appreciate is that the other phenomenon he em-
+
+ 
+
+phasizes, the “morphogenic” pro
+
+erties of sociocultural systems, was
+
+stressed no less heavily by Simmel. Presented as the eighth principle in our
+outline, the significance of continual morphogenesis was a major theme
+in Simmel’s later writings.
+
+Recent work on a general theory of social exchange has been in a
+similar vein. Stressing Simmel’s fourth principle more than the abstract
+conception of society as process, its productions have been more substan-
+tively focused. Contributors to it represent diverse research traditions,
+some linked to Simmel, others not. A major force behind this development
+came from the efforts of various scholars in the 1930s and later to study
+the properties of directly observed transactions in small groups. That
+movement was to some extent given cohesion and greater visibility by
+George C. Homans in The Human Group. Although Homans did not
+acknowledge or utilize Simmel’s work in that volume, an intellectual
+affinity is suggested in the introduction by Merton, who wrote: ‘Not since
+Simmel’s pioneering analyses of almost half a century ago has any single
+work contributed so much to a sociological theory of the structure, pro-
+cesses, and functioning of small groups as George Homans’ The Human
+Group” (Homans 1950, p. xxiii).
+
+In work published a decade later, Homans modified his approach in
+two ways: he shifted from the study of small groups to the more abstract
+phenomenon of elementary social behavior and from a classification of
+descriptive accounts of interaction systems to a generalized explanatory
+theory of human exchange. In doing so, he found it necessary to derive
+the theoretical grounding for Social Behavior: Its Elementary Forms
+(1961) from disciplines outside sociology: behavioral psychology and
+elementary economics.
+
+Stimulated by Homans’s work, Peter M. Blau sought to advance the
+general theory of social exchange in ways that took account of emergent
+social structural properties and rooted the theory more firmly within
+sociology. Blau began by establishing a link with “the theoretical tradition
+of Simmel.” In a chapter entitled “The Structure of Social Associations,”
+he wrote: “To speak of social life is to speak of the associations between
+people. . . . Simmel’s fundamental postulate, and also that of this book, is
+that the analysis of social associations, of the processes governing them,
+and of the forms they assume is the central task of sociology. The title of
+this first chapter can be considered a free translation of Simmel’s basic
+concept, ‘Die Formen der Vergesellschaftung’ ” (1964, p. 12).
+
+Thanks to the creative work of Homans and Blau, “exchange theory”
+quickly assumed a prominent position in American sociology. This was
+much like what happened with “conflict theory,” largely in response to
+Lewis Coser’s (1956) critical codification of Simmel’s essay on conflict.
+Indeed, conflict and exchange theories soon came to be presented as al-
+ternative if not competitive perspectives in standard courses and textbooks
+on sociological theory.
+
+For Simmel, however, conflict and exchange were simply two intimately
+related general forms of interaction—a point which Walter L. Wallace is
+one of very few recent theorists to have grasped. Wallace complements
+Blau’s perception that exchange processes generate power differentials
+which in turn stimulate forces promoting opposition and cleavage with
+Simmel’s perception that peaceful exchange is often a substitute for conflict.
+For such reasons, Wallace argues that “conflict theory” is logically a vari-
+ant of “exchange theory,” concerned with the exchange of injuries rather
+than of benefits (1969, pp. 31-34).
+
+Other efforts to shape “new” orientations in American sociology have
+been stimulated by somewhat different aspects of Simmel’s thought.
+Simmel is frequently invoked to legitimate and provide insights for a
+Simmel’s Influence on American Sociology. I
+
+“sociology of everyday life” carried on by proponents of what have been
+called phenomenological and ethnomethodological approaches to sociology
+and social psychology. In this endeavor, the third principle mentioned
+above is often stressed: the idea that individuals actively construct their
+social relationships and are never wholly absorbed by them. In a number
+of brilliant studies in this genre, Erving Goffman has drawn fruitfully on
+Simmel’s work at many points. Alfred Schutz served to mediate between
+Simmel (as well as Husserl) and a recent group of sociologists of everyday
+life which includes Harold Garfinkel, Aaron Cicourel, and Jack Douglas.
+In this vein, Stanford Lyman and Marvin Scott have propounded A
+Sociology of the Absurd (1970), for which Simmel is called second only to
+Machiavelli as a precursor.
+
+Of all the basic ideas informing Simmel’s social thought, that which has
+received the least attention in American sociology is the seventh principle:
+the conception of the fundamentally dualistic character of social life.
+We know of only one instance in which Simmel’s dualistic mode of analysis
+was cited as exemplary, the brief invitation for sociologists to think ex-
+plicitly in terms of pairs of opposed concepts which Reinhard Bendix and
+Bennett Berger issued in 1959. It was little heeded.
+by his remark that “the emancipated Jew was, and is, historically and
+typically the marginal man . . . he is, par excellence, the ‘stranger,’ whom
+Simmel, himself a Jew, has described with such profound insight and
+understanding” (Park 1928, p. 892; reprinted in Park 1950). Commenting
+on this adaptation, Boskoff recently observed that “Park borrowed the
+concept of the stranger [from Simmel] and applied it to the phenomena of
+migration and culture contact in complex society. Briefly, Park suggested
+that various kinds of deviant behavior (crime, delinquency, illegitimacy)
+reflected the experience of persons who, by migrating, had given up old
+values but had not adequately acquired the norms and skills of their new
+setting” (1969, pp. 282-83).
+
+It should be clear, however, that in the borrowing Park altered the
+shape of the concept: his “marginal man” represents a configuration
+notably different from Simmel’s “stranger.”’ Thinking of the experience of
+ethnic minorities in zones of culture contact in American cities, Park
+conceived the marginal man as a racial or cultural hybrid—‘“one who lives
+in two worlds, in both of which he is more or less of a stranger’”—one who
+aspires to but is excluded from full membership in a new group. Simmel’s
+stranger, by contrast, does not aspire to be assimilated; he is a potential
+wanderer, one who “has not quite got over the freedom of coming and
+going.” Whereas Park’s excluded marginal man was depicted as suffering
+from spiritual instability, intensified self-consciousness, restlessness, and
+malaise, Simmel’s stranger, occupying a determinate position in relation
+to the group, was depicted as a successful trader, a judge, a confidant, and
+a personally attractive human being.
+
+In an extended study of The Marginal Man (1937), Park’s student,
+Everett V. Stonequist, indicated his awareness that Park’s marginal man
+was not identical with Simmel’s stranger. He observed, first, that margin-
+ality need not be produced by migration but could also come about
+through internal changes like education and marriage. More explicitly,
+he stated: “The stranger, Simmel writes, first appears as a trader, one
+who is not fixed in space, yet settles for a time in the community—a
+‘potential wanderer.’ He unites in his person the qualities of ‘nearness and
+remoteness, concern and indifference.’ . . . This conception of the stranger
+pictures him as one who is not intimately and personally concerned with
+the social life about him. His relative detachment frees him from the self-
+consciousness, the concern for status, and the divided loyalties of the
+marginal man” (1937, pp. 177-78; italics ours). Stonequist went on to
+note that the distinctive properties of the stranger identified by Simmel are
+lost if an individual moves into the position of being a marginal person.
+
+In spite of Stonequist’s clarity, a tendency to confuse the marginal man
+with Simmel’s stranger has persisted. Thus, more than a decade later,
+Hughes (1949) uncritically repeated Park’s view that Simmel’s passages
+on the stranger referred to the same phenomenon as the marginal man.
+Boskoff, with comparable carelessness, glossed Simmel’s stranger as
+“vulnerable to internal uncertainties” (1969, p. 282). Seeking to “re-
+examine the ubiquitous concept of ‘marginal man,’” Peter I. Rose did so
+by asking “how the ‘stranger’ in the midst of alien territory adapts to
+community life.” After interviewing exurban Jews in several small towns
+of upstate New York, Rose concluded that their position could be described
+more aptly as one of duality than as one of marginality; for they felt “we
+have the best of both.” Rose considered his findings to provide evidence
+against the applicability of the concept of marginality and to refute the
+view of “Stonequist [sic], Park and others who have characterized the
+Jew as a disturbed marginal man, an eternal stranger [here Rose footnotes
+Simmel! ] unable to reconcile the traditions of his people with the counter-
+forces of the majority world” (1967, p. 472). In making this point, Rose,
+like Hughes and Boskoff, was misreading Simmel through Park’s distorting
+lens. What he in fact found was that the Jews in question were not ade-
+quately characterized by Park’s concept of marginality but that they might
+indeed be characterized in terms of Simmel’s concept of the stranger.
+
+If Stonequist’s distinction between marginality and strangerhood was
+made only to be lost, it was inadvertently recovered by Paul C. P. Siu.
+In his investigation of Chinese laundrymen in Chicago, originally carried
+out as a study of “marginality,” Siu was dismayed to find that “none of the
+Chinese laundrymen I studied could be considered a marginal man.” Siu,
+however, did not use his findings to invalidate Simmel’s concept of the
+stranger. Instead, he returned to Simmel to raise the question whether the
+marginal man might not more aptly be viewed as one of a number of
+variant types of stranger. Siu then proposed a new type, the sojourner—
+who, in contrast to the bicultural complex of the marginal man, clings to
+the culture of his own ethnic group—and added a few notes on still
+another type of stranger, the settler (Siu 1952). The way was thus opened
+for a more differentiated view of phenomena previously lumped together
+under the diffuse categories of strangerhood or marginality.
+
+A related step, albeit in a different direction, had been taken around
+the time of Stonequist’s study. Margaret Mary Wood’s The Stranger: A
+Study in Social Relationships (1934) drew freely on Simmel but adopted
+a definition of the stranger that was clearly differentiated from Simmel’s:
+“We shall describe the stranger as one who has come into face-to-face
+contact with the group for the first time. This concept is broader than that
+of Simmel, who defines the stranger as ‘the man who comes today and
+stays tomorrow, the potential wanderer, who although he has gone no
+further, has not quite got over the freedom of coming and going.’ For us
+the stranger may be, as with Simmel, a potential wanderer, but he may
+also be a wanderer who comes today and goes tomorrow, or he may come
+today and remain with us permanently” (pp. 43-44).
+
+In other words, Wood’s topic was not the sojourner but the newly
+arrived outsider, and her concern was with those internal changes through
+which different types of groups adapt to his arrival in their midst. Her
+work might have laid the groundwork for an extensive sociology of the
+stranger in which Simmel’s formulations might properly have been under-
+stood as referring to a specialized social type; but, as McLemore (1970)
+stresses in a spirited review of some of the voluminous literature related to
+Simmel’s essay, subsequent sociologists of the stranger tended to cite
+Simmel as a primary point of reference for the general topic and, even
+when citing Wood, tended to miss the distinction between Wood’s newly
+arrived outsider and Simmel’s stranger. Thus Julian Greifer, in a suggestive
+reconstruction of the evolution of attitudes toward the stranger in ancient
+Judaism, defines the stranger as one who “has come into face to face
+contact with the group for the first time,” and in the next sentence refers
+to this stranger “as described by Georg Simmel” (1945, p. 739; italics
+ours). Similarly, Oscar Grusky (1960) confuses the newly arrived with
+Simmel’s stranger by using the latter concept in describing the position
+of a newcomer in a line of administrative succession.
+
+In this context it is instructive to examine an experimental study which
+claims to draw inspiration from Simmel, “The Stranger in Laboratory
+Culture” by Nash and Wolfe (1957). In a series of experiments in which
+a Rorschach card stimulus was presented to small groups of subjects over a
+number of “epochs,” Nash and Wolfe sought to create a role which
+“would seem to approximate in the laboratory Simmel’s description of the
+stranger.” The hypothesis they tested, however, sprang from the ideas of
+Park, Stonequist, and others concerning the peculiar creativity of the
+marginal man. What they found was that the “strangers” proved to be less
+innovative than other participants in the experiment.
+
+The weakness of this study is that it rests on a double conceptual con-
+fusion. It seeks to verify Simmel’s formulations about the stranger by using
+hypotheses devised, not by Simmel, but by others concerned with a
+different social type, the marginal man; and to do so by constructing an
+experimental role modeled, not on Simmel’s stranger, but on the still differ-
+ent type of the newly arrived. Nash and Wolfe were led by their unexpected
+findings to draw a distinction between persons socialized in a marginal
+situation and persons introduced into such a situation briefly as adults.
+The distinction seems useful and broadly parallels the distinctions noted
+above between the marginal man and the newly arrived—neither of which,
+it should be clear, replicates Simmel’s own concept of the stranger.
+
+In a study more faithful to Simmel’s formulations, “Aggressive Attitudes
+Simmel’s Influence on American Sociology. I
+
+of the ‘Stranger’ as a Function of Conformity Pressures,” Robert Zajonc
+(1952) has in effect recovered the distinction between the stranger and
+the newly arrived. Linking Simmel’s ideas about the stranger’s relative
+independence from local customs with frustration-aggression theory, Zajonc
+hypothesizes, first, that insofar as strangers are expected to conform to
+host culture norms and find that expectation disturbing because of con-
+flicts with values brought from their home culture, they will tend to
+express aggression against those norms; and that such criticism is facili-
+tated by their unique position as strangers in the host society and further
+reduces the need to conform by devaluing the norms in question. “This
+relationship,” Zajonc notes, “hinges upon the unique role of the stranger,
+and it consequently cannot be expected to hold for the newly arrived.”
+His second hypothesis, then, is that “attitudinal aggression as a result
+of frustration in conformity will be greater for strangers with long
+residence [Simmel’s ‘stranger’] than for those with short residence [the
+‘newly arrived’|.” That hypothesis is supported by his findings.
+
+The studies thus far cited indicate the wide range of responses to Sim-
+mel’s essay on strangerhood and the fruitfulness of moving toward a more
+differentiated conception of the modalities of group affiliation. Whether
+imagined as discrete types or as reflecting variations in such dimensions
+as length of residence and desire for assimilation, concepts like those of
+the marginal man, the sojourner, and the newly arrived suggest the rich-
+ness of the vein struck by Simmel’s “Der Fremde.”
+
+A number of other studies, however, have stayed much closer to the
+terrain marked out by Simmel himself. Defining the stranger much as
+Simmel did, they have used his essay to raise questions about a number
+of homologous phenomena.
+
+Broadly speaking, these studies are of two kinds. Some are aimed at
+determining the properties of stranger communities. Extending Simmel’s
+remarks on the stranger type to such similarly situated immigrant com-
+munities as the Chinese in Southeast Asia, Asians in East Africa, Armenians
+in Turkey, Syrians in West Africa, Parsis in India, and Japanese in the
+United States, as well as Jews in Europe, they seek to articulate both the
+internal organization and orientations of the stranger minority groups and
+their relations with the host societies. In Immigrants and Associations, for
+example, Lloyd A. Fallers assembled a collection of papers on Chinese,
+Lebanese, and Ibo immigrant communities. Introducing them with a
+lengthy excerpt from Simmel’s “excellent little essay on ‘The Stranger,’ ”
+Fallers goes on to note that “Simmel here draws our attention to a fact
+often ignored by social scientists: human societies are very often culturally
+heterogeneous, not for ‘historically accidental’ or ‘exceptional’ reasons, but
+because they ‘need’ to be. . . . The essays in this volume are all concerned
+with one particular source of cultural diversity—the source Simmel had in
+mind particularly in the above passage: that is, the culturally alien com-
+munity resulting from migration in pursuit of economic opportunity.”
+From the several papers in the volume Fallers observes that the stranger
+communities exhibit a typical pattern: “a socially segregated and hostilely-
+regarded community of kinship units, knit together and defended by as-
+sociational ties” (1967, pp. 8, 12-13).
+
+Edna Bonacich (1973), in “A Theory of Middleman Minorities,” seeks
+to account for the development and persistence of this relational form. The
+process consists of two stages. First, the immigrants settle in a new terri-
+tory as sojourners, with the expectation of eventually returning to their
+homeland. This orientation favors their economic liquidity and social
+solidarity, traits which elicit pronounced hostility from the host society.
+This hostility in turn perpetuates their identification with their homeland,
+leading, for those who cannot or do not return, to a second mode of ad-
+justment, marked by a persisting ambivalence toward the new place of
+residence that makes them equivalent to the stranger type described by
+Simmel.
+
+In a second kind of study, Simmel’s propositions have been extended to
+other individual types bearing a formal resemblance to the stranger. One
+trait which Simmel asserted to be characteristic of the stranger, enhanced
+objectivity, has figured in a number of discussions of the nature of social
+knowledge. Park and Burgess were clearly mindful of this issue; following
+Simmel’s essay, they posed for discussion the question “In what sense is
+the attitude of the academic man that of ‘the stranger’ as compared with
+the attitude of the practical man?” (1921, p. 338). Arlene Daniels has dealt
+with one aspect of this question by discussing the costs and benefits of
+carrying out social research in a relationship that maximizes the stranger-
+like traits of the sociologist. If one enters a group as a visibly alien ob-
+server, she writes, “the stranger in this instance encounters a situation
+fraught with all the opportunities for confidence and intimacies which
+Simmel describes” (1967, p. 267). Dennison Nash, in “The Ethnologist as
+Stranger” (1963), points out that the stranger’s position is not necessarily
+conducive to cognitive objectivity. His role is beset by ambiguities and
+inconsistencies which can produce a degree of anxiety that will constrict
+or even disorganize his perception. Whether or not constrictive perceptual
+reactions occur depends on such factors as the compatibility of home and
+host cultures, the stranger’s treatment by the hosts, his relative power, the
+presence or absence of an enclave, and his own potential for adaptation.
+Considering this last parameter, Nash reviews a small set of data on
+American anthropologists and concludes that they tend to be “autonomous”
+rather than “authoritarian” personalities, a finding which implies that they
+are likely to be adaptive to the role of the stranger and therefore able to
+cope with field conditions without serious perceptual distortion.
+Variations on Simmel’s theme that strangers lack the social attachments
+and moral obligations common to members of the host society appear in a
+series of imaginatively conceived papers in historical sociology by Lewis
+A. Coser. Noting that “what Georg Simmel said about the stranger applies
+with peculiar force to the eunuch: ‘He is not radically committed to the
+unique ingredients and peculiar tendencies of the group,’ ” Coser (1964)
+argues that the detachment of the eunuch-stranger from all group involve-
+ments makes him an ideal instrument for carrying out the ruler’s subjective
+desires, in contrast with bureaucratic officials who exercise considerable
+constraint upon the ruler’s power. In a subsequent paper Coser (1972)
+extended the point to deal with uncastrated but politically impotent aliens,
+as illustrated by the court Jews of Baroque Germany and by Christian
+renegades who served Ottoman sultans. In addition, Coser (1958, 1965)
+has applied the insight about the stranger’s unconventionality to the
+biography of Simmel himself, attributing the increased production of un-
+conventional publications and lectures during the latter part of Simmel’s
+career to the fact that he was indeed a “stranger” in the German academy
+of his time.
+
+In view of the foregoing, by no means exhaustive, survey, we find it
+easy to assent to the statement with which McLemore (1970) concludes
+his critique of the literature on Simmel’s stranger: ‘Sociologists would be
+fortunate indeed if more of their concepts were as productive as the
+‘stranger.’ ”
+American Journal of Sociology
+
+“Social distance” became a prominent concept in American sociology in
+the 1920s owing to the convergence of a felt need to understand the rela-
+tions among racial groups in the United States, made especially acute by
+the influx of large numbers of Orientals and by the hunger of a young
+scientific discipline for concepts that would lend themselves to quantitative
+measurement. In the papers by Park (1924) and Bogardus (1925) which
+launched this research tradition, Simmel was not mentioned. However,
+Park and Burgess had called attention previously (1921, p. 286) to the fact
+that, in his essay on the stranger, “Simmel himself employs the conception
+of social distance in his [identification of the form] of the stranger as the
+combination of the near and the far.” And Bogardus, ruminating on three
+decades of research on the subject in Social Distance (1959, p. 13), cites
+Simmel’s use of “the terms nearness and remoteness in his discussion of
+‘the stranger’ ” in the book’s first footnote. In any case, it is widely believed
+that, as Charles Kadushin has put it, Bogardus’s social distance scale
+“made Simmel’s notions of social distance more concrete” (1962, p. 519)—
+in other words, converted the concept into a variable that could be
+measured.
+
+The Bogardus scale was designed to measure attitudes reflecting the
+degrees of “sympathetic understanding” which respondents had to members
+of other groups. The scale was extensively utilized and was largely re-
+sponsible for the widespread diffusion of the concept. If, however, as
+Bogardus observed in 1959, “within the last thirty years, the concept of
+social distance [became] widely accepted in sociology,” there is no warrant
+for the eulogy he appends to that observation: “[Social distance] is a
+crisp term which conveys its own meaning. It says exactly what it means.
+It is rarely if ever misunderstood” (p. 7). On the contrary—the literature
+from those three decades and later ones reveals a continuous unfolding,
+confusing, disentangling, and crosscutting of several disparate meanings of
+social distance.
+
+The complexity of this development would not have surprised Simmel,
+whose own expressed view was that “very manifold meanings [are] encom-
+passed by the symbol of ‘distance’ ” (1908, p. 321; 1955, p. 105). The point
+is illustrated by the Bogardus scale itself, if it is to be seen as a means
+of making Simmel’s notions of social distance more concrete: it captures
+none of the meanings Simmel had in mind when alluding to social space
+in “The Stranger,” which dealt rather with (1) ecological attachment and
+mobility, (2) emotional involvement and detachment, and (3) the extent
+to which persons share similar qualities and sentiments. Proceeding in yet
+another direction, Sorokin, who cites Simmel as the first modern sociologist
+to attend to the problem of social space and related questions, defines social
+distance in terms of the constellation of a person’s group memberships
+and his positions in those groups. He contrasts this “objective and socio-
+logical” approach with that of Park and Bogardus, which he calls “purely
+psychological and subjective (as far as it measures the social distance by
+the subjective feelings of liking and disliking)” (1927, chap. 1).
+
+A number of other authors have sought to specify the concept of social
+distance anew by returning to parts of Simmel’s work other than “The
+Stranger.” Willard Poole (1927), erroneously thanking Park and Burgess
+for the transmission, drew on a (then untranslated) passage in Simmel’s
+chapter “The Poor” to ground a distinction between social distance
+(hierarchical position) and personal distance (emotional involvement),
+then evolved a fourfold classification by identifying “subjective” and
+“objective” forms of both social and personal distance. Erving Goffman
+(1959, p. 69) drew on a passage from Simmel’s discussion of secrecy to
+develop another meaning: the radius of a sphere around a person which
+marks the distance at which others must stand back. Charles Kadushin
+cited a passage from Simmel’s chapter “Quantitative Aspects of the Group”
+to produce still another meaning of the concept, averring that “when Sim-
+mel first introduced the notion of social distance” he used it to distinguish
+emotional involvement from cool detachment (1962, p. 517).
+
+Much of the recent work on social distance has been devoted to sorting
+out some of the “very manifold meanings” of the concept and to devising
+correspondingly diverse instruments of measurement. Westie (1952, 1953)
+developed four different social distance scales (residential distance, position
+distance, interpersonal physical distance, and interpersonal interaction
+distance). Banton (1960) distinguished four forms of social distance
+(attitudinal, positional, qualitative, and ecological [labels ours]). Ka-
+dushin, in his “effort to re-specify and apply Simmel’s ideas,” distinguishes
+still another set of four “dimensions of social distance” (and the relevant
+indicators needed to tap them): “Normative distance refers to the manner
+and degree of interaction which ought to hold between two or more persons
+or statuses. /nteractive distance is the degree of actual interaction and
+need not match the normative prescription. . . . Cultural or valuational
+distance is the degree of value homophyly that exists between two persons
+or statuses. .. . Personal distance or empathy is the degree of understanding
+and unspoken communication that takes place between two persons or two
+statuses—what Simmel had in mind when he wrote of ‘personal’ relation-
+ships” (1962, pp. 519-20).
+
+Perhaps the most rigorous and ambitious work in this research tradition
+is that of Edward O. Laumann. Concerned that “although Simmel at the
+turn of the century suggested the promise of research on interaction,
+remarkably little systematic research in urban settings . . . has been under-
+taken,” Laumann (1966, p. 147) has undertaken major efforts to carry
+out such research in a systematic manner. He has created instruments to
+measure both subjective social distance (‘an attitude of ego toward a
+person ... that broadly defines the character of the interaction ego would
+be willing to undertake with the attitude object”), the variable tapped
+by the Bogardus scale, and objective social distance (“the actually observed
+differential association of persons of different status attributes in various
+social relationships”) (Laumann 1966, pp. 29-30). He has used these
+instruments to provide a more empirically grounded understanding of
+the interaction patterns of social classes in urban communities.
+
+In an appendix to Laumann’s most recent work in this vein, David
+McFarland and Daniel Brown (1973) return to Simmel as a point of
+departure for developing a rigorous conception of social distance as a
+“metric,” a term used by mathematicians to denote a type of quantity
+that bears a resemblance to physical distance. Their remarks are essentially
+negative:
+
+Simmel’s discussion of social distance concerned “The Stranger,” whom
+he described as having elements of both nearness and distance. The near-
+ness comes from features held in common with the observer, and the
+distance comes from the observer’s awareness that the features held in
+common are common to all men or at least to large groups of men.
+Simmel’s use of the concept does not lend itself either to quantification
+or to a clear analogy with physical distance since in his usage two people
+can simultaneously be “near” and “distant.” His concept of social dis-
+tance actually seems to be a mixture of two different concepts: features
+held in common, and the degree of specificity or generality of these com-
+mon features. . . . Simmel made no attempt to quantify his idea of social
+distance, or to represent it geometrically as the distance between physical
+points. [P. 215]
+
+Taking up the challenge implicit in their critique of Simmel, McFarland
+and Brown propose, through the use of such constructs as “proximity
+measures” and “relative distance,” a set of operations capable of yielding
+both a social distance function that is a true metric and a dimensional
+representation of the objects in question that discloses the configuration
+formed by the set of objects.
+
+The great promise which McFarland and Brown sensed in the metaphor
+of social distance—that social relations could somehow be represented in
+mathematical terms in a way that bears some resemblance to the measure-
+ment of physical space—had been responded to in other ways within a
+different research tradition, that of sociometry. Workers in this field
+developed such constructs as choice and rejection status indices to rep-
+resent social distances within small groups in mathematical form. Com-
+menting on this earlier development, J. L. Moreno wrote: “Although
+certain aspects of sociometry and microsociology had already been con-
+ceptualized by Simmel, von Wiese, Gurvitch, and myself in Europe, it is
+still a genuine American movement because it would have died there,
+whereas here it flowered to great productivity. More than any other living
+variety of the human species, the American man loves to express status
+in figures, he is the ‘homo metrum’” (1960, p. vii).
+
+At several points, then, the work of Simmel provided some stimulation
+for American sociologists seeking to find ways and means of applying
+metric techniques to social relations. In the process, however, much of Sim-
+mel’s own message was lost. How much was lost may be surmised from a
+close consideration of the assertions by McFarland and Brown quoted
+above.
+
+Theirs is a distorted reading of Simmel’s discussion of social distance
+because it is based on a biased sample of his statements. While Simmel did
+to some extent consider “nearness” in terms of features held in common—
+what McFarland and Brown call a “similarity” notion of social distance,
+comparable to what Lazarsfeld and Merton (1954) have referred to as
+“value homophily”—he also employed what they call an “interaction”
+notion of social distance. Simmel’s description of the nearness of the
+stranger clearly refers in part to the fact that the stranger is someone close
+by with whom interactions are readily experienced, and his allusions to
+social distance in other contexts make even greater use of the interactional
+(and still other) meanings of the concept.
+
+Much more misleading, however, is the statement that Simmel made no
+attempt to represent social distance geometrically. Here homo metrum
+has denatured the European legacy. Sociology was explicitly conceived by
+Simmel as a kind of geometry of social relations. Distance, however, was
+a central analytic concept for him, not because social phenomena might
+therewith be measured univocally,!® but because the properties of physical
+space figure significantly in the symbolic structures through which human
+actors define, interpret, and organize their social relations.1* He spent no
+time looking for a literal social counterpart to physical space, since social
+distance was a metaphor only:
+
+At the moment two persons begin to interact, the space between them
+appears to be filled and inhabited. This appearance of course rests only
+on the ambiguity of the concept “between”: that a relation between two
+elements which actually consists only of a certain movement or modifica-
+tion within the one and the other takes place between them in the sense
+of a spatial interposition. Although the ambiguity in question may give
+rise to errors, it represents a matter of quite profound sociological sig-
+nificance. The “Inbetween” as a purely functional reciprocity, whose
+contents stay within each of the parties to a transaction, also takes the
+form of a claim on the space which exists between these parties, actually
+manifesting itself in all cases between two spatial locations at which each
+party has a specially designated place, one to be occupied by himself
+alone. [Simmel 1908, p. 616, as translated by D. Levine]
+
+It remains for other research traditions within American sociology to
+appreciate that the principal relevance of the essay on the stranger for the
+study of social distance may lie in its second sentence: “[The example of
+the stranger] is another indication that spatial relations not only are
+determining conditions of relationships among men, but are also symbolic
+of those relationships.”
+TABLE A2
+
+Foreicn Sociotocists Most FREQUENTLY MENTIONED AS INFLUENTIAL
+
+ 
+
+ 
+
+Author Respondents
+
+ 
+
+ 
+
+   
+
+H. Spencer .... 23
+G. SIMMEL . 12
+G. Tarde .. 11
+E, Durkheim . 7
+L. Hobhouse 7
+A. Comte ......... 6
+TABLE B1
+
+DIFFERENTIAL CITATIONS OF AUTHORS
+
+ 
+
+ 
+
+AMERICAN AUTHORS
+
+European AUTHORS
+
+ 
+
+ 
+
+    
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+  
+ 
+
+ 
+
+ 
+
+   
+
+ 
+ 
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+  
+     
+ 
+
+  
+  
+
+Author Citations Author Citations
+Case 1924
+30 Spencer 20
+22 Comte 10
+21 Hobhouse 6
+14 Durkheim 3
+Giddings 14 Marx 3
+Small 14
+Park .. 13
+Sumner 13 Tonnies, or Weber)
+Ellwood 1925
+Giddings 22 Hobhouse 18
+Park and Burgess 18 Comte 8
+Ross ..... 15 Marx ... 2
+Cooley . 13 SIMMEL 2
+Ward . 10 Spencer 2
+Small . 6 Tarde . oer 2
+Sumner 4 (One cit im, none for
+Pareto, Ténnies, Weber)
+Lumley 1928
+Sumner 31 Spencer 9
+Keller . 23 Hobhouse 3
+Park .. 18 SIMMEL 3
+Ross .. 14 Tarde .. are 2
+Cooley .. 7 (No citation r e, Durkheim,
+Giddings 6 Marx, Pareto, Tonnies, Weber)
+Dawson and Gettys 1929
+Park .... 49 SIMMEL 14
+Cooley 31 Durkheim . 10
+Burgess 28 Westermarck . 7
+Thomas .. 25 Spencer 5
+Sumner 16 Tarde .. 3
+Ross .. 15 Comte oer 2
+Small 14 (One citation for Hobhouse, none for
+Znaniecki ... 13 Marx, Pareto, Tonnies, Weber)
+Hiller 1933
+Park .. 56 Hobhouse 34
+Thomas . 50 Westermarck . 33
+Cooley .. 49 SIMMEL 14
+Sumner 47 Tarde .... 7
+Burgess 44 Spencer c 3
+Sorokin . 37 Durkheim ........ oer 2
+Znaniecki 37 (No citations for Comte, Marx, Toén-
+Ross 33 nies, Pareto, Weber)
+Abel, Theodore. 1929. Systematic Sociology in Germany. New York: Columbia Uni-
+versity Press.
+
+. 1959. “The Contribution of Georg Simmel: A Reappraisal.” American Socio-
+logical Review 24 (August): 473-79.
+
+Baker, Paul J. 1973. “The Life Histories of W. I. Thomas and Robert E. Park with
+an Introduction by Paul J. Baker.” American Journal of Sociology 79 (September) :
+243-60.
+
+Baker, Paul J., Martha P. Long, and Susan L. Quesnel. 1973. “The Pioneers of
+American Sociology: An Empirical Analysis.” Paper presented at the Annual
+Meetings of the American Sociological Association, New York, August.
+
+Bales, Robert F. 1950. Interaction Process Analysis. Cambridge, Mass.: Addison-Wesley.
+
+Banton, Michael. 1960. “Social Distance: A New Appreciation.” Sociological Review
+8 (December): 169-83.
+
+Bendix, Reinhard, and Bennett Berger. 1959. “Images of Society and Problems of
+Concept Formation in Sociology.” Pp. 92-118 in Symposium on Sociological Theory,
+edited by Llewellyn Gross. New York: Harper & Row.
+
+Blau, Peter M. 1964. Exchange and Power in Social Life. New York: Wiley.
+
+Bogardus, Emory S. 1959. Social Distance. Yellow Springs, Ohio: Antioch.
+
+Bonacich, Edna. 1973. “A Theory of Middleman Minorities.” American Sociological
+Review 38 (October): 583-94.
+
+Borgatta, Edgar F., and Henry J. Meyer, eds. 1966. Sociological Theory: Present-Day
+Sociology from the Past. New York: Knopf.
+
+Boskoff, Alvin. 1969. Theory in American Sociology. New York: Crowell.
+
+Bradburn, Norman M., and David Caplovitz. 1965. Reports on Happiness. Chicago:
+Aldine.
+
+Buckley, Walter. 1967. Sociology and Modern Systems Theory. Englewood Cliffs, N.J.:
+Prentice-Hall.
+
+. 1968. Modern Systems Research for the Behavioral Scientist. Chicago: Aldine.
+
+Case, C. M. 1924. Outlines of Introductory Sociology. New York: Harcourt Brace.
+
+Cory, David, ed. 1955. The Letters of George Santayana. New York: Scribner’s.
+
+Coser, Lewis A. 1956. The Functions of Social Conflict. New York: Free Press.
+
+. 1958. “Georg Simmel’s Style of Work: A Contribution to the Sociology of the
+
+Sociologist.” American Journal of Sociology 63. (May): 635-41.
+
+. 1964. “The Political Functions of Eunuchism.” American Sociological Review
+
+29 (December): 880-85.
+
+. 1965. “The Stranger in the Academy.” Pp. 29-39 in Georg Simmel, edited by
+
+Lewis A. Coser. Englewood Cliffs, N.J.: Prentice-Hall.
+
+. 1971. Masters of Sociological Thought. New York: Harcourt Brace Jovanovich.
+
+. 1972. “The Alien as a Servant of Power: Court Jews and Christian Renegades.”
+American Sociological Review 37 (October): 574-81.
+
+Coser, Lewis A., and Bernard Rosenberg. 1957. Sociological Theory: A Book of Read-
+ings. New York: Macmillan.
+
+Daniels, Arlene Kaplan. 1967. “The Low-Caste Stranger in Social Research.” Pp. 267—
+96 in Ethics, Politics, and Social Research, edited by Gideon Sjoberg. Cambridge,
+Mass.: Schenkman.
+
+Davis, Murray S. 1973. “Georg Simmel and the Aesthetics of Social Reality.” Social
+Forces 51 (March): 320-29.
+
+Dawson, Carl A., and Warner E. Gettys. 1929. An Introduction to Sociology. New
+York: Ronald.
+
+Duncan, Hugh Dalziel. 1962. Communication and Social Order. New York: Bedminster.
+
+Ellwood, C. 1925. The Psychology of Human Society. New York: Appleton.
+
+Fallers, Lloyd A., ed. 1967. Immigrants and Associations. The Hague: Mouton.
+
+Flexner, Abraham. 1940. I Remember: The Autobiography of Abraham Flexner. New
+York: Simon & Schuster.
+Goffman, Erving. 1959. The Presentation of Self in Everyday Life. Garden City, N.Y.:
+Doubleday.
+
+Greifer, Julian. 1945. “Attitudes to the Stranger: A Study of the Attitudes of Primitive
+Society and Early Hebrew Culture.” American Sociclogical Review 10 (December):
+739-45.
+
+Grusky, Oscar. 1960. “Administrative Succession in Formal Organizations.” Social
+Forces 39 (December): 105-15.
+
+Hayes, E. 1930. Sociology. New York: Appleton.
+
+Hiller, E. T. 1933. Principles of Sociology. New York: Harper.
+
+Homans, George. 1950. The Human Group. New York: Harcourt Brace.
+
+Hughes, Everett C. 1949. “Social Change and Status Protest: An Essay on the Marginal
+Man.” Phylon 10 (First Quarter): 58-65.
+
+James, William. 1904. “Humanism and Truth.” Mind 13 (October): 457-75.
+
+Kadushin, Charles. 1962. “Social Distance between Client and Professional.” American
+Journal of Sociology 67 (March): 517-31.
+
+Laumann, Edward O. 1966. Prestige and Association in an Urban Community. In-
+dianapolis: Bobbs-Merrill.
+
+Lazarsfeld, Paul F., and Robert K. Merton. 1954. “Friendship as Social Process:
+A Substantive and Methodological Analysis.” Pp. 18-66 in Freedom and Control in
+Modern Society, edited by Morroe Berger, Theodore Abel, and Charles H. Page.
+New York: Van Nostrand.
+
+Levine, Donald N. 1957. “Simmel and Parsons: Two Approaches to the Study of
+Society.” Doctoral dissertation, University of Chicago.
+
+. 1959. “The Structure of Simmel’s Social Thought.” Pp. 9-32 in Georg Simmel,
+
+1858-1918, edited by Kurt H. Wolff. Columbus: Ohio State University Press.
+
+. 1971. “Introduction.” Pp. ix-Ixv in On Individuality and Social Forms, by
+
+Georg Simmel. Chicago: University of Chicago Press.
+
+. 1975. “Simmel at a Distance: On the History and Systematics of the Sociology
+of the Stranger.” Paper presented at the annual meetings of the American Socio-
+logical Association, San Francisco, August.
+
+Lumley, F. 1928. Principles of Sociology. New York: McGraw-Hill.
+
+Lyman, Stanford M., and Marvin B. Scott. 1970. A Sociology of the Absurd. New
+York: Appleton-Century-Crofts.
+
+McClemore, S. Dale. 1970. “Simmel’s ‘Stranger’: A Critique of the Concept.” Pacific
+Scciological Review 13 (Spring): 86-94.
+
+McFarland, David, and Daniel Brown. 1973. “Social Distance as a Metric: A Sys-
+tematic Introduction to Smallest Space Analysis.” Pp, 213-53 in Bonds of Pluralism:
+The Form and Substance of Urban Social Networks, by Edward O. Laumann. New
+York: Wiley.
+
+Martindale, Don. 1960. The Nature and Types of Sociological Theory. Boston:
+Houghton Mifflin.
+
+Merton, Robert K. 1968. Social Theory and Social Structure. 3d rev. ed. New York:
+Free Press.
+
+Moreno, J. L., et al. 1960. The Sociometry Reader. Glencoe, Ill.: Free Press.
+
+Nash, Dennison. 1963. “The Ethnologist as Stranger.” Southwestern Journal of An-
+thropology 19 (Summer): 149-67.
+
+Nash, Dennison, and Alvin W. Wolfe. 1957. “The Stranger in Laboratory Culture.”
+American Sociological Review 22 (August): 400-405.
+
+Nisbet, Robert A. 1959. “Comment.” American Sociological Review 24 (August):
+479-81.
+
+. 1966. The Sociological Tradition. New York: Basic.
+
+Park, Robert E. 1924. “The Concept of Social Distance.” Journal of Applied Sociology
+8 (May-June): 339-44.
+
+. 1928. “Human Migration and the Marginal Man.” American Journal of Soci-
+
+ology 33 (May): 881-93.
+
+. 1950. Race and Culture: The Collected Papers of Robert Ezra Park. Vol. 1.
+
+Glencoe, Ill.: Free Press.
+Simmel’s Influence on American Sociology. I
+
+Park, Robert E., and Ernest W. Burgess. 1921. Introduction to the Science of Soci-
+ology. Chicago: University of Chicago Press.
+
+Parsons, Talcott, Edward Shils, Kaspar D. Naegele, and Jesse R. Pitts. 1961. Theories
+of Society: Foundations of Modern Sociological Theory. Vols. 1 and 2. New York:
+Free Press.
+
+Poole, Willard. 1927. “Distance in Sociology.” American Journal of Sociology 33
+(July): 99-104.
+
+Rose, Peter I. 1967. “Strangers in Their Midst: Small-Town Jews and Their Neigh-
+bors.” Pp. 463-79 in The Study of Society, edited by Peter I. Rose. New York:
+Random House.
+
+Simmel, Georg. 1908. Scziologie. Leipzig: Duncker & Humblot.
+
+1949. “The Sociology of Sociability.” American Journal of Sociology 55
+
+(November): 254-61.
+
+. 1950. The Sociology of Georg Simmel. Translated by Kurt H. Wolff. Glencoe,
+
+IIL: Free Press.
+
+. 1955. Conflict and the Web of Group-A ffiliations. Glencoe, Ill.: Free Press.
+
+. 1959. The Sociology of Religion. Translated by Curt Rosenthal. New York:
+
+Wisdom Library.
+
+. 1968. The Conflict in Modern Culture and Other Essays. Translated by K.
+
+Peter Etzkorn. New York: Teachers College Press.
+
+. 1971. On Individuality and Social Forms. Chicago: University of Chicago Press.
+
+Siu, Paul C. P. 1952. “The Sojourner.” American Journal of Sociology 58 (July):
+34-44.
+
+Small, Albion W. 1908. Letter to Walter A. Payne. Presidents’ Manuscript, Sociology
+Folder, Department of Special Collections, University of Chicago Libraries.
+
+. 1925. “[Review of] The Social Theory of Georg Simmel, by Nicholas J.
+
+Spykman.” American Journal of Sociology 31 (July): 84-87.
+
+. N.d. Manuscripts, Department of Special Collections, University of Chicago
+Libraries.
+
+Sorokin, Pitirim A. 1927. Social Mobility. New York: Harper.
+
+. 1928. Contemporary Sociological Theories. New York: Harper.
+
+Sorokin, Pitirim A., Carle C. Zimmerman, and Charles J. Galpin, eds. 1930. A
+Systematic Source Book in Rural Sociology. Vol. 1. Minneapolis: University of
+Minnesota Press.
+
+Stark, Werner. 1963. The Fundamental Forms of Social Thought. New York: Fordham
+University Press.
+
+Stonequist, Everett V. 1937. The Marginal Man. New York: Scribner’s.
+
+Vincent, Melvin. 1928. “A Study of Accommodation as a Conscious Social Process
+Reflected in Employer and Employee Relationships.” Doctoral dissertation, Uni-
+versity of Southern California.
+
+von Wiese, Leopold. 1924-28. System der allgemeinen Soziologie. Munich: Dunker &
+Humblot. |
+
+von Wiese, Leopold, and Howard Becker. 1932. Systematic Sociology. New York:
+Wiley.
+
+Wallace, Walter L., ed. 1969. Sociological Theory: An Introduction. Chicago: Aldine.
+
+Westie, Frank R. 1952. “Negro-White Status Differentials and Social Distance.”
+American Sociological Review 17 (October): 550-58.
+
+. 1953. “A Technique for the Measurement of Race Attitudes.” American
+Sociological Review 18 (February): 73-78.
+
+Wood, Margaret Mary. 1934. The Stranger: A Study in Sccial Relationships. New
+York: Columbia University Press.
+
+Zajonc, Robert B. 1952. “Aggressive Attitudes of the ‘Stranger’ as a Function of
+Conformity Pressures.” Human Relations 5 (May): 205-16.

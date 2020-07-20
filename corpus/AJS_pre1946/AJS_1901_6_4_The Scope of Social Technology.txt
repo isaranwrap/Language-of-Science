@@ -1,0 +1,865 @@
+The Scope of Social Technology
+
+Author(s): C. R. Henderson
+
+Source: American Journal of Sociology, Vol. 6, No. 4 (Jan., 1901), pp. 465-486
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2762288
+
+Accessed: 09-05-2016 03:47 UTC
+THE SCOPE OF SOCIAL TECHNOLOGY.
+
+UnpErRSTANDING of the present and direction of the future
+depend upon knowledge of the past. History treats the phe-
+nomena of human life in their process of unfolding. Thus there
+is a history of the concrete, individual facts of political life; of
+educational ideals, methods, and systems; of military organiza-
+tion and conflicts ; of industry and commerce; of art and religion.
+Even the history of philosophy, and of economic and political
+theory, may be named as distinct from the systematic presenta-
+tion of philosophy, economics, or politics.*
+
+Wundt has treated the province of psychology, individual
+and folk-psychology, philology, history, ethnology, the doctrine
+of population, politics, economics, jurisprudence, philosophy,
+and shown their relations to each other.”
+
+Economics? deals with the phenomena of wealth—that is, of
+material, transferable, and limited means of satisfying human
+desires. Grand divisions of economics are theoretical economics
+and practical economics. Theoretical economics includes stat-
+ics and dynamics. Practical economics includes economic poli-
+tics and finance. Already we have treatises on agrarian
+politics, politics of commerce, manufactures, transportation,
+the economics of the “labor question,” of ecclesiastical institu-
+tions, and of educational systems. It is sometimes claimed that
+there is a particular practical economic science wherever the
+problem is relatively wide in scope and connected with a natural
+group of phenomena. The tendency to mark off specialized
+“sciences”’ is seen in biology as well as in economics, and there
+would be more justification for this in sociology because of the
+greater complexity of the phenomena.
+
+™MENGER, Methode der Socialwissenschaften, pp. 32, 122.
+
+2 Compare L. F. WARD, Outlines of Sociology, chaps. 1-6; A. W. SMALL, AMERI-
+CAN JOURNAL OF SocioLoecy, “Seminar Notes,” 1898.
+
+3J. B. CLARK, Distribution of Wealth, p. 1.
+465
+In relation to government we have political science, jurispru-
+dence, international law, all of which deal with description,
+explanation, and adaptation of means to social ends.
+
+The scope, method, and value of general sociology, as
+science and philosophy, cannot here be discussed. The reply
+to skeptical questions must finally come from the actual service
+which the new aspirant renders to the rational and practical
+demands of the human mind. If it is found that, after the
+special social sciences — economics, politics, ethics, pedagogics—
+have done their best work, an entirely different method of treat-
+ment of the phenomena of association offers a more adequate,
+comprehensive, and complete analysis, classification, and explana-
+tion of the facts of society, that method will be respected.
+That a more adequate and complete treatment is desirable no
+one seems to question; skepticism affects only the achievements
+of those who have hitherto professed sociology. It may fairly
+be claimed on behalf of our attempt to construct a general
+science of society that we are doing only what many economists
+and political philosophers always do when they seek to satisfy
+the rational demand for unity and completeness and the practical
+needs of social organization: they “socialize.” If the politi-
+cal philosopher must constantly trespass on the fields of the
+economist, and the economist follow his own clue out into gov-
+ernmental relations and agencies, and even culture associations,
+there is justification for an explicit effort to codrdinate both
+factors with other social forces and means when man’s estate is
+in question. The sociologist is doing openly what has long been
+done actually under titles which do not connote the whole reality.*
+
+Our present concern is with practical sociology,and more par-
+ticularly with the task, divisions, and method of social technology.
+
+I. DIVISIONS OF SOCIAL SCIENCE.
+
+Sociology, as science, deals with what is and with what ought
+to be. For our present purpose we may divide the entire
+rational enterprise into theoretical and practical social science.
+
++The eminent economist, Professor G. Schmoller, has recently opened a fairly
+hospitable door to the waiting candidate by saying that we “dieser Sociologie, die
+
+freilich nur eine Art ausgebildeter empirischer Ethik ist, ihr Biirgerrecht in dem
+Reiche der Wissenschaften nicht mehr abstreiten kénnen” (Grundriss, p. 72).
+Theoretical social science considers the phenomena of asso-
+ciation. Its goal is an adequate view (@ewpeiv), a knowing and
+understanding.*
+
+The phenomena of community life must be described, that
+is, set forth in their order of coexistence and succession, rela-
+tions of space and time. The basis of this task lies in social
+geography and demography. Description is not complete with-
+out the discrimination, classification, and naming of typical forms
+of the phenomena, since the endless number of individual facts
+cannot be grasped by the mind without grouping them according
+to some real characteristic or mark.
+
+The discovery of general tendencies, uniformity of order, is
+also a discovery of the ‘‘laws’’ of the phenomena.
+
+The culmination and the characteristic of theoretical social
+science is explanation, rationale, the discovery and statement of
+the causes of the phenomena. This crowning achievement
+implies an account of all the conditions and forces which make
+the phenomenon what it is in kind, degree, and quantity.
+
+This rationale must include a discovery and statement of all
+the forces which tend to equilibrium, and this may be desig-
+nated as a problem of static sociology.
+
+The explanation must deal rationally, and as exactly as pos-
+sible, with the forces which produce change, movement, evolution.
+This may be called dynamic sociology, or, in a special sense,
+kinetic sociology.
+
+Practical sociology deals with precisely the same social phe-
+nomena, the same typical forms, the same uniformities or laws,
+the same forces, as theoretical sociology, but for a different
+purpose, and therefore with some difference of method. Prac-
+tical social science is ambitious to discover and present in
+systematic form principles which regulate social conduct in
+conformity with ends.?_ Does practical sociology deal with what
+
+*K. MENGER, Methode der Socialwissenschaften, 1883; A. WAGNER, Politische
+
+Ockonomie, Grundlagen, Vol. 1, chap. 1, p. 144; H. DieTzeL, Theoretische Social-
+Skonomik, Vol. I, pp. 4 ff; WuNDT, Logik, Methodenlehre, Vol. I, p. 530.
+
+?DIETZEL, 0. ¢., p. 4: Conduct, Handeln (mpdrrewv), hence “practice” and
+“practical.” Dietzel (p. 5) distinguishes three tasks of practical social science —nor-
+mative, critical, and technical; but he would construct only two disciplines or scien-
+tific procedures, which he designates ethics (Z¢#72) and politics (ol/#ti2), Professor
+II. DIVISIONS OF PRACTICAL SOCIOLOGY.
+
+Within the task of practical social science we may distin-
+guish three problems for systematic treatment: (1) the problem
+of values, (2) the problem of criticism, and (3) the problem of
+means. For the first problem we may use the data of ethical
+science and philosophy, but not without consideration of empiri-
+cal conditions. The valuation of the ideas of morality is a
+problem of ethics, aided by psychology. For general sociol-
+ogy the data of ethics and psychology are ultimate elements.
+But as soon as the valuation includes concrete conditions, exter-
+nal relations of persons to nature and to each other, laws,
+
+A. W. Small distinguishes social telics and social technology. K. Menger calls this
+practical procedure of social science a doctrine of social art (Kzmstlehre), but (p. 131)
+he makes “eine praktische Wissenschaft” synonymous with “eine Kunstlehre.” A
+WAGNER (0. ¢., p. 145) declares that practical social science is science, and not art
+alone, so long as it aims at knowledge. “Kurz gesagt, handelt es sich also bei den
+theoretischen Wissenschaften um Erlangung eines Wissens zum Kennen, bei den
+praktischen um Erlangung eines solchen zum Kénnen, aber eben um Erlangung
+eines Wissens um des Wissens Willen doch bei beiden. Auch die letzteren diirfen
+daher den Namen von ‘ Wissenschaften’ beanspruchen.” Wunpt, AMethodeniehre, Vol.
+II, p. 532, admits practical social science, as a systematic application of the data of
+theoretical sciences to the satisfactions of needs; his unnecessary limitation of tech-
+nology to “ politics” does not affect the issue.
+
+In Dr. C. D. Wricut’s Practical Sociology the definition is given of the title:
+“Any treatment of the subject would be practical which dealt with things as they are.”
+But theoretical social science deals with things as they are, and practical social sci-
+ence, according to the authors quoted above, deals with things as they are, but with a
+purpose of introducing also what ought to be and is not yet, or only imperfectly,
+realized.
+institutions, then ethical science must wait on theoretical soci-
+ology. The debt and obligation are reciprocal, and progress in
+each science depends on parallel progress of the other. In many
+books on ethics the writer passes from his own data to dogmatic
+deductions about social relations and institutions, as if he needed
+no exact knowledge of these relations and institutions to com-
+plete his valuation and make it reliable and verifiable. This is a
+serious error and entails endless mistakes. The second part of
+the task, or criticism, implies the application of our criteria to
+actual conditions as described and explained in theoretical soci-
+ology. The third part of the task, or social technology, considers
+(1) what should be done; (2) how to make or do that which
+the situation demands. As theoretical social science culminates
+in explanation of what is, so practical social science culminates
+in the best methods discoverable, at a given stage of knowledge,
+for bringing the actual into approximate conformity with what
+is required by that situation, required by the inherent facts of
+the situation.’
+
+Dependence of practical upon theoretical social sctence—From
+the preceding statement it will be seen that practical social
+science derives all its data from the description, classifica-
+tion, and explanation furnished by theory. Practical science
+has no value except as it rests on a mastery of the facts, the
+laws, and the causes which theory makes known and intelligible.
+
+Dependence of theory upon practice—Both in life and thought
+action outruns theory. Men talk and write, logically and
+beautifully, before logic and grammar. If men had waited
+for science before they constructed systems of state, industry,
+and church, there would be nothing to explain. The forces we
+interpret rose out of the subconscious and the unreflecting life.
+The principles of conduct are implicit in conduct.
+
+Yet the art of social living is helped by science. General
+knowledge of financial science might have saved millions of dol-
+lars in the cost of the Civil War and the management of currency
+
+*“Schliesslich zeigt sie die concreten Mittel, welche taugen, das sociale Sein einer
+
+concreten Zeit und eines concretes Ortes mit jener obersten Norm des socialen Sein-
+sollens in Harmonie zu bringen.” (DIETZEL, a. c., p. 5.)
+III, RELATIONS OF ETHICS TO PRACTICAL SOCIOLOGY.
+
+Psychology reveals the phenomena of the ethical life in all
+its elements, just as it deals with all the phenomena of intellect,
+sensibility, and will; it shows the order of awakening and devel-
+opment of the moral sense of obligation, of the commanding
+ideas of benevolence, justice, and completeness of living. Psy-
+chology also brings to light the actual beliefs of men in respect
+to the virtues and duties, in various relations, which are recog-
+nized by men. All the desires of men—the appetites, the zs-
+thetic cravings, the spiritual aspirations, the economic demands—
+are studied in relation to the central experiences called ethical.
+
+Ethical philosophy seeks the unity of the ethical in the
+ground of being, the sanctions of the moral sense of oughtness,
+the ultimate good of beings as defined by hedonism and com-
+peting systems.
+
+But at the line where these subjective valuations are tested
+by experience and come into the current of the social life, ethics
+is dependent on theoretical sociology, as already indicated, for
+the knowledge of the institutional forms through which the
+moral beliefs find expression ; and on practical sociology for the
+concrete means of realization.
+
+With the greatest benevolence no man can be beneficent
+without knowledge of the actual conditions of realizing satisfac-
+tions ; and with the finest sense of justice a saint will injure his
+neighbor in his rights, and all the more remorselessly because
+he is following his “conscience.” The attempt to direct con-
+duct by the light of uninstructed, though noble, sentiments and
+beliefs has always made communities feel safer in the hands of
+strong and shrewd selfish men than in the hands of incompetent
+philanthropists. If anything is certain in morals, it is that every
+man is under obligations to know all he can about what he has
+to do.
+
+= PAUL LEROY-BEAULIEU, Traité théorique et pratique d Economie politique, Vol.
+I, pp. 3, 4, second edition, 1896.
+IV. THE PRINCIPLES OF PRACTICAL SOCIAL SCIENCE.
+
+By “principles” we do not mean, in this connection, the
+canons of explanation, for these belong to theory; nor legis-
+lative statutes, positive human law; nor divine commands; nor
+rules of art, made by local administrators for particular direc-
+tion of specific processes. Positively, we do mean general work-
+ing directions for conduct, derived from experience, regulative
+norms for associated action in view of accepted ends.*
+
+V. THREE ASPECTS OF SOCIAL TECHNOLOGY.
+
+It is possible to think of a system of principles (1) for
+the complete organization of a community, small or great,
+with reference to the attainment of all its ends; (2) of a social
+technology of a natural group or class of society, a system or
+mechanism adapted to further in the best possible way all the
+interests of that group or class, in harmony with the interest of
+the entire community; or (3) we may select a problem or a
+movement whose adequate treatment by a special social science
+is impossible, and demands a coérdination and coéperation of
+many or all the means of the community, and the data of many
+or all of the special sciences, of nature and spirit.
+
+The first and most ambitious of these projected systems we
+might be tempted to defer for the present as too visionary and dis-
+tant for immediate consideration. Yet we may not dismiss it with-
+out the suggestion that, approximately, many well-informed and
+reflective men have, for small communities, achieved this intel-
+lectual task. For example, the disciplined and broadly edu-
+cated head of a household considers all the interests of the
+members of his family, the relation of their welfare to the
+interests of neighborhood, city, and all mankind. At the basis
+of his every command or arrangement is a system of society,
+rational and as complete as he can think it. All his knowledge
+of the physical sciences, of economics, politics, ethics, is brought
+to serve him in the construction of a scheme of group-living.
+
+*MENGER, Methodenlehre, pp. 245-7, 255. “Die praktischen Wirtschaftswissen-
+schaften sollen uns die Grundsitze lehren, nach welchen die wirtschaftlichen Absichten
+der Menschen (je nach Massgabe der Verhiltnisse) am zweckmissigsten erreicht zu
+werden vermégen.” SCHMOLLER, Grundriss, I, p. 64.
+We have but to expand this method, based on regulative prin-
+ciples as wide as the moral world, as ancient as civilization, and
+we have a social technology—a system of conscious and pur-
+poseful organization of persons in which every actual, natural
+social organization finds its true place, and all factors in harmony
+codperate to realize an increasing aggregate and better propor-
+tions of the “health, wealth, beauty, knowledge, sociability, and
+rightness”’ desires.
+
+Indeed, every liberally educated citizen, alive to all the
+interests about him, constructs in his mind such a rational sys-
+tem in outline for the community in which he lives, and, in less
+definite form, for the commonwealth and the nation. So far as
+he acts reflectively, he directs his political, industrial, educa-
+tional, and ecclesiastical influence according to a more or less
+consistent body of regulative principles.
+
+In one respect practical sociology is not at a disadvantage
+compared with theory. Explanation is relative to a given social
+system, as the ‘‘historical” school of economists has rightly
+urged and all acknowledge.*
+
+Regulative principles (Massregeln) have precisely the same
+limitations and scope. But in so far as the same system of
+conditions, forces, and organization obtains, to the same extent
+we can discover and present, not only explanatory principles,
+but also regulative principles. The extreme difficulty and com-
+plexity of the problem may well make us careful and painstak-
+ing, but never cynically hopeless.
+
+And since many social forces are relatively continuous and
+permanent, and since there is increasing reciprocity between
+peoples, we may rationally hope to carry out on a world-scale
+the principles discovered in very restricted fields of investiga-
+tion. The chemist and biologist discover in the closet of a
+laboratory a principle which is published to the learned world,
+without fear that their conclusions will be put to shame by tests
+made, under the same conditions, on the other side of the Atlantic.
+True, we do not in social science deal with such uniform and
+
+"HE. g., K. BicHEerR, Entstehung der Volkswirtschaft; MENGER, Methode der
+Socialwissenschafien, pp. 130 ff.
+VI. DIVISION OF LABOR IN SOCIAL TECHNOLOGY.
+
+A division of labor might be formed on the basis of the
+characteristic or predominant desire or interest. Thus, there
+might be a social technology of the health desire—the social
+system of public sanitation; the wealth desire—the industrial
+and commercial system; the beauty desire —the organization of
+communities for art culture; the knowledge desire —the educa-
+tional system; the sociability desire —the organization for fel-
+lowship; the rightness desire—the organization of social
+control, ethical direction, religion. But I have not been able,
+thus far, to make it work in detail. Perhaps someone will suc-
+ceed better with it. In accordance with the principles herewith
+presented the writer has, for several years, given courses on
+rural and urban sociology, the domestic institution, and charities,
+naturally giving far more detailed attention to some subjects
+than to others.
+
+It may be taken for granted that social technology will make
+progress only by some kind of specialization. Only by minute
+division of labor have the sciences of chemistry, physics, biology,
+politics, and economics achieved their triumphs. This remains
+true even after we have properly chastised the miserable, petty,
+and useless following blind alleys which has wasted many stu-
+dent lives. Specialization, on the basis of generous culture, isa
+condition of advancing knowledge, even a little way, on firm
+ground. And specialization involves a parceling out of the ter-
+ritory defined already, with reasonable clearness, in the pioneer
+and encyclopedic works of such men as Schaeffle and De Greef.
+
+Since there is something distinctive in the task of sociology,
+it must have a division of labor based on principles inherent in
+the characteristics of sociology.
+
+A tentative classification of particular tasks is herewith
+offered for criticism, and this classification is based on a divi-
+sion of labor already in part accepted and fruitful, and which
+proceeds according to certain groups and classes of persons in
+modern society.
+
+These groups and classes of persons have already, in most
+cases, been selected for separate treatment by statisticians, and
+have been analyzed with great care for the purposes of investi-
+gation. They are also recognized by law, and by common
+speech, as having marks which characterize them.
+
+Over against each of these social groups and classes there is
+already, in most instances, a body of experts, whose lives are
+devoted to the study and administration of social organization
+in relation to this class or group.
+
+These bodies of technical experts have gradually arrived at
+certain regulative principles, often stated as isolated maxims,
+but sometimes in systematic and logical forms, and these regu-
+lative principles have been subjected to multitudes of severe and
+prolonged tests.
+
+It seems probable that we may reasonably look in this direc-
+tion for a division of intellectual labor in the mighty task of
+reducing to order the fundamental regulative principles of social
+life.
+
+All that can be presented is a bare outline of the boundaries
+of some of the projected divisions of scientific labor in this field.
+
+We may begin with the domestic institution, the family.
+During the last fifty years the learned world has been actively
+investigating the early and later evolution of the family. The
+names of Bachofen, McLennan, Morgan, Spencer, Letourneau,
+Westermarck represent a most important range of studies.
+Ancient records, stories of travelers, investigations of ethnolo-
+gists, minute observation of contemporary nature peoples, have
+shed a flood of light on the development of the monogamic
+family as it is known to civilized nations.
+
+Writers on jurisprudence have worked out the legal methods
+of regulating marriage, personal and property rights of spouses
+and children. Physiologists and physicians have made profound
+studies of the physical side of the marriage relation. Econo-
+mists have collected and exploited the budgets of families.
+Ethical writers have systematized the traditional beliefs and
+inherited convictions of modern society in regard to marriage
+duties and domestic virtues. In short, there is not a science or
+art which has not made a contribution to what may be called,
+and is sometimes called, a ‘‘domestic science.” Yet, a ‘‘domes-
+tic science,” as a branch of social technology, remains to be con-
+structed.
+
+No better example can be chosen to illustrate the helpless-
+ness and inadequacy of a special science and its data, so long as
+those data stand isolated. The politician and legislator cannot
+draft a law, or an amendment to a law, with wisdom, until he
+has been taught in some way all the physical, intellectual,
+esthetic, economic, ethical, and religious consequences of his
+statute. The moral and religious teacher is in precisely the
+same position. The parents, the school boards, the town meet-
+ing, the city council, are constantly acting, more or less blindly
+and instinctively, on the supposition that they know how their
+measures of discipline or instruction will affect all families in all
+their interests.
+
+The materials for a division of social technology lie scattered
+about, and society sorely needs a systematic coérdination and
+construction of them in a coherent body of regulative principles
+derived from critical investigation, and not from instinct and
+unreflecting acceptance of traditional beliefs.
+
+A second example may be chosen in that form of com-
+munity, one of those designated by Professor F. H. Giddings as
+a ‘component society,” which is called in common speech a
+“rural community.”
+The rural community has characteristics which mark it off
+quite clearly from other forms of association, making all proper
+allowance for differences in locality and fluctuations and develop-
+mental changes. It is relatively homogeneous; each person has
+a name and a reputation; industry is not highly specialized ;
+education is elementary; the number of impressions and ideas is
+limited.*
+
+In relation to the rural community we may claim that there
+is a body of experts, and that there is material for a branch of
+social technology which shall present a system of regulative
+principles of conduct. In dim and shadowy outlines the rural
+pastors, teachers, parents, physicians, and local ‘authorities ”
+have a set of ‘‘ ethical’? maxims which are enforced by stinging
+criticism, praise and blame, law and constabulary, sermons and
+church discipline. In isolated sections of knowledge we have
+some fragmentary basis for this ethical code in the knowledge
+of physicians, professors in agricultural colleges, agronomes in
+universities, great organizers of markets; but nowhere, as yet,
+anything approaching a social technology of the subject, a
+“rural sociology.”” We have powerful and learned works on
+Agrarwesen and Agrarpolitk, which on examination reveal a reli-
+able and indispensable mastery of economico-political relations
+of rural populations, but furnish little help as to the social organi-
+zation to secure the ultimate, highest, and essentially human
+goods of being. When men of science once apprehend the vast-
+ness of this neglected field, they will bring to it the same acumen,
+patience, and method which have won worthy triumphs in the
+production of wealth. Granting that the economic basis must
+first be laid firmly, may we not now insist that a part of scientific
+labor be drafted off into other fields of research? We actually
+have more and better books on breeding cattle and marketing
+corn than on forming citizens and organizing culture. Is it not
+worth while to attempt a social technology of the rural com-
+munity? And would not evena failure in the attempt be worthy
+of respect ?
+
+The third example chosen is another “component society,”
+
+™See S. M. PATTEN, Theory of Social Forces.
+a social group which contains within itself, as does the family
+and the rural community, all the elements necessary to exist-
+ence—the urban community. Here again we find the three
+necessary factors for a particular branch of science —the natural
+group, the body of experts, the materials of knowledge in the
+special sciences and in the maxims of experts.
+
+And here we discover that the title ‘‘ municipal sociology ”
+has already become current in common speech. It is manifest
+that the city cannot, for its guidance, use the isolated results of
+sanitary science apart from administration, or of pedagogics
+apart from municipal finance, or of zsthetic science apart from
+museums and art commissions, or of ethics apart from the tech-
+nical tests of conduct in every relation and situation. It is
+evident to editors and to all others who are trying to create and
+educate a genuine ‘ municipal patriotism,” a common judgment
+of policy, common will as to all that should be done for health
+and culture, for all citizens by all citizens, that social technology
+is at this crisis essential. And there are men and women of
+large brains and resources, outside of university lecture-rooms,
+who are honestly working at this task. Able editorials are not
+economic or political discussions, but sociologial in the meaning
+of the word here employed.
+
+Of the other “component societies” which might furnish
+materials for similar branches of social technology it is not pos-
+sible to write within the limits of this article: the people of a
+commonwealth, the people of a nation, and—in a far distant
+future— mankind. Wildest speculation will long lure us toward
+these grand subjects, but the social technology of humanity
+must wait until we test our methodical tools on more limited
+subjects, There is already a science of the state, theoretical and
+practical, which rests on an implicit general sociology and leads
+on to a social technology of the nation.*
+
+But there are certain social classes, secondary products of
+evolution, which may become the subjects of systematic treat-
+ment in social technology. In some instances, under various
+names, precisely this task has been fairly well advanced. The
+
+*See RATZENHOFER, Wesen und Zweck der Politik.
+”
+
+“classes” to be named are found in all the ‘component societies
+mentioned above. In case of the classes to be cited we have
+again three factors of a social technology—a natural group already
+investigated statistically, a body of experts representing the best
+judgments of normal social members, and a growing and con-
+sistent set of regulative maxims for community dealings with the
+class.
+
+Without going into many details we may designate some of
+these classes and the name of a branch of social technology
+already recognized as a legitimate field for scientific specializa-
+tion.
+
+Thus society has long been compelled to recognize and dis-
+tinguish the antisocial or criminal class. The criminal anthro-
+pologists and psychologists have devoted immense labor to
+minute and protracted studies of the criminal traits and character
+physical and psychical. Jurisprudence devotes to this class a vast
+literature of criminal law and procedure, which of late is pro-
+foundly influenced by studies of the criminal himself, and of
+sociology in general. Penologists have formed associations,
+national and international, for a careful investigation of the
+methods of treatment of all classes of offenders, in prison and
+elsewhere, with a view to their welfare and the good of the
+entire community, contemporary and future.
+
+One of the men who have studied our American system of
+reformatories presented to the last International Prison Congress
+a long and able paper whose central plea was for a sociological
+treatment of the subject, since the methods of economics, juris-
+prudence, and prison science, taken separately, break down in
+detail before a closely and logically connected system can be
+constructed.”
+
+We already have works written from this point of view.”
+
+The dependents are also recognized as a class by the statisti-
+cians, and the numbers of the various subclasses have been
+counted in the census. The biological, medical, economic, and
+
+PROFESSOR W. MITTERMAIER, Heidelberg, Bulletin de la Commission péniten-
+tiatre international, 4° série, liv. III, 1900, Vol. III, p. 465.
+
+2 FERRI, Criminal Sociology; W. D. Morrison, Juvenile Offenders.
+legal aspects of dependence have long been studied, and a mass
+of information has been accumulated. In addition to this a dis-
+tinct discipline has grown out of the demand for a more com-
+prehensive and adequate treatment of the whole system of
+charity. It has gone so far as to require a name, and, out of
+deference to scientific custom, a learned Greek compound has
+been offered for criticism—charitology. In the few text-books*
+thus far written to present in systematic form the causes of
+dependence and the regulative principles which direct the most
+successful methods in philanthropy, the sociological standpoint
+has been distinctly adopted, the chapter on the subject in
+economics having proved wholly inadequate.
+
+The group of industrials or wage-workers has been clearly
+differentiated as a complex class in modern society. This process
+of differentiation has been due to advances in technique, to the
+division of labor in industry, the rise of cities, and the resulting
+geographical and cultural separation of the operatives from
+the managers. The antagonisms, hatred, and friction incident
+to this separation have aroused the solicitous attention of states-
+men, economists, and ethical philosophers. The conditions of
+life and culture in this group offer a fairly well-defined field for
+a branch of social technology. The economists have already
+erected a discipline which some of them call ‘‘ social economics”
+and others simply ‘the labor question” (die Arbeiterfrage), or
+“the social question.” But no thinking man can rest satisfied
+with a purely economic, or even economico-legal, treatment of the
+interests of this large group and the interests of society in their
+welfare. While we insist that the economic and legal factors
+must be worked out by experts in economics and jurisprudence,
+we must also insist that, side by side with them, all other social
+factors must be considered, and that the difficult task of har-
+monizing all data of special experts must be in fact, if not in
+name, a branch of social technology.
+
+In a similar way we might study the artist group, the profes-
+sional class, the salaried officers of corporations and governments,
+
+7A. G. WARNER, American Charities; C. R. HENDERSON, Jntroduction to the
+Study of Dependents, Defectives and Delinquents (second edition in preparation).
+VII. METHODOLOGY OF SPECIAL “PROBLEMS” IN SOCIAL TECH-
+NOLOGY—NEW AND UNSOLVED QUESTIONS.
+
+Life makes problems of the most difficult and pressing kind:
+There is no end of subjects for doctor’s theses in our field, and
+we are not driven to set tasks whose issues are in vacuity. In
+every community, however small, the people feel the weight of
+uncertainty and grope for the light. Not seldom they turn to
+the university for help. Tolstoi’s wandering criticisms may be
+fanatical, but he is not entirely unjust in asking whether the
+social sciences may not be made to contribute more directly and
+consciously to the betterment of man’s estate.
+
+Public interest, as indicated by the headlines of newspapers,
+is usually concentrated on very few “ paramount issues”’ at a
+time, and moves rhythmically back and forth from one to
+another. Now it is an outburst of burglary and holdups at the
+onset of frosty weather; now an election, a lynching, a crash in
+the market, a battle,atornado. At such a moment the study of
+a lifetime is in demand to still the feverish curiosity of an hour.
+
+There are topics which become acutely interesting to the
+public at frequent intervals, and which take almost complete
+possession of many persons all their lives. This is true, for
+example, of the labor question, temperance reform, relief of the
+poor, criminal treatment, currency, and education.
+
+Social technology can render its best service by dealing with
+genuine social problems in vital connection with a body of
+knowledge and a system of principles. The statement, loca-
+tion, and analysis of a situation are made comprehensive, and
+the facts which are essential for a judgment are arrayed in an
+intelligible form for the use of administrators, voters, and
+reformers. A particular problem is always a part of a larger
+view, and its solution must be found by bringing it into the light
+of organized bodies of knowledge. Some of the important steps
+in the process of dealing with a particular problem may here be
+indicated.
+
+There must bea clear statement of the problem as a com-
+munity interest, and it must be a genuine social problem if it
+belongs fairly to the sociologist. We have many studies of vast
+interest to society which are properly economical, administrative,
+or educational. A problem in social technology has at least
+these marks; all the elements of welfare are involved; all the
+members of the community are affected; and the data to be
+used are normally derived from more special sciences. If the
+answer can be supplied by an expert in any particular field of
+science or experience, the problem may be left there. State
+troops are not called out if the constable or sheriff is able to
+meet the occasion.
+
+The end of proposed social action must be defined with all
+clearness; the kind of good to be furthered or multiplied; the
+satisfactions to be attained.
+
+The third step is a clear and complete arrangement of all
+the causal relations and conditions in the situation. At this
+point the dependence of technology on theoretical science
+becomes apparent. In a social problem, in the sense defined,
+the full explanation can never be given by any one special
+science, and the explanation must be through a process of socio-
+logical thinking.
+
+The fourth step is the study or presentation of methods
+actually in use to attain the proposed end, of their failures and
+success, and of the regulative principles involved in the most
+favorable cases.
+
+The fifth step is a mental construction of the most rational
+plan for the next step. This is based on all the preceding stages
+of experience and is suggested by them. This new proposition
+corresponds to the hypothesis in theory.
+
+The sixth step is trial, and the Anglo-Saxon conservative
+plan of gradual approach is found to be thoroughly scientific.
+We have here an analogy with experiment and unification in
+biology, even to vivisection. For this very reason, since the
+experiment must be tried on large groups of sentient persons,
+both prudence and humanity require caution.
+
+The fifth and the sixth steps can be taken only by men who
+are actually dealing with some field of administration, or who are
+in very close and confidential relations with the men of tech-
+nique. For it cannot too often be reiterated and emphasized
+that regulative principles are in life, are discovered by purposeful
+effort, and must remain unknown to those who are ignorant of
+actual experience.
+
+The working hypothesis is constantly improved through the
+“dialectic” of experience, imagination, reasoning, and more
+experience.
+
+We may consider the familiar ‘temperance problem” in order
+to illustrate the application of the method proposed. It will be
+understood that the facts are summarized, without the support of
+statistical material or statements of authorities.*
+
+We have in the temperance question a true social problem, a
+community interest. The evils of intemperance affect all citi-
+zens. Not one individual can escape the burden of taxation,
+the dangers to life, property, and morals, incident to the liquor
+traffic. All interests of all citizens are affected. Health is
+involved, directly and indirectly. Inebriates-transmit and com-
+municate disease ; frighten the weak and timid ; drive their wives
+to misery. Economically the effects are seen in the destruction
+of food materials to manufacture alcohol, in the reduction of
+industrial efficiency of workmen, in the increase of loss by fire
+and fraud, in the cost for pauperism and crime. Aésthetic life
+suffers in many and most obvious ways. Educational progress
+is checked, and teachers are ill paid, while brewers roll in wealth
+at cost of the laborers. The impulses of fellowship are per-
+verted and debased. The man of truth and honor becomes a
+liar and a beggar, his moral nature falling fatally with the
+organic changes in his brain caused by alcohol.
+
+1 Many of the recent statistics are given in C. D. WRIGHT, Practical Sociology,
+with references to sources.
+The complete mastery of this subject cannot be compassed
+without deriving data from the fields of many specialists in
+the fields of biology, economics, jurisprudence, administration,
+ethics, psychiatry. The statistical investigation alone is an
+enormous task.
+
+The end.—No progress can be expected unless the commu-
+nity foresees with clearness what it wants to accomplish. Nor
+is it sufficient to agree that we desire to promote the virtue of
+temperance. Ancient systems of ethics have admitted self-
+control among the cardinal qualities of good character, and
+there is no controversy over this vague claim. But the moment
+we attempt to define the conduct of the temperate man in society
+we are compelled to collect evidence, for we are met with radi-
+cal differences of opinion, and many communities are divided.
+This controversy among the people is mainly due to conflict of
+medical authority. There can be no final agreement as to social
+aims until the physicians find common ground, until the experts
+can tell us how much alcohol can be imbibed without danger,
+and with advantage to health, under the various conditions of
+age, sex, financial ability, climate, occupation. An unsettled
+problem in medicine and physiology is unsettled in social
+ethics.
+
+We can count on sufficient agreement for a basis of commu-
+nity action in respect to excess and certain manifestly improper
+and injurious uses of alcoholic beverages; and we can make
+plans with hope of success so far as authority has reached a
+conclusion. Individuals may have for themselves a more austere,
+perhaps a higher ideal, but they cannot hope to make this a
+social aim in the present conflict of expert opinion.
+
+Causal conditions.—Intemperance, defined as an excessive
+and improper use of alcoholic drinks by large classes of the
+community, is the phenomenon to be explained. We have to do
+with a social custom and its effects.
+
+The procedure of the Committee of Fifty is an illustration of
+the influence of sociology in modern methods of attacking a
+social problem, and its investigations are both theoretical and
+practical, in the sense of the words used in this paper. They
+attempt to consider (1) the physiological questions involved ;
+(2) the economic aspects; (3) the ethical aspects; (4) legisla-
+tion. Perhaps other sides will be studied. It is certain that at
+the conclusion of the special investigations a survey of the
+entire evidence will be necessary in order to show the bearing
+of each particle of evidence in relation to every other, and to
+bring out the cumulative force of the facts. To marshal the
+most instructive and convincing facts which explain the appetite
+for stimulants and the social customs which grow out of it
+would be to repeat a large part of the contents of such vol-
+umes.
+
+The fourth step is the study of past and present social meth-
+ods of dealing with the problem of intemperance, and especially
+with the liquor traffic.
+
+By an inductive process we may array all the conscious
+efforts of communities to secure customary conformity to the
+ideal of self-control, moderation in the use of alcoholic stimu-
+lants. This investigation would present an impartial survey
+of (1) the hortative method, or “moral suasion” movement, of
+moderates and total abstainers, represented by Father Matthew
+and John B. Gough; (2) the various methods of legal control —
+license, high tax, mulct, and prohibitive laws, the dispensary
+and Norwegian systems, and others; (3) the educational method —
+teaching in schools, lectures, publications; (4) the influence of
+modern machinery and organization of industry —the discharge
+of employés of railroads for drinking or resorting to saloons ;
+(5) the discipline of social criticism and example; (6) the influ-
+ence of the church and ministry ; (7) the labors of associations,
+temperance societies; (8) the indirect influence of general
+improvements, as better housing, sanitation, recreations, athletics,
+baths, public comfort stations.
+
+From this investigation of actual methods and their results
+we may derive regulative principles. The study of causes reveals
+the motives which induce men to drink and drink to excess:
+weariness, exhaustion, discomfort at home, sociability of saloons,
+fashion, idleness, narrow range of interests.
+
+The survey of all the means which have actually succeeded,
+in some measure, in mitigating, and, in some cases, removing,
+the evils of intemperance brings up into clear consciousness
+this law: that the temperance reform is simply a part of the
+whole process of social pedagogics; that it cannot be promoted
+apart from the other movements toward the whole good of all
+society. We are thus forced to the conclusion that the funda-
+mental regulative principle is: ‘‘ Elevate the race at once.” The
+effective means for mitigating the evils of drink are precisely
+those which are involved in a wise charity, a wise prison reform,
+a wise housing movement, a wise educational system for all
+classes, a wise economic movement.
+
+The construction of a program of temperance reform.—According
+to the conclusion just stated—assuming that it would be
+reached by investigation—a rational program of temperance
+reform is nothing more nor less than a system of social peda-
+gogics, which embraces all the ends of education, all the means
+of moral training and discipline, all the community means of
+control and direction ; but which also assigns to different persons
+and associations a definite task in the program, as each man in
+an orchestra must play the instrument he knows, but with rela-
+tion to what others are doing at the same time and in the ren-
+dering of the same complex composition.
+
+The program of temperance reform, to use an analogy drawn
+from medical practice, may include a general tonic treatment
+for the constitution and also specific medication for particular
+symptoms. Among specific measures those mentioned above
+are all applicable, each in adaptation to needs and surround-
+ings.
+
+The experiment—The trial of our hypothesis of practice is
+going forward in all European countries and in all the states of
+the United States. The function of social technology is to give
+intellectual organization to this experiment; to make it part of
+a rational system ; to distinguish between special local conditions
+and general laws of conduct, and thus give the wisest direction
+to the application of the regulative rules.
+
+The temperance question may be studied on any scale, and
+very modest ability may become useful if it applies a large and
+comprehensive method within a narrow territory. On a state or
+national scale great financial resources are required; but the
+study of a village, a ward, a district, may be done thoroughly
+well by a private student, and the results will be valuable to
+check or verify the results reached by the larger scheme.”
+
+C. R. HENDERSON.

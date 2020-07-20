@@ -1,0 +1,2078 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+The health effects of marital status are frequently cited in the current debate on marriage
+promotion, but little is known about how marital health effects vary across groups. This
+article assembles the largest properly longitudinal and nationally representative dataset
+of elderly married couples in the United States (N = 410,272 couples) and provides
+strong evidence that the “widowhood effect” —how the death of a spouse increases the
+mortality of the survivor—varies substantially by race. The authors find that whites
+married to whites suffer a large and enduring widowhood effect. By contrast, blacks
+married to blacks do not suffer a detectable widowhood effect, possibly because they
+manage to extend the survival advantage of marriage into widowhood. For racially
+intermarried men, wife's race appears to dominate the size and presence of the
+widowhood effect entirely, regardless of husbands own race. These results likely arise
+from differences in the marital cultures and marital contexts of black and white couples.
+More generally, these results demonstrate that the health effects of social ties depend on
+the individual attributes of the actors they connect.
+ciation is at least partly causal (Lillard and
+Waite 1995; Lillard and Panis 1996).
+
+Comparatively little is known, however, about
+how the widowhood effect depends on attributes
+of the affected individuals. Previous studies
+have tended to focus on the simple presence ver-
+sus absence of a marital tie while paying little
+attention to how the characteristics (or actions)
+of spouses may influence the health outcomes
+of their union. In network analytical terms, pre-
+vious work has stressed the existence over the
+content of social ties, and has underplayed the
+interaction between the attributes of social actors
+and the social ties that connect them.
+
+What many studies lack, in other words, is
+attention to effect heterogeneity. Some concern
+for traits of individuals connected by a marital
+tie is, of course, reflected in the simple fact that
+the widowhood effect is typically assessed sep-
+arately for men and women, but other dimen-
+sions of potential variation are almost
+universally neglected. With one inconclusive
+exception (Schaefer, Quesenberry, and Wi
+1995), research on race differences in the wid-
+owhood effect is nonexistent. Effect hetero-
+geneity is important for at least two reasons.
+First, critical attention to the way widowhood
+might have different effects in different popu-
+lation subgroups may contribute to an improved
+understanding of the mechanisms by which
+social relations produce health outcomes. If
+widowhood is harmful in some circumstances
+but not in others, then those circumstances may
+be relevant to the mechanism by which wid-
+owhood exerts its effect on mortality. Second,
+effect heterogeneity may inform current policy
+debates that appear to assume a uniform effect
+of marriage for everybody. To the extent that
+widowhood is more harmful, or marriage more
+beneficial, in some groups than in others, the
+study of effect heterogeneity sheds light on
+whether interventions to foster marriage, or
+meliorate the consequences of marital loss,
+could beneficially be focused.
+
+This paper investigates effect heterogeneity
+in the widowhood effect as a function of the race
+of each spouse. We hypothesize that race-specific
+differences exist because race captures factors
+that shape the health implications of marriage and
+widowhood. Thus, we view race as a proxy for
+diversity in marital cultures and marital contexts
+rather than as a causal factor in its own right
+(Winship and Sobel 2004). Our empirical analy-
+sis begins by contrasting the widowhood effects
+suffered by black spouses and white spouses in
+racially endogamous (same race) couples. We
+then compare these to the widowhood effects
+suffered by black spouses and white spouses in
+racially exogamous (intermarried) couples.
+Finally, we investigate how the widowhood effect
+evolves over the duration of bereavement and
+repeat the race-specific analyses in terms of the
+trajectory of the widowhood effect. Results doc-
+ument drastic racial differences in the health
+effects of marriage and widowhood between
+black and white couples. Interestingly, wife’s
+race appears more important in determining these
+race differences than husband’s race, suggesting
+a gendered dynamic of race in bereavement.
+
+To permit this investigation, we develop a
+novel dataset. Research on heterogeneity in the
+widowhood effect requires a sufficient number
+of deaths and bereavements within each group
+under consideration. Most standard social sci-
+ence datasets, however, are either too small or
+too youthful to fulfill this requirement, because
+most deaths—and most spousal deaths—occur
+among the elderly.! While some existing datasets
+Before we can outline the possible relevance of
+race for the widowhood effect, some comments
+on the postulated mechanisms by which mar-
+riage confers health benefits and by which wid-
+owhood is harmful are necessary. Given the
+possibility that the widowhood effect may
+change over the duration of bereavement, we
+classify explanatory mechanisms by dividing the
+widowhood effect into two components: first,
+the long-term difference between the salubrious
+attributes of marriage and the detrimental qual-
+ities of widowhood; second, the transitional
+health burden, if any, of the actual transition
+from marriage to widowhood.
+
+To account for the long-term survival advan-
+tage of married individuals relative to those
+who never married, sociologists emphasize the
+social integration in marriage through shared
+household living, which provides married spous-
+es with a ready source for emotional support and
+direct care in case of illness (Christakis and
+Allison 2006; Litwak and Messeri 1989).
+Spouses, particularly wives, promote healthy
+behavior by encouraging regular eating and
+sleeping habits, supervising medication intake,
+and discouraging risky and unhealthful behav-
+iors (Umberson 1987, 1992). Furthermore, mar-
+ried spouses may reap information and social
+support benefits from the extended reach of
+their respective friendship and kinship networks.
+Economic approaches advance similar argu-
+ments, phrased in terms of marital economies
+of scale and efficiency gains from the household
+division of labor (Becker 1981). Empirically,
+men appear to draw benefits more from the
+household labor of their wives, whereas the
+mortality advantage for women appears to
+derive primarily from the financial contribu-
+tions of their husbands (Trovato and Lauris
+1989; Lillard and Waite 1995).
+
+Upon the death of a spouse, many of the
+health benefits of marriage decrease or disap-
+pear. Traditionally, men lose their primary care-
+giver (Umberson, Wortman, and Kessler 1992),
+while widowed women suffer from reduced
+economic resources (Lillard and Waite 1995).
+Widows and widowers report less healthy
+lifestyles than do married individuals: increased
+smoking and less physical activity among men
+(Umberson 1987, 1992), and loss of appetite and
+body mass among women (Shahar et al. 2001).
+Consistent with reduced spousal health super-
+vision and a reduced reach of medical referral
+networks, widowhood decreases the likelihood
+of admission to high-quality hospitals in case of
+serious illness for both men and women
+(Iwashyna and Christakis 2003). Increased mor-
+tality from chronic diseases with long latency
+periods shortly following the death of a spouse
+(Martikainen and Valkonen 1996a) is further
+evidence for a possible decline in the quality of
+medical care due to widowhood.
+
+Nevertheless, despite the negative health
+impact of widowhood, widowed individuals
+may have a lasting advantage over never-mar-
+ried individuals (Lillard and Waite 1995),
+because some benefits of marriage do not ter-
+minate with the death ofa spouse. For example,
+bereaved individuals may hold on to all or part
+of the survival advantage of marriage because
+of higher pension payments or social security
+entitlements derived from the employment his-
+tory of a deceased spouse. They may enjoy the
+continued support from affinal kin (spouse’s
+relatives) not available to never-married indi-
+viduals. Moreover, they may benefit from
+behavioral conditioning, by which the spousal
+control of health behavior extends beyond the
+grave. Marriage may thus exert what we call a
+“memory effect” to shield bereaved individuals
+from increased mortality in widowhood. The
+strength of such a memory effect might depend
+on many factors, including the characteristics of
+the deceased spouse and of the surviving spouse.
+
+The difficulty of the actual transition to wid-
+owhood also likely contributes to the widow-
+hood effect. The transition to widowhood is a
+difficult process during which the survivor must
+Clearly, the combination of the factors just out-
+lined leaves room for considerable heterogene-
+ity in size and trajectory of the widowhood
+effect. Variations in (a) the difference between
+the long-term health implications of marriage
+and widowhood, (b) the strength of the memo-
+ry effect by which the health benefits of mar-
+riage extend into widowhood, and (c) the size
+and duration of the short-term implications of
+the transition to widowhood may induce a vari-
+ety of trajectories in the hazard of death over
+time. Figure | illustrates three stylized poten-
+tial trajectories.
+
+Figure 1A describes the trajectory most con-
+sistent with conventional expectations about
+the effects of marriage and widowhood on the
+hazard of death. Here, marriage exerts a pro-
+tective effect and lowers mortality compared
+to singlehood. The difficulty of adjusting to
+widowhood creates a spike in mortality imme-
+diately following bereavement, after which the
+hazard of death returns to almost premarital
+levels in the long run. Figures 1B and 1C
+describe less expected, yet nonetheless possible,
+scenarios. In Figure 1B, bereaved individuals
+avoid suffering a widowhood effect, but only at
+the cost of never gaining a survival advantage
+from marriage to begin with. In Figure 1C,
+bereaved individuals also do not suffer a wid-
+owhood effect, but for very different reasons.
+Here, individuals do gain a survival advantage
+from marriage and manage to maintain this sur-
+vival advantage even after their spouse has died,
+perhaps due to memory effects of marriage.
+Note: (A) Standard expectation for the trajectory of the hazard of death, h(t), over time: lowered mortality in
+marriage, return to high mortality in widowhood in the long run after a transitional spike immediately following
+bereavement. (B) No long-term widowhood effect due to absence of a protective effect of marriage. (C) No long-
+term widowhood effect due to extension of protective effect of marriage into widowhood. For clarity, all figures
+suppress the individual-level increase in the hazard of death over time.
+effect, as previous research lends support to
+various features from different scenarios depict-
+ed in Figure 1. Figure 1A, the expected trajec-
+tory of the hazard of death over the marital life
+course, emerges when we combine the results
+of two well-known studies. From Lillard and
+Waite (1995), Figure 1A takes the decrease of
+the hazard of death upon entry into marriage and
+the long run return to almost premarital levels
+of mortality in widowhood. Lillard and Waite,
+however, do not trace the development of the
+widowhood effect over the duration of bereave-
+ment, such that their study is not informative of
+any additional mortality burden during the tran-
+sition to widowhood. Martikainen and
+Valkonen’s (1996b) Finnish study, by contrast,
+has no information on the entry into marriage,
+but it documents the existence of a transitional
+spike in mortality as well as the long-term ele-
+vation of mortality in widowhood compared to
+marriage. In line with a smaller transitional
+spike in mortality immediately following
+bereavement—portrayed in extremis as the total
+absence of a transitional spike in Figures 1B and
+1C—Christakis and Iwashyna (2003) find that
+steps taken to ease the shock and burdensome-
+ness of spouse’s death, such as hospice care, may
+mitigate the adverse consequences of the tran-
+sition to widowhood. The only large U.S. study
+known to us charting the trajectory of the wid-
+owhood effect by duration of bereavement, how-
+ever, finds a pattern that is at odds with all the
+trajectories considered in Figure 1. Using health
+insurance records from California, Schaefer et
+al. (1995) find no statistically significant excess
+mortality during the first six months of wid-
+owhood among either men or women after
+adjusting for baseline covariates, and maximal
+excess mortality during months 7-12. We are
+not aware of any theoretical explanation for this
+pattern, though it may relate to the cumulative
+effect of the loss of social support over time. Our
+study revisits the issue of the trajectory of the
+widowhood effect in the contemporary United
+States in the context of investigating racial dif-
+ferences in the widowhood effect.
+Previous research on race differences in the
+health effects of marital status and of the wid-
+owhood process is extremely limited. The only
+direct test of race differences in the effect of wid-
+owhood on mortality known to us finds no sig-
+nificant difference between blacks and whites
+(Schaefer et al. 1995), though this study was
+limited by a small sample of blacks and by its
+regional rather than national focus. Two other
+studies touch on the issue, but similarly fail to
+yield clear results. In a cross-sectional com-
+parison of age-specific mortality among mar-
+ried and unmarried individuals, Litwak and
+Messeri (1989) find that blacks, on average,
+appear to receive fewer health benefits from
+marriage than whites. This race difference, how-
+ever, attenuates with age among men, and
+reverses direction among elderly women, such
+that black women ages 65 and older appear to
+reap a greater health advantage from marriage
+than white women. Litwak and Messeri, how-
+ever, compared married to all unmarried indi-
+viduals and did not distinguish between
+never-married and widowed individuals; con-
+sequently, their results do not isolate the effect
+of widowhood on mortality. Carr (2004a) inves-
+tigates the effect of widowhood on psycholog-
+ical outcomes among a regional sample of black
+and white respondents and finds no clear pat-
+tern in race differences; blacks report signifi-
+cantly lower levels of anger and despair in
+widowhood, but do not differ in levels of grief,
+yearning, shock, depressive symptoms, and anx-
+iety.
+
+In our opinion, this lack of clear previous
+findings on race differences in the widowhood
+effect may relate more to sample size restrictions
+than to a genuine absence of race differences in
+the population. Drawing on work that docu-
+ments systematic differences in black and white
+marriages (different “marital cultures” accord-
+ing to some [Orbuch and Eyster 1997]) as well
+as systematic differences in how black couples
+and white couples relate to their social envi-
+ronment (different marital contexts), we hypoth-
+esize that the termination of marriage by death
+of a spouse will lead to a smaller widowhood
+effect among black couples than among white
+couples for several reasons.
+
+First, and perhaps most important, black
+spouses have a clear advantage over white
+spouses with respect to social integration and
+social support in widowhood, because of pro-
+nounced differences in household composition
+in old age. Unmarried elderly blacks are almost
+twice as likely as whites (approximately 40 ver-
+sus 20 percent) to live with relatives (Ruggles
+1994; Goldscheider and Bures 2003), a differ-
+ence that is robust to socioeconomic controls
+(Farley and Allen 1987). Lillard and Waite
+(1995) document that shared living arrange-
+ments reduce mortality among the widowed
+through increased household income and
+economies of scale. We further expect that the
+presence of relatives in the household will
+reduce mortality among widowed individuals by
+substituting for the loss of spousal promotion of
+healthy behavior and by enabling ready assis-
+tance with the tasks of daily living and routine
+health care. The greater prevalence of nonmar-
+ital coresidence in old age among blacks should
+thus protect them from the widowhood effect by
+mitigating the loss of social integration arising
+from widowhood and replacing the essential
+pre-professional health care typically rendered
+by spouses.
+
+Second, widowed blacks may enjoy survival
+advantages over widowed whites because of
+greater social support from persons who do not
+live in the same household, although previous
+research on this point is less clear. Typically,
+qualitative researchers find that black adults
+enjoy much greater social support than whites
+(e.g., Stack 1974), whereas large-sample quan-
+titative research on the social networks of blacks
+and whites reports conflicting findings (e.g.,
+Patterson 1998; Sarkisian and Gerstel 2004).
+There is some evidence, however, that blacks
+may indeed enjoy greater social support than
+whites in old age. For example, Silverstein and
+Waite (1993) find that old black women are
+more likely than old white women to receive
+instrumental support from individuals not liv-
+ing in the same household and that the differ-
+ence increases with age (black men, however,
+are less likely to receive instrumental support).
+Ajrouch, Antonucci, and Janevic (2001) find
+that despite having smaller social networks than
+whites, blacks maintain closer contact with net-
+work members and count more family members
+in their networks. Non-coresident relatives play
+a central role in the care of the elderly (Taylor,
+Chatters, and Mays 1988; Spitze and Logan
+1990), and some research suggests that elderly
+blacks enjoy more social support because of a
+more inclusive definition of kinship (Johnson
+2000). Finally, blacks have a higher level of
+religious participation than whites (Taylor et
+al. 1996), which greatly enhances their oppor-
+tunities for marshalling social support in crisis
+situations (Hatch 1991).
+
+Third, black spouses may experience a small-
+er widowhood effect than white spouses because
+endogamously married black couples adhere to
+a less rigidly gendered division of labor (see
+McLoyd et al. 2000 for a review). Historically,
+black wives have been more likely to participate
+in the labor market and to contribute a rela-
+tively larger share of family income than white
+wives (Patterson 1998). Black husbands in turn
+perform a greater share of household labor and
+child rearing (Orbuch and Eyster 1997), are
+more likely to approve of working wives, and
+value female contributions to family income
+more highly than do white husbands (Blee and
+Ticamyer 1995). While task specialization can
+create efficiency gains in marriage (Becker
+1981), it simultaneously engenders mutual
+dependence, which becomes a liability with
+potentially serious health implications upon the
+death of a spouse (Oppenheimer 1997).
+Comparatively less task specialization in mar-
+riage may thus protect black spouses from some
+of the adverse implications of widowhood by
+promoting self-sufficiency and fostering skills
+of independent living. In a stark illustration of
+the dangers of gendered marital division of
+labor, Lillard and Waite (1995) find that the
+economic loss of widowhood, net of other
+covariates, explains the entire effect of widow-
+hood on mortality among women. Less drasti-
+cally, the assumption of household chores in
+widowhood increases the vulnerability to
+depression among men (Umberson et al. 1992).
+Both men and women suffer greater anxiety in
+widowhood if they had been dependent on their
+spouse for specific household tasks (Utz et al.
+2004).
+
+Fourth, black spouses may suffer less detri-
+ment in widowhood than white spouses because
+endogamously married black couples consis-
+tently report lower average marital quality than
+do whites, even net of controls (see McLoyd et
+al. 2000 for a review). Lower average self-
+reported marital quality may contribute to
+greater independence in marriage among black
+spouses compared to white spouses (Adelman,
+Chadwick, and Baerger 1996), and thus better
+prepare blacks for the increased isolation of
+widowhood. Research on the psychological
+adjustment to widowhood has shown that the
+loss of a spouse in a conflicted marriage leads
+to fewer psychological problems than the loss
+of a spouse in a happy marriage (Carr et al.
+2000; Carr 2004a, 2004b). Together, these fac-
+tors may help to explain why endogamously
+married black men and women might, on aver-
+age, fear the death of their spouse less than
+their white counterparts (Adelman et al. 1996).
+
+We can employ these arguments about racial
+differences in marriage and widowhood to
+derive tentative predictions about the expected
+trajectories of the widowhood effect suffered by
+endogamously married blacks and whites
+respectively. For whites, we see no reason to
+doubt that the trajectory of the widowhood
+effect will conform to conventional expecta-
+tions charted in Figure 1A, in line with previ-
+ous results by Lillard and Waite (1995) and
+Martikainen and Valkonen (1996b). Among
+blacks, greater spousal independence due to
+lower levels of task specialization in marriage
+and lower average self-reported marital quali-
+ty will likely reduce the size of the widowhood
+effect by reducing the survival advantage of
+marriage relative to premarital levels of mor-
+tality, as pictured in Figure 1B. At the same
+time, the much greater prevalence of shared
+household living among unmarried elderly
+blacks, and greater social support from non-
+coresident individuals will likely reduce the
+size of the widowhood effect among blacks rel-
+ative to whites by providing functional substi-
+tutes for the social integration of marriage, thus
+creating a memory effect enabling widowed
+blacks to maintain the lower, marital levels of
+mortality even after the death of their spouse.
+Higher levels of religiosity and religious par-
+ticipation among blacks, as well as other factors,
+will provide bereaved black spouses with social
+and spiritual resources that could reduce the
+difficulty of the transition to widowhood. These
+latter arguments would predict a trajectory of the
+widowhood effect among blacks closer to Figure
+1C. Either way, endogamously married blacks
+Interracial marriage is rare (Qian and Lichter
+2004), especially among the elderly. Pervasive
+legal sanctions and rampant social disapproval
+discouraged racial intermarriage far into the
+twentieth century (Kennedy 2003). Accordingly,
+very little is known about morbidity and mor-
+tality in this population. Our data contain the
+largest longitudinal and nationally representa-
+tive sample of interracial couples currently
+available. Thus, they provide a unique oppor-
+tunity to investigate whether stark differences in
+the socio-historical experience of racially inter-
+married and racially endogamous couples trans-
+late into corresponding differences in the
+widowhood effect.
+
+Inasmuch as one can control for background
+differences between endogamous and inter-
+married couples, we can marshal the compari-
+son between endogamous and intermarried
+couples to introduce gender into the investiga-
+tion of race differences in the widowhood effect.
+Contrasting the widowhood effects suffered by
+racially endogamous and racially intermarried
+men and women can support inferences about
+the relative importance of husband’s versus
+wife’s race in determining racial variation in
+the widowhood effect. This would be impossi-
+ble if husbands and wives always shared the
+bands in the household production of health
+via wives’ centrality for household manage-
+ment, the social control of health behaviors,
+and maintaining contacts with friends and fam-
+ily (Harrison 1978; di Leonardo 1987;
+Umberson 1992; Stolzenberg 2001). On the
+other hand, it must be noted that estimates for
+gender differences in the widowhood effect vary
+considerably across studies (Wisocki and
+Skowron 2000). One recent and well-executed
+study even finds no meaningful gender differ-
+ence in the widowhood effect net of controls
+(Schaefer et al. 1995). With respect to race,
+Sarkisian and Gerstel (2004) find that race dif-
+ferences across multiple domains of inter-
+household-kin support hinge on different
+patterns of kin support among black and white
+women, whereas patterns of kin support among
+black and white men strongly resemble each
+other. If the greater importance of wives for
+the household production of health is related to
+their individual characteristics, and if black-
+white differences in social support are more
+pronounced among women than among men, we
+would cautiously expect that racial differences
+in the widowhood effect are more strongly tied
+to wife’s race than to husband’s race. To pick a
+specific example, since we expect black spous-
+es to suffer a smaller widowhood effect than
+white spouses for the reasons outlined earlier,
+a greater importance of wives’ race for deter-
+mining racial differences in the widowhood
+effect would imply that white men married to
+black women would suffer a smaller widowhood
+effect than white men married to white women,
+and potentially also than black men married to
+white women.
+effects of social connections depend on whom
+they connect.
+
+A slight twist is introduced by our focus on
+the dissolution, rather than creation, of marital
+ties. Since dead spouses are dead, any influ-
+ence of their personal characteristics on the
+mortality of the surviving spouse must neces-
+sarily derive from memory effects, which either
+maintain features of the now-dissolved mar-
+riage or index particular circumstances of wid-
+owhood that are associated with the
+characteristics of the deceased spouse.
+
+Specifically, we expect that endogamously
+married whites suffer a larger widowhood effect
+than endogamously married blacks because of
+racial differences in the organization of marriage
+and social support in widowhood. Second, we
+expect that this smaller widowhood effect
+among blacks will derive both from a smaller
+difference between the health implications of
+marriage and widowhood in the long run and a
+less burdensome transition to widowhood in
+the short run. Third, we expect to find differ-
+ences in the widowhood effect suffered by inter-
+married and endogamously married couples
+because of a different socio-historical experi-
+ence. Lastly, we cautiously expect to find evi-
+dence for a gendered dynamic of race in
+bereavement, by which wives’ race plays a larg-
+er role than husband’s race in determining racial
+differences in the widowhood effect because of
+wives’ centrality in the household production of
+health. As side benefits, our analyses will nec-
+essarily revisit the questions of a gender differ-
+ence in the widowhood effect and the trajectory
+of the widowhood effect over the duration of
+bereavement.
+Americans older than 65 (Hatten 1980); the
+Medicare Provider Analysis and Review
+(MedPAR) file (for 1991 and 1992), which con-
+tains diagnostic and other information for all
+hospitalizations in Medicare beneficiaries; and
+the 2002 Vital Status file, which provides demo-
+graphic information and death date follow-up
+for all individuals ever enrolled in Medicare,
+dead or alive. To this data, we merge county-
+level and zip code—level contextual informa-
+tion from the Area Resource File (Health
+Resources 1996), which compiles information
+on medical resources by county of residence,
+and the 1990 decennial Census, respectively.
+
+In the first step of data development, all
+Medicare beneficiaries older than 65 as of
+January 1, 1993 in the Denominator file were
+examined and subjected to spousal identifica-
+tion algorithms (Iwashyna et al. 1998). Out of
+an estimated 6.6 million elderly married couples
+where both partners were alive and older than
+65 at the beginning of the study, we detected
+5,496,444 couples (83 percent). Past work has
+shown this pool to be representative of all eld-
+erly married couples in the U.S. (Iwashyna et al.
+2002). The Vital Status file, drawn in late 2002,
+provides exact death dates for both spouses in
+the entire sample, if they had died. From the
+death dates of both members of each couple, we
+derive the outcome (time to death or censoring
+since January 1, 1993) and the key independent
+variable of interest (widowhood).
+
+We derive race classifications for both spous-
+es from the race and ethnicity variable in the
+Vital Status file. This variable was populated
+from the Social Security Administration’s
+Master Beneficiary Record (MBR) and has
+been verified and updated against the self-
+reported race classifications on beneficiaries’
+applications for (replacement) social security
+cards by CMS (Arday et al. 2000). Previous
+research indicates that the race information in
+Medicare files is well suited to support com-
+parisons between blacks and whites, but not
+between members of other races (Lauderdale
+and Goldberg 1996). We therefore restrict our
+analysis to couples where either partner is either
+non-Hispanic black or non-Hispanic white.
+Arday et al. (2000) estimate the positive pre-
+dictive values (PPV) of the black and white cat-
+egories in the Vital Status Record as 96.1 and
+98.4 percent, respectively (Table 3), denoting the
+probability that persons identified as black or
+white in the Vital Status file identified them-
+selves by the same race in the 1997 Medicare
+Current Beneficiary Survey. These PPVs are
+high, especially considering that measurement
+protocols and answer choices differed consid-
+erably between these two sources. Our supple-
+mentary analysis of the 2001 Census Quality
+Survey (U.S. Department of Commerce 2004)
+indicates that these PPVs are on par with the
+race codes in the Census.‘ We further improve
+the accuracy of the Vital Status race variables
+by adapting and implementing independently
+validated first- and last-name algorithms to
+remove Asian (Lauderdale and Kestenbaum
+2000, 2002) and Hispanic individuals (Word
+and Perkins 1996) who are incorrectly labeled
+non-Hispanic white or non-Hispanic black in the
+Vital Status file.°
+
+From the MedPAR files, we extract detailed
+health histories to control for differences in
+baseline morbidity. Following the recommen-
+dations of Zhang, Iwashyna, and Christakis
+(1999), we summarize the chronic disease bur-
+den at baseline by computing so-called Charlson
+co-morbidity scores (Charlson et al. 1987) from
+hospitalization records separately for each
+spouse. We trichotomize this measure of health
+burden into low, moderate, and severe (Charlson
+scores of 0, 1, and 2 or higher, respectively) and
+enter separate indicators for 1991 and 1992.
+We further include counts of the number of
+days each partner had spent in the hospital in
+1991 and 1992. Since individuals typically enter
+Medicare at age 65, we restrict the analysis to
+couples where both partners were older than
+67 at baseline to guarantee the availability of a
+full two years of health background controls
+for the entire sample. We also restrict our sam-
+ple to those less than 98 years old.® These
+detailed, physician-ascertained controls for con-
+founding by health status significantly exceed
+the (usually self-reported) health information
+available to previous studies of the widowhood
+effect.
+
+The Denominator file provides additional
+individual-level demographic information (i.e.,
+age and sex) from Social Security records; infor-
+mation on the couple’s area of residence; and a
+poverty indicator for the couple at baseline.”
+
+Knowledge of the area of residence (zip code)
+of all respondents in the dataset (from the 1993
+Denominator file) allows us to supplement our
+individual-level variables with extensive con-
+trols for couples’ residential context at base-
+line. The use of such area measures has been
+validated in the elderly, although it is not with-
+out limitations (Krieger 1992; Geronimus,
+Bound, and Neidert 1996). At the county level,
+we control for the crime rate and the availabil-
+ity of medical care as reported in the Area
+Resource File. At the zip code level, we control
+for urbanization, demographic composition,
+median home value, log median income, and
+median education, among other factors, which
+we draw from the Census Summary Tape File
+3B. Since the widowhood effect should hinge on
+marital coresidence, we exclude couples with
+discordant zip codes between husband’s and
+wife’s addresses. Lastly, the availability of con-
+textual information restricts our sample to cou-
+ples living in the 50 States.
+
+The final analysis employs a stratified sam-
+ple. From the pool of 5,496,444 detected mar-
+ried couples, we first draw a simple random
+sample of couples found by one method of cou-
+ple-detection (Iwashyna et al. 1998), which
+meets our race, age, and coresidence restrictions.
+We then include all remaining non-Hispanic
+black-white racially intermarried couples meet-
+ing the same restrictions. The final sample con-
+tains N = 410,272 elderly married couples, or
+an estimated 10 percent of the target population.
+We lose only 2.6 percent of the sample across
+analyses due to missing values.$
+
+As a further check, we validated the repre-
+sentativeness of our sample separately for each
+race group included in the analysis against the
+5 percent Public Use Micro Sample of the 1990
+Census. Our data show good to excellent agree-
+ment with the Census on all variables common
+to both datasets (see Online Supplement to this
+article, ASR Web site: http://www2.asanet.org/
+journals/asr/2005/toc049.html).
+Time to Death
+Age
+
+Couple-Race
+
+Widowhood(t)
+
+Interactions
+
+Health
+
+Poverty
+
+Region of Residence
+
+Residential Context
+
+Number of days from cohort inception (1/1/1993) to proband’s death. VS
+Censored on 1/1/2002 if still alive.
+
+Age to 0.1 years. Age squared. Age-order (on January 1, 1993). Entered Den.
+separately for both spouses.
+
+Four indicators for the race combination of husband and wife: both white; VS?
+
+both black; husband black and wife white; husband white and wife
+black. Restricted to non-Hispanic blacks and whites.
+
+Time-varying indicator of bereavement, = 1 from first day after spouse’s VS
+death (thus treating same day deaths as non-widowed deaths).
+
+Widowhood(t) X couple-race. VS
+
+Widowhood(t) X indicators for time since spouse’s death VS
+
+(<1, 2, 6, 12, 24, 36, 36+ months).
+
+Widowhood(t) X couple-race X indicators for time since spouse’s death. VS
+
+Trichotomized Charlson comorbidity scores for prevalence of chronic MedPAR?
+
+health conditions. Weeks spent in hospital. Entered separately for 1991
+and 1992 and both spouses.
+Indicates that either spouse enrolls in state buy-in program on the basis of Den.
+dual eligibility for Medicaid and Medicare in 1993, which implies living
+below or near the federal poverty level.
+
+Nine indicators for living in any of the nine geographic divisions of the Den.
+1990 Census in 1993.
+
+County level: Population density; violent crime rate; practicing medical ARF
+doctors per population; hospital beds per population.
+
+Zip-code level: Degree of urbanization; percent white, black, other race; Census
+
+percent foreign born; percent linguistically isolated; percent elderly;
+percent widowed among men and women; male unemployment rate;
+median home value; log median income; median education (percent
+below high school, high school, some college and above).
+
+Note: All models reported in this article include all of the above variables, except widowhood interaction terms,
+which are added as indicated in the text. VS = Vital Status file for 1993-2002; Den.= Denominator file for 1993;
+MedPAR = Medicare Provider Analysis and Review files for 1991 and 1992; ARF = Area Resource File for
+1990-1993; Census = Census Summary Tape File 3B for 1990.
+
+* The race variable from the VS source was cleaned using first- and last name algorithms as noted in the text.
+
+> Charlson scores were computed using all hospital exit diagnoses of the calendar year.
+Table 1 provides summary definitions for all
+variables included in our models. The key inde-
+pendent variable of interest, widowhood, enters
+the equation as a time-varying covariate. Same-
+day deaths are treated as non-widowed deaths
+for both spouses (n= 136, their inclusion has no
+impact on our results). Racial differences in the
+effect of widowhood on proband’s mortality as
+a function of own race and spouse’s race are cap-
+tured by a series of time-varying two-way inter-
+actions between widowhood and four
+“couple-race” categories (both white; both
+black; husband white and wife black; and hus-
+band black and wife white) with endogamous-
+ly married white couples serving as the
+reference category. The products of the coeffi-
+cients on the widowhood indicator and each of
+these interaction terms give the couple-race-
+specific main effects of widowhood. We test
+the pair-wise difference among couple-race-
+specific widowhood effects using Wald tests
+for linear combinations of coefficients using
+the STATA software package, release 8.0
+(StataCorp 2003).
+
+We recover the temporal trajectory of the
+widowhood effect for all respondents by inter-
+acting the widowhood indicator with a series of
+indicators of time since spouse’s death. We
+recover couple-race specific trajectories by
+entering triple interactions between widowhood,
+duration of widowhood, and couple-race.
+
+These interaction terms primarily serve our
+substantive interest in group-specific effect het-
+erogeneity in the widowhood effect. They also
+serve the important secondary purpose of relax-
+ing the Cox proportionality assumption, which,
+if violated, may bias our estimates (Hosmer and
+Lemeshow 2002). Since our primary interest in
+this paper concerns race differences in the wid-
+owhood effect, we are particularly mindful of
+two possibilities: first, that the race-specific
+effects of widowhood may evolve non-propor-
+tionally over time; second, that the baseline
+mortality of our four couple-race groups may
+evolve non-proportionally over time. The first
+potential problem is solved by the inclusion of
+three-way interactions between widowhood,
+couple-race, and time since bereavement. The
+Table 2. Sample Size By Gender of Proband, Survival to the End of Follow Up, and Widowhood at Time of
+
+Death or Censoring
+
+ 
+
+ 
+
+ 
+
+Not Widowed Widowed
+Couple-Race Total (%) Dead Alive Dead. Alive
+Male Probands
+Both white 388,794 (94.8) 166,964 140,659 34,981 46,190
+Both black 17,064 (4.2) 7,901 4,911 1,856 2,396
+Husband black, wife white 2,359 (0.6) 1,095 795 205 264
+Wife black, husband white 2,055 (0.5) 934 690 155 276
+Total 410,272 (100.0) 176,894 147,055 37,197 49,126
+Female Probands
+Both white 388,794 (94.8) 81,374 140,659 44,400 122,361
+Both black 17,064 (4.2) 4,266 4,911 2,254 5,633
+Husband black, wife white 2,359 (0.6) 474 795 255 835
+Wife black, husband white 2,055 (0.5) 432 690 243 690
+Total 410,272 (100.0) 86,546 147,055 47,152 129,519
+
+ 
+
+Note: Authors’ calculations. Unweighted sample frequencies. Both spouses are alive in all couples at cohort
+inception on January 1, 1993. End of follow up is January 1, 2002. All respondents are either non-Hispanic
+
+blacks or non-Hispanic whites.
+cient multivariate estimation. This holds par-
+ticularly for endogamously married spouses,
+where sample sizes range from 1,856 to 166,964
+observations per cell.
+
+Select sample statistics for the entire sample
+are displayed in the first column of Table 3. At
+cohort inception, the mean age of the husbands
+was 76.6 years, and of the wives 74.1 years. In
+79 percent of the couples, the husband was
+older than the wife; 4.6 percent of couples lived
+in poverty; and 7 percent of husbands suffered
+severe co-morbidity burden at baseline, com-
+pared to 4 percent of women.
+
+To-be-widowed couples—defined as those
+in which at least one spouse will have died by
+the end of follow-up—differ considerably at
+baseline from couples in which both spouses
+will remain alive, as shown in columns 2 and 3
+of Table 3. Spouses in to-be-widowed couples
+are older (4 years on average) and more likely
+to be poor (by 4.8 percentage points) than cou-
+ples in which both spouses are going to survive
+the nine-year study period. To-be-widowed hus-
+bands and wives are twice to three times as
+likely to suffer moderate co-morbidity and more
+than three times as likely to suffer severe co-
+morbidity burden in each of the two years pre-
+ceding baseline and have also spent more time
+in the hospital.? This strong association between
+the baseline health of both spouses and wid-
+owhood clearly documents the selection of
+unhealthy individuals into widowhood and high-
+lights the importance of adjusting for detailed
+measures of baseline health and prior health
+trajectories in the analysis of the widowhood
+effect. By contrast to these large individual-
+level differences, the differences between the
+residential environment of to-be-widowed and
+surviving couples are generally small.
+
+Baseline differences between the four couple-
+race groups are documented in the last four
+columns of Table 3. Interestingly, the four cou-
+ple-race groups resemble each other with respect
+to spouses’ age and health at baseline. They
+differ considerably, however, on poverty and
+residential context. Endogamously married
+whites and endogamously married blacks gen-
+erally mark the extremes and intermarried cou-
+ples fall in between (cf. White and Sassler 2000).
+Among endogamously married black couples,
+22 percent are poor, as compared to 4 percent
+of endogamous white couples and 12 percent of
+intermarried couples. Strong residential segre-
+gation by race is evident on most indicators of
+residential context. Couples in which at least one
+spouse is black are more likely to live close to
+other blacks, in urban, and in high-poverty areas;
+they are exposed to higher rates of violent crime
+and live in environments with greater unem-
+ployment, lower home values, and lower aver-
+age levels of education than endogamously
+married white couples. Interestingly, the resi-
+dential environment of couples consisting of a
+black husband and a white wife tend to resem-
+ble more the environment of endogamously
+married white couples, whereas couples con-
+sisting of a white husband and a black wife live
+in environments more similar to those of the
+average endogamously married black couple.
+This finding suggests a stronger role for wife’s
+race than the husband’s race in determining
+place of residence and social context.
+
+Because it is known that neighborhood char-
+acteristics and poverty are strongly related to
+racial differences in health and mortality
+(Geronimus et al. 2001), these large racial dif-
+ferences in couple-level poverty and residential
+environment mandate the inclusion of these
+variables in the multivariate analysis of racial
+differences in the widowhood effect.
+(z€°0) (ze'0) (ir'0) (610) (z1'0) (p70) (170)
+%ITT %L %L IZ %B'E %ST %E9 %9'b Ayranod,
+(z8"€) (Ole) (s"€) (18°) (€v'2) (soe) (18°)
+oly €0'r 86°€ IZ€ 08% Ise 97 sousrayIp ody
+(r'0) (ov'0) (er'0) (r'0) (r'0) (v0) (I¥'0)
+%b' IZ %8' 61 %9ve %8'0T %S IZ %L'07 %0'1Z Puegsny ueY) Jap]o ayIM
+(z6'r) (vor) (ses) (o¢'s) (9L'©) (09's) (o¢'s)
+€TEL vOEL 96'EL 6 bl 88 IL SPSL LVbL alan ‘a8
+(06's) (p8°s) (€6's) (89's) (0z'r) (88'S) (69's)
+LT9L 79°9L LS9L 9S°9L I6O'EL vO'8L 9S°9L Puegsny ‘ody
+OFM RTT OFLM OUUAN *oPI on, oary POMOPL, tv sojqeie,,
+/pueqsnyy ony, /puegsny 4oelg wog wog nog TosoJ-2]dn0 3D pur foao]-jenpratpuy
+
+ 
+
+aory-ajdnog
+
+eSTUBIE POOYMOPIAL
+
+ 
+
+sovy-ojdnog Aq pue dQ mojo Jo pug ot} ye pooymopimM Aq soyqeueA J99[9g Joy sonsHRIS cANduUDseg “¢ BIGU,
+(a8pd Jxau uo panuyuod)
+
+ 
+
+(8€°0)
+%OLI
+(os‘0)
+%S'SP
+(6€'0)
+%8'81
+(6€'0)
+%9'8I
+
+(v0)
+%VEL
+(os‘0)
+%OIS
+(6€°0)
+%0'61
+(c¢0)
+%L91
+
+(470)
+%9L
+
+(80)
+%L'79
+(6€'0)
+“psi
+(z€0)
+MEL
+
+(6€'0)
+%L'81
+(Ly'0)
+%B EE
+(so)
+%6'8T
+(6€°0)
+%S8I
+
+(or'0)
+%S' 61
+(L¥'0)
+%L'EE
+(sv'0)
+%ERT
+(6€'0)
+~%y'sI
+
+(8€°0)
+%SLI
+(8b°0)
+%O'9E
+(sb'0)
+WERT
+(s¢0)
+%I'8I
+
+(6€0)
+M81
+(8b'0)
+%TSE
+(sv)
+%E RZ
+(60)
+%W'SI
+
+SOMA
+
+anos
+
+oASOMPHA
+
+oS@q YON,
+“SouYM pure syxor|q SuoUe UOTZONpe URIPSU SI} YIIM Sopod diz UI UIA] s}UapUOdsal JO JUDIE p
+“suolesapisuod aovds Joy suoIa1 snsua_ INO} OJ SISA[eUL [LOTYSIIRIS OY} UI Pasn SUOISIAIP SnsUs_D s1YydeIS0Ed ouTU ay} SAUIqUIOD 91q4e} SIU 5
+
+“JOA9] @pOo-diz ay} UO paINswaUU d1v 9]Qe} SIU} Ul }X9JUOD [BUAPISAI JO SIOJBOIPUT JOY}O IB ‘[OABT AJUNOS dy} UO PaINSEOUL SI 9IBI DULID JUD|OLA g
+
+“QAlye UTBUIOI Sasnods Yy}Oq YOIYM Ul asoU) pur ‘7007 ‘| Arenuer pue 66] ‘| Arenues UdIMJ0q saIp asnods ou yseO] Je YOIYA UL OSOY} OWI poprAIp ase safdno_ ,
+‘ysonbos uodn ayqepieae are sajquuea []e JO} saanjdii9saq “| SGU] Ul Pojsl] SI So|qeLIVA [OUOD Jo jos [[NF
+SY ‘SaTQvLUeA [eNjX9}U09 dy} UO ATsouL ‘ajqeLIeA Jad saseo Sursstut yuso1ed 9°Z 0} dn ym ‘sofdnoo 7/70 p = N ‘Sosoyjuared UI SUOTLIAAP plepue}s ‘suONE NOLO ,sIOyINY -aloNy
+
+ 
+
+ 
+
+ 
+
+(ev'0) (sv'0) (ve'0) (Lr'0) (8¢'0) (9r'0) (Ly'0)
+%0'vZ WELZ %b' EL %bvE %O'LE %P'TE bee p289][09 aUIOg
+(sv'0) (9¥'0) (z¥'0) (840) (6v'0) (Ly'0) (84'0)
+%VIL %8'89 %LLL %L'E9 %E19 %7'99 ~r'r9 plooyps ysIH
+(70) (610) (670) (p10) (€10) (910) (st‘0)
+%6'V %BE %6'R %6'T %L'I %STZ %TT plooyps ysry wey ssoT
+(6¢'0) (6€°0) (8€'0) (se'0) (9€'0) (9€°0) (9¢'0)
+€10l 8101 96'6 8701 oe 01 Szvol L701 $ ‘owloour ueIpour SO]
+(60'¢) (€8°2) (ss'©) (12 (sz) (9€°2) (Z€°Z)
+%BS I'S %6'9 KP %e'P ~b'y ~'P quowAojduoun ae
+(96°1L) (L8°€L) (Zo'vs) (ZL'08) (918) (1€LL) (Z6°6L)
+86°98 60°68 1L'99 7L'S6 6°66 19°16 €r'r6 ($0001) entea ouroy ueIpo
+(6r'0€) (OL'L2) (L70€) (V7) (rsp (98°91) (87°91)
+%S8Z %9'T %1'0S %9'°9 %8L %16 %9'B pra
+($°9€) (€0'8¢€) (PT'Le) (pz'8¢) (98'L€) (6€'8€) (izse)
+IS bl 0S'0L Lev 07°89 €5°69 €6°L9 0s'89 xepur uoneztueqij)
+(8b°6) (97'6) (Pron (6L'9) (p8°9) (81'L) (90°L)
+8o8 964 6€01 6L'S 96'S €0°9 00'9 OYE OUILID JUSTOLA,
+OLN OPT OJIN ONUAN pr on, OAtly POMOPIA\ lv o1qenre,,
+/puegsny sy /puegsny org nog nog mod
+sovy-ajdnog eST4P}G POOYMOPIA,
+
+ 
+
+ 
+
+(panuyuoD) *¢ aIqeL
+a ee ee ee ee eee ee ee eee ee
+1.5
+
+ 
+
+Husband Widowed | | Wife Widowed
+
+Hazard Ratios
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.7 + T T 7 —r r r ————
+
+Husband / White / Black / White / Black / White / Black / White / Black /
+Wife White White Black Black White White Black Black
+al controls. Endogamously married black men,
+by contrast, do not suffer a detectable widow-
+hood effect (HR: 1.008; CI: [.958-1.062]; p >
+0.1). Qualitatively and quantitatively similar
+results are obtained for the widowhood effects
+suffered by endogamously married women.
+Endogamously married white women suffer a
+large widowhood effect upon the death of their
+husbands (HR: 1.162; CI: [1.146-1.177]; p <
+0.01), whereas endogamously married black
+women suffer no detectable widowhood effect
+(HR: 1.004; CI: [0.953—-1.057]; p > 0.1). The dif-
+ference between the widowhood effects for
+endogamously married blacks and whites is
+highly significant (p < 0.01) for both men and
+women. We emphasize that the lack of statisti-
+cal significance in the widowhood effect for
+endogamously married black men and women
+is not owed to imprecise measurement and lim-
+itations in sample size. Rather, the combination
+of very small point estimates and narrow con-
+fidence intervals suggests that the widowhood
+effects for endogamously married black men
+and women are indeed very close to zero.
+
+Our results for the widowhood effect among
+racially intermarried couples reveal a remark-
+able gender patterning in the effects of race.
+Among racially intermarried men, we find that
+black men married to white women suffer a
+large and statistically significant widowhood
+effect upon the death of their wives (HR: 1.215;
+CI: [1.045-1.414]; p < 0.05), whereas white
+men married to black women do not (HR: 0.943;
+CI: [0.794-1.120]; p > 0.1). Taken together with
+our finding of a large widowhood effect among
+endogamously married white men and no
+detectable effect among endogamously married
+black men, these findings suggest that the wid-
+owhood effect suffered by bereaved men varies
+not by their own race, but rather by the race of
+their wives.
+
+This conclusion is further bolstered by exam-
+ining the statistical significance of the pair-
+wise differences between the widowhood effects
+suffered by men in the four couple-race groups
+(Figure 2, first panel). The widowhood effect
+suffered by black men married to white women
+does not differ significantly from that suffered
+by white men married to white women net of
+controls (p > 0.1). Similarly, the estimate for
+white men married to black women does not dif-
+fer significantly from the estimate for black
+men married to black women (p > 0.1). The
+effect for intermarried black husbands is sig-
+nificantly larger than that for intermarried white
+men and that for endogamously married black
+men (p < 0.05). The effect for intermarried
+white husbands differs from that for endoga-
+mously married white husbands (p < 0.01); and,
+as stated earlier, the effect of endogamously
+married white men differs from the effect for
+endogamously married black men (p < 0.01).
+Thus, all six pair-wise contrasts between the
+widowhood effects suffered by men in the four
+couple-race groups support the conclusion that
+wife’s race dominates the size of the widowhood
+effect suffered by bereaved men, regardless of
+husbands’ own race: the death of a white wife
+leads to increased mortality in the surviving
+husband net of controls, whereas the death of a
+black wife does not lead to a detectable increase
+in mortality.
+
+We do not find a similar gendered race pat-
+tern in the widowhood effect suffered by women
+upon their husbands’ deaths (Figure 2, second
+panel). Among women, only endogamously
+married white women appear to suffer increased
+mortality following their husband’s death.
+Endogamously married black women do not
+experience a widowhood effect and differ sig-
+nificantly from endogamously married white
+women. The effects estimated for either group
+of racially intermarried women, however, can-
+not be statistically told apart from those for
+either group of endogamously married women.
+It may be that, even in our data, sample size, par-
+ticularly for intermarried women, may be insuf-
+ficient and the existing differences in effects too
+small to be distinguished empirically.
+
+These results are remarkably robust to the
+particular choice of control variables in the final
+model, which is consistent with the robustness
+of previous work on the widowhood effect
+among endogamous whites (Schaefer et al.
+1995; Lillard and Panis 1996; Martikainen and
+Valkonen 1996b). Indeed, a basic model con-
+trolling for nothing more than race and age of
+both spouses returns quantitatively similar esti-
+mates for the racial pattern of widowhood effects
+among men and women. Additional models
+(not shown) with age interactions showed no sta-
+tistically significant variation in the widow-
+hood effect by age for any group except for a
+modest decline among endogamously married
+white men and women at older ages, which did
+not affect the difference between the widowhood
+effects of endogamously married blacks and
+whites or the similarity of widowhood effects
+experienced by men and women.
+1.8
+
+ 
+
+1.6
+
+1.4
+
+1.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 “4-4 t T T u t
+0-11-22-3 3-6 6-12 12-24 24-36 >36
+
+Table 4. Temporal Trajectory of the Widowhood Effect: Proband’s Hazard of Death as a Function of Time Since
+Spouse’s Death By Couple-Race
+
+ 
+
+ 
+
+ 
+
+ 
+
+Couple-Race
+Months since Both Both Black Husband/ White Husband/
+Spouse’s Death All White Black White Wife Black Wife
+Male Probands
+0-1 1.52** 1.55** 1.06 2.07* 1.13
+1-2 1.43** 1.45** 1.30 0.53 1.16
+2-3 1.30** 1.31** 1.16 2.16* 0.29
+3-6 1.19** 1.20** 1.05 1.01 1.09
+6-12 De oad 123 1.05 1.22 0.78
+12-24 Det Se 1.16** 1.09 0.88 1.19
+24-36 1.14** 1.15** 0.97 1.10 0.94
+36+ 1.14** 1.15** 0.94 1.44* 0.85
+Female Probands
+0-1 1.62** 1.64** 1.22 1.29 1.81
+12 1.25** 1.26** 1.07 0.77 0.91
+2-3 1.18** 1.12** 1.05 0.25 0.91
+3-6 1.20** 1.21** 1.07 0.86 1.11
+6-12 1.17** 1.18** 1.08 0.76 1.11
+12-24 1.13** 1.14** 0.94 1.22 1.09
+24-36 1.13** 1.13** 1.00 1.12 0.93
+36+ 1.13** 1.14** 0.99 1.00 1.11
+
+ 
+
+Note: Authors’ calculations. Table displays hazard ratios for proband’s death from Cox models including all
+control variables (see Table 1) and triple interactions between widowhood, couple-race, and duration indicators
+for time since widowhood.
+
+* p< .05; ** p <.01 (two-tailed tests).
+Similarly, we cannot distinguish from zero the
+trajectory of white husbands married to black
+wives. The trajectory for black husbands mar-
+ried to white wives, however, is significantly dif-
+ferent from zero (at some durations) and does
+not differ significantly from the signature for
+endogamously married white men (at any dura-
+tion). Even as the experience of widowhood
+evolves over time, the excess mortality of
+bereaved men thus appears to be governed by
+the race of their now-deceased wives.
+
+Among female probands, as before, endog-
+amously married white women suffer a non-
+zero widowhood effect at every duration,
+whereas the temporal trajectories of the wid-
+owhood effect for all other couple-race groups
+are indistinguishable from zero or each other,
+also at all durations.
+
+Among endogamously married white men and
+women, we discern clear evidence for both tem-
+poral components of the widowhood effect. The
+stable, long-term elevated excess mortality of
+widowhood from the second year of widowhood
+forward documents the mortality disadvantage of
+the state of widowhood as compared to the state
+MorTALITY AMONG CURRENTLY MARRIED PER-
+SONS AND OTHER RESULTS. It is often noted that
+blacks suffer higher mortality than do whites.
+Demographic research demonstrates, however,
+that racial differences in mortality are reduced
+substantially or even disappear when compar-
+ing blacks and whites in the same area of resi-
+dence (Geronimus et al. 2001). In agreement
+with this research, we find no main effect of race
+on mortality in the model with couple-race spe-
+cific widowhood effects (see Table S2 on the
+Online Supplement) once residential context is
+controlled, except possibly for somewhat ele-
+vated mortality among endogamously married
+black women.!? This indicates that there are no
+race differences in mortality among husbands
+in the four couple-race groups, and only small
+race differences among women, as long as both
+spouses are alive.
+
+Results for the other variables in the model
+largely conform to prior work or expectations
+(see Table S2 on the Online Supplement).
+Mortality is at its lowest in New England and
+West North Central states, and highest in the
+South. Mortality increases with age, poverty, and
+poor baseline health, as well as with indicators
+of disadvantaged residential context, such as
+crime rate, unemployment rate, and lower aver-
+age education.
+that these differences, in turn, can shed addi-
+tional light on the etiology and reach of the
+widowhood effect. Empirically, we focus on
+effect heterogeneity in the widowhood effect as
+a function of the race of the husband and wife.
+Since all four combinations of race (white,
+black) and gender (male, female) are suffi-
+ciently represented in our data, and since indi-
+vidual-level information is available for all
+parties, we are not restricted to tracing effect het-
+erogeneity as a function of proband’s own race
+alone, but can also investigate how mortality dif-
+fers by the race of the deceased spouse. Thus,
+our data provide a unique opportunity for study-
+ing the interlinked roles of race and gender in
+modulating the effects of marital ties on mor-
+tality.
+
+Because close to 95 percent of elderly mar-
+ried couples in the United States are endoga-
+mously married whites, our results for this
+couple-race group provide the best point of
+comparison with previous work. Like earlier
+research, we find a large widowhood effect
+among endogamously married white men. We
+further confirm Schaefer et al.’s (1995) finding
+that white women, too, face a large and statis-
+tically significant widowhood effect that is not
+qualitatively lower than the widowhood effect
+suffered by men. This absence of appreciable
+gender differences contradicts most other
+research on the topic; however, this may also
+simply be a function of attenuating gender dif-
+ferences in old age and the fact that our sample
+is composed of elderly individuals (Wisocki
+and Skowron 2000). Unlike Schaefer et al.
+(1995), we find well-behaved trajectories for the
+evolution of the widowhood effect over the
+duration of bereavement among endogamous-
+ly married white men and women, as well as
+strong evidence for substantial long-term detri-
+ment from widowhood. Excess mortality is
+largest during the first month of bereavement
+and declines sharply until the third (women) to
+sixth (men) month of widowhood. The widow-
+hood effect plateaus from the second year of
+bereavement and remains highly statistically
+significant at substantively meaningful levels
+(HR: 1.14). We interpret this long-term wid-
+owhood effect as evidence for stable differences
+between the mortality implications of the mar-
+ried and widowed states. The short-term spike
+in mortality shortly following bereavement doc-
+uments the particular burden of transitioning
+between marriage and widowhood. Bereaved
+women appear to overcome this transitional
+burden faster than do bereaved men, although
+the initial spike among women is actually larg-
+er relative to their baseline risk. For endoga-
+mously married whites, it appears that nothing
+comes to compensate for the survival advantage
+bestowed by marriage, even after years of
+widowhood.
+
+In stark contrast to the foregoing results for
+endogamously married whites, we find no wid-
+owhood effect among endogamously married
+blacks—neither among men nor among women,
+neither short term nor long term. Near-zero
+point estimates paired with small confidence
+intervals in a large sample containing over
+17,000 black couples with extensive individual-
+level, couple-level, and contextual controls lend
+strong support to the conclusion that neither
+widowhood nor the transition to widowhood
+affect the survival prospects of endogamously
+married black men and women.
+
+A priori, the absence of a widowhood effect
+among endogamously married black men and
+women is compatible with two scenarios, pre-
+viously introduced in Figures 1b and lc. On
+one hand, blacks may not experience a widow-
+hood effect because, unlike whites, they never
+gained survival advantages from marriage in
+the first place (Figure 1b). On the other hand,
+blacks may have gained survival advantages
+from marriage, but unlike whites, manage to
+extend this marital survival advantage into wid-
+owhood (Figure 1c). Unfortunately, our data
+permit no direct empirical test to adjudicate
+between these two possibilities—since we lack
+data on entries into marriage, we cannot estimate
+the survival gain of marriage relative to pre-
+marital levels of mortality.
+
+Nonetheless, a straightforward indirect test
+between these two scenarios is indeed possible.
+First, note that prior work has convincingly
+shown that entry into marriage reduces mortality
+among whites (Lillard and Waite 1995). Second,
+our own results demonstrate that probands
+across all four couple-race groups face statisti-
+cally indistinguishable hazards of death in mar-
+riage, net of controls, as long as their spouses
+are alive.'* If endogamously married white
+spouses experience reduced mortality in mar-
+riage, and if the married mortality of other race
+groups is indistinguishable from married mor-
+tality among whites, then this would suggest to
+us that these other race groups, too, derive a sur-
+vival advantage from marriage. In sum, this
+would imply that endogamously married blacks
+escape the widowhood effect suffered by whites
+by extending the survival advantage of mar-
+riage into widowhood, as postulated in Figure
+Ic.
+
+We suggest three mechanisms to explain why
+endogamously married blacks may succeed in
+extending the protective effect of marriage into
+widowhood, while whites suffer increased mor-
+tality and experience a widowhood effect, as
+introduced earlier. First, our review of the lit-
+erature indicates that widowed elderly blacks are
+at a considerable advantage over comparable
+whites with respect to receiving social support
+from persons living inside the same household
+and probably also from persons living else-
+where. Notably, about 40 percent of unmarried
+elderly blacks live with relatives compared to
+only 20 percent of unmarried elderly whites
+(Goldscheider and Bures 2003). Given the cen-
+trality of kin in the care for the elderly, this
+racial difference in household composition like-
+ly goes a long way to substitute for the routine
+tasks of spousal health support and supervision
+upon which the marital health advantage may
+depend (Umberson 1987, 1992). Second, racial
+differences in the gendered household division
+of labor may instill greater self-sufficiency and
+reduce spousal task dependence among black
+spouses and consequently, on average, prepare
+them better for widowhood. Third, greater reli-
+giosity and religious participation among blacks
+may provide them with spiritual comfort and
+social resources for dealing with loss that are
+less available to whites. Such differences may
+also contribute to an explanation for the absence
+of a transitional spike in mortality among endog-
+amously married blacks.
+
+Our results for intermarried men show that
+intermarried couples differ in their experience
+of widowhood from endogamous white and
+black couples even net of controls. (We do not
+further discuss the results for racially inter-
+married women because estimates are too
+imprecise.) The results for intermarried men
+effectively introduce gender as an explanatory
+dimension for the racial differences in the wid-
+owhood effect uncovered here. Specifically, we
+find that marriage to a black wife protects men
+from the widowhood effect, whereas marriage
+to a white wife does not, regardless of hus-
+band’s own race. Pair-wise statistical compar-
+isons between the four couple-race groups
+confirm that wife’s race governs the size of the
+widowhood effect among men entirely. This
+finding is all the more interesting as we have not
+been able to ascertain any meaningful gender
+differences in the widowhood effect among
+endogamously married black and white spous-
+es of the kind found in most previous work on
+the widowhood effect. It is thus only through its
+interaction with race that gender assumes a role
+in determining heterogeneity in the widowhood
+effect.
+
+As in the case of endogamously married
+blacks, the lack of statistically significant dif-
+ferences in the hazard of death among husbands
+across all four couple-race groups, as long as
+their wives are alive, suggests that the absence
+of a widowhood effect among men of either
+race married to black women derives from their
+ability to maintain the survival advantage of
+marriage into widowhood. It does not suggest
+the irrelevance of black wives for husband’s
+survival.
+
+How could a wife’s race affect husband’s
+mortality when the wife is dead? Clearly, any
+effect on the husband’s current hazard of death
+cannot derive from her concurrent, active inter-
+ventions. Rather, any apparent effect of a
+deceased spouse’s attributes must either derive
+from memory effects that index characteristic
+aspects of the dissolved marriage, or be due to
+characteristic circumstances of the process of
+bereavement or the state of widowhood that
+correlate with the attributes of the deceased
+spouse. The dearth of research on racially inter-
+married couples, and elderly intermarried cou-
+ples in particular, as well as limitations in our
+data prevent us from imposing strong interpre-
+tations regarding the mechanisms responsible
+for the phenomenon at hand. In the very least,
+however, the importance of wife’s race for the
+widowhood effect in men is consistent with the
+known centrality of women in the household
+production of health, and with Sarkisian and
+Gerstel’s (2004) finding that black-white dif-
+ferences in social support are owed predomi-
+nantly to racial differences in the kin
+involvement of women rather than men.
+
+A new potential mechanism with regard to the
+role of women is raised by our finding that the
+residential environment of intermarried cou-
+ples resembles that of endogamously married
+couples on the basis of wives’ rather than hus-
+bands’ race. Wife’s race may thus contribute to
+the explanation of husband’s widowhood effect
+by deciding the nature of the neighborhood con-
+text in which the husband remains after the wife
+has died.!> Another mechanism may operate
+through the greater rejection of intermarried
+couples by white relatives than by black relatives
+(Romano 2003, ch. 3; Root 2001, ch. 2). Since
+wives are typically responsible for maintaining
+kinship networks (di Leonardo 1987), black
+men married to white women may be more like-
+ly to suffer isolation and lack of support from
+their in-laws upon the death of their spouse
+than black men married to black women or
+white men married to black women.'¢ Finally,
+the centrality of wives’ race for determining
+the presence or absence of a widowhood effect
+among bereaved husbands may indicate that
+the three factors suggested by us as being
+responsible for the absence of a widowhood
+effect among endogamously married black men
+(more coresident kin, less gender role special-
+ization, and greater religious involvement) may
+be more strongly anchored in the marital and
+widowed environment created by the female
+partner.
+
+Of course, observational studies, including
+the present one, can never fully exclude unmea-
+sured confounding factors as an alternative
+explanation for patterns seen in the data
+(Goldman 1993; Korenman, Goldman, and Fu
+1997). This holds particularly for unobserved
+differences in socio-historical context experi-
+enced by endogamous and interracial couples.
+We are cautiously optimistic, however, because
+the results presented here—particularly those for
+endogamously married whites—are remarkably
+robust to the introduction of control variables.
+This confirms previous findings in the literature
+supporting the causal nature of the widowhood
+effect (Schaefer et al. 1995; Lillard and Panis
+1996; Martikainen and Valkonen 1996b). Even
+the introduction of detailed, objective baseline
+health controls for both spouses into our model
+does little to affect the size of the estimated
+coefficients for any of our four couple-race
+groups once basic demographic factors and
+poverty status are controlled for. Any remain-
+ing unobserved confounding factor would have
+to operate through pathways independent of
+baseline health. Remarriage is unlikely to con-
+found our findings because very few widowed
+men, and even fewer widowed women, in this
+age group remarry (Clarke 1995). Similarly,
+we exclude cohabitation with a new romantic
+partner as an alternative explanation for the
+widowhood effect or racial differences therein,
+because only 2.6 percent of all unmarried indi-
+viduals over the age of 60 cohabit, and race
+differences in cohabitation are negligible
+(Chevan 1996).
+
+The consequences of marriage and marital
+transitions are increasingly at the forefront of
+social-political debates and current research in
+the sociology of the family. This study compli-
+cates the picture by documenting considerable
+and sharply patterned racial variation in the
+health effects of marital status transitions. We
+find a large and long-lasting widowhood effect
+for endogamously married white men and
+women, but we find no widowhood effect
+among endogamously married blacks. The
+absence of a widowhood effect among blacks is
+likely due to the extension of the marital survival
+advantage into widowhood. For blacks, unlike
+for whites, marriage may thus be beneficial
+even after it has ended. The availability of a
+large sample of intermarried spouses has further
+enabled us to investigate the gendered nature of
+these race differences in the widowhood effect,
+supporting surprising conclusions about the
+role of wives’ race.!” More generally, our work
+suggests that attributes of people to whom one
+is connected—in and of themselves or because
+they index contextual features—are relevant in
+understanding the salubrious nature of social
+ties.
+Psychological Sciences and Social Sciences
+56:112-18.
+
+Arday Susan L., David R. Arday, Stephanie Monroe,
+and Jianyi Zhang. 2000. “HCFA’s Racial and
+Ethnic Data: Current Accuracy and Recent
+Improvements.” Health Care Financing Review
+21:107-16.
+
+Becker, Gary S. 1981. A Treatise on the Family.
+Cambridge, MA: Harvard University Press.
+
+Blee, Kathleen and Ann Tickamyer. 1995. “Racial
+Differences in Men’s Attitudes about Women’s
+Gender Roles.” Journal of Marriage and the
+Family 57:21-30.
+
+Carr, Deborah S. 2004a. “Black/White Differences
+in Psychological Adjustment to Spousal Loss
+among Older Adults.” Research on Aging
+26:591-622.
+
+—. 2004b. “Gender, Preloss Marital
+Dependence, and Older Adults’ Adjustment to
+Widowhood.” Journal of Marriage and Family
+66:220-35.
+
+Carr, Deborah S., James S. House, Ronald C. Kessler,
+Randolph M. Nesse, John Sonnega, and Camille
+Wortman. 2000. “Marital Quality and
+Psychological Adjustment to Widowhood Among
+Older Adults: A Longitudinal Analysis.” Journal
+of Gerontology: Social Sciences 55B:S197-S207.
+
+Charlson, M. E., P. Pompei, K. L. Ales, and C. R.
+MacKenzie. 1987. “A New Method of Classifying
+Prognostic Comorbidity in Longitudinal Studies:
+Development and Validation.” Journal of Chronic
+Diseases 40:373-83.
+
+Chevan, Albert. 1996. “As Cheaply as One:
+Cohabitation in the Older Population.” Journal of
+Marriage and the Family 58:656-67.
+
+Christakis, Nicholas A. and Paul D. Allison 2006.
+“Mortality after the Hospitalization of a Spouse.”
+New England Journal of Medicine 354:in press.
+
+Christakis, Nicholas A. and Theodore J. Iwashyna,
+2003 “The Health Impact on Families of Health
+Care: A Matched Cohort Study of Hospice Use by
+Decedents and Mortality Outcomes in Surviving,
+Widowed Spouses.” Social Science and Medicine
+57:465-75.
+
+Clark, William D. and Melissa M. Hulbert. 1998.
+“Research Issues: Dually Eligible Medicare and
+Medicaid Beneficiaries, Challenges and
+Opportunities.” Health Care Financing Review
+20:1-10.
+
+Clarke, Sally C. 1995. “Advance Report of Final
+Divorce Statistics, 1989 and 1990.” Monthly Vital
+Statistics Report 42.
+
+di Leonardo, Micaela. 1987. “The Female World of
+Cards and Holidays: Women, Family, and the Work
+of Kinship.” Signs 12:440-53.
+
+Durkheim, Emile. [1897] 1997. Suicide. New York:
+Free Press.
+
+Farley, Reynold, and Walter R. Allen. 1987. The
+Color Line and the Quality of Life in America. New
+York: Russell Sage Foundation.
+
+Geronimus, Arline T., John Bound, and Lisa J.
+Neidert. 1996. “On the Validity of Using Census
+Geocode Characteristics to Proxy Individual
+Socioeconomic Characteristics.” Journal of the
+American Statistical Association 91:529-37.
+
+Geronimus, Arline T., John Bound, Timothy A.
+Waidmann, Cynthia G. Colen, and Dianne Steffick.
+2001. “Inequality in Life Expectancy, Functional
+Status, and Active Life Expectancy across Selected
+Black and White Populations in the United States.”
+Demography 38:227-51.
+
+Goldman, Noreen. 1993. “Marriage Selection and
+Mortality Patterns: Inferences and Fallacies.”
+Demography 30:189-208.
+
+Goldscheider, Frances K. and Regina M. Bures. 2003.
+“The Racial Crossover in Family Complexity in the
+United States” Demography 40:569-87.
+
+Gove, Walter R. 1973. “Sex, Marital Status, and
+Mortality.” American Journal of Sociology
+79:45-67.
+
+Harrison, James. 1978. “Warning: The Male Sex
+Role May Be Dangerous to Your Health.” Journal
+of Social Issues 34:65-86.
+
+Hatch, Laurie R. 1991. “Informal Support Patterns
+of Older African-American and White Women:
+Examining Effects of Family, Paid Work, and
+Religious Participation.” Research on Aging
+13:144-70.
+
+Hatten, James. 1980. “Medicare’s Common
+Denominator: The Covered Population.” Health
+Care Financing Review 2 (2):53-64.
+
+Health Resources and Services Administration,
+Bureau of Health Professions. 1996. Area Resource
+File (ARF) System. Fairfax, VA: Quality Resource
+Systems, Inc.
+
+Helsing, Knud J. and Moyses Szklo. 1981. “Mortality
+after Bereavement.” American Journal of
+Epidemiology 114:41-52.
+
+Hosmer, David W. Jr. and Stanley Lemeshow 2002.
+Applied Survival Analysis: Regression Modeling
+of Time to Event Data. New York: Wiley.
+
+House, James S., Karl R. Landis, and Debra
+Umberson. 1988. “Social Relationships and
+Health.” Science 241:540-5.
+
+Hoyert, Donna L., Hsiang-Ching Kung, and Betty L.
+Smith. 2005. “Deaths: Preliminary Data for 2003.”
+National Vital Statistics Reports 53.
+
+Hu, Yuanreng and Noreen Goldman. 1990. “Mortality
+Differentials by Marital Status: An International
+Comparison.” Demography 27:233-50.
+
+Iwashyna, Theodore J., Gerardine Brennan, James X.
+Zhang, and Nicholas A. Christakis. 2002. “Finding
+Married Couples in Medicare Claims Data.”
+Health Services and Outcomes Research
+Methodology 3:75-86.
+
+Iwashyna, Theodore J. and Nicholas A. Christakis.
+2003. “Marriage, Widowhood, and Health Care
+Use.” Social Science Medicine 57:2137-47.
+
+Iwashyna, Theodore J., James X. Zhang, Diane
+Lauderdale, and Nicholas A. Christakis. 1998. “A
+Methodology for Identifying Married Couples in
+Medicare Data: Mortality, Morbidity, and Health
+Care Use among the Married Elderly.”
+Demography 35:413-9.
+
+Johnson, Colleen L. 2000. “Perspectives on American
+Kinship in the Later 1990s.” Journal of Marriage
+and the Family 62:632-9.
+
+Kalmijn, Matthijs. 1998. “Intermarriage and
+Homogamy: Causes, Patterns, Trends.” Annual
+Review of Sociology 24:395—-421.
+
+Kennedy, Randall. 2003. /nterracial Intimacies: Sex,
+Marriage, Identity, and Adoptions. New York:
+Pantheon.
+
+Korenman, Sanders, Noreen Goldman, and Haishan
+Fu. 1997. “Misclassification Bias in Estimates of
+Bereavement Effects.” American Journal of
+Epidemiology 145:995—1002.
+
+Krieger, Nancy. 1992. “Overcoming the Absence of
+Socioeconomic Data in Medical Records:
+Validation and Application of a Census-Based
+Methodology.” American Journal of Public Health
+92:703-10.
+
+Lauderdale Diane S. and Jack Goldberg. 1996. “The
+Expanded Racial and Ethnic Codes in the Medicare
+Data Files: Their Completeness of Coverage and
+Accuracy.” American Journal of Public Health
+86:712-16.
+
+Lauderdale Diane S. and Bert Kestenbaum. 2000.
+“Asian American Ethnic Identification by
+Surname.” Population Research and Policy Review
+19:283-300.
+
+. 2002. “Mortality Rates of Elderly Asian
+American Populations Based on Medicare and
+Social Security Data.” Demography 39:529-40.
+
+Lillard, Lee A. and Constantijn Panis. 1996. “Marital
+Status and Mortality: The Role of Health.”
+Demography 33:313-27.
+
+Lillard, Lee A. and Linda J. Waite. 1995. “ ‘Til Death
+Do Us Part: Marital Disruption and Mortality.”
+American Journal of Sociology 100:1131-56.
+
+Litwak, Eugene and Peter Messeri, in collaboration
+with Samuel Wolfe, Sheila Gorman, Merril
+Silverstein, and Miguel Guilarte. 1989.
+“Organizational Theory, Social Support, and
+Mortality Rates: A Theoretical Convergence.”
+American Sociological Review 54:49-66.
+
+Martikainen, Pekka and Tapani Valkonen. 1996a.
+“Mortality after the Death of a Spouse: Rates and
+Causes of Death in a Large Finnish Cohort.”
+American Journal of Public Health 86:1087-93.
+
+1996b. “Mortality after Death of Spouse in
+Relation to Duration of Bereavement in Finland.”
+Journal of Epidemiology and Community Health
+50:264-8.
+
+McLoyd, Vonnie C., Ana Mari Cauce, David
+Takeuchi, and Leon Wilson. 2000. “Marital
+Processes and Parental Socialization in Families of
+Color: A Decade Review of Research.” Journal of
+Marriage and the Family 62:1070-93.
+
+Oppenheimer, Valerie K. 1997. “Women’s
+Employment and the Gains to Marriage: The
+Specialization and Trading Model of Marriage.”
+Annual Review of Sociology 23:431-53.
+
+Orbuch, Terri L. and Sandra L. Eyster. 1997.
+“Division of Household Labor among Black
+Couples and White Couples.” Social Forces
+76:301-32.
+
+Patterson, Orlando. 1998. “Broken Bloodlines:
+Gender Relations and the Crisis of Marriages and
+Families among Afro-Americans.” Pp. 1-168 in
+Rituals of Blood: Consequences of Slavery in Two
+American Centuries. Washington, DC:
+Civitas/Counterpoint.
+
+Preston, Samuel E., Irma T. Elo, Ira Rosenwaike,
+and Mark Hill. 1996. “African-American Mortality
+at Older Ages: Results from a Matching Study.”
+Demography 33:193-209.
+
+Qian, Zhenchao and Daniel T. Lichter. 2004.
+“Marriage and Family in a Multiracial Society.”
+New York: Russell Sage Foundation, and
+Washington, DC: Population Reference Bureau.
+
+Romano, Renee C. 2003. Race Mixing: Black-White
+Marriage in Postwar America. Cambridge, MA:
+Harvard University Press.
+
+Root, Maria P. P. 2001. Loves Revolution: Interracial
+Marriage. Philadelphia, PA: Temple University
+Press.
+
+Ruggles, Steven. 1994. “The Origins of African-
+American Family Structure.” American
+Sociological Review 59:136-51.
+
+Sarkisian, Natalia and Naomi Gerstel. 2004. “Kin
+Support among Blacks and Whites: Race and
+Family Organization.” American Sociological
+Review 69:812-37.
+
+Schaefer, Catherine, Charles P. Quesenberry Jr., and
+Soora Wi. 1995. “Mortality Following Conjugal
+Bereavement and the Effects of a Shared
+Environment.” American Journal of Epidemiology
+141:1142-52.
+
+Shahar, Danit R., Richard Schultz, Avner Shahar,
+and Rena R. Wing. 2001. “The Effect of
+Widowhood on Weight Change, Dietary Intake,
+and Eating Behavior in the Elderly Population.”
+Journal of Aging and Health 13:189-99.
+
+Silverstein, Merril and Linda J. Waite. 1993. “Are
+Blacks More Likely Than White to Receive and
+Provide Social Support in Middle and Old Age?
+Yes, No, and Maybe So.” Journals of Gerontology:
+Social Sciences 48:S212-S222.
+
+Spitze, Glenna D. and John Logan. 1990. “Sons,
+Daughters, and Intergenerational Support.” Journal
+of Marriage and the Family 52:420-30.
+
+Stack, Carol B. 1974. All Our Kin: Strategies for
+Survival in a Black Community. New York: Harper
+and Row.
+
+StataCorp. 2003. Stata Statistical Software: Release
+8. College Station, TX: StataCorp.
+
+Stolzenberg, Ross. 2001. “It’s about Time and
+Gender: Spousal Employment and Health.”
+American Journal of Sociology 101:61-100.
+
+Taylor, Robert J., Linda M. Chatters, Rukmalie
+Jayakody, and Jeffrey S. Levin. 1996. “Black and
+White Differences in Religious Participation: A
+Multi-sample Comparison.” Journal for the
+Scientific Study of Religion 35:403-10.
+
+Taylor, Robert J., Linda M. Chatters, and Vikie Mays.
+1988. “Parents, Children, Siblings, In-Laws, and
+Non-Kin Sources of Emergency Assistance to
+Black Americans.” Family Relations 37:426-31.
+
+Trovato, Frank and Gloria Lauris. 1989. “Marital
+Status and Mortality in Canada, 1951-1981.”
+Journal of Marriage and the Family 51:907-22.
+
+Umberson, Debra. 1987. “Family Status and Health
+Behaviors: Social Control as a Dimension of Social
+Integration.” Journal of Health and Social
+Behavior 28:306-19.
+
+1992. “Gender, Marital Status and the
+Social Control of Health Behavior.” Social Science
+and Medicine 34:907-17.
+
+Umberson, Debra, Camille B. Wortman, and Ronald
+C. Kessler. 1992. “Widowhood and Depression:
+Explaining Long-Term Gender Differences in
+Vulnerabilities.” Journal of Health and Social
+Behavior 33:10-24.
+
+US. Department of Commerce. 2004. Census Quality
+Survey Public Use Data File, 2001 [computer file,
+ICPSR release]. Washington, DC: U.S. Dept. of
+Commerce, Bureau of the Census [producer], and
+Ann Arbor, MI: Inter-University Consortium for
+Political and Social Research [distributor].
+
+Utz, Rebecca L., Erin B. Reidy, Deborah Carr,
+Randolph Nesse, and Camille Wortman. 2004.
+“The Daily Consequences of Widowhood: The
+Role of Gender and Intergenerational Transfers
+on Subsequent Housework Performance.” Journal
+of Family Issues 25:683-712.
+
+White, Michael J. and Sharon Sassler. 2000. “Judging
+Not Only by Color: Ethnicity, Nativity, and
+Neighborhood Attainment.” Social Science
+Quarterly 80:997-1013.
+
+Winship, Christopher and Michael Sobel. 2004.
+“Causal Analysis in Sociological Studies.” Pp.
+481-503 in Handbook of Data Analysis, edited
+by Melissa A. Hardy and Alan Bryman. London,
+England: Sage.
+
+Wisocki, Patricia and Jeffrey Skowron. 2000. “The
+Effects of Gender and Culture on Adjustment to
+Widowhood.” Pp. 429-48 in Handbook of Gender,
+Culture, and Health, edited by Richard M. Eisler
+and M. Hersen. Mahwah, NJ: Lawrence Erlbaum.
+
+Word, David L. and Colby Perkins Jr. 1996. “Building
+a Spanish Surname List for the 1990’s—A New
+Approach to an Old Problem.” Technical Working
+Paper No. 13, Population Division, U.S. Bureau of
+the Census, Washington, DC.
+
+Wortman, Camille B. and Roxane Cohen Silver.
+1989. “The Myths of Coping with Loss.” Journal
+of Consulting and Clinical Psychology 57:349-57.
+
+Zhang, James X., Theodore J. Iwashyna, and Nicholas
+A. Christakis. 1999. “The Performance of Different
+Lookback Periods and Sources of Information for
+Charlson Comorbidity Adjustment in Medicare
+Claims.” Medical Care 37:1128-39.

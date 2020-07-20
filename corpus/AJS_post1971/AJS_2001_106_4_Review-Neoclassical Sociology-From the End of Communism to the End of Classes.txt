@@ -1,0 +1,866 @@
+Review: Neoclassical Sociology: From the End of Communism to the End of Classes
+Author(s): Michael Burawoy
+
+Review by: Michael Burawoy
+
+Source: American Journal of Sociology, Vol. 106, No. 4 (January 2001), pp. 1099-1120
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/320299
+
+Accessed: 08-06-2016 04:31 UTC
+American sociology marked the triumphalism of the immediate postwar
+period with its emblematic “end of ideology” thesis. Class struggle for an
+alternative socialist order was ruled an anachronism because capitalism
+and liberal democracy could effectively deliver expanded freedoms and
+improved living standards. America was as good as it gets while “com-
+munism” was the despised, totalitarian “other.” Protagonists of the “the
+end of ideology”—the most famous being Seymour Martin Lipset, Daniel
+Bell, and Philip Selznick—had themselves started out as unrepentant
+socialists in the 1930s. Their drift toward complacency, culminating in
+1950s “functionalism,” was itself overtaken by the successor radicalism
+of the 1960s, a radicalism that pointed to the seamy side of U.S. capitalism
+and the limits of its “democracy.” This revolt against the end of ideology
+and its concomitant “anticommunism” inspired such commentators as
+Ivan Szelényi and David Stark in the 1970s and 1980s to develop alter-
+native class critiques of actually existing “communism.” They reconcep-
+tualized communism in more positive terms as “state socialism,” pointing
+to its potentialities as well as its limits. Szelényi came to his (new) class
+analysis of state socialism by joining critical sociology drawn from the
+West to the critical theory of the Budapest school, while Stark’s interest
+CENTRAL EUROPE: A LABORATORY FOR THE STUDY OF
+COMPARATIVE CAPITALISMS
+
+In Making Capitalism without Capitalists Gil Eyal, Ivan Szelényi, and
+Eleanor Townsley call the new paradigm neoclassical sociology. If the
+classical sociology of Karl Marx, Max Weber, and Emile Durkheim
+achieved canonical status by engagement with the problems and possi-
+bilities of the 19th-century transition to modern capitalism, then neo-
+classical sociology is the analogous engagement with the capitalist tran-
+sitions at the end of the 20th century. Whereas classical sociology was
+haunted by the prospect of a socialist alternative to capitalism, neoclassical
+sociology marks the demise of that alternative. In place of the classical
+concern with the origins, dynamics, and reproduction of a singular cap-
+italism, neoclassical sociology is concerned with capitalism’s diversity, “a
+mosaic of the most diverse socio-economic structures and institutions”
+(Eyal et al., p. 16). It is no longer a matter of studying the origins of a
+single order but the multiple origins of plural orders. Whereas classical
+sociology dwelt on the uniqueness of capitalism through comparison with
+noncapitalist societies—the feudal past or a socialist future—neoclassical
+sociology compares capitalism with capitalism. The contemporary world,
+in particular the burial of socialism, calls for a research program of com-
+parative capitalisms.
+
+In a similar vein David Stark and Laszl6 Bruszt, in their Postsocialist
+Pathways, argue that the eclipse of communism redirects the sociological
+focus and sociological imagination to the different paths to multiple but
+always capitalist futures. “When we stop defining capitalism in terms of
+socialism, we see that, in our epoch, capitalism as a construct is analyt-
+ically interesting only in the plural: Capitalisms must be compared vis-
+a-vis each other” (p. 3; emphasis in the original). Like Eyal et al. they
+regard East and Central Europe as natural laboratories for the new so-
+ciology. Both books try to grapple with the continuities and discontinuities
+of socialism and capitalism. Both try to come to terms with the eerie
+echoes of the past alongside entirely novel economic, political, and social
+forms. Rather than revolutions or evolutions, they think in terms of
+mutations, reconfigurations, or, to use Stark’s prescient concept,
+“recombinations.”
+
+Their similarities notwithstanding, the books focus on different analytic
+levels of the transition. Stark and Bruszt focus on institutions, the collapse
+of the old and the creation of the new, connected by strategies of extri-
+cation. They call their approach path dependent in that institutional so-
+lutions—forms of democracy and privatization—forged within the mo-
+ments of extrication from socialism, have locked Hungary, the Czech
+Republic, East Germany, and Poland into divergent paths. On the one
+side, Stark and Bruszt distinguish their perspective from the neoliberal
+“transition as imitation” of textbook capitalism, what they call “capitalism
+by design” or one might call future dependence. On the other side, they
+hotly dispute the past dependence of involutionary approaches that treat
+postsocialism as the degenerative product of communist legacies.’
+
+Eyal et al. adopt a similar “path” perspective toward the transition,
+but in contrast to Stark and Bruszt their paths go back deep into com-
+munist and even precommunist days of Hungary, Poland, and the Czech
+Republic. Their paths, however, are not of institutions but of individuals.
+Indeed, they have little to say about institutional transformation—the
+logic of collapse, extrication, and creation. Instead they focus on the tra-
+jectory of various elites—individuals endowed with different forms of
+capital (economic, social, political, and cultural resources) who strategi-
+cally adjust to the exigencies of traversing different orders. They call their
+approach trajectory adjustment: institutions shape the dispositions of in-
+dividuals, who in turn contest and transform those institutions, leading
+to the readjustment of individual trajectories. Both books share acommon
+outlook on the transition: they both optimistically celebrate the indeter-
+minacy, novelty, and variety of the transformations—whether of insti-
+tutional patterns or elite alliances—taking place in post-Soviet societies.
+
+In this essay I would like to suggest that such neoclassical optimism is
+misplaced and unsubstantiated—rooted more in faith than in reality. The
+optimism of these authors is based, I argue, on an overestimation of the
+importance of elites, patterns of privatization, and political democracy,
+and on an underestimation of the importance of capital accumulation,
+class relations,’ and global forces. In other words, in their “comparative
+capitalisms,” capitalism drops out of the picture. In pursuing openness
+
+and plurality, neoclassical sociology forsakes classical sociology’s elabo-
+ration of the limits of capitalism—limited possibilities for democratic in-
+stitutions and individual self-fulfillment. Thus, Eyal et al. extend Weber’s
+vision of different capitalisms as the project of different bourgeoisies and
+expand Weber’s distinction between class and status (rank) to compare
+precommunist, communist, and postcommunist societies. In the process,
+however, they lose Weber’s critical insights: his iron cage view of capi-
+talism, his tying of capitalist efficiency to bureaucratic domination, and
+more generally his own disenchantment with Western rationalism.
+
+Stark and Bruszt move away from Weber’s concern with the fate of
+the individual to echo Durkheim’s concern with crafting institutions.’ Like
+Durkheim they are very critical of both market and state pana-
+ceas—markets require both underlying trust and supportive institutions
+just as states can only supply coordination at a distance. Like Durkheim
+they turn to intermediary associations as the fulcrum of an effective cap-
+italism—only for Stark and Bruszt these associations are ownership net-
+works among firms whereas for Durkheim they are occupational asso-
+ciations. Just as Durkheim extolled the enabling power of constraints, so
+Stark and Bruszt laud democratic accountability and policy coherence.
+Yet, entirely absent is Durkheim’s trenchant critique of power inequalities
+and of social injustice that for him, at least, marked the gap between the
+pathological present and the ideal future. Indeed, Stark and Bruszt’s
+repudiation of the very concept of transition, because of its implied ev-
+olution toward a normative future, allows them to endow the present with
+multiple potentialities. The past cannot be reborn, the future is uncertain,
+and so the present is triumphant.
+
+The use of “neoclassical” to describe the new research program suggests
+parallels with neoclassical economics, and indeed parallels there are. Both
+emphasize strategic action in the deployment of capital, only neoclassical
+sociology extends the meaning of capital to include social and cultural as
+well as economic resources.’ Both downplay oppression and social justice.
+Both have optimistic assessments of the potentialities of capitalism as the
+end of history. In one fundamental respect, however, neoclassical sociology
+diverges from neoclassical economics, namely in replacing the latter’s
+singular normative model of capitalism with multiple capitalisms derived
+from different origins. But, as I shall argue, this last claim remains un-
+proven, resting as it does on the diversity of superstructural manifestations
+of capitalism (social origins of elites, property forms, and political de-
+mocracy) rather than on an underlying diversity of economic forms of
+production and corresponding class relations.
+
+Ironically, in their earlier pioneering analyses of state socialism both
+Szelényi and Stark were anything but “neoclassical” in their orientation.
+To the contrary, they were heavily influenced by Marx—an influence that
+has left traces in their accounts of postsocialist capitalism even though
+economic processes, class relations, and alternatives to capitalism have
+disappeared. Waving farewell to the now-calumniated socialism, which
+magically and unexpectedly evaporated, they lose their critical sense to-
+ward emergent, peripheral capitalisms. Even in their common appropri-
+ation of Pierre Bourdieu, they deploy his theory as an all-purpose tool kit
+for the analysis of resources (capital), dispositions (habitus), and strategic
+action (in social space and fields), but in the process sacrifice the political
+dimension of Bourdieu’s writings—the analysis of the reproduction and
+mystification of class relations.® In a paradoxical twist of history, it is as
+if it is not the beginning but the end of socialism that spells the end of
+classes!
+
+In what follows I discuss the move away from the study of subaltern
+groups and class relations—so present in their early works—to the focus
+on ruling elites, ownership patterns, and forms of democracy. I then in-
+terrogate the conceptual basis for the research program into comparative
+capitalisms, namely their origin driven analyses—whether this be Stark
+and Bruszt’s path dependency, which starts with the breakdown of so-
+cialism and highlights discontinuity between socialism and its aftermaths,
+or Eyal et al.’s trajectory adjustment, which offers greater historical sweep
+and continuity. I put both frameworks to the challenging Russian test and
+show how their conceptualizations minimize the constraints on elites by
+nonelites, politics by economics, the national by the global. I propose an
+alternative approach, namely to suspend the study of origins for the study
+of class relations in the present. As against neoclassical optimism I propose
+a postsocialist theory, analogous to postcolonial theory, that restores a
+critical focus based on the limits to change at the same time it recuperates
+subaltern alternatives. So, finally, I propose not only a recovery of class
+but also the excavation of embedded socialism.
+THE ROAD TO NEOCLASSICAL SOCIOLOGY
+
+Ivan Szelényi is the leading sociologist of the former Soviet world. He is
+best known for the classic book, The Intellectuals on the Road to Class
+Power (1979), which he wrote with Gyérgy Konrad in the middle 1970s
+when both were under surveillance of the Hungarian state. State socialism,
+they argued, had a special place for intellectuals as architects and legit-
+imizers of the “rational redistribution” of resources in a planned economy.
+Intellectuals formulated and justified the plan as serving the needs of all.
+To be sure, intellectuals had not yet arrived at their appointed destination,
+but they were a class in statu nascendi, a class opposed to the workers
+in whose name they would rule and from whose labor they would organize
+the extraction of surplus. From this two-class model of socialism much
+else followed, not least its possible democratization through intellectuals’
+responsiveness to the working class.
+
+Szelényi (1983) concretized this theoretical framework in his study of
+Hungarian urban inequalities, specifically the distribution of housing,
+which showed that supervisors, technicians, white-collar workers, and
+managers, in short the new class, had privileged access to subsidized
+resources (apartments). This meant, he further argued, that under state
+socialism the working class had an interest in the expansion of markets
+so that they could bypass the biases of “rational redistribution” and engage
+in entrepreneurial activity, such as obtaining materials to build their own
+homes. Markets, he argued, countered the inequalities of the administra-
+tive distribution of resources. He, thereby, laid the foundation of the tran-
+sition debate two decades later: whether the market transition would
+exacerbate or undermine previous inequalities of the socialist state.’
+
+In the 1980s it seemed as though the ascendancy of intellectuals had
+been halted. Working with his former Hungarian students, Szelényi dis-
+covered a second new class making its way upward—peasant entrepre-
+neurs who were able to take advantage of the opening up of the market
+in the still-socialist Hungary. In Socialist Entrepreneurs Szelényi now
+argued that the old bourgeoisie, whose life had been cut short by the
+advent of communism and who had parked their resources in the edu-
+cational system or in the party, were now exploiting the new opportunities
+of Hungary’s mixed economy of the 1980s. Early communism, therefore,
+marked a period of interrupted embourgeoisement that was now reas-
+serting itself in late communism. However, once more history overtook
+Szelényi’s theory. State socialism collapsed. Although there were elements
+in the Hungarian Democratic Forum, the first postsocialist government,
+that were attracted to the entrepreneurial Third Road, reality did not
+treat indigenous capitalists too well. Certainly, they did not become a new
+ruling class.
+
+In his latest collaboration with Gil Eyal and Eleanor Townsley, Szelényi
+returns to The Intellectuals on the Road to Class Power. Drawing on
+surveys that oversampled elites as well as their own observations and
+interviews, the authors argue that postsocialist Hungary, as well as Poland
+and the Czech Republic, have spawned a new ruling elite, dominated by
+the intelligentsia. In effect, Szelényi and his collaborators are returning
+to the thesis of intellectuals on the road to class power, only now intel-
+lectuals realize their mission after rather than during the period of state
+socialism. This is what they call the second Bildungsbiirgertum, the second
+arrival of a cultural bourgeoisie. The first Bildungsbiirgertum arose in the
+19th century when Central European intelligentsia pioneered a modern-
+ization project in partnership with professional civil servants. At the end
+of the 20th century the intelligentsia again envisioned a capitalist utopia,
+but this time in association with the socialist managerial elite—a coalition
+of propertyless agents who thus “make capitalism without capitalists.”
+Just as the first Bildungsbiirgertum was a reaction against the rank order
+of feudalism, so the second Bildungsbiirgertum is a reaction against the
+rank order of communism. Just as the first ascendancy of the intelligentsia
+proved transitory, Eyal et al. argue, so will the second. Indeed, at the end
+of their book they present new data, suggesting that a new economic
+bourgeoisie may be in the process of formation.
+
+Even though he seems to be returning to his earlier ideas, Szelényi’s
+vision now lacks the critical perspective that so marked The Intellectuals
+on the Road to Class Power. Konrad and Szelényi approached state so-
+cialism from the standpoint of its exploited working classes, just as So-
+cialist Entrepreneurs (Szelényi 1988) began with a study of peasant work-
+ers. But the latest analysis has shifted away from class relations to the
+“pacting” of elites. We can detect a similar shift in the work of David
+Stark, whose pioneering Hungarian social research made important con-
+tributions to the study of workplace politics. Like Szelényi, Stark began
+his career with a focus on the working class, showing how shop floor
+participation both contributed to and challenged the reproduction of class
+domination. His 1980s research into Hungarian factory regimes exposed
+the forging of all manner of informal arrangements as workers adapted
+to the exigencies of an administered economy. In his most celebrated article
+of that period, Stark (1986) showed how the development of internal
+subcontracting systems acted as a pseudo-market within the socialist en-
+terprise, compensating for the dysfunctions of the plan, just as in modern
+capitalism the internal administration of labor countered the dysfunctions
+of the external market. Hierarchies require markets, just as markets re-
+quire hierarchies. Capitalism and state socialism were each other’s mirror
+image. State socialism, therefore, could not be reduced to a totalitarian
+model of a command economy but, at least in its mature form, required
+all sorts of subordinate organizations operating along lines that contradict
+communism’s dominant logic. This offered Stark (1989a, 1989b) the con-
+ceptual tools for a richer, variegated portrait of state socialism.
+
+Joining forces with the Hungarian political scientist Laszlé Bruszt,
+Stark now transposes his earlier interest in the diversity of socialisms into
+a plurality of emergent capitalisms. Curiously enough, however, Stark
+and Bruszt connect postsocialist diversity not to diverse socialist legacies
+but to the autonomy of the political, to choices made in the democratic
+transition.’ In the first part of Postsocialist Pathways they chart the dif-
+ferent paths of “extrication” shaped by the strategic interaction of (a)
+hardliners and reformers and (5) ruling elites and the opposition. Thus,
+Hungary developed the most perfect democracy in the region because the
+opposition was weak while the ruling class was divided, whereas in Poland
+the opposition, organized around Solidarity, was much stronger, thus com-
+promising liberal democracy. Bulgaria, Romania, and Albania were at
+the other extreme. There the opposition was so weak that communist
+parties had merely to rename themselves to regain power. In the second
+part of their book Stark and Bruszt link the different privatization strat-
+egies of Germany, the Czech Republic, Poland, and Hungary to their
+different paths of extrication—reunification in Germany, capitulation in
+the Czech Republic, compromise in Poland, electoral competition in Hun-
+gary. In the final part they drive home the thesis that, far from being
+incompatible with capitalism, democratic deliberation and dense associ-
+ation are its necessary conditions. Extended accountability, as they call
+it, promoted a vibrant capitalism in the Czech Republic, whereas more
+limited accountability produced weaker capitalisms in Hungary and
+Germany.”
+
+The underlying parallels between these two books are striking. Both
+stress historical pathways or trajectories from past to present, so that
+where we end up bears some relation to where we start out. The plurality
+of origins gives rise to a plurality of capitalisms. To be sure, their histories
+start at different points, and so they come to different conclusions about
+the present, but both books take the commonsensical view that origins
+matter. This may be common sense, but it is not necessarily sociological
+sense. Classical sociology may have been interested in origins, but its
+overwhelming theoretical thrust was to argue that modern capitalism was
+so all-encompassing that it erased its origins. To understand modern cap-
+italism, therefore, was to understand it as a system, made up of badly or
+not so badly integrated parts. The crucial questions concerned the repro-
+duction of a system of relations, especially the economic relations that
+defined capitalism. In concentrating on origins, neoclassical sociology fails
+to do what its classical forbears did so well, namely to study the new
+order as a system of interdependent parts—relations of economy to polity,
+of elites to nonelites.
+
+For classical sociology—and here I am referring to Weber and Durk-
+heim as well as to Marx—it was a mystery how capitalism survived its
+internal tensions and contradictions, how it absorbed tendencies toward
+dissolution and disruptive transformation. But for neoclassical sociology
+questions of capitalism’s continuity are replaced by the study of origins.
+It is as if, with the eclipse of the socialist alternative, there is no longer
+a counterpoint, an external position from which to understand capitalism’s
+defining systemic and contradictory character. Thus, Eyal et al. study the
+formation of new elites out of old elites, while Stark and Bruszt, although
+closer to a systemic analysis, nonetheless study the origins of ownership
+patterns and corporate networks. Both books study the economy at a
+distance, as a taken-for-granted abstraction and not as a concrete set
+of productive relations. Whereas in their earlier writings they focused on
+the ingenuity of the subaltern classes in coping with socialism, the way
+workers and peasants challenged and transformed state socialism in the
+microprocesses of everyday life, Szelényi and Stark now turn to the elites
+engineering embryonic capitalisms. Their analyses exclude subordinate
+classes, which in effect become the bewildered—silent and _ si-
+lenced—spectators of transformations that engulf them."
+world, the transition to capitalism and democracy can be mutually
+reinforcing.
+
+But where does this comparative advantage of postsocialism come from
+if not from socialism itself? Indeed, that is exactly what Stark and Bruszt
+suggest: postsocialist states have neither strong markets nor coherent
+states but “they have decades of experiences with strong networks” (p.
+122). These economic networks, they conjecture, provide the foundation
+for the new form of capitalism that is neither market driven nor state
+driven. To be successful—and now the measure of success has shifted to
+policy coherence—these networks must be both deliberative and associ-
+ational: that is, they must bind enterprises together in a process of joint
+and extensive participatory decision making.” It turns out that Hungarian
+networks are associational but not deliberative, German networks are
+deliberative but not associational, while the Czech networks offer a su-
+perior combination of association and deliberation.
+
+The accuracy of these claims about novel arrangements concerns me
+less than the theory of their origins. Given Stark’s earlier work, which
+made much of the specificity of Hungarian socialism, one might have
+expected the authors to trace the origins of postsocialist pathways to
+divergent socialisms. Far from it. Instead they make a decisive analytical
+distinction between the dissolution of the old order and the creation of
+the new. On the one hand, they present the dissolution in a singular
+fashion: the communist party state, based on “delegation by usurpation,”
+spread its tentacles throughout society and eventually dissipated itself by
+dissolving into its environment. It collapsed through overextension and
+absorption. On the other hand, they stress the multiple paths of extrication,
+which cannot, therefore, be explained by a singular past. Rather, they
+argue, the diverse ways of reworking the past spring from diverse political
+conjunctures in the moments of dissolution. In Hungary—the perfection
+of its democratic consolidation notwithstanding—power is concentrated
+in the executive, leading to policy swings that are disastrous for its econ-
+omy. The Czech Republic is the most successful in developing a delib-
+erative relation between the executive and parliament, and its economic
+networks supposedly reflect this success. Again the empirical basis of these
+connections is thin, but the argument is interesting. It is as if each country
+started with the same (crumbling) foundations of state socialism but, for
+complex political reasons, each designed and built very different houses
+on those foundations. Once the scaffolding goes up, the trajectory is con-
+strained. So path dependency is past dependency, it is just that for Stark
+and Bruszt the “past” starts with the breakup of communism. As we shall
+see through a brief discussion of the Russian case, this is too arbitrary a
+starting point.
+
+Stark and Bruszt pay virtually no attention to Russia in their com-
+parative analysis, but it is worth testing out their scheme on this excep-
+tional terrain. There can be no doubt about the importance of associational
+ties among enterprises, even though these ties are less the product of
+privatization and more a function of economic interdependence based on
+barter or the links that bind enterprises into the so-called financial in-
+dustrial groups. But are the associations “deliberative” in the sense of
+being accountable to diverse actors? Like the Hungarian enterprise net-
+works, only more so, the Russian networks are accountable to themselves
+alone and insulated from external pressures. Like the Hungarian asso-
+ciations, they are continually being bailed out by the state, leading to the
+asymmetric distributions of assets and liabilities. The Russian state must
+surely be regarded as the prototype of what Stark and Bruszt call the
+“antidevelopmental state.”'* Indeed, turning to the political field one can
+see in Russia’s so-called superpresidentialism an exaggeration of the Hun-
+garian concentration of power in the executive.
+
+It all fits very nicely—too nicely! No two economies diverged more in
+the socialist period than those of Hungary and Russia, and yet we see a
+postsocialist convergence—at least in terms of their network properties
+and their political fields. Surely this demonstrates the importance of post-
+socialist extrication? Yes and no. For all their supposed convergence, these
+national economies are worlds apart: in the one a dramatic and unprec-
+edented disintegration, while in the other stuttering growth; in the one a
+retreat to primitive barter relations and subsistence existence, while in
+the other the consolidation of a money economy; in the one criminalization
+of the economy, while in the other the emergent rule of law; in the one
+an enormous concentration of power in oligarchs who control media,
+natural resources, and banking, while in the other a diversified economic
+structure. So, if there are certain convergences that can be explained by
+the paths of extrication from communism, at the same time there are
+deeper and more significant divergences that go back much further in
+time. In short, there may be path dependency, but where does the path
+begin, which crystallizing event determines which future, how many such
+events might there be? It is far from obvious that the most significant
+divergence of historical paths begins when the party state is replaced by
+the formal trappings of liberal democracy."
+
+To be sure certain phenomena are affected by the mode of extrication
+from socialism, but they may be only the more superficial ones. Ultimately
+the data Stark and Bruszt offer to demarcate different capitalisms in
+THE WEBERIAN REPRISE: MAKING CAPITALISM WITHOUT
+CAPITALISTS
+
+Making Capitalism without Capitalists takes a different approach to the
+transition. First, its theoretical originality lies not in the analysis of in-
+stitutions, their collapse, recreation, dynamics, and so on, but in the way
+individuals adjust their trajectories to the exigencies of institutions. Sec-
+ond, its empirical focus is not the variety of ownership patterns within
+Central Europe but what Hungary, Poland, and the Czech Republic have
+in common, namely a form of capitalism defined by the absence of a class
+of proprietors. Without an economic bourgeoisie, so Eyal et al. argue, the
+cultural bourgeoisie that formed under and in opposition to socialism
+becomes the dominant elite in partnership with a managerial elite. Third,
+the book’s comparative method lumps contemporary Central Europe into
+a more or less homogeneous category to be compared with its communist
+and precommunist past, as well as with alternate forms of capitalism.’
+If their historical inquiry is breathtaking in scope, its arguments are less
+falsifiable than Stark and Bruszt’s provocative claim that diversity within
+Central Europe springs from the recent patterns of extrication from
+communism.
+
+In elaborating the argument for trajectory adjustment Eyal et al. take
+over the now-familiar tool kit of Pierre Bourdieu that conceives of social
+action as the strategic deployment of different forms of capital (economic,
+social/political, and cultural) within a social space, governed by interests
+and inherited dispositions (habitus). This leads them to map out the al-
+liances among elites in terms of forms of capital in precommunist, com-
+munist, postcommunist, and capitalist societies. Thus, precommunist elites
+subordinate economic capital to social capital; under communism political
+elites subordinate the increasingly important cultural elites; postcom-
+munism subordinates economic capital to cultural capital. All these are
+to be contrasted with Western capitalism, in which cultural elites are
+subordinated to economic elites.'* The authors recognize that they leave
+hanging the question of whether postcommunist capitalism will turn out
+different from any other capitalism, despite its different origins (Eyal et
+al., p. 190).
+
+In order to comprehend the lasting influence of those different origins
+we have to ask how Eyal et al. understand the relation between past and
+future. How does communism continue to live so powerfully within post-
+communist capitalism as to assert the latter’s lasting peculiarity? Post-
+communist capitalism is the project of elites that originally formed in
+opposition to communism, specifically the project of dissidents who re-
+jected the political order in the name of civil society and reform com-
+munists (technocrats) who rejected the economic order in the name of
+monetarism. The question Eyal et al. pose in their most original chapter
+(the book’s third) is how these two groups, occupying opposed positions
+under communism, could form an alliance in postcommunism. Drawing
+on the analogy of Weber’s elective affinity between the protestant ethic
+and the spirit of capitalism, they show how self-denying dissidents and
+capitalist-spirited technocrats shared a commitment to living within truth
+and opposing communist mendacity, to establishing government from afar
+and opposing state regulation of everyday life, and to supporting the rule
+of law and opposing party despotism. In other words, new postcommunist
+institutions originate from enduring “habituses” inherited from the past.
+
+It is one thing for elites to have projects, it is another to realize them.
+Eyal et al. recognize that emergent capitalisms are the product of nego-
+tiated compromises. The dissidents and technocrats may be able to rec-
+oncile their own differences, but they still need the support of managers
+who run the economy. They, therefore, recompose their ideologies of civil
+society and monetarism into a “managerialist ideology” that gives cohesion
+to the new power bloc. The relative balance of managers, dissidents, and
+technocrats, then, will determine the character and strength of the com-
+munist legacy.
+
+But why, one may ask, are compromises only struck among elites and
+not between classes? It is just as plausible that the divergent postsocialist
+trajectories have been shaped by the activist Solidarity movement with
+its accentuation of “voice” or by the individualistic Hungarian working
+class that “exited” into the second economy. Or if one wants to lump
+Central Europe together, one might contrast its oppositional working clas-
+ses with the Russian working class that, to overgeneralize, pursued a
+strategy of “loyalty.”"’ Why are these interclass relations not as important
+as the composition of the power bloc? Indeed, it could be argued that the
+compromises struck between dominant and subordinate classes set the
+prior conditions for alliances among the dominant classes.
+
+Even if Eyal et al. do not take up the question of class relations, to
+their credit they do take up the Russian challenge. If in Central Europe
+they see the emergence of capitalism without capitalists, in Russia they
+cleverly recognize a case of capitalists without capitalism. That is to say,
+in Central Europe the institutions of capitalism exist without a bour-
+geoisie, while in Russia there is a bourgeoisie, a class of owners recruited
+from the former nomenclatura, but it is running amuck in the absence of
+effective regulation. Here we witness neither revolution nor evolution to
+be sure but involution—an imploding world in which a merchant bour-
+geoisie forged from the old nomenclatura raided the economy to produce
+primitive disaccumulation, a return to peasant society, a retreat to self-
+provisioning, the expansion of petty commodity production and of prim-
+itive barter. As the new bourgeoisie reaches for global hypermodernity,
+they thrust the mass of the population into a premodern quagmire. Here
+extrication from the past becomes, one might say, the revenge of the past.
+
+The Russian catastrophe convincingly vindicates Eyal et al.’s argument,
+contra Stark and Bruszt, that communist origins are critically important
+to postcommunist outcomes. But there is a paradox. Precisely here where
+the communist habitus was the most strong and the anticommunist in-
+telligentsia most weak, the neoliberal vision has been the most vigorously
+pursued through rapid liberalization, privatization, and then stabilization.
+Of course, neoliberalism is here not an inherited habitus but a borrowed
+ideology that is opportunistically deployed to justify new forms of ex-
+ploitation and dispossession. But that is just the point. By focusing on
+elites, Eyal et al. go only so far in appreciating the peculiarities of post-
+Soviet Russia. They focus on the continuity of the old political class
+transformed into an economic elite, but they miss the radical transfor-
+mation of society. Trajectory adjustment, in looking for continuity, misses
+the dramatic disjuncture in Russian society.
+
+If now there are capitalists without capitalism, before, we might say,
+there was socialism without socialists. By this I mean that Soviet society
+was socialist in its redistributive economy and in its centrally organized
+society—an elaborate and overweening social structure that governed
+people’s strategies and rewards. People acted on the basis of their place
+in society, not on the basis of a vision of the future. As a result, especially
+in its last phase, there was no significant class of actors who believed in
+a socialist future. Adhesion to socialism was more a ritual enactment, so
+that when the system faced crisis it could turn either to despotism or it
+collapsed. There were no “socialists” committed to restoring and rebuild-
+ing the structure. One might say that Russia has moved from one extreme
+to the other, from a society structured by positions to a society structured
+by assets; from competition for privileged positions to competition for
+asset accumulation; from a society in which individuals occupy places in
+preexisting social relations to a society in which individuals are continually
+constructing social bonds; from a world of social channels to one of social
+anarchy. The constitution of class shifts from relations of vertical domi-
+nation to networks of horizontal interdependence. One might think of
+Russia today as the first truly “poststructural” society, rejecting admin-
+istered visions and investments in the future and held together by a system
+of personal ties. Reaction to the failure of the most modernist of projects
+(the planned society) has led to the most postmodern, egotistical world.
+While Bourdieu’s framework of strategies around convertible capitals
+does indeed capture something about post-Soviet society, it is a mistake
+to project this back into the past, to impose an asset-based theory on a
+position-based society. By universalizing Bourdieu’s theoretical categories,
+Eyal et al. miss its historical and critical import and thereby elide profound
+differences between Soviet and post-Soviet orders.
+
+I may now summarize. Both works focus on divergent paths to pre-
+sumptively different capitalisms, but where the one traces this divergence
+to individual habituses formed under communism and even precom-
+munism, the other focuses on institutional solutions to the problem of
+extrication from communism. Their measures of capitalism also differ.
+The one looks upon capitalism in terms of ruling elites, the negotiations
+among former dissidents, technocrats, and managers, while the other stud-
+ies patterns of ownership, novel recombinant forms that belie conventional
+models. Both, therefore, assess the phenomenal form of capitalism rather
+than its underlying reality, its superstructures rather than its economic
+base. Elites, ownership patterns, and politics may all diverge and trans-
+form themselves while the social relations of capitalism remain the same.
+Neither book comes to grips with the social relations of the economy that
+define it as capitalist, above all with the relations between classes.
+THE MARXIAN REPRISE: ENDURING CLASS RELATIONS
+
+Karl Marx offers an alternative model for the study of transitions, one
+that is not based on origins. While modern capitalism may have multiple
+origins (and Marx offers different accounts in his various writings), once
+established capitalism constitutes its own system of class reproduction
+and dynamic accumulation. The systemic logic effectively wipes out or-
+igins.'* Even though capitalism may diverge in its expression from sector
+to sector, from country to country, from region to region, these divergences
+are interconnected—the result of common underlying economic processes.
+To study such sui generis economic processes, one must subordinate the
+study of historical paths and trajectories to careful in situ analyses of
+actual social relations. This calls for ethnographic data that will reveal
+the day-to-day world of strategic action bound by changing con-
+straints—the sort of detailed analysis that Marx extracted from the Blue
+Books of government inspectors or the fieldwork that Engels conducted
+in Manchester.
+
+We already have examples of ethnographic research in post-Soviet so-
+cieties that, instead of searching out the influence of origins, start out by
+examining constraints in the present. For example, in her study of de-
+collectivization in Romania, Katherine Verdery (1999) does not look for
+the source of privatization but shows how property relations become the
+object of struggle within her village. Political and economic relations,
+inherited from the past to be sure, govern the unfolding dynamics of
+property redistribution. The point of departure is the present, and it is
+from this vantage point that the past is understood. The same applies to
+Gerald Creed’s (1999) ethnography of the struggle over the liquidation of
+agricultural cooperatives in Bulgaria. Peasants act here as a bulwark
+against decollectivization, mobilizing the past in defending their lifeline
+to collective and individual existence. Or take Slawomira Zbierski-
+Salameh’s (1999) field research in rural Poland that shows how shock
+therapy strengthened the hold of monopolistic organizations—
+procurement centers, state farms, and banks—over the peasantry who,
+in self-protection, retreated to closed-cycle subsistence production. Again
+the focus is on the here and now of the transition, the struggle over the
+interpretation and deployment of economic reform by different classes.
+David Woodruff’s (1999a) close observation of Russian enterprises, sim-
+ilarly, shows how local forces combine to defy punitive monetization by
+resorting to barter as they contend with distant government edicts. If
+these ethnographies of everyday life share any common conclusion it is
+that the past becomes a terrain of struggle, manipulated by forces con-
+tending in the present.
+
+The past is an object and field of conflict, but it is also a reference
+point against which to compare the present. Revisiting anthropological
+studies of socialism is another possible technique of such before-and-after
+evaluation of the transition. In May 1999, Janos Lukacs and I returned
+to the sites of our Hungarian industrial ethnographies of the 1980s (Bur-
+awoy and Lukacs 1992). What had happened to my fellow workers in
+the 10 years after the Fall? I was surprised to discover that, despite the
+retrenchment of all but a few thousand of the original 15,000 and with
+the exception of our devoted shop steward, Gyuri, who had retired to his
+home village, all members of the October Revolution Socialist Brigade
+were still working in what used to be the Lenin Steel Works. Shaped
+under late communism, their habituses had indeed endured the transition.
+Csaba was still living and drinking with his father in their one-room
+apartment. Béla, whose leg had been crushed under a steel girder, was
+still grumbling, seemingly untouched by his upwardly mobile children.
+As he had done so successfully in the 1980s, Karcsi was still exploiting
+his handicraft skills and entrepreneurial talents to tide him over work
+stoppages. Bandi and his wife (with friends and relatives) were exhausted
+from building their new home, while Laci sat gloomily in his two-room
+apartment with his unemployed wife and his two barely employed sons.
+The steelworker habitus endured to be sure, but the overwhelming reality
+was status degradation, deplorable working conditions, plummeting
+wages, and imminent unemployment.
+
+While workers were laid off, on the other side of the class divide a few
+managers made a killing by spinning off their departments as limited
+companies, charging the enterprise with overheads, taxes, transportation,
+and so on. Here is the story Stark and Bruszt tell of recombinant own-
+ership—the enterprise shell, under state ownership, was landed with li-
+abilities while the satellites made off with the assets. No one wanted this
+dinosaur. Through the 1990s it was buffeted by a series of makeshift
+deals, until finally a Slovakian company went halves with the Hungarian
+government in a pretense at resurrecting the mill. To Gabi, our earnest
+young manager, however, it seemed that the Slovakians had only ab-
+sconded with the cash. There was no sign of any new investment, just
+another level of bureaucracy. Now, a year later, an American company
+has taken over the Slovakian conglomerate. The mill could close tomor-
+row, with the last human dregs poured into the street.
+
+Contrast this with Egér’s Csepel Auto, a division of Hungary’s largest
+truck enterprise, which was bought out by the Germany Corporation ZF,
+one of the biggest gearbox manufacturers in the world. I gasped in disbelief
+as I walked through the aisles of the spotless, silent glass house that had
+been the grimy, dark, whirring machine shop. Young technicians, relaxed
+and scarce, had replaced our oily brigades of ingenious, improvising, pet-
+ulant operators. Tomas, the information systems manager who escorted
+us, was one of the handful of Hungarians to have survived the transition.
+The rest had been weeded out. Half the number of employees now pro-
+duced 30 times the product! Property relations may be diffuse, but the
+consequences are not. Neoclassical sociologists may celebrate indetermi-
+nacy and uncertain futures, but for most this simply means insecurity.
+Capitalism may be made without capitalists but certainly not without
+workers—a small fraction upgraded, the majority disconsolate and de-
+graded. To my fellow furnacemen, capitalism was but the immiseration
+of socialism. It is not clear whether postsocialist capitalism is different
+from any other, at least from the perspective of those who shoulder it.
+
+As these examples reveal, not only communism but also the forces of
+globalization haunt the present. Stark and Bruszt write how the neoliberal
+programs sowed disillusion, shifted the prevailing winds from West to
+East, from market panaceas to the elixir of the state. They claim that
+both models were “decoupled” from the Central European reality—a re-
+ality of deliberative networks that were neither markets nor hierarchies.
+Stark and Bruszt are right to be skeptical of the inexorable power of
+globalization, but “decoupling” becomes the conceptual excuse for ignor-
+ing global factors altogether. Stark and Bruszt overlook the possibility
+that “recombinant property” was as much a strategic hedge against com-
+petition from or expropriation by international capital as it was a function
+of the balance of forces at the time of extrication from state socialism.
+Similarly, as Eyal et al.’s data show, “managerialism” is now in retreat
+before the encroachment of foreign capital.
+
+This is where the project of “comparative capitalisms” meets its greatest
+sociological challenge. Russia and Hungary may diverge in remarkable
+ways, but that divergence is as much a product of their differential in-
+sertion into what is a singular world capitalist system as it is of their
+communist origins. Or better, it is a product of the way global capitalism
+combines with antecedent forms of production as these undergo market
+transition. It is difficult to talk of independent national or regional cap-
+italisms—as is implied in “comparing capitalisms”—when the global order
+is so interconnected. We need to understand how the global, whether
+through supranational institutions, transnational connections, or post-
+national discourses, has mediated effects on what has come to be called
+the “local.”
+
+Just as ethnography offers a nuanced understanding of class constraints
+in the present, so it also offers insight into the significance of the global.
+Lynne Haney (2000), for example, has shown how the (neo)liberal model
+of welfare was latched onto by Hungarian state managers and even so-
+ciologists for the very real material benefits it offered them. Benefits to
+the bureaucratic class, however, came at the expense of welfare clients
+who in turn tried to reclaim their lost assistance by appealing to the
+socialist universalism of the past. Like a lightening rod, the state trans-
+mitted global pressures, creating a devastated population of women. But
+the global can also strike outside the purview of the state. Zsuzsa Gille
+(2000) shows that Hungary’s flimsy postcommunist democracy put up
+little resistance to multinational incineration capital that would make
+Hungary a backyard for dumping Western waste. The project had popular
+support among villagers who competed for economic crumbs from burnt
+ashes. They were located next to toxic waste that had been deposited by
+Hungary’s biggest chemical factory. For many socialist years, this enter-
+prise had been bribed to produce what was too dangerous to produce in
+Austria. Those rural populations excluded from incineration profits were
+easily mobilized by the Greens to oppose the project, but with little effect.
+Contestation and negotiation there may have been, but the results only
+augured badly for Hungary’s rural population.
+
+These ethnographic studies offer a postsocialist antidote to neoclassical
+optimism, recognizing the debilitating constraints of historical past and
+global present even as they also recognize ingenuity and innovation. As
+the few manage to reassert their control over property and profits, or-
+ganizational and cultural capital, so the majority stave off increased in-
+security and dispossession. The ethnographic eye exposes the seamy side
+of capitalism—means testing, incineration, and unemployment. As the
+joke goes, Soviet teaching may have been wrong about communism but
+it was right about capitalism. Of course, Western ideologues have their
+responses: the liberal reforms were introduced too slowly (or too quickly),
+Stalinist managers sabotaged (or failed to comprehend) the market tran-
+sition, the people are not ready for capitalism, they are too corrupted by
+communism, and so on. In these perspectives the problem lies with the
+executors of the vision rather than with the vision itself. Just as devel-
+opment theory of the 1960s, which also blamed the victims for their
+suffering, gave rise to dependency theory and then to postcolonial theory,
+so we might expect neoclassical sociology to inspire new postsocialist
+theorizing that moves from the limits of global capitalism to the contes-
+tation of Western transplants by indigenous visions and alternatives.
+ciation of the past, but it is not the only possible interpretation of the
+contemporary plight. Eyal et al. might have drawn lessons from their
+own account of the demise of the first Bildungsbiirgertum—the way Cen-
+tral European intellectuals in the early 20th century turned away from
+the capitalist project either to the radical right or to the radical left. Today
+we might well ask, How long will it be before postcommunist intellectuals
+reject those Western prescriptions they had so avidly embraced—liberal
+democracy and free markets? How long will it be before neoclassical
+theory, which condemns socialism and exonerates capitalism, gives way
+to postsocialist theory, which takes a more critical approach to capitalism
+in order to rescue the positive potential of socialism?
+
+Postsocialist theory could follow postcolonial theory. Just as disillusion
+with “national independence” led postcolonial theory to reject the very
+goals of liberation as themselves too tainted by the oppressor’s ideology,
+so disillusion could lead postsocialist intellectuals to contemplate alter-
+natives to the imported Western models. Just as postcolonial theory turned
+to subaltern studies and the search for opportunities and visions eclipsed
+in the colonial or even precolonial world, so postsocialist theory will per-
+haps exhume alternatives that were rapidly closed off when communism
+began to teeter.'® Postsocialist theory might well return to the subterranean
+alternatives that the youthful Stark and Szelényi did so much to un-
+cover—be they the different market socialisms of the Hungarian second
+economy or the mobilized society of Polish Solidarity. The standpoint of
+such postsocialist critique is not some externally fabricated blueprint but
+a concrete imagination that was not brought to complete fruition—what
+Erik Wright, for example, has called a real utopia (see, e.g., Wright 2000).
+
+It is probably too soon to revisit state socialism and the possibilities
+that were never allowed to mature. Nonetheless, in time there will be a
+revisionist history that, while not denying communist horrors, will rec-
+ognize socialism’s potentialities. Capitalism’s early history was no less
+horrific than communism’s, but it managed to cultivate its potentialities
+and handle its contradictions by reconstituting itself. Socialism did not
+have such a chance—for world historic reasons rather than internal
+limits—to refashion itself before it was overrun. Capitalism had the op-
+portunity to do what socialism never succeeded in doing, to contain its
+barbaric tendencies—or, more precisely in capitalism’s case, to export
+them to naive and expectant nations, most recently those freed from the
+communist vice. The export package has not been the 20th-century mixed
+economy of advanced capitalism but an early 19th-century market uto-
+pianism that today implants a dependent development. After all, how
+many advanced capitalisms can there be in the world? Neoclassical so-
+REFERENCES
+
+Burawoy, Michael, and Janos Lukacs. 1992. The Radiant Past. Chicago: University
+of Chicago Press.
+
+Creed, Gerald. 1999. “Deconstructing Socialism in Bulgaria.” Pp. 223-44 in Uncertain
+Transition: Ethnographies of Change in the Postsocialist World, edited by Michael
+Burawoy and Katherine Verdery. Lanham, Md.: Rowman & Littlefield.
+
+Eyal, Gil. 2000. “Pastors and Prognosticators: The New Class and the Break-up of
+Czechoslovakia.” Manuscript. University of California, Berkeley.
+
+Fuller, Linda. 1992. Work and Democracy in Socialist Cuba. Philadelphia: Temple
+University Press.
+
+. 1999. Where Was the Working Class? Revolution in East Germany . Urbana:
+University of Illinois Press.
+
+Gille, Zsuzsa. 2000. “Cognitive Cartography in a European Wasteland: Multinationals
+and Greens Vie for Village Allegiance.” Pp. 240-67 in Global Ethnography, edited
+by Michael Burawoy et al. Berkeley: University of California Press.
+
+Haney, Lynne. 2000. “Global Discourses of Need: Mythologizing and Pathologizing
+Welfare in Hungary.” Pp. 48-73 in Global Ethnography, edited by Michael Burawoy
+et al. Berkeley: University of California Press.
+
+Konrad, Gyorgy, and Ivan Szelényi. 1979. The Intellectuals on the Road to Class Power.
+New York: Harcourt Brace Jovanovich.
+
+Selenyi, Anna. 1999a. “The Foundations of Post-Socialist Legitimacy.” Pp. 131-56 in
+Dilemmas of Transition: The Hungarian Experience, edited by Aurel Braun and
+Zoltan Barany. Lanham, Md.: Rowman & Littlefield.
+
+.1999b. “Old Political Rationalities and New Democracies: Compromise and
+Confrontation in Hungary and Poland.” World Politics 51:484-519.
+
+Stark, David. 1986. “Rethinking Internal Labor Markets: New Insights from a
+Comparative Perspective.” American Sociological Review 51:492-504.
+
+. 1989a. “Coexisting Organizational Forms in Hungary’s Emerging Mixed
+
+Economy.” Pp. 137-68 in Remaking the Economic Institutions of Socialism: China
+
+and Eastern Europe, edited by David Stark and Victor Nee. Stanford, Calif.:
+
+Stanford University Press.
+
+.1989b. “Toward an Institutional Analysis of State Socialism.” Pp. 3-31 in
+Remaking the Economic Institutions of Socialism: China and Eastern Europe, edited
+by David Stark and Victor Nee. Stanford, Calif.: Stanford University Press.
+
+Szelényi, Ivan. 1983. Urban Inequalities Under State Socialism. New York: Oxford
+University Press.
+
+. 1988. Socialist Entrepreneurs. Madison: University of Wisconsin Press.
+
+Verdery, Katherine. 1999. “Fuzzy Property: Rights, Power, and Identity in
+Transylvania’s Decollectivization.”. Pp. 53-82 in Uncertain Transition:
+Ethnographies of Change in the Postsocialist World, edited by Michael Burawoy
+and Katherine Verdery. Lanham, Md.: Rowman & Littlefield.
+
+Woodruff, David. 1999a. “Barter of the Bankrupt: The Politics of Demonetization in
+Russia’s Federal State.” Pp. 83-124 in Uncertain Transition: Ethnographies of
+Change in the Postsocialist World, edited by Michael Burawoy and Katherine
+
+Verdery. Lanham, Md.: Rowman & Littlefield.
+
+. 1999b. Money Unmade. Ithaca, N.Y.: Cornell University Press.
+
+Wright, Erik. 1997. Class Counts. Cambridge: Cambridge University Press.
+
+____. 2000. “Reducing Income and Wealth Inequality: Real Utopian Proposals.”
+Contemporary Sociology 29 (1): 143-56.
+
+Zbierski-Salameh, Slawomira. 1999. “Polish Peasants in the ‘Valley of Transition’:
+Responses to Postsocialist Reforms.” Pp. 189-222 in Uncertain Transition:
+Ethnographies of Change in the Postsocialist World, edited by Michael Burawoy
+and Katherine Verdery. Lanham, Md.: Rowman & Littlefield.

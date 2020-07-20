@@ -1,0 +1,988 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+to assume that much of human behavior
+
+is affected by and oriented to spatial
+features of the physical environment. Ecolo-
+gists and regional scientists have studied the
+macro-features of space for entire communi-
+ties and regions, but very little research at-
+tention has been given to the patterning
+effects of space in small areas, especially
+within the household. The present paper dis-
+cusses the effects that high density and other
+features of the dwelling unit (the micro-
+environment) have for the emotional health
+and family role relations of people living un-
+der widely divergent housing conditions in
+urban Hong Kong, the city that has probably
+the highest residential densities ever known
+in the world.
+
+Although there is a social science literature
+on housing and habitation (Van Den Broek,
+1964), very little attention has been given
+to the design features of housing. As Som-
+mers (1969) noted, even studies of small
+groups typically fail to note that the spatial
+dimensions of experiments are potentially
+significant variables that must be systemati-
+cally considered in the design of experiments.
+
+S INCE man occupies space, it is reasonable
+
+* This paper is based on research conducted for
+the Urban Family Life Survey, a joint project of
+the Department of Social Welfare and the Council
+of Social Services, both of Hong Kong. Acknowledg-
+ment is also given for the assistance provided by
+the Program Area Committee on Housing and
+Health of the American Public Health Association,
+the Environmental Control Administration of the
+United States Department of Health, Education, and
+Welfare; the Institute for International Studies and
+the Survey Research Center of the University of
+California, Berkeley; The Chinese University of
+Hong Kong; and my fellow participants in the
+United Nations Ad Hoc Meeting of Experts on the
+Social Aspects of Housing in Urban Areas.
+There have been very few well designed
+studies concerning the personal and family
+effects attributable to housing in general and
+the physical features of housing in particular,
+especially densities. For example, Loring
+(1956, 1964, 1967) has suggested that “over
+density” is the only housing and neighbor-
+hood feature that is associated with his mea-
+sures of social disorganization. In an ecologi-
+cal analysis of elderly patients in mental
+hospitals, Gruenberg (1954) found that cen-
+ter-city high density areas account for a dis-
+proportionate number of first admissions for
+psychoses. One French study argued that the
+habitable space per person in a dwelling unit
+has a strong effect on levels of tension among
+the members of the family in the dwelling
+unit (P. and M. Chombard de Lauwe, 1959).
+According to Madge (1968), “the current ex-
+pert consensus in European countries is that
+the lower limit of mental health is 170 square
+feet of floor space per person,” although the
+American Public Health Association (1950)
+set the desirable standard at twice this figure
+in 1950.
+Several studies have shown the significance
+of space and density for the desire to move
+(Lansing, 1966; Lansing e¢ al., 1969), al-
+though neither this desire nor its frustration
+has been shown to adversely affect family
+functioning and emotional health. Studies of
+language behavior are also suggestive in this
+regard, for Bernstein (1968) has suggested
+that levels of congestion within the house-
+hold affect children’s language behavior and
+their perceptions of their environment. In so
+far as language behavior and these percep-
+tions reflect and affect communications chan-
+nels and communication disorders, conges-
+tion could possibly have an indirect effect
+on emotional health and family functioning.
+Other indirect evidence regarding the poten-
+tially negative effects of high densities is
+suggested by Calhoun (1962a, 1962b, 1963)
+in his experimental studies of rats, as well as
+by other studies of high density animal pop-
+ulations (cf. Hall, 1966:15-22). The re-
+search studies of Hall (1966) and Sommers
+(1969) regarding proximics and personal
+space are also highly suggestive of the poten-
+tial significance of density.
+
+To date, most of the negative findings per-
+taining to the family and personal signifi-
+cance of high density have been produced by
+public health researchers, especially those
+who are concerned with infectious diseases.
+These diseases involve host-parasite relation-
+ships, and it is reasonable to assume that
+these relationships will most likely develop
+in small undivided rooms housing large num-
+bers of people. However, there have been a
+number of studies that have questioned the
+independent significance of housing and den-
+sity for the development of infectious dis-
+eases. Brownlee (de Groot et al., 1970), for
+example, has noted that there is a relation-
+ship between density and mortality but that
+the strength of this relationship has been
+declining over the years. Similarly, Martin
+(1967; n.d.) has suggested that direct at-
+tacks on either partner to the host-parasite
+relationship is more likely than giving atten-
+tion to densities to affect rates of infectious
+diseases.
+
+A number of studies have also indicated
+that high density is associated with many
+other deprivations and stresses (Mitchell,
+1969a, 1969b), and that both infectious and
+noninfectious diseases tend to cluster to-
+gether. Various diseases and maladies, in-
+cluding psychoneurosis, were found to be
+clustered together in Baltimore rather than
+to be evenly distributed throughout the pop-
+ulation (Downs and Simon, 1954), and sim-
+ilar findings have been found elsewhere—for
+example, in St. Paul (Buell, 1952; Lemkau,
+1970). Schmitt’s (1966) ecological analysis
+of census tracts in Honolulu found that over-
+crowding had no impact on various measures
+of morbidity and illness, once education and
+income were statistically controlled. Sim-
+larly, Guerrin and Borgatta (1965) found
+that illiteracy is the best predictor of mor-
+bidity.
+
+Other studies concerned more directly with
+personal and family functioning have argued
+against the independent significance that
+might be attached to high density and poor
+housing. Wilmer e¢ al.’s (1962) multiwave
+panel study of new residents in a Baltimore
+public housing project raises serious ques-
+tions about the benefits of improved housing,
+although this study did not touch directly on
+densities and physical design. Foote e¢ al.
+(1960) found that people are willing to
+trade off less space in order to add or main-
+tain mechanical equipment in the household,
+and the rapid growth of the mobile home
+industry suggests that people are willing to
+sacrifice space for apparent savings in hous-
+ing costs.
+
+These ambiguous findings regarding the
+personal, family, and social significance of
+housing have begun to arouse the concern
+of public health personnel and urban plan-
+ners. Even back in 1943, one expert (Ander-
+son, 1943) noted that “of the many newer
+aspects of environmental sanitation, the
+standards of housing seem to rest on an es-
+pecially insecure epidemiological founda-
+tion.” Both the World Health Organization
+(WHO) and the American Public Health
+Association (APHA) have encouraged re-
+search on the health implications of high
+density housing (WHO, 1964a, 1964b, 1966,
+1968). Health is broadly defined by WHO’s
+constitution in 1946 to be “a state of com-
+plete physical, mental and social well-being
+and not merely the absence of disease or
+infirmity.” Health includes the adequate
+functioning of families, however “adequacy”
+is defined.
+
+These more general social concerns were
+covered in a number of position papers re-
+cently prepared for the APHA. In one, Lem-
+kau (1970) reported that his review of the
+existing research indicates that “estimates of
+the power of emotional factors in influencing
+the healthfulness of housing are so rarely
+based on sound data, or any data at all, that
+the relationship of them to health is possible
+only in the most extreme conditions.”’ Wilner
+and Baer (1970) arrive at a similar conclu-
+sion: “There is no body of convincing evi-
+dence that crowding in a dwelling unit con-
+tributes materially to mental disorder or to
+emotional instability. Nor is there evidence
+as yet that crowding (or other housing def-
+icits) interferes with a promotive style of
+life; that because of crowding, family roles
+and rituals cannot satisfactorily be carried
+out; or that the development of infants and
+children is severely impaired.” Similar con-
+clusions were reached by de Groot et al.
+(1970) as well as by Mitchell (1970a).*
+Various suggestions have been given re-
+garding possible reasons why density does
+not have its anticipated effects. In compar-
+ing rat and human responses to density,
+Mitchell (1971a) has distinguished density
+from congestion (or intensity). Congestion
+refers to the simultaneous demands for the
+use of very limited resources. Wilner and
+Baer (1970) make a similar distinction in-
+volving measures of space, people, and time.
+Loring (1967) has suggested “that a lot of
+health problems stem not from mere physical
+crowding, but from activity overcrowding,
+role over-density, and possible subsequent
+withdrawal into psychosocial isolation.”
+Research to date suggests several lines of
+development for future studies. (1) More
+attention should be given to clarifying the
+meaning of density and the physical features
+of housing in order to specify what stimuli
+in the housing situation are noxious and
+stressful. (2) Past studies may not have
+given adequate attention to the effects of
+density because there was not a sufficiently
+wide variation in the density situations con-
+sidered. Extremely high densities, such as
+those existing in Hong Kong, must be con-
+sidered. (3) Since high densities and poor
+housing tend to be highly associated with
+
+1 These papers were prepared for the First Invi-
+tational Conference on Health Research in Housing
+and Its Environment.
+The information referred to here is drawn
+from three large-scale sample surveys con-
+ducted in Hong Kong, as well as the pre-
+listing operations conducted in preparation
+for two of these samples.2 One of these
+studies was based on a sample consisting of
+3,966 people from the urban areas of the
+Colony. Individuals 18 years of age and over
+were the ultimate sampling units in this
+multistage sampling plan. In contrast, the
+second study was concerned with families in
+the same urban areas. Of these families, 561
+husband-wife pairs were interviewed, in addi-
+tion to 2,631 other people who were married
+and living with their spouse, but whose
+spouse was not interviewed. University stu-
+dents conducted these interviews during the
+summer and early fall of 1967.
+
+A split-interview schedule was used in
+both of these studies, although two-thirds of
+the questions were asked of both halves of
+the sample. Some of the information that is
+reported here refers to only one-half of each
+sample.
+
+The third study consists of a 10% sample
+of all Forms 3 and 5 pupils in the Colony.
+Self-administered questionnaires were used
+to obtain information for this project.
+
+2Information on housing also was collected by
+the author in large-scale sample surveys conducted
+in Bangkok, Taipei, Singapore, and the six major
+cities in Western Malaysia. For comparative infor-
+mation on housing situations in these different
+countries, see Mitchell (1969b, 1970).
+As noted earlier, American studies have
+shown that people are aware of and respond
+to a perceived lack of space (Lansing, 1966;
+Lansing e¢ al., 1969; Foote et al., 1960;
+Rossi, 1955), although no satisfactory con-
+nection has been made between these atti-
+tudes and other more disturbing features of
+personal and family functioning. People in
+Hong Kong are similarly responsive to a lack
+of space.
+
+Six different attitudinal items relating to
+housing were measured, but only two will be
+mentioned here. Both were asked only of the
+sample of married people.
+
+First, to tap the dissatisfaction about the
+amount of space people have, the married
+people were asked: “How do you feel about
+the amount of space you have? Twenty-nine
+percent responded that they have “somewhat
+less space” than they need, and another 13%
+
+3 Urban net residential densities vary from 415
+to 466 people per acre. This density is equivalent
+to between 265,000 and 298,000 people per square
+mile. According to information provided by the
+Colonial Outline Planning Team in 1969, densities
+in the Shek Kip Mei Resettlement Estates were
+4,100 per acre (Mitchell 1970).
+A large number of indicators of positive
+emotional health were developed for this
+study. (The study was concerned generally
+with the sources of emotional strain created
+by the processes of urbanization and indus-
+trialization in Southeast Asian cities.) Three
+general types of emotional strain were devel-
+
+4These questions were preceded by the general
+query: “Now I would like to know how often you
+are troubled by the following: Is it many times,
+sometimes, hardly ever, or never?” In answering the
+question: “Do you have to hide or avoid other people
+whenever you want to do something in private,”
+17% said “sometimes” or “many times”; 16% gave
+the same answer in response to the question: “Do
+you feel that you cannot discuss anything with your
+spouse without others listening?”; and 13% gave
+one of these two responses to the question: “Do you
+feel that you cannot avoid seeing certain persons
+no matter how hard you try because you live so
+close to them.”
+
+5 For example, 68% of those bothered many
+times or sometimes about not being able to discuss
+things privately with their spouse also complained
+to the same extent about not being able to avoid
+certain persons, no matter how hard they try. In
+contrast, among those who were never bothered
+by a lack of privacy with regard to their spouse,
+only 5% were bothered by not being able to avoid
+those who lived close to them.
+
+6A score of two is assigned to the answer cate-
+gories “many times” and “sometimes”; a score of
+one is assigned to “hardly ever”; and a score of
+zero is assigned to “never,”
+7 The eleven symptoms used were: You feel short-
+ness of breath when you are not exercising or work-
+ing hard; you feel your heart beating hard; you
+feel spells of dizziness; you have nightmares; you
+tend to lose weight when you have something im-
+portant bothering you; your hands sweat so that
+you feel damp and clammy; some days, even for
+several weeks or several months, you cannot take
+care of things because you cannot “get going”; you
+have trouble getting to sleep or staying asleep;
+you are troubled by headaches; you are bothered
+by feeling nervous, fidgety, and tense; you lose
+your appetite.
+
+In constructing the index, a score of 1 was as-
+signed to each symptom that occurred “many
+times” or “sometimes.” Other definite answers were
+scored zero. Those not providing information were
+excluded from the index. People with a score of
+4 or more were considered to score high on emo-
+tional strain.
+
+8 The six symptoms were: Some people make
+you dislike them so that whatever they want you
+to do, you just want to do the opposite; your
+siderable detail in the forthcoming publica-
+tions of the Urban Family Life Survey.
+Third, two separate indices of role or behav-
+ioral impairment and withdrawal were devel-
+oped. One refers to withdrawal from family
+roles, and the other refers to withdrawal from
+work roles, Since densities and other physical
+features of housing do not affect these mea-
+sures of behavioral impairment, these two
+indices will not be considered in the present
+paper.
+
+Both measures of superficial strain respond
+to high density. However, since low-income
+and lowly educated people have the highest
+levels of unhappiness and worry, and since
+these poor people are most likely to live in
+high-density dwelling units, these confound-
+ing influences must be statistically con-
+trolled. When this is done for the general
+population of individuals, densities affect
+these superficial strains for only people in
+low-income families (Table 2).
+
+Given the conditional significance of den-
+sity for these superficial levels of strain, it is
+not surprising that the more severe levels of
+emotional strain do not respond to high
+densities.
+
+Although density does not have an inde-
+pendent effect on severe forms of strain or, as
+noted earlier, on role impairment, it is pos-
+sible that some individual components enter-
+ing into the definition of density have a po-
+tentially significant influence on emotional
+strain. To test this possibility, separate tabu-
+lations were run involving the number of
+square feet in the dwelling unit, the number
+of people living in it, the number of square
+feet per person, and the number of people
+per bed. All of these were tabulated against
+the several forms of emotional strain intro-
+duced earlier. Partial correlations also were
+prepared, but these indicate that these indi-
+vidual components are insignificant. When
+considered together in a multiple correlation,
+they account for less than 5% of the varia-
+
+ 
+
+stomach is full of fire, but you don’t let others
+know about it; you are bothered by easily losing
+your temper; you feel that if you don’t try your
+best to control yourself, you may say or do some-
+thing harmful to others; you feel that you are
+going to explode; you find some people so unrea-
+sonable that it is hard to talk to them.
+
+The same weighting scheme is used for this in-
+dex as for the index of emotional strain. Those who
+score 2 or more on the index are considered to be
+high on hostility.
+tion in any of the strain variables in Hong
+Kong.
+
+Density and crowding are sometimes mea-
+sured by the number of people per room
+rather than by feet per person (UN, 1962).
+This definition suggests a concern for a lack
+of privacy, and for the multiple if not com-
+peting uses of the same limited space. How-
+ever, the number of rooms in a dwelling unit,
+even when considered together with the
+earlier density measures, has no impact on
+levels of emotional strain.
+
+In addition to these multiple and partial
+correlations, tabulations were prepared to
+ascertain whether densities affect levels of
+strain among occupants of particular kinds
+of housing. But again the results are nega-
+tive. Only the superficial indicators of un-
+happiness and general worry respond to den-
+sities, and, as seen above, these differences
+are considerably reduced when family income
+is considered together with densities.
+
+High densities can be architecturally ar-
+ranged in several different ways. In this re-
+gard, the number of rooms in a dwelling unit
+was considered together with densities, but
+no impact on levels of emotional strain was
+found in Hong Kong.
+
+In addition to the amount and organiza-
+tion of space, the impact of housing ameni-
+ties on levels of strain was determined. To
+show this, an index of amenities was created.
+A score of one was assigned to the presence
+of each of the following: tap water, flush
+toilet, and cross ventilation. This index was
+then used together with densities, number of
+rooms, and family income to determine the
+In contrast to the physical features of
+housing, some of the social features seem to
+adversely affect individuals, but these several
+features are significant only when they are
+found in certain physical surroundings.
+These surroundings determine whether po-
+tentially destructive social environments will
+in fact create stresses that result in high
+levels of strain.
+
+Two characteristics of the social environ-
+ment are especially significant: the number
+of households® sharing the same dwelling
+unit and, related to this, the number of peo-
+ple in that unit. Only one feature of the
+physical housing environment is significant:
+the floor level of the dwelling unit.
+
+These housing features are singled out for
+special consideration because of their rele-
+vance to sustained social relations or social
+densities. It is assumed that sustained social
+relations among nonrelatives are more likely
+to produce interpersonal conflict and stress
+than are sustained social relationships among
+relatives. We rely on information concerning
+the number of households in the dwelling
+unit in order to distinguish intradwelling-
+unit social relations that are limited to kins-
+men from those involving kinsmen and non-
+kinsmen living together.
+
+Floor levels are significant in Hong Kong
+simply because it is more difficult for resi-
+dents in the upper stories of multistory build-
+ings to move about and to get away from
+their homes. Consequently, they are forced
+into close social relationships with the other
+members of their dwelling unit.
+
+If close, forced social relationships are a
+potential source of stress, then stress should
+be higher when there are more people in the
+dwelling unit, when these people include non-
+family members, and when they live in
+upper-floor areas.1°
+
+These assumptions are supported by the
+Hong Kong data. First, when the number of
+households occupying a single dwelling unit
+is statistically controlled, floor level is seen
+to affect emotional illness for multiple family
+dwelling units only. Forced interaction ap-
+parently does not affect levels of emotional
+illness if this interaction is with one’s own
+kinsmen, but it does if this interaction is
+with nonkinsmen. The number of families
+sharing a dwelling unit, however, does not
+increase the levels of emotional illness for
+
+10 As a counter-hypothesis, it seems likely that
+people living on the lower floors of multistory
+buildings would be exposed to much higher and
+longer periods of noise and that this noise would
+be emotionally upsetting. There are some studies
+that suggest that if certain home noises continue
+for a long period, they might be destructive to
+hearing (Farr, 1967). Other studies have also sug-
+gested that home noises can be severely disturbing
+(APHA, 1948; Council of Europe, 1964; WHO,
+1968; Eisenberg, 1969). However, Lemkau (1970)
+has noted that, although there is evidence relating
+physiological disturbances to noise, it has not been
+adequately demonstrated that there is a relationship
+between this disturbance and psychological disorder.
+The present findings from Hong Kong lend support
+to Lemkau’s position.
+those who live on the ground floor, perhaps
+because these people are able to move out
+into the street for additional social space.
+Only when the individual’s movement is re-
+stricted is he affected by the presence of
+other families (Table 3).
+
+Second, a somewhat similar pattern exists
+for levels of hostility. Floor level, however, is
+clearly most significant for this dimension
+of strain (Table 4). Furthermore, these
+strains are affected by the number of house-
+holds living in a dwelling unit, not the num-
+ber of people living there. It is also clear that
+—when considered individually—fioor level,
+number of households in a dwelling unit, and
+number of people in the unit have no inde-
+pendent effect on levels of strain.“
+
+The effect of architectural features on in-
+dividuals is indirect in that individuals do
+not respond directly to housing. Instead,
+housing affects patterns of social relation-
+ships, and individuals respond to the system
+of social relationships that housing condi-
+tions have helped to create.
+
+Given the significance of housing for social
+relationships, we might expect that family
+relationships also would respond to different
+housing conditions.
+the physical boundaries of social action in
+the home would have clear effects on inter-
+personal relationships among family mem-
+bers. If this is so, then the wide variations
+in physical housing arrangements in Hong
+Kong should reflect themselves clearly in the
+measures of family relationships to be pre-
+sented here. Three measures will be con-
+sidered: the frequency of husband-wife
+communications, tension in husband-wife re-
+lations, and marital happiness.
+
+Husband-wife communications are consid-
+ered because verbal communication is no
+doubt the most common form of interaction
+between people. As a form of interaction, it
+is the basis on which positive feelings of
+husbands and wives toward each other are
+created and sustained. Furthermore, the fre-
+quency of interaction is a determinant and
+indicator of the degree to which the husband-
+wife relationship is “group-like”; that is,
+communications represent a dimension of
+family integration.
+
+Three questions were used to construct an
+index of husband-wife communication.
+
+12 Two of these questions were preceded by a
+general query: “Some couples discuss more things
+than other couples. In general, how often do you
+and your spouse discuss the following topics:
+
+Amusing or interesting incidents that happen to
+you?
+
+Things you have talked about with friends and
+others?”
+
+The third question was: “Some people talk with
+their spouse when they have problems and worries.
+Some would hide them in their heart when they
+have worries. How many of your worries and prob-
+lems do you talk over with your spouse?” For the
+first two questions, the answer categories “many
+times” or “sometimes” are given a score of 2. The
+answer category “seldom” is scored 1, and the
+answer category “never” is scored zero. For the
+Whereas the index of husband-wife commu-
+nications measures the integrative features of
+marriage, our measures of tension reflect de-
+structive and distintegrative features. Again,
+three items enter into the index of tension.1*
+Finally, a rather general question was asked
+to tap overall marital satisfaction.1*
+
+These various dimensions of husband-wife
+relationships are highly associated with each
+other, and they are each strongly influenced
+by conditions found outside the family and
+its housing (Mitchell, 1969a). Therefore, our
+attention to housing is at best superficial in
+the present context.
+
+With these qualifications in mind, the tab-
+ulations suggest that high densities appear to
+affect husband-wife communications and
+marital happiness, but not quarrels. That is,
+compressing the arena for family interaction
+apparently affects husband-wife relation-
+ships, especially levels of communication.
+However, our other studies found that the
+educational level of spouses has an important
+influence on levels of family cohesion; there-
+fore, the educational level must be statis-
+tically controlled in assessing the significance
+of density for cohesion. When this is done,
+the effects of density on cohesion are entirely
+eliminated.
+
+To see whether the division of space within
+a dwelling unit affects family cohesion, we
+introduced along with densities several other
+In addition to information on husband-
+wife relationships, a number of questions
+were asked about parent-child relationships.
+Note is made here only of the degree to which
+high densities force children out of the home
+and away from the control of their parents.
+The simple question used for this purpose
+was: “How often do... your children...
+play outside the house and you do not know
+where they are?” This was asked only of
+parents with a child 18 years of age or
+younger living at home.
+
+High densities appear to affect the amount
+of surveillance that parents have over their
+children. For the higher the density, the
+higher is the proportion of parents who say
+that they don’t know where their children
+are playing.
+
+Since lower-class families are less likely
+to exercise close control over their children,
+and since lower-class families are the most
+likely to live in high-density housing, sta-
+tistical controls must be applied with regard
+to the family’s class position. Even when
+family income or the education of the parents
+is considered, however, high densities still
+facilitate low control over children (Table 5).
+Furthermore, densities have this predominant
+effect even when floor level, which indicates
+the potential ease of parental surveillance, is
+statistically controlled.
+
+Similar perspectives on problems of space
+are reported for secondary school pupils with
+regard to the difficulty they have in finding
+a place to study. They are more likely to
+have this difficulty if they live in one of the
+following types of high-density housing: a
+resettlement estate, a room other than a
+flat, a bed space, a cottage, or a squatter hut.
+Except for those who live in a “whole house,”
+an absence of a place to study becomes more
+serious as the size of the pupil’s family in-
+creases. No doubt some of these young people
+have to study outside their homes, since
+studying at a crowded home may be annoying
+and disturbing to them, thereby adversely
+affecting their educational development.
+
+Therefore, it seems likely that high densi-
+ties create uncomfortable situations for mem-
+bers of a family in which there are children.
+To reduce the consequences arising from
+high density, children are given greater free-
+dom to leave the home, thereby reducing the
+density. But this response tends to weaken
+the surveillance that parents have over their
+children, and this weakened supervision may
+in turn facilitate the development of many
+of the social problems of youth assumed to be
+characteristic of high-density slum commu-
+nities around the world.
+Therefore, some of the major effects of
+housing pertain to the fabric of social life
+and social control in neighborhoods. Resi-
+dents in upper floors in multistory buildings
+are no doubt encouraged to leave their dwel-
+ling unit if they share the unit with other
+households. If they do not leave, they tend
+to develop higher levels of emotional illness
+and hostility. Residents on the ground floor
+are able to avoid this situation because it is
+easier for them to use the street as an adjunct
+to their home. (This pattern of effects is
+much less common in public housing because
+the Hong Kong government’s regulations dis-
+courage these sharing arrangements.)
+
+Children who live in high-density housing,
+regardless of their floor level, also are pushed
+out of the house, a pattern that tends to re-
+duce parental control over the children. And
+with very little home-visiting among neigh-
+bors who live in high-density dwelling units,
+the potential for friendly relationships among
+basic levels of emotional strain and hos-
+tility.
+
+. Although high densities and other physical
+features of housing do not affect deeper
+levels of strain, the social features of hous-
+ing have an important impact on these
+strains. Most importantly, the doubling-up
+of nonrelated households tends to create
+stressful situations, especially if it is dif-
+ficult for the household members to easily
+escape each other by retreating outdoors.
+It is more difficult to retreat in this way
+when the dwelling unit is on an upper floor
+of a multistory building. Therefore, multi-
+story buildings, when combined with shar-
+ing arrangements, can have negative effects
+on the emotional health of individuals.
+These effects, it is conjectured, probably
+arise from forced interaction among non-
+relatives, not from high densities or large
+numbers of fellow kinsmen. Large numbers
+of people in high density housing can be
+tolerated more easily if these people are
+one’s kinsmen.
+
+. Although the various housing conditions
+have no apparent effect on patterns of hus-
+band-wife interaction, densities have a
+clear impact on parent-child relationships.
+Parents in high-density housing evidently
+do not discourage their children from leav-
+ing the house, thereby temporarily relieving
+the high densities. But this solution to high
+densities tends to reduce the parents’ knowl-
+edge of and control over their children.
+
+. High density housing also discourages inter-
+action and friendship practices among
+neighbors and friends.
+American Public Health Association, Committee on
+
+Hygiene of Housing
+
+1948 Planning the Neighborhood. Chicago: Pub-
+lic Administration Service.
+
+1950 Planning the Home for Occupancy. Chi-
+cago: Public Administration Service.
+
+Anderson, G. W.
+
+1943 “The present epidemiological basis of en-
+vironmental sanitation.” American Journal
+of Public Health 133.
+
+Bernstein, B.
+
+1968 “Some sociological determinants of percep-
+tion, an inquiry into sub-cultural differ-
+ences.” Pp. 223-239 in Joshua A. Fishman
+(ed.), Readings in the Sociology of Lan-
+guage. The Hague: Mouton.
+
+Buell, B.
+
+1952 Community Planning for Human Services.
+
+New York: Columbia University Press.
+Calhoun, John B.
+
+1962a “A behavioral sink.” Chapter 22 in Eugene
+L. Bliss (ed.) Roots of Behavior. New
+York: Harper & Brothers.
+
+1962b “Population density and social pathology.”
+Scientific American 32 (No. 206) :139-146.
+
+1963 The Ecology and Sociology of the Norway
+Rat. Publication No. 1008. Washington:
+US. Public Health Service.
+
+Chombart de Lauwe, P. H.
+
+1955 “Le logement, le menage et l’espace fa-
+milial.” Informations Sociales 9:956-980.
+
+1961 “The sociology of housing methods and
+prospects of research.” International Jour-
+nal of Comparative Sociology 2 (March).
+
+Chombard de Lauwe, P. and M. Chombard de
+
+Lauwe
+
+1959 Famille et Habitation. Paris: Centre Na-
+tional de la Recherche Scientifique.
+
+Council of Europe, Expert Committee on Public
+
+Health
+
+1964 Noise Abatement: A Public Health Prob-
+lem. Strasbourg: Council of Europe.
+
+de Groot, Ido, R. L. Carroll and R. M. Whitman
+
+1970 “Human health and the spatial environ-
+ment.” Mimeo., prepared for Environmen-
+tal Control Administration of the Depart-
+ment of Health, Education, and Welfare
+and the American Public Health Associa-
+tion.
+
+Downs, J. and K. Simon
+
+1954 “Characteristics of psychoneurotic patients
+and their families as revealed in a general
+mortality study.” Milbank Memorial Fund
+Quarterly 22:42-46.
+
+Eisenberg, R. E.
+1969 “Auditory behavior in the human neonate:
+Functional properties of sound and their
+ontogenetic implications.” Audiology 3:34-
+35.
+
+Farr, L. E.
+
+1967 “Medical consequences of environmental
+home noises.” Journal of the American
+Medical Association 202:99-102.
+
+Foote, N. N., J. Abu-Lughod, M. M. Foley, and L.
+
+Winnick
+
+1960 Housing Choices and Housing Constraints.
+New York: McGraw-Hill.
+
+Goldsmith, J. R. and E. Jonsson
+
+1970 “Effects of noise on health in the residential
+and urban environment.” Mimeo., prepared
+for Environmental Control Administration
+of the Department of Heath, Education,
+and Welfare and the American Public
+Health Association.
+
+Gruenberg, E. M.
+
+1954 “Community conditions and psychoses of
+the elderly.” American Journal of Psychia-
+try 110 (June):88-903.
+
+Guerrin, R. F. and E. F. Borgatta
+
+1965 “Socio-economic and demographic corre-
+lates of tuberculosis incidence.” Milbank
+Memorial Quarterly 43 (July):269-290.
+
+Hall, Edward T.
+
+1966 The Hidden Dimension. Garden City:
+
+Doubleday.
+Lansing, John B.
+
+1966 Residential Location and Urban Mobility:
+The Second Wave of Interviews. Ann
+Arbor: Survey Research Center, Institute
+for Social Research, University of Mich-
+igan.
+
+Lansing, J. B., C. W. Clifton, and J. N. Morgan
+
+1969 New Homes and Poor People. Ann Arbor:
+Survey Research Center, Institute for So-
+cial Research, University of Michigan.
+
+Lemkau, Paul V.
+
+1970 “Position paper on mental health and
+housing.” Mimeo., prepared for Environ-
+mental Control Administration of the De-
+partment of Health, Education, and Wel-
+fare and the American Public Health
+Association.
+
+Loring, William C.
+
+1956 “Housing characteristics and social dis-
+organization.” Journal of Social Problems
+3 (January) :160-168.
+
+1964 “Residential environment: Nexus of per-
+sonal interactions and healthful develop-
+ment.” Journal of Health and Human
+Behavior 5 (Winter):166-169.
+
+1967 “Comments on Dyckman.” Pp. 53-56 in
+William Ewald (ed.), Environment for
+Man: The Next Fifty Years. Bloomington,
+Ind.: Indiana University Press.
+
+Madge, John
+
+1968 “Housing, social aspects.” International
+Enclyclopedia of the Social Sciences., 6:
+516-521. Macmillan and Free Press.
+
+Martin, A. E.
+
+n.d. Environment, Housing and Health, World
+Health Organization, mimeo., WHO/Env.
+San.:66-144, Geneva.
+MANUSCRIPTS FOR THE
+ASA ROSE SOCIOLOGY SERIES
+
+Fellows and Active and Student members of the Association
+
+may submit manuscripts of 100 to 300 typed pages for
+publication in the ASA Arnold and Caroline Rose Mono-
+graph Series in Sociology to the Series Editor, Sheldon
+Stryker, Department of Sociology, Indiana University,
+Bloomington, Indiana 47401.
+MANUSCRIPTS FOR THE
+ASA ROSE SOCIOLOGY SERIES
+
+Fellows and Active and Student members of the Association
+may submit manuscripts of 100 to 300 typed pages for
+publication in the ASA Arnold and Caroline Rose Mono-
+graph Series in Sociology to the Series Editor, Sheldon
+Stryker, Department of Sociology, Indiana University,
+Bloomington, Indiana 47401.

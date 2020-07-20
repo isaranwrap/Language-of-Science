@@ -1,0 +1,1490 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+Using data on 197 large Japanese firms over a 24-year period, we study
+how profitability is affected by firm integration in big-six horizontal keiretsu
+networks. Combining measures of financial and commercial dependence on
+a keiretsu group with the governance ties of equity ownership, director trans-
+fers, and shacho-kai (presidents’ council) membership, we replicate previous
+studies showing that group firms have lower average profitability than inde-
+pendents. Such findings, however, cannot be taken at face value, because the
+group effect varies with the prior performance of the firm. Weak companies
+benefit from group affiliation (they recover faster), while strong ones do not
+(they are subsequently outperformed by independent firms). Thus, there is
+much less variability in the performance of keiretsu firms as compared with
+independents. However, this redistribution effect decays in the second half of
+the 1980’s during a period spanning deep structural changes in the Japa-
+nese economy. Before then the effect is evident for all five measures of firm
+ties to big-six keiretsu groups. Yet one such tie, shacho-kai membership, dis-
+tinctively shapes the intervention process. Shacho-kai standing appears to
+be a near-sufficient condition for redistribution. For shacho-kai firms, ad hoc
+business and governance ties (with one exception) add nothing to the odds
+of intervention. For firms lacking shacho-kai seats, however, ad hoc ties
+strongly condition those odds. Moreover, redistribution is a pervasive and
+continuous process that touches all shacho-kai participants. When the inter-
+vention target is an independent firm, by contrast, the redistribution process
+affects the weakest and the strongest group members; average performers
+are left alone. These and other findings, we argue, run counter to a simple
+main bank model of keiretsu organization and action, and favor instead a
+model of the big-six groups as complex network structures.
+matic dealings and the academics who study
+them. These complex interfirm networks re-
+veal the embeddedness of the Japanese econ-
+omy: the infusion of market exchange with
+rich social relations of a noneconomic nature
+(Fruin 1992; Granovetter 1985). Embedded
+transactions of the kind keiretsu represent dis-
+tort the operation of market mechanisms, pro-
+ducing patterns of allocation and return that
+appear suboptimal by traditional economic
+criteria. Yet few current observers are at ease
+with the claim that Japanese companies
+evolved into world-class competitors despite
+rather than because of their keiretsu entangle-
+ments. The issue is all the more frustrating to
+conventional economic thought because the
+hypotheses most congenial to it—that
+keiretsu clusterings promote joint profit
+maximization by dint of monopoly/mon-
+opsony rents or greater transactional effi-
+ciency—are seemingly at odds with the avail-
+able empirical evidence.
+
+Much research to date on keiretsu net-
+works in Japan deals with structure: the
+composition of interfirm groupings, the ties
+binding companies to one another (cross-
+shareholding, interlocking directorates), and
+the transformation of these relations over
+time (Gerlach 1992; Lincoln, Gerlach, and
+Takahashi 1992; Okumura 1983). The con-
+sequences of these networks, for individual
+firms embedded in them and for the Japa-
+nese economy as a whole, are less studied,
+and firm conclusions are scarce. What dif-
+ference, if any, do the keiretsu make in the
+behavior and performance of Japanese com-
+panies? Are they, particularly the big-six
+horizontal or intermarket groups on which
+our inquiry focuses, best cast as dinosaurs—
+survivors from a prior stage of Japanese in-
+dustrialization that have scant significance
+today beyond the sharing of some familiar
+corporate names and logos? This position
+has been widely held in recent years, for ex-
+ample, by Japanese business and govern-
+ment spokespersons eager to play down the
+role of keiretsu in Japan’s hard-to-penetrate
+markets and huge trade surpluses.
+
+We find that keiretsu networks have a sub-
+stantial impact, although it is not the “joint
+profit maximization” that economists usually
+attribute to coalitions of firms. Our evidence,
+building on that of other recent work, testi-
+fies that keiretsu groupings yield the conse-
+quences associated with a variety of forms of
+collective action: They enhance the viability
+of the group as a whole by realigning its
+members’ prospects and resources. The
+keiretsu, it appears, equalize the fortunes of
+their members, smoothing inequality in fi-
+nancial returns across participating firms at
+any given time, and perhaps over time as
+well, for any given company. These adjust-
+ments amount to “taxing” prosperous mem-
+bers to guarantee the survival and hasten the
+recovery of financially troubled affiliates.
+
+Our purpose is to demonstrate these claims
+using a panel data set for the years 1965 to
+' We selected 1980 as the benchmark year for
+defining our sample of top 200 firms because it
+fell near the middle of our 1967 to 1988 series.
+Also, 1980 was a time of relative stability in the
+Japanese economy, in contrast with the Nixon and
+oil shocks of the early 1970’s and the endaka
+(high yen) and bubble economy turbulence of the
+late 1980's.
+
+2? The “big-six” horizontal groups include the
+reincarnation of the prewar zaibatsu (family-cen-
+tered holding companies)—Mitsui, Mitsubishi,
+Sumitomo—and the postwar bank-centered,
+groups—Fuyo, Dai-Ichi Kangyo, and Sanwa.
+These highly diversified clusterings often share
+names and logos (Mitsubishi, Sumitomo, etc.)
+and include major financial institutions, trading
+companies, and industrial producers (Gerlach
+1992; Orru, Hamilton, and Suzuki 1989). The
+vertical keiretsu are in turn formed by large com-
+panies (often affiliated with the big-six horizon-
+tal groups) leading their own networks of suppli-
+ers, distributors, and other affiliates (e.g., Hitachi
+or Toyota; see Ahmadjian 1995; Aoki 1988;
+Asanuma 1989).
+Later analysts have been less enamored of
+market domination arguments and more in-
+clined to stress the potential advantages of
+cost reduction and coordination that groups
+confer on their members (Goto 1982; Imai
+1988; Okumura 1983). Such research has
+drawn heavily on recent developments in or-
+ganizational economics (transaction cost and
+agency models) arguing that groups econo-
+mize on information and control through
+regularized communication and exchange
+(Williamson 1985). Yet keiretsu groupings
+are also claimed to avert the pitfall of over-
+organization by keeping their contractual ar-
+rangements implicit and their modes of mon-
+itoring and intervention informal and flex-
+ible. As Nakatani (1984) observed, while
+transaction cost and agency theory offer ar-
+guments regarding interfirm clusterings quite
+different in substance from the claims of
+market power theories, their assessment of
+the economic impact on any given firm is ul-
+timately the same: grouping raises profits.
+The presumed causal mechanism, however,
+is enhanced efficiency, not inefficient mo-
+nopoly/monopsony rents.
+
+Although agency and transaction cost ac-
+counts of Japanese business groupings re-
+main fashionable in studies of the vertical
+keiretsu (e.g., the Toyota supply network),
+where the case for an efficiency payoff is
+prima facie more compelling (see Asanuma
+1989; Sako 1992), the evidence for the big-
+six horizontal groups disputes the joint profit
+maximization claim (Aoki 1988:225).
+Econometric analyses of financial perfor-
+mance data on large Japanese manufacturing
+firms, conducted first by Caves and Uekusa
+(1976) and later by Nakatani (1984), yielded
+consistently significant negative effects of
+big-six affiliation on profits.> Moreover, to
+measure variations among firms in strength
+of ties to a group, Caves and Uekusa
+(1976:75) included in their analysis the share
+of a company’s equity held by fellow group
+members. This, too, bore negatively on cor-
+porate profitability. Caves and Uekusa’s
+early acknowledgment that group alignment
+is a continuous variable, not the sharp di-
+chotomy of affiliate and independent as-
+sumed in most other studies, is an important
+precedent that we follow and extend.
+
+The difficulty with the claim that keiretsu
+alliances maximize joint profit is that it
+frames the question of how groups affect per-
+formance in overly simplistic terms: Affilia-
+tion is thought to raise or lower the profit-
+ability of an average firm. The reality is more
+complex. What group membership does to or
+for a Japanese company depends on the cir-
+cumstances peculiar to that firm, the circum-
+stances of other firms with whom it has
+strong ties, the broader state of the economy,
+the strategic concerns of the industry or
+group, the policies and actions of govern-
+ment ministries such as the Ministry of Fi-
+nance or the Ministry of International Trade
+and Industry, and a host of other related con-
+straints (Schaede 1995).
+
+Keiretsu groupings, spearheaded by the
+main banks and principal firms that are cen-
+tral nodes in the interorganizational network,
+effectively smooth out shocks and disloca-
+tions in those sectors of the economy they
+dominate. Such practices highlight the em-
+bedded character of Japanese economic ex-
+change. Financial and commercial transac-
+tions mesh with social relations in a “thick
+and complex skein” (Caves and Uekusa
+1976:59, italics added). Companies adjust
+their terms of trade according to their bonds
+with transaction partners, factoring into price
+and contracting decisions such nonmarket
+considerations as equity norms or the well-
+being of the immediate partner and other
+stakeholders. Thus, prices, wages, and rates
+of return are set, not so much by what the
+market will bear, but according to what
+seems fair and proper given the identities of
+the transacting parties and the needs of the
+multi-firm community as a whole.
+economy at large is not easily observed. But
+the responses of keiretsu partners when a
+member company encounters major adver-
+sity—financial distress or scandal—brings
+that adaptation process into high relief. The
+events that unfold in such crises have been
+dramatically recounted in a number of im-
+portant case studies.4 What generally hap-
+pens is that the group, typically led by the
+target company’s main bank, engineers a
+bailout and turnaround. Loans are rolled
+over, and new financing is arranged. Mem-
+ber companies maintain or increase their eq-
+uity in the troubled firm. Directors are dis-
+patched from the main bank and major trad-
+ing partners to the firm’s board. Group sup-
+pliers and customers adjust their terms to fa-
+vor the target firm and transfer technical per-
+sonnel to its operating divisions. The group
+may in addition mandate exclusive purchases
+from the target firm’s product line until the
+crisis has passed (e.g., Sumitomo purchased
+Mazda cars during Mazda’s collapse follow-
+ing the oil crisis).
+
+How effective are these interventions in re-
+versing the fortunes of troubled firms? The
+anecdotal reports suggest that they often suc-
+ceed, but hard evidence was scarce until an
+important study by Hoshi, Kashyap, and
+Scharfstein (1991). From the population of
+Tokyo Stock Exchange-listed manufacturing
+firms, Hoshi et al. selected companies that
+had experienced severe financial distress—
+firms whose operating income was greater
+than their interest payments in one year but
+less in the following two. This selection cri-
+terion produced a sample of 167 firms that
+had undergone distress during the period of
+observation (1965 through 1988), although
+data problems reduced the final sample to
+121. Their regression analyses showed that
+firms with group ties invested more than in-
+dependent firms in the period following the
+onset of difficulty and subsequently enjoyed
+stronger sales growth.
+
+The work of Hoshi et al. (1991) was a ma-
+jor advance in research on the economic
+consequences of keiretsu groups. Combined
+with the case study literature on bank-led
+bailouts and other interventions aimed at al-
+tering the fates of troubled companies, it
+makes clear that the Caves and Uekusa
+(1976) and Nakatani (1984) analyses of the
+economic effects of big-six keiretsu affilia-
+tion, pioneering as they may have been,
+were seriously misspecified. As we argue
+above, the economic impact of a keiretsu af-
+filiation is highly firm- and sector-specific.
+For distressed firms, dependence on a group
+yields real benefits: Bankruptcy risk is at-
+tenuated, normal operation (e.g., ongoing
+investment) continues and recovery acceler-
+ates. What Hoshi et al. do not directly ad-
+dress is the cost to the group, and particu-
+larly its leaders (the main bank, major cus-
+tomers, strong performers), incurred by the
+intervention. In the long run, the successful
+rescue and turnaround of a business partner
+may pay for itself, for example, in loans and
+contracts otherwise lost to failure, but in the
+near term the burden on the rescue team
+may be severe. Seen in this light, the appar-
+ent lackluster financial performance of big-
+six firms starts to make sense. Group mem-
+bers pay an insurance premium for the
+safety net that insulates each of them from
+the never-too-distant spectre of business ad-
+versity.
+
+Yet groups may place ceilings on the per-
+formance of their strongest members for rea-
+sons other than the implicit insurance con-
+tract that diverts assets to their kindred in
+need. Affiliates whose earnings are sharply
+up in one accounting period may find them-
+selves reined in the next as partners respond
+to high earnings as a signal that the company
+is extracting rents from its purchase and sup-
+ply relationships. Such norms governing
+rates of return may be set by the group as a
+whole or, particularly in the case of the ver-
+tical keiretsu, imposed by a dominant “par-
+ent” firm. Discussing T. Boone Pickens’s°
+abortive attempt to secure a seat on the board
+While T. Boone Pickens is not a particu-
+larly credible authority on Japanese supply
+relations, his highly publicized effort to gain
+a seat on Koito’s board focused attention on
+the web of constraints that keiretsu networks
+place on their member firms. It is a reason-
+able proposition that groups not only pool
+risks to safeguard one another’s survival pros-
+pects, but that they also act on norms of eq-
+uity and common welfare to cap the successes
+of their strongest members. In industrial
+goods markets, high margins for any one firm
+are attainable only at the expense of trading
+partners. When these partners are large com-
+panies organized in keiretsu groups, the pres-
+sures in the wake of an extraordinarily good
+year to adjust parts and materials prices in a
+direction favorable to suppliers or customers
+are likely to be strong. Moreover, trading
+partners acting in concert can dictate the
+profit margins of target firms dependent on
+those transactions simply by adjusting the
+prices of their own purchases and sales.
+Of the governance ties, two have Western
+counterparts: partial equity ownership by
+group financial institutions and commercial
+corporations, and keiretsu representation on
+the board of the targeted company (Mintz
+and Schwartz 1985). The resemblance to
+Western patterns, however, is superficial. The
+structure of stable corporate cross-share-
+holdings and the transfer or dispatch of man-
+agers to insider director positions (as op-
+posed to Western style outside director inter-
+locks) are distinctively Japanese maneuvers
+(Lincoln et al. 1992). Moreover, a third gov-
+ernance structure—the keiretsu presidents’
+council, or shacho-kai—has no counterpart
+in the Western economies. The shacho-kai is
+a regularly convening association (e.g., the
+Mitsubishi kinyo-kai or Friday Club) of the
+shacho (presidents) of the keiretsu member
+firms. While what precisely transpires in
+council meetings is shrouded in secrecy,
+most knowledgeable observers characterize
+the shacho-kai as a loose, voluntary associa-
+tion that symbolizes and supports the iden-
+tity of the group as a whole, but involves it-
+self sparingly in the decision-making of in-
+dividual companies (Gerlach 1992). By no
+account is the shacho-kai a keiretsu “board
+of directors,” and Japanese managers are
+quick to point out that behaving like one
+would place a council in direct violation of
+Japan’s antimonopoly law.
+
+In our view, the significance of the shacho-
+kai lies less in what such councils actually
+do than in its designation of the core mem-
+bership of the keiretsu network. Shacho-kai
+companies typically have a longer and closer
+association with the keiretsu group and are
+more likely to use the group name and logo
+(e.g., the Mitsubishi three diamonds or the
+Sumitomo igeta or well-frame). Beyond this
+inner circle, however, numerous firms lack-
+ing shacho-kai seats are tied to the group
+through their financial and commercial trans-
+actions and through various forms of moni-
+toring and governance. Similar ties, of
+course, connect companies that occupy seats
+on the same shacho-kai. Many observers feel
+that such business relations play a larger part
+in the cohesion and coordination of the
+keiretsu than does the generally passive
+presidents’ council itself.
+
+If the shacho-kai does not serve the “head-
+quarters” function for the group as a whole,
+what, if anything, does? Only in the case of
+the vertical manufacturing keiretsu—the py-
+ramidal webs of suppliers or distributors at
+whose apex stands a Toyota, Toshiba, Mat-
+sushita, or Nippon Steel—is there no ambi-
+guity as to which company is the central
+node in the network or its monitoring and
+disciplining agent. Within the big-six hori-
+zontal groups, however, the issues of central-
+ity and agency are less clear. One school of
+thought, embraced by financial economists,
+dispenses with the other possibilities and
+singles out a key player—the main bank.
+This is typically one of Japan’s 11 large com-
+mercial or “city” banks (toshi ginko). In the
+simplest version of this story, no “keiretsu
+network” exists: only sets of stable financial
+transactions between an array of corpora-
+tions and the large banks on whose financing
+they depend (see Flaherty and Itami 1984).
+Owing to the high leveraging of large Japa-
+nese manufacturing firms, the banks are ex-
+posed to risk and therefore seek to monitor
+the management of their client firms. Secur-
+ing an equity stake (limited to 5 percent un-
+der Japanese law since 1987) and represen-
+tation on a company’s board are natural re-
+sponses to that risk exposure, and such
+moves position the bank for intervention
+should the client firm fall on bad times.
+This model of a big-six keiretsu grouping
+as reducible to a set of bank-client depen-
+dencies is less interesting sociologically
+than that we favor of a. far-flung web of
+overlapping financial, commercial, and gov-
+ernance relations issuing from a central core
+to pull in large segments of the Japanese
+economy. In our view, the main-bank model
+is an extreme simplification that molds real-
+ity to the stark and simplistically dyadic
+agency-theoretic perspectives of corporate
+finance economics (Perrow 1986). Curi-
+ously, there is an analogous argument in the
+Marxist tradition on the role of financial in-
+stitutions in advanced capitalist economies
+that Mintz and Schwartz (1985) label “bank
+control theory.” Despite the sharply differ-
+ent ideological cast, this Marxist frame-
+work, too, treats large financial institutions
+as central nodes in the economy, using eq-
+uity ownership and director interlocks to in-
+fluence corporate decision-making in dra-
+matic and forceful ways when a client com-
+pany runs into trouble. Also noteworthy is
+that bank control theory “posits the segrega-
+tion of the economy into financial groups,
+each composed of companies that remain
+under the control of a financial institution”
+(Mintz and Schwartz 1985: 73).
+
+As a factual matter, the pure main-bank
+model cannot withstand strong scrutiny as a
+description of keiretsu organization and ac-
+tion. The histories of the big-six keiretsu—
+from their prewar origins as family-con-
+trolled zaibatsu, through the postwar breakup
+of their holding companies, to their reunifi-
+cation through cross-shareholding and mutu-
+alistic business dealings—belie the sugges-
+tion that, aside from banks and corporations
+managing their reciprocal resource depen-
+dencies, there is nothing here of note. More-
+over, ample evidence exists that trading com-
+panies and large manufacturers have occa-
+sionally played key roles in orchestrating
+bailouts and other forms of keiretsu interven-
+tion (Sheard 1989).
+
+Bank monitoring and control figure impor-
+tantly in the keiretsu intervention story, but
+they do not explain the whole of it. We do
+not question that group banks typically take
+the lead in rescuing and restructuring
+troubled member firms. Indeed, we attribute
+the decay of the redistribution pattern after
+1985 (later in Table 3) mainly to the collapse
+of bank borrowing as a source of corporate
+finance from 1986 to 1989. At issue is
+whether the bank is a delegated monitor, or-
+chestrating an effort to rescue a company to
+whom the group as a whole is committed
+through a slew of obligations and dependen-
+cies, or whether the bank acts in its own self
+interest to prop up a client whose failure
+might put at risk its own financial health.®
+
+Kester’s (1991) comments on_ the
+Mitsubishi Bank-led reorganization of Akai
+Electric, a Mitsubishi Electric affiliate
+For a deeply troubled company like Akai, the
+lion’s share of credit must go to the overall ef-
+fectiveness of the rescue effort mounted by the
+Mitsubishi group. And it was a group effort in
+every sense of the word. Although the bank
+may have been the prime mover at the outset,
+the actual execution of the rescue plan was cus-
+tomer/vendor led. Consequently, the funda-
+mental thrust of the restructuring was less that
+of generating cash in the short run to satisfy
+creditor demands than one of preserving Akai’s
+role in the Mitsubishi group’s global network
+of trading relationships. Rather than restructur-
+ing financial claims against the firm, effort was
+focused on restructuring Akai’s function as a
+purchaser, supplier, and owner of assets used
+to support transactions occurring in a vertical
+chain of electronics production and marketing
+inside the Mitsubishi group. (Pp. 72-73)
+group boost the fortunes of a troubled Japa-
+nese company. For this segment of the Japa-
+nese economy, the Caves and Uekusa (1976)
+and Nakatani (1984) studies clearly miss the
+mark: Group ties enhance, not impair, finan-
+cial performance. Yet interventions on behalf
+of a failing partner are not cost free. Banks
+tolerate lower returns on their capital; pur-
+chasers buy at higher prices while suppliers
+sell at lower; valuable know-how, capital,
+and labor are diverted from the helping firms
+to the target firm. Thus we advance the fol-
+lowing hypothesis: The impact of big-six
+keiretsu affiliation on a Japanese firm’s prof-
+itability is conditioned on the prior perfor-
+mance of that firm: Weaker firms do better,
+but stronger firms do worse.
+
+For our analysis of keiretsu effects on cor-
+porate profitability, this hypothesis suggests
+a negative interaction between keiretsu group
+affiliation and prior performance, conditional
+on prior performance being lagged a length
+of time sufficient for an intervention to oc-
+cur and its economic impact to become ap-
+parent.
+
+Figure 1 shows how such a negative inter-
+action connotes redistribution. The regres-
+sion line of return on assets for firm i at time
+t (ROA;,) on that firm’s ROA at time t-k is
+Thus, the slope of current profitability on
+prior profitability is flatter for group firms
+than for independents and the intercept is
+larger. At values of ROA;,, exceeding 0, in-
+dependents go on to outperform their
+keiretsu-affiliated counterparts.”
+
+For a set of large Japanese firms, we search
+over a 24-year period for systematic evi-
+dence that keiretsu groups orchestrate redis-
+tributions of the sort our model describes.
+Upon finding such evidence for the sample
+as a whole, we then investigate whether dis-
+tinct dimensions of affiliation with a group
+(governance ties versus transactional depen-
+dencies, main bank debt versus trading part-
+8 Our chief data sources are the NEEDS tape,
+which contains financial information on Tokyo
+Stock Exchange-listed firms (Nikkei Databank
+Bureau 1989), Keiretsu no kenkyu (various
+years), and Kaisha nenkan (various years). The
+largest 200 industrial firms in Japan in terms of
+company sales were identified from a list in
+Nihon kigy shudan bunseki (various years).
+Kaisha nenkan provided information on the affili-
+ations of a firm’s outside directors and the former
+affiliations of current directors who were trans-
+ferred by other companies. Jinji koshin roku
+(various years) provided additional biographical
+data on the backgrounds of directors. The top 10
+shareholders in each industrial firm and the
+amount of their holdings were coded from
+Keiretsu no kenkyu. Similar information on each
+financial firm was coded from Kaisha nenkan.
+Each industrial firm’s leading lenders and the
+amounts of their loans were also coded from
+Keiretsu no kenkyu. Trading ties were also coded
+from Kaisha nenkan, which gives the names of
+each firm’s leading suppliers and customers.
+Shacho-kai membership was coded from Indus-
+trial Groupings in Japan (Dodwell Marketing
+1982). Information on assets in 1980 and age of
+each company (years since founding) were taken
+from the 1989 Nikkei source. Three firms were
+eliminated from the sample: (1) Lion, which was
+formed by a merger in 1980 that greatly increased
+its size; (2) Daikyo Oil, which merged with
+Maruzen to form Cosmo in 1986; and Sumitomo
+Forestry, for which some critical information was
+missing from Keiretsu no kenkyu.
+endaka shock years, when the yen doubled
+against the dollar and precipitated a decline
+from which Japan rebounded into the “bub-
+ble” economy phase of explosive growth and
+asset inflation (1987 to 1990). This was also
+a period of major institutional change: rapid
+deregulation of financial markets, a massive
+shift from debt to equity financing of invest-
+ment brought on by a soaring stock market,
+movement of low value-added production to
+other countries, and increased job mobility in
+labor markets.
+
+These and other developments (in particu-
+lar, intensifying U.S. pressure to make Japa-
+nese markets more open and transparent)
+prompted much speculation that the end was
+at hand for such traditional and exotic Japa-
+nese economic institutions as permanent em-
+ployment and the keiretsu. Indeed, although
+we present some analyses from the entire
+1965 to 1988 period, most of our results are
+limited to 1985 and earlier. We truncate our
+panel at 1985 because of strong evidence that
+the pattern of keiretsu intervention decayed
+after 1985. Inclusion of the post—1985 years
+markedly weakens the evidence favoring our
+arguments. We plan a subsequent investiga-
+tion to determine whether, in the aftermath
+of boom and recession, restoration of the his-
+torical intervention pattern is underway.
+sample, 87 are council members and 110 are
+independents. Shacho-kai affiliations have
+been remarkably stable in postwar Japan, and
+few additions or deletions transpired over the
+1965 to 1988 period.
+
+Keiretsu ties through “ad hoc” transac-
+tions and control. Shacho-kai affiliation pro-
+vides the only unambiguous criterion for
+classifying Japanese firms as big-six affili-
+ates. Yet by no means does it exhaust the big-
+six sphere of influence. In addition, we ex-
+amine four distinct ad hoc!® keiretsu ties that
+signal affiliation, but with less certainty and
+formality than does shacho-kai seating: (1)
+the selection of keiretsu group firms as trad-
+ing partners, (2) the amount of borrowing
+from group banks, (3) the extent of share-
+holding by group banks and corporations,
+and (4) the selection of board members from
+the management of big-six firms. Purchase
+and supply and lending relations represent
+economic transactions with group compa-
+nies. We view equity and director interlock-
+ing as keiretsu control relations that are su-
+perimposed on the network of business deal-
+ings but do not entirely conform to it (Lin-
+coln et al. 1992).
+
+We measure a firm’s ad hoc ties to a keiret-
+su group as the proportions of the firm’s trad-
+ing partners, equity, debt, and directors held
+by the shacho-kai member companies of its
+dominant group. For shacho-kai firms, in no
+instance was the group with the largest share
+not also the group on whose council the com-
+pany was represented. In these cases, this
+measure taps a firm’s centrality in the ex-
+change and control relations within a single
+group’s shacho-kai elite. But the measure
+also has meaning for shacho-kai indepen-
+dents: It assesses their degree of economic
+integration in and administrative control by
+a dominant big-six group.!!
+
+Unlike shacho-kai membership, which has
+been essentially constant over our period of
+observation, big-six involvement in the trade,
+lending, equity, and boards of the firms in
+our sample varies by time. Because these
+data are fairly easily computed from the
+Nikkei NEEDS tape and similar sources (see
+note 8), we have measurements on the equity
+and debt variables at two- to three-year in-
+tervals from 1965 to 1988. The trade and di-
+rector data are much more difficult to obtain
+with accuracy, and we have these measures
+for just two years: 1978 and 1987.!2
+'3 The numerator of ROA is net income from
+operations before taxes. The ROE results display
+a strongly similar pattern to those for ROA and
+are in some instances stronger. However, because
+ROE and the debt/equity ratio share a common
+denominator, we obtain less plausible coefficients
+for debt/equity and total assets as compared with
+the ROA regression. The pattern of group effects
+on sales growth is similar to that for ROA and
+ROE, but is substantially weaker.
+
+'4 Tn other analyses, we used total sales instead
+of sales growth. The results were quite similar,
+although symptoms of multicollinearity arose
+with total sales and asset size in the same regres-
+sion. The credibility of our evidence for keiretsu
+effects depends heavily on our ability to control
+scale and growth differences between group and
+nongroup firms. Although the effects of keiretsu
+interventions might indeed show up in sales
+growth figures as well as profitability (we find
+such effects but they are small), many of the
+mechanisms through which groups assist their
+members (e.g., price reductions by keiretsu sup-
+pliers or the sale of cross-held shares) benefit the
+troubled company without affecting its sales.
+
+'S Shacho-kai firms comprise 8 of 15 steel
+companies, 4 of 7 oil companies, 8 of 14 nonfer-
+rous metals companies, 5 of 7 shipbuilders, 17 of
+32 chemicals firms, but only 9 of 24 electrical and
+precision machinery firms and 4 of 17 automo-
+bile producers.
+observation to control for trends over this
+period. Finally, dummies are entered for
+1973, 1974, 1975 (the first oil shock years),
+and for the 1985, 1986, 1987 endaka period.
+
+The means, standard deviations, and zero-
+order correlations for all variables are given
+in Table 1. Particularly noteworthy are the
+correlations with the five measures of keiretsu
+ties. Consistent with our arguments for the
+distinctiveness of the shacho-kai core, we
+find shacho-kai firms differing from compa-
+nies with high levels of ad hoc group attach-
+ment. Shacho-kai seating is associated with
+large asset size and early founding, but firms
+with ad hoc attachments are relatively smaller
+and (with the exception of debt) younger. Not
+surprisingly, then, the correlations between
+the dummy for shacho-kai and the measures
+of ad hoc ties are rather weak. Consistent with
+a theme that cross-shareholdings best map the
+web of keiretsu relations, the strongest such
+correlation is with equity holding. Evidence
+that shacho-kai memberships are a poor guide
+to big-six debt and trade relations is often
+cited by Japanese spokespersons eager to re-
+but foreign claims that keiretsu business rela-
+tionships are particularistic and exclusionary.
+In keeping with the notion that equity ties and
+director ties map governance networks that
+overlay financial and commercial resource
+dependencies, both bear moderate positive
+relationships to the debt and trade variables,
+and are themselves correlated at .592. With
+the puzzling exception of debt, the keiretsu
+measures are positively related to the debt/
+equity ratio, and, as prior studies show, in-
+versely related to ROA.
+LU £90" so" €r0" o10- sor 0001 = = = 7800" rr00" ones Aunbapqeq
+
+ 
+
+LST- I@l- 9ST — sso 180° 09” 6£0— 000°T —_ _ €78° 77 8Is9s ase WI
+ole £10" 800° sso 710" oso’— 110- OIl- 000°T _ 6bbl Ori YIMOIS soyes UDdI0q
+£€o— £0l- 0LO"— 760°— €Lt- See” vil 9Ec vec 000°T O19‘ I bb TENLLTE SJOSSE [BIOL
+Sa]QDIADA JOLIUOD
+syassy-uo OL aL aL OL wy = oney Aynbg = a8 y yMoln sjossy uoneIAsg = uvay ayquiie
+-uinjey = toyvariq «= Auinby opel 199 -oyoDys Aged WILY soyeg uso1ag = [RIO piepuris
+
+ 
+
+ 
+
+S86I-S96T ‘SULLA [eLISNpUy asaudel /6] :sesdTeUY oy) UI Pasy SoTqeIIeA I0J SUOTEI2110D 19p1Q-0197, pue ‘sUOTeIAIG prepuRys ‘suRII, “T P1q2L
+Table 2 reports five separate regressions of
+ROA, rotating the measures of big-six affili-
+ation (the dummy variable for shacho-kai
+seating and the four ad hoc indices), but re-
+taining the same control variables. The pat-
+tern is strong: Indexed by all five big-six ties,
+affiliation is associated with lower profit
+margins. The negative influence of calendar
+year taps the slowing of growth in the Japa-
+nese economy and the corresponding secular
+decline in corporate profitability. Older firms
+are less profitable, as are firms that have
+large assets (although asset size in the de-
+nominator of the dependent variable, ROA,
+cautions against strong conclusions in this
+regard). Recent sales growth, by contrast,
+drives profits sharply up. Finally, the ratio of
+'6 This negative association between ROA and
+the debt-equity ratio is typical of Western firms
+as well and is sometimes thought to signal fiscal
+difficulty. That interpretation is much less justi-
+fied in Japan. The high debt loads of Japanese
+firms with strong main bank relationships be-
+speak a strategy of high investment and growth at
+the expense of short-term net earnings. Of course,
+by loaning more, the bank’s own interests are bet-
+ter served by a long-term growth strategy.
+Early on, our analyses of these data revealed
+that the evidence for keiretsu intervention ef-
+fects became more pronounced if the three
+years following 1985 were deleted from the
+panel. Table 3 therefore presents GLS regres-
+sions for the full 1967 to 1988 period and for
+1967 to 1985 only. Despite the considerable
+increment in degrees of freedom, fewer of
+the relevant effects in the longer series are
+significant and their absolute magnitude is
+smaller. The contrast between the longer and
+shorter periods is especially pronounced in
+the case of big-six debt dependence: Adding
+the post-1985 years attenuates that effect far
+more sharply than is true of the other four
+measures of keiretsu ties. As we discuss be-
+low, this pattern accords with the view that
+the salient institutional changes in the keiret-
+su environment were financial deregulation
+and the abandonment of debt for equity fi-
+nancing.
+
+Two years seems like a reasonable interval
+for an enterprise group to monitor falling
+profitability and other signs of trouble in a
+member firm. Therefore, we took the aver-
+age of the one- and two-year lags in ROA to
+represent our lagged dependent variable
+(ROA;j,_,). We use random effects generalized
+least-squares to estimate models of the form
+of equation 1 over the panel of 197 firms by
+22 (19) years (Judge et al. 1985).'7 As be-
+fore, the shacho-kai dummy appears in ev-
+ery equation reported in each table, but the
+other ties measures are rotated.
+
+Model | shows a predictably strong main
+effect of lagged ROA. Of greater interest is
+its negative interaction with the shacho-kai
+dummy variable. Note also that the main ef-
+fect of shacho-kai, with the interaction in-
+cluded in the model, is now positive. These
+empirical estimates generated Figure 1: For
+shacho-kai firms, the effect of lagged profit-
+ability (the inertia in the system) is just half
+that for independent firms. Moreover, the
+positive main effect (the shift in the inter-
+cept) retells the Hoshi et al. (1991) story: For
+firms whose prior profitability lies in the re-
+gion of zero and below, a shacho-kai seat is
+a definite net plus.!8
+
+The remaining regressions in Table 3 re-
+tain the shacho-kai terms, but include as well
+the main and interaction terms for each of the
+four continuous big-six tie measures. The re-
+sults are unambiguous: the shacho-kai ef-
+fects are preserved (if in general diminished)
+while the same configuration of positive
+main effects and negative interactions with
+lagged ROA ( 65> 0; A < 0) appears for each
+of the measures of ad hoc keiretsu tie. Of par-
+ticular importance to a theory of the big-six
+groups is that the redistributive effect of
+keiretsu trading partnerships is larger judged
+by the f-statistics) than is that of debt ties,
+although in the 1967-1985 panel both are
+significant. In the 1967-1988 panel, the re-
+Table 3. GLS Regressions of Return-on-Assets (ROA) on Measures of Big-Six Keiretsu Ties and Con-
+trol Variables: 197 Japanese Industrial Firms, 1967-1988 and 1967-1985
+
+ 
+
+ 
+
+ 
+
+ 
+
+Model |
+Explanatory 1967— 1967-
+Variable 1988 = 1985
+Intercept -.017 -.038"
+(1.14) (2.19)
+
+Model 4 Model 5
+1967— 1967- 1967—- 1967-
+1988 1985 1988 1985
+-.016 -.037° -.017 -.039"
+
+(1.04) (2.16) (1.14) (2.22)
+Adjusted R? 816 854 818 856 819 857 818 855 818 855
+
+ 
+
+Notes: Table entries are GLS estimates of metric regression coefficients; absolute f-statistics are in parentheses.
+Included in the regression (but not in the table) are 14 dummy variables for industry classification, 3 dummies for
+the oil shock years of 1973, 1974, and 1975, and one dummy for the first endaka year (1985).
+distributive effect of a big-six debt tie is not
+significant while that of trade, while weaker
+than in the 1967 to 1985 data series, remains
+strong. This evidence, we argue, disputes a
+simple main bank model of the keiretsu
+while favoring instead a complex network
+model, wherein commercial alliances are as
+powerful as banking ties in creating a social
+infrastructure for keiretsu intervention in an
+affiliated firm’s affairs. The redistributive ef-
+fect of equity linkage to a big-six group is
+also strong, whereas that for director trans-
+fer appears somewhat less so. Because equity
+and director networks are heavily determined
+by the matrix of business transactions, a
+plausible conjecture is that keiretsu interven-
+tion is conditioned less on the surface gover-
+nance relations and more on the underlying
+economic exchange (Lincoln et al. 1992). In-
+deed, although not presented here, a regres-
+sion for ROA that simultaneously includes all
+five measures of big-six ties and their inter-
+actions with prior performance suggests this
+is so: The redistributive effects of the gover-
+nance ties are attenuated, whereas those of
+business exchange remain strong.
+
+Our findings for the late 1980’s fit a com-
+mon view that in this period the structure and
+functioning of keiretsu networks—particu-
+larly their financial dimension—began
+breaking down, a process that has continued
+in subsequent years.!° Some important struc-
+tural changes took place in the mid-1980’s
+Japanese economy. Deregulation of the stock
+market was accelerated and a corporate bond
+market was established (Zielinski and
+Holloway 1991), making it easier for firms
+to finance investment without reliance on
+group banks and insurance companies.
+
+During the 1986 to 1989 period, Japanese
+corporations radically reduced their depen-
+dence on bank borrowing, even though total
+investment during this period doubled over
+the previous time interval (Kobayashi, Endo,
+and Ogishima 1993:8). The greatly dimin-
+ished role of banks in corporate finance from
+1986 to 1989 is very likely a factor in the dis-
+appearance in that period of the redistribu-
+tion pattern among big-six affiliated firms.
+
+Another conjecture is that the economic
+slowdown in the endaka aftermath explains
+the change revealed in our results for the
+post-1985 period. In reaction to the currency
+revaluation, Japanese economic growth fell
+from 4.9 percent in 1985 to 2.5 percent in
+1986, its lowest rate since the oil shock re-
+cession of 1974. With many firms struggling
+to survive, it may have been more difficult to
+reverse the declines of companies experienc-
+ing severe distress. Yet Japanese growth was
+back to 4.6 percent in 1987, and the longer
+and deeper oil shock slowdown in 1974 does
+not similarly disturb our findings. Our best
+speculation is that the combination of de-
+regulation, structural change, and macroeco-
+nomic shock explains the fast decay of the
+redistribution pattern among the big-six
+keiretsu after 1985.
+sure, the variability in financial performance
+across independent firms proves to be five
+times that of shacho-kai companies.
+
+Also argued as a rationale for the big-six
+keiretsu groups’ adjustment of member firms’
+performance toward an acceptable average
+level is that the smoothing of peaks and
+troughs from each firm’s business cycle
+yields smaller annual fluctuations and steady
+incremental earnings growth. Large, diversi-
+fied American corporations commonly “‘man-
+age” their earnings through transfer pricing,
+the strategic timing of asset sales, and other
+devices that avoid surprises and keep Wall
+Street expectations in check.?° General Elec-
+tric, for example, times any write-off of
+losses and charges to coincide with spikes in
+operating earnings, thus avoiding reported
+income too high to be surpassed the follow-
+ing year (Smith, Lipin, and Kumar 1994).
+Although Japanese companies are subject to
+less pressure from the investment banking
+community, they nonetheless take great pains
+to avoid losses and maintain steady growth.
+The keiretsu network may, in this and other
+things, be a functional substitute for the ver-
+tically integrated and diversified American
+corporation. The perplexing difference, of
+course, is that a keiretsu has no visible
+overarching headquarters function managing
+interdivision relations and financial flows.
+Nor, again, is it altogether clear who has
+
+“rights to participation in a keiretsu commu-
+nity and who does not.
+
+The evidence for the hypothesis that
+keiretsu groups dampen temporal fluctua-
+tions in their members’ earnings is, however,
+mixed. With the coefficient of variation in
+return-on-equity as their dependent variable,
+Caves and Uekusa (1976:80) observed nega-
+tive effects for the three ex-zaibatsu groups
+(Mitsui, Mitsubishi, and Sumitomo) and
+positive effects for the three bank-centered
+groups (Fuyo, Dai-Ichi Kangyo, and Sanwa),
+none of which reached statistical signifi-
+cance. Yet Nakatani (1984) reported fairly
+strong and significant evidence that big-six
+membership tempers ROA variability. This
+was the basis for his conclusion regarding the
+risk-sharing function of Japanese enterprise
+groups: that they assure financial stability
+over long spans of time, thus enabling
+Japan’s large corporations to honor their life-
+time commitments to employees.
+
+Our own evidence on this point, like that
+of Caves and Uekusa (1976), is decidedly
+mixed. Using two forms of the dependent
+variable—a five-year moving variance in a
+panel analysis and a stationary variance com-
+puted over the entire 1967 to 1985 period in
+a cross-sectional analysis—we obtain strong
+and significant negative effects of the
+shacho-kai dummy and the four measures of
+big-six ties. Yet when we substitute a coeffi-
+cient of variation (which Caves and Uekusa
+used) or include mean ROA;, as a right-hand
+side regressor (the Nakatani method), the
+pattern disappears—the shacho-kai effects
+flip to positive as do the director and equity
+effects. The other effects stay negative.
+While our inability to replicate Nakatani’s
+findings is perplexing, we see some incon-
+sistency between the hypothesis that group
+intervention lowers cross-firm inequality and
+the complementary one that it confers long-
+term stability on individual firms. Except for
+bailout targets, who thereby avert disastrous
+crashes, how groups compress variance in
+earnings across their member companies is
+easier seen than is their role in reducing un-
+certainty for any given firm. Consistent
+strong performers, for example, may experi-
+ence more financial volatility if the price of
+group affiliation is absorption of the shocks
+of unpredictable and episodic rescues.
+noncouncil company is in trouble. Indeed, a
+plausible hypothesis is that the shacho-kai
+affiliation of a troubled firm has no net im-
+pact on the likelihood of intervention. From
+this perspective, the only noteworthy feature
+of shacho-kai companies is that they are
+more central in the keiretsu web of interfirm
+exchange and control relations.
+
+Yet we propose that shacho-kai firms are
+qualitatively, not simply quantitatively, dis-
+tinct. They represent the nerve center and in-
+ner circle of the keiretsu network. They are
+the dominant players and permanent mem-
+bers of a mutual aid society, and that status
+guarantees them help in time of trouble as
+well as ongoing scrutiny of their affairs. The
+actual business they do with one another at
+any given time may not condition the group’s
+commitment or support the way it does in the
+case of a noncouncil firm.
+
+This reasoning is at odds with a theory of
+groups as reducible to bank monitoring and
+control. Since big-six banks are only slightly
+more likely to lend funds within than outside
+the group, evidence for a unique shacho-kai
+effect suggests that something other than fi-
+nancial dependencies is at work—that the
+shacho-kai forms a self-conscious clique of
+firms whose reciprocal commitments stem
+from long association and strong collective
+identity. Such evidence emerges from our
+Tables 2 and 3, which show that the interven-
+tion effect of shacho-kai affiliation holds up
+under numerous controls..
+
+But there is another, stronger test of the
+proposition that shacho-kai membership in
+and of itself entitles a firm to intervention: If
+a council seat guarantees assistance to a firm
+in distress, the presence or absence of other
+ties should make no additional difference.
+For firms lacking formal council status, how-
+ever, their day-to-day involvement with the
+group through borrowing, trading, equity,
+and director transfer relations should be criti-
+cal to whether the group will claim them as
+its “own” and regard them as eligible for in-
+tervention.
+
+Our data strongly favor these arguments:
+The roles of ad hoc big-six ties in interven-
+tion diverge sharply for shacho-kai and inde-
+pendent firms. Specifically, shacho-kai com-
+panies, as we suggest, enjoy automatic en-
+titlement. Independent firms qualify only if
+their business dealings with the group are
+extensive. Table 4 gives GLS estimates com-
+puted separately for the subsamples of 87
+shacho-kai and 110 nonshacho-kai firms.
+With one exception—director ties—the re-
+distribution effects of the ad hoc ties are
+weak to nonexistent in the shacho-kai set and
+notably stronger in the set of independents.
+
+Why does the measure of keiretsu director
+control behave differently? It is likely that
+the placement of managers from one com-
+pany on the board of another is integral to
+the process of intervention. Shacho-kai,
+trade, debt, and equity ties are stable rela-
+tions that increase the odds of assistance
+when a partner firm encounters trouble; di-
+rector dispatch, as the analysis by Kaplan
+and Minton (1994) shows, is typically a
+present or past response to that trouble (also
+see Kester 1991:71). The fact that big-six
+representation on a company’s board has the
+same implications for intervention among
+shacho-kai and independent firms may tes-
+tify that this is less a condition for targeting
+than it is the instrument whereby the group
+works its will on problem partners.
+
+One other issue bearing on the contrast be-
+tween shacho-kai-based intervention effects
+and those associated with ad hoc ties deserves
+mention in this section. Although the form of
+redistribution as we have modeled it is linear
+(see equation 1), we have also done analyses
+relaxing that assumption. While space con-
+straints preclude our presenting those results
+in detail, we find that the function relating
+ROA;, to ROA;,_, takes a pronounced S- or lo-
+gistic-shape among firms with strong ad hoc
+ties. In other words, on these dimensions of
+big-six affiliation, group and independent
+firms differ only at the extremes of ROA;_;
+(e.g., below 0 percent and above 20 percent).
+Short of these thresholds there is very little
+evidence that group ties make a difference.
+The clearest example is that of trade partner-
+ships, which we present as Figure 2.7!
+Table 4. GLS Regressions of Return-on-Assets (ROA) on Measures of Big-Six Keiretsu Ties and Con-
+trol Variables: 87 Shacho-kai Firms and 110 Independent Firms, 1967-1985
+
+ 
+
+ 
+
+Model 1 Model 2 Model 3 Model 4
+
+Explanatory Shacho- Indepen- Shacho- Indepen- Shacho- Indepen- Shacho- Indepen-
+Variable kai dent kai dent kai dent kai dent
+Notes: Table entries are GLS estimates of metric regression coefficients; absolute t-statistics are in parenthe-
+ses. Included in the regression (but not in the table) are 14 dummy variables for industry classification, 3 dum-
+mies for the oil shock years of 1973, 1974, and 1975, and one dummy for the first endaka year (1985).
+We have built on a diverse body of prior evi-
+dence that Japanese corporations with ties to
+the big-six horizontal keiretsu are, on the one
+hand, less profitable than unaffiliated firms
+and, on the other hand, more likely to recover
+rapidly from financial distress. We have pro-
+duced a set of strong empirical results docu-
+menting the strength and form of keiretsu in-
+terventions and their significance for the
+structure and functioning of the big-six
+groups. The oft-cited finding that big-six
+firms are weaker financial performers than
+are comparable independents has been of-
+fered as testimony for their “dinosaur” sta-
+tus—that such groups are a declining struc-
+tural form and hold few attractions for
+younger, nimble, and aggressive firms on the
+leading edge of the modern Japanese
+economy. But the implication that group af-
+filiation is a cultural-historical residue serv-
+ing no current economic function and a dead-
+weight drag on the performance of the aver-
+age Japanese firm is flat wrong—or if true at
+all applies only since 1985, when the onset
+of deregulation and asset inflation set the
+stage for the heady and chaotic “bubble
+economy” and the subsequent recession and
+stagnation from which Japan has yet fully to
+emerge. The fact is that some Japanese firms
+derive substantial benefit from their keiretsu
+affiliations and others pay a price. Groups al-
+locate resources among their members ac-
+cording to a long-term vision of collective
+welfare. They provide a safety net for their
+weak members, police profiteering by impos-
+ing penalties when a member firm does too
+well, and insulate their membership from the
+harsh scrutiny of tax authorities and invest-
+ment analysts by managing the reporting of
+profits and losses to show steady, incremen-
+tal growth.
+
+Establishing that Japan’s horizontal
+keiretsu fine-tune and align the performance
+of their member firms was the starting point
+for our analysis. From there we sought to an-
+swer a central question about the structure
+and behavior of the big-six groups: Are the
+groups true interorganizational networks
+bundling together financial institutions and
+industrial firms in a web of direct and indi-
+rect, commercial and financial, control and
+exchange relations, or are they merely hub-
+and-spoke pairings of industrial firms with
+leading banks who help their clients through
+rough patches chiefly to safeguard their own
+investment interests? The preponderance of
+our evidence favors the complex network
+model. The strong effects we find of group-
+based purchase and supply transactions, plus
+the evidence that interventions within the
+shacho-kai elite require no supplementary
+business ties and are linear in form (i.e., in-
+cremental and pervasive) dispute a reduction-
+ist model of big-six interventionism as
+simple bank control.
+
+We see the big-six keiretsu groups as far-
+flung, richly coupled networks, and we inter-
+pret their economic role as one of collective
+action maximizing the joint welfare (or util-
+ity) of the membership by restraining both
+the bearing of risks and appropriation of re-
+turns by individual firms and substituting
+what appears to be a group-administered al-
+location plan. The actions of groups in this
+regard are collectively “rational” for the ex-
+isting membership as a whole, though not
+necessarily rational for its strongest mem-
+bers. Indeed, why the best-performing corpo-
+rations in a big-six group maintain their
+membership is, at least to economists view-
+ing firms as rational utility maximizers, per-
+haps the greatest puzzle posed by the keiretsu
+phenomenon. The argument that today’s
+strongest firms keep their membership as a
+hedge against tomorrow’s failure is one an-
+swer that accords with the common view that
+Japanese business, if not the Japanese as a
+people, are risk-averse (Aoki 1988:280). But
+this reasoning assumes a degree of corporate
+self-interest seeking, unconstrained by social
+commitments and normative rules, that is
+scarce in Japan. The network structures
+within which Japanese economic action is
+embedded allow corporations limited degrees
+of freedom to chart their own course, to
+freely pick and choose alliances (or whether
+to align at all) on the basis of unilateral cal-
+culations of advantage. There is a collective
+logic to the keiretsu phenomenon that, in our
+view, is not reducible to rational optimizing
+on the part of individual firms.
+
+How keiretsu networks structure the be-
+havior and performance of Japanese compa-
+nies is a question of some current policy and
+theoretical importance. The implications for
+policy are clear: If stable intercorporate rela-
+tions of the kind typical of the big-six hori-
+zontal groups are linked to the competitive
+strategies, performance, and openness of the
+Japanese economy they bear strong scrutiny
+from international trading partners disturbed
+by Japan’s trade surplus and the unofficial
+but pervasive barriers to penetration of Japa-
+nese markets. Policy relevance of a very dif-
+ferent kind is posed by the question of
+whether keiretsu structures like those so
+common in Japan should be copied by
+Japan’s leading competitors and trading part-
+ners. Whether they generate genuine efficien-
+cies by economizing on information and con-
+tracting costs or whether (by absorbing risk
+and excluding competitors) they simply give
+Japanese firms an advantage over Western
+competitors, there is much talk currently in
+North America and Europe of the need to es-
+tablish similar arrangements to enhance com-
+petitiveness with the Japanese (Ferguson
+1988). Such discussions tend not to be in-
+formed by systematic research and would
+benefit, we believe, from further investiga-
+tion and a better understanding of the past
+and present roles of keiretsu networks in the
+Japanese economy.
+Ahmadjian, Christina L. 1995. Japanese Supply
+Networks and Corporate Performance. Unpub-
+lished Ph.D. dissertation, Haas School of Busi-
+ness, University of California, Berkeley, CA.
+
+Aoki, Masahiko. 1988. Information Incentives
+and Bargaining in the Japanese Economy.
+Cambridge, England: Cambridge University
+Press,
+
+Asanuma, Banri. 1989. “Manufacturer-Supplier
+Relationships in Japan and the Concept of Re-
+lation-Specific Skill.” Journal of the Japanese
+and International Economies 3:1-30.
+
+Brauchli, Marcus W. 1991. “Ousted Executive in
+Japan Accuses Nissan of Meddling.” Wall
+Street Journal, May 15, pp. | ff.
+
+Caves, Richard and Masu Uekusa. 1976. Indus-
+trial Organization in Japan. Washington, DC:
+Brookings Institution.
+
+Dodwell Marketing Consultants. 1982. Industrial
+Groupings in Japan. Rev. ed. Tokyo, Japan:
+Dodwell Marketing Consultants.
+
+Ferguson, Charles H. 1988. “Computers and the
+Coming of the U.S. Keiretsu.” Harvard Busi-
+ness Review 68:55-70.
+
+Flaherty, M. Therese and Hiroyuki Itami. 1984.
+“Finance.” Pp. 134-76 in Competitive Edge,
+edited by D. I. Okimoto, T. Sugano, and F. B.
+Weinstein. Stanford, CA: Stanford University
+Press.
+
+Fruin, W. Mark. 1992. The Japanese Enterprise
+System. New York: Oxford University Press.
+Gerlach, Michael. 1992. Alliance Capitalism: The
+Social Organization of Japanese Business.
+Berkeley, CA: University of California Press.
+
+Goto, Akira. 1982. “Business Groups in a Market
+Economy.” European Economic Review 19:53-
+70.
+
+Granovetter, Mark. 1985. “Economic Action and
+Social Structure: The Problem of Embedded-
+ness.” American Journal of Sociology 91:481—
+510.
+
+Hadley, Eleanor. 1970. Antitrust in’ Japan.
+Princeton, NJ: Princeton University Press.
+Hausman, Jerry A. and William E. Taylor. 1981.
+“Panel Data and Unobservable Individual Ef-
+fects.” Econometrica 49:1377-98.
+
+Hoshi, Takeo, Anil Kashyap, and David Scharf-
+stein. 1991. “The Role of Banks in Reducing
+the Costs of Financial Distress in Japan.” Jour-
+nal of Financial Economics 27:67-88.
+
+Imai, Ken’ichi. 1987-88. “The Corporate Net-
+work in Japan.” Japanese Economic Studies
+(Winter):3-37.
+
+Jinji koshin roku (Personnel Inquiry Record).
+Various years. Tokyo, Japan: Jinji Koshin
+Roku-Sho.
+
+Judge, George G., William E. Griffiths, R. Carter
+Hill, Helmut Lutkepohl, and Tsoung-Chao Lee.
+1985. The Theory and Practice of Economet-
+rics. 2d ed. New York: Wiley.
+
+Kaisha nenkan (Company annual). Various years.
+Tokyo, Japan: Nihon Keizai Shimbun-sha.
+
+Kaplan, Steven N. and Bernadette A. Minton.
+1994. “Appointment of Outsiders to Japanese
+Boards: Determinants and Implications for
+Managers. Journal of Financial Economics 36:
+225-58.
+
+Keiretsu no kenkyu (Research on Industrial
+Groups). Various years. Tokyo, Japan: Keizai
+Chosa Kyokai.
+
+Kester, W. Carl. 1991. Japanese Takeovers: The
+Global Contest for Corporate Control. Boston,
+MA: Harvard Business School Press.
+
+Kobayashi, Hiroshi, Yukihiko Endo, and Seiji
+Ogishima. 1993. “New Directions in Japanese
+Banking Relationships.” Nomura Research In-
+stitute Quarterly 11:2-27.
+
+Lincoln, James R., Michael Gerlach, and Peggy
+Takahashi. 1992. “Keiretsu Networks in the
+Japanese Economy: A Dyad Analysis of Inter-
+corporate Ties.” American Sociological Review
+57:561-85.
+
+Mintz, Beth and Michael Schwartz. 1985. The
+Power Structure of American Business. Chi-
+cago, IL: University of Chicago Press.
+
+Nakatani, Iwao. 1984. “The Economic Role of
+Financial Corporate Grouping.” Pp. 227-58 in
+The Economic Analysis of the Japanese Firm,
+edited by M. Aoki. Amsterdam, The Nether-
+lands: North Holland.
+
+Nihon kigyo shudan bunseki (Analysis of Japa-
+nese Enterprise Groups). Various years. Tokyo,
+Japan: Sangyo Doko Chosa-Kai.
+
+Nikkei Databank Bureau. 1989. NEEDS MT Fi-
+nancial Data. Tokyo, Japan: Nihon Keizai
+Shimbun, Inc.
+
+Okumura, Hiroshi. 1983. Shin Nihon no Rokudai
+Kigyo Shudan (A New Look at Japan’s Six
+Major Enterprise Groups). Tokyo, Japan:
+Daiyamondo-sha.
+
+Orru, Marco, Gary G. Hamilton, and Mariko
+Suzuki. 1989. “Patterns of inter-firm control in
+Japanese business.” Organization Studies
+10:549-74.
+
+Pascale, Richard T. and Thomas Rohlen. 1983.
+“The Mazda turnaround.” Journal of Japanese
+Studies 9:219-63.
+
+Perrow, Charles. 1986. Complex Organizations:
+A Critical Essay. 3d ed. Glenview, IL: Scott,
+Foresman.
+
+Pfeffer, Jeffrey and Gerald Salancik. 1978. The
+External Control of Organizations. New York:
+Harper and Row.
+
+Roehl, Thomas. 1988. “Japanese Industrial
+Groupings: A Strategic Response to Rapid In-
+dustrial Growth.” School of Business Admin-
+istration, University of Washington, Seattle,
+WA. Unpublished manuscript.
+
+Sako, Mari. 1992. Prices, Quality, and Trust: In-
+ter-Firm Relations in Britain and Japan. Cam-
+bridge, England: Cambridge University Press.
+
+Schaede, Ulrike. 1995. “The Old-Boy Network
+and Government Business Relationships in Ja-
+pan.” Journal of Japanese Studies 21:293-317.
+Sheard, Paul. 1989. “The Main Bank System and
+Corporate Monitoring and Control in Japan.”
+Journal of Economic Behavior and Organiza-
+tion 11:399-422.
+
+. 1991. “The Role of Firm Organization
+in the Adjustment of a Declining Industry in
+Japan: The Case of Aluminum.” Journal of the
+Japanese and International Economies. 5:14—
+40.
+
+Smith, Randall, Steven Lipin, and Amal Kumar.
+1994. “Managing Profits; How General Elec-
+tric Damps Fluctuations in Its Annual Earn-
+ings: It Offsets One-Time Gains With Write-
+Offs, Times Asset Purchases and Sales.” Wall
+Street Journal, October 3, 1994, pp. | ff.
+
+Williamson, Oliver E. 1985. The Economic Insti-
+tutions of Capitalism. New York: Free Press.
+
+Zielinski, Robert and Nigel Holloway. 1991. Un-
+equal Equities: Power and Risk in Japan’s
+Stock Market. Tokyo, Japan: Kodansha Inter-
+national.

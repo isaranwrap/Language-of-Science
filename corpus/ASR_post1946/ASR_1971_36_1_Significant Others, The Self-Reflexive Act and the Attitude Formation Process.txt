@@ -1,0 +1,1289 @@
+http://www.jstor.org/stable/2093508?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+SSAGE
+Reiss, Jr., Occupations and Social Status.
+New York: The Free Press.
+Duncan, O. D., Ray Cuzzort and Beverley Duncan
+
+1961 Statistical Geography. Glencoe, Illinois:
+The Free Press.
+
+Harris, Chauncy and Edward Ullman
+
+1945 “The nature of cities.” The Annals 242:
+
+7-17.
+Hatt, Paul K.
+
+1946 “The concept of the natural area.” Amer-
+ican Sociological Review 11 (August) :423-
+427.
+
+Hawley, Amos and O. D. Duncan
+
+1957 “Social area analysis: A critical appraisal.”
+
+Land Economics 33 (November) :337-344.
+Hoiberg, Eric O.
+
+1969 “Status contour analysis: An ecological ap-
+proach to social stratification.” Unpub-
+lished Masters Thesis, University of Ne-
+braska.
+
+Hollingshead, August B.
+
+1949 Elmtown’s Youth. New York: John Wiley
+
+& Sons.
+Hoyt, Homer
+
+1939 The Structure and Growth of Residential
+Neighborhoods in American Cities. Wash-
+ington D.C.: Federal Housing Authority.
+
+Kahl, Joseph and James Davis
+
+1955 “A comparison of indexes of socioeconomic
+status.” American Sociological Review 20
+(June) :317-325.
+Kitagawa, E. M. and Taeuber, K. E. (Eds.)
+
+1963 Local Community Fact Book: Chicago
+Metropolitan Area, 1960. Chicago Com-
+munity Inventory, University of Chicago.
+
+Laumann, Edward
+
+1966 Prestige and Association in an Urban Com-
+
+munity. Indianapolis: Bobbs-Merrill.
+Lazarsfeld, Paul F.
+
+1959 “Problems in methodology.” Pp. 39-78 in
+Robert K. Merton et al., (Eds.), Sociology
+Today. New York: Basic Books.
+
+Lazerwitz, Bernard
+
+1964 “A sample of a scattered group.” Journal
+
+of Marketing Research (February) :68-72.
+Miller, Delbert
+
+1964 Handbook of Research Design and Social
+Measurement. New York: David McKay
+Company.
+
+Myers, Jerome K.
+
+1953 “Note on the homogeneity of census tracts:
+A methodological problem in urban ecolog-
+ical research,” Social Forces 32:364-366.
+
+Raisz, Erwin
+
+1938 General Cartography. Pp. 129-139, 243-
+
+244. New York: McGraw-Hill.
+Stinchcombe, Arthur L. and Richard Ofshe
+
+1969 “On journal editing as a probablistic pro-
+cess.” The American Sociologist 4 (May):
+116-118.
+
+Warner, W. Lloyd
+
+1949 Social Class in America, Chicago: Science
+
+Research Associates.
+et al., 1968). For example, Sewell, Haller,
+and Portes report a zero-order correlation
+of .59 between the expectation of a pre-
+selected panel of significant others (parents,
+teachers, and peers) and the educational
+aspirations of Wisconsin farm boys in
+their senior year of high school, and pre-
+sent evidence which suggests that the influ-
+ence of SES on educational aspirations (and
+later attainments) is almost wholly mediated
+by the expectations of significant others
+(Sewell e¢ a/., 1969). This finding has been
+confirmed for several other types of samples
+(Sewell eé al., 1970).
+
+THE PROBLEM
+
+In spite of the great progress that has been
+made, these recent studies have all used mea-
+sures of significant other influence which are
+in one or more ways unsatisfactory (Haller
+and Woelfel, 1969, Chapter 2). Generally,
+these studies have either measured the in-
+dividual’s statement of his perceptions of the
+influence others have had on him (Haller
+and Sewell, 1967; Sewell, e¢ al., 1969;
+Kemper, 1963) or have dealt with a limited
+panel of pre-selected significant others
+(Haller and Butterworth, 1960; Duncan
+et al., 1968).
+
+One of the main reasons for the inade-
+quacy of previous research instrumentation
+has been the lack of a close connection be-
+twen the measures themselves and attitude
+formation theory. Thus, for example, Sewell,
+Haller, and Portes reason that parents,
+friends, and teachers should be influential
+on intuitive as well as theoretical grounds
+(Sewell e¢ a/., 1969), and for the same kinds
+of reasons, Kemper selects wife, boss, col-
+league, and father for his panel of significant
+others (Kemper, 1963). In no instance has
+
+We start with the working assumption that
+significant others are attitude specific. If it
+should turn out that some others transmit
+influence over many attitudes, such persons
+will be discoverable by accumulation of
+spheres of influence. If we assume, however,
+that others are general and pervasive in the
+sense of Kuhn’s “Orientational Other”
+(Kuhn, 1964), we will miss those others
+whose influence, although great, may be only
+segmental. As a working definition, then, we
+assume that significant others are those per-
+sons who exercise major influence over the
+attitudes of individuals.
+
+The theory basic to this research assumes
+that attitudes are relationships between a
+person and an object or set of objects (Green,
+1954; DeFluer and Westie, 1963). But fol-
+lowing from the interactionist postulate that
+man’s perception of objects is always medi-
+ated by some symbolic structure (Kuhn,
+1964), that relationship is assumed to be a
+conceptual one, that is, it is the relationship
+a person sees between his conception of him-
+self and his conception of the objects in ques-
+tion. The process of forming a conception,
+on a most general level, can be seen as a
+process of categorization (Bruner, 1958).
+Thus, one may define an occupation (like
+doctor, lawyer, professor, etc.) by placing
+it into a series of categories such as “good
+paying job,” “high status,” “humanitarian,”
+etc, Similarly, one defines himself by a proc-
+ess of categorization; he places himself into
+categories like “intelligent person,” “stu-
+dent,” “wife,” etc. These categories—insofar
+as they exert a “filtering” effect on one’s per-
+ception of the objects classed within them—
+once formed, we term “filter categories.”
+
+Following from these premises, then, atti-
+tude may be defined as a person’s conception
+of the relationship between the filter cate-
+sociological theory (Katz and Lazarsfeld,
+1955). Recent empirical studies, particularly
+in the area of educational and occupational
+attainment, have lent fresh support to this
+notion (Haller and Sewell, 1967; Alexander
+and Campbell, 1964; Haller and Butter-
+worth, 1960; Sewell and Shah, 1968) and,
+more importantly, have made some progress
+toward an assessment of the relative quan-
+tity of influence attributable to “significant
+others” as opposed to other, noninterper-
+sonal, sources (Sewell e¢ al., 1969; Duncan
+et al., 1968). For example, Sewell, Haller,
+and Portes report a zero-order correlation
+of .59 between the expectation of a pre-
+selected panel of significant others (parents,
+teachers, and peers) and the educational
+aspirations of Wisconsin farm boys in
+their senior year of high school, and pre-
+sent evidence which suggests that the influ-
+ence of SES on educational aspirations (and
+later attainments) is almost wholly mediated
+by the expectations of significant others
+(Sewell e¢ a/., 1969). This finding has been
+confirmed for several other types of samples
+(Sewell eé al., 1970).
+gories of which he sees himself to be a mem-
+ber and the filter categories of which he sees
+the object to be a member.
+
+It follows, then, that the process whereby
+attitudes are formed and changed is the same
+as the process by which filter categories are
+formed and changed. The inclusion of a set
+of distinct objects into a ctaegory is basically
+a classification based on perceived similarity,
+and conversely, exclusion of an object from
+a category is a classification based on a per-
+ceived difference. Classification is thus a
+cognitive act based on the information one
+has about objects and self. Information,
+therefore, is the basis of filter categories and,
+hence, attitudes as we define them here.
+Three sources of such information are as-
+sumed to be central to filter category forma-
+tion:
+
+Interpersonal Influences. Perhaps the
+broadest distinction between types of inter-
+personal influence noted in the field is that
+between others who hold expectations for
+ego and those who serve as models for ego’s
+behavior (Kelly, 1952). According to the
+theory outlined above, those who hold ex-
+pectations for ego may do so by (1) com-
+municating definitions of ego’s self-filter
+categories (and thus one’s self), (2) com-
+municating definitions of the object filter
+categories, and thus the object of the atti-
+tude, or (3) both. Probably both are in-
+volved in most expectations one person holds
+for another’s behavior. For want of a better
+term, these others are here called definers.
+By the same reasoning, models may exert
+influence by serving as (1) examples for ego
+(insofar as ego considers the others to be a
+member of the same category as himself, the
+other’s actions help define that category and
+consequently his conception of himself), (2)
+examples of the object or the object filter
+categories (as a doctor defines medicine for
+ego simply by practicing medicine where ego
+can see him), or (3) both. We shall call these
+two basic types “models for self” and
+“models for objects.”
+
+This is an unorthodox formulation. It
+makes no assumptions about affect, about
+any emotional ties that may (or may not)
+exist between ego and other. Jé assumes that
+others are significant in direct proportion to
+the amount of information they convey to an
+ego about the categories he uses to define ob-
+jects and self, either by word (definers) or
+examples (models), affective factors not-
+withstanding.
+
+Self-Reflexive Activity. Self-reflexive ac-
+tivity, as Mead (1934) defined it, refers to
+behavior in which an individual confronts
+himself in responding to some object and
+makes an inference about himself as an ac-
+tive self on the basis of that confrontation.
+We here take the term in the broadest sense
+to refer to any definition a person makes
+about his relationship to an object on the
+basis of his own observations. We might hy-
+pothesize that self-reflexive activity is more
+influential (compared to interpersonal in-
+fluences and the effect of previous related
+attitudes) in the formation of attitudes when
+the object of the attitude is unambiguous and
+observable; in the event of ambiguous or
+nonobservable objects, reliance on interper-
+sonal influence and other related attitudes
+should increase.
+
+The Effect of Other Attitudes. In the ab-
+stract, the two sources mentioned above are
+probably exhaustive. In any ongoing per-
+sonality, however, new information which a
+person receives from whatever source is at
+least partly evaluated in terms of its agree-
+ment with what ego already believes (Fest-
+inger, 1957). Without making any specific
+hypotheses about modes of resolution of con-
+flicts or other specific results, we here refer
+to the more general hypothesis that other
+relevant attitudes which ego already holds
+exert some influence on the formation or
+change of an attitude. Thus, in setting his
+occupational aspirations, ego is very likely
+influenced by his educational aspirations—
+he would be unlikely to aspire to be a doc-
+tor without aspiring to be a college graduate
+as well.
+
+Essentially, the theory presented here is
+an information theory, with attitudes defined
+as an individual’s conception of relations to
+objects. Structural factors influence the kinds
+of significant others to which ego is exposed
+and the kinds of information that those sig-
+nificant others communicate to ego, and that
+information, along with what ego can observe
+from his own activities, provides the basic
+corpus out of which he sets his attitudes.
+That information is evaluated in terms of
+its consistency with previously accumulated
+information (ie., other related attitudes)
+Since the theory assumes significant others
+to be influential over attitudes, attitudes are
+the true dependent variables in this study.
+The attitudes chosen for study here are levels
+of educational and occupational aspiration.
+The concept of level of aspiration is derived
+from the work of Lewin (1944), and refers
+to behaviors which may be graded into levels
+of difficulty. The level of achievement to
+which an individual aspires within this con-
+tinuum of difficulty is referred to as his level
+of aspiration. In this research, the number
+of years of education to which an individual
+aspires is considered his level of educational
+aspiration (LEA); the level of occupational
+prestige to which an individual aspires is
+considered his level of occupational aspira-
+tion (LOA). Levels of educational and oc-
+cupational aspirations are virtually ideal
+attitudes for this research, since they are rela-
+tively stable, long range, important to the
+individual who holds them, virtually uni-
+versal in the subject population (high school
+students), noncontroversial, and both are
+easily measurable with instruments of known
+validity and reliability.
+
+Level of occupational aspiration (LOA)
+was measured in this research with the Oc-
+cupational Aspiration Scale (Haller and
+Miller, 1963). Briefly, the Occupational As-
+piration Scale assumes that LOA is multi-
+dimensional, including both realistic (best
+job you are sure you can get) and idealistic
+(job you would most like to have), short
+range (after your schooling is over) and
+The most tedious variable to be measured
+in this study is the influence of significant
+others. A two-stage procedure is clearly im-
+plied: (1) those persons who are influential
+for each individual in the sample must be
+identified, and (2) whatever it is that they
+do or are that renders them influential must
+be measured. The process of measurement
+used follows directly out of the theory pre-
+sented earlier, and the reader is referred to
+the theory for a fuller understanding of the
+process involved.
+
+A. Identifying significant others. Signifi-
+cant others have been defined as those per-
+sons who, by word or example, convey sub-
+stantial information to an individual about
+the filter categories that individual uses to
+define himself and/or the objects of his ex-
+perience. Since the objects of the attitudes in
+question here are education and occupation,
+the following procedure was adopted.
+
+Intensive interviews were conducted with
+30 high school students in various high
+schools in Wisconsin. Although the sampling
+procedure is described in detail elsewhere
+(Haller and Woelfel, 1968), generally it tried
+to locate at least one individual with each
+possible combination of race (black and
+white); SES (farm, blue-collar, white-collar,
+professional, executive) ; rural-urban; proper
+age in grade versus over-age in grade; and
+male-female. Some of the combinations make
+no sense (e.g., urban-farm), and some are
+not easily found in Wisconsin (e.g., rural
+negro professional), and so the total does not
+equal the 64 possible combinations.
+
+These youth were asked to define educa-
+tion and occupation, and their orientation
+toward each. The resulting list of definitions
+were then classified into four generic “filter
+categories.”
+
+The original purpose of eliciting filter cate-
+gories at all was to use them as cues to re-
+mind the subject to think of people who have
+indirectly influenced his thinking about oc-
+cupation. If an individual did not influence
+the subject’s definition of working, or of
+being a doctor, perhaps he did influence his
+thinking about money or how much money
+a person should earn. This would influence
+the individual’s occupational choice; income
+would be a filter category for occupation.
+But after all the filters were coded from the
+occupational section of the protocol, there
+were far too many to include on a reasonable
+questionnaire. Typical responses were “work-
+ing with people,” “good pay,” “service to
+humanity,” “high status,” “work around
+animals,” “a way to make a living,” etc. Al-
+though there were many individual responses,
+a striking characteristic of the list was the
+great similarity of most of the items to each
+other. The following actual filters—liveli-
+hood, means to support, to buy necessities,
+$1.00-$1.70 per hour (or other actual salary
+figures) means to support family, make
+money, compensation, survive—all involve
+earning money, for example. Because the
+number of interviews was too small for any
+meaningful statistical analysis, all occupa-
+tional filters were intuitively classified on
+the basis of similarities like those listed
+above. Four categories emerged into which
+almost all the filter categories seemed easily
+placeable: Intrinsic Nature, Extrinsic Na-
+ture, Intrinsic Function, and Extrinsic Func-
+tion.
+
+Instrinsic Nature—this category is made
+up of all those responses indicating activities
+contributing directly to the work of a par-
+ticular kind of job; for example, installing
+pipe is part of the work called “plumbing.”
+Some of the more frequent items included in
+this class were managing people, selling,
+farming, designing houses, singing, writing
+theories, etc.
+
+Extrinsic Nature—this category is made
+up of all those responses which describe the
+environments in which the direct activities
+occur; perhaps the best synonym is working
+conditions, such as heavy work, work out-
+doors, work around animals, work with my
+hands, leave free time for travel, not too
+strenuous, fun, etc.
+
+Intrinsic Function—this category describes
+the purpose of a job; the actual reason for
+the job’s existing; e.g., healing people, manu-
+facturing houses, bettering humanity. It is
+distinguished from Intrinsic Nature in that
+it refers to the reason the job is done rather
+than the actual activity being done.
+
+Extrinsic Function—this category refers
+to those functions which are not inherently
+part of a job, but which can be served by
+almost any job, e.g., earn money, advance-
+ment, high prestige, buy a house, earn the
+things you need, support family, etc.
+
+This, of course, is by no means the only
+classification schema that could be imposed
+on this data. Its usefulness hinges on the
+assumption that the mentioning (on a ques-
+tionnaire instrument) of these four cate-
+gories, along with several sample items of
+each, may cue the individual to think of the
+actual filter categories he has used to define
+occupation and, hopefully, help him remem-
+ber who he talks to or sees as examples of
+each of them.
+
+Although occupational filter categories are
+used as an example, educational filters are
+exactly parallel. The initial assumption of
+the theory is that persons who provide in-
+formation about these filter categories are
+significant others for education and occupa-
+tion. A questionnaire was then constructed
+which (1) listed each filter category; (2)
+asked the individual who had talked to him
+about each filter category; and (3) asked the
+individual who he knew was an example of
+each filter category. Those whom ego named
+as talking about the filter categories are con-
+sidered definers; those listed as examples of
+the filter categories are considered models.
+Both models and definers together provide
+our operational definition of “significant
+other.” Thus, the individual is never asked
+who influenced him or whom he likes, or to
+whom he refers himself for definitions, etc.
+The operations conform very closely to the
+theory. Because of the complexity of the
+process, the reader is referred to Haller and
+Woelfel (1969) for a much fuller discussion
+of these instruments.
+
+B. Measuring the expectations of signifi-
+cant others. Once the significant others for
+each individual had been identified by the
+above procedure, they were sent by direct
+mail a questionnaire which measured the
+expectations they held for their focal indi-
+vidual. These instruments are exact dupli-
+cates of the instruments used to measure the
+aspirations of the youth themselves, with
+only changes in appropriate personal pro-
+nouns; e.g., “How much education are you
+really sure you will get?” is changed to read
+“How much education are you really sure
+he/she will get?” Educational forms, of
+course, were sent to educational significant
+others and occupational forms to occupa-
+tional significant others. The reader must be
+cautioned here, however, that only the ex-
+pectations of definers are reported in this
+article, Although plausible operationaliza-
+tions for the information conveyed by models
+are included in the data, not all egos have
+models, it turns out, although all have de-
+finers. The statistical problems caused by
+this inherently “missing data” require more
+elaborate treatment than can be offered here,
+and must await a later article.
+
+The fact that, on the average, each focal
+individual had an average of 13.5 significant
+others led to another difficulty.
+
+For any individual i, there were N signifi-
+cant others, each holding expectations rele-
+vant to i’s behavior. We hypothesized that
+there should be a relationship between the
+aggregate value of the expectations of others
+and the aspirations of ego, although the pre-
+cise nature of that aggregate was (and is)
+a matter for conjecture. For simplicity, the
+arithmetic mean of the expectations of all
+the N significant others for any individual i
+was computed (Mettlin, see References).
+Thus for any individual 4, four scores directly
+bearing an interpersonal influence are avail-
+able: (1) his educational aspirations (Xs);
+(2) the mean educational expectations of his
+significant others (X5); (3) his own occupa-
+tional aspirations (X4); and (4) the mean
+occupational expectations of his significant
+others (X¢). Test-retest reliability correla-
+tions (over a three-month interval) for un-
+familiar variables are as follows: mean ex-
+pectations of significant others who are
+definers: *t1 t2 =.87; mean occupational ex-
+pectations of significant others who are de-
+finers: "tl ®=.91.
+
+C. Self-reflexive activity. This variable
+refers to those elements of phenomenal
+reality which ego may use as a basis to judge
+his own relationship to the object of the at-
+titude under study. In relation to educational
+and occupational aspirations, we believe this
+set of variables certainly includes ego’s rela-
+tive performance level in his academic con-
+text. To get a broad picture of ego’s relative
+performance in his school setting, an equally
+weighted index of (a) ego’s grade point av-
+erage in high school to date, (b) the number
+of extracurricular activities in which ego
+participates, and (c) the extent to which ego
+considers himself a “leader” in those activi-
+ties was constructed.
+
+However, the effect of this variable is not
+assumed to be completely direct, since these
+performances may be observed not only by
+ego but also by his significant others. Thus,
+this variable is presumed to have both a di-
+rect effect on ego’s attitude in a self-reflexive
+fashion and an indirect effect through its
+impact on the expectations of his significant
+others.
+
+D. Other related attitudes. The theory
+prevading this paper assumes that the in-
+fluence of attitudes ego holds toward objects
+related to the attitude under study will ex-
+ercise independent influence on that depen-
+dent attitude. Since there are two principal
+dependent attitudes measured in this research
+(educational and occupational aspirations)
+and since these two attitudes are known to
+be related to each other (in this research
+their zero-order correlation is .70), we as-
+sume that each attitude exerts reciprocal in-
+fluence on the other, independently of the
+other main variables. Thus, the level of edu-
+cational aspiration constitutes our operation-
+alization of “other related attitudes” when
+dealing with the level of occupational aspira-
+tion, and vice versus.
+
+E. Social structural position. We assume
+that different locations in the social structure
+differentially expose their incumbents to vari-
+ous kinds of significant others who take the
+structural location of ego into account when
+setting their expectations for him. In this
+research, structural location is measured by
+the SES of ego’s family. This is measured by
+the prestige level of ego’s father’s occupation,
+rated by the Duncan revision of the NORC
+scale (Duncan, 1961).
+
+F. IQ. Although the previous variables
+exhaust those thought to be theoretically in-
+teresting, the genetic ability of the student
+may intrude on the model at the performance
+stage. We thus control for the IQ of the stu-
+dent as measured by the Otis Quick scoring
+test of mental ability (Otis, 1954).
+
+Data we collected from 100 high school
+seniors—the entire senior class—from a
+small Wisconsin city high school. The Wis-
+consin city was selected (a) because its size
+(13,000) is about as large as most Wisconsin
+cities may be, with only one school; so all
+the city’s students could be located in one
+place, and (b) because the city itself is based
+on a fairly mixed economy and a reasonably
+wide SES range might be obtained. More
+specific data about the sample is available in
+Haller and Woelfel (1969). The instruments
+identified 1,358 significant others for this
+group of students. A 68% return of question-
+naires mailed to those others yielded usable
+data from 950 significant others. Figure 1
+represents what seems a plausible ordering
+of these variables in this context. X7 (SES
+of the family) is one of the social structural
+factors which may exert influence over sig-
+nificant others and their expectations. X, and
+Xs are, respectively, the mean occupational
+and educational expectations of the student’s
+significant others, and represent the interper-
+sonal influence variables of the theory. X4
+and Xz are respectively the occupational and
+educational aspirations of the student repre-
+senting the attitude variables (Haller and
+Woelfel, 1969: Chapt. 2). X» is measured
+mental ability, here presumed to be one of
+the outside (nonsocial-psychological) factors
+which intrude on the theory. X; is the aca-
+demic performance of the student. The ar-
+rows marked (A) represent the influence of
+structural characteristics over the expecta-
+tions others have for ego. Arrows marked
+(B) represent the influence the expectations
+of others have on the attitudes (educational
+and occupational aspirations) of ego. Arrow
+(C) represents the influence of ego’s attitude
+on his behavior. Arrow (D) represents the
+influence of an outside factor (measured
+mental ability) on the behavior. Arrows (E)
+and (F) are feedback arrows. Arrow (E) rep-
+resents self-reflexive activity, or the effect
+on ego’s attitudes of his observations of his
+own behavior. Arrow (F) represents the ef-
+fect on the expectations others hold for ego of
+their observation of his behavior. The recip-
+rocal arrows (G) between X3 and X, repre-
+sent the influence of related attitudes on each
+other. It should be emphasized that no arrow
+is drawn between X4 and X¢ since it is as-
+sumed that the influence of occupational as-
+pirations on academic performance is in-
+direct. We hypothesize that the role of high
+occupational aspirations is to cause a person
+to set high educational aspirations, which re-
+sult in high academic performance. Sim-
+ilarly, no feedback arrow is hypothesized
+between academic performance and occupa-
+tional aspiration, since we assume that in-
+fluence to be indirect; i.e., the academic
+performance of the student influences his
+judgment of his probable academic achieve-
+ment and thus his educational aspirations,
+which consequently influence his occupa-
+tional aspirations.
+
+Statistics. Beta coefficients are used to
+provide rough indications of the degree of
+influence of each hypothesized causal varia-
+ble, including those in the fedback loops, on
+each hypothesized effect variable. This tech-
+nique does not provide an exactly accurate
+estimate of the amount of causal influence
+exerted by each variable. For in a model
+which posits “feedback loops” or simultane-
+ous variables (two or more variables exerting
+reciprocal influence at any given point in
+time) as this model does, simply reversing
+the positions of the two simultaneous vari-
+ables in the regression equations (that is,
+allowing each to act as an independent vari-
+able on the other in the same regression
+equation) does not take into account the
+reciprocal influence of the dependent on the
+independent variable when estimating the
+effect of the independent variable on the
+dependent (Duncan e¢ al., 1968:121-124).
+
+No truly satisfactory method other than
+actual physical control of the variables has
+yet been devised for the solution of these
+nonrecursive models. Rather than halting
+analysis at this point, we have opted to
+estimate solutions for the equations by the
+simple expedient of treating the variables
+involved in such reciprocal loops as if they
+were exogenous (i.e., wholly determined out-
+side the system) and reading their values
+from the data. The result of such a procedure
+is that the presence of substantial beta coeffi-
+cients between two such reciprocal variables
+yielded by our procedure is clear cut evidence
+that a net relationship between the variables
+does exist, but the estimates of how much of
+that influence travels in each direction is in-
+accurate.
+tionships are borne out by the beta coeffi-
+cients in Figure 1. Not all the possible ar-
+rows have been drawn, although most have
+been calculated. Of those calculated, none of
+those not presented in Figure 1 is higher than
+.13 (all the beta coefficients are presented in
+Table 2). Occupational expectation and edu-
+cational expectation have not been allowed
+to regress on one another, for example, since
+(a) the educational and occupational sig-
+nificant others represent to some extent dif-
+ferent persons (the conditional probability
+of one significant other being both educa-
+tional and occupational is .70), and so the
+interpretation of such a relationship would
+be problematic; (b) doing so obscures the
+relationship between both variables and
+SES; and (c) because SES has been an im-
+portant variable involved in the educational
+and occupational aspiration process, there
+is some reason to regress significant other
+influence on it, but our major emphasis here
+is not on the causal determinants of signifi-
+cant other expectations, even though such a
+study would be a valuable one. For similar
+theoretical reasons, neither occupational ex-
+pectations nor educational expectations have
+been allowed to regress on educational aspira-
+tions or occupational aspirations. Mental
+ability and SES are treated as given and are
+not regressed on any of the variables. Spe-
+cifically, the equations used were:
+The main finding is that where substantial
+relationships were predicted by the theory,
+they were found; and where they were not
+predicted, they were not found. In addition,
+the present operationalization of the theory
+explains 64% of the variance in educational
+aspirations and 59% of the variance in oc-
+cupational aspirations, which are its true de-
+pendent variables. These explained variances
+are important, first because they are higher
+than the best previously reported (Sewell
+et al., 1969), and secondly because they
+utilize the direct measure of exact significant
+other expectation rather than ego’s percep-
+tion of these expectations.
+
+The model hypothesized that structural
+characteristics (in this instance represented
+by father’s occupational level) exercised their
+effect on the individual through the media-
+tion of significant others, The beta coeffi-
+cients of .25 between father’s occupational
+level and occupational expectations, and .20
+between father’s occupational level and edu-
+cational expectations support the notion that
+structural characteristics influence the ex-
+pectations of others; the absence of any sub-
+stantial direct links between SES and any
+subsequent variable (even though there are
+zero-order relationships) supports the con-
+tention that significant other influence is the
+mechanism of mediation (this is consistent
+with Sewell e¢ al., 1969). The beta weights
+between occupational expectations and occu-
+pational aspirations (.32) are consistent with
+net effect of the expectations of significant
+others on the aspirations of youth. The
+strong reciprocal arrows between occupational
+aspirations and educational aspirations (.43
+and .51) support but do not necesarily con-
+firm the hypothesized influence of related at-
+titudes on each other (i.e., students take into
+account their occupational plans when set-
+ting educational goals and vice versa), The
+arrow from educational aspirations to aca-
+demic performance is consistent with the hy-
+pothesis that the attitude variable, educa-
+tional aspiration, exercises substantial influ-
+ence over the behavioral variable appropriate
+to it, academic performance. No direct link
+was posited between occupational aspiration
+and academic performance, since it was as-
+sumed that whatever effect the occupational
+aspirations of students may have on their
+academic performance would operate indi-
+This content downloaded from 170.140.26.180 on Tue, 21 Jun 2016 19:25:24 UTC
+All use subject to http://about.jstor.org/terms
+*480] PaTTEJ-OMy “CO' 1B JULITURIS x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+46 46 £6 £6 £6 FP
+
+ov" 9s° 4s v9" 9b° zt
+
+¥#£9° #097 #9L° #08° #89° u
+
+(sas) TeseT
+
+9n°2 02° 88iz #S2° ss* v0" 8b £0° sve v0" e8Tysoig TeUOTIedNd90 ,s1eyIed
+
+(dxqo09) suotjzez.edxg
+
+---- -- ---- -- zo°s 00° s9° 40° 02° £0" Teuotyedns5Q ,S10yIO PURITFTUBTS
+
+(dxgpq) suotzez.0dxq
+
+Siar cre OTT £T'- sT’s ¥7° L2°T £2" TeuoTyeoNpy, ,S10yIO JUBTFTUBTS
+
+(dsyo20) suotieitdsy
+
+were -- ---- -- -- 61'S xfb° 22" z0° Teuotzednd99 ,Sjuepnis
+
+(dsypa) suotieitdsy
+
+eee -- eee -- 61'S #2S* od SI's 485" yeuotzeonpy ,Szuepn7s
+
+o--- -- ---- -- re’ ¢o° So° 00° SS°T st’ (ww) AVTITGy TeqUeW
+
+v9"9 ¥bS° z9°s #80" 22° 20° vrs ¥SZ° alae oo (ay) ecueutosieg DTwopeoy
+2 g 2 g 2 g 2 9g 2 g
+
+ 
+
+ 
+
+soTqerie, JUuopuoedapuy
+rectly, by raising or lowering their educa-
+tional aspirations. The actual beta weight for
+that path is only .025, supportive of the
+hypothesis of no direct effect.
+
+The arrow from academic performance to
+educational aspiration represents the direct
+feedback of academic performance on educa-
+tional aspirations. The beta weight of .25 is
+consistent with the theoretical hypothesis
+that the individual’s own observation of his
+academic performance (self-reflexive act) in-
+fluences his educational aspirations. No di-
+rect link from academic performance to oc-
+cupational aspirations had been hypothesized
+since we assumed that high or low academic
+performance would effect the student’s occu-
+pational aspirations indirectly by raising or
+lowering his educational aspirations. In fact,
+the actual direct link has a beta coefficient
+of only .02, supporting the hypothesis of no
+direct effect.
+
+It had further been hypothesized that sig-
+nificant others would observe the student’s
+academic performance and raise or lower
+their expectations accordingly. These links
+are represented by the direct arrows from
+academic performance to educational expec-
+tations and occupational expectations. The
+hypothesis would predict high beta values
+here, and their respective beta values of .54
+and .48 are indeed quite high. We also hy-
+pothesized that, of the three modes of influ-
+ence on attitude, the individual’s reliance on
+the self-reflexive act would inrcease as the
+object of the attitude in question became
+more observable, and conversely the influ-
+ence of significant others and related atti-
+tudes would increase where the object of the
+attitude is less observable. The data bear this
+out. Education should be more of an observa-
+ble object to a student than occupation, since
+he participates in education day by day,
+whereas he participates in the occupational
+structure only imaginatively if at all. Ac-
+cordingly, both significant others and related
+attitudes exert more influence over occupa-
+tional than educational aspirations (occupa-
+tional expectations to occupational aspira-
+tions = .40 versus educational expectations to
+educational aspirations = .32; educational as-
+pirations to occupational aspirations =.51
+versus occupational aspirations to educa-
+tional aspirations = .43).
+
+Two apparently surprising findings (not
+inconsistent with the theory) also emerge
+from the diagram. First, there is a substantial
+beta weight from the educational expecta-
+tions of significant others to the academic
+performance of the student (represented by
+the dotted arrow between educational expec-
+tations and academic performance) which
+had not been anticipated in the model. A
+plausible explanation may be as follows: aca-
+demic performance is not the behavioral
+variable ideally to be predicted by educa-
+tional aspiration—the variable which the
+theory would argue directly depends on edu-
+cational aspirations is educational attain-
+ment, or number of years of education at-
+tained. It may be, then, that in some cases
+students feel that their significant others ex-
+pect high educational attainment from them
+and, to satisfy those others, perform better
+in school but do not raise their educational
+aspirations accordingly—this is potentially
+possible since educational aspirations are re-
+sponsive to variables other than the expecta-
+tions of significant others.
+
+The second anomaly is the surprisingly
+low path from mental ability to academic
+performance. This would seem to indicate
+that mental ability has little to do with aca-
+demic performance. This low coefficient is
+misleading because the academic perfor-
+mance variable includes not only grade point
+average but also extracurricular activities not
+so likely to be affected by mental ability.
+That this is the case is illustrated by the
+following: (1) the zero-order correlation be-
+tween mental ability and academic perfor-
+mance is .37, while that between mental
+ability and grade point average is .60, and
+(2) when the weighting of grade point aver-
+age in the measure is doubled the beta co-
+efficient increases to .21.
+coefficient where one was hypothesized is not
+an unquestioned confirmation of that hy-
+pothesis. Nevertheless, the absence of sub-
+stantial paths where they had been predicted,
+or the presence of substantial paths where
+they had mot been predicted would have con-
+stituted a clear refutation of theory. In all,
+substantial beta coefficients were predicted in
+ten cases and all were found; the absence of
+substantial beta coefficients was predicted
+in five cases, and all were confirmed. Thus,
+15 distinct hypotheses were supported by the
+data, while none were disconfirmed.
+
+Bearing these considerations in mind, this
+research has nonetheless provided consider-
+able evidence consistent with the propo-
+sition that all three of the modes of in-
+fluence hypothesized by the theory—
+interpersonal influence, self-reflexive activity,
+and related attitudes—exercise strong causal
+influence over the formation of attitudes,
+and that once formed, these attitudes exert
+independent causal influence over behavior.
+Perhaps more important is the recognition
+that all three modes are underlain by the
+same basic dimension. Both interpersonal in-
+fluences and self-reflexive activities, in spite
+of obvious differences in dynamics, are essen-
+tially processes whereby the individual re-
+ceives information about himself—and more
+precisely about his relationship to objects.
+That information is filtered through past
+appropriate information and results in a con-
+ception of an appropriate relationship to the
+object in question. There is a strong suspi-
+cion that this information itself is a motor
+toward behavior. Although this is not the
+only interpretation the data will bear, it
+is an attractive one deserving further re-
+search. Based on such psychology, the well-
+known effects of social structural factors on
+behaviors are plausibly explained by sug-
+gesting that structural characteristics at least
+partially determine the persons with whom
+one will principally interact and what infor-
+mation they will principally transmit, and
+further that structural factors exercise con-
+trol over the situations in which one will
+(reflexively) view himself acting. Although
+other interpretations are possible, the re-
+search will support this construction quite
+well.
+
+With specific regard to mobility theory,
+several implications should be drawn. First,
+the research lends credence to the multi-
+stage nature of the mobility process: social
+structural factors determine the expectations
+of an individual’s significant others, which
+in turn exert causal influence over the per-
+son’s attitudes. These attitudes themselves
+then exert directive forces over both aca-
+demic performance and later educational and
+occupational attainments (see particularly,
+for the latter, Sewell ef al., 1969). But the
+process is not simply recursive; feedback
+from academic performance (and by im-
+plication attainments) exerts influence over
+both significant other expectations and in-
+dividual attitudes.
+
+The technique used in this research for
+detecting significant others and their expec-
+tations (the Wisconsin Significant Other
+Battery; Haller and Woelfel, 1969) has im-
+plications of its own. Insofar as it enables
+the researcher to determine the exact edu-
+cational and occupational significant others
+for any person as well as their expectations
+for him, it opens the possibility of experi-
+mentally varying either the actual signi-
+ficant others or their expectations for any
+person or group of persons. Insofar as the
+Wisconsin Significant Other Battery is fairly
+easy to modify, its use is not restricted to
+only educational and occupational attitudes,
+but may be directed to other long stand-
+ing, nonsituational attitudes such as prej-
+udice, religious attitudes, consumptive and
+productive attitudes, etc.
+
+Finally, the statistical difficulties encoun-
+tered in this study have important metho-
+dological implications of their own. The
+problem of reciprocal influence among vari-
+ables has been approached from several per-
+spectives before. Duncan e¢ al. (1968) have
+attempted to solve path models involving
+two reciprocal variables (educational and
+occupational aspirations) by an ingenious
+blend of multiple regression and factor ana-
+lytic techniques whereby those two recip-
+rocals were treated as separate manifesta-
+tions of a latent substructure (ambition).
+This new variable is then treated as a single
+variable in a simple recursive model. While
+there is reason for argument about the de-
+gree to which educational and occupational
+aspirations are separate attitudes or merely
+separate manifestations of underlying ambi-
+tion, such a technique would seem clearly
+inappropriate in the case of obviously dis-
+tinct reciprocal variables, such as the aca-
+demic performance of a student and the
+student’s educational aspirations.
+
+Sewell e¢ al. (1969) have resorted to the
+simple expedient of measuring reciprocal
+variables at different points in time. Thus,
+they measure academic performance at Ty
+and aspirations at Ts. Since it is manifestly
+impossible for aspirations at Ts to affect
+performance at Ty, Sewell e¢ al. do not posit
+a reciprocal path. The use of time-lagged
+variables, however, in no way alters the
+theoretical presumption that at any given
+point in time, aspirations and performances
+are mutually interdependent. Such inter-
+actions are not taken into account in the
+Sewell e¢ al. models, and their path coef-
+ficients are correspondingly misleading, in-
+sofar as they are the mathematically exact
+solutions for theoretically inexact state-
+ments. The resolution presented in this
+paper is technically the least sophisticated
+of all, but it has the advantage of preserv-
+ing the theory intact rather than modify-
+ing it to meet the exigencies of method.
+
+It has become increasingly clear that nu-
+merical manipulation of nonexperimental
+data is insufficient. Fortunately, the theory
+lends itself well to physical controls. What
+is clearly needed at his stage of theoretical
+development is an experimental design in
+which the variables are physically manip-
+ulated rather than statistically controlled.
+Such a design is not only possible but feasi-
+ble since the key variables, the educational
+and occupational expectations of significant
+others, are themselves amenable to at least
+some physical manipulation. Although Wis-
+consin Significant Other Battery does not
+guarantee such research to be successful,
+yet without the capacity to detect signifi-
+cant others, one cannot manipulate these
+expectations in a direct fashion. While much
+research of all kinds can be performed fruit-
+fully in this area, the understanding of the
+educational and occupational attainment
+process and of the attendent level of mea-
+surement devices has increased to the point
+where field experiments have become a dis-
+tinct possibility.
+Sociological Review 29 (August) :568-575.
+Blau, Peter M. and Otis Dudley Duncan
+
+1967 The American Occupational Structure. New
+
+York, John Wiley and Sons.
+Bruner, Jerome S.
+
+1958 “Social psychology and perception.” In
+Maccoby, Newcomb and Hartley (eds.),
+Readings in Social Psychology. New York:
+Holt, Rinehart, Winston.
+
+DeFleur, Melvin L. and Frank R. Westie
+
+1963 “Attitude as a scientific concept.” Social
+
+Forces 42 (October) :17-31.
+Duncan, Otis Dudley
+
+1961 “A socioeconomic index for all occupa-
+tions.” Pp. 109-138, in Albert J. Reiss, Jr.
+(ed.), Occupations and Social Status. New
+York: The Free Press.
+
+Duncan, Otis Dudley, A. O. Haller and Alejandro
+
+Portes
+
+1968 “Peer influences on aspirations: A reinter-
+pretation.” American Journal of Sociology
+74 (September) :119-137.
+
+Festinger, Leon
+
+1957 A Theory of Cognitive Dissonance. Evans-
+
+ton, Illinois: Row, Peterson and Co.
+Green, Bert F.
+
+1954 “Attitude measurement.” In Gardner Lind-
+sey (ed.), Handbook of Social Psychology,
+Vol. 1. Cambridge, Massachusetts: Addi-
+son-Wesley.
+
+Haller, A. O. and C. E. Butterworth
+
+1960 “Peer influences on levels of occupational
+and educational aspiration.” Social Forces
+38 (May) :289-295.
+
+Haller, A. O. and Irwin W. Miller
+
+1963 The Occupational Aspiration Scale: The-
+ory, Structure and Correlates. East Lan-
+sing: Michigan Agricultural Experiment
+Station Technical Bulletin 288:56-66.
+
+Haller, Archibald O.
+
+1969 “On the concept of aspiration.” Rural
+
+Sociology 33 (December), 1969:484-487.
+Haller, Archibald O. and William H. Sewell
+
+1967 “Occupational choices of Wisconsin farm
+
+boys.” Rural Sociology 32 (March) :37-55.
+Haller, Archibald O, and Joseph Woelfel
+
+1969 The Wisconsin Significant Other Battery.
+US. Office of Education Final Report
+(forthcoming) .
+
+Heise, David R.
+
+1968 “Problems in path analysis and causal in-
+
+ference.” Unpublished.
+Katz, Elihu and Paul F. Lazarsfeld
+
+1955 Personal Influence. Glencoe, Illinois: The
+
+Free Press.
+Kelly, Harold H.
+
+1952 “Two functions of reference groups,” In
+Swanson et al., Readings in Social Psy-
+chology. New York: Holt.
+
+Kemper, Theodore D.
+
+1963 The Relationship Between Self-concept
+and the Characteristics and Expectations
+of Significant Others, Ph.D. dissertation,
+New York University.
+
+Kuhn, Manford
+
+1964 “The reference group reconsidered.” Socio-
+
+logical Quarterly 5 (Winter) :5-21.
+This paper examines disability as a social process. The designation of some forms of excep-
+tional behavior as disability provides a means for the normalization of incapacity in terms of
+existing role relationships. The requirements for long-term or permanent exemption from
+role obligations involve legitimation and adjustment to role maintenance. Behavioral rewards
+and punishments are not effective for regulating behavior recognized as beyond the control
+of the individual. Agents of social control may, however, influence or regulate behavior
+through their ability to provide or withhold alternative sources of gratification. Sanctions
+may be applied in the process of recognition of inadequate role performance, the attribution
+of responsibility, or the legitimation of performance failure. The accredited disabled individual
+is excused from role performance by legitimation and may be provided with alternative
+behavioral patterns for obtaining income, care, rehabilitation or other services. Legitimation
+may stipulate the behavioral requirements to consolidate modified expectations into a coherent
+pattern of adaptation—as normalization of the behavior of the incapacitated individual. This
+conceptualization suggests a more concentrated focus on the elaboration of behavioral alterna-
+tives within existing role relationships rather than the proliferation of specialized role reper-
+toires.
+tions for incapacity and obscures important
+conceptual distinctions. We view disability
+as a form of adaptive behavior provided for
+by the norms of role relationships. As with
+other forms of social behavior, the adaptive
+enactment of disability may take deviant
+forms or may follow the expectations for be-
+havorial contingencies. This perspective has
+ample precedent in the work of Lemert
+(1951, 1967); Mechanic (1966a); Davis
+(1961) and others (Cohen, 1959, 1966; Nagi
+1969; Sykes and Matza, 1957; Levinson,
+1959; Goode, 1967; DeLamater, 1968.) We
+believe that the conceptual distinctions in-
+volved have implications for role theory and

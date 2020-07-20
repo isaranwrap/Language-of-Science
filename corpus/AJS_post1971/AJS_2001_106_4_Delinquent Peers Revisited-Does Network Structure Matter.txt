@@ -1,0 +1,1822 @@
+Delinquent Peers Revisited: Does Network Structure Matter?
+
+Author(s): Dana L. Haynie
+
+Source: American Journal of Sociology, Vol. 106, No. 4 (January 2001), pp. 1013-1057
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/320298
+
+Accessed: 08-06-2016 04:27 UTC
+This study examines whether structural properties of friendship net-
+works condition the association between friends’ delinquency and
+an individual’s own delinquent behavior. Data from the Add Health
+allows a more accurate conceptualization of the peer network and
+a more rigorous measurement of peer delinquency than previous
+research. Findings from this study indicate that friends’ delinquency
+is associated with an adolescent’s own delinquency involvement.
+However, characteristics of adolescents’ friendship networks, such
+as its density and adolescents’ centrality and popularity, condition
+the delinquency-peer association. Network density, in particular,
+emerges as an important component of the delinquency-peer asso-
+ciation, with very cohesive networks containing stronger delin-
+quency-peer associations than those that are less cohesive. These
+findings suggest that it is necessary to consider the underlying struc-
+tural properties of friendship networks in order to understand the
+impact of peer influence on adolescent delinquency.
+linquency.’ Dating back to the 1930s with Shaw and McKay’s (1931)
+discovery that more than 80% of juveniles appearing before court had
+peer accomplices, researchers have noted the strong tendency for offenders
+to commit delinquent acts in the company of others (Akers et al. 1979;
+Elliott, Huizinga, and Ageton 1985; Elliott and Menard 1996; Jensen 1972;
+Kandel 1978; Krohn 1974; Matsueda 1982; Matsueda and Anderson 1998;
+Matsueda and Heimer 1987; Reiss 1986; Short 1957; Voss 1969; Warr
+1996). In fact, many studies find that the relationship of peer delinquency
+to self-report delinquency exceeds that of any other independent variable,
+regardless of whether the focus is on status offenses, minor property
+crimes, violent crimes, or substance use (Akers et al. 1979; Elliott et al.
+1985; Jensen 1972; Matsueda and Heimer 1987; Short and Nye 1958;
+Warr and Stafford 1991). Therefore, causal explanations of delinquency
+that emphasize delinquent peer associations (e.g., differential association,
+social learning, and developmental theories such as Thornberry’s [1987]
+interactional theory) appear justified.
+
+Although prior delinquency research establishes that adolescents are
+likely to behave in a manner consistent with their friends, it has yet to
+incorporate the network structure of friendship relations into empirical
+models. This omission of network structure is attributable, in part, to
+researchers’ reliance on a one-dimensional conceptualization of peer in-
+fluence as “exposure” to delinquent friends. However, by ignoring the
+underlying social structure of friendship patterns, prior research has failed
+to address whether network structure moderates peer influence. For ex-
+ample, in closely knit (dense) friendship networks, peer behavior may
+more strongly influence members’ behavior than is the case in less cohesive
+networks.
+
+This study departs from previous research by recognizing the multi-
+faceted nature of peer groups. Most adolescents do not belong to a single,
+densely knit, isolated friendship clique, but instead are affiliated with
+many loosely bounded friendship groups with varying degrees of cohesion
+and permeability (Dunphy 1963). A measure of the number of delinquent
+friends is thus insufficient to truly capture the dynamics involved in the
+peer delinquency association. Since it is generally acknowledged that peers
+play an important role in delinquency involvement, it is important to
+examine the factors that may affect the peer-adolescent relationship. This
+study incorporates the friendship networks in which delinquent and non-
+delinquent adolescents are enmeshed, in order to address the question:
+Do structural characteristics of the adolescent’s friendship network con-
+dition the association between friends’ behavior and delinquency
+involvement?
+
+Data from the National Longitudinal Study of Adolescent Health (here-
+after, Add Health) enable this question to be addressed in a novel manner,
+through the application of a social network perspective and methods.*
+Because these data contain detailed social network information on high
+school-age adolescents, more valid measures of peer delinquency are pos-
+sible. In contrast to previous work, this study uses measures of peer de-
+linquency that are based on responses from the peers themselves, rather
+than perceptions from respondents. In addition, these data allow incor-
+poration of the underlying structural characteristics of friendship net-
+works. This allows for a determination about whether the strength of the
+delinquency-peer association depends upon how tightly an adolescent is
+integrated into the peer network (density), the adolescent’s position within
+the network (centrality), and the adolescent’s prestige (popularity) among
+network members. The use of network methods will provide a deeper
+understanding of the role that adolescent friendship networks play in
+either facilitating or discouraging delinquent behavior.
+expand their personal networks to avoid becoming lost and isolated in
+the new school setting (Eckert 1989).
+
+The importance of finding a position within larger friendship networks
+suggests that adolescents are particularly susceptible to peer influence
+during these transition years, including behavioral constraints that may
+pull them toward or away from delinquent behavior. This concern over
+locating position within the school hierarchy and gaining a sense of be-
+longing among their peers leads students to adapt a variety of strategies
+to enhance peer solidarity. One strategy involves the use of gossip to
+constrain friends’ behaviors. As Eder and Enke (1991) explain, “this con-
+straint stems from the fact that while adolescents appear comfortable
+challenging the evaluations made by an individual, they seem reluctant
+to challenge a ‘group’ evaluation. Once an initial evaluation was sup-
+ported by another group member, it was never challenged” (p. 505). For
+boys, a mechanism of ensuring conformity among peers involves “policing
+masculinity” (Best 1983) with behaviors such as aggressiveness, domi-
+nance, and toughness encouraged among peers (Messerschmidt 2000). To
+ensure compliance with this masculine ideology, boys often use derogatory
+female and homosexual references to keep group members in line (Best
+1983; Messerschmidt 2000).
+
+These findings suggest that friendship networks and peers exert con-
+siderable influence over adolescents’ behavior, including delinquency.
+While ethnographic research is invaluable in highlighting the social mech-
+anisms that peers use to constrain friends’ behavior, it cannot tell us
+whether structural characteristics of the friendship networks provide more
+or less opportunity for these mechanisms to operate. This requires detailed
+information on the structural characteristics of friendship networks for a
+large number of adolescents situated across many different contexts.
+so that most delinquent offenders belong to multiple groups, with each
+group specializing in a smaller range of offenses. This finding also high-
+lights the multifaceted nature of peer groups; individuals in school settings
+can be members of many different friendship groups and face differing
+degrees of constraint depending upon whether the behavior, norms, and
+values of the groups coincide or diverge.’
+
+The nature of friendship relations in delinquent versus nondelinquent
+networks is developed in two influential studies. First, an often cited study
+by Giordano, Cernkovich, and Pugh (1986) finds that various dimensions
+of friendship relations do not differ markedly between delinquent and
+nondelinquent adolescents. In contrast to control theory’s depiction of
+delinquents’ friendships as cold and exploitive (Hirschi 1969), Giordano
+et al. (1986) find that both delinquent and nondelinquent adolescents
+report similar levels of attachment, intimacy, and contact with friends.*
+Similarly, Kandel and Davies (1991) investigate whether friendship net-
+works among adolescents who do and do not use illicit drugs differ in
+terms of intimacy. Again, contrary to social control theory, the authors
+find few differences in the characteristics of the friendship network. In
+fact, among frequent drug users, they find more intimate friendships than
+among adolescents with no drug use or lower levels of drug use.°
+
+While these two studies go beyond others by incorporating the nature
+of friendship relations, they are largely descriptive and do not consider
+whether characteristics of friendship relations condition the influence of
+friends’ delinquency on an adolescent’s own delinquency involvement.
+This is an important issue since Agnew (1991) finds that subjective char-
+acteristics of the social relations of friendships (e.g., attachment, contact,
+delinquency) condition the effect of friends’ behavior on adolescents’ se-
+rious delinquency. Specifically, the effect of peers is strongest when an
+adolescent has strong attachment to peers, much contact with friends,
+and when their peers display delinquent patterns.
+
+These are noteworthy findings because they indicate that even in de-
+linquent peer networks, individuals display substantial variation in their
+attachment to and the amount of time they spend with their peers—both
+of which condition peer influence. While Agnew’s research suggests that
+members of a friendship network are not affected by the network’s be-
+havior in exactly the same way, it is unknown whether structural prop-
+erties of the network, such as density, centrality, and popularity, similarly
+condition peer influence. The latter finding may suggest that both struc-
+tural and emotional ties play a role in determining the strength of the
+association between delinquent peers and delinquency involvement.
+
+Therefore, despite advancing understanding of the role that peers play
+in adolescents’ delinquency, prior research does not account for the role
+of network structure on adolescent delinquency. The criminological lit-
+erature, in particular, and sociological literature, in general, reflect a sur-
+prising lack of clarity in conceptualizing peer influences and little con-
+sideration of peer network structure. By focusing only on the number of
+delinquent friends reported by an adolescent, prior research assumes that
+everyone in the friendship network is affected similarly by the behavior
+of the friendship network, regardless of their position within the network
+or their status among network members. The assumption that persons
+and groups are independent overlooks how interconnections among per-
+sons influence behavior.
+
+In contrast, a social network perspective posits that examining an im-
+portant element of peer relations, the observed pattern of interpersonal
+friendship relations, provides insight into whether the susceptibility ad-
+olescents have to their friends’ behaviors derives in part from their po-
+sition within the peer network. The interrelationships among adolescents
+serve as the context in which social norms and cultural values regarding
+delinquency are shared. Because of the importance of peer relationships
+in delinquency, the fact that few accounts of the delinquency-peer asso-
+ciation are based on a social network perspective provides an opportunity
+to see whether a network approach provides a deeper understanding of
+the delinquency-peer association.
+adequately.’ In regard to temporal ordering, there is some evidence that
+adolescents sort themselves into friendship networks based on aggressive
+personality (Cairns et. al. 1988; Patterson and Dishion 1985). Although
+this selection into particular friendship networks may partially explain
+the association between delinquent peers and delinquency, it should also
+increase delinquency through differential association and processes of so-
+cial contagion (Cairns and Cairns 1994; Elliott and Menard 1996; Kandel
+1978; Krohn et al. 1996; Matsueda and Anderson 1998; Thornberry 1987).
+
+Furthermore, while some criminologists speak of friendship formation
+as a self-selection process where “birds of a feather flock together” (Glueck
+and Glueck 1950), early child socialization researchers (e.g., Kupersmidt,
+Coie, and Dodge 1990) suggest that a process of peer rejection drives the
+formation of more problematic (i.e., aggressive and delinquent) friendship
+networks. Additionally, many children and adolescents have to wait until
+a peer group selects them, although they can accept or veto participation.
+This is because the number and type of networks open to them are limited
+by many factors including age, gender, cultural, and socioeconomic fac-
+tors—which may be even more important factors than personality or
+behavior orientation (Brown, Lohr, and Trujillo 1990). This suggests that
+children and adolescents do not have as much control/freedom in selecting
+their friends as the selection perspective argues. Limited opportunities to
+join particular networks may make the peer network that adolescents
+eventually find a particularly important source of influence on their
+behavior.
+Social Control Theory
+
+Travis Hirschi’s (1969) social control theory of delinquency is based largely
+on the notion of social integration focal to the work of Durkheim (1951).
+Instead of focusing on why certain individuals commit crime, social con-
+trol theory emphasizes the necessity of explaining why individuals refrain
+from criminal activity (Hirschi 1969). Offering motivation for criminality
+is unnecessary, according to Hirschi, because “we are all animals and thus
+all naturally capable of committing criminal acts” (1969, p. 31). Instead,
+he focuses on constraining influences and argues that adolescents tightly
+bonded to family, the school, and peers are less likely to engage in delin-
+quent acts because these bonds restrain them from acting on their natural
+antisocial impulses (1969).*
+
+Although Hirschi discusses four bonds responsible for constraining de-
+linquent behavior—attachment, involvement, commitment, and_be-
+lief—most research concentrates on the importance of the bond of at-
+tachment (Vold, Bernard, and Snipes 1998). According to social control
+theory, adolescents who have strong ties of affection to others (family,
+friends, school) are more behaviorally constrained than those lacking these
+bonds and thus less likely to become involved in delinquency. In terms
+of friendship networks, social control theory posits that the more bonds
+an adolescent has via friendship ties, which carry a connotation of at-
+tachment, the less delinquent the adolescent will be.
+
+While research provides modest empirical support for Hirschi’s theory
+(see a review of research on this issue in Jensen and Rojek [1992]), it is
+evident that a complete explanation of delinquent behavior is not offered
+by the theory. One of the more problematic aspects of social control theory
+involves its neglect of the context in which the social bonds occur. Spe-
+cifically, while research establishes that in most cases social bonds via
+attachment are associated with a reduction in delinquency, they are not
+likely to reduce delinquency when adolescents are bonded to delinquent
+friends. When bonded to delinquent peers, the constraint of the bond is
+toward delinquency. Despite Hirschi’s denial of the importance of delin-
+quent friends, it is these delinquent associates who are implicated in the
+transmission of delinquency and to whom differential association theory
+attaches primary importance.
+
+Although social control theory pays limited attention to the context in
+which social bonds occur, its focus on the constraining influence of social
+integration is consistent with a social network perspective (Krohn 1986).’
+Being integrated within a friendship network where adolescents are likely
+to report high attachment and time spent with peers (Giordano et al. 1986)
+either facilitates or discourages delinquency involvement depending upon
+the norms, values, and behaviors evident in the network (see also Krohn
+1986; Elliott et al. 1985). Consistent with Eder and Enke’s (1991) finding
+that although adolescents often discount a peer’s evaluation, but never a
+group evaluation, is the notion that embeddedness within a social struc-
+ture (such as a friendship network) acquires additional influence because
+it creates expectations for behavior, while reinforcing the social norms
+and beliefs of the network (Granovetter 1973, 1974, 1985). This idea of
+embeddedness ties nicely into Sutherland’s theory of differential associ-
+ation since being enmeshed in a peer network provides access to expec-
+tations, norms, and sanctions that either support or discourage delinquent
+behavior.
+in conventional or delinquent behavior. The social transmission of delin-
+quency occurs within the friendship network through the dissemination
+of attitudes about the appropriateness of delinquent behavior (Sutherland
+1947). While Sutherland’s theory emphasizes the attitudes of peers in the
+transmission of delinquency, Aker’s (1985) extension to differential rein-
+forcement theory suggests that the adoption of delinquent behavior occurs
+through the imitation of peers’ behavior or through the observation of
+its consequences (either positive or negative). Consistent with Aker’s re-
+formulation of differential association theory, research finds that the be-
+havior of peers is more important than the attitudes of peers in influencing
+an individual’s own delinquency (Warr and Stafford 1991).
+
+Differential association theory, and Aker’s extension to it, are partic-
+ularly suited to an examination of friendship networks because “definitions
+favorable to violation of law” are learned in the intimate social networks
+of individuals (Sutherland and Cressey 1974). Moreover, several research-
+ers drawing on differential association theory have argued that the effect
+of delinquent peers is conditioned by specific features of social relations
+(Agnew 1991; Orcutt 1983, 1987; Short 1957, 1960; Voss 1969). Because
+Sutherland’s theory stipulates that the frequency, duration, priority, and
+intensity of associations are the most relevant for differential association,
+researchers have explored whether these features of social relations con-
+dition delinquent peer influences. Unfortunately, the imprecise definitions
+offered by Sutherland for the features of differential association leave
+room for subjective interpretation of the defining characteristic of social
+relations, and subsequent researchers have offered various definitions.
+
+Instead of focusing on subjective properties of social relations, such as
+affection, a network perspective suggests that useful conceptualizations
+of social relations should also incorporate the underlying structural prop-
+erties of interpersonal relationships in which definitions, favorable or un-
+favorable, to delinquency are transmitted. This may particularly be the
+case for Sutherland’s property of intensity. For example, a more cohesive
+peer network in which everyone is friends with everyone (i.e., high density)
+will provide greater intensity in differential associations for adolescents
+than will location in a friendship network in which only certain members
+identify each other as friends. Additionally, an adolescent’s structural
+location within the network may affect the intensity of differential as-
+sociations. For example, adolescents located in more central positions
+within the network should experience greater differential association than
+adolescents located in more peripheral positions in their peer network.
+
+In summary, a network perspective offers a structural approach to
+defining characteristics of social relationships. As discussed next, a net-
+work perspective suggests that (1) some group members are more sus-
+ceptible to control by their friendship network due to their position within
+Social Network Perspective
+
+A social network perspective provides a useful framework for expanding
+on social control and differential association theory.’ Not only does the
+network perspective assume that networks constrain individual behavior
+to become consistent with the norms, expectations, and behaviors of the
+network, but that “the structure of a network has consequences for its
+individual members and for the network as a whole, over and above
+effects of characteristics and behaviors of the individuals involved” (Klo-
+vdahl 1985, p. 1204). This suggests that after accounting for relevant
+individual attributes, structural location and positioning within social net-
+works influence behavior by moderating the effect of the network’s
+behavior.
+
+Social network analysis is uniquely suited for measuring and under-
+standing the behavior of peers because it provides a formal means for
+“mapping” friendships and measuring properties of those friendships (En-
+net and Bauman 1996). In most prior criminology/delinquency research
+designs, adolescents simply describe their perceptions of their friends’
+behavior. This is then construed as a measure of peer influence. Network
+analyses offer an alternative and more methodologically rigorous ap-
+proach, where the beginning point is asking respondents both to describe
+their own behavior and to identify their friends. The second step involves
+locating and interviewing the friends, with the friends describing their
+own behavior and then identifying their friends, and so on. In a best case
+scenario (which the Add Health comes very close to), all adolescents and
+friends in the population of adolescents provide this information. This
+allows the links among friends to be established for the purpose of con-
+structing analytical friendship networks with identifiable structural prop-
+erties. The characteristics of the adolescent’s friendship network, includ-
+ing peer delinquency, can then be treated as individual attributes of that
+respondent.
+
+Because network methods are premised on the idea that patterns of
+friendship ties structure the flow of information, social norms, and social
+support, incorporating the friendship context is important for the study
+of delinquency since these ties potentially provide linkages for the trans-
+mission of delinquent behavior (Ennett, Bailey, and Federman 1999).
+These are the links through which differential associations are believed
+to occur. Despite advances in network methodologies that have pointed
+to the importance of social relations for understanding behavior (e.g., Bott
+1957; Coleman 1961; Granovetter 1973; Kapferer 1969), most criminol-
+ogists have not yet examined the different ways social networks influence
+adolescents’ participation or nonparticipation in delinquency. Theories of
+adolescent delinquency have focused on the existence of peer networks
+(differential association theory) or on adolescents’ feelings toward friends,
+such as attachment to friends (social control theory), without considering
+characteristics of the networks themselves (Krohn 1986).
+
+Krohn and his colleagues (1986, 1988, 1993) represent some of the only
+criminologists who have recognized the benefits of applying a network
+perspective to the study of delinquency. To evaluate the degree to which
+delinquent behavior is within the purview of an individual’s network,
+Krohn directed attention to two network characteristics he believed were
+especially important: muliplexity (defined as the number of activities in
+which individuals interact jointly) and density (defined as the extent to
+which all members in the network are connected by direct ties). Despite
+relying on survey data (where respondents were asked to describe network
+characteristics), Krohn’s study is one of the first to suggest the importance
+of structural properties of networks for evaluating the probability of de-
+linquency. That is, structural characteristics of friendship networks can
+help elucidate when network members have, more or less, control in
+enforcing common norms, expectations, and obligations for behavior. Un-
+fortunately, little research in criminology has followed up on Krohn’s lead.
+
+This study expands on prior research in two important ways. First,
+peer networks are defined more rigorously as adolescents’ egocentric
+friendship networks and are measured with network data on friendship
+nominations linking adolescents within schools. An adolescent’s friend-
+ship network consists of all adolescents who the respondent directly nom-
+inates as friends, as well as those adolescents who directly nominate the
+respondent as a friend. Second, the behavior and structural characteristics
+of the personal friendship network are measured directly through infor-
+mation provided by all members of the friendship network, rather than
+by the perceptions of the respondent. Information on how delinquent the
+network is, as well as the structural properties of the friendship network,
+Network Characteristics and Expectations
+
+By drawing linkages between social control and differential association
+theory, a network perspective suggests how structural properties of friend-
+ship networks may moderate the delinquency-peer association. These ex-
+pectations are detailed below.
+
+Density —When network density is high and all members of the net-
+work are likely to know and interact with one another (Bott 1957), it is
+expected that the behavior evidenced in a friendship network will be
+more strongly associated with an adolescent’s behavior than will be the
+case in less cohesive friendship networks. More cohesive networks contain
+higher levels of interaction and communication within them so that the
+opportunities for network members to express their views of appropriate
+behavior are maximized (Giordano et al. 1986). Additionally, when all
+network members know one another, the likelihood of knowing others
+outside the network is reduced compared to the opportunity to know
+outsiders in less dense friendship networks (Granovetter 1973). This sug-
+gests that outside pressures are less influential for adolescents located in
+dense friendship networks.
+
+James Coleman (1990) discusses the advantages of social closure of this
+sort in an individual’s network for the facilitation of a clear social identity.
+Conceptualizing networks in terms of social capital suggests that “a co-
+hesive network conveys a clear normative order within which the indi-
+vidual can optimize performance, whereas a diverse, disconnected net-
+work exposes the individual to conflicting preferences and allegiances
+within which it is much harder to optimize” (Podolny and Baron 1997,
+p. 676). Thus, very dense social networks facilitate common identities and
+constrain the behavior of their members to be consistent with the net-
+work’s behavior, whether that is toward delinquency or not.
+
+Density is defined in this study as the number of ties present in the
+egocentric friendship network divided by the number of possible ties. A
+network’s density would be completely maximized if every member had
+ties to every other member and at a minimum if others in the network
+were only connected to the respondent.
+
+Centrality.—Similarly, it is expected that an individual’s position within
+the friendship network affects how influential the network’s behavior is
+on the adolescent’s behavior. Adolescents located in more central positions
+are expected to report behavior more closely associated with their friends’
+behavior than individuals located in more peripheral positions (Giordano
+1983)."" A central adolescent is defined as one who has ties to all or most
+of the network members in the friendship network so that information
+passed through the network will have to be passed through this central
+adolescent. This definition of centrality gauges whether adolescents are
+located in prominent positions within their friendship networks according
+to whether they are involved with many others in the network. It does
+not matter whether involvement is due to being the recipient of many
+friendship ties or the source of the ties—what is important is that a central
+adolescent is involved in many relationships with friends. This is an ex-
+posure argument—the central adolescents are exposed to greater com-
+munication and interaction within their friendship network than adoles-
+cents located in peripheral positions within the network.
+
+Centrality is a measure of the number of links required to link all other
+adolescents in a respondent’s friendship network; the lower the number
+of links necessary, the more central the respondent. The measure used in
+this study also accounts for the centrality of the adolescents to whom
+respondents are linked by weighting respondents’ centrality scores by the
+centrality of those to whom respondents send ties. Therefore, this measure
+of influence not only depends on the adolescent’s centrality within the
+network, but also on the positioning of those to whom he or she is
+connected.
+
+Popularity —Individuals who receive many friendship nominations
+(i.e., popularity) are expected to be more constrained by the behavior of
+the network than individuals who receive fewer friendship nominations.
+For example, individuals who are more popular may have behavior more
+similar to their friendship network than individuals with less status in
+the peer hierarchy. This expectation arises because the most popular stu-
+dents in the school have the most to lose (the furthest to fall in the status
+hierarchy) by not adopting the network’s behavior. Supporting this idea,
+ethnographic research by Eder (1985) finds that the most popular ado-
+lescent girls in a junior high school perceived more limited friendship
+choices and experienced great stress associated with maintaining their
+dominant position within the student hierarchy. The stress resulting from
+maintaining positions within school hierarchies was partly attributable to
+the girls’ considerable effort directed at ensuring that their behavior re-
+mained consistent with that expected from their elite position. Limited
+While fundamental, the effect of social networks within a school context
+on adolescents’ delinquency has rarely been studied. In part, this is be-
+cause the requisite data have not been available. Understanding social
+networks’ influence on adolescent delinquency requires detailed popu-
+lation-level data on the structure of friendship patterns within a school,
+for many different schools. Until recently, the only data that approached
+these stringent requirements was Coleman’s landmark study (1961) of
+social relationships among high school students in the 1960s. Although
+these data provided insight into the importance of peer relationships and
+adolescent culture, they were only available for a small number of schools,
+so that generalizability to other schools and adolescents as a whole was
+prevented.
+
+This study utilizes data from the first wave of the Add Health survey,
+a newly available data set consisting of a nationally representative sample
+of adolescents in grades 7-12 nested within randomly selected schools in
+the United States during 1994-95. The innovative design of this sample,
+particularly its emphasis on the effects of multiple contexts of adolescents’
+lives, allows for an examination of the correlates of adolescent health and
+health behavior (including delinquency) that goes considerably beyond
+prior research.
+In-School Interviews
+
+In contrast to other nationally representative surveys of adolescent delin-
+quency that use sample designs to randomly select adolescents from the
+schools, the Add Health study contains very detailed social network data
+for students in 129 randomly selected schools stratified by region, urban-
+icity, school type, ethnic mix, and size.’’ Within each school, brief inter-
+views were conducted with every student attending the school on that
+day (V = 90,000). During this in-school phase, students were asked to
+identify their best male and best female friends from a school roster (up
+to 5 friends of each sex),’’ as well as provide some brief demographic
+information and describe their participation in a few minor delinquent
+activities. Because friendship nominations were recorded by student iden-
+tification number located from school rosters, it is possible to link together
+most of the students in the schools, thereby recreating the social networks.
+From this complete network information, network characteristics and the
+mean delinquency rate of the respondent’s friendship network are
+calculated.
+
+Because this is a study of friendship networks within schools, it is
+important to acknowledge that the network data do not include detailed
+information on ties to friends who do not attend the school. Friends who
+do not attend school may be particularly likely to be delinquent (e.g.,
+drop-outs), and delinquent adolescents attending school may be more
+likely to nominate these out-of-school friends. However, adolescents were
+able to nominate friends outside of the school, allowing a calculation of
+the number of out-of-school nominations per adolescent to be determined
+(this is the only information available on network structure outside of the
+school). This information reveals that the average number of outside nom-
+inations for adolescents is generally small, averaging 1.4 ties per adoles-
+cent. More important, out-of-school nominations do not significantly differ
+between delinquent and nondelinquent adolescents (1.4 vs. 1.3). Therefore,
+the assumption that delinquent and nondelinquent adolescents have
+friendship networks located within schools (rather than outside of school)
+appears reasonable.
+sample of adolescents. This nationally representative sample of adoles-
+cents in grades 7-12 was drawn from school rosters provided by each
+school, with students stratified by grade and sex. Approximately 200 ad-
+olescents were selected from each of the 80 pairs of schools (the high
+school and its feeder junior high school), yielding a sample of approxi-
+mately 20,000 adolescents.
+
+These in-depth interviews involved the collection of more sensitive data
+such as an extensive series of questions that concern involvement in both
+property and violent delinquency. An additional advantage of this data
+involves the use of laptop computers to maintain confidentiality about
+sensitive subjects such as delinquency. This method of data collection
+allowed respondents to maintain their anonymity by listening to pre-
+recorded questions about participation in different delinquent activities
+and then entering their responses directly into the computer. This self-
+report information on participation in a series of delinquent activities is
+used to construct the dependent variable—delinquency involve-
+ment—which is described in the following section. Because the dependent
+variable can only be constructed from the in-home survey (vs. the in-
+school survey), the in-home survey composes the main sample for this
+project. Network information from the in-school survey is appended to
+this sample. Drawing on these data components, the final sample for this
+study consists of approximately 13,000 adolescents nested within 120
+schools who had completed both in-school and in-home interviews.
+TABLE 1
+FREQUENCY DISTRIBUTIONS OF DELINQUENCY ITEMS
+
+ 
+
+ 
+
+Dependent Variable N %
+
+ 
+
+Delinquency index:”
+Painted graffiti:
+
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+
+   
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Never .. 12,332 91.2
+
+One or more times 1,186 8.3
+Damaged other’s property:
+
+Never .......c cece eee cence eee eee e neces 11,135 82.4
+
+One or more times .................24- 2,383 17.6
+Shoplifted from a store:
+
+Never ........ 10,247 75.8
+
+One or more times : 3,271 24.2
+Stolen something worth less than $50:
+
+Never .......e cece eee e eee ee cece ee ene 10,813 80.0
+
+One or more times .................24- 2,705 20.0
+Stolen something worth more than $50:
+
+Never ........... 12,885 95.3
+
+One or more times 633 4.7
+Burglarized a building .
+
+Never .. 12,870 95.2
+
+One or more times 648 4.8
+Borrowed a car (w/o owner’s permis-
+
+sion):
+
+Never ........ 12,204 90.3
+
+One or more times 1,314 9.7
+Sold drugs:
+
+Never ....... 0c cece ec ee eeeee eee ee ene 12,592 93.1
+
+One or more times 926 6.9
+Got into serious physical fight:
+
+Never ........ 9,457 70.0
+
+One or more times .. 4,061 30.0
+Seriously injured someone:
+
+Never .. 11,186 82.7
+
+One or more times 2,332 17.3
+Taken part in group fight:
+
+Never ....... 0c cece cc eee cece e eee eeen es 10,980 81.2
+
+One or more times .................24- 2,538 18.8
+Used or threatened to use weapon:
+
+Never ........... 13,001 96.2
+
+One or more times 517 3.8
+Pulled a knife/gun on someone:
+
+Never ....... 0c cece cc eee cece e eee eeen es 12,961 95.9
+
+One or more times .................... 557 4.1
+Shot/stabbed someone:
+
+Never ........... 13,303 98.4
+
+One or more times 215 1.6
+fight, seriously injured another, used or threatened to use a weapon, par-
+ticipated in a group fight, pulled a knife/gun on someone, or shot/stabbed
+someone.
+
+The particular questions ask students to report how often in the past
+12 months they have participated in these activities. Each response is
+coded “0” if the respondent reported not participating in the activity dur-
+ing the past year or coded “1” if they reported participation.’® Following
+common procedures used to measure self-report delinquency, a summated
+delinquency index is created based on responses to the 14 delinquency
+items. The Cronbach alpha of 0.83 indicates that these items have con-
+Peer Delinquency
+
+Most of the prior research on the delinquency-peer association assumes
+that respondents’ perceptions of their friends’ attitudes and behaviors
+accurately reflect the reality of these attitudes and behaviors without
+allowing for the powerful influence of assumed similarity (Jussim and
+Osgood 1989). Problems with this common approach to measuring the
+influence of peer behaviors have been highlighted in the developmental
+literature and, to a lesser extent, in the criminological literature. Generally,
+this literature notes that respondents’ perceptions of friends’ behavior are
+not very accurate assessments of the friends’ actual behavior (Bauman
+and Fisher 1986; Billy, Rodgers, and Udry 1984). These findings give
+particular credence to Gottfredson and Hirschi’s (1990, p. 157) argument
+that measures of peer delinquency are simply “another measure of self-
+reported delinquency.” That is, when asked to report their peers’ delin-
+quent behavior, adolescents show a proclivity to report their own delin-
+quent behavior. If this is the case, it casts considerable doubt on the
+frequently observed relationship between peers’ delinquency and adoles-
+cents’ own reports of their delinquency.
+
+To avoid problems of projection (i.e., a respondent projecting his or her
+behavior to friends), this study relies on the actual responses of all iden-
+tified friends to a series of questions about delinquency. During the in-
+school interview, every student was asked about his or her involvement
+in a series of six minor delinquent acts. Using the friendship nomination
+data, which links up all of the students in the school and this information
+on friends’ delinquency involvement, a measure of peer network delin-
+quency is created.’* It is calculated as the average response of all identified
+friends to the minor delinquency items, which include smoked cigarettes,
+drank alcohol, got drunk, skipped school without an excuse, did dangerous
+things on a dare, and raced vehicles such as cars or motorcycles (see table
+1 for a description of the six items). Table 1 indicates that the mean minor
+* Unfortunately, information on friends’ delinquency is only available from in-school
+interviews, which do not include the friends’ involvement in the extensive list of
+delinquency items used to create the dependent variable (which were collected during
+the in-home portion of the interview). Therefore, a measure of friends’ minor delin-
+quency involvement is the only information available for all adolescents composing
+the respondent’s friendship network in the schools included in the complete sample.
+In the Add Health data, in-home interviews were conducted with every adolescent
+attending school in 14 small schools, chosen because of their size, and in two large
+schools, which were purposefully selected. (This is referred to as a saturation sample).
+This very limited sample, therefore, contains information on friends’ involvement in
+the more extensive list of 14 delinquency items, as well as the minor delinquency items.
+To gain an initial benchmark of how big a discrepancy there is between the association
+of friends’ minor delinquency involvement and a respondent’s more serious delin-
+quency involvement—compared to the association between friends’ more serious de-
+linquency and a respondent’s serious delinquency index—some preliminary regression
+analyses were conducted on the saturation sample. The correlation between friends’
+minor and friends’ serious delinquency involvement in the saturation sample (ry =
+0.47) suggests that while the two indicators of friends’ misbehavior are correlated
+substantially as expected, it is far from a perfect association. Next, regression analyses
+(using a negative binomial model) indicated that using friends’ minor delinquency as
+a proxy for more serious delinquency involvement provides a more conservative es-
+timate of the association between friends’ delinquency and a respondent’s behavior
+(b = .06 using friends’ minor delinquency compared to b = 0.11 using friends’ serious
+delinquency). Nonetheless, despite a weaker association, friends’ minor delinquency
+involvement remained significantly associated with a respondent’s more serious delin-
+quency involvement and supports the use of this measure in subsequent analyses, so
+results can be generalized from a more representative sample.
+Mean friendship delinquency ..._ Mean value of minor delinquency items MEANDEL, = £x,/n;, where x; = the
+
+for the respondent’s friendship network value of the delinquency index for the
+
+jth member of the adolescent’s network
+and n; = the number of nodes in the
+adolescent’s network based on send and
+receive friendship nominations (exclud-
+
+ing ego)
+Popularity ................0.c00ee Measures no. of times the respondent is IN-DEGREE = £X;,, where EX,, = the
+nominated by other students in the sum of the ith column of the total
+school
+
+friendship network X
+
+Density (relative) ................. No. of ties in respondent’s friendship send/ ERSDEN, = [ESRi/sr x (sr —
+receive-network divided by the number 1)Mabs{(10 x sr)/sr(sr — 1)}}, where SR =
+of possible ties in the total friendship total ego send/receive-network and sr =
+send/receive-network (corrected for the number of nodes (ties in SR)
+maximum number of ties a respondent
+can send)
+
+Respondent’s centrality, weighted by the BCENT1O x (a,8), = a( — BX) 'X1,
+centrality of those to whom he or she
+sends ties
+
+Centrality (Bonacich) ............
+
+where: a = a scaling vector; 8 = power
+weight (here = 0.1); J = identity ma-
+Other race ................cee eee Dummy variable indicating respondent is
+of Indian, Asian, or other racial descent
+(ie., not white, or African-American)
+
+ABO oie eee eee eee cece eens Measures respondent’s age at the time of
+the initial in-school survey
+
+Measures the respondent’s age squared
+
+Dummy variable that indicates whether
+respondent lives in a household with
+two married parents present
+
+Dummy variable indicating whether re-
+spondent’s family acknowledged receipt
+of public assistance
+
+Mean value of two items: (1) feel close to
+parents; (2) feel parents care about you
+(Cronbach a = .78)
+
+Mean value of three items: (1) feel close to
+people at school; (2) feel like part of
+school; (3) happy to be at school (Cron-
+bach a = .78)
+
+Response to How strongly do you believe
+that your friends care about you?
+
+Age? oo...
+Two-parent family ..
+
+ 
+
+ 
+
+Public assistance .................
+
+Parental attachment index ......
+
+School attachment index ........
+
+Friend attachment ...............
+
+Friend involvement .............. Response to During the past week, how
+
+many times did you just hang out with
+pe 4s
+
+ 
+
+Othrace = 1; white, black = 0
+
+Continuous variables in years
+
+(Continuous variables in years)’
+TWOPAR = 1; other living arrangements =
+0
+
+PUBASSIST = 1; no public assistance
+0
+
+Not at all = 1; very little = 2; somewhat =
+3; quite a bit = 4; very much = 5 (av-
+erage response of the two items)
+
+Strongly disagree = 1; disagree = 2; nei-
+ther agree/disagree = 3; agree = 4;
+strongly agree = 5 (average response of
+the three items)
+
+Strongly disagree = 1; disagree = 2; nei-
+ther agree/disagree = 3; agree = 4;
+strongly agree = 5
+
+Not at all = 0; 1 = 1 or 2 times; 2 = 3
+or 4 times; and 3 = five or more times
+has a centrality level of 0.82 (range 0-4.3) and 4.6 other adolescents in
+the school nominating him or her as a friend (popularity range: 0-32).
+Control variables associated with delinquency in prior criminological
+research are included in this study, and measurement of these variables
+are also described in table 2. These control variables include gender, race,
+age, an indicator of family structure, receipt of public assistance, a parental
+attachment index, a school attachment index, a friend attachment index,
+and a measure of friend involvement. These control variables were se-
+lected because they either control for important demographic differences
+in delinquency propensity (e.g., age, gender, race, social class, family struc-
+ture) or because they are implicated as key variables in social control and
+differential association theory (e.g., parental attachment, school attach-
+ment, peer attachment, friend involvement). Table 3 provides the de-
+scriptive characteristics of these variables and reveals that the average
+adolescent is white, lives in a two-parent family, has relatively high at-
+ANALYSIS
+
+Assessing whether peer network characteristics are associated with delin-
+quency and condition the delinquency-peer relationship necessitates mul-
+tivariate analyses with emphasis on interaction terms. However, deter-
+mining the proper modeling procedure for the analyses requires examining
+the distribution of the dependent variable: delinquency involvement.
+While the mean value of the overall delinquency index is 1.7 (see table
+1), the distribution of the variable is far from normal. Inspection of the
+frequency distribution for the delinquency index finds that the most com-
+mon value is zero, indicating that many adolescents report no delinquency
+involvement. Additionally, a minority of respondents report involvement
+in a large number of delinquent activities (5% reports participating in six
+or more acts, and 1% reports participating in 10 or more). Due to a large
+number of zeros and a large positive skew in the distribution, the nor-
+mality assumption of OLS cannot be approximated with a mathematical
+transformation. Therefore, negative binomial regressions, designed to han-
+dle dependent variables with distributions incorporating many zero values
+and large positive skews, are used in the results that follow.”
+
+Because standard negative binomial models assume that regression co-
+efficients are fixed between groups and that error terms are not correlated,
+these models are inadequate for complex sampling designs where indi-
+viduals are nested within a larger macrounit (here schools; see Goldstein
+1987; Lee and Bryk 1989; Raudenbush and Bryk 1986). Due to the clus-
+tering of the data and the correlated error structure, statistical techniques,
+which can correct for design effects and unequal probability of selection,
+are necessary to achieve unbiased parameter estimates.’' In addition, since
+FINDINGS
+Delinquency-Peer Association
+
+Before addressing the main question about the moderation of delinquency-
+peer associations by network characteristics, it is useful to examine
+whether network characteristics are associated with delinquency and im-
+prove model fit after accounting for control variables. The multivariate
+analyses in table 4 present models that examine the association between
+delinquency involvement and background individual-level characteristics.
+Model 1 simply provides a baseline against which to assess model fit.
+Consistent with prior research, variables that tap dimensions of social
+control are associated with a reduction in delinquency involvement (the
+exception is attachment to friends), whereas involvement with friends (ie.,
+the amount of time spent with friends) is associated with increased de-
+linquency involvement. Model 2, which is of more interest, assesses
+whether a measure of peer delinquency is associated with an adolescent’s
+delinquency. Recall that a common critique of prior studies’ findings of
+a strong association between delinquent peers and a respondent’s self-
+report delinquency is that the friends’ behavior is measured through the
+respondent’s potentially biased perceptions.
+
+Model 2 indicates that friends’ delinquency is associated with a re-
+spondent’s own delinquency; each unit increase in friends’ delinquency
+yields a 4% increase in the respondent’s mean delinquency level
+(exp (.04) = 1.04). This finding indicates that friends’ delinquency is not
+simply a measurement artifact reflecting a respondent’s own delinquency
+involvement, but rather remains an important correlate of a respondent’s
+delinquency even after controlling for a host of different individual-level
+factors. With maximum-likelihood estimates, it is possible to determine
+whether a more complex model provides a better fit to the data than do
+simpler models using likelihood ratio significance tests. Model 2 yields a
+TABLE 4
+BASE-LINE MoDELs: RANDOM EFFECTS NEGATIVE BINOMIAL MODEL OF DELINQUENCY INVOLVEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Move 1 MopEL 2 MODEL 3
+Coeff. B Coeff. B Coeff. B
+Intercept ...... —2.21 (1.04) —1.67" (1.02) -157" (1.03)
+Control variables:
+Black .................. 7 (.03) 07 24 (.03) 10 25 (.03) Al
+Other race (nonwhite) . .20 (.03) .09 24 (.03) Al 24 (.03) ll
+Female . —.52 (.02) —.25 —.50 (.02) —.24 —.50 (.02) —.24
+Age 53 (.13) 86 43 (13) -70 Al (.13) 67
+Age’ —.02 (.00) —.60 —.02 (.00) —.60 —.02 (.00) —.60
+Two-parent family . —.11 (.02) —.06 —.09 (.02) —.05 —.09 (.02) —.05
+Public assistance ... 13 (.04) .04 13 (.04) 04 14 (.04) .04
+Friend involvement .. .20 (.01) .20 18 (.01) 18 18 (.01) 18
+Friend attachment ... —.03° (.01) —.02 —.02" (01) .02 —.03 (.01) —.02
+Parent attachment index ... —.13 (.01) -11 —.13 (.01) —.11 —.13 (.01) -11
+School attachment index ... —.22 (.01) —19 —.20 (.01) —.18 —.20 (.01) —.18
+Friends’ delinquency ....... tae 04 (.00) 13 05 (.00) 17
+Network characteristics:
+Density ... —.31" (18) —.03
+Centrality —.01" (.02) —.01
+Popularity . tae tae .02 (.00) .07
+Log likelihood — 22,243.87 — 22,136.16 22,123.27
+—2 log likelihood . 215.54" 25.78"
+
+ 
+
+ 
+
+Note.—N = 12,971 adolescents clustered within 120 schools. All variables are significant at P < .05 unless otherwise noted. SEs are given in parentheses.
+* Not significant.
+** P< 001.
+likelihood ratio value of 215.5 in comparison to the baseline model (model
+1), which is statistically significant (df = 1, P < .001).
+
+To assess the strength of the association between delinquent peers and
+delinquency compared to other control variables, it is useful to standardize
+the coefficients by multiplying the b,s by the X;s’ standard deviations.
+The coefficients are thus expressed in terms of change in log(Y) per stan-
+dard deviation of X, . Column 3 for each model presents these standardized
+coefficients (exponentiating the results indicates the proportional change
+in delinquency per standard deviation of X,). In terms of delinquent peers,
+each standard deviation is associated with a 13% increase in a respon-
+dent’s delinquency (exp(.13) = 1.13). The effect of delinquent peers is thus
+larger than the effect of family structure (two-parent family), public as-
+sistance receipt, and attachment to friends; is comparable to the effect for
+race, parental attachment, and school attachment; and is smaller than the
+gender, age, and peer involvement effect. This finding that delinquent
+peers is not among the strongest (or weakest) variable in the model sug-
+gests that prior findings that delinquent peers have the strongest associ-
+ation in models may have overestimated the strength of the delinquency-
+peer association by using potentially biased respondent perceptions.
+
+To determine the main effect of network characteristics on delinquency
+involvement (before assessing whether they condition the delinquency-
+peer association), model 3 incorporates the network measures of density,
+centrality, and popularity. Findings indicate that density and centrality
+within friendship networks are not associated with delinquency involve-
+ment when relevant control variables and peer delinquency are accounted
+for. Network popularity, in contrast, is associated with a small increase
+in delinquency involvement. Each additional friendship nomination re-
+ceived translates into a 2% increase in delinquency involvement. Peer
+delinquency remains associated with delinquency when the network char-
+acteristics are incorporated into the model.
+
+Although results from this model suggest that structural characteristics
+of friendship networks are unassociated with delinquency when peer de-
+linquency is accounted for, the model does not tell us whether network
+characteristics play a role in the degree to which peer behavior is trans-
+lated into the adolescent’s own behavior. Assessing this requires inter-
+action models. Finding significant interactions between peer delinquency
+and network properties will suggest that network characteristics are not
+as important in regard to their main effect on delinquency, but are very
+important in understanding how the context of friendship networks de-
+termine the degree to which peer behavior is associated with an adoles-
+cent’s own behavior. That is, network characteristics may determine the
+intensity of differential associations.
+Interactions between peer delinquency and each network characteristic
+of interest are examined in models 4-6 of table 5. Each model focuses on
+a particular network characteristic or property of an adolescent’s friend-
+ship network. Model 4 examines whether the association between friends’
+delinquency and a respondent’s own delinquency is conditioned by the
+cohesion within the friendship network (ie., network density). Results
+reveal this is the case; the interaction between peer delinquency and den-
+sity is very strong and significant (exp(.33) = 1.39), indicating that density
+in conjunction with delinquent peers is associated with a large increase
+in self-reported delinquency. In contrast, the coefficient for density, in
+model 4, suggests that when adolescents do not have delinquent peers,
+density is associated with a reduction in delinquency involvement
+(exp(—1.77) = 0.17). This provides strong evidence that network density
+is an important structural component of peer networks in its ability to
+moderate the delinquency-peer association.
+
+Graphing this relationship in figure 1 reveals that high density in com-
+bination with a delinquent peer network translates into greater delin-
+quency involvement, whereas low density is less related to delinquency.
+Specifically, when an adolescent is located in a friendship network re-
+porting a minor delinquency index of 5, medium and low density in the
+peer network is associated with a respondent’s serious delinquency index
+of 0.33; however, being enmeshed in a dense peer network translates into
+a serious delinquency index of 1.3. Moreover, when friends’ delinquency
+is at higher levels (equals an index of 10), a less cohesive friendship net-
+work is associated with a respondent’s mean delinquency index of 0.45
+versus 1.75 for respondents located in very dense friendship networks.
+What is important in this graph is that as density increases, the association
+between peer delinquency and an adolescent’s own delinquency involve-
+ment increases rapidly. This highlights that the relationship between
+friends’ delinquency and a respondent’s own delinquency is conditioned
+by the cohesion present in the friendship network.
+
+Network centrality, an indicator of positioning within a friendship net-
+work, also moderates the delinquency-peer association. Specifically, model
+5 indicates that location within a central position in a delinquent peer
+network is associated with an increased delinquency index (exp(.05) =
+1.05). Conversely, location in a central position within a nondelinquent
+friendship network is associated with a reduction in delinquency involve-
+ment (exp(—.27) = 0.76). Graphing this relationship in figure 2 illustrates
+the interaction. With friendship delinquency equal to 5, there is little effect
+of network centrality (low, average, and high centrality = 0.28). With
+increased peer delinquency (equal to 10), low centrality corresponds to a
+TABLE 5
+INTERACTION MOopDELs: RANDOM EFFECTS NEGATIVE BINOMIAL MODEL OF DELINQUENCY INVOLVEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+MODEL 4 MODEL 5 MODEL 6
+Coeff. B Coeff. B Coeff.
+
+Intercept ................ cece eeceeeee ee ee ee —1.08" (1.02) -1.37° (1.02) -1.27° (1.03)
+
+Control variables:
+Black ........... 25 (.03) al 26 (.03) al 27 (.03) Al
+Other race (nonwhite) . 25 (.03) al 25 (.03) Al 25 (.03) wll
+Female —.50 (.02) —.24 —.50 (.02) —.24 —51 (.02) —.25
+Age 39 (.13) 64 41 (13) 67 39 (.13) 64
+Age? —.02 (.00) —.60 —.02 (.00) —.60 —.02 (.00) —.60
+Two-parent family . —.09 (.02) —.05 —.09 (.02) —.05 —.09 (.02) —.05
+Public assistance ... 12 (.04) 03 12 (.04) 03 13 (.04) .04
+Friend involvement .. 18 (.01) 18 18 (.01) 18 17 (.01) 17
+Friend attachment . —.03 (.01) —.02 —.02° (.01) 02 —.03 (.01) —.02
+Parent attachment index —.13 (.01) —11 —.13 (.01) —.11 —.13 (.01) -11
+School attachment index —.20 (.01) —.18 —.20 (.01) —.18 —.21 (.01) —.18
+Friends’ delinquency .................. —.00°
+Network characteristics:
+
+Density ............
+
+Centrality ..
+
+Popularity
+Interactions:
+
+Density x friends’ delinquency ...... 233
+
+Centrality x friends’ delinquency ...
+
+Popularity x friends’ delinquency ... tae
+Log likelihood ................ccceeeeeeee — 22,083.34
+
+—L77
+
+ 
+
+ 
+
+—2 log likelihood (compared to
+model 2) ..........0cccececeeeceeceeeeeees 105.64"
+
+(01) .00 02
+(.22) —.16 oe
+—.27
+(.03) 25 :
+05
+—22,089.36
+93.6"
+
+(.00) 07 .02 (.00)
+(.03) —.18 see
+—.03 (01)
+(.00) 21 :
+01 (.00)
+— 22,091.32
+89.68"
+
+07
+
+—11
+
+18
+
+ 
+
+Note.—N = 12,971 adolescents clustered within 120 schools.
+* Not significant.
+** P< 001.
+
+All variables are significant at P < .05
+
+unless noted in table. SEs are given in parentheses.
+delinquency index of 0.32, average centrality to a delinquency index of
+0.37, and high centrality to a serious delinquency index of 0.56. These
+results indicate that the association between friends’ delinquency and a
+respondent’s own level of delinquency is stronger when the respondent
+is located within a central position in the friendship network
+
+The last network characteristic, popularity, is examined in model 6.
+Here it is found that although the delinquency-peer relationship is con-
+ditional, popularity plays a smaller role in moderating the delinquency-
+peer association. When an adolescent is without delinquent friends, pop-
+ularity has a small negative relationship with delinquency status (exp
+(—.03) = 0.97). In contrast, when located in a delinquent peer network,
+popularity is associated with a small increased delinquency index
+(exp(.01) = 1.01). Specifically, figure 3 indicates that when an adolescent
+is located in a peer network that averages a minor delinquency index of
+5, high popularity is associated with a delinquency index of 0.37 compared
+to 0.34 and 0.32 for average and low popularity, respectively. With greater
+peer delinquency (index = 10), high popularity is associated with a de-
+linquency index of 0.69 versus 0.47 and 0.39 for average and low
+popularity.
+
+Overall, these results indicate that all of the network characteris-
+tics—density, centrality, and popularity—condition the delinquency-peer
+association. Incorporation of the underlying pattern of relationships
+among adolescents explains when friendship networks are more or less
+effective in constraining adolescents’ behavior to resemble that of their
+peers. However, the size of the coefficients and graphs of the interactions
+suggest that network density (i.e., cohesion) is a particularly important
+structural property, followed by network centrality (i.e., positioning) and
+popularity.
+
+To better assess which network property is more important in explaining
+when the behavior of peers is associated with an adolescent’s own be-
+havior, it is useful to examine a model with all three network interactions
+incorporated. This allows for the effect of each network characteristic to
+be assessed independently while controlling for the others. Model 6 in
+table 6 presents findings from this analysis and indicates that while all
+of the network interactions remain significant, that is, moderate the de-
+linquency-peer association, density is the more important component of
+friendship networks. Peer delinquency in conjunction with greater co-
+hesion is associated with an increased delinquency index (exp(.16) =
+1.17), whereas centrality within the friendship network and popularity
+play much more modest roles (exp(b) = 1.03 and exp(b) = 1.01, for cen-
+trality and popularity, respectively) in moderating the delinquency-peer
+association. Graphing the relationship between peer delinquency and a
+respondent’s delinquency in figure 4 reveals that when an adolescent is
+located in a friendship network with an average minor delinquency index
+of 10, high density within the network translates into a serious delinquency
+index of 1.64 versus 0.49 for centrality and 0.61 for popularity.
+Respondent's Delinquency
+
+20
+
+16
+
+14
+
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 3.4 3 6 7 8 9 1011 1213 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+
+Friends’ Delinquency
+
+  
+
+“High Density _
+—= High Centrality
++ High Popularity
+TABLE 6
+
+COMPLETE INTERACTION MODEL: RANDOM EFFECTS NEGATIVE BINOMIAL MODEL
+OF DELINQUENCY INVOLVEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MODEL 6
+Coeff. B
+Intercept ..............0. cece eeeee ee ee eee —.98° (1.02)
+Control variables:
+Black ........... 26 (.03) al
+Other race (nonwhite) . 25 (.03) al
+Female ... —.50 (.02) —.24
+Age 38 (.13) 62
+Age’ —.02 (.00) —.60
+Two-parent family . —.09 (.02) —.05
+Public assistance ... 13 (.04) 04
+Friend involvement 17 (.01) 17
+Friend attachment ....... —.03 (.01) —.02
+Parent attachment index —.13 (.01) -11
+School attachment index —.21 (.01) —.18
+Friends’ delinquency .... .00" (.01) .00
+Network characteristics:
+Density ............ —1.20 (.36) -11
+Centrality .. —.15 (.04) —.10
+Popularity .00* (.01) 00
+Interactions:
+Density x friends’ delinquency ...... 16 (.05) 12
+Centrality x friends’ delinquency ... 03 (.00) 09
+Popularity x friends’ delinquency ... 01 (.00) .08
+
+ 
+
+Nore.—N = 12, 971 adolescents clustered within 120 schools. All variables are significant at P <
+05 unless noted. SEs are given in parentheses. Log likelihood = 22,062.06; 2 log likelihood (compared
+
+to model 2) = 148.2 (P < .001).
+* Not significant.
+spective can provide a coherent and powerful framework for addressing
+adolescent delinquency.
+
+Two major findings emerge from this research. First, friends’ delin-
+quency, as measured by responses from friends who compose the adoles-
+cent’s friendship network, is associated with an adolescent’s own delin-
+quency involvement. This is an important finding because the
+delinquency-peer association found in prior research has been criticized
+for inadequate and potentially misspecified measures of peers’ behaviors.
+Since most prior research incorporates a measure of peer delinquency
+based on responses from the respondents rather than the peers themselves,
+Jussim and Osgood (1989) caution that peer delinquency may simply
+measure the respondent’s own delinquent behavior due to processes of
+assumed similarity. In contrast, measures used in the present research
+incorporate the responses of friends themselves and indicate that the de-
+linquency-peer association exists and remains robust regardless of controls
+for numerous other factors. The significant association consistently evi-
+denced in this study gives credence to the idea that delinquency is best
+understood in the context of the friendship network where common norms
+and behaviors emerge from locations in structured patterns of relation-
+ships (Wellman 1988).
+
+Second, network properties summarizing the structure of friendship
+networks moderate the delinquency-peer association. Specifically, delin-
+quent friends have a lesser association with delinquency (and occasionally
+no association) when adolescents are located in a peripheral position
+within their peer network (low centrality), when their peer network is not
+very cohesive (low density), and when they have less prestige (low pop-
+ularity). Conversely, peers’ delinquency has a stronger association with
+an adolescent’s delinquency when the adolescents are located in a central
+position within their friendship network, when their friendship network
+is very dense, and when they are nominated as friends by many others.
+
+While all network characteristics were found to condition the delin-
+quency-peer association to some degree, one network characteristic ex-
+erted stronger influences than others. In particular, network density
+emerged as an important moderator of peer delinquency. Because network
+density represents the number of ties present in the friendship network
+divided by the number of possible ties in the network, it serves as an
+ideal measure of peer cohesion. Greater network cohesion better facilitates
+a common identity as either delinquent or nondelinquent and subse-
+quently places more constraint on the behavior of peer members to be
+consistent with the network’s behavioral disposition. The premise that
+densely knit networks have stronger norms and better communication
+and control has an extensive history in sociological studies (e.g., Durkheim
+1951; Sutherland 1947; Bott 1957; Fischer 1982), which makes it surprising
+that criminological studies have yet to incorporate network cohesion as
+a variable central to the delinquency-peer association.
+
+Popularity within the friendship network is a network property that
+plays a smaller role in conditioning the delinquency-peer association. Re-
+call that popularity is indicative of the number of other adolescents in
+the school network that nominate the adolescent as a best friend. One
+explanation for the weaker interaction between popularity and peer de-
+linquency is that prestige may be indicative of the permeability of peer
+group boundaries. That is, the extent to which members have contact
+with individuals outside their immediate peer clique. An adolescent who
+is located in a delinquent friendship network but also has high popularity
+may be well connected to other adolescents outside his or her immediate
+peer clique, resulting in weakened influence of the friendship network.
+In these situations, the intensity of the peer network may be reduced. In
+all likelihood, the more popular adolescents belong to several different
+peer cliques such that their egocentric network is large and heterogenous
+in terms of exposure to different behaviors, norms, and values in the
+school setting.
+
+These results highlight the constraining influence of peer networks on
+individual behavior when certain structural components of friendship
+networks are maximized. With a friendship network centered around
+delinquent activities, adolescents are even more likely to report self-
+involvement in delinquency when they are located in a very cohesive peer
+network. Conversely, when peer networks do not incorporate peer delin-
+quency, cohesion in the network is associated with lower risk of self-
+involvement in delinquency. This finding, if properly interpreted, is con-
+sistent in part with social control’s emphasis on the constraining influence
+of social bonds, although it appears even more compatible with differential
+association and social learning theories’ emphasis on the importance of
+the context of friendship networks. It is in this network context where
+social norms and values regarding delinquency are shared and validated.
+According to differential association and learning theories and consistent
+with this research, when delinquent peer networks are very cohesive,
+network members are at heightened exposure to definitions and behavioral
+patterns favorable to delinquency involvement.
+
+However, an alternative explanation is offered for the influence of net-
+work structure on adolescent delinquency. Critics of differential associ-
+ation and social learning theories argue that the observed delinquency-
+peer association is not due to peer influence, but rather to self-selection
+into delinquent peer networks based on prior behavioral dispositions. The
+cross-sectional data on which this study is based do not allow explicit
+determination of whether the observed associations solely reflect network
+influences on adolescent behavior or whether they additionally reflect the
+tendency of youth with similar behaviors to select each other as friends.
+However, studies with longitudinal data have found that both influence
+and selection processes are responsible for similarities in adolescent be-
+havior (Bauman and Ennet 1996; Elliott and Menard 1996; Kandel 1978;
+Krohn et al. 1996; Matsueda and Anderson 1998; Thornberry 1987). Al-
+though the precise mechanism underlying the delinquency-peer associa-
+tions cannot be specified with the available data, the findings do suggest
+that personal networks containing delinquent members provide, at a min-
+imum, a supportive environment conducive to delinquency involvement.”
+
+With this in mind, it is important to point out that if selection were
+mainly responsible for the association found between delinquent peers
+and self-involvement in delinquency, we would not expect to find the
+network characteristics conditioning the delinquency-peer association. For
+example, being located in a very dense peer network or in a very central
+position within the network should not influence the strength of the
+delinquency-peer association if adolescents are selecting peer networks to
+join that most closely match up with their own delinquent proclivities.
+Therefore, the strength and consistency of the pattern of network prop-
+erties found to condition the delinquency-peer association suggest expla-
+nations more consistent with a differential association or social learning
+approach to peer influence. However, to explicitly test whether self-
+selection or socialization is the primary mechanism responsible for the
+association, longitudinal data incorporating the social networks of ado-
+lescents is necessary. In addition to longitudinal data on adolescent peer
+networks, a theory of delinquency is needed that incorporates an under-
+standing of friendship formation. Such a theory would explain processes
+underlying selection into and out of peer networks.
+
+The findings presented in this project should be considered in light of
+the following limitations. As noted earlier, the data that this project is
+based on are cross-sectional, which limits the causal inferences we can
+make about the relationships between network characteristics and delin-
+quent behavior. Longitudinal data that allow measurement of changes in
+network characteristics and delinquency behavior over time would be
+extremely valuable. Such a data design would allow determination of
+whether delinquent behavior precedes selection into friendship networks
+or whether incorporation into peer networks occurs prior to delinquency
+involvement. Moreover, another reason for the use of longitudinal data
+for investigating peer networks, as well as the difficulty with such anal-
+yses, involves the constantly changing nature of social networks. The
+dynamic nature of network structures suggests that it is rare for friendship
+networks to remain unchanged even in a short period of time. Capturing
+and modeling these changing network structures remains a challenge for
+longitudinal analyses.
+
+The ideal longitudinal network analysis of friendship networks also
+would have included complete network data on a wide range of delin-
+quency items including more serious delinquency items. As indicated ear-
+lier, a drawback of the present study is that friends’ involvement in minor
+delinquency is used to predict the respondent’s more serious delinquency
+involvement. Unfortunately, this strategy tends to underestimate the
+strength of the actual relationship between friends’ serious delinquency
+and the respondent’s own involvement in serious delinquency.
+
+Additionally, while this study drew attention to common properties of
+peer networks, other network characteristics may be important and wor-
+thy of future investigation. For example, age, sex, and race heterogeneity
+of the friendship network and the percent of reciprocated friendship ties
+in the network are a few additional properties of peer networks that may
+condition the delinquency-peer association.
+
+Despite these limitations, the present study’s results show that the ap-
+proach of identifying and examining peer social networks provides a co-
+herent and promising framework for investigating a variety of ways that
+social relationship might be associated with adolescent delinquency. This
+framework’s emphasis on the social connections among adolescents goes
+considerably beyond that of prior research, which viewed individuals as
+essentially separate from their social structure.
+positioning in the peer network provides different opportunities for peer
+interaction resulting in varying exposure to delinquent behavioral models,
+communication of delinquent norms, access to information on delinquency
+opportunities, and opportunities for rewards or deterrents for delinquency.
+Examining properties of peer networks elucidates when the peer network
+is more or less effective in constraining the behavior of adolescents to be
+similar to that of their peers. This conclusion is consistent with the current
+emphasis on the significance of social contexts (e.g., community, neigh-
+borhood, schools) and suggests that an important context with implica-
+tions for adolescents’ behaviors is the peer networks in which youth are
+embedded.
+TABLE Al
+CORRELATION MATRIX
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 144 15
+Overall delinquency index ... 1.00 ...
+Friends’ deliquency . 16 1.00
+Network popularity —.01 01 1.00
+Network centrality —.06 —.05 .37 1.00
+Network density . —-.06 13 .26 01 1.00
+Female —19 —.07 04 06 .00
+Black . 01 —.19 —.08 —.09 —.16
+Other race 06 —.06 —.10 —.00 —.40 1.00
+Age . —.04 12 -.05 —.10 —.09 .03 10 1.00
+Two-parent family —.07 —.02 09 AL 10 02 —.23 .02 —.00 1.00
+Public assistance .............. 04 —.01 —.08 —-.06 -.07 03 11 02 —.05 ~.18 1.00
+Parental attachment index ... —.09 —.07 .04 07. 1 ~—.08 .04 ~.04 —.16 .03 .00 1.00
+School attachment index . —.17 —.12 13 18 03 —.03 —.03 —.01 —.09 —-.07 —.03 .18 1.00
+Friend attachment ........ —.08 —.00 .14 09 07 15 -.09 —.04 —.01 07 —.06 .10  .21 1.00
+Friend involvement ........... 14 11 10 05 00 —.06 —.05 —.04 01 ~.00 —.01 .02 02 .10 1.00
+REFERENCES
+
+Agnew, Robert. 1991. “The Interactive Effects of Peer Variables on Delinquency.”
+Criminology 29:47-72.
+
+Akers, Ronald. 1985. Deviant Behavior: A Social Learning Approach, 3d ed. Belmont,
+Calif.: Wadsworth.
+
+Akers, Ronald, Marvin Krohn, L. Lanza-Kaduce, and M. Radosevich. 1979. “Social
+Learning and Deviant Behavior: A Specific Test of a General Theory.” American
+Sociological Review 44:636-55.
+
+Ambert, A. M. 1994. “A Qualitative Study of Peer Abuse and It’s Effects: Theoretical
+and Empirical Implications.” Journal of Marriage and the Family 56:119-30.
+
+Bauman, Karl, and Juson Ennet. 1996. “On the Importance of Peer Influence for
+Adolescent Drug Use: Commonly Neglected Considerations.” Addiction 9:184-98.
+
+Bauman, Karl E., and Lynn A. Fisher. 1986. “On the Measurement of Friend Behavior
+in Research on Friend Influence and Selection: Findings from Longitudinal Studies
+of Adolescent Smoking and Drinking.” Journal of Youth and Adolescence 15 (4):
+345-53.
+
+Best, R. 1983. We’ve All Got Scars. Bloomington: Indiana University Press.
+
+Billy, John O., Joseph L. Rodgers, and Richard J. Udry. 1984. “Adolescent Sexual
+Behavior and Friendship Choice.” Social Forces 62 (3): 653-78.
+
+Bott, E. 1957. Family and Social Networks. London: Tavistock.
+
+Brown, Bradford B., M. J. Lohr, and C. M. Trujillo. 1990. “Multiple Crowds and
+Multiple Lifestyles: Adolescents’ Perceptions of Peer Group Characteristics.” Pp.
+30-36 in Adolescent Behavior and Society: A Book of Readings, edited by R. E.
+Muuss. New York: Random House.
+
+Cairns, Robert B., and Beverley D. Cairns. 1994. Lifelines and Risks: Pathways of
+Youth in Our Time. New York: Cambridge University Press.
+
+Cairns, R. B., B. D. Cairns, H. J. Nekerman, S. D. Gest, and J. Gariepy. 1988. “Social
+Networks and Aggressive Behavior: Peer Support or Peer Rejection?” Developmental
+Psychology 24:815-23.
+
+Coleman, J. R. 1961. The Adolescent Society. New York: Free Press.
+
+. 1990. Foundations of Social Theory. Cambridge, Mass.: Harvard University
+Press.
+
+Corsaro, William, and Donna Eder. 1990. “Children’s Peer Cultures.” Annual Review
+of Sociology 16:197-220.
+
+Cusick, P. 1973. Inside High School. New York: Holt, Rinehardt, & Winston.
+
+Dunphy, D. 1963. “The Social Structure of Urban Adolescent Peer Groups.” Sociometry
+26:230-46.
+
+Durkheim, Emile. 1951. Suicide: A Study in Sociology, edited by George Simpson and
+translated by John A. Spaulding and George Simpson. New York: Free Press.
+
+Eckert, Penelope. 1989. Jocks and Burnouts: Social Categories and Identity in the
+High School. New York: Teachers College Press.
+
+Eder, Donna. 1985. “The Cycle of Popularity: Interpersonal Relations among Female
+Adolescents.” Sociology of Education 58 (July): 154-65.
+
+Eder, Donna, and Janet Lynne Enke. 1991. “The Structure of Gossip: Opportunities
+and Constraints on Collective Expression among Adolescents.” American
+Sociological Review 56:494-508.
+
+Elliott, D., D. Huizinga, and S. Ageton. 1985. Explaining Delinquency and Drug Use.
+Beverly Hills, Calif.: Sage Publications
+
+Elliott D., and S. Menard. 1996. “Delinquent Friends and Delinquent Behavior:
+Temporal and Developmental Patterns” Pp. 28-67 in Delinquency and Crime:
+Current Theories, edited by J. David Hawkins. Cambridge, Mass.: Cambridge
+University Press.
+
+Ennett, Susan, Susan L. Bailey, and Belle Federman. 1999. “Social Network
+Characteristics Associated with Risky Behaviors among Runaway and Homeless
+Youth.” Source 40 (11): 63-78.
+
+Ennett, Susan, and Kari Bauman. 1996. “Adolescent Social Networks: School,
+Demographic, and Longitudinal Considerations.” Journal of Adolescent Research 11
+(2): 194-215.
+
+Everhart, R. 1983. Reading, Writing and Resistance: Adolescence and Labor in a Junior
+High School. New York: Teachers College Press.
+
+Fischer, Claude. 1982. To Dwell among Friends. Berkeley and Los Angeles: University
+of California Press.
+
+Friedman, S. R., R. Curtis, A. Neaigus, and B. Jose. 1999. Social Networks, Drug
+Injectors’ Lives, and HIV/AIDS. New York: Plenum.
+
+Gardner, William, Edward P. Mulvey, and Esther C. Shaw. 1995. “Regression Analyses
+of Counts and Rates: Poisson, Overdispersed Poisson, and Negative Binomial
+Models.” Psychological Bulletin 118 (3): 392-404.
+
+Giordano, P. 1983. “Sanctioning the High Status Deviant: An Attributional Analysis.”
+Social Psychology Quarterly 46 (4): 329-42.
+
+Giordano, P., S. Cernkovich, and M. Pugh. 1986. “Friendships and Delinquency.”
+American Journal of Sociology 91:1170-202.
+
+Glueck, Sheldon, and Eleanor Glueck. 1950. Unraveling Juvenile Delinquency.
+Cambridge, Mass.: Harvard University Press.
+
+Gold, M. 1970. Delinquent Behavior in an American City. Belmont, Calif.: Brooks/
+Cole.
+
+Goldstein, H. 1987. Multilevel Models in Education and Social Research. London:
+Oxford University Press.
+
+Gottfredson, Michael R., and Travis Hirschi. 1990. A General Theory of Crime.
+Stanford, Calif.: Stanford University Press.
+
+Granovetter, M. 1973. “The Strength of Weak Ties.” American Journal of Sociology
+81:1287-303.
+
+. 1974. Getting a Job: A Study of Contacts and Careers. Cambridge, Mass.:
+
+Harvard University Press.
+
+. 1985. “Economic Action and Social Structure: The Problem of Embeddedness.”
+American Journal of Sociology 91:481-510.
+
+Henggler, S. 1989. Delinquency in Adolescence. Newbury Park, Calif: Sage
+Publications.
+
+Hindelang, Michael J., Travis Hirschi, and Joseph G. Weis. 1980. Measuring
+Delinquency. Beverly Hills, Calif.: Sage Library of Social Research.
+
+Hirschi, Travis. 1969. Causes of Delinquency. Berkeley: University of California Press.
+
+Jensen, Gary F. 1972. “Parents, Peers, and Delinquent Action: A Test of the Differential
+Association Perspective.” American Journal of Sociology 78:562-75.
+
+Jensen, Gary F., and Dean G. Rojek. 1992. Delinquency and Youth Crime, 2d ed.
+Chicago, IIl.: Waveland Press.
+
+Jussim, Lee, and D. Wayne Osgood. 1989. “Influence and Similarity among Friends:
+An Integrated Model Applied to Incarcerated Adolescents.” Social Psychology
+Quarterly 52 (2): 98-112.
+
+Kandel, Denise B. 1978. “Homophily, Selection, and Socialization in Adolescent
+Friendships.” American Journal of Sociology 84:427-36.
+
+Kandel, Denise B., and Mark Davies. 1991. “Friendship Networks, Intimacy, and Illicit
+Drug Use in Young Adulthood: A Comparison of Two Competing Theories.”
+Criminology 29 (3): 441-70.
+
+Kapferer, B. 1969. “Norms and the Manipulation of Relationships in a Work Context.”
+Pp. 181-244 in Social Networks in Urban Settings, edited by J. Mitchell. Manchester:
+Manchester University Press.
+
+Klovdahl, S. 1985. “Social Networks and the Spread of Infectious Diseases: The AIDS
+Example.” Social Science and Medicine 21:1203-16.
+Krohn, Marvin D. 1974. “An Investigation of the Effect of Parental and Peer
+Associations on Marijuana Use: An Empirical Test of Differential Association
+Theory.” Pp. 5-8 in Crime and Delinquency: Dimensions of Deviance, edited by M.
+Riedel and T. P. Thornberry. New York: Praeger.
+
+. 1986. “The Web of Conformity: A Network Approach to the Explanation of
+Delinquent Behavior.” Social Problems 33:601-13.
+
+Krohn, Marvin D., Alan J. Lizotte, Terence P. Thornberry, Carolyn Smith, and David
+McDowall. 1996. “Reciprocal Causal Relationships among Drug Use, Peers, and
+Beliefs: A Five-Wave Panel Model.” Journal of Drug Issues 26:405-28.
+
+Krohn, Marvin, James L. Massey, and Mary Zielinski. 1988. “Role Overlap, Network
+Multiplexity, and Adolescent Deviant Behavior.” Social Psychology Quarterly 51 (4):
+346-56.
+
+Krohn, Marvin D., and Terence P. Thornberry. 1993. “Network Theory: A Model for
+Understanding Drug Abuse among African-American and Hispanic Youth.” Pp.
+102-28 in Drug Abuse among Minority Youth: Advances in Research and
+Methodology, edited by De La Rosa, Mario R., and Juan-Luis Recio Adrados. NIDA
+research monograph 130. Washington, D.C.: U.S. Department of Health and Human
+Services.
+
+Kupersmidt, J. B., J. D. Coie, K. A. Dodge. 1990. “The Role of Poor Peer Relationships
+in the Development of Disorder.” Pp. 274-305 in Peer Rejection in Childhood, edited
+by Asher and Coi. New York: Cambridge University Press.
+
+Laumann, Edward O., Peter Marsden, and D. Prensky. 1989. “The Boundary
+Specification Problem in Network Analysis.” Pp. 18-34 in Research Methods in
+Social Network Analysis, edited by Freeman, White, and Romney. Fairfax, Va.:
+George Mason University Press.
+
+Lee, Valerie E., and Anthony S. Bryk. 1989. “A Multilevel Model of the Social
+Distribution of High School Achievement.” Sociology of Education 62:172-92.
+
+Matsueda, Ross L. 1982. “The Dynamics of Moral Beliefs and Minor Deviance.” Social
+Forces 68:429-57.
+
+Matsueda, Ross L., and Kathleen Anderson. 1998. “The Dynamics of Delinquent Peers
+and Delinquent Behavior.” Criminology 36 (21): 269-99.
+
+Matsueda, Ross L., and Karen Heimer. 1987. “Race, Family Structure, and
+Delinquency: A Test of Differential Association and Social Control.” American
+Sociological Review 52:826-46.
+
+Messerschmidt, James W. 2000. Nine Lives: Adolescent Masculinities, the Body and
+Violence. Boulder, Colo.: Westview Press.
+
+Orcutt, J. D. 1983. Analyzing Deviance. Homewood, IIl.: Dorsey Press.
+
+. 1987. “Differential Association and Marijuana Use: A Closer Look at
+Sutherland (with a Little Help from Becker).” Criminology 25:341-58.
+
+Osgood, Wayne D. 1999. “Poisson Based Regression Analysis of Aggregate Crime
+Rates.” Working Paper no. 99-04. Center for Research on Crime and Justice,
+Pennsylvania State University.
+
+Osgood, Wayne D., Lloyd Johnston, Patrick O’Malley, and Jerald Bachman. 1988.
+“The Generality of Deviance in Late Adolescence and Early Adulthood.” American
+Sociological Review 55:81-93.
+
+Patterson, G. R., B. DeBaryshe, and E. Ramsey. 1989. “A Developmental Perspective
+on Antisocial Behavior.” American Psychologist 44:329-35.
+
+Patterson, G. R., and T. J. Dishion. 1985. “Contributions of Families and Peers to
+Delinquency.” Criminology 23:63-79.
+
+Podolny, Joel M., and James N. Baron. 1997. “Resources and Relationships: Social
+Networks and Mobility in the Workplace.” American Sociological Review 62:673-93.
+
+Raudenbush, Stephen W., and Anthony S. Bryk. 1986. “A Hierarchical Model for
+Studying School Effects.” Sociology of Education 59:1-79.
+
+Reiss, A. J. 1986. “Co-Offender Influences on Criminal Careers.” Pp. 121-60 in Criminal
+Careers and “Career Criminals,” vol. 2. Edited by A. Blumstein, J. Cohen, J. Roth,
+and C. Visher. Washington, D.C.: National Academy Press.
+
+Shaw, C. and H. McKay. 1931. Report on the Causes of Crime, vol. 2. Washington,
+D.C.: U.S. Government Printing Office.
+
+Short, James F. 1957. “Differential Association and Delinquency.” Social Problems 4:
+233-39.
+
+. 1960. “Differential Association as a Hypothesi
+Testing.” Social Problems 8:14-25.
+
+Short, J. F, and F. I. Nye. 1958. “Reported Behavior as a Criterion of Deviant
+Behavior.” Social Problems 5:207-13.
+
+Sutherland, E. H. 1947. Principles of Criminology, 4th ed. Philadelphia: J. B.
+Lippincott.
+
+Sutherland, E. H., and D. R. Cressey. 1974. Criminology, 9th ed. Philadelphia: J. B.
+Lippincott.
+
+Thornberry, Terrence. 1987. “Toward an Interactional Theory of Delinquency.”
+Criminology 25:863-91.
+
+Vold, George B., Thomas J. Bernard, and Jeffrey B. Snipes. 1998. Theoretical
+Criminology, 4th ed. New York: Oxford University Press.
+
+Voss, H. 1969. “Differential Association and Containment Theory: ‘Theoretical
+Convergence.’” Social Forces 47:381-91.
+
+. 1996. “Organization and Instigation in Delinquent Groups.” Criminology 34
+(1): 11-38.
+
+Warr, Mark, and Mark C. Stafford. 1991. “The Influence of Delinquent Peers: What
+They Think or What They Do?” Criminology 29:85 1-66.
+
+Wellman, Barry. 1988. “Structural Analysis: From Method and Metaphor to Theory
+and Substance.” Pp. 19-61 in Social Structures: A Network Approach, edited by
+Barry Wellman and S. D. Berkowitz. New York: Cambridge University Press.
+
+. 2000. “The Network Community: An Introduction.” Pp. 1-47 in Networks in
+the Global Village, edited by Barry Wellman. Boulder, Colo.: Westview Press.
+
+Willis, P. 1981. Learning to Labour: How Working Class Kids Get Working Class Jobs.
+New York: Columbia University Press.
+
+ 
+
+Problems of Empirical

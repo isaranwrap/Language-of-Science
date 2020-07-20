@@ -1,0 +1,1491 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+lassical theorists in the sociology of
+
+knowledge such as Marx, Durkheim,
+Mannheim, and Scheler sought to establish that
+the content and validity of ideas are ultimately
+tied to the social and economic interests in soci-
+ety (Mannheim 1936; Durkheim [1912] 1954;
+for reviews, see Coser 1968; Kuklick 1983;
+Eisenstadt 1988). Subsequent research has fo-
+cused on how sociohistorical conditions influ-
+ence the production, validation, and justification
+of different types of knowledge. Few scholars
+have examined an important corollary: how
+knowledge is selected, organized, and transmit-
+ted by social forces (see Wuthnow 1987).
+
+This neglect was forcefully stated by British
+sociologists of education (Young 1971). Sociol-
+ogists, they argued, should treat “the knowledge
+(‘transmitted’ in education) as neither absolute,
+nor arbitrary, but as ‘available sets of meanings’
+which in any context do not merely ‘emerge’ but
+are collectively ‘given’” (Young 1971, p. 3).
+“How a society selects, classifies, distributes,
+transmits and evaluates the educational knowl-
+edge it considers to be public, reflects both the
+distribution of power and the principles of social
+control. From this point of view, differences
+within and change in the organization, transmis-
+sion and evaluation of educational knowledge
+should be a major area of sociological interest”
+(Bernstein 1971, p. 47).
+
+National educational institutions — which
+presently enroll about one-fifth of the world’s
+inhabitants (United Nations Educational Social
+and Cultural Organization 1987) — have become
+the most important mechanism for organizing
+and transmitting knowledge to the young. Al-
+though sociologists have shown great interest in
+the expansion, improvement, and equalization of
+educational opportunity, they have had little to
+say about the nature and social basis of the for-
+mal knowledge transmitted by these institutions,
+especially from a comparative vantage point. The
+types of socially approved knowledge taught in
+mass and elite educational institutions and the
+official endorsement of that knowledge as re-
+
+ 
+
+Yasemin Soysal, Marc Ventresca, and other members
+of the Stanford Comparative Education Seminar. Ear-
+lier versions of this paper were presented at seminars
+at the University of Chicago and the World Bank and
+at meetings of the American Sociological Association
+and the American Educational Research Association.
+flected in national school curricula deserve more
+attention from sociologists.
+
+We tackle these issues by analyzing, from a
+longitudinal and cross-national perspective, the
+changing nature of knowledge intended to be
+transmitted by schools to the mass population.
+We examine official primary school curricula and
+their relationship to national differences in polit-
+ical, economic, and social structure. We use a
+new data set that pulls together information on
+national curricular policies around the world since
+the 1920s. We first describe the school subjects
+that have been required in primary school curric-
+ula and how these required subjects vary across
+time and country. Such information should fill a
+major gap in the literatures on comparative edu-
+cation and world mass culture.
+
+Our main goal, however, is to rethink previous
+hypotheses about the rise and nature of the mod-
+ern curriculum. In previous work, the education-
+al curriculum has been viewed either as the
+product of the functional requirements of society
+(e.g., the economies of advanced, industrialized
+countries require more instruction in mathemat-
+ics and science) or as a reflection of existing
+power relations in society (e.g., an emphasis on
+academic subjects such as classical language,
+literature, or laboratory science serves the polit-
+ical and economic interests of the “dominant
+classes” or powerful elites). School curricula,
+according to these views, are nationally patterned
+collections of socially approved knowledge that,
+if compared cross-nationally, should show con-
+siderable diversity.
+
+We propose a different view: The content of
+school curricula — especially mass curricula —
+is closely linked to the rise of standardized mod-
+els of society (see Meyer 1980; Thomas, Meyer,
+Ramirez, and Boli 1987) and to the increasing
+dominance of standardized models of education
+as one component of these general models (see
+Boli, Ramirez, and Meyer 1985; Ramirez and
+Boli 1987). These modern models-of society and
+education and their interrelation, are similar
+around the world and generate educational sys-
+tems and school curricula that are strikingly sim-
+ilar. As a result, a new culture or set of cultures is
+being promulgated by mass educational institu-
+tions. If we are to understand this emergent world
+cultural system, the mass educational curriculum
+is an important place to start.
+
+Many characteristics of societies or time peri-
+ods can affect the content of school curricula, but
+their characteristics do not predict the rapid
+worldwide expansion of primary education
+
+(Meyer, Ramirez, Rubinson, and Boli-Bennett
+1977; Boli et al. 1985; Meyer, Ramirez, and
+Soysal 1990). World educational expansion has
+outpaced most national indicators of political or
+economic development and is rather poorly pre-
+dicted by such variables. Thus, the same world-
+wide processes that were involved in the spread
+of primary education may also have generated
+similarity in its content. This theme is useful for
+understanding both the character and the stabili-
+ty of curricular policies in primary education
+during the twentieth century.
+
+BACKGROUND
+
+The formal content of the school curriculum was
+a more central sociological concern in earlier
+historical periods. Durkheim [1938] (1977), in
+his penetrating analysis of French educational
+history, highlighted the succession of political
+battles over the officially prescribed curriculum
+during the nineteenth century (see Lukes 1985,
+pp. 379ff.). Waller discussed the social and psy-
+chological consequences for teachers and stu-
+dents of the parcelling out of human knowledge
+into school subjects and “nicely graded” courses
+([1932] 1965, pp. 335ff.).
+
+In the early reports of educational leaders, is-
+sues of content — the textbooks used, the ques-
+tions asked on tests, and classroom pedagogical
+practices — were a primary focus (e.g., see Bar-
+nard 1854; Klemm 1897; Prince 1897). Later,
+academics debated which languages to teach, at
+what age to introduce new topics in the natural or
+social sciences, and whether to allot instructional
+time to physical or aesthetic education.
+
+In recent decades, however, the basic outline
+of the curriculum has become surprisingly un-
+controversial. Conflicts arise, but they center on
+specialized issues (e.g., teaching of evolution,
+gender biases in textbook illustrations, bilingual
+instruction). These “controversies” bespeak the
+taken-for-granted character of the basic structure.
+
+The issue of curricular content has almost dis-
+appeared from social theory. Durkheim’s exam-
+ination of legitimate school knowledge in France
+was replaced by Mannheim’s more abstract as-
+sumptions and Parsons’ completely abstract dis-
+cussion of the presumed functions of the content
+of schooling (Mannheim 1952; Parsons 1959).
+Indeed, in the sociology of education, the term
+“curriculum” now seems to have two meanings
+unrelated to content. First, it means “track,” or
+academic program — a structural feature of
+schools that is linked to past, present, or future
+(Meyer, Ramirez, Rubinson, and Boli-Bennett
+1977; Boli et al. 1985; Meyer, Ramirez, and
+Soysal 1990). World educational expansion has
+outpaced most national indicators of political or
+economic development and is rather poorly pre-
+dicted by such variables. Thus, the same world-
+wide processes that were involved in the spread
+of primary education may also have generated
+similarity in its content. This theme is useful for
+understanding both the character and the stabili-
+ty of curricular policies in primary education
+during the twentieth century.
+HYPOTHESES
+
+There is little comparative historical research on
+school curricula. Springer (1977) noted the pau-
+city of comparative studies in the area of pedago-
+gy and the curriculum (see also Benavot and Ka-
+mens 1989). Lacking basic comparative descrip-
+tions, there has been a tendency to apply general
+theories about the origins and significance of mass
+education to questions about the curriculum.
+
+Early theoretical statements on the sources of
+educational expansion were functionalist in
+character, with ideological variations. The mod-
+em differentiated society (or its elites) created
+and required primary education to equip the
+masses with technical skills and hegemonic cul-
+ture and to enhance their integration into society.
+Ideological variations revolved around who ben-
+efits from the system rather that the origins of
+mass education. Recent comparative and histori-
+cal research underscores the problematic status
+of fundamental propositions in functionalist
+thought: comparisons in the U.S., both within
+states (Kaestle and Vinovskis 1980) and between
+states (Meyer, Tyack, Nagel, and Gordon 1979;
+Guest and Tolnay 1985), and cross-national
+comparisons, both between particular countries
+(Maynes 1985; Ramirez and Boli 1987) and
+across a range of countries (Meyer et al. 1977),
+cast doubt on the idea that urbanization or indus-
+trialization are good predictors of the expansion
+of mass education (see Boli et al. 1985 for a
+Teview).
+
+Since the modern functionalist literature of-
+fers few specific hypotheses on curricular con-
+tent, we suggest several taken from the classic
+literature:
+In reaction to the failures of functionalism and
+its variants, a growing body of curriculum re-
+search has moved toward descriptive studies of
+individual nations that emphasize case-specific
+historical explanations (e.g., Young 1971;
+Goodson 1987; Goodson and Ball 1984). Much
+of this historical work traces the spread of mass
+education and curricular content to competition
+among different status and political groups (Col-
+lins 1979; Archer 1979). The changing content
+of curricula, and the definition of what is legiti-
+mate knowledge for the schools are issues funda-
+mentally affected by the complex matrix of in-
+teractions, primarily in the political realm, among
+local and national group interests (Whitty and
+Young 1976; Goodson 1983; Kleibard 1986;
+Labaree 1986). In some arguments, the content
+of the curriculum is seen as reflecting the inter-
+ests and advantages of dominant status groups
+(e.g., professionals, political elites, capitalist so-
+cial classes); in others, the content is less impor-
+tant than the competitive advantages groups may
+gain through particular curricular arrangements
+(Collins 1979).
+
+The historicist perspective argues that the in-
+teractions of conflicting forces in particular set-
+tings — rather than general functional impera-
+tives — best explain the nature and development
+of school curricula. This view highlights the di-
+versity of national school curricula and the inad-
+equacy of general explanations in contrast to in-
+terpretive ones (Ragin 1987). Considerable het-
+erogeneity between nations is predicted: Each
+nation-state — or perhaps family of nation-states
+descending from a common imperial metropole
+or sharing a common religious or cultural tradi-
+tion — is seen as having its own curricular tra-
+jectory. Moreover, because the political battle
+tends to be fought over the inclusion of specific
+subjects rather than the emphasis placed on a
+subject once it is been officially incorporated,
+this perspective predicts that a nation’s curricu-
+lar emphasis will be fairly consistent over time.
+Two basic hypotheses follow:
+Neither historicist approaches nor the variants
+of functionalism have come to terms with the
+rapid spread of standardized mass education. To
+account for this, arguments about the importance
+of a wider world polity have developed. Two
+related ideas are involved: First, despite societal
+variability, world models of society have stan-
+dardized around the nation-state principle (Mey-
+er 1980; Thomas et al. 1987). If, despite varia-
+tion, models of society incorporating standard
+goals like national progress and social justice are
+widespread, institutional standardization might
+follow. Mass education, which is closely linked
+to the goals of national development, economic
+progress, and the formal integration of individu-
+als in the collectivity, would be a likely candi-
+date (Fiala and Lanford 1987). Second, even if
+models of society vary, but means to achieve
+them are uncertain, we might expect less devel-
+oped countries to copy institutions such as edu-
+cation from more successful nations. This would
+be aided by the portrayal of the value of educa-
+tion for national development by the world’s
+professionals and scientists, by the pressures of
+international agencies and relations, and by local
+aspirations for successful development (DiMag-
+gio and Powell 1983).
+
+We apply these themes to the study of the cur-
+riculum: If mass education is a worldwide mod-
+el, or one component of a larger standardized
+nation-state model, its curricula should also evi-
+dence standardization at the world level. The in-
+stitutionalized ideologies of society, and the spe-
+cific ideologies of education as socializing indi-
+viduals for society, should carry institutionally
+standardized content. Thus:
+Given the paucity of academic research compar-
+ing curricula across countries and over time, we
+began our search for data with limited expecta-
+tions. However, it quickly became clear that data
+were available. Many groups, frequently linked
+to UNESCO, have attempted to bring together
+standard descriptions of national school curricu-
+la. In earlier periods, this was done with enthusi-
+asm and flair, whether in the published accounts
+of foreign educational systems by comparative
+educators or in international conferences and ed-
+ucational yearbooks. But throughout the twenti-
+eth century, education has been seen as an im-
+portant national enterprise — one that should be
+publicized and compared with other nations. As
+a consequence, curricular standards and policies
+in sovereign states and dependent territories have
+been explicitly formulated and collected ina great
+many comparative reports.
+
+Our main sources of curricular information are
+international media rather than national case re-
+ports. Perhaps surprisingly, comparative accounts
+of educational matters have been geared to an
+international audience. As was true with enroll-
+ment data on primary education (Benavot and
+Riddle 1988), curricular discourse has a univer-
+salistic and worldwide character rather than a
+local and primordial one. Thus our data were
+easily organized into general categories — they
+were, so to speak, written to be coded. Although
+the easy interpretability suggests the importance
+of transnational processes in the development of
+school curricula, it raises some methodological
+and substantive questions.
+
+Curricular information was derived from di-
+verse sources, including historical and contem-
+porary accounts of national school systems,
+comparative histories of educational develop-
+ment, international educational compendia, and
+encyclopedias. In 1986, we sent queries to over
+120 ministries of education requesting informa-
+tion on curricular timetables. We received usable
+responses from over one-half of the countries.’
+From each official curricular timetable, we
+coded two items of information: the required
+subjects to be taught during the elementary school
+cycle (usually a five- to six-year period), and the
+number of periods (or hours) to be devoted to
+each subject during a typical week. This infor-
+mation was transformed into two dependent
+variables: one indicating the presence or absence
+of basic school subjects in the official curricu-
+lum and the second indicating the relative em-
+phasis on each subject.
+
+Specific subjects were classified into general
+categories according to the following scheme:
+Language (national, local, official, and foreign
+languages); Mathematics (arithmetic, geometry);
+Natural Sciences; Social Sciences (history, ge-
+ography, civics, social studies); Religious and
+Moral Education (religion, moral education);
+Aesthetic Education (art, handicrafts, singing,
+dance); Physical Education; Hygiene/Health
+Education; Vocational Education/Practical
+Subjects (manual training, agriculture, domestic
+science, industrial arts, gardening); and Other
+(recreation, extracurricular activities, miscella-
+neous subjects, recess, and elective subjects).
+National language refers to an indigenous lan-
+guage, spoken by over 50 percent of the popula-
+tion, that is also an official language. Official
+language refers to a metropolitan or world lan-
+guage that is given national standing but is not
+indigenous in origin or use. Local language is
+spoken by a minority of the population and not
+given official. standing. Foreign languages are
+those that are neither official nor indigenous.
+
+Subjects listed in official timetables and allo-
+cated instructional time usually fit into one of
+these categories. Subjects that did not clearly fit
+into one of these categories were coded as “oth-
+
+ 
+
+we coded curricular data for 105 countries and had
+relatively complete information for about 95 countries.
+The main sources for this period are the UNESCO
+survey (UNESCO 1958) and Dottrens’s (1962) study
+which was prepared under UNESCO auspices using
+data published by the International Bureau of Educa-
+tion (1958). Supplementary sources were also used:
+Europe (Schultze 1968-1970), Central America
+(Waggoner and Waggoner 1971), Asia (National In-
+stitute for Educational Research 1970; Ministry of
+Education, Japan 1964), and Africa (Sasnett and
+Sepmeyer 1955; Hawes 1979).
+
+For the interwar period (1920-1944) we have data
+on about 65 countries, with relatively complete data
+for 45. Data come from the Educational Yearbook
+(1924-1944); UNESCO (1958); Kandel (1933); and
+individual country reports based on responses to our
+survey.
+
+er.” Most nations organize primary education in
+a six-year cycle (UNESCO 1987). In countries
+where the primary cycle was longer than six years,
+we considered the official curriculum for the first
+six years only; where the cycle was shorter, we
+included information for the first year or two of
+the secondary cycle where possible. These cod-
+ing decisions had very little impact on our results.
+Some national timetables combined topics we
+preferred to code separately (e.g., mathematics
+and science). In such cases, we coded both sub-
+jects as taught, and split the allotted instructional
+time equally.
+
+Data Frame and Coverage
+
+The data refer primarily to nations with state-
+administered educational systems. However, each
+period also includes a small number of self-gov-
+erning dependent territories with official school
+curricula. (See footnote 5 for differences between
+these two types of polities.) Curricular informa-
+tion was assigned to one of three historical peri-
+ods: the interwar period, 1920-1944; the decolo-
+nization period, 1945-1969; and the current pe-
+riod, 1970-1986. When we had more than one
+timetable for a country during a period, we re-
+corded data nearest the target years of 1935, 1960,
+and 1985. Data coverage for each period, while
+extensive, does not constitute a representative
+sample. Data coverage is sparsest for the inter-
+war period (1920-1944) and tends to overrepre-
+sent countries in Europe and the Americas,
+whereas the sample of countries for the 1970-
+1986 period is more complete.
+
+Limitations of the Data
+
+~Our curricular measures indicate which subjects
+are required in the official curriculum and their
+relative emphasis, i.e., the percentage of total
+curricular time devoted to each subject. Howev-
+er, we have little information on how many school
+periods or instructional hours each subject was
+supposed to be taught during the annual school
+term. Preliminary analyses show a slight tenden-
+cy for average annual hours of instruction to be
+lower in developing countries, newer educational
+systems, and in the distant past (Benavot and
+Kamens 1989). Weighting our curricular mea-
+sures by variations in annual hours of instruction
+would alter the results presented below very little
+(Kamens and Benavot forthcoming).
+We have no information on the specific con-
+tent of the subjects taught. Differences among
+The data refer primarily to nations with state-
+administered educational systems. However, each
+period also includes a small number of self-gov-
+erning dependent territories with official school
+curricula. (See footnote 5 for differences between
+these two types of polities.) Curricular informa-
+tion was assigned to one of three historical peri-
+ods: the interwar period, 1920-1944; the decolo-
+nization period, 1945-1969; and the current pe-
+riod, 1970-1986. When we had more than one
+timetable for a country during a period, we re-
+corded data nearest the target years of 1935, 1960,
+and 1985. Data coverage for each period, while
+extensive, does not constitute a representative
+sample. Data coverage is sparsest for the inter-
+war period (1920-1944) and tends to overrepre-
+sent countries in Europe and the Americas,
+whereas the sample of countries for the 1970-
+1986 period is more complete.
+countries or over time in such categories as “his-
+tory” or “social studies” may or may not repre-
+sent real differences in curricula. Similar general
+categories may mask national variability in in-
+tended content. The lack of detail in our data
+makes it difficult to directly address these issues.
+However, categories like “social studies” in-
+creasingly denote standard sets of expectations,
+materials, and topics. Therefore, changes in these
+categories seem likely to signify real changes, at
+least in intent.
+
+Apart from the intrinsic gap between general
+curricular categories and actual curricular con-
+tent, certain organizational processes may widen
+this gap (Meyer and Rowan 1977). This is espe-
+cially true of educational systems in developing
+countries and in less centralized educational
+systems (Stevenson and Baker forthcoming).
+Policy and practice respond to different resource
+constraints. For example, great curricular visions
+may not be attainable by teachers and students
+with few educational resources; policymakers
+may wish to impress national and international
+audiences more than teachers and local adminis-
+trators do; or local educators may have to adapt
+to local requirements), and so on. Such processes
+might generate official curricula in greater con-
+formity to world models than local practice is,
+and produce some distortions in our results.”
+
+“7 Ttis a mistake, however, to assume that while na-
+tional officials seek to comply with international edu-
+cational models, local school teachers and principals
+Table 1 reports basic trends in the percent of
+countries offering instruction in specified sub-
+jects. To permit comparisons across historical
+periods, Table 1 is based on a constant set of
+
+ 
+
+follow curricular standards that, by and large, reflect
+local constituencies and constraints. Given the growth
+of national and international networks of teacher-
+training institutes and professional associations, it is
+hard to imagine that teachers and school administra-
+tors in developing countries follow distinctive curric-
+ular conventions. It is also difficult for local interests
+to develop distinct curricular themes. It is much more
+likely that they drew from similar curricular content
+frames, though in a less effective manner, as their
+national bureaucratic elites. In any case, it is interest-
+ing to see whether the official statements of national
+educational leaders reflect world standards of educa-
+tional policy.
+Table 2. Average Percentage of Total Instructional Time Allocated to Subjects in the Primary School Curriculum: 1920-
+
+ 
+
+ 
+
+ 
+
+ 
+
+1986
+Panel A Panel B
+
+Subject 1920-1944 1945-1969 N 1945-1969 1970-1986 N
+
+Language 35.3 36.4 31 36.0 33.9 70
+(9.2) (7.9) (9.2) (8.3)
+
+National, local 31.0 32.4 31 26.0 25.1 72
+(9.4) (9.6) (12.4) (10.2)
+
+Official, foreign 3.5 4.6 45 9.5 8.3 73
+(9.3) (8.2) (13.3) (11.6)
+
+Mathematics 15.4 17.3 37 16.5 18.2 80
+(4.2) (4.6) (4.0) (3.3)
+
+Natural science 5.2 7.0 42 7A 79 75
+(4.0) (4.3) (4.6) (3.7)
+
+Social sciences 8.8 8.6 36 8.1 8.1 73
+(4.0 (4.0) (4.0) (3.7)
+
+History, geography, civics 8.0 6.2 37 5.9 3.2 74
+(4.3) (4.1) (4.5) (3.9)
+
+Social studies 0.5 2.5 45 2.1 48 74
+(2.4) (4.6) (4.2) (5.2)
+
+Aesthetic education 9.2 10.5 39 10.0 10.2 71
+(5.9) (4.5) (3.9) (4.4)
+
+Religious or moral education 6.9 5.2 37 6.1 5.2 68
+(7.5) (4.9) (6.0) (5.3)
+
+Physical education 6.0 7.2 39 69 7A 72
+(4.2) (3.3) (2.7) (3.3)
+
+Hygiene/health education 0.9 1.0 40 1.4 1.2 70
+(1.9) (2.6) (2.8) (1.9)
+
+Practical subjects/ 6.2 5.8 34 6.3 5.1 73
+vocational education (4.8) (5.5) (6.9) (5.3)
+
+ 
+
+Note: Standard deviations in parentheses. Each panel refers to a constant set of countries for which data were available
+for the two time periods.
+languages is more common in the later periods, a
+finding that turns out to reflect the development
+of primary educational systems in former colo-
+nies (Cha forthcoming). And within the general
+social science category, there has been a strong
+trend toward instruction in a general social studies
+subject and away from instruction allocated to
+history, geography, and civics. This trend may
+reflect the recent hegemony of liberal or Ameri-
+can educational doctrines (Wong forthcoming).
+The most important finding in Table 1 is the
+rise to universality of a set of core subjects across
+the diverse countries of the world. This result
+provides some support for ideas that educational
+curricula reflect standardizing world processes.
+And it runs against the predictions of more diver-
+sity by functional or historicist arguments.
+Table 2 presents the average percentage of in-
+structional time allocated to each subject during
+the primary school cycle, along with the stan-
+dard deviation around the average. Overall, there
+is a good deal of consistency over time in the
+allocation of instructional time to the subjects.
+For the universally required subjects, standard
+deviations are relatively small and tend to de-
+cline over time, indicating more standardization
+in the time devoted to the subjects. The other
+subjects — religious education, health education,
+and vocational education, as well as subcategories
+of the core subjects —show more variation (dis-
+tributions, in addition, tend to be more skewed).
+
+Language instruction — reading, writing, and
+grammar — is the dominant activity in primary
+education. In each time period, about one-third
+of total curricular time is devoted to language
+education. Variation is relatively small, and tends
+to decline. Almost all language instruction is in
+national or official languages (Cha forthcoming);
+very little is in local or tribal languages. There
+has been a slight increase in the amount of in-
+struction in foreign languages or in official lan-
+guages that are exogenous in origin, resulting
+from the addition of more developing countries
+to the data set (and to the world of primary edu-
+cation). These patterns support functionalist or
+worldly polity theories, which emphasize the
+primacy of the nation-state, and run against his-
+toricist perspectives. The unimportance of local
+languages, however provides little support for
+functionalist theories, which emphasize the im-
+portance of these languages in peripheral econo-
+mies and societies.
+
+There have been slight increases in the per-
+centage of time that is to be devoted to mathe-
+matics education, and some movement toward
+increased similarity among countries in this
+measure. The percentage of instructional time
+devoted to natural science increased during the
+period under study, and (the rather low) variabil-
+ity declined overall. Similarly, there are modest
+increases in time allocated to aesthetic and phys-
+ical education. Variability here is also fairly low,
+but does not show consistent declines.
+
+The percentage of time allocated to combined
+social science instruction shows little change over
+the period of the study. Variation is low, but un-
+changed over the period. Within this category, the
+percentage of time devoted to history, geography,
+or civics declines sharply, while that devoted to
+“social studies” increases sharply. This striking
+worldwide trend toward a more integrated notion
+of society could have a functionalist interpreta-
+tion, e.g., greater public involvement in and control
+over social life produced a stronger conception of
+society as a “social system.” It could also result
+from worldwide cultural changes — perhaps re-
+flecting a dominant American model of proper
+curricular content that became institutionalized in
+the 1960s (Wong forthcoming).
+Aside from the common core of subjects, the
+main finding in Table 2 is the low percentage of
+time allocated to the less universal ones. Reli-
+gious or moral education is still required in pri-
+mary schools in about three-fourths of the coun-
+tries, but the time allocated to it is low and de-
+clining. This is also true of practical or vocation-
+al subjects. Health or hygiene receives very-little
+time. The fact that such less universal subjects
+are not more prevalent in primary school curric-
+ula speaks against historicist theories of educa-
+tional development, which predict a wide range
+of distinctive patterns.
+
+Overall, Tables 1 and 2 suggest that an in-
+creasingly similar world curriculum takes up most
+of the instructional time. These findings suggest
+that during much of the twentieth century a stan-
+dard world curriculum for primary education has
+been in operation. They provide some support
+for functionalist arguments suggesting that pri-
+mary school curricula should move in a “mod-
+em” direction over time. But they call into ques-
+tion the assumptions of historicist theories, which
+tend to view the evolution of national school
+curricula in terms of distinctive national trajec-
+tories.
+
+An important corollary of historicist concep-
+tions of the curriculum predicts distinctive edu-
+cational systems at a regional level as a result of
+common cultural, political, or religious traditions,
+rather than at a national level. Table 3 presents
+the average percentage of instructional time de-
+voted to subjects for major world regions for the
+most recent period (1970-1986). Results for oth-
+er periods (not shown) are similar. Countries are
+classified in the following world regions: Sub-
+Saharan Africa; the mainly Islamic countries of
+the Middle East and North Africa; Asia; Latin
+(Iberian) America; the non-Iberian Caribbean;
+Eastern Europe; and “West” (which includes the
+U.S. and the former British dominions of Cana-
+da, Australia, and New Zealand).
+
+Latin American countries allocate significant-
+ly less instructional time to language education
+(in total) than countries in other world regions.
+One explanation is that because Latin America
+experienced a long colonial period during which
+indigenous populations were decimated by dis-
+ease and warfare, Spanish became the dominant
+language and the need to teach several languages
+was minimized. Also, many newly independent
+Third World nations, especially in Sub-Saharan
+Africa and the Caribbean, have kept the language
+of their former colonizers as an official language
+of instruction in primary schools. Other former
+Table 3. Average Percentage of Total Instructional Time Allocated to Subjects in the Primary School Curriculum, by World
+Region: 1970-1986
+
+ 
+
+ 
+
+ 
+
+Sub- — MidEast
+Saharan North Latin Carib- —_ Eastern
+Subject Africa Africa Asia America _ bean Europe West*
+Language 38.2 36.8 36.7 24.4 34.7 37.4 34.1
+(29) (15) (18) (4) 9) (9) (9)
+National, local 13.5 31.8 27.3 18.1 18.1 30.3 27.7
+(29) (15) (18) (16) (9) (9) (19)
+Official 24.2 0.0 7.0 3.8 14.2 19 3.5
+(29) (15) (18) (16) (10) (9) (22)
+Foreign 0.5 49 2.4 0.4 0.7 5.1 2.2
+(29) (15) (18) (16) (10) (9) (21)
+Mathematics 17.7 16.6 17.5 18.6 20.7 20.5 18.5
+(32) (18) (20) (18) (10) (9) (21)
+Natural science 7.0 6.7 8.1 11.3 15 1S 6.4
+(32) (17) (9) (18) (9) (9) (19)
+Social sciences 718 6.4 8.7 13.1 12.0 6.3 9.0
+(29) (15) (18) (15) (9) (9) (19)
+History, geography, civics 4.5 2.6 2.6 43 43 6.3 3.3
+(29) (15) (18) (15) (10) (9) (20)
+Social studies 3.3 3.8 6.0 8.7 7.2 0.0 5.0
+(29) (15) (18) (15) (9) (9) (19)
+Aesthetic education 8.5 17 9.5 8.0 74 10.4 13.5
+(28) (15) (18) (14) (9) (9) (19)
+Religious or moral education 46 12.0 6.1 3.4 2.5 0.0 5.0
+(29) (13) a7) (14) (9) (9) (18)
+Religious education 3.8 11.8 3.0 2.2 2.2 0.0 47
+(29) (15) (18) (14) (9) (9) (18)
+Moral education 0.8 0.7 2.9 1.0 0.8 0.0 0.2
+(29) (13) a7 (16) (10) (9) (20)
+Physical education 5.9 6.3 5.8 74 5.3 9.4 9.2
+(28) (is) (18) (15) (9) 9) (19)
+Hygiene/health education 0.9 1.8 1.5 2.5 29 0.3 0.5
+(28) (15) (18) a7) (10) (8) (21)
+Practical subjects/vocational education 73 2.4 41 9.5 3.2 6.6 0.7
+(28) (15) (7) as) (10) 9) (22)
+
+ 
+
+Note: Number of cases in parentheses.
+4 West includes western Europe, North America, Australia, and New Zealand.
+colonies in the Middle East/North Africa and Asia
+teach the former metropolitan language as a re-
+quired foreign language. In general, however,
+regional differences in the time devoted to lan-
+guage education are small: most regions allo-
+cate, on the average, about one-third of total cur-
+ricular time to some type of language instruction.
+
+In the other core areas of the curriculum —
+mathematics, natural science, and social science
+— curricular emphases are rather similar across
+regions. Mathematics receives slightly more em-
+phasis in Caribbean and Eastern European nations
+(a pattern that predates the establishment of so-
+cialist regimes). Emphasis on natural science and
+social science is stronger in Latin American
+countries (perhaps reflecting Enlightenment ra-
+Historicist theories of the development of school
+curricula predict high correlations over time in
+the allocation of instructional time. Early battles
+over the inclusion of particular school subjects
+tend to dissipate over time. Once subjects are
+incorporated into the official curriculum, the
+amount of time devoted to them should change
+slowly. Functionalist theories lead to similar pre-
+dictions because, if national levels of develop-
+
+3 Several nations in each historical period have of-
+ficial primary school curricula in which particular
+subject areas are allotted significantly more (or less)
+curricular time than is the averages reported in Tables
+2 and 3. However, in supplemental analyses, we find
+that the number of countries that maintain an extreme
+emphasis (or lack of emphasis) on a particular subject
+over time is very small (Kamens 1990). Typically,
+one of two processes occurs: (1) a country doesn’t
+require a particular subject — science, for example
+— in one time period but does in the next period,
+usually allotting curricular time to that subject at a
+level similar to world norms; or (2) a country contin-
+ues to require a subject — vocational education, for
+example — that has gone out of fashion in much of
+the world. Delay in requiring new subjects or dropping
+old subjects that have lost their value account for many
+of the “deviant” curricular patterns.
+ment determine curricular emphases, the former
+do not change dramatically. On the other hand,
+the idea that national curricula reflect worldwide
+influences suggests low correlations in curricular
+emphases because countries are drawing from
+increasingly standardized global models rather
+than from their own unique history or develop-
+mental requirements.
+
+Table 4 presents Pearsonian interperiod corre-
+lations within curricular categories. These corre-
+lations indicate the degree of stability over time
+in the percentage of curricular time allocated to
+these subjects. All but five of the 33 correlations
+are below .50. Two of the exceptions concern the
+inclusion of imperial or metropolitan languages
+as official curricular languages in newly inde-
+pendent countries — the group of countries re-
+quiring instruction in a nonindigenous official
+language remained stable in the post-World War
+II period. Two relatively high correlations occur
+for religious and moral education; further analy-
+sis shows that this result is due to religious edu-
+cation (Cha et al. 1988). Whether religious in-
+struction is included in the school curriculum
+depends on whether church and state are institu-
+tionally and politically separated and tends to be
+stable over time. Apart from these two subject
+areas, the results suggest considerable volatility
+over time. Correlations between the two postwar
+periods tend to be a bit higher, but this may be
+due to the shorter time span and the greater num-
+ber of cases for these periods.
+
+These generally low correlations support the
+view that national curricula are shaped more by
+worldwide processes than national ones. They
+seem to result from a system in which country
+curricular decisions reflect world standards rath-
+er than national educational history.
+
+ 
+
+The one subject area in which we noted a distinc-
+tive curricular pattern is religious and moral educa-
+tion. A few countries, mainly Islamic, allot a sub-
+stantial part of the curriculum to religious instruction.
+For example, Saudi Arabia (1945-1969; 1970-1986),
+Egypt (1920-1944), Yemen (1970-1986), and Pales-
+tine (1920-1944) devote more than one-fourth of the
+primary curriculum to religious instruction.
+
+Apart from religious and moral education, there is
+little evidence of distinctive elementary school cur-
+ricula, a striking finding in view of the fact that many
+countries — for example, China, Korea, Japan, Is-
+lamic countries — had unique systems of instruction
+entirely outside the modern orbit at the time of their
+incorporation into the modern world educational
+system. At least in terms of official policies, the rich
+and diverse cultural traditions of these countries are
+minimally reflected in the elementary curriculum.
+Are nations’ official curricula affected by na-
+tional variations in political, economic and social
+structure? For each period, several measures of
+socioeconomic development were correlated with
+the percentage of instructional time devoted to
+particular subjects in the primary school curricu-
+la. The three measures were: (1) Log of per capita
+energy consumption (United Nations 1952, 1984).
+This measure, for which relatively complete in-
+formation is available for each time period, tends
+to be highly correlated with other measures of
+economic development. (2) Urbanization, mea-
+sured as the percent of the population living in
+cities larger than 100,000 (World Bank 1987).
+Due to insufficient data for the 1920-1944 period
+and the fact that this variable orders counties
+consistently over time, 1950 data for this mea-
+sure were employed for the earliest period. (3)
+The proportion of the school-age population en-
+rolled in primary school (Benavot and Riddle
+1988; UNESCO 1987). This variable is widely
+available, is positively related to other develop-
+ment measures, and reflects the expansion and
+perhaps modernization of the mass educational
+system (which may have modemizing effects on
+the curriculum over and above effects of devel-
+opment in general).
+
+The correlations presented in Table 5 lend lim-
+ited support to functionalist theories. Such theo-
+ries tend to predict that national curricula are
+highly patterned: a group of “modern” subjects
+are linked together in the curriculum and given
+greater shares of instructional time as a result of
+modernization and national development. If
+mathematics, natural science, and, to a lesser de-
+gree, social studies constitute an interrelated nexus
+of “modern” subject matter, the results show that
+socioeconomic development is not strongly cor-
+related with an emphasis on “modern” subjects in
+twentieth century curricula. Some positive cor-
+relations along this line appear (e.g., between
+mathematics instruction and energy consump-
+tion in the first period), but they are not consistent
+and do not remain in the current period.*
+
+By contrast, socioeconomic development in the
+post-World War II periods is positively associat-
+ed with an emphasis on national languages and
+negatively associated with an emphasis on offi-
+cial or foreign language instruction. This has more
+to do with changing models of nationhood and
+nationalism in different historical periods than
+with development per se (Kamens, Cha, and
+Wong 1988). The amount of time devoted to
+language education of all types in primary cur-
+ricula is unrelated to socioeconomic development.
+
+Socioeconomic development is also positively
+correlated with the share of time devoted to aes-
+thetic education. This may reflect broader values
+and socialization patterns of modern societies.
+However, such an effect of development is not
+central to functionalist theories. In the post-World
+War II periods, socioeconomic development is
+negatively related to an emphasis on practical or
+vocational education. This reflects two phenom-
+ena: the “adapted” colonial curriculum of the pre-
+independence era has not been fully replaced in
+many former colonies and “practical” knowledge
+relating to agriculture, farming, and household
+work is emphasized by many agrarian nations
+during the primary school cycle — in part be-
+cause primary education in these countries is of-
+ten a terminal educational phase. This effect,
+while generally compatible with functionalist
+thinking, i is once again not a central prediction.
+Our main conclusion is that “modern” curricular
+emphases are not closely related to variation in
+national levels of development — a core idea in
+most functionalist thought about educational de-
+velopment.°
+
+> Another prediction from both functionalist and
+historical theories is that national independence itself
+has a substantial effect on curricular policies and
+practices, perhaps generating a more aggressively
+Table 5. Zero-Order Correlations Between Measures of National Development and Percentage of Instructional Time
+Allocated to Subjects in the Primary School Curriculum: 1920-1986
+
+ 
+
+ 
+
+ 
+
+ 
+
+1920-1944 1945-1969 1970-1986
+Primary Primary Primary
+Energy School Energy School Energy School
+Consump- Urban- Enroll- Consump- Urban-  Enroll- Consump- Urban-  Enroll-
+Subject tion/Cap. ization ment tion/Cap. ization ment tion/Cap. ization ment
+Language -.02 -.14 .09 .03 .03 -.06 06 00 -.03
+(29) (36) (36) (84) (89) (87) (109) (115) (106)
+National, local 13 -.05 .24 27° 22" .21* 33" .15* 12
+(29) (36) (36) (84) (89) (87) (111) (117) (108)
+Official, foreign -.10 -.03 -.06 23" -.21* — -.25* 29" — -.16" -.15
+(29) (36) (36) (89) (94) (92) (113) (119) (110)
+Mathematics 39" 13 ll .22* .06 30° ll -.03 16"
+(31) (38) (38) (90) (94) (93) (123) (129)_-—(120)
+Natural science .23 19 13 -.12 -.01 .03 -.07 -.02 -.01
+(33) (45) (42) (90) (94) (93) (118) (123) (115)
+History, geography, 12 06 10 14 .05 .13 -.12 -10 -.07
+civics G1) (39) (38) (89) (94) (92) (112) (118) =~ (109)
+Social studies 05 -.04 01 -.18" — -.07 -.07 -.02 02 .03
+(38) (50) (47) (89) (94) (92) (110) (118) ~— (109)
+Religious or moral -.10 .18 -11 01 06 -.23* -.04 04 .18*
+education (32) (41) (40) (86) @1) (90) (104) (110) (101)
+Aesthetic education 13 .38* 36" .22* 16 27" .25* .22* .03
+(639) (42) (40) (87) (92) (1) (108) (114) ~— (105)
+Physical education 08 .16 .10 16 .06 .13 21* .18* .09
+(32) (43) (40) (88) (93) (92) (109) (115) (106)
+Hygiene/ -22 -10—-.25" -12 0-01-13 -06 01 -.02
+health education (35) (42) (42) (86) (1) (89) (113) (119) (110)
+Practical subjects/ 15 -.07 10 -24* 17" -.14 -34" — -.23* -.04
+vocational education (28) (35) (35) (88) (93) @1) (112) (118) (109)
+
+ 
+
+*p<.05
+
+Note: Number of cases in parentheses. Measures pertain to 1930 for the 1920-1944 period (1950 for urbanization); 1960
+for 1945-1969; and 1980 for 1970-1986.
+vocational subjects is of marginal significance
+since these relationships do not reflect core func-
+tionalist ideas. There is a weak trend toward
+“modernity” in the expansion of instructional time
+for natural science, social science, and mathe-
+matics. Furthermore, there is little national sta-
+bility over time in the allocation of instructional
+time. Thus, it is difficult to make a case for tight
+linkages between official curricular emphases and
+variation in functional societal requirements.
+
+Historicist theories suggest diversity in national
+curricula among countries or world regions and a
+substantial degree of stability over time. Again,
+these predictions are not substantially supported
+by the data, aside from some long-term consis-
+tency in the time devoted to religious instruction.
+
+The idea that the curricula of mass education
+are closely tied to standardized worldwide mod-
+els of social and educational progress suggests
+that instruction in such “modern” topics as math-
+ematics, natural science, and social science will
+diffuse throughout the world, that national pri-
+mary curricula will be increasingly similar, and
+that stability over time will be modest. Most of
+our findings support this line of argument. While
+there is some variation concerning minor subjects
+— whether they are taught and how much time
+they are allocated — instruction in core subject
+areas appears in practically all national curricula
+and there is a great deal of similarity in the amount
+of time devoted to these core categories. Nation-
+al characteristics are only weakly related to cur-
+ricular emphases. Only the expectation of sharply
+increased similarity over time receives limited
+support; change is modest, though most coun-
+tries include all the standard subjects in the cur-
+riculum.
+
+The notion that official primary curricula re-
+flect a world educational order modifies rather
+than eliminates functionalist and historicist hy-
+potheses. Theorists can retain the notion of the
+modern curriculum as functional: they need sim-
+ply to understand that functionalist models hold
+at the world level and are often adopted in pe-
+
+ 
+
+The respective percentages for independent nations
+were: 34.5, 35.7 and 34.9. Clearly, in many depen-
+dent educational systems, extra time was devoted to
+the language of the colonial metropole, which was
+likely to be alien to most of the population. With
+independence, the pressure to devote this time to what
+had become a foreign language was eliminated or
+reduced (Cha forthcoming). Beyond this single ef-
+fect, there is little evidence that dependent polities
+followed radically different curricular trajectories in
+most subject areas.
+ripheral areas as models rather than as responses
+to changed national political or social realities.
+Similarly, a historical perspective can still view
+the curriculum as a contested historical product,
+but the history involved in, say, the shift from
+geography and history studies to social studies,
+may be better viewed as the playing out of hege-
+monic forces in a global arena. Most scholarship
+in this camp sees history as a product of specific
+interactions, but there is no logical reason to in-
+sist that these intersections be primarily local or
+national. The knowledge being selected, orga-
+nized, and transmitted by different elementary
+school systems has a good deal of worldwide
+standardization. The modern pattern — much of
+it already in place at the beginning of our study
+— seems to involve the expansion of a language-
+focused curriculum to include mathematics, nat-
+ural science, social science, and physical and arts
+education. The spread of this curricular pattern
+around the world — mostly independent of re-
+gional and developmental factors — effectively
+incorporates modern functionalist theory as a
+broad ideological base and as a general legiti-
+mizing system.
+
+We have no information on the processes by
+which this curricular standardization is achieved.
+The nation-state is the dominant form of societal
+organization in the modern period — preferred
+by political elites and advanced by all sorts of
+social groups (Thomas et al. 1987). To some ex-
+tent, this model carries implications for desirable
+knowledge for the population, from a shared na-
+tional culture to aspects of modern technical ra-
+tionalism — perhaps these implications become
+obvious in each nation-state, producing overall
+similarity. Also, the prescription of mass educa-
+tion is endemic, encouraged by international or-
+ganizations, by professional elites, and by the
+dominant powers throughout the modern period.
+To some extent, the logic of mass education car-
+ties implications for a common cultural content
+(again emphasizing shared national culture and a
+good deal of rationalism). Finally, to some ex-
+tent the mass curriculum is directly defined and
+prescribed through the influence of international
+organizations (e.g., the World Bank and United
+Nations organizations), through the models pro-
+vided by dominant nation-states, and the educa-
+tion professionals who operate on a worldwide
+basis. All these influences (which are difficult to
+distinguish empirically) find receptive audiences
+in national societies and states eager for legiti-
+macy and progress. As with individual identity
+in Tocqueville’s vision of America, national
+identity in the modern world-system is achieved
+through conformity to the institutionalized ideals.
+
+In one respect, the standardization of national
+school curricula is not a complete surprise. Our
+period is one in which local and primordial cul-
+tures are undergoing wholesale destruction, in
+part as a result of mass education. Local lan-
+guages die out or are circumscribed, as are local
+gods and spirits. Local political divisions are un-
+dercut, usually in the name of a national polity,
+along with parochial technologies and customs.
+Every aspect of the modern world-system builds
+conformity of economic, or political, or familial
+and cultural rules to regional, ethnic, or national
+standards (Thomas et al. 1987). Similarly, schools
+claim to be laid out in standard ways at national
+levels regardless of gender, class, tribe, region,
+and locality. (In practice, however, there may be
+curricular variation across such subgroups that is
+not acknowledged in the official rules of mass
+educational systems.)
+
+The real surprise of our findings lies not in the
+unimportance of local influences, but in the rela-
+tive unimportance of national influences on cur-
+ricular structure. Similarities clearly outweigh
+differences. The few differences observed tend
+to be unstable and seem to arise as a matter of
+chance in national societies differing dramatical-
+ly in wealth, political structure, and cultural and
+teligious tradition. We may speak with some
+confidence about a relatively standard world
+curriculum.
+
+Future research should examine trends in na-
+tional curricula to analyze the world flow of cur-
+riculum changes, and the importance of particu-
+lar paths (e.g., particular international organiza-
+tions, dominant powers, or professional groups).
+Data on the intended content of subjects would
+study whether the widespread shift from history
+and geography instruction to social studies is a
+change in content or in label. Data on the content
+of actual classroom instruction would indicate
+whether official policy actually penetrates to this
+level. For example, how much local “resistance”
+is there? How aware are local educators of
+worldwide curricular trends apart from the par-
+ticular policies of their authorities?
+
+Our study suggests the value of direct indepen-
+dent measures of world curricular standards over
+time, since these appear to influence national
+policies. What preferences are found in the dis-
+cussions of the educational professionals, the
+policies of the dominant powers in the world
+stratification system, and the organizational stances
+of the important international organizations?
+Sux-Yinc Wonc is Associate Professor in the Research
+Division of the National Institute of Multimedia Edu-
+cation in Japan. She is currently directing a cross-
+national project on the expansion and organization of
+nonformal higher education. Wong's research inter-
+ests include the role of social science education in the
+construction of modern nationalism, and the organi-
+zation and evolution of educational content in Asian
+school systems— her recently-completed study in this
+area will appear in the Sociology of Education.
+Benavot, Aaron and David Kamens. 1989. The Cur-
+ricular Content of Primary Education in Develop-
+ing Countries. Policy, Planning and Research
+Working Papers, Education and Employment
+Working Paper 237. Washington, D.C.: World Bank.
+
+Benavot, Aaron and Phyllis Riddle. 1988. “The Ex-
+pansion of Primary Education, 1870-1940: Trends
+and Issues.” Sociology of Education 61:191-210.
+
+Bernstein, Basil. 1971. “On the Classification and
+Framing of Educational Knowledge.” Pp. 47-76 in
+Knowledge and Control, edited by Michael Young.
+London: Collier MacMillan.
+
+Boli, John, Francisco O. Ramirez, and John W. Mey-
+er. 1985. “Explaining the Origins and Expansion
+of Mass Education.” Comparative Education Re-
+view 29:145-70.
+
+Cha, Yun-Kyung. 1989. “The Origins and Expansion
+of Primary School Curricula in the West: 1800-
+1920.” Unpublished manuscript, Stanford Univer-
+sity, School of Education, Stanford, CA.
+
+. Forthcoming. “The Effect of Global Inte-
+gration on the Institutionalization of Modern For-
+eign Languages in the School Curriculum, 1812-
+1986.” Sociology of Education.
+
+Cha, Yun-Kyung, Suk-Ying Wong, and John Meyer.
+1988. “Values Education in the Curriculum: Some
+Comparative Empirical Data.” Pp. 11-28 in The
+Revival of Values: Education in Asia and the West,
+edited by W. Cummings, S. Gopinathan, and Y.
+Tomoda. London: Pergamon Press.
+
+Collins, Randall. 1979. The Credential Society. Or-
+lando, FL: Academic Press.
+
+Coser, Lewis. 1968. “Sociology of Knowledge.” Pp.
+428-34 in International Encyclopedia of the Social
+Sciences. New York: MacMillan and Free Press.
+
+DiMaggio, Paul and Walter Powell. 1983. “The Iron
+Cage Revisited.” American Sociological Review
+48:147-60.
+
+Dottrens, Robert. 1962. The Primary School Curric-
+ulum. Paris: UNESCO.
+
+Durkheim, Emile. [1912] 1954. The Elementary Forms
+of the Religious Life. Glencoe, IL: Free Press.
+
+. [1938] 1977. The Evolution of Education-
+al Thought. London: Routledge and Kegan Paul.
+
+Educational Yearbook. 1924-1944. New York:
+Teacher’s College, Columbia University.
+
+Eisenstadt, S. N. 1988. “Explorations in the Sociol-
+ogy of Knowledge.” Pp. 1-71 in Cultural Tradi-
+tions and Worlds of Knowledge: Explorations in
+the Sociology of Knowledge, vol. 7, edited by S. N.
+Eisenstadt and Ilana Friedrich Silber. New Haven:
+JAI Press.
+
+Fafunwa, A., and J. Aisuku (eds.). 1982. Education in
+Africa. London: George Allen & Unwin.
+
+Fiala, Robert and A. Gordon-Lanford. 1987. “Educa-
+tional Ideology and the World Educational Revo-
+lution, 1950-1970.” Comparative Education Re-
+view 31: 315-32.
+
+Goodson, Ivor. 1983. School Subjects and Curricu-
+lum Change. London: Croom Helm.
+. 1987. The Making of Curriculum: Essays
+in the Social History of Schooling. Barcombe:
+Falmer Press.
+
+Goodson, Ivor and Stephen Ball (eds.). 1984. Defining
+the Curriculum: Histories and Ethnographies.
+London: Falmer Press.
+
+Guest, Avery and Stewart Tolnay. 1985. “Agricultural
+Organization and Educational Consumption in the
+USS. in 1900.” Sociology of Education 58:201-12.
+
+Hawes, Hugh. 1979. Curriculum and Reality in Afri-
+can Primary Schools. Briston, UK: Longman.
+
+International Bureau of Education. 1958. Preparation
+and Issuing of the Primary School Curriculum, no.
+194. Paris: UNESCO.
+
+Kaestle, Carl and M. Vinovskis. 1980. Education and
+Social Change in Nineteenth Century Massachu-
+setts. New York: Cambridge University Press.
+
+Kamens, David. 1990. “Variant Forms: Countries with
+Distinct Primary Curricula.” Unpublished manu-
+script, Norther Illinois University, Department of
+Sociology.
+
+Kamens, David and Aaron Benavot. Forthcoming.
+“Elite Knowledge for the Masses: The Origins and
+Spread of Mathematics and Science Education in
+National Curricula.” American Journal of Educa-
+tion.
+
+Kamens, David, Yun-Kyung Cha, Suk-Ying Wong.
+1988. “On the Shoulders of Children: Building a
+National Community via the Primary School in the
+19th and 20th Centuries.” Paper presented at the
+annual meeting of the American Sociological As-
+sociation, Atlanta, Georgia.
+
+Kandel, I. L. 1933. Comparative Education. New
+York: Houghton Mifflin.
+
+Klemm, Louis. 1897. European Schools. New York:
+Appleton and Company.
+
+Kliebard, Herbert. 1986. The Struggle for the Ameri-
+can Curriculum, 1893-1958. Boston: Routledge and
+Kegan Paul.
+
+Kuklick, Henrika. 1983. “The Sociology of Knowl-
+edge: Retrospect and Prospect.” Annual Review of
+Sociology 9:287-310.
+
+Labaree, David. 1986. “Curriculum, Credientials and
+the Middle Class.” Sociology of Education 59:42-57.
+
+Lukes, Steven. 1985. Emile Durkheim. Stanford,
+California: Stanford University Press.
+
+Mannheim, Karl. 1936. Ideology and Utopia. New
+York: Harcourt, Brace and World, Inc.
+
+. 1952. Essays on the Sociology of Knowl-
+edge. London: Routledge and Kegan Paul.
+
+Massialas, B. G. and S. A. Jarrar. 1983. Education in
+the Arab World. New York: Praeger.
+
+Maynes, Mary Jo. 1985. Schooling in Western Eu-
+rope: A Social History. Albany, NY: State Univer-
+sity of New York Press.
+
+Meyer, John W. 1980. “The World Polity and the
+Authority of the Nation-State.” Pp. 109-37 in
+Studies of the Modern World System, edited by A.
+Bergesen. New York: Academic Press.
+
+Meyer, John W., Francisco O. Ramirez, and R. Ru-
+binson, John Boli-Bennett. 1977. “The World Ed-
+ucational Revolution, 1950-1970.” Sociology of
+Education 50:242-58.
+
+Meyer, John W., Francisco O. Ramirez, and Yasemin
+Soysal. 1990. “World Expansion of Mass Educa-
+tion, 1870-1980.” Department of Sociology,
+Standford University.
+
+Meyer, John W. and Brian Rowan. 1977. “Institu-
+tionalized Organization: Formal Structure as Myth
+and Ceremony.” American Journal of Sociology
+83:340-63.
+
+Meyer, John W., David Tyack, J. Nagel, and A. Gor-
+don. 1979. “Public Education as Nation-Building
+in America.” American Journal of Sociology
+85:591-613.
+
+Ministry of Education, Japan. 1964. Education in Asia.
+Tokyo, Japan: Ministry of Education.
+
+al-Misnad, Sheikha. 1985. The Development of Mod-
+ern Education in the Gulf. London: Ithaca.
+
+National Institute for Educational Research and
+UNESCO. 1970. Asian Study of Curriculum. To-
+kyo, Japan: NIER.
+
+Parsons, Talcott. 1959. “The School Class as a Social
+System” Harvard Educational Review 29:297-318.
+
+Prince, John. 1897. Methods of Instruction and Or-
+ganization of the Schools of Germany for the Use
+of American Teachers and Normal Schools. Bos-
+ton: Lee and Shepard.
+
+Ragin, Charles. 1987. The Comparative Method.
+Berkeley: University of California Press.
+
+Ramirez, Francisco O. and John Boli. 1987. “The
+Political Construction of Mass Schooling: Europe-
+an Origins and Worldwide Institutionalization.”
+Sociology of Education 60:2-18.
+
+Sasnett, Martena and I Sepmeyer. 1966. Educational
+Systems of Africa. Berkeley, CA: University of
+California Press.
+
+Schubert, William. 1986. Curriculum: Perspective,
+Paradigm, and Possibility. New York: MacMillan.
+
+Schultze, Walter (ed.). 1968-1970. Schools in Eu-
+rope. Berlin/Weinheim: Verlag Julius Beltz.
+
+Springer, Ursala. 1977. “Education, Curriculum, and
+Pedagogy.” Comparative Education Review
+21:358-70.
+
+Stevenson, David and David Baker. Forthcoming.
+“State Control of the Curriculum and Classroom
+Instruction.” Sociology of Education.
+
+Thomas, George, John W. Meyer, Francisco O.
+Ramirez, and John Boli. 1987. Institutional Struc-
+ture: Constituting State, Society, and the Individu-
+al. Beverly Hills, CA: Sage Publications.
+
+United Nations Educational Scientific and Cultural
+Organization. 1958. World Survey of Education, vol.
+2. Paris: UNESCO.
+
+United Nations Educational Scientific and Cultural
+Organization, Regional Office for Education in Asia
+and the Pacific. 1984. Towards Universalization of
+Primary Education in Asia and the Pacific.
+Bangkok, Thailand: UNESCO.
+
+United Nations Educational Scientific and Cultural
+Organization. 1987. Statistical Yearbook. Paris:
+UNESCO.
+
+United Nations. 1952. World Energy Supplies 1929-
+1950. New York: United Nations.
+
+United Nations. 1984. Energy Statistics Yearbook.
+New York: United Nations.
+
+Waggoner, George and B. Waggoner. 1971. Education
+in Central America. Lawrence, KS: University Press
+of Kansas.
+
+Waller, Willard. [1932] 1965. The Sociology of
+Teaching. New York: John Wiley.
+
+Whitty, Geoff and Michael Young (eds.). 1976. Ex-
+plorations in the Politics of School Knowledge.
+Nafferton, England: Nafferton. Books.
+
+Wong, Suk-Ying. Forthcoming. “The Evolution and
+Organization of the Social Studies Curriculum: A
+Cross-National Study: 1900-1986.” Sociology of
+Education.
+
+World Bank. 1987. World Tables, 1987 (4th ed.).
+Washington: World Bank.
+
+Wuthnow, Robert. 1987. Meaning and Moral Order.
+Berkeley: University of California Press.
+
+Young, Michael (ed.). 1971. Knowledge and Control.
+London: Collier MacMillan.

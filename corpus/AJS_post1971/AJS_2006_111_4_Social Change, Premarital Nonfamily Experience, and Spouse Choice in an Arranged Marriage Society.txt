@@ -1,0 +1,1512 @@
+Social Change, Premarital Nonfamily Experience, and Spouse Choice in an Arranged
+Marriage Society
+
+Author(s): Dirgha J. Ghimire, William G. Axinn, Scott T. Yabiku and Arland Thornton
+Source: American Journal of Sociology, Vol. 111, No. 4 (January 2006), pp. 1181-1218
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/498468
+
+Accessed: 08-06-2016 04:48 UTC
+This article examines the influences of nonfamily experiences on
+participation in the selection of a first spouse in an arranged marriage
+society. The authors developed a theoretical framework to explain
+how a broad array of nonfamily experiences may translate into
+greater participation in the choice of a spouse. Analyses show that
+premarital nonfamily experiences, in general, and media exposure
+and participation in youth clubs, in particular, have strong positive
+effects on individual participation in the choice of a spouse. These
+findings suggest new ways of thinking about the relationship be-
+tween social change and the transition away from arranged mar-
+riage. Overall, changes in these nonfamily experiences can account
+for a substantial fraction of the historical increase of youth involve-
+ment in mate selection.
+ganization of families and the formation of families, the study of marriage
+has received great attention in this research literature. Moreover, as social
+scientists discovered the many different forms of marriage processes
+around the world, the study of how social change promotes changes in
+marital processes became a central focus of research (Goode 1970; Thorn-
+ton 2001, 2005; Thornton and Lin 1994). In fact, perhaps no transition
+in marital processes has been more closely studied than the transition
+from arranged marriage, with the choice of spouse determined primarily
+by parents, to love marriage, with the choice of spouse determined pri-
+marily by the individuals to be married (Caldwell, Reddy, and Caldwell
+1983, 1988; Goode 1970; Rindfuss and Morgan 1983; Thornton, Chang,
+and Lin 1994). Here we use a detailed combination of measures from an
+arranged marriage society undergoing rapid social change to explore and
+answer several previously unanswered questions about this trans-
+formation.
+
+Our work builds on the family mode of social organization approach
+to studying social change and the family (Thornton and Fricke 1987;
+Thornton, Fricke et al. 1994). A good deal of research documents im-
+portant transformations in marital processes reducing the prevalence of
+parentally controlled arranged marriages and increasing the prevalence
+of individually chosen love marriages (Caldwell et al. 1983; Goode 1970;
+Smith 1973; Thornton, Chang, and Lin 1994; Tilly and Scott 1978; Tsuya
+and Choe 1991; Whyte 1990). Despite the now-widespread prevalence of
+individual-choice love marriage, arranged marriages are still quite com-
+mon in large parts of the world, including South Asia (Caldwell 1982;
+Caldwell et al. 1983; Dyson and Moore 1983; Fricke 1986; Macfarlane
+1986; Malhotra 1991). Previous studies of mate selection indicate that
+individuals whose daily activities are more organized outside of the family
+before marriage are more likely to participate in the choice of their marital
+partner (Fricke and Thornton 1991; Goode 1970; Macfarlane 1986; Thorn-
+ton, Chang, and Lin 1994; Thornton and Fricke 1987). We build on these
+findings by examining how the impact of premarital nonfamily experience
+may depend on gender and by expanding the scope of premarital non-
+family experiences included in theoretical and empirical models.
+
+First, this study adds early-life media exposure to the set of nonfamily
+experiences likely to affect marriage processes. Previous studies focus on
+the importance of nonfamily education and work (Caldwell et al. 1983;
+Macfarlane 1986; Thornton, Chang, and Lin 1994). We also examine the
+consequences of premarital nonfamily education and work for marital
+behavior. However, many theorists argue that exposure to new ideas
+through media plays an important role in shaping individuals’ attitudes,
+beliefs, and values (Caldwell 1982; Janowitz 1981; Macfarlane 1986;
+McQuail 1985; Thornton 2005). Others argue these ideational changes
+have important consequences in individuals’ demographic behaviors such
+as choice of marriage partner, age at marriage, age at first birth, birth
+spacing, and number of children (Caldwell 1982; Caldwell et al. 1983;
+Lesthage 1983; Macfarlane 1986; Preston 1989; Thornton 2001, 2005).
+Thus, the addition of media exposure is likely to generate a more com-
+prehensive understanding of the links between premarital nonfamily ex-
+perience and participation in the choice of a spouse.
+
+Second, changes in family organization such as an increase in nonfamily
+work and education may stimulate new venues of social interaction, such
+as youth clubs. Such clubs serve as forums for social interaction for un-
+married youths, where they may spend their spare time with other un-
+married youths. These clubs increase social interactions among young
+people and open opportunities for the spread of new ideas and the creation
+of shared experiences. As individuals participate in youth clubs, the ex-
+perience may alter their views about marriage, in general, and the choice
+of a marital partner, in particular. Thus, by including participation in
+youth clubs in our model, we both provide a more comprehensive un-
+derstanding of the relationship between nonfamily activity and spouse
+choice, and we expand our understanding of the ways that nonfamily
+work and education may affect family formation.
+
+Finally, some previous studies indicate that nonfamily living may alter
+individuals’ attitudes and values in ways that promote new family-
+formation behavior across generations (Axinn and Barber 1997; Waite,
+Goldscheider, and Witsberger 1986). In general, however, such studies do
+not examine the potential impact of the number of residential moves, per
+se, on family-formation values. This is important because there is reason
+to believe that the instability associated with multiple moves, at least as
+represented by parental family transitions, may have strong effects on
+children’s family-formation behavior (Wu 1996; Wu and Martinson 1993).
+Because the experience of premarital nonfamily living is closely associated
+with the experience of residential moves, examination of either factor
+requires consideration of the other. Here we examine the impact of both
+nonfamily living and the number of residential moves on individual in-
+volvement in spouse choice in order to understand the joint impact of
+these important early life experiences.
+
+These advances are possible because of the data from a setting in Nepal
+where arranged marriage has been predominant. As described below, this
+study area is currently undergoing rapid socioeconomic changes that shift
+the organization of individuals’ daily activities outside the domestic
+sphere. This setting provides an opportunity to study both changes in
+individuals’ nonfamily experiences and changes in the level of partici-
+pation in spouse choice. The study includes multiple measures of a broad
+array of nonfamily experiences among both young women and young
+THEORETICAL FRAMEWORK
+
+Marriages in Hindu areas of South Asia have a long history of being
+arranged by parents and the parental family, with no involvement of the
+husband and wife-to-be in the choice of the spouse (Banerjee 1984; Ber-
+reman 1972; Majupuria and Majupuria 1989). In fact, numerous Hindu
+religious doctrines prohibit the involvement of young people themselves
+in the choice of a spouse, appealing to both spiritual and social reasons
+(Majupuria and Majupuria 1989; Banerjee 1984; Berreman 1972). How-
+ever, during the period of British colonization of the Indian subcontinent,
+Hindus began to interact with people who had vastly different beliefs
+about marriage—people who believed spouse choice should be based on
+love, and that two individuals to be married should choose each other
+freely and independently (Macfarlane 1986; Smith 1973; Tilly and Scott
+1978; Tsuya and Choe 1991; Whyte 1990). Nepal, however, was never a
+colony, and Hindus in this country had little exposure to such alternative
+views of marriage until the very recent past. In fact, Nepal remained
+politically and economically isolated from other countries until the mid-
+1950s, when Nepal’s king first opened the country to interact with non-
+Hindu nations and peoples (Bista 1972; Blaikie, Cameron, and Seddon
+1980). Since that time, and particularly beginning in the mid-1970s, Nepal
+has experienced social and economic change, including the spread of for-
+mal education, wage work, government services, transportation and com-
+munication infrastructure, and the mass media. The result has been a
+reorganization of individuals’ daily social lives within the lifetimes of
+Nepal’s current population. The first signs of the impact of these social
+changes on marriage, in the form of increasing prevalence of individual
+spouse choice, are already apparent.
+
+Note that the processes of arranged marriage in Nepal vary greatly by
+ethnic group, with a range that includes bride price, dowry, exogamous
+marriage, endogamous marriage, and polygyny and polyandry (Acharya
+and Bennett 1981; Bennett 1983; Fricke 1986; Gurung 1980; Macfarlane
+1976). It is common for exchanges to flow in multiple directions—from
+bride’s family to groom’s family, from groom’s family to bride’s family,
+and from bride’s and groom’s families to the bride and groom—but many
+of these exchanges are symbolic in nature and do not represent the transfer
+of great wealth. The most common scenario among the Hindus of central
+Nepal is exchanges between families in multiple directions, with the ma-
+jority of wealth transferring from bride’s family to groom’s family
+(Acharya and Bennett 1981; Bennett 1983; Fricke and Thornton 1991).
+Among Tibeto-Burmese ethnic groups, on the other hand, majority trans-
+fer from the groom’s family to the parents of the bride is more common.
+Although this heterogeneity of process is also changing over time, the
+focus of our study is on the changes over time in choice of a spouse as
+the first step in these processes.
+
+To guide our investigation of the links between the social change in
+Nepal and individual participation in the choice of a spouse, we use the
+family mode of social organization framework (Thornton, Fricke et al.
+1994; Thornton and Fricke 1987). This framework focuses on the extent
+to which the activities of daily social life, including authority patterns,
+information flow, living arrangements, production, consumption, social-
+ization, leisure, and reproduction, are organized by the family versus other
+nonfamily social institutions and organizations. Rural Nepal has expe-
+rienced a rapid increase in access to new social organizations and services
+such as schools, employment centers, marketplaces, bus services, movie
+halls, dormitories, and government services. The proliferation of these
+new social organizations significantly increased the locus of individuals’
+daily activities outside the domestic sphere. The result has been wide-
+spread experience, even in youth, with new nonfamily activities, including
+education, work, nonfamily living, residential change, exposure to mass
+media, and participation in youth clubs. The key prediction from the
+family mode of organization framework is that increased exposure to
+nonfamily social activities among youths will create greater independence
+between youths and the parental generation (Thornton, Fricke et al. 1994;
+Thornton and Fricke 1987). Three specific mechanisms operate together
+to produce this relationship: increased parental respect for children, chil-
+dren’s changing attitudes toward family formation, and children’s op-
+portunities to interact with new same-generation people.
+Children’s Changing Attitudes toward Family Formation
+
+The new information children learn outside the domestic sphere may also
+have important consequences for the way they view family and marriage.
+Previous studies of education and attitudes in Asia indicate that schooling
+fosters an independent outlook in children, which may include more pos-
+itive attitudes toward individuals choosing their spouse (Thornton, Chang,
+and Sun 1984; Thornton and Lin 1994). This is likely to be particularly
+true in South Asia, where educational materials themselves often include
+British-based examples of family life and individual choice (Caldwell
+1982; Caldwell et al. 1988). Caldwell (1982) and Thornton (2005) argue
+that present-day schooling and mass media in many settings outside the
+West are crucial factors in changing cultures and values toward those in
+the West. In fact, multiple mechanisms may link media exposure to new,
+more Western ideas about marriage. First, some scholars suggest that the
+media usually tends to favor the elite and represents their views of social
+issues (McQuail 1985). Mass media such as radio, television, and movies
+in Nepal overwhelmingly represent Western worldviews (Axinn and Bar-
+ber 2001), including positive views of love marriage. Second, there is also
+a long-standing argument that the media encourages a breakdown of
+social control (Janowitz 1981). In Nepal, since the public was allowed to
+open schools by the Ranas in the 1950s, virtually all schools use Indian-
+and British-model curricula (Beutel and Axinn 2002) with very limited
+teaching in religious schools. Thus, increased awareness of Western views
+that are not compatible with the common values in Nepalese society may
+encourage the breakdown of historical social control mechanisms. There-
+fore, more education and exposure to the media are likely to promote
+Western views in this setting. As a result, we expect that both formal
+education and media exposure encourage Western ideas such as love mar-
+riage and the involvement of individuals in their choice of a spouse in
+this setting.
+
+Children’s experiences with nonfamily living may also promote new
+New Opportunities to Interact with Similar-Age People
+
+Before the spread of mass education, transportation, employment centers,
+and markets, most personal interactions in Nepal were limited to those
+who lived within walking distance. In most cases, social interactions
+among close family members, extended family, and other relatives pre-
+dominated over interaction with nonrelatives. As a result, young people
+had relatively little interaction with others of the same age—others who
+might include potential spouses. But with the spread of mass education,
+employment opportunities outside of home, more reliable and regular
+transportation, and marketplaces, there has been a significant increase in
+the number and kinds of people with whom young people have access to
+interact. Evidence from other settings is consistent with the conclusion
+that these new interaction patterns may influence marriage. In Taiwan,
+Thornton, Chang, and Yang (1994) found that, compared to an older
+marriage cohort (1955-59), a significantly large proportion of a younger
+marriage cohort (1980-84) met their spouses at school and through work.
+Improved access to schooling, nonfamily employment, better transpor-
+tation facilities, and marketplaces substantially broadens the pool of po-
+tential social contacts available to an individual. This contact is likely to
+stimulate greater participation in spouse choice.
+
+In rural Nepal, participation in youth clubs is a nonfamily activity
+especially likely to produce this effect (Macfarlane 1976). Nepalese youth
+clubs are often designed around a specific set of activities, such as sports,
+Age at Marriage and Spouse Choice
+
+Unfortunately, all efforts to study the determinants of participation in
+spouse choice face a common empirical problem: the correlation between
+age at marriage and spouse choice. Those who have marriages arranged
+by their parents tend to have early marriages, and those who choose their
+own spouse tend to have late marriages. Waiting for a later marriage gives
+an individual more opportunity to meet a spouse on his or her own,
+without assistance from parents. Moreover, waiting for a later marriage
+also gives individuals more opportunity to experience the same nonfamily
+activities that we predict will increase the chances they participate in the
+choice of their spouse. Thus, both age at marriage and spouse choice may
+be codetermined, and, in fact, one can observe neither age at marriage
+nor spouse choice without the other also occurring. Thus, it is virtually
+impossible to separate effects on age at marriage from effects on spouse
+choice. Our primary aim in this article is to examine the determinants of
+spouse choice, not the determinants of age at marriage. Therefore, we
+first test models of the total effects of nonfamily activities on spouse choice,
+ignoring age at marriage. We then add age at marriage to our model of
+spouse choice to determine the extent to which our initial estimates are
+robust even when this potentially confounding mechanism is included.
+Although this approach does not solve the basic empirical problem of the
+association between age at marriage and spouse choice, we believe that
+the two estimates of influence on spouse choice we calculate are good
+bounds on the true causal effects. By omitting age at marriage, we cal-
+culate one bound under the assumption that spouse choice is exogenous
+of marital timing. By including age at marriage, we calculate a second
+bound under the assumption that marital timing is exogenous of spouse
+choice. Though neither assumption is totally correct, these two bounds
+determine the range of magnitude for the effect of each determinant
+considered.
+
+As a further refinement, we also test the effects of nonfamily experiences
+on the rate of marriage using hazard models. These models focus on the
+timing of the transition from single to married, but separate the transition
+to marriage into two competing risks: the hazard of arranged marriage
+and the hazard of marriage involving some individual participation. Al-
+though this approach focuses on effects on the timing of marriage, it allows
+us to estimate separate effects for the timing of arranged marriage and
+the timing of marriage that involves some choice. Factors that affect the
+timing of marriage via these alternative routes differently also affect the
+likelihood of an arranged versus a choice marriage. Thus we expect to
+find substantive results in this analysis that are consistent with the results
+from our other analyses of spouse choice, and this consistency increases
+our confidence that variations in age at marriage do not explain the ob-
+served associations with spouse choice. As described in our discussion of
+results, this competing-risks hazard formulation of the problem has other
+advantages as well.
+all-weather roads (Shivakoti et al. 1997). As a result, over time, there has
+been a massive expansion of schools, health services, markets, bus services,
+and employment centers in Chitwan (Axinn and Yabiku 2001). This mas-
+sive expansion of services resulted in more young people going to school,
+working outside the family, living away from family, interacting with mass
+media, and participating in youth clubs. For example, among those born
+between 1936 and 1945, only 31% ever attended school, whereas among
+those born between 1966 and 1975, fully 84% had ever attended school.
+Likewise, among those born between 1936 and 1945, only 5% ever par-
+ticipated in youth clubs, whereas among those born between 1966 and
+1975, 14% ever participated in youth clubs, nearly a threefold increase.
+In another example, rates of nonfamily living more than doubled between
+the same birth cohorts.
+
+Even more important, virtually all marriages in this setting were ar-
+ranged by parents up until the recent past. Ethnographic evidence from
+Nepal indicates arranged marriage was normative in most ethnic groups
+in the region before the 1950s (Acharya and Bennett 1981; Ahearn 1994,
+2004; Bennett 1983; Bista 1972; Fricke 1986; Macfarlane 1976). Survey
+data from the CVFS support this conclusion and indicate a rise in indi-
+vidual participation in spouse choice. The proportion of individuals in
+each marriage cohort who participated in the choice of a spouse rose from
+virtually zero in the 1936-45 marriage cohort to approximately 50% in
+the 1986-95 marriage cohort (not shown in tables). This trend was mono-
+tonic and virtually linear. Thus, this study area offers an opportunity to
+test hypotheses regarding the relationship between individuals’ premarital
+nonfamily experiences and their participation in the choice of their own
+spouses.
+
+The CVFS selected a systematic probability sample of 171 neighbor-
+hoods in western Chitwan (Barber et al. 1997). The CVFS defined a
+neighborhood as a geographic cluster of 5-15 households. Once a neigh-
+borhood was selected, all individuals ages 15-59 residing in the sampled
+neighborhood were interviewed. If any of these study respondents had a
+spouse living elsewhere, that spouse was interviewed as well. A total of
+5,271 individuals were interviewed with a 97% response rate. This study
+provides rich retrospective measurement of the occurrence and timing of
+individual life events collected using a life-history calendar and linked
+measures of the characteristics of those events using a structured ques-
+tionnaire. The life-history calendar method provides more accurate ret-
+rospective measurement of life events and the characteristics of those
+events (Belli 1998; Freedman et al. 1988). Moreover, the life-history cal-
+endar used in the CVFS was specially designed to use local events to help
+respondents recall the timing of personal events and to allow respondents
+to report their recall of marital events in a manner most consistent with
+Measures
+
+Marriage.—Historically in Nepal virtually all marriages were arranged
+by parents. Instead of using a dichotomy of arranged marriage versus
+individual choice, we treat the process of transformation from arranged
+marriage to individual-choice marriage as a continuum, and we focus on
+the level of respondent participation in the choice of her or his spouse.
+The study measured spouse choice using responses to a question that asks,
+“People marry in different ways. Sometimes our parents or relatives decide
+whom we should marry, and sometimes we decide ourselves. In your case,
+who selected your (first) spouse? Your parents or relatives, yourself, or
+both?” We coded our measure of participation in spouse choice as one if
+a respondent answered “parents or relatives” and five if the respondent
+answered “myself.” If the respondent answered with “both” she or he was
+asked a follow-up question, “Although both of you may have decided,
+one of you may have had a little more influence than the other. Who had
+more influence in choosing your spouse? You or your parents and rela-
+tives?” If the respondent answered with “parents or relatives,” we coded
+that answer as two; if he or she responded with “myself,” we coded that
+answer as four; and if the respondent answered with “both equally,” we
+coded that answer as three. This gives us an ordinal scale of one to five,
+in which one means respondent did not participate in the choice of her
+or his spouse (arranged marriage), and five means respondent solely chose
+her or his spouse (individual-choice marriage). Out of 2,788 ever-married
+respondents interviewed, 65% reported that their first marriages were
+solely arranged by parents or relatives, and the remaining 35% reported
+they have either participated to some degree in the choice of spouse or
+solely chose their spouse.’
+The study also collected a complete marital history using the life-history
+calendar method (Axinn et al. 1999). These histories provide a measure
+of the timing of first marriage, which we use to operationalize the discrete-
+time hazard rate of first marriage. By combining these marital history
+measures with respondents’ answers to the questions regarding their par-
+ticipation in spouse choice, described above, we are able to further sub-
+divide first marriages into those in which respondents had no choice
+(values of one on the measures described above) and those in which the
+individual had some choice (values of two, three, four, or five on the
+measures described above). This information gives us the means to es-
+timate the hazard of first marriage by an arrangement, treating first mar-
+riage in which an individual has some choice as a competing risk, and
+the hazard of first marriage through some individual choice, treating ar-
+ranged marriage as a competing risk. Thus, we conceptualize arranged
+and individual-choice marriage as two different ways to exit from the
+single state and treat these two ways of exiting the single state as com-
+peting risks.
+
+In order to capture the multidimensional nature of nonfamily experi-
+ences, we focus on five nonfamily experiences: schooling, employment,
+nonfamily living, exposure to media, and participation in youth clubs.
+Below we describe the measurement of each of these nonfamily experi-
+ences. Descriptive statistics for each of these measures are displayed in
+table 1.
+
+Educational experiences——The CVFS collected a complete history of
+respondents’ educational experiences using life-history calendar methods.
+Every year the respondent was in school was recorded on the life-history
+calendar. This procedure allows us to record both the respondent’s school
+enrollment and the total length of time she or he spent in school. In
+addition, respondents were also asked whether they ever attended adult
+education (basic literacy programs for adults), and this is included in our
+measures of educational experiences. The great flexibility of these life-
+history-calendar-based measures allowed us to investigate many different
+potential functional forms for the effects of education on marriage.’ Based
+
+of a spouse (two to five on the ordinal scale), and zero if the respondents had no choice.
+Results from models of this dichotomous outcome are exactly parallel to those presented
+for the ordinal outcome.
+
+*In fact, we used this flexibility to investigate a wide array of functional forms for all
+of our measures of nonfamily experiences. Our investigation included linear, quadratic,
+log, categorical, and dichotomous forms. Using model-fit criteria, these investigations
+led us to choose dichotomous indicators for ever having experienced work or nonfamily
+living arrangements and the separated enrollment and attainment measures for edu-
+cation. In fact, varying functional form assumptions produce equivalent substantive
+results for these measures, but the dichotomous form yields both simplified interpre-
+tation and superior model fit for work and living arrangements.
+on that investigation we chose to follow the previous literature on the
+effects of education on marriage and separate the total effects of education
+into effects of education enrollment and effects of educational attainment
+(Thornton, Axinn, and Teachman 1995; Yabiku 2005). Enrollment is
+coded as one for years respondents enrolled in school, and zero otherwise.
+Years of schooling is the cumulative total of the years respondents spent
+in school or adult education up to one year before the particular time a
+person was at risk of marriage. The value for years of schooling ranges
+from 0 to 22 (see table 1). For the event-history models, our measures of
+education include time-varying measures of school enrollment and num-
+ber of years of schooling.
+
+Nonfamily work.—Our measure of nonfamily employment before mar-
+riage also uses information from the life-history calendar. All years that
+a respondent was employed outside the family were recorded in the life-
+history calendar. From this record we created a dichotomous measure of
+whether or not the respondent ever worked for pay outside of home. In
+the event-history models, the measure of employment is a time-varying
+measure of whether or not a respondent was ever employed in nonfamily
+work before the year of risk of marriage.
+
+Nonfamily living —Young people who leave their parents’ homes either
+for higher education or for nonfamily work have adopted new living
+arrangements away from family, such as living in school dormitories or
+renting an apartment. Others who choose the military live in army bar-
+racks. Our measure of exposure to these nonfamily living arrangements
+before marriage comes from the life-history calendar. Respondents were
+asked, “Have you ever lived separately from your parents for six months
+or more?” If the respondent answered yes to this question then they were
+asked “In which year did you start living away from your parents for six
+months or more for the first time?” Next, respondents were asked a series
+of questions about all the other living arrangements they had ever ex-
+perienced. Spells of each different living arrangement were recorded on
+the life-history calendar (Axinn et al. 1999). From this record we created
+a dichotomous measure of whether or not a respondent ever lived in a
+nonfamily living arrangement. In the event-history models, the measure
+of nonfamily living is a time-varying measure of whether or not a re-
+spondent ever lived away from family members (alone, in a dormitory or
+barracks, or with unrelated housemates) prior to the risk of getting
+married.
+
+Media exposure.—tIn our study area, the first movie hall was established
+in late 1969. Television first began to appear in Chitwan in the late 1980s.
+However, once these new media technologies arrived, they drew tremen-
+dous attention among the population of Chitwan, so that many, many
+people traveled to nearby theaters, listened to friends’ radios, or watched
+ol I sLz +409 “ou [e1OL, “* UdIPIYD JO “ou S$, 1IyIOP
+:punoasyseq Ayre
+Sr Ss esr Sst saat Ul a3By aseLIeU ye osy
+I 0 os" 1s aewmay=] ‘ayew=o sores gre ua
+<epuayy
+T 0 aa 90° (saX=] ‘ou=() sqn]> yyNod ul uoyedpHAeg
+£ 0 60°T rel €-0 xapuy sereeeesees gansodxa BIpayAy
+I 0 se sr SOk=]TOUHQ ttt SULAT] AyrueyuoU Ul paat] 9A
+T 0 iv +e saf=] ‘ou=0 yom Aprureyuou pey Jaq
+ce 0 AVS orb srvak [B10], “s** (Zulpooyps jo savad) JuaUUTe}e [eUOTFeONp|
+I 0 os’ es” saX=] ‘ou=0 . . . * JUaUT[OIU [OOYIS
+ssaouatiadxa Aprureyuou [eyareUlosg
+T 69'T eTz YsIy=S MOT] To tts uorqayas asnods ut uonedinaeg
+xe] UAL ds ueoyl BuIpoD a1qeney,
+
+ 
+
+ 
+
+(88Z‘7= AN) ASMOdS LSAIY JO NOILOAIAS AHL NI NOILVdIOILaVg
+GHL NO SAONAIMAdIXY ATINVANON IVLINVNGAd JO SLOAIAY AHL AO SISAIVNY AHL NI GAS SAANSVAJ AO SOILSILVLS AALLATIOSAd
+
+1 ATaVL
+mano
+
+oo
+
+coooo
+
+ocooo
+
+ 
+
+ca
+
+ 
+
+orl
+6"
+tl
+se"
+
+sv
+ee
+cr
+
+8st
+8
+90°
+7
+or"
+
+7
+or
+zo"
+1@
+
+sok=]
+sok=]
+soX=JT
+
+sok=]
+soX=JT
+sok=]
+sok=]
+soX=JT
+
+‘ou=0
+‘ou=0
+‘ou=0
+
+‘ou=0
+‘ou=0
+‘ou=0
+‘ou=0
+‘ou=0
+
+SdAOUI JO ‘ON
+
+sok=T
+sok=]
+sok=]
+
+‘ou=0
+‘ou=0
+‘ou=0
+
+ 
+
+es Cg q10YOo “bE—Sp SABE) TS—ZhET WIOg,
+(Z WoYod ‘pp—sE saBe) 19-7 S61 Wig
+(I Wooo ‘pe-Sz saBe) 11-7961 WIOg
+sMoyoo yyig
+asoULANg-OJaqL], Tela],
+
+* asouling-oqly, [TH
+sete ees so TeMaN,
+seeeeeees snpurgy 238e9-MNo]
+
+snpury oyse2-yStEy
+ory
+SdAOU [PNUIPISAY,
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vere uonvonpe s, 19438]
+“'* uoTBoNpa $s, 1ayOPAL
+Aed 10} YOM S$, 19YOI
+a neighborhood television. Our measure of media exposure is an index
+constructed from responses to three sets of questions in the individual
+interview. Respondents were asked, “Have you ever listened to radio?”
+If the respondent said yes, they were asked, “How old were you when
+you listened to a radio for the first time?” We only include experiences of
+listening to the radio that occurred before marriage in our measure of
+premarital media exposure. Similar questions were asked about watching
+television and seeing movies. We coded each item one if the respondent
+has been exposed to radio, television, or movies before marriage, and zero
+otherwise. Because responses to these questions are correlated, and in
+order to avoid problems of multicollinearity, we sum these three variables
+to a scale with values ranging from zero to three. In this scale, zero means
+the respondent was exposed to none of the media sources before her or
+his marriage, whereas a value of three means the respondent was exposed
+to all three media sources. In addition, for the event-history models, we
+coded exposure to media as zero for all the years before the respondent
+was exposed to any of the media sources, one when exposed to any one
+source of media for the first time, two when exposed to any second media
+source, and three when exposed to all three media sources. Thus, the
+measure of exposure to media varies by time, and the values again range
+from zero to three.
+
+Participation in youth clubs—The expansion of mass education, em-
+ployment opportunities outside the family, transportation, and commu-
+nication have recently created new venues for social interactions: youth
+clubs. These youth clubs may be organized with a wide range of objec-
+tives, including 4-H clubs to help young farmers to learn new agriculture
+technology, cultural youth clubs to preserve the heritage and culture of
+a specific ethnic group, or political youth clubs designed to support one
+of Nepal’s many political parties. However, the most common feature of
+these clubs is that they bring together unmarried youth with varied back-
+grounds including different sexes, ethnic groups, and education. Our mea-
+sure of participation in youth clubs comes from responses to a question
+asking, “Have you ever been a member of a youth club?” If respondent
+answered “yes” then she or he was asked, “How old were you when you
+became a member of a youth club for the first time?” We only include
+participation in youth clubs that occurred before marriage in our measure
+of premarital participation in youth clubs. We coded this measure one if
+the respondent became a member of a youth club before she or he got
+married, and zero otherwise. For the event-history models, we coded this
+measure as zero for all the years before the respondent became a member
+of a club, and one for the years after she or he became a member of a
+club.
+
+Controls.—An individual’s ethnicity, gender, birth cohort, and family
+background may also affect the level of participation in the choice of a
+spouse in this setting. Because these factors may also influence an indi-
+vidual’s level of participation in nonfamily activities, it is important to
+control for these factors in examining the impact of nonfamily activities
+on individual variations in involvement in spouse choice. In fact, precisely
+because of this problem, many previous studies are limited to a single
+ethnic group, a single gender, or a single birth cohort. For example, even
+among studies of marital processes in Nepal most studies focus on a single
+ethnic group: Macfarlane’s (1976), Fricke’s (1986), and Ahearn’s (1994)
+studies on the Gurung, the Tamang, and the Magar, respectively. Our
+research extends this previous work by examining spouse choice among
+the general population, but this design requires individual models to in-
+clude controls for these subgroup distinctions.
+
+Nepalese society consists of many ethnic and linguistic subgroups (Bista
+1972; Dahal 1993; Gurung 1980, 1998). These subgroups differ in many
+respects that have important consequences for both premarital nonfamily
+experiences and participation in spouse choice. Although ethnicity in Ne-
+pal is complex, scholars have often categorized ethnicity into five major
+groups for analytical purposes: high-caste Hindus, low-caste Hindus, Ne-
+war, Hill Tibeto-Burmese, and Terai Tibeto-Burmese (Axinn and Yabiku
+2001; Blaikie et al. 1980). We have adopted the same categories. Although
+the first two groups, high-caste Hindus and low-caste Hindus, have the
+same Indian origin and both practice Hinduism, the first group has his-
+torically had much more control over political decisions and access to
+opportunities in both the formal and informal sectors. Hill Tibeto-Bur-
+mese are of Tibetan origin and tend to practice Buddhism. This category
+includes groups such as the Tamang, the Gurung, and the Magar (Fricke
+1986). The Terai Tibeto-Burmese people are the original inhabitants of
+the Chitwan Valley (Guneratne 1994). They were jungle dwellers before
+the valley was opened for settlement, and they adopted farming only after
+the people from surrounding areas started growing crops in this valley.
+Newars are distinct from all of these other groups in the sense that they
+practice a mixture of Hinduism and Buddhism and are heavily involved
+in the business sector of the country. High-caste Hindus and Newars are
+groups who hold more restrictive values about an individual’s choice of
+marriage partner, whereas low-caste Hindus, Hill Tibeto-Burmese, and
+Terai Tibeto-Burmese are groups who have more relaxed attitudes toward
+as individual’s choice of marriage partner. (For more information about
+these ethnic groups, see Fricke [1986], Gurung [1980], Macfarlane [1976],
+and Bista [1972].) We coded individuals one if they are members of a
+specific category, and zero if not, and treated high-caste Hindus as a
+reference group for comparison. We also tested for interactions between
+ethnic group and exposure to nonfamily experiences.
+As elsewhere, gender inequalities in various aspects of social life are
+deeply rooted in Nepalese society (Acharya and Bennett 1981; Bennett
+1983; Morgan and Niraula 1995; UNICEF 1998). Compared to men,
+women have lower social status in South Asian societies in general (Cald-
+well et al. 1983; Dyson and Moore 1983; Morgan and Niraula 1995). Most
+women, regardless of their ethnic group, wealth, and age, are constrained
+from participation in various activities, such as education, employment,
+politics, and business. This disadvantaged position of women has sub-
+stantially reduced their ability to voice their wishes freely. As a result, we
+expect that compared to men, women have fewer premarital nonfamily
+experiences and also participate less in spouse choice. We included gender
+as a control in our analysis, coded one if the respondent is female, and
+zero if male. We also test for interactions between gender and nonfamily
+experiences.
+
+The intergenerational transmission literature suggests that there is a
+significant parental influence on child outcomes. Parental resources (both
+economic and human capital resources) during childhood are positively
+related to children’s psychological and behavioral outcomes later in life
+(Axinn, Clarkberg, and Thornton 1994; Bengtson 1975; Cooksey, Men-
+aghan, and Jekielek 1997; Sewell, Hauser, and Wolf 1980). Because pa-
+rental experiences may affect both children’s nonfamily experiences and
+their participation in the choice of a spouse, we controlled for a number
+of parental characteristics in our multivariate models. These include
+mother’s work for pay during respondent’s childhood, mother’s total
+number of children, and parents’ education. The measure of mother’s
+work comes from a response to the question, “Did your mother ever work
+for pay outside your home before you were 12 years old?” We coded “yes”
+responses one, and “no” responses zero. The total number of mother’s
+children comes from the response to the question, “How many children
+did your mother have?” The measure of parental education comes from
+the response to a series of questions beginning, “Did your father ever go
+to school?” Positive responses are coded as one, and negative responses
+are coded zero. The same question was asked regarding the mother’s
+education and coded exactly the same as father’s education.
+
+Because residential moves alter the group of people with whom un-
+married youth have an opportunity to interact, this may have important
+influence in spouse selection. However, because the decision about resi-
+dential moves is primarily associated with parents’ decisions, we consid-
+ered residential move as related to family background and treated it as
+a control. Our measure of residential moves comes from the migration
+history included in the life-history calendar. Each respondent was asked
+a series of questions beginning with: “In what year did you move to this
+neighborhood? How many years have you lived in this neighborhood?
+Where did you live before moving to this neighborhood? How many years
+did you live in that place?” A completed record of all places of residence
+was gathered. From this record, we calculated the total number of resi-
+dential moves before marriage and also a time-varying cumulative num-
+ber of residential moves prior to the year in question.
+
+Previous studies suggest significant differences between birth cohorts
+both in terms of nonfamily experiences and participation in mate choice
+(Goode 1970; Thornton, Chang, and Lin 1994). Compared to older cohorts,
+more recent cohorts have a significantly higher level of nonfamily expe-
+riences and participate more in the choice of their spouses (Thornton,
+Chang, and Yang 1994). Therefore, we include a control for the respon-
+dent’s birth cohort. Respondent’s birth cohort is coded in three catego-
+ries—cohorts born 1962-71, 1952-61, and 1942-51. We treated the oldest
+cohort born 1942-51 as the reference group in our analyses. We also test
+for interactions between cohort and exposure to nonfamily experiences.
+
+We also use the birth cohort variable as an indication of social change
+in this population. We do so by both examining the overall effect of birth
+cohort on trends in mate choice and the extent to which the effect of this
+historical change can be accounted for by trends in the nonfamily ex-
+periences of young people. Our expectation is that the introduction of
+nonfamily experiences of young people into the analysis explains much
+of the historical change in mate choice, thereby suggesting that changes
+in nonfamily activities have played a substantial role in the tremendous
+historical increase in the involvement of young people in mate choice.
+the respective independent variable. If the coefficient is greater than one,
+the effect is positive, and every unit change in the independent variable
+increases the odds of being in the next-higher category of participation
+in spouse choice. If the coefficient is less than one, then every unit change
+in the independent variable decreases the odds of participation in spouse
+choice.
+
+As a refinement of our analysis, we also estimate the effects of nonfamily
+experiences on the rate of marriage using discrete-time hazard models.
+These models focus on the timing of the transition from single to married,
+but separate the transition to marriage into two competing risks: the
+hazard of arranged marriage and the hazard of marriage involving some
+participation.
+
+Our time-varying measures of characteristics of the respondents are
+measured in the year prior to the current year of exposure to marriage.
+In other words, all time-varying covariates are lagged by one year. We
+adopt this strategy to guard against the possibility of reciprocal causation
+within a particular year. Person-years of exposure are the unit of analysis.
+We use logistic regression to estimate these discrete-time hazard models.
+The tables present exponentiated log-odds coefficients, which can be in-
+terpreted as the multiplicative effect of a one-unit change in the inde-
+pendent variable on the odds of marrying. Also note that because the
+probability of marrying is so small within each year, the odds of marrying
+are similar to the rate of marrying. Thus we sometimes refer to the effects
+of the covariates on the rate of marriage.
+* Note that the discrete-time hazard formulation of the spouse-choice outcome avoids
+problems associated with the censoring of those who have not yet married, but who
+may eventually go on to marry, from our analyses.
+
+* Because the sample design generating these data included clustering by neighborhood,
+we reestimated all of our models of degree of participation in spouse choice using
+multilevel ordered logistic regression technique in hierarchical linear modeling (HLM).
+This alternative estimation technique yielded the same results as those presented in
+table 2. Because the sample also includes husbands and wives, we also reestimated
+our models using this same technique to allow for couple-level clustering. This alter-
+native estimation sometimes yielded somewhat smaller estimates of specific parameters,
+but in no case altered the substantive conclusion based on these results.
+
+° Recall that 35% of our respondents reported that they participated to some degree
+in the choice of their first spouse, whereas the remaining 65% reported that their first
+marriages were solely arranged by parents or relatives. Among the 35% who reported
+some degree of participation, 6% reported that although they had participated, their
+parents or relatives had more influence on the decision, 2% reported that both parents
+or relatives and the respondent equally participated in the choice, about 5% said that
+although their parents or relatives had participated it was mostly their decision, and
+the remaining 22% reported that they solely chose their spouse.
+TABLE 2
+ORDERED LociT ESTIMATES OF IMPACT OF PREMARITAL NONFAMILY EXPERIENCES ON
+THE DEGREE OF PARTICIPATION IN THE SELECTION OF THE FIRST SPOUSE
+
+ 
+
+ 
+
+DEGREE OF PARTICIPATION IN SPOUSE
+
+SELECTION
+Controls Without Age With Age
+VARIABLE Only at Marriage at Marriage
+
+ 
+
+Premarital experiences:
+School enrollment (enrolled in school) ..... -93 1.06
+below, the hazard model format reveals important differences in the effects
+of enrollment and attainment on rates of marriage via different
+arrangements.
+
+Second, we present estimates of the effects of nonfamily work on the
+degree of participation in spouse choice. Nonfamily work has a strong
+statistically significant, positive effect on participation in spouse choice,
+as predicted. The odds ratio of 1.53 indicates that the odds of being in a
+higher category of participation in the choice of spouse for an unmarried
+youth who had ever worked for pay outside of home is 53% greater than
+that for a young person who had never worked for pay outside of home.
+This finding is consistent with our hypotheses and the findings of previous
+studies from other settings (Thornton, Chang, and Yang 1994).
+
+Third, we present estimates of the effects of nonfamily living. Although
+previous studies from other settings suggest nonfamily living may be an
+important influence on marital behavior, we find no evidence for this
+effect in any of our models (including those not shown here). However,
+because changes in living arrangements generally include residential
+moves, and we control for residential moves, the effect of residential moves
+eclipses the effect of nonfamily living. In fact, residential moves have a
+statistically significant, positive effect on participation in spouse choice,
+as predicted. The odds ratio of 1.08 indicates that the odds of being in a
+higher category of participation in the choice of spouse for an unmarried
+youth who had made at least one residential move is 8% greater than
+that for a young person who never experienced a residential move.
+
+Next, we present estimates of the effects of media exposure (see table
+2). Previous studies have rarely had an opportunity to examine the influ-
+ence of media exposure on participation in the choice of a spouse. We
+find that exposure to media has a positive, significant effect on partici-
+pation in spouse choice. Every one-unit increase in the media exposure
+index increases the odds of higher participation in the choice of spouse
+by 19%. The media exposure index is the sum of three dichotomous
+measures: listening to the radio, watching television, and seeing movies.
+The odds ratio of 1.19 means that the odds of participation in a higher
+category of spouse choice for those who have listened to a radio, watched
+television, and seen a movie (all three experiences) are 69% greater than
+for those who had never listened to a radio, watched television, or seen
+a movie before their marriage (none of the three experiences).’ This is a
+large effect on the variations in individual participation in the choice of
+a first husband or wife, an effect that is also not statistically different for
+men and women (not shown in tables).
+
+Finally, our estimates of the effects of participation in youth clubs on
+spouse choice are presented in table 2. We find that participation in youth
+clubs has a strong influence on the degree of participation in the choice
+of a spouse. The odds of greater participation in spouse choice for those
+who participated in youth clubs are 40% higher than for those who did
+not participate in youth clubs. Several scholars have argued that such
+relationships between media exposure, participation in youth clubs, and
+marital behaviors are likely to exist (Caldwell 1982; Caldwell et al. 1983;
+Macfarlane 1986), but few have actually had the opportunity to test these
+hypotheses empirically. We find that these relationships are, in fact,
+substantial.
+
+Controlling for age at marriage.—Table 2 displays our estimates of the
+effects of premarital nonfamily experiences, controlling for age at first
+marriage. As we indicated above in our theoretical framework, all studies
+of spouse choice face the potential problem that the selection of a spouse
+may be closely associated with age at marriage, and later marriage creates
+more time to be exposed to nonfamily experience. Because neither age at
+marriage nor participation in the selection of a spouse can be observed
+without the occurrence of the other, it is not possible to estimate the
+independent effects of one on the other. This makes separation of effects
+on participation in selection of a spouse from effects on age at marriage
+particularly difficult. To address the issue, we reestimate all the models
+calculated without age at marriage in table 2 over again, this time in-
+cluding a control for age at marriage. Age at marriage is operationalized
+as age in years at the time the respondent first married, as established by
+the life-history calendar method.
+
+First, notice that age at marriage does have a strong positive association
+with participation in spouse selection, as expected (see table 2). In fact,
+according to these estimates, a one-year increase in age at first marriage
+increases the odds of participation in spouse choice 8%. Thus, a five-year
+increase in age at marriage increases the likelihood of participation in
+spouse selection by about 47% (1.08, raised to the fifth power; see table
+2). Note that our focus on participation in spouse selection leads us to
+include age at marriage as a predictor of participation in spouse selection.
+It may also be that participation in spouse selection actually determines
+age at marriage. If this is the case, then the appropriate estimates of the
+total effects of nonfamily experience on spouse selection are presented in
+table 2.
+
+In general, we find that including age at marriage in these models leads
+to a reduction in total effects of each nonfamily experience. This reduction
+suggests that part of the total effect we observed may work through age
+at marriage, if age at marriage determines participation in spouse choice.
+However, even after we control for the age at marriage, all three nonfamily
+experiences—nonfamily work, media exposure, and participation in youth
+clubs—that have statistically significant effects continue to have statis-
+tically significant, positive effects on the odds of participation in the se-
+lection of spouse. Thus, overall, treating age at marriage as a control in
+this model still leads us to the conclusion that several different dimensions
+of premarital nonfamily experience have important implications for the
+participation of individuals in the selection of their spouses.
+
+Differences by gender and ethnicity.—Because gender and ethnicity
+condition so many aspects of marriage processes in Nepal, and because
+we find substantial effects of gender and ethnicity on spouse choice, we
+also investigated variations in the effects of nonfamily experiences on
+spouse choice by gender and ethnicity. Separate analyses of males and
+females do show differences in the effects of nonfamily experiences, but
+when tested in a model that includes a term for the interaction between
+gender and nonfamily experiences, none of these interactions were sta-
+tistically significant (analyses not shown in tables). For example, the odds
+multipliers for the effects of media exposure on spouse choice are 1.24
+and 1.15 for females and males, respectively, in separate models. However,
+this difference is not statistically significant when tested formally using
+an interaction term in a pooled model (analysis not shown in tables).
+Overall, we find that all of the important determinants of spouse choice
+we document in table 2 influence the marital process similarly among
+both men and women in this setting.
+
+We also investigated differences by ethnic group, including high-caste
+Hindus, low-caste Hindus, Hill Tibeto-Burmese, Newar, and Terai Tibeto-
+Burmese. Again, we investigated both separate models and interactions
+in our main pooled model. These analyses suggest that among low-caste
+Hindus, Hill Tibeto-Burmese, and Newar, nonfamily experiences—par-
+ticularly nonfamily work and exposure to mass media—tend to lower the
+degree of participation in spouse choice.* These somewhat surprising in-
+teractions with ethnicity may be the result of lower-caste and non-Hindu
+groups who have access to more nonfamily experiences modeling their
+marital behavior on the behavior of high-caste Hindu groups. This process
+is sometimes described as Hinduization in Nepal and is thought to exist
+because the country has been a Hindu monarchy ruled by high-caste
+Hindu groups for centuries (Dastider 1995; Hofer 1979; Srinivas 1956).
+A comprehensive explanation of these interactions clearly requires a de-
+tailed investigation of these ethnic groups, their identity, and their marital
+behavior within the specific cultural context of our study site.
+
+Finally, we also investigate the possibility of interactions between age
+at marriage and our measures of nonfamily activities. This is a particularly
+interesting extension of our overall concern about the relationship between
+age at marriage and arrangement of marriage. The results from models
+testing the interaction between age at marriage and nonfamily activities
+show that except for school enrollment, all of the interactions between
+nonfamily activities and age at marriage have statistically significant,
+negative effects on the odds of being in the next-higher category of par-
+ticipation in the selection of spouse (not shown in tables). This means
+with an increase in age at marriage, the effect of each nonfamily activity
+decreases. This interesting finding has a sensible substantive interpretation
+that extends what we have learned about the relationship between age
+at marriage and participation in spouse choice. Premarital nonfamily ex-
+periences increase the likelihood of participation in selection of one’s own
+spouse, and these effects are particularly strong for marriages at young
+ages. Premarital nonfamily experiences have much less influence on par-
+ticipation in the selection of a spouse among marriages that take place
+at older ages—ages at which individuals are more likely to participate in
+Understanding Historical Trends
+
+As we explained earlier, there have been enormous historical increases in
+the involvement of young people in the spouse choice process in this
+setting. This process can also be seen in the results for cohort presented
+in table 2. More recent cohorts are substantially more involved in spouse
+choice than were the earliest cohorts (at the bottom of table 2).
+As shown in model 1 of table 2, in an equation containing only birth
+cohort, gender, mother’s number of children, mother’s work for pay,
+mother’s education, father’s education, number of residential moves, and
+ethnicity, we found that people born 1962-71 were 81% more likely to
+have greater participation in the choice of spouse than were those born
+1942-51. With the introduction of all of the young individual’s nonfamily
+experience measures in model 2, this difference was reduced to 36%. One
+of the informal ways to calculate this change is (81 — 36)/81 = .56. This
+means that 56% of the total trend in spouse choice can be explained by
+these changes in nonfamily experiences. Thus, our expectation that the
+changing individual family experience has played a significant role in
+changing marriage patterns in Nepal is strongly supported by these data.’
+Further analysis shows that exposure to mass media is a central force
+in explaining these changes in the mate-choice process. Adding exposure
+to mass media to the equation reduces the cohort effect for those born
+1942-51 from 81% to 39% or a reduction of 52% of the original differences,
+(81 — 39)/81 = .52 (not shown in tables). Thus, this one factor alone can
+explain as much of the cohort trends in spouse choice as all of the non-
+family experiences together. This is because mass media exposure has a
+large effect on participation in spouse choice, and because mass media
+exposure has changed substantially. For example, the number of people
+with no mass media exposure declined from 61% to only 15% between
+the earliest and most recent cohort, while exposure to all three forms of
+media increased from 2% to 32%. It appears that these large trends in
+mass media exposure have had an important influence on trends in par-
+ticipation in spouse choice.
+Hazard Model Estimates of Timing of Choice and Arranged Marriage
+
+Two concerns motivate us to reexamine the estimates presented in table
+2 using a much different analytic technique. The first concern is the
+potential association between arrangement of marriage and age at mar-
+riage discussed at length above. By reframing the spouse-choice question
+in terms of the hazard of marrying, with competing alternatives for mar-
+rying by parental arrangement and marrying with some involvement in
+the choice of one’s spouse, we recast the problem explicitly in terms of
+marriage timing. This event-history-analysis approach focuses on the tim-
+ing of marriage via these two alternative processes and draws our atten-
+tion to factors that affect the timing of arranged marriage differently than
+the timing of choice marriage. The second concern is the potential cen-
+soring problem characterizing the models displayed in table 2, which only
+include those who have married by the date of the survey. Event-history
+analysis is particularly useful in addressing this type of problem because
+it allows us to include everyone in our models, even those who have not
+yet married but may eventually go on to marry. In order to learn the
+extent to which this alternative estimation strategy yields results consistent
+with those in table 2, we estimate the effects of nonfamily experiences on
+the rate of marriage using discrete-time hazard models. Again, these mod-
+els focus on the timing of the transition from single to married, but separate
+the transition to marriage into two competing risks: the hazard of arranged
+marriage and the hazard of marriage involving some participation.
+Table 3 displays these alternative estimates. We begin with estimates
+of models of the hazard of first marriage by individual choice, treating
+first arranged marriage as a competing risk. Table 3 also presents our
+estimates of models of the hazard of first arranged marriage, treating first
+marriage by individual choice as a competing risk. The contrast between
+results for choice marriage and the results for arranged marriage highlight
+factors which contribute to differences in these two routes of exiting the
+single state for marriage.
+
+This event-history specification of the problem also allows us to in-
+vestigate the potentially independent consequences of educational en-
+rollment and educational attainment. Results displayed in table 3 show
+that enrollment in school dramatically reduces the hazard of first marriage
+via either route, with a somewhat stronger influence delaying choice mar-
+riage. The odds multiplier of .56 indicates that those who are enrolled in
+school have rates of individual-choice marriage 44% lower than those
+who are not enrolled in school. Comparison to the results for arranged
+marriage shows enrollment reduces the rate of arranged marriage by 41%.
+Thus, enrollment in school reduces the overall rate of marriage via either
+process and contributes little to the difference between marriages via
+parental arrangement versus marriage involving some individual choice.
+This finding is consistent with previous research demonstrating important
+effects of school enrollment on marriage timing (Thornton et al. 1995;
+Yabiku 2005), but it tells us little about the factors promoting an increase
+in individual choice of first spouse.
+
+By contrast, educational attainment (table 3) significantly increases
+rates of first marriage involving some individual choice, but has no sig-
+nificant effect on rates of the first marriage by parental arrangement. The
+comparison of these two sets of effects is evidence that educational at-
+tainment promotes individual participation in the choice of first spouse.
+The educational attainment effect of 1.03 means that those who have
+completed five years of schooling enter choice marriage at approximately
+a 16% higher rate than those who have no schooling. Nonfamily work,
+on the other hand, has no significant effect on rates of marriage via either
+route of marrying.
+
+Table 3 presents our estimates of the effects of nonfamily living. Non-
+family living has a strong statistically significant, negative influence on
+rates of first marriage arranged by parents, but no statistically significant
+influence on rates of first marriage by choice. The odds multiplier of .82
+indicates that those who lived in nonfamily living arrangements have
+rates of arranged marriage 18% lower than those who never lived away
+from their family. This finding is consistent with findings from other
+settings (Thornton and Lin 1994)—young people who experience non-
+family living are less likely to follow historical family-formation patterns
+(Axinn and Barber 1997; Waite et al. 1986). Residential moves, on the
+other hand, have a strong, statistically significant influence on rates of
+first marriage via both routes. In fact, residential moves increase the
+overall rate of marriage via either process and contribute little to the
+difference between marriages via parental arrangement versus marriage
+ee SF
+
+ 
+
+ 
+
+ 
+
+(Ss'T) (69°T)
+BL" seeO CT ss (BurAreA aur) sqnys yINoA ut uoNEdrnAeg
+(€1'2) (tr)
+ae CO” 86° * (xapul SursieA-aui) ainsodxa vrpayAy
+(s8'1) (09")
+ee CS" 9OT tn nns (BulArea aur) Surat Ayrueyuou prey 19Aq
+(96) (er)
+£6" TET nis (SutAreA outT}) YOM ATTUeyUOU peYy JAG
+(48°) (68°2)
+TOT 0 (stea4 Jo ‘ou SuTAIA-aWI}) JUOUTUTe}e [PUOBONpy
+(res) (9¢"s)
+ax OS” seeeDS (Jooyss ul APUsIand ZursreA-ault}) JUsUT|[OIUa [OOYIS
+aseLuey, posuviiy aseLUey, V10Y4D, ATAVRIVA
+
+ 
+
+(sysry Suneduiog se o8er1
+Ivy] posuviry pue a1oyD sunvaiy) AOVIAAVIA, LSU JO ONINIL,
+
+ 
+
+ 
+
+TOVREA,
+ISU 10 ONINIT, AO SAGO NO SAONAIAAXY ATNVANON ‘IVLIIVINGAd JO SLOAAAY JO SALVWILSY TACO GUVZVH AWIL-ILaAAOSIG]
+© ATaVL
+uasiajg {2861 UOStITY) SAS ay) EY AT[eIIyT We Jou saop sxvaé-uossad Jo ‘ou YSIY oy, “sfapour prezey outt}-ajor9sIp ay} Ut s1va4-UOssad Jo “OU AY} St 9OLTZ »
+
+s[ppow asay.y,
+
+TO >d xxx
+
+SO>d sve
+“sysaq payrey-auo “OT >d x
+“(1661
+
+‘dnoaB aguasayar se (¢ WOYOS “pe-sp sae) Tg-ZPHT WIOg ,
+“dnoa8 aouasayar se snpUutyy aiseo-YBIH] 4
+dno aouarayar sv aeT ,
+
+‘SPPpoul prezey suMty-ajaisIp aBUVATNU Sursn payeuttysa aaa
+
+“sfapowt pautq wos Wo1y atUOD s}UaLYFa0, ‘aUT| PUOdas oY} UO sasayjuaed UT SoNSTIeIS-7 YILA ‘auT] Is4y ay} UO payiodar are sone sppO—“ALON.
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+
+ 
+ 
+ 
+ 
+
+pl86'07 p99LTZ pl86'07 POOL TZ qeas-uosiog
+oz +1 oz +1
+78 TSZ'T P0°6E7'T SSL66 720°9L6
+(gr'21) (6°21) (er'21) (84'€T)
+sex BO" e860" sex 8O" se BO" + parenbs o3y
+(00°41) (8s'8T) (41°91) (te°6T)
+sexo SPT sex bb T sexe €9T sex OL "T ue ee ee ue co aBy
+
+ee
+involving some individual choice. It is important to note that the observed
+effect of nonfamily living is independent of this effect of residential moves.
+
+Exposure to mass media has no statistically significant negative impact
+on rates of the first marriage involving some individual choice, but media
+exposure has a statistically significant negative impact on rates of the first
+marriage arranged by parents (see table 3). The odds multiplier of .92
+means that those who are exposed to at least one source of media have
+rates of arranged marriage 8% lower than those who have not had ex-
+posure to any of the media sources before their marriage. This finding is
+consistent with our findings from the ordered logistic regression analysis
+and with the idea that mass media promotes the breakdown of existing
+social norms favoring arranged marriage (McQuail 1985).
+
+The effects of participation in youth clubs are also consistent with our
+previous findings. The odds multiplier of 1.23 suggests that young people
+who are members of youth clubs have rates of choice marriage 23% higher
+than do those who never became members of youth clubs (see table 3).
+On the contrary, the odds multiplier of .78 (table 3) indicates that young
+individuals who are members of youth clubs have rates of arranged mar-
+riage 22% lower than do those who are not members of youth clubs.
+Again, the impact of participation in youth clubs is in the direction our
+theoretical framework predicted—it speeds up rates of choice marriage
+and slows down rates of arranged marriage. These effects of participation
+in youth clubs are particularly important because the consequences of
+this type of premarital nonfamily experience have not been documented
+in previous research.
+models of participation in the selection of a spouse also does not change
+the relationships we observe between young people’s premarital non-
+family experiences and their participation in choosing a spouse (not shown
+in tables). Second, we investigated interactions between birth cohort and
+exposure to premarital nonfamily experiences, because unobserved var-
+iation in parental characteristics may be correlated with the birth cohort
+of their children. However, this investigation did not produce any evidence
+of significant interactions between birth cohort and young people’s pre-
+marital nonfamily experiences (not shown in tables). Thus, our investi-
+gation did not identify empirical evidence of parental-generation expla-
+nations for the effects of premarital nonfamily experiences on marital
+arrangement that we observe. Of course, as with all observational study
+designs, we cannot eliminate the possibility that other parental charac-
+teristics we have not observed produce the relationships we do observe—
+investigation of this possibility remains an important subject for future
+research.
+
+However, the history of the setting we study may provide part of the
+explanation for our failure to identify parental characteristics that explain
+the relationship between premarital nonfamily experience and partici-
+pation in spouse choice. Because our study site has only recently begun
+to experience a wide array of contextual changes, these changes have
+created a great deal of variance across the generations. In one generation
+neither the parents nor children had the opportunity to experience these
+changes, in the next generation parents did not have the opportunity but
+some of their children did, and in the following generation both the parents
+and their children will be exposed to these changes. Our study of this
+setting corresponds to a historical period in which the parents of our
+respondents (who were born in 1971 and earlier) are characterized by
+little exposure to nonfamily experiences. As a result there is little variance
+in nonfamily experience among the parental generation to explain vari-
+ations in their children’s behavior. As this generation of young people
+ages and becomes parents themselves, stronger intergenerational influence
+on behavior may be observed.
+
+Ethnographic evidence from rural Nepal is consistent with this expla-
+nation. Detailed studies of the courtship behavior of young people indi-
+cates that the shift from arranged marriage to love marriage is associated
+with the young people’s exposure to formal schooling, magazines, love
+letters, novels, and watching Hindi and Nepali films (Ahearn 2004). These
+findings are quite consistent with the empirical results we summarized in
+tables 2 and 3.
+CONCLUSION
+
+To summarize, we expected positive effects of nonfamily experiences on
+the participation of unmarried youth in the choice of their spouse, and
+that is what we found. The results from both ordered-logistic-regression
+models and discrete-time hazard models provide strong evidence of a
+positive association between nonfamily experiences and greater partici-
+pation in the choice of a spouse. The findings associated with nonfamily
+schooling, nonfamily employment, and nonfamily living are consistent
+with previous studies of mate choice in Taiwan, Japan, China, Europe,
+and India (Caldwell et al. 1983; Smith 1973; Thornton and Lin 1994;
+Tilly and Scott 1978; Whyte 1990). However, we have gained a number
+of insights into the processes of social change that may drive changes
+from arranged marriage to individually chosen consensual unions by ex-
+ploring the effects of media exposure and participation in youth clubs.
+
+Increasingly, both social scientists and policy makers are beginning to
+argue that exposure to the mass media may have important consequences
+for family formation and dissolution processes. The evidence we present
+is consistent with that idea. In this rural agrarian setting, in which vir-
+tually all marriages were arranged by parents only decades ago, exposure
+to the media increases the chances that young adults will themselves
+participate in the choice of their future husband or wife. The fact that
+this strong effect is independent of a broad range of other nonfamily
+experiences and other individual and family characteristics only serves to
+underscore the importance of this mechanism of change. It is quite likely
+that those who are exposed to the media in this setting, through radio,
+television, or the movies, are coming in contact with new ideas and foreign
+examples of behavior, originating predominantly in Western Europe and
+the United States. These messages from Western countries include the
+information that those who are the very richest in today’s world chose
+their own spouse and do not necessarily marry a person of their parents’
+choosing. These messages may also indicate that independence from par-
+ents and exercising one’s own decision-making prerogatives may help in
+the goal of social mobility and achievement of the good life. These pow-
+erful messages may have important implications for behavior producing
+the relationship between media exposure and the participation in spouse
+choice we document here (Thornton 2001, 2005). This message also ap-
+pears to be an important element in leading many more young people to
+be involved in the choice of their spouse.
+
+Youth clubs provide a venue for interaction among same-age unmarried
+youths. Participation in these clubs may be stimulated by other nonfamily
+experiences, such as school or work, but the clubs themselves provide an
+opportunity for the discussion and exchange of ideas, as well as an op-
+portunity for meeting potential spouses, that probably goes beyond what
+comes from school and work alone. So, it is not surprising to find that in
+models that combine the effects of multiple nonfamily experiences, par-
+ticipation in youth clubs remains an important determinant of partici-
+pation in spouse choice even when the effects of nonfamily school and
+work are greatly reduced. The ideas about alternative forms of marriage
+and feelings of independence that may be fostered in these groups prob-
+ably fuel young peoples’ drive to have some say in the choice of their
+marital partner. The exposure to potential mates undoubtedly increases
+the chances that club participants will have their own ideas about a likely
+spouse as well. Together, it is not surprising that the various dimensions
+of participation in these clubs increases the chances that young adults
+will have some input into the choice of their spouses. Social changes that
+stimulate the proliferation of such youth clubs, are, thus, quite likely to
+reduce the prevalence of parental-arranged marriage.
+
+We began by expanding our focus on the relationship between non-
+family experiences and participation in the choice of a spouse. Unlike
+most of the previous studies that focus on only a few nonfamily experi-
+ences, such as schooling and employment, this study examines the effects
+of five nonfamily experiences on participation in the choice of spouse. We
+examine the effect of schooling experiences, nonfamily employment, non-
+family living, exposure to media, and participation in youth clubs before
+marriage. The results of our analyses broadly support our hypotheses that
+nonfamily experiences increase the participation in the choice of first
+spouse. However, our analyses also reveal that the new nonfamily ex-
+periences, which we added in this study, have robust effects on the choice
+of spouse. In fact, the effects of nonfamily living, media exposure, and
+participation in youth clubs documented here lead us to argue that future
+research on a wide variety of family formation and dissolution processes
+should include consideration of these same factors.
+
+Finally, the strong influence of mass media and schooling trends in
+bringing changes in mate choice is important in interpreting marital
+trends. It suggests that ideational forces have been especially important
+elements of marital change and should play a more central and significant
+role in studies of family change.
+Magaras in Nepal. Ph.D. dissertation. University of Michigan, Ann Arbor,
+
+Department of Anthropology.
+
+. 2004. Invitation to Love: Literacy, Love Letters, and Social Change in Nepal.
+Ann Arbor: University of Michigan Press.
+
+Allison, Paul D. 1982. “Discrete-Time Models for the Analysis of Event Histories.
+61-98 in Sociological Methodology, edited by Samuel Leinhardt. San Franci:
+Jossey-Bass.
+
+Axinn, William G., and Jennifer S. Barber. 1997. “Living Arrangements and Family
+Formation Values in Early Adulthood.” Journal of Marriage and the Family 59 (3):
+595-611.
+
+. 2001. “Mass Education and Fertility Transition.” American Sociological
+Review 66 (4): 481-505.
+
+Axinn, William G., Marin E. Clarkberg, and Arland Thornton. 1994. “Family Influence
+on Family Size Preference.” Demography 31 (1): 65-79.
+
+Axinn, William G., L. D. Pearce, and D. Ghimire. 1999. “Innovations in Life History
+Calendar Applications.” Social Science Research 28:243-64.
+
+Axinn, William G., and S. Yabiku. 2001. “Social Change, the Social Organization of
+Families, and Fertility Limitation.” American Journal of Sociology 106 (5): 1219-61.
+
+Banerjee, Sir Gooroodass. 1984. The Hindu Law of Marriage and Stridhana. 4th ed.
+Delhi: Mittal.
+
+Barber, J., G. Shivakoti, W. G. Axinn, and K. Gajurel. 1997. “Sampling Strategies for
+Rural Settings: A Detailed Example from the Chitwan Valley Family Study Nepal.”
+Nepal Population Journal 6 (5): 193-203.
+
+Belli, R. F. 1998. “The Structure of Autobiographical Memory and the Event History
+Calendar: Potential Improvements in the Quality of Retrospective Reports in
+Surveys.” Memory 6:383-406.
+
+Bengtson, V. L. 1975. “Generation and Family Effects in Value Socialization.” American
+Journal of Sociology 40 (3): 358-71.
+
+Bennett, Lynn. 1983. Dangerous Wives and Sacred Sister: Social and Symbolic Roles
+of High Caste Women in Nepal. New York: Columbia University Press.
+
+Berreman, Gerald D. 1972. Hindus of the Himalayas: Ethnography and Change. 2d
+ed. Berkeley: University of California Press.
+
+Beutel, Ann, and William G. Axinn. 2002. “Social Change, Gender, and Educational
+Status Attainment.” Economic Development and Cultural Change 51 (1): 109-34.
+
+Bista, D. B. 1972. People of Nepal. Kathmandu: Ratna Pustak Bhandar.
+
+Blaikie, P., J. Cameron, and D. Seddon. 1980. Nepal in Crisis: Growth and Stagnation
+at the Periphery. Delhi: Oxford University Press.
+
+Caldwell, J. C. 1982. Theory of Fertility Decline. London: Academic Press.
+
+Caldwell, J. C, P. H. Reddy, and P. Caldwell. 1983. “The Causes of Marriage Change
+in South India.” Population Studies 37:343-61.
+
+. 1988. The Causes of Demographic Change: Experimental Research in South
+India. Madison: University of Wisconsin Press.
+
+Cooksey, E. C., E. G. Menaghan, and S. M. Jekielek. 1997. “Life-Course Effects of
+Work and Family Circumstances on Children.” Social Forces 76 (2): 637-65.
+
+Dahal, D. R. 1993. “Rethinking Fertility Transition: Some Observation from Nepal.”
+Pp. 49-58 in Population Dynamics in Nepal, edited by Bal Kumar K. C. Kathmandu:
+Tribhuvan University, Central Department of Population Studies.
+
+Dastider, Mollica. 1995. Religious Minorities in Nepal. New Delhi: Nirala.
+
+Demaris, Alfred. 1992. Logit Modeling: Practical Application. London: Sage.
+
+Dyson, T., and M. Moore. 1983. “On Kinship Structure, Female Autonomy and
+Demographic Behavior in India.” Population and Development Review 9 (1): 35-60.
+
+Freedman, D., A. Thornton, D. Camburn, D. Alwin, and L. Young-DeMarco. 1988.
+“The Life History Calendar: A Technique for Collecting Retrospective Data.”
+Sociological Methodology 18:37-68.
+Fricke, T. E. 1986. Himalayan Households: Tamang Demography and Domestic
+Processes. Ann Arbor, Mich.: University Microfilms Research Press.
+
+Fricke, T. E., and A. Thornton. 1991. “Rethinking Marital Transitions: Social Change,
+Marriage Process, and Inter-Familial Relation in Two Nepali Communities.” Paper
+presented at the annual meeting of the Population Association of America,
+Washington, D.C., March.
+
+Ghimire, D. J. 2004. “The Social Context of First Birth Timing in Nepal.” Paper
+presented at the annual meeting of the Population Association of America, Boston,
+April.
+
+Goode, W. J. 1970. World Revolution and Family Patterns. New York: Free Press.
+
+Guneratne, Upali Arjun. 1994. “The Tharus of Chitwan: Ethnicity, Class and the State
+in Nepal.” Ph.D. dissertation. University of Chicago, Department of Anthropology.
+
+Gurung, H. B. 1980. Vignettes of Nepal. Kathmandu: Sajha Prakashan.
+
+. 1998. Nepal Social Demography and Expressions. Kathmandu: New Era.
+
+Hagan, John, R. MacMillan, and B. Wheaton. 1996. “New Kid in Town: Social Capital
+and the Life Course Effects of Family Migration on Children.” American Sociological
+Review 61 (3): 368-85.
+
+Hofer, Andras. 1979. The History of the Muluki Ain: The Caste Hierarchy and the
+State in Nepal: A Study of the Muluki Ain of 1854. Innsbruck: Universitatsverlag
+Wanger.
+
+Janowitz, Morris. 1981. “Mass Media: Institutional Trends and Their Consequences.”
+Pp. 303-21 in Reader in Public Opinion and Mass Communication, edited by M.
+Janowitz and P. M. Hirsch. New York: Free Press.
+
+Lesthage, Ron. 1983. “A Century of Demographic and Cultural Change in Western
+Europe: An Exploration of Underlying Dimensions.” Population and Development
+Review 9 (3): 411-35.
+
+Macfarlane, Alan. 1976. Resource and Population: A Study of the Gurung of Nepal.
+London: Cambridge University Press.
+
+. 1986. “Who Controls the Marriage Decision?” Pp. 119-47 in Marriage and
+Love in England: Modes of Reproduction, 1300-1840, edited by Alan Macfarlane.
+New York: Basil Blackwell.
+
+Majupuria, I., and T. C. Majupuria. 1989. Marriage Customs in Nepal: Traditions and
+Wedding Ceremonies among Various Nepalese Ethnic Groups. Bangkok: Craftsman.
+
+Malhotra, Anju. 1991. “Gender and Changing Generational Relations: Spouse Choice
+in Indonesia.” Demography 28 (4): 549-70.
+
+McQuail, D. 1985. “Sociology of Mass Communication.” Annual Review of Sociology
+11:93-111.
+
+Morgan, S. Philip, and B. Niraula. 1995. “Gender Inequality and Fertility in Two
+Nepali Villages.” Population and Development Review 21 (3): 541-61.
+
+Petersen, Trond. 1991. “The Statistical Analysis of Event Histories.” Sociological
+Methods and Research 19:270-323.
+
+Preston, H. S. 1989. “The Social Sciences and the Population Problem.” Pp. 1-26 in
+Demography as an Interdiscipline, edited by J. Mayone Stycos. New Brunswick,
+N,J.: Transaction.
+
+Rindfuss, Ronald R., and S. P. Morgan. 1983. “Marriage, Sex and First Birth Interval:
+The Quiet Revolution in Asia.” Population and Development Review 9 (2): 259-78.
+
+Sewell, W. H., R. M. Hauser, and W. C. Wolf. 1980. “Sex, Schooling and Occupational
+Status.” American Journal of Sociology 86 (3): 551-83.
+
+Shivakoti, G., W. G. Axinn, P. Bhandari, and N. Chhetri. 1997. “The Impact of
+Community Context on Land Use in an Agriculture Society.” Population and
+Environment 20 (3): 191-213.
+
+Smith, D. S. 1973. “Parental Power and Marriage Patterns.” Journal of Marriage and
+the Family 35:419-28.
+Srinivas, M. N. 1956. “A Note on Sanskritization and Westernization.” Far Eastern
+Quarterly 15 (4): 481-96.
+
+Thornton, Arland. 2001. “The Development Paradigm, Reading History Sideways and
+Family Change.” Demography 38 (4): 449-65.
+
+. 2005. Reading History Sideways: The Fallacy and Enduring Impact of the
+Developmental Paradigm on Family Life. Chicago: University of Chicago Press.
+
+Thornton, Arland, William G. Axinn, and Jay D. Teachman. 1995. “The Influence of
+School Enrollment and Accumulation on Cohabitation and Marriage in Early
+Adulthood.” American Sociological Review 60 (5): 762-74.
+
+Thornton, A., J.S. Chang, and Hui-Sheng Lin. 1994. “From Arranged Marriage toward.
+Love Match.” Pp. 148-77 in Social Change and the Family in Taiwan, edited by
+Arland Thornton and Hui-Sheng Lin. Chicago: University of Chicago Press.
+
+Thornton, A., J. S. Chang, and L. S. Yang. 1994. “Determinants of Historical Change
+in Marital Arrangements, Dating, and Premarital Sexual Intimacy and Pregnancy.”
+Pp. 178-201 in Social Change and the Family in Taiwan, edited by Arland Thornton
+and Hui-Sheng Lin. Chicago: University of Chicago Press.
+
+Thornton, Arland, Mcing-Cheng Chang, and Te Hsiung Sun. 1984. “Social and
+Economic Change, Intergenerational Relationships, and Family Formation in
+Taiwan.” Demography 21 (4): 475-99.
+
+Thornton, A., and T. Fricke. 1987. “Social Change and the Family: Comparative
+Perspective from the West, China and South Asia.” Sociological Forum 2 (4): 746-72.
+
+Thornton, A., T. Fricke, L. S. Yang, and J. S. Chang. 1994. “Theoretical Mechanisms
+of Family Change.” Pp. 88-115 in Social Change and the Family in Taiwan, edited
+by Arland Thornton and Hui-Sheng Lin. Chicago: University of Chicago Press.
+
+Thornton, A., and Hui-Sheng Lin. 1994. Social Change and the Family in Taiwan.
+Chicago: University of Chicago Press.
+
+Tilly, Louise A., and Joan W. Scott. 1978. Women, Work and Family. New York: Holt,
+Rinehart and Winston.
+
+Tsuya, N. O., and M. K. Choe. 1991. “Changes in Intra-Familial Relationship and
+Roles of Women in Japan and Korea.” Paper presented at the annual meeting of
+the Population Association of America, Washington, D.C., March.
+
+UNICEF. 1998. Children and Women of Nepal: A Situation Analysis. Kathmandu:
+UNICEF.
+
+Waite, L. J., F K. Goldscheider, and C. Witsberger. 1986. “Non-family Living and the
+Erosion of the Traditional Family Orientation among Young Adults.” American
+Sociological Review 51 (4): 541-54.
+
+Whyte, M. K. 1990. “Changes in Mate Choice in Chengdu.” Pp. 181-213 in Chinese
+Society on the Eve of Tiananmen: The Impact of Reform, edited by Deborah Davis
+and Ezra F. Vogel. Cambridge: Harvard University, Council on East Asian Studies.
+
+Wu, Lawrence L. 1996. “Effects of Family Instability, Income, and Income Instability
+on the Risk of a Premature Birth.” American Sociological Review 61 (3): 386-406.
+
+Wu, Lawrence L., and Brian C. Martinson. 1993. “Family Structure and the Risk of
+a Premarital Birth.” American Sociological Review 58 (2): 210-32.
+
+Yabiku, S. T. 2004. “Marriage Timing in Nepal: Organizational Effects and Individual
+Mechanisms.” Social Forces 83 (2): 559-86.
+
+. 2005. “The Effect of Non-family Experiences on Age of Marriage in a Setting
+
+of Rapid Social Change.” Population Studies 59 (3): 339-54.

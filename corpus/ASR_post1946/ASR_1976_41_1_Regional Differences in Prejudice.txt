@@ -1,0 +1,1927 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+Perrow, C.
+
+1961 “The analysis of goals in complex organiza-
+tions.’? American Sociological Review
+26:854-66.
+
+Pugh, D., D.J. Hickson, C.R. Hinings and C. Turner
+
+1969 “The context of organizational structures.”
+Administrative Science Quarterly
+14:91-114.
+
+Reimann, B.
+
+1973 “On the dimensions of bureaucratic struc-
+ture.” Administrative Science Quarterly
+18:462-76.
+
+1974 “Organizational ‘Public Values’ and struc-
+ture: an exploratory study.” Presented at
+the sixth annual meeting of the American
+Institute of Decision Making Sciences, At-
+lanta, Georgia.
+
+Reeves, T. and J. Woodward
+
+1970 “Technology and organizational behavior.”
+
+Pp. 37-56 in Joan Woodward (ed.), Indus-
+Analysis of a 1964 national survey reveals that residents of the South displayed a much higher
+level of anti-black prejudice than residents of the non-South, but the regions differed only
+slightly on measures of anti-Semitism and anti-Catholic and anti-immigrant prejudice and on
+certain psychological measures—authoritarianism, anomia and psychic distress. Though the
+mean level of anti-black prejudice was higher in the South, the variation of individuals around
+the mean in each region can be explained by roughly the same variables operating for the most
+part in the same way. The regional differences in anti-black prejudice cannot be accounted for
+by compositional differences between the regions in psychological characteristics, degree of
+urbanization, socioeconomic status or ethnic composition. Those who spent most of their
+childhood in one region but later moved to the other had attitudes toward blacks that were
+intermediate between those of the nonmigrants in each region; this pattern was not present for
+the other types of prejudice. The evidence presented tends to support a subcultural interpreta-
+tion of the higher level of anti-black prejudice in the South in 1964.
+One of the central issues in the study of
+prejudice is the extent to which prejudice may
+be explained as a consequence of personality
+and psychological factors or as the result of
+socialization to cultural beliefs and norms of
+prejudice. Psychological explanations of pre-
+judice have been very popular since the publi-
+cation of The Authoritarian Personality
+(Adorno et al., 1950), but many sociologists
+(e.g., Rose, 1956; Pettigrew, 1958; 1959;
+Rhyne, 1962) have insisted that cultural or
+subcultural norms are a major source of at
+least some types of prejudice. Pettigrew
+(1958) and Rhyne (1962) carried out small
+studies that suggested that anti-black preju-
+dice was greater in the South than in other
+regions of the U.S. and that the regional dif-
+ference could not be attributed to psycho-
+logical factors. They concluded that the great-
+er anti-black prejudice in the South was prob-
+ably due to a special set of norms embedded
+in the southern subculture. Building on the
+work of Pettigrew and Rhyne, I shall argue
+along the same lines in this paper, though I
+shall employ a national sample, a greater vari-
+ety of measures of prejudice and psycho-
+logical characteristics, and more complex
+analytic techniques. I shall also consider a
+number of related questions that the earlier
+authors touched on only briefly or not at all.
+More specifically, I shall attempt to answer
+the following questions:
+
+(1) Is there a higher level of prejudice
+toward blacks, Jews, Roman Catholics and im-
+migrants in the South than in other regions?
+Do persons in the South and in other regions
+differ with regard to psychological character-
+istics that are generally assumed to be related
+to prejudice? What are the implications of
+these patterns for psychological and subcul-
+tural explanations of prejudice?
+
+(2) Can variations in prejudice within the
+South be accounted for in the same way as
+variations in prejudice within the non-South?
+
+(3) If prejudice toward a given minority is
+higher in the South, can this be attributed to
+the lower educational levels and lesser degree
+of urbanization and economic development of
+majority whites in the South as compared
+with those in other regions? Can we expect
+Regional Differentials
+
+From the great volume of previous surveys
+and research on anti-black prejudice, there can
+be little doubt that overt expressions of anti-
+black prejudice are substantially higher in the
+South (Bureau of Intelligence, 1942; Knapp,
+1944; Roper, 1947; Stouffer et al., 1949;
+Hyman and Sheatsley, 1956; 1964; Erskine,
+1962; 1967; 1967-68; 19684; 1968b;
+1968-69; Brink and Harris, 1963; 1967;
+Gallup Opinion Index, Nos. 1, 3, 7, 12, 14,
+16, 24, 35, 37, 40, 41, 46, 51, 58, 59, 62, 75,
+771; Sheatsley, 1966; Glenn and Simmons,
+1967; Schwartz, 1967; Selznick and Stein-
+berg, 1969; The Harris Survey Yearbook of
+Public Opinion 1970; 1971; Greeley and
+Sheatsley, 1971; Campbell, 1971). As several
+investigators have pointed out, region of resi-
+dence appears to be the most important cor-
+relate of anti-black prejudice; the differences
+between South and non-South are generally
+greater than the differences between various
+population groups within the same region (J.
+Noel, 1971 :62; Schwartz, 1967:48; Sheatsley,
+1966: 311-2). The regional difference in anti-
+black prejudice may be overstated in survey
+results, since outside the South private bigots
+may feel greater constraints to present them-
+selves as tolerant, broadminded citizens in a
+formal interview with a stranger. Yet, if it is
+true that nonsoutherners are more likely than
+southerners to don this artificial mask of
+tolerance, that in itself would suggest that the
+norms outside the South are less supportive of
+anti-black prejudice than those in the South.
+
+If previous research on regional differences
+in anti-black prejudice is relatively clear, the
+same is not true with regard to anti-Semitism.
+In the early years of this century there were
+strains of anti-Semitism and nativism in the
+Populist movement in the South (Roche,
+1963:88-91; Golden, 1965; Lipset and Raab,
+1970:97-9), as well as in the appeals of the
+resurgent Ku Klux Klan of the 1920s JJack-
+son, 1967; Chalmers, 1965). More recently, a
+number of surveys have shown that southern-
+ers are somewhat more likely to accept anti-
+Jewish stereotypes, to say they would reject a
+qualified Jewish candidate for President, and
+to disapprove of intermarriage between Jews
+and non-Jews (Glenn and Simmons, 1967;
+Selznick and Steinberg, 1969; Gallup Opinion
+Index, Nos. 4, 24, 41, 46; R. Williams, 1964;
+Hoge and Carroll, 1973). Evans (1973) main-
+tains that the survey findings are at variance
+with the subjective experience of most
+southern Jews, who generally do not feel that
+they are living in a particular hostile environ-
+ment. There is some evidence that anti-
+Semitic incidents and social discrimination
+against Jews are no more prevalent in the
+South than in most other regions (Anti-
+Defamation League, 1962; Evans, 1973).
+Furthermore, a number of surveys—particu-
+larly those conducted in the 1930s and
+1940s—have found less hostility toward Jews
+in the South than in other sections of the
+country (Erskine, 1965-66:662-3; Knapp,
+1944; Roper, 1946; 1947; Crespi, 1964).
+
+The South, as the heartland of Protestant
+fundamentalism, has a popular reputation for
+anti-Catholicism. Evidence from the historical
+record, however, is mixed. The principal anti-
+Catholic groups in the nineteenth century—
+the “Know Nothings” and the American Pro-
+tective Association—were strongest outside
+the South, particularly in those areas with large
+concentrations of Catholic immigrants (Lipset
+and Raab, 1970:52-61; Kinzer, 1964:178-80).
+Anti-Catholicism was probably the most im-
+portant element in the ideology of the Ku
+Klux Klan in the 1920s, since Klan leaders
+generally considered Catholics to be a greater
+“threat” than the relatively unorganized and
+quiescent blacks (Chalmers, 1965:32-3; Jack-
+son, 1967:20-6). Though southerners were
+somewhat more likely than nonsoutherners to
+join the Ku Klux Klan, the largest part of the
+Klan’s membership in the 1920s was recruited
+outside the South. In fact, the very success of
+the Klan outside the South may have been
+due to its anti-Catholic emphasis. Anti-Cathol-
+icism also played a significant part in the
+Presidential campaigns of Alfred E. Smith in
+1928 and John F. Kennedy in 1960. In both
+campaigns the issue of religion apparently
+aroused greater concern in the South than in
+other regions (Killian, 1970:75-7; Moore,
+1956:145-200; Maddox and Fichter, 1966:53;
+White, 1961:392, 101-8, 251-62). Survey evi-
+dence also points to a somewhat greater
+amount of anti-Catholic feeling in the South
+(Erskine, 1965:495-6; Gallup Opinion Index,
+Nos. 4, 24, 41, 46; Glenn and Simmons,
+1967:185; Stouffer, 1955; Selznick and Stein-
+berg, 1969:116). In a 1947 survey, however,
+Roper (1947) found that the Southeast and
+Southwest did not differ from other regions in
+the percent who said that Catholics were
+getting too much economic and political
+power.
+
+There is only meager evidence available re-
+garding regional differences in attitudes
+toward immigrants, though writers sometimes
+assert that a kind of xenophobia, insularity,
+and distrust of foreigners and outsiders char-
+acterizes the South. Historically, nativist
+movements have probably been stronger out-
+side the South, especially in those areas where
+large numbers of immigrants settled. Surveys
+in recent years, however, generally do showa
+somewhat higher level of anti-immigrant feel-
+ing among southerners (R. Williams, 1964:74;
+Gallup Opinion Index, No. 3).
+
+Most previous investigators have reported
+that residents of the South tend to have some-
+what higher scores on the F Scale measure of
+authoritarianism. These findings have general-
+ly been based on studies of a limited number
+of communities (Noel and Pinkney, 1964) or
+of nonprobability samples of college students
+(Christie and Garcia, 1951; Milton, 1952;
+Smith and Prothro, 1957). On the other hand,
+Pettigrew (1959) found no differences in F
+Scale scores for white adults living in a num-
+ber of small towns in the South and in New
+England. Five F Scale items were included in a
+national survey in 1953, however, and J.
+It is often argued that where there is a
+strong cultural tradition of prejudice toward a
+particular group, authoritarianism and other
+personality factors should play a lesser causal
+role than in those areas where the tradition is
+absent or is less deeply entrenched. According
+to this view, people may acquire prejudice
+through the normal process of socialization
+without necessarily having personality pre-
+dispositions. Attempts to show that the F
+Scale and similar personality measures have
+lower correlations with anti-black prejudice in
+the South than in the non-South, however,
+have generally failed. Siegman (1958) did find
+a correlation between anti-black prejudice and
+the F Scale of .41 for a small sample of col-
+lege students in North Carolina. He argued
+that this was substantially lower than the cor-
+responding average correlation in the original
+authoritarianism studies (Adorno et al., 1950)
+conducted outside the South and concluded
+that “the negative correlates of ethnocentric
+attitudes tend to decrease as the culture
+countenances these attitudes.”’ Most studies,
+however, have found little or no difference in
+the personality and prejudice correlations in
+the different regions (Christie and Garcia,
+1951; Pettigrew, 1958; 1959; Rhyne, 1962;
+Hoge and Carroll, 1973).
+
+There have been a number of similar
+studies of white attitudes toward black Afri-
+cans in South Africa (Pettigrew, 1958; Lever
+et al., 1968; Colman and Lambley, 1970;
+Orpen, 1970; 1971a; 1971b; 1971c; Orpen
+and Rookledge, 1972). The authors have
+generally suggested that the correlations of
+authoritarianism or dogmatism with anti-
+African prejudice were not very high, but in
+the absence of an appropriate comparison
+group, the significance of these findings re-
+mains in doubt. Some of the studies did find
+that measures of general social conformity
+and of general agreement with South African
+values in a variety of other areas were moder-
+ately correlated with anti-African prejudice
+(Pettigrew, 1958; Orpen, 1971b, 1971c).
+Pettigrew (1958) concluded that personality
+factors appeared to be as important as deter-
+minants of prejudice in South Africa as in
+other areas, but that personality factors did
+not in themselves account for the high level of
+prejudice in the sample. Social conformity, he
+believed, was the key.
+
+Many studies have found that attitudes
+toward one minority group tend to be highly
+correlated with attitudes toward other minor-
+ity groups (Harding et al., 1969:15-7), and
+this is usually taken as evidence in support of
+a personality explanation of prejudice. It is
+sometimes argued, therefore, that measures of
+prejudice toward two groups should be less
+highly correlated in those areas where there is
+a strong cultural tradition of prejudice toward
+one of the groups but not toward the other.
+In two early studies, Prothro and Jensen
+(1950) and Prothro (1952) found that in vari-
+ous samples of college students and middle-
+class adults in Louisiana the correlations be-
+tween anti-Semitism and anti-black prejudice
+were lower than in most of the samples in the
+original authoritarianism studies (Adorno et
+al., 1950). Selznick and Steinberg (1969:182)
+also reported that in the South in 1964 some
+35 percent of the people were “high” on anti-
+black prejudice without being “high” on anti-
+Semitism, whereas in the North only 18 per-
+cent showed this pattern. Other studies (Petti-
+grew, 1958; 1959; Rhyne, 1962; Maranell,
+1967), however, have found that anti-
+Semitism and anti-black prejudice were not
+more highly correlated in the North than in
+the South.
+
+Most of the studies mentioned in the pre-
+ceding paragraphs are seriously flawed by
+their dependence on nonprobability conveni-
+ence samples—most often of college or high
+school students. Most of them also simply
+compared correlation coefficients, sometimes
+taken from different studies conducted at dif-
+ferent times and with different instruments.
+The best previous research on this topic is
+probably Pettigrew’s (1959) study of white
+adults in a number of small cities in New
+England and Georgia. Although his hypothesis
+that anti-black prejudice and authoritarianism
+would be more highly correlated in the North
+than in the South was not supported, he did
+find evidence that he believed supported a
+sociocultural interpretation of the high levels
+of anti-black prejudice in the South. He
+argued that women are the “carriers of cul-
+ture” and reflect the mores of a group more
+directly than men. Hence, in the South
+women should be more anti-black than men,
+but in the North men and women should not
+differ significantly. This proved to be the case,
+though the difference was not great in the
+South. Frequent church attenders (versus non-
+attenders) and political party identifiers
+(versus independents) also proved to be more
+prejudiced toward blacks in the South but not
+in the North. Thus, he concluded that those
+whose positions in the social structure should
+be most associated with conformity did tend
+to be more anti-black, but only in the region
+where there was the strongest embedded his-
+torical tradition of anti-black prejudice. There
+are problems, however, even with the Petti-
+grew study. In making these comparisons he
+was able to control only on education, age
+and sex, and the comparisons were made one
+at a time. To accomplish this he employed a
+matching process between comparison groups
+within regions, but this also substantially re-
+duced his sample size for each comparison and
+impaired the representativeness of his samples.
+tributed to the rural character and educational
+and economic backwardness of the whites in
+the region? This indeed has been a popular
+argument among social scientists (Myrdal,
+1944:462-6; Key, 1949:673; Rose, 1956:175;
+Spengler, 1963; Mayo, 1964; Nicholls,
+1964:40; Reissman, 1966). They have pointed
+out that the South is changing rapidly and is
+becoming more like the rest of the United
+States in terms of urbanization, industrializa-
+tion, occupational composition and levels of
+income and education. They have suggested
+that these processes are likely to bring a
+moderation of anti-black prejudice, eventually
+leading to a disappearance of the differential
+between the South and non-South.
+
+Thompson (1963) and Blumer (1965) have
+voiced some skepticism about this argument.
+Both have maintained that urbanization, edu-
+cation and economic development are by
+themselves unlikely to bring a fundamental
+alteration in the structural position of blacks
+in the South. Blumer (1965:325) has written
+that in the transformation of the South “the
+color line was carried over from the old situa-
+tions to the new situations—from the planta-
+tion to the factory, from the rural area to the
+city, from the old institutional settings to the
+new institutional settings.”
+views in the area in which he lives. People who
+through geographic mobility shift from one
+cultural system to another usually neither
+abandon the first nor absorb the second com-
+pletely. There is in most cases a partial ac-
+culturation. Thus, if the subcultural interpre-
+tation is correct, we would generally expect
+persons who were reared and currently live in
+the South to be much more prejudiced against
+blacks than those who were reared and cur-
+rently live in the non-South: Those who were
+reared in the South but who now live in the
+non-South and those who were reared in the
+non-South but now live in the South should
+tend to show intermediate levels of prejudice
+toward blacks. If there are regional subcul-
+tural differences for other types of prejudice,
+we would expect a similar pattern for them
+also. An early study by Sims and Patrick
+(1936) of students at the University of
+Alabama and Ohio State University tended to
+support this view for anti-black prejudice, but
+problems of sampling and self-selection are
+too severe for us to attach much weight to the
+study.
+
+Myrdal, observing the situation in the early
+1940s, believed that the effect of interregional
+migration on anti-black prejudice was asym-
+metric. Those who migrated from the non-
+South to the South, he felt, tended to become
+more prejudiced toward blacks, because “the
+Northerner in the South will find the whole
+community intent upon his conforming to
+local patterns” (Myrdal, 1944: vol. 1, p. 79).
+On the other hand, he believed that southern-
+ers who migrated to the non-South did not
+necessarily become less prejudiced, because
+they met with less concerted pressure to con-
+form. In an analysis of attitudes toward racial
+integration from a 1963 national survey, how-
+ever, Hyman and Sheatsley (1964) and
+Sheatsley (1966) found that almost the re-
+verse was true. Persons who had always lived
+in the North were much more favorable
+toward integration than those who had always
+lived in the South, but northerners who had
+formerly lived in the South were only slightly
+less pro-integration than their neighbors who
+had always lived in the North. Southerners
+who had previously lived in the North, on the
+The data analyzed in this paper come from
+a nationwide survey of 1,975 adults con-
+ducted by the National Opinion Research
+Center in October, 1964. Although the survey
+focused primarily on the topic of anti-Semi-
+tism, it included many questions on anti-black
+prejudice and a few scattered questions on
+other types of prejudice. It is, in fact, prob-
+ably the richest source of data on prejudice
+for a national sample of adults in the United
+States that is currently available. The data are
+now somewhat dated, but the survey remains
+extremely valuable both for the large number
+of questions dealing directly with prejudice
+and for the wealth of background and associ-
+ated variables. The interview schedule, details
+about sampling procedures and basic results
+are published in Selznick and Steinberg
+(1969). That report, however, gives only brief
+and passing attention to regional differences
+in prejudice.
+
+The boundaries of the South and other
+regions of the United States have been defined
+in various ways by different investigators. In
+this analysis I have followed the Census defini-
+tions for the four major regions: South,
+Northeast, North Central and West. According
+to this classification, the South is comprised
+of the eleven states that made up the Con-
+federacy during the Civil War (Virginia, North
+Carolina, South Carolina, Georgia, Florida,
+Tennessee, Alabama, Mississippi, Arkansas,
+Louisiana, Texas) plus a number of Border
+states (Oklahoma, Kentucky, West Virginia,
+Maryland, Delaware, District of Columbia).
+Few disagree over the inclusion of the Con-
+federate states in the “South,” with the possi-
+ble exception of Texas. The Border states are
+more problematic. Yet Reed (1972:15-9) has
+shown that both of these groups of states tend
+to have higher scores than other states on his
+Index of Southern Preference, calculated from
+a set of questions asked by the Gallup Poll in
+1957. In terms of people’s sense of identifica-
+tion with the South, then, the Census cate-
+gorization appears to be meaningful. Further-
+more, Reed has found that residents of these
+southern states tend to differ substantially
+from those in other states in certain other
+characteristics—their sense of attachment to
+the local community, their attitudes toward
+the private use, of force and violence and their
+religious beliefs and practices (see also Glenn
+and Simmons, 1967; Glenn, 1974).
+
+The total number of interviews from the
+survey in each region is as follows: South,
+613; Northeast, 474; North Central, 575;
+West, 313. Within the southern region, there
+are 458 from the former Confederate states
+and 155 from the Border states. When I exam-
+ined prejudice toward a particular group, I ex-
+cluded members of that group from the sam-
+ple. There are 244 blacks, 61 Jews, 511
+Roman Catholics, and 152 foreign-born per-
+sons in the total sample of 1975. Hence, in
+most cases in the analysis the sample size was
+somewhat reduced. I employed the entire
+sample, however, in determining whether or
+not there were regional differences in the per-
+sonality variables.
+
+To measure personality variables and the
+various types of prejudice toward minorities, I
+constructed a number of scales. My first step
+in the construction of a scale was to carry out
+a factor analysis of those items from the sur-
+vey that appeared to me to be substantively
+relevant. I employed Rao’s canonical factor
+analysis (Rao, 1955) and examined the result-
+ing factor loadings both before and after a
+varimax rotation. I then selected those items
+that appeared to be clustered together and
+subjected them to item analysis procedures. I
+examined item to total correlations with a
+Cureton correction (Cureton, 1966) and cal-
+culated alpha reliability coefficients (Cron-
+bach, 1951) for different combinations of
+items. Generally, I selected the combination
+of items that yielded the highest alpha for the
+final scale. I also employed Heise and Bohrn-
+stedt’s factor analytic approach to calculate
+validity (P+s), invalidity (w,) and reliability
+(2) coefficients (Heise and Bohrnstedt, 1970;
+Smith, 1974). These calculations were based
+on separate factor analyses (Rao’s canonical)
+for the items of each scale. The number of
+factors extracted in each case was equal to the
+number of eigenvalues greater than one (up to
+a maximum of nine factors). The coefficients
+were calculated from the loadings on the first
+unrotated factor.
+
+The items included in each of the person-
+ality and prejudice measures and the validity,
+invalidity and reliability coefficients for the
+scales are shown in Appendix A. The items
+were scored by assigning numbers in serial
+order to the responses, logically ordered. For
+missing data, the integer nearest the mean was
+assigned. The item scores were then trans-
+formed to standard scores with a mean of zero
+and a standard deviation of one. The standard
+scores for all the items constituting a scale
+were summed, and then the total scale scores
+were converted to transformed standard
+scores with a mean of 50 and a standard devia-
+tion of 15.
+
+In the analysis, I have used three social
+psychological variables theoretically related to
+prejudice: the F Scale, anomia and psychic
+distress. The F Scale is composed of five items
+taken from Forms 40 or 45 of the original
+scale developed by Adorno et al. (1950), and
+is designed to measure authoritarian or anti-
+democratic tendencies. The Anomia Scale,
+purportedly measuring a subjective sense of
+normlessness, consists of three items taken
+from the Srole (1956) scale. Actually, the
+factor analyses revealed that all of the F Scale
+and Anomia items had high loadings on the
+same rotated factor, which raises a question
+whether they are really tapping different
+dimensions of attitudes or personality. Be-
+cause there is a substantial theoretical and re-
+search tradition behind each of these con-
+cepts, however, I have retained them as separ-
+ate variables. The other personality variable,
+Psychic Distress, is distinct in the factor analy-
+sis. I have included in the measure the five
+items employed by Selznick and Steinberg
+(1969) in their measure of “psychic inade-
+quacy” plus one other. The variable is intend-
+ed as a measure of general psychological dis-
+tress, since it is sometimes contended that pre-
+judice serves as a crutch for “crippled” per-
+sonalities. Types of distress included in the
+measure are general worry, finding oneself un-
+able to solve problems that come up, feeling
+lonely, tending to go to pieces in a crisis, feel-
+ing unhappy, and worrying quite a bit about
+what other people think of one.
+
+To measure anti-black prejudice, I con-
+structed a scale consisting of ten items dealing
+with the acceptance of stereotyped beliefs
+about blacks and support for discriminatory
+practices toward blacks. In a factor analysis all
+ten items had high loadings on the first un-
+rotated factor. Selznick and Steinberg (1969:
+175) used only five of these items for
+their Index of Anti-Negro Prejudice, but
+the reliability of the scale is improved by the in-
+clusion of the other five available items as well.
+Unfortunately, eight of the ten items are
+worded in such a way that an “agree” or “yes”
+answer indicates prejudice. Thus, it is possible
+that the measure may be contaminated to some
+degree by an acquiescence response bias.
+
+Since the survey was primarily concerned
+with anti-Semitism, a great many items were
+available for the construction of measures of
+this type of prejudice. A factor analysis of
+these items revealed that most of them had
+high loadings on the first unrotated factor.
+For both theoretical and methodological rea-
+sons, however, I chose to construct two differ-
+ent scales to measure anti-Semitism. The first
+is an Anti-Semitic Beliefs Scale consisting of
+23 items that appear to measure primarily the
+cognitive dimension of prejudice—the accept-
+ance of negative beliefs and stereotypes about
+Jews. The scale is similar in nature to the
+11-item Index of Anti-Semitic Belief utilized
+by Selznick and Steinberg (1969:22), but the
+longer scale has a somewhat higher reliability
+(Q = .897). Jackman (1973) points out that
+all of the items in the Selznick and Steinberg
+scale are in the same “direction’’—that is, a
+“yes” or “true” answer indicates prejudice—
+and she maintains that the scale is heavily con-
+founded with an education-related acquies-
+cence response bias. Since 19 of the 23 items
+in the longer scale are also in the same “‘direc-
+tion,” acquiescence response bias is also a pos-
+sibility here.
+
+Fortunately, the survey contains a number
+of other questions about Jews that are not in
+an “agree-disagree” format and thus are not
+subject to “yeasaying” tendencies. These
+questions reflect primarily the affective and
+conative dimensions of prejudice—expressions
+of hostility toward Jews and support for dis-
+criminatory treatment of Jews. Jackman
+(1973), in her analysis of the data, used three
+of these items to construct an Anti-Semitism
+Scale of Social Distance Feelings. I have con-
+structed a similar Hostility Toward Jews Scale
+that includes Jackman’s three items plus six
+others. All nine items have reasonably high
+loadings on the first unrotated factor in a
+factor analysis, and the nine-item scale has a
+reliability (2) of .696. The Hostility Toward
+Jews Scale, then, differs from the Anti-
+Semitic Beliefs Scale in two ways: it taps
+primarily the affective and conative rather
+than the cognitivie dimensions of anti-
+Semitism, and it is clearly not subject to an
+acquiescence response bias"
+The final two measures of prejudice are
+based on single questions. Those who agreed
+that “Catholics are getting too much power in
+the United States” were coded as anti-Cath-
+olic. If they answered “‘Yes-True” to the state-
+ment, “It bothers me to see immigrants suc-
+ceeding more than Americans who were born
+here,” they were considered to be anti-im-
+migrant. These two measures have obvious
+limitations. Their variance is limited by their
+dichotomous nature, they are subject to ac-
+quiescence response bias, and their reliability
+is unknown. More adequate measures cannot
+be constructed, however, from the items that
+were included in the survey.
+
+Throughout the analysis I have employed
+the .05 criterion level (two-tailed) in tests of
+Mean scores for the various types of prej-
+udice and personality characteristics are pre-
+sented in Table 1 for each of the major
+tegions of the United States. The South is
+further subdivided into a “Confederate”
+group of states that are unambiguously
+“southern” in culture and a “Border” group
+of states that appear to be marginal culturally
+as well as geographically.
+
+The South has significantly higher means
+for all types of prejudice except Anti-Catholic
+Prejudice, but the regional differences are
+generally small. It is only in the case of Anti-
+Black Prejudice that the South has a substan-
+tially higher mean score than the non-South.
+The Confederate states have the highest level
+of Anti-Black Prejudice, the Border states are
+second, and the three nonsouthern regions
+range much lower, with the West being par-
+ticularly low. For the other types of prejudice
+there are only slight regional variations. The
+means.
+
+The fact that there is a large difference be-
+tween the South and non-South for Anti-
+Black Prejudice but not for the other types of
+prejudice constitutes something of an embar-
+rassment to most personality theories of prej-
+udice. These theories tend to emphasize in-
+dividual personality predispositions to prej-
+udice and do not give adequate attention to
+the question of why certain minorities are
+singled out as targets for prejudice. If prej-
+udice were a simple function of personality
+predispositions, one would expect each of the
+types of prejudice to behave in essentially the
+same way. Furthermore, one would expect to
+find sharp regional differences in a particular
+type of prejudice only if there were also major
+regional differences in associated personality
+traits. In Table 1 we see that persons living in
+the South do have significantly higher means
+on the F Scale, and the Anomia Scale and the
+Psychic Distress Scale. The regional differ-
+ences, however, are small and do not appear
+to be sufficiently large to account for the
+higher level of Anti-Black Prejudice in the
+South. If one does attempt to argue that the
+slightly higher scores of the southerners on
+the psychological scales are sufficient to ex-
+plain their much higher scores on Anti-Black
+Prejudice, it becomes very difficult to explain
+why there are not differences of the same
+magnitude for the other measures of prejudice
+as well. I believe that the patterns of the data
+tend rather to support a subcultural view. A
+special regional subculture appears to be
+responsible for the substantially higher level
+of Anti-Black Prejudice among those living in
+the South—particularly those in the states of
+the old Confederacy.
+
+In the next step of the analysis, I sought to
+examine the contention of a number of soci-
+ologists and social psychologists that certain
+psychological factors play a lesser role in prej-
+udice toward a group when there is a deeply
+embedded cultural tradition of hostility
+toward that group. If they are correct, we
+would thus expect that the factors associated
+with anti-black prejudice would differ in the
+South and the non-South, but we would not
+expect to find such differences for the other
+types of prejudice. To test these contentions,
+I employed a multiple regression framework
+with a full set of interaction terms for region.
+In the regressions for each type of prejudice, I
+included dummy variables for southern
+residence, rural (versus urban) residence, occu-
+pation of head (white-collar versus blue-collar,
+farm versus nonfarm), minority status (black,
+Jewish, Roman Catholic, foreign-born), plus
+years of education and family income. I also
+included each of the personality variables and
+each of the other prejudice variables to test
+whether it was really true that these were less
+highly associated with anti-black prejudice in
+the South. In addition, I included some of the
+measures that Pettigrew suggested were associ-
+ated with social conformity: female status, be-
+ing a political party identifier (versus inde-
+pendent), and frequency of attendance at
+religious services (9-point scale). If Pettigrew
+is correct, then each of these variables should
+be more highly related to anti-black prejudice
+in the South than in the non-South. I added a
+dummy variable for age status (40 and over
+versus under 40), since one could argue that
+the cultural norms for anti-black prejudice
+have changed more rapidly in the South than
+in the non-South, and hence age should be
+more highly associated with prejudice in the
+South than in the non-South.
+
+After first computing regressions for each
+Anti- Hostil- — Anti- Anti-
+
+ 
+
+ 
+
+Black —Anti- ity Catholic Immigrant
+Preju- Semitic toward Preju- Preju-
+Independent Variables dice Beliefs Jews dice dice
+Constant 5.26 12.29* 23.58* 23.70* 23.16*
+Residence in South = 1
+Non-South = 0 31.14* -11.16* 9.35 3.80 8.58
+Rural = 1, Urban = 0 52 1.07 2.66* 93 1.74
+X South 08 53 “177 +13 ~.44
+Years of Education -.37* “11 +37 +27 +15
+X South 48 05 02 01 49
+Head in White Collar
+Occupation = 1
+Other =0 +19 82 +23 73 -.87
+X South 32 42 02 1.05 92
+Head in Farm Occupation
+=1, Other =0 2.77 2.94* 4.10* 1.36 -3.41*
+X South 2:21 -4.81* -5.18* 49 1.03
+Family Income .46* -.05 +17 +25 01
+X South -51* -46* 44 -.26 ~17
+Black = 1, Other = 0 2.81 08 -4.18* 7.38*
+X South 2.34 87 4.74 2.88
+Jewish = 1, Other = 0 -5.02* 4.22 2.41
+X South -2.82 1.30 -3.50
+Roman Catholic = 1,
+Other =0 74 22 1.16 1.60
+X South -7.39* — -1.02 -2.22 44
+Foreign-born = 1,
+Other = 0 41 4.00* 16 2.40
+X South -11.06* 25 +85 4.21
+Age 40 & Over = 1,
+Under 40 =0 77 1.02 2.23* 1.04 -1.32
+X South -2.04 +62 +91 -2.12 2.13
+Female = 1, Male = 0 a7 2.99 32 99 -1.32
+X South -3.24* -.80 2.09 -1.08 84
+Political Independent = 1,
+Other =0 +68 42 1.20 -.93 24
+X South 1.29 -2.19 67 01 1.04
+Attendance at Religious
+Services +.20 1 .34* -28 +24
+X South 45 +22 32 64 10
+F Scale .22* .08* 03 .08* -14*
+X South -.08 .19* 07 -.09 .01
+Anomia .16* okie .09* .10* 05
+X South +05 -.02 01 03 +01
+Psychic Distress 04 00 -.05 05 .08*
+X South 04 00 .07 06 03
+Anti-Black Prejudice .24* .30* 06 03
+X South -.06 -.06 01 03
+Anti-Semitic Beliefs .15* .15* .16*
+X South -.04 +01 01
+Hostility toward Jews .26* 05 06
+X South -.10 06 10
+Anti-Catholic Prejudice 03 eS .09* .09*
+X South 00 05 .06 01
+Anti-Immigrant Prejudice 02 -16* .10* .09*
+X South 03 00 06 -.02
+R2 without interaction
+terms -4372* = .3168* .2966*  .2050* -2041*
+R2 with interaction terms -4517* — .3302* .3098* = .2151* .2093*
+Increments to R2 from
+interactions .0145*  .0134* .0132* = .0101 0052
+* p<.0s.
+
+4 See footnotes to Table 1 for sample exclusions and sample size for each of the types of
+prejudice.
+Table 2. Regression Coefficients for the Regression of Measures of Prejudice on Southern Residence, Other
+Characteristics and Interactions between Southern Residence and Other Characteristics, United
+
+States, 19642
+Neen ee eee
+type of prejudice with these additive terms, I
+computed a second set of regressions includ-
+ing a complete set of regional interaction
+terms, created by multiplying each of the
+original independent variables by the dummy
+variable for southern residence. The regression
+coefficients for the interaction models are pre-
+sented in Table 2. In reading the table, one
+should keep in mind that the effect of a given
+independent variable in the non-South may be
+read directly from the table as the coefficient
+for the original variable (unmultiplied by
+southern residence). To find the effect in the
+South, one must add the coefficients for the
+original variable and the corresponding inter-
+action variable. For example, in the non-
+South, rural residents are .52 points higher on
+Anti-Black Prejudice than are urban residents.
+In the South, rural residents are .60 points
+(.52 + .08) higher than urban residents—net of
+other variables. If an interaction term is
+statistically signfiicant (p < .05), it means that
+the South and the non-South differ signifi-
+cantly in the extent to which the independent
+variable is related to the measure of prejudice.
+
+At the bottom of Table 2 the values of the
+coefficient of determination (R,) are shown
+for both the additive and the interaction
+models, plus the increments to Rz asa con-
+sequence of including the interaction terms. It
+may be seen that the increments to R, are
+quite small in the case of each type of prej-
+udice. The F ratio tests of the increments to
+R,, are statistically significant in the case of
+Anti-Black Prejudice, Anti-Semitic Beliefs and
+Hostility Toward Jews, but in no case does
+the increment exceed .0145. The increment is
+greatest for Anti-Black Prejudice, just as previ-
+ous theory predicted, but this figure is actual-
+ly only a tiny fraction higher than it is for the
+two measures of anti-Semitism. Thus, even be-
+fore examining the individual coefficients and
+determining whether they are in the theoreti-
+cally expected direction, the overall results
+would lead one to conclude that there are not
+very major differences between the South and
+non-South in the factors associated with prej-
+udice examined here, regardless of the type of
+prejudice in question.
+
+In the case of Anti-Black Prejudice, none
+of the individual regional interaction terms for
+any of the measures of personality or prej-
+udice is significant. The interaction term for
+sex is significant, but not in the direction
+hypothesized by Pettigrew. Women in the
+South are Jess prejudiced than men toward
+blacks, but women and men differ very little
+in the non-South. The regional interaction
+terms for age, political independence and at-
+tendance at religious services all fail to reach
+statistical significance. Thus, none of the
+hypotheses that have sometimes been ad-
+vanced about the differences in the causal
+antecedents of anti-black prejudice in the
+South and non-South receives any support.
+The only regional interaction terms that prove
+tobe significant—apart from the one for sex—are
+those for family income, Roman Catholic
+status and foreign-born status. Income is
+positively related to Anti-Black Prejudice in
+the non-South (net of the other independent
+variables) but is only very slightly negatively
+related in the South. The foreign-born and
+Roman Catholics tend to be less anti-black
+than the native-born and non-Catholics in the
+South, but there is little difference in the
+non-South. This latter finding is of some inter-
+est, since it runs counter to the suggestions of
+several authors that Roman Catholics in the
+South, perhaps because of their marginal
+status, tend to assume the predominant racial
+views of the non-Catholics in the area
+(Fichter, 1951; Liu, 1960; Killian,
+1970:78-83).
+
+According to theoretical expectations,
+there should be no significant regional inter-
+action terms for the other measures of prej-
+udice, and indeed there are only three for
+Anti-Semitic Beliefs, one for Hostility Toward
+Jews, and none at all for Anti-Catholic and
+Anti-Immigrant Prejudice. Farm individuals
+tend to be less anti-Semitic than nonfarm in-
+dividuals in the South (net of all the other
+independent variables), but they tend to be
+more anti-Semitic on both measures in the
+non-South. Income is positively associated
+with Anti-Semitic Beliefs in the South but not
+in the non-South. The F Scale is more strong-
+ly related to Anti-Semitic Beliefs in the South
+than in the non-South.
+
+Because of the need to test a large number
+of related hypotheses, Table 2 is necessarily
+large and complex. In Table 3, I present a
+simpler, clearer and more economical model
+of the determinants of Anti-Black Prejudice,
+first for the United States and then separately
+for the South and the non-South. This model
+accounts for 44 percent of the variance in
+Anti-Black Prejudice, as compared with 45
+percent for the model in Table 2. I arrived at
+the abbreviated model by first including all
+those independent variables that had signifi-
+cant coefficients in the first column of Table
+2, plus the variables paired with significant
+interaction terms. With the dropping of other
+variables, however, the regional interaction
+term for sex no longer had a significant coeffi-
+cient. Hence this variable and the variable for
+sex were also dropped for the final model.
+The asterisks for the regional interaction
+terms in the first column of Table 3 indicate
+that the South and the non-South differ
+significantly in the extent to which the vari-
+able is related to Anti-Black Prejudice. The
+asterisks in the second and third columns indi-
+cate that the coefficients are significantly dif-
+ferent from zero within a given region. The
+results of the abbreviated model are essential-
+ly similar to those of the full model and lead
+to the same general conclusions. The coeffi-
+cients for most of the variables are similar in
+the South and the non-South; only family in-
+come, Roman Catholic status and foreign-
+born status play sharply different roles in the
+two areas. The constant term for’ the South,
+however, is far higher than it is in the non-
+South.
+
+In summary, the regression analyses with
+interaction terms for southern residence pro-
+vide little evidence to support the hypotheses
+that have most often been advanced regarding
+the differences in the determinants of anti-
+black prejudice in the South and in other
+regions. There are a few significant regional
+interaction terms, but these are not the ones
+predicted by prior theory. The mean level of
+Anti-Black Prejudice is much higher in the
+South, reflecting the specific subculture of the
+area, but the variation of individuals around
+the mean in each region is explained by rough-
+ly the same variables operating for the most
+part in the same way.
+
+Having established that most of the factors
+examined here play a similar role in Anti-
+Black Prejudice in both the South and the
+non-South, I next sought to determine wheth-
+er certain compositional differences may be
+responsible for the higher level of Anti-Black
+Prejudice in the South. Are the regional pat-
+terns of prejudice and personality simply a
+function of regional differences in the level
+of urbanization, education and economic de-
+velopment? To investigate this possibility, I
+calculated adjusted means for each of the
+measures of prejudice and personality, with
+controls for size of community years of edu-
+cation, white-collar versus blue-collar occupa-
+tion of head, farm versus nonfarm occupation
+of head and family income. The means were
+adjusted through regression procedures so that
+they are the values that would be expected for
+persons at the national mean (for that particu-
+lar subsample) on each of the control vari-
+ables. The adjusted means for each type of
+prejudice and each personality variable for
+each region are presented in Table 4.
+
+In general the adjusted means differ very
+little from the original means of Table 1. The
+differential between the South and non-South
+is slightly reduced for each variable and is not
+statistically significant for Anti-Semitic Be-
+liefs, Anti-Catholic Prejudice, the F Scale and
+Psychic Distress. The difference between the
+South and non-South remains significant for
+Anti-Black Prejudice, Hostility Toward Jews,
+Anti-Immigrant Prejudice and Anomia, but it
+is only in the case of Anti-Black Prejudice that
+there is a major difference. Thus, even after
+controlling for degree of urbanization, educa-
+tion and economic variables, there is a sub-
+stantially higher level of Anti-Black Prejudice
+in the South than in other regions, but there is
+very little regional variation in the other types
+of prejudice or the psychological measures.
+The question of compositional differences
+as the source of regional variations in prej-
+udice may be examined further with the data
+presented in Table 5—this time in the form of
+standardized regression coefficients. Zero-
+order correlations between residence in the
+South and the measures of prejudice and per-
+sonality appear in the first column. Standard-
+ized regression coefficients for the same rela-
+tions but net of the effects of certain control
+variables are presented in the second and third
+columns. These may be compared with the
+zero-order correlations to see how much the
+control variables reduce the relation.
+
+The coefficients in the second column of
+Table 5 are net of the same social and eco-
+nomic variables that were controlled in Table
+4 plus a set of four dummy variables for
+minority status (black versus white, Jewish
+versus non-Jewish, Catholic versus non-Cath-
+olic, foreign-born versus native-born). In every
+instance there is a reduction in the size of the
+original relation, but it is a very slight one in
+the case of Anti-Black Prejudice. For most of
+the other measure, the reduction is sufficient
+to bring the coefficient down almost to the
+zero point. The only coefficients for southern
+residence that remain significant are those for
+Anti-Black Prejudice and Hostility Toward
+Jews, and only the former is substantial. The
+very small size of the coefficients for the three
+psychological variables indicates that south-
+erners and nonsoutherners do not differ on
+these personality characteristics net of the
+compositional social variables. Hence, when
+these three psychological variables were used
+as additional controls in computing coeffi-
+cients for the third column, there was very
+little further reduction in the coefficients. It is
+clear that the higher level of Anti-Black Prej-
+udice in the South cannot for the most part
+be explained simply in terms of regional com-
+positional differences in the social and
+psychological characteristics examined here.
+
+The final strand of evidence that I wish to
+examine pertains to the levels of prejudice of
+persons who have migrated from one region to
+another, as compared with those of persons
+who have not migrated. One of the questions
+-in the 1964 survey asked, “In what state did
+you spend most of your childhood?” Using
+the replies to this question plus current resi-
+dence, I constructed four migration cate-
+gories: (1) both childhood and current resi-
+dence in the South (N = 520); (2) childhood
+residence in the South, current residence in
+the non-South (N = 114); (3) childhood resi-
+dence in the non-South, current residence in
+the South (N = 93); (4) both childhood and
+current residence in the non-South (N =
+1248). Then I calculated the mean scores of
+each group for each of the measures of prej-
+udice and personality. Since these means may
+be affected by compositional differences be-
+tween migrants and nonmigrants, I also calcu-
+lated adjusted means net of the effects of sex,
+age, size of community, years of education,
+white-collar versus blue-collar occupation of
+head, farm versus nonfarm occupation of
+head, family income and ethnic status (black,
+Jewish, Catholic, foreign-born). In general the
+adjusted means were highly similar to the
+original means. The adjusted means are pre-
+sented in Table 6.
+
+If there is a southern subculture of prej-
+udice, those who were reared in the South and
+who currently live there should be most high-
+ly prejudiced; those who were reared and cur-
+rently live outside the South should be least
+prejudiced; and those who have migrated be-
+tween the regions should be intermediate.
+This pattern emerges very clearly for Anti-
+Black Prejudice, but it is not present for the
+other measures. In the case of the latter,
+either the means are out of the expected
+order, or there is very little difference among
+the means. The one possible exception is
+Hostility Toward Jews. There the adjusted
+means appear in the expected order, but the
+differences among them are slight.
+
+The residents of the South who were
+reared in the South are significantly more
+Anti-Black than any of the other three groups,
+and the residents of the non-South who were
+reared in the non-South are significantly less
+Anti-Black than any of the other three groups.
+There is, however, no significant difference
+between those who were reared in the South
+but now live in the non-South and those who
+were reared in the non-South but now live in
+the South. Indeed, the adjusted means for the
+two migrant groups are almost identical.
+These results are thus at variance with both
+the expectations of Myrdal (1944) and the
+findings of Hyman and Sheatsley (1964).
+Myrdal was writing about a period some
+twenty years earlier when racial prejudice was
+apparently much greater, and perhaps his
+hypothesis would have been verified if it had
+been tested at that time. The survey utilized
+by Hyman and Sheatsley, however, is from
+the same time period as the one analyzed
+here. The differences in results may be due to
+somewhat different definitions of interre-
+gional migrants, to the use of different mea-
+sures of anti-black prejudice and to the ab-
+sence of controls for compositional differ-
+ences between migrants and nonmigrants in
+the earlier study. From this analysis it appears
+that the effects of migration between the
+South and non-South on anti-black prejudice
+are symmetric. Those who spent their child-
+hood in one region and later migrated to the
+other tend to have about the same level of
+prejudice—a level intermediate between the
+two nonmigrant groups.
+
+For the other measures of prejudice and
+personality, there are a number of significant
+differences between pairs of groups for the
+original means but very few for the adjusted
+In the analysis presented here, residents of
+the South tended to show a much higher level
+of anti-black prejudice than residents of the
+non-South in 1964, but the regions differed
+only slightly with regard to anti-Semitism and
+anti-Catholic and anti-immigrant prejudice.
+The two different measures of anti-Semitism
+yielded similar results, though Hostility
+Toward Jews was somewhat more strongly re-
+lated to residence in the South. It appears to
+me that an education-related acquiescence
+bias in Anti-Semitic Beliefs was probably not
+primarily responsible for the slight differences
+in the behavior of the two measures, for years
+of education showed a stronger inverse rela-
+tion to the measure that is not vulnerable to
+acquiescence tendencies. The South and the
+non-South also differed very little on psycho-
+logical variables—authoritarianism, anomia
+and psychic distress. If prejudice were primar-
+ily a function of such characteristics, we
+would expect consistent regional differences
+in each type of prejudice. The fact that anti-
+black prejudice was far higher in the South
+but the other types of prejudice were not sug-
+gests that there was a special subcultural tradi-
+tion of anti-black prejudice in the region.
+
+Contrary to the expectations of most
+authors who have written on the topic, the
+factors examined here that were associated
+with anti-black prejudice were basically sim-
+ilar in both the South and the non-South. The
+regression coefficients or slopes for Anti-Black
+Prejudice were similar in the South and the
+non-South, but the constant term, the point of
+origin, was far higher in the South. Hence, the
+mean score for Anti-Black Prejudice was high-
+er in the South, but the variation of individu-
+als around the mean can be explained in
+roughly the same way in both regions. Similar
+factors appeared to predispose people to ac-
+cept prejudiced beliefs, norms and values in
+both regions. The large regional differences in
+anti-black prejudice apparently came simply
+from the fact that the beliefs, norms and val-
+ues that one is socialized to accept tended to
+be much more extreme in the South.
+
+The evidence regarding the attitudes of in-
+terregional migrants also is consistent with the
+subcultural view. Those who spent most of
+their childhood in one region but later moved
+to the other tended to have attitudinal posi-
+tions with regard to blacks about at the mid-
+point between the views of those who con-
+tinued to live in the South and those who re-
+mained in the non-South. The regional
+acculturation process apparently was sym-
+metric, with migrants to each region equally
+likely to accept—at least partially—the norms
+and beliefs dominant in their new locale. This
+pattern of differences between migrants and
+nonmigrants did not exist for attitudes toward
+Jews, Catholics and immigrants.
+
+Many authors believe that the regional dif-
+ference in anti-black prejudice will decline and
+eventually disappear as the South catches up
+economically and educationally with the rest
+of the country. I found, however, that when I
+introduced controls for education, occupa-
+tional status, income and degree of urbaniza-
+tion, the difference between the South and
+non-South in anti-black prejudice was only
+slightly reduced. The higher level of anti-black
+prejudice among southern whites could not be
+attributed just to their rural character and
+educational and economic backwardness. I be-
+lieve that the critical factor is probably not
+the socioeconomic level of whites but rather
+the greater economic and social subordina-
+tions of blacks in the South. If the structural
+position of blacks in southern society im-
+proves in relative terms and blacks come to
+participate more fully in the educational and
+economic development of the South, how-
+ever, the level of anti-black prejudice in the
+South may subside to those levels found in
+other regions. The old subcultural norms may
+be perpetuated for a time by virtue of the
+socialization process, but without the continu-
+al reinforcement provided by the structural
+subordination of blacks, those norms will in
+time most likely decay.
+
+The survey data analyzed in this paper are
+now somewhat dated, and it is likely that the
+regional difference in anti-black prejudice to-
+day is less pronounced than it was in 1964 (cf.
+Glenn, 1974). The theoretical significance of
+the findings from the 1964 data, however, is
+not diminished by the fact that the patterns
+may have changed. I believe that the findings
+of this study tend to support the argument
+that cultural factors and historical traditions
+rather than psychological factors or socio-
+economic compositional differences were
+responsible for the higher level of anti-black
+prejudice in the South in 1964. Of course, it is
+possible and I would say probable—that cul-
+tural norms, values and ideologies are respon-
+sible not only for regional differences in anti-
+black prejudice but also for the general levels
+of prejudice toward each minority group.
+Thus, most of the prejudice toward minority
+groups may be due simply to the perpetuation
+of cultural beliefs, values and norms through
+the normal socialization process. This point is
+difficult to demonstrate directly, however,
+and this paper has undertaken only the more
+limited task of showing that at least for one
+type of prejudice, a cultural explanation of
+regional differentials is much more compelling
+than one that emphasizes psychological or
+socioeconomic differences between the re-
+gions.
+
+One should not conclude, however, that
+psychological factors are unimportant in ex-
+plaining the level of prejudice of individuals.
+As may be seen in Tables 2 and 3, with the
+exception of Psychic Distress, the psychologi-
+cal measures are generally independently re-
+lated to each of the measures of prejudice,
+and prejudice toward one group tends to be
+related to prejudice toward another group.
+One might argue, as Selznick and Steinberg
+(1969) do, that authoritarianism and anomia
+really constitute belief systems growing out of
+an unenlightened world view rather than true
+personality variables. These variables do, how-
+ever, continue to play a significant inde-
+pendent role in prejudice even after one con-
+trols for education and various other indica-
+tors of socioeconomic status that we associate
+with “cultural enlightenment.” Nevertheless, I
+am inclined to agree that the psychological
+variables themselves have a cultural source—
+but a source that does not differ substantially
+from one section of the country to another.
+
+One final caution is in order. In arguing for
+a “subcultural” explanation of the high level
+of antiblack prejudice in the South, I have mere-
+ly labeled the observed regional difference in
+levels of antiblack prejudice; I have not truly ex-
+plained it. In my analysis I have been able to
+tule out some possible explanations of the
+differential. I have shown that it is not simply
+a compositional difference due to the things
+that are ordinarily thought to affect prej-
+udice—notably socioeconomic status and
+certain psychological measures. The nature
+
+and source of the “subcultural” difference,
+however, remains an open question. The great
+weakness of cultural or socialization theories
+of prejudice is that they do not tell us why
+the prejudiced norms and beliefs develop
+toward a particular group in the first place.
+Further research of a substantially more
+imaginative and ingeriious character will be re-
+quired to elucidate the specific historical and
+social processes that have led to the regional
+patterns that we observe today. Historians and
+sociologists (e.g., Jordan, 1968; D. Noel,
+1972) have only begun to wrestle with this
+difficult problem.
+The complete interview schedule from which
+the scale items were taken is reproduced in
+Appendix A of Selznick and Steinberg (1969).
+A. Anti-Black Prejudice Scale
+
+1.
+
+As you see it, are Negroes today de-
+manding more than they have a right
+to?
+
+An owner of property should not
+have to sell to Negroes if he doesn’t
+want to.
+
+A restaurant owner should not have
+to serve Negroes if he doesn’t want
+to.
+
+Generally speaking, Negroes are lazy
+and don’t like to work hard.
+
+Before Negroes are given equal rights,
+they have to show that they deserve
+them.
+
+Negroes who want to work hard can
+get ahead just as easily as anyone
+else.
+10.
+
+11.
+
+nessmen.
+Jews have a lot of irritating faults.
+International banking is pretty much
+controlled by Jews.
+
+Jews are becoming more and more
+like other Americans.
+
+Jews don’t care what happens to any-
+one but their own kind.
+
+. Jews always like to be at the head of
+
+things.
+
+. Jews stick together too much.
+. Jews are always stirring up trouble
+
+with their ideas.
+
+. Jews are warm and friendly people.
+. Jews should stop complaining about
+
+what happened to them in Nazi Ger-
+C. Hostility Toward Jews Scale
+
+Ie
+
+Suppose you had a child who wanted
+to marry a Jew who had a good edu-
+cation and came from a good family.
+How would you feel about this—
+would you object strongly, some-
+what, a little, or not at all?
+
+How do you feel about having Jews
+in your neighborhood? Would you
+like to have some Jewish neighbors,
+wouldn’t it make any difference to
+you or would you prefer not to have
+any Jewish neighbors?
+
+If a candidate for Congress should
+declare himself as being against the
+Jews, would this influence you to
+vote for him or to vote against him?
+Suppose your political party wanted
+to nominate a Jew for President of
+the United States—that is, a religious
+Jew who would go to synagogue
+every week the way a Christian goes
+to church every Sunday. Would this
+disturb you very much, somewhat,
+very little, or not at all?
+
+If the United States government
+wanted to pass a law to stop more
+Jews from immigrating to this coun-
+try, would you be in favor of this or
+against it?
+
+Which of the things on this card do
+you think big companies should do
+when are hiring people? Hire the best
+people whether they are Jewish or
+not. Hire Jews in proportion to the
+number that there are in the com-
+munity. Hire Jews only when they
+are so good that no one else could do
+the job as well. Hire no Jews at all.
+Mr. Smith is a member of a social
+club where there are no Jewish mem-
+bers. Although he knows many of
+the members would prefer not to
+have Jews in the club, he decides to
+try to get his Jewish friend, Mr.
+Cohen, into the club. ... Now sup-
+pose the members did vote to keep
+Mr. Cohen out of the club....Do
+you think that Mr. Cohen should feel
+angry or do you think that he should
+realize that Christians have a right to
+their own clubs?
+
+Some people say that Jews have suf-
+fered a great deal in the past. Which
+of these statements comes closest to
+your own feelings about this? The
+Jews have suffered no more than
+anybody else. The Jews have suffered
+but they generally brought it on
+themselves. The Jews have suffered
+through no fault of their own.
+
+Which of these statements about Hit-
+ler comes closest to what you be-
+lieve? Sometimes I think that Hitler
+was right in getting rid of the Jews.
+Hitler was partly right in trying to
+get rid of the Jews, but he went too
+far. Hitler was wrong in treating the
+Jews as he did.
+Adorno, T.W., Else Frenkel-Brunswick, D. J. Levin-
+son and R.N. Sanford
+1950 The Authoritarian Personality. New York:
+Harper.
+Anti-Defamation League of B’nai B’rith
+1962 “A study of religious discrimination by
+social clubs.” Rights 4:83-6.
+Blumer, Herbert
+1965 “The future of the color line.” Pp. 322-36
+in J. C. Mckinney and E. T. Thompson
+(eds.), The South in Continuity and Change.
+Durham: Duke University Press.
+Brink, William and Louis Harris
+1963 The Negro Revolution in America. New
+York: Simon and Schuster.
+1967 Black and White. New York: Simon and
+Schuster.
+Bureau of Intelligence, Office of War Information
+1942 “White attitudes toward Negroes.” Report
+No. 30 (July 28).
+Campbell, Angus
+1971 White Attitudes toward Black People. Ann
+Arbor: Institute for Social Research, Univer-
+sity of Michigan.
+Chalmers, David M.
+1965 Hooded Americanism: The First Century of
+the Ku Klux Klan, 1865-1965. Garden City,
+N.Y.: Doubleday.
+Christie, Richard and John Garcia
+
+1951 “Subcultural variation in authoritarian per-
+sonality.” Journal of Abnormal and Social
+Psychology 46:457-69.
+
+Colman, Andrew M. and Peter Lambley
+
+1970 “Authoritarianism and race attitudes in
+South Africa.” Journal of Social Psychology
+82:161-4.
+
+Crespi, Irving
+
+1964 “Public reaction to the Eichmann trial.”
+
+Public Opinion Quarterly 28:90-103.
+Cronbach, L. J.
+
+1951 ‘Coefficient alpha and the internal structure
+
+of tests.” Psychometrika 16:297-334.
+Cureton, E. E.
+
+1966 “Corrected item-test correlations.”’ Psycho-
+
+metrika 31:93-6.
+Erskine, Hazel Gaudet
+
+1962 “The polls: race relations.” Public Opinion
+Quarterly 26:137-48.
+
+1965 “The polls: religious prejudice, part 1.” Pub-
+lic Opinion Quarterly 29:486-96.
+
+1965-66 “The polls: religious prejudice, part 2, anti-
+Semitism.’’ Public Opinion Quarterly
+29:649-64.
+
+1967 “The polls: Negro housing.” Public Opinion
+Quarterly 31:482-98.
+
+1967-68 “The polls: demonstration and race riots.”
+
+Public Opinion Quarterly 31:655-77.
+
+1968a “The polls: Negro employment.” Public
+Opinion Quarterly 32:132-53.
+
+1968b “The polls: speed of racial integration.”
+Public Opinion Quarterly 32:51 3-24.
+
+1968-69 “The polls: recent opinion on racial prob-
+
+lems.’’ Public Opinion Quarterly
+32:696-703.
+Evans, Eli N.
+
+1973 The Provincials: A Personal History of Jews
+in the South. New York: Atheneum.
+Fichter, Joseph H.
+1951 Southern Parish: Dynamics of a City
+Church. Chicago: University of Chicago
+Press.
+Gallup Opinion Index
+1965-71 Nos. 1, 3, 4, 7, 12, 14, 16, 24, 35, 37, 40,
+41, 46, 51, 58, 59, 62, 75, 77.
+Glenn, Norval D.
+1974 “Recent trends in intercategory differences
+in attitudes.” Social Forces 52:395-401.
+Glenn, Norval D. and J. L. Simmons
+1967 “Are regional cultural differences diminish-
+ing?”’ Public Opinion Quarterly 31:176-93.
+Golden, Harry
+1965 A Little Girl Is Dead. New York: World.
+Greeley, Andrew M. and Paul B. Sheatsley
+1971 “Attitudes toward racial integration.” Scien-
+tific American 225: 13-9
+Harding, John, Harold Proshansky, Bernard Kutner
+and Isidor Chein
+1969 “Prejudice and ethnic relations.” Pp. 1-76 in
+G. Lindzey and E. Aronson (eds.), The
+Handbook of Social Psychology, 2nd ed., vol.
+5, Applied Social Psychology. Reading, Ma.:
+Addison-Wesley.
+
+The Harris Survey Yearbook of Public Opinion 1970
+
+1971 New York: Louis Harris.
+
+Heise, David R. and George W. Bohrnstedt
+
+1970 “Validity, invalidity, and reliability.” Pp.
+104-29 in E. F. Borgatta and G. W. Bohrn-
+stedt (eds.), Sociological Methodology
+1970. San Francisco: Jossey-Bass.
+
+Hoge, Dean R. and Jackson W. Carroll
+
+1973 ‘“Religiosity and prejudice in northern and
+southern churches.” Journal for the Scien-
+tific Study of Religion 12:181-97.
+
+Hyman, Herbert H. and Paul Sheatsley
+
+1956 ‘Attitudes toward desegregation.” Scientific
+American 195:35-9.
+
+1964 “Attitudes toward desegregation.” Scientific
+American 211:16-23.
+
+Jackman, Mary R.
+
+1973 “Education and prejudice or education and
+response-set?”” American Sociological Re-
+view 38:327-39.
+
+Jackson, Kenneth T.
+
+1967 The Ku Klux Klan in the City, 1915-1930.
+
+New York: Oxford University Press.
+Jordan, Winthrop D.
+
+1968 White over Black: American Attitudes to-
+ward the Negro, 1550-1812. Chapel Hill:
+University of North Carolina Press.
+
+Key, V.O.
+
+1949 Southern Politics in State and Nation. New
+
+York: Knopf.
+Killian, Lewis M.
+
+1970 White Southerners. New York: Random
+
+House.
+Kinzer, Donald L.
+
+1964 An Episode in Anti-Catholicism: The Ameri-
+can Protective Association. Seattle: Univer-
+sity of Washington Press.
+
+Knapp, Robert H.
+
+1944 “A psychology of rumor.” Public Opinion
+Quarterly 8:22-37.
+
+Lever, H., L. Schlemmer and O. J. M. Wagner
+
+1968 “A factor analysis of authoritarianism.”
+Journal for Social Research 16:41-8.
+
+Lipset, Seymour Martin and Earl Raab
+
+1970 The Politics of Unreason:. Right-Wing Ex-
+tremism in America, 1790-1970. New York:
+Harper and Row.
+
+Liu, William T.
+
+1960 “The marginal Catholics in the South: a re-
+vision of concepts.” American Journal of
+Sociology 65:383-90.
+
+Maddox, George L. and Joseph H. Fichter
+
+1966 “Religion and social change in the South.”
+
+Journal of Social Issues 22:44-58.
+Maranell, Gary M.
+1967 “An examination of some religious and
+political attitude correlates of bigotry.”
+Social Forces 45:356-62.
+Matthews, Donald R. and James W. Prothro
+
+1966 Negroes and the New Southern Politics.
+New York: Harcourt, Brace and World.
+
+Mayo, Selz C.
+
+1964 “Social change, social movements and the
+disappearing sectional South.” Social Forces
+43:1-10.
+
+Milton, Ohmer
+
+1952 “Presidential choice and performance on a
+scale of authoritarianism.” American
+Psychologist 7:597-8.
+
+Moore, Edmund A.
+
+1956 A Catholic Runs for President. New York:
+
+Ronald Press.
+Myrdal, Gunnar
+
+1944 An American Dilemma. New York: Mc-
+
+Graw-Hill.
+Nicholls, William H.
+
+1964 “The South asa developing area.” Pp. 22-40
+in A. Leiserson (ed.), The American South
+in the 1960’s. New York: Praeger.
+
+Noel, Donald L. (ed.)
+
+1972 The Origins of American Slavery and Ra-
+
+cism. Columbus, Ohio: Merrill.
+Noel, Donald L. and Alphonso Pinkney
+
+1964 “Correlates of prejudice: some racial differ-
+ences and similarities.” American Journal of
+Sociology 69:609-22.
+
+Noel, Joseph Renny
+
+1971 “White anti-black prejudice in the United
+States.” International Journal of Group
+Tensions 1:59-76.
+
+Orpen, Christopher
+
+1970 “Authoritarianism in an ‘authoritarian’ cul-
+ture: the case of Afrikaans-speaking South
+Africa.’’ Journal of Social Psychology
+81:119-20.
+
+1971a ‘‘Authoritarianism and racial attitudes
+among English-speaking South Africans.”
+Journal of Social Psychology 84:301-2.
+
+1971b “The effect of cultural factors on the rela-
+tionship between prejudice and person-
+ality.” Journal of Psychology 78:73-9.
+
+1971c “Prejudice and adjustment to cultural norms
+among English-speaking South Africans.”
+Journal of Psychology 77:217-8.
+Orpen, Christopher and Quentin Rookledge
+
+1972 ‘“Dogmatism and prejudice in white South
+Africa.’’ Journal of Social Psychology
+86:151-3.
+
+Pettigrew, Thomas F.
+
+1958 ‘Personality and socio-cultural factors in in-
+tergroup attitudes: a cross-national compari-
+son.’ Journal of Conflict Resolution
+2:29-42.
+
+1959 “Regional differences in anti-Negro pre-
+judice.” Journal of Abnormal and Social
+Psychology 59:28-36.
+Pettigrew, Thomas F. and M. Richard Cramer
+
+1959 “The demography of desegregation.” Jour-
+
+nal of Social Issues 15:61-71.
+Prothro, E. Terry
+
+1952 “Ethnocentrism and anti-Negro attitudes in
+the deep South.” Journal of Abnormal and
+Social Psychology 47:105-8
+
+Prothro, E. Terry and John A. Jensen
+
+1950 “Interrelations of religious and ethnic atti-
+tudes in selected southern populations.”
+Journal of Social Psychology 32:45-9.
+
+Rao,C.R.
+
+1955 “Estimation and tests of significance in
+
+factor analysis.” Psychometrika 20:93-111
+Reed, John Shelton
+
+1972 The Enduring South: Subcultural Persis-
+tence in Mass Society. Lexington, Ma.: Lex-
+ington Books, Heath.
+
+Reissman, Leonard
+
+1966 ‘‘Social development and the American
+
+South.” Journal of Social Issues 22:101-16.
+Rhyne, Edwin Hoffman
+
+1962 “Racial prejudice and personality scales: an
+alternative approach.’’ Social Forces
+41:44-53,
+
+Roche, John P.
+
+1963 The Quest for the Dream. New York: Mac-
+
+millan.
+Roper, Elmo
+
+1946 ‘The Fortune survey: U.S. anti-Semites.”
+Fortune 33:257-60.
+
+1947 “The Fortune survey, part 2: racial and re-
+ligious intolerance.” Fortune 36:5-6, 10.
+
+Rose, Arnold M.
+
+1956 “Intergroup relations vs. prejudice: per-
+tinent theory for the study of social
+change.” Social Problems 4:173-6.
+
+Schwartz, Mildred A.
+
+1967 Trends in White Attitudes toward Negroes.
+
+Chicago: NORC, University of Chicago.
+Selznick, Gertrude J. and Stephen Steinberg
+
+1969 The Tenacity of Prejudice: Anti-Semitism
+in Contemporary America. New York: Har-
+per and Row.
+
+Sheatsley, Paul B.
+
+1966 “White attitudes toward the Negro.” Pp.
+303-24 in T. Parsons and K. B. Clark (eds.),
+The Negro American. Boston: Beacon.
+
+Siegman, Aron Wolfe
+
+1958 “The effect of cultural factors on the rela-
+tionship between personality, intelligence,
+and ethnocentric attitudes.” Journal of Con-
+sulting Psychology 22:375-7.
+
+Sims, Verner M. and James R. Patrick
+
+1936 “Attitudes toward the Negro of northern
+and southern college students.” Journal of
+Social Psychology 7:192-204.
+
+Smith, Charles U. and James W. Prothro
+
+1957 “Ethnic differences in authoritarian person-
+
+ality.” Social Forces 35:334-8.
+An idealized pattern (a “‘blockmodel”) of the interaction among 107 scientists in a biomedical
+research speciality is identified across networks of several distinct types of relationship. This
+pattern is sustained by the data. Groups of scientists who share common “positions ” in the
+multiple network structure are identified. Inferences concerning the stratification of these
+groups are derived solely from a consideration of the patterns they induce on multiple net-
+works. These inferences are then assessed in the light of (non-network) career attributes of
+individual scientists. Substantive findings from previous studies in the sociology of science are
+re-assessed in the light of blockmodel analysis.
+Gaston, 1973; Griffith and Mullins, 1972;
+Price, 1961), informal communication (Men-
+zel, 1962; Mullins, 1968), the diffusion of in-
+formation (Cole and Cole, 1973), and the ex-
+change of information for recognition (Hag-
+strom, 1965) are clearly aware that for many
+analytical purposes the infrastructure of scien-
+tific organization may usefully be conceptu-
+alized in terms of “networks.” Kaplan
+(1964:859) has suggested that sociologists of
+science will make their distinctive contribu-
+tion “by pointing to the network of social
+relationships in which communication is em-
+bedded and to the inadequacy of restricting
+one’s attention solely to formal means of

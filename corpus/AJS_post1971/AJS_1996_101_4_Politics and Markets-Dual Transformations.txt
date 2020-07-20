@@ -1,0 +1,725 @@
+Politics and Markets: Dual Transformations
+
+Author(s): William L. Parish and Ethan Michelson
+
+Source: American Journal of Sociology, Vol. 101, No. 4 (Tan., 1996), pp. 1042-1059
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2782238
+
+Accessed: 08-06-2016 04:16 UTC
+SUBSTANTIVE ISSUES
+
+The articles in this issue deal with different parts of an A > B > C
+causal chain, where A includes background conditions that shape market
+outcomes, B includes market outcomes, and C includes the power and
+income consequences of markets. Stark emphasizes the A — B transition.
+Nee emphasizes the B — C transition. In the A — B transition, Stark
+stresses that there are multiple types of market outcomes. In Hungary
+there is a special type of network intensive, part-public, part-private,
+recombinant property relations that are in some ways analogous to the
+network-based economic networks in the East Asia periphery. For Stark
+(1992), these outcomes vary from place to place and are determined in
+large part by the path dependence established by the ruins of the old
+order and by early decisions in the reform process. Nee, as well, in laying
+out multiple regions in China, implies that there are multiple types of
+market outcomes. Thus, for both authors, there is not a single B but
+multiple B’s (B,, B,, B;, etc.). Despite noting multiple market outcomes,
+Nee appears to assume convergence on a single set of consequences.
+There is but one C. This strong assertion is potentially problematic and
+seemingly at odds with the attempt to introduce a more institutionalist
+account of the consequences of different market structures.
+Political Markets
+
+What are our suggestions for making further progress concerning either
+the determinants or consequences of different market and quasi-market
+solutions? They include, first, building on some of Stark’s earlier themes
+about bargaining and path dependence (Sabel and Stark 1982; Stark
+1992). Prior to reform, some groups of workers and industries were privi-
+leged in bargaining with management and the state bureaucracy. Particu-
+larly in China, this bargaining was assisted by shared residence of work-
+ers and managers in work-unit-owned housing and by long years of work
+in the same job uninterrupted by interfirm or residential mobility. The
+dense networks that resulted, assisted in China by many kin being ap-
+pointed to the same firm, helped create social solidarity mechanisms that
+could be used against managers and the state bureaucrats that were
+supposed to monitor firms (see, e.g., Tidrick and Chen 1987; Parish 1979;
+Walder 1987, 1989). In China, with a loosening of central top-down
+control in the mid-1980s, these kinds of informal bargaining mechanisms
+could be brought into full play. The result was that, after the mid-1980s,
+workers’ incomes again began to rise, even while central planners were
+saying that incomes should be contained. Facing informal worker resis-
+tance, state firms had difficulty moving to merit salary schemes, and
+old seniority-based payment schemes supplemented by hidden subsidies
+remained in place. Urban incomes again began to rise compared to in-
+comes in the countryside (SSB 1994). Though the details vary, and
+though more firms were failing or being sold off, similar patterns of
+bargaining were occurring in the former Soviet Union and Eastern Eu-
+rope (see, e.g., Blanchard et al. 1993; Burawoy and Krotov 1992).
+
+What these patterns illustrate is that a simple story of economic mar-
+ketization will not do. In the transition, the liberalization of political
+markets is often as important as the liberalization of economic markets.
+The discussion of newly liberalized political markets must attend to three
+types of politics. One type that must be included involves formal and
+informal bargaining between workers and managers and between manag-
+ers and the state bureaucracy. Once central control is loosened, informal
+bargaining among formal and informal groups comes to the fore. It is
+this bargaining that helps explain major parts of the finding of continuity
+in the Xie and Hannum paper in this issue of AJS. In China, through
+the early 1990s, workers and managers were so tied together and so
+well organized that major parts of the state reform program could be
+resisted.
+
+Thus, the types of market compromises that will be arrived at depends
+as much on bargaining in more participatory political systems as it does
+on some underlying economic dynamic. This echoes themes from writers
+on market societies. In developing market societies, inequality in income
+and social services between city and village and between different seg-
+ments of the population depends less on the market than on the bar-
+gaining power of different social groups. In more participatory systems,
+that bargaining power can be more easily expressed, leading to a tension
+between participatory and egalitarian goals in society (e.g., Huntington
+and Nelson 1976; Bates 1981; Lipton 1977; see also North 1981; Olson
+1982; Rubinson and Browne 1994.). Since reforming socialist societies
+are not only introducing more market principles but also becoming more
+participatory, the consequences of new space for political mobilization
+cannot be ignored.”
+
+A second type of politics involves the continuing need to have linkages
+with state bureaucrats and state-run enterprises. As Stark suggests
+above, one way to spread risks in an uncertain environment with few
+well-specified property rights is to include current and former state offi-
+cials in one’s economic network. Once established, these networks may
+well have a life of their own that provides a kind of path dependence.
+There is an ample literature on East Asia about continuing government
+roles in the economy. Though rancorously divided over the productive
+versus nonproductive role of state involvement, this literature suggests
+that mixed solutions with ample government involvement have great
+staying power (e.g., Wade 1990; Evans 1995; Amsden 1989; Johnson
+1982; Friedman 1988; Ramseyer and Rosenbuth 1993). Similarly, Shirk
+(1993) argues that Chinese political arrangements are slow to evolve from
+their initial forms despite potentially perverse economic consequences.
+This continuity, or path dependence, suggests that entrepreneurs with
+strong network ties to state firms and state bureaucrats as sources of
+raw materials, marketing outlets, and official protection will be greatly
+advantaged.* The rising levels of patronage, corruption, and so on, sug-
+gest that many economic actors in China recognize these advantages
+(Yang 1994; Rocca 1992). Similarly, the history of critical junctures and
+stable arrangements in Latin America, where governments early assumed
+a major role in economic regulation, suggests that one should expect
+continuity rather than rapid shifts in current arrangements (e.g., Collier
+and Collier 1991; de Soto 1989). In short, we want to reinforce Stark’s dual
+messages about the attractiveness of mixed public/private arrangements
+and the staying power of these arrangements once they are in place.
+
+A third type of political market involves electoral politics. These elec-
+toral politics are more rudimentary in China than in Europe. But even
+in China, regional elections since the mid-1980s and village council elec-
+tions since 1988 provide the potential for new electoral politics that could
+enhance rather than retard local clientelism (O’Brien 1994; Lawrence
+1994). In other developing societies, marketization often causes clientel-
+ism not to disappear but only to mutate from traditional to modern forms.
+In these societies, during autarkic premarket conditions, patron-client
+relations are essentially patrimonial, and are rooted in dependence and
+vertical asymmetrical exchange. Then, with increased national-level eco-
+nomic integration and state intervention, local elites come to assume the
+role of bridge ties and mediators. And it is this economic and political
+mediation between still-segmented and separated locales that gives rise
+to a new kind of clientelism: government-based political patronage (Ei-
+senstadt and Roniger 1984, pp. 204-5; Weingrod 1977, p. 326; Graziano
+1977, 367—72). These tendencies are often exacerbated by electoral poli-
+tics, as it is in the interest of the local politician to dispense favors in
+return for votes (Scott 1977, p. 140; Weingrod 1977, p. 328; Eisenstadt
+and Roniger 1984, pp. 66-68; Putnam 1993). In these situations, local
+politicians become part of a pattern of generalized exchange that has
+considerable staying power.
+
+In contemporary rural China, several of these mechanisms potentially
+affect the power base of local administrators. First, economic liberaliza-
+tion coupled with local fiscal autonomy—where surplus profits from local
+government-owned ventures are retained locally after submitting prefixed
+(not sliding-scale) tax payments to higher levels—has given rise to tre-
+mendous local state economic initiative and activity, often dubbed “local
+state corporatism” (Oi 1992; also see Wong 1992). The economically
+valuable social ties to outside locales possessed in relative abundance by
+local cadres makes these elites particularly well suited to play their new
+brokerage roles (see Huang [1989, pp. 143-45] for a vivid illustration).
+Under these types of conditions, new local elections could easily stimulate
+political patronage networks centered around locally elected officials and
+councilors.
+
+In short, we are trying to promote the idea that, in contrast to the
+economistic approach adopted by Nee in this issue, institutional forms
+under marketizing conditions often follow a political logic. Our somewhat
+revisionist “market transition” perspective suggests that, for at least as
+much political as economic reasons, local administrators may well con-
+tinue to hold onto considerable local power—not only despite, but be-
+cause of marketization.
+Other Developing Societies
+
+Next, we turn to the suggestion that one should include more middle-level
+generalizations from other developing economies. This theme is already
+implicit in the suggestion to pay attention to the path dependence of state
+involvement in the economies of Latin America (Collier and Collier 1991)
+and the role of electoral politics in supporting political clientelism. We
+need to extend these themes.
+
+It is commonplace to suggest that markets weaken traditional political
+authority at both the national and local level. Authors such as Barrington
+Moore (1966) and Charles Tilly (1990) make marketization the center-
+piece of their explanations of why some societies turned early democratic.
+For sociologists familiar with American social history, Doug McAdam
+(1982) makes the expansion of labor markets and the movement of tenant
+farmers away from the farm to cities central in explaining how the civil
+rights movement had more space for mobilization after the 1930s. For
+social scientists with a broader comparative scope, Joel Migdal (1974)
+provides an excellent summary of a comparative literature on peasant
+societies, including pre-1949 China and the periphery of China. In that
+summary, Migdal notes that the expansion of markets beyond village
+bounds allows peasants to escape the thumb of local authority figures.
+That escape is mediated by state intervention. When the state chooses
+to use the village as an administrative unit, the escape is sometimes
+slowed. And even when peasants escape local village authority, they may
+find themselves newly tied to local township and county officials.
+
+These types of observations suggest several paths for further analysis
+of rural power. One, already implicit in the discussion of clientelism, is
+to make the consideration of local power broader. Income is but one very
+indirect indicator of local power. Villagers may remain beholden to power
+holders in multiple ways that are unreflected in the take-home pay of
+administrators. One indicator, already in the Nee health-based data set,
+is to observe whether frequent invitations to banquets and gifts of food
+and liquor have added to the alcohol and food consumption and subse-
+quent body weight of local officials (CCO 1989, questionnaire D). Other
+studies could use more ethnographic methods to access the means by
+which villagers may still be tied to local administrators, including the
+presence of administrators on boards of directors of new private endeav-
+ors, frequent visits and gifts to local administrators, and so on. The
+works by Wank (1995) and Yan (1995) suggest that this pattern is com-
+mon in both coastal and interior regions of China.
+
+A second path of potential analysis, based on Migdal’s observations,
+is to attend to whether local village administrators are simply being re-
+placed by a greater panoply of township and county administrators that
+intervene in many economic and daily affairs. In reform China, the mas-
+sive expansion of middle- and lower-level state bureaucracies suggest
+that this may be exactly what is occurring (Lee 1991, pp. 271-72). Be-
+tween 1978 and 1993, the total number of government bureaucrats as a
+percentage of the total labor force increased by about 50%, from 1.1%
+to 1.7% (SSB 1994, pp. 86-89). Most of this expansion was at lower
+levels, including enlarged county and township governments. Thus, gov-
+ernment administrators are not disappearing with marketization but
+growing in number and diversity of functions. The issue for ethnographic
+research would be to see how often villagers must interact with this
+increasing diversity of regional bureaucrats.
+
+A third path for research is to make more explicit the mechanisms that
+are already implicit in the Nee data analysis. There are at least three
+measures that resonate with the Migdal/McAdam discussion of local au-
+thority control of resources and access to external markets. These include
+nonfarm jobs in extravillage labor markets (labeled “labor market”),
+administrator control of access to these jobs (“government finds nonfarm
+jobs”), and village/township ownership of local enterprises (“production
+markets”). One can complain about some of these measures—for exam-
+ple, the last measure is for number of enterprises, while it is the size of
+these enterprises that must be more important for local labor markets.
+Nevertheless, when explicitly related to middle-level propositions drawn
+from an earlier comparative literature, the measures provide additional
+possibilities for analysis. In villages with few locally owned enterprises
+and with many outside jobs to which villagers have free access uncon-
+strained by local administrator approvals, local administrators should
+have less power. If the familiar external-market-access ideas are correct,
+then, when these measures interact with administrator income, consump-
+tion, and body weight in new equations, the resulting coefficients should
+be negative and significant. Thus, many old ideas can be tested with
+data that is already in hand.
+resulting stability in findings for high and low growth cities are unsurpris-
+ing. Nevertheless, to expect that change would occur for all age groups
+and in all sectors—both state and nonstate—is to impose a demanding
+test. One expects that change will occur much more slowly among mid-
+career state workers than among new hires. Similarly, one expects change
+to occur much more slowly in the state sector, with its entrenched bar-
+gaining groups, than in the expanding nonstate sector, where these
+groups have not yet formed or where they have fewer solidaristic or
+other bargaining resources. It is this nonstate sector—including urban
+collective, private, self-employed, and joint ventures—that was growing
+the most rapidly in the late 1980s.
+
+Finally, comparative standards must be set straight. Returns to educa-
+tion vary radically by type of market economy. The market economy
+that in many ways most closely resembles China’s nonstate sector is
+that of Taiwan. There too, small firms dominate in a highly competitive
+environment with few internal labor markets that might allow high re-
+turns to high school and college education. In that environment, returns
+to education are among the lowest in the world—approximately 4% for
+each year of education in the private, nonfarm sector (see Psacharopoulos
+[1994] for other countries). Fortunately, there is already an analysis which
+takes all these considerations into account (Maurer-Fazio 1994; also see
+Zaks 1994). This analysis shows that, much as in the Xie and Hannum
+analysis, there is very little regional variation—fast-growing, coastal,
+laissez-faire regions have no perceptibly higher return to education. How-
+ever, in great contrast to Xie and Hannum, Maurer-Fazio demonstrates
+that nationwide there are increasing returns to education among new
+hires (workers younger than age 30) and particularly among those in the
+unprotected, bargaining-weak nonstate sector. Moreover, the returns for
+young workers are highly parallel to rates of return to young workers in
+Taiwan. This suggests, contra Xie and Hannum, that labor markets
+have begun to emerge in Chinese cities and that these markets are not
+confined to coastal, fast-growing cities but are much more widespread.*
+late 1980s timing is the same as in the Nee analysis, only the data set is
+different and there are a few changes in measurement. In order to ensure
+stable estimates of county-level employment rates and county-level mean
+household income (an important control variable), counties with fewer
+than 20 households or fewer than 20 laborers were dropped from the
+analysis. After these exclusions, the individual-level data set includes
+27,367 laborers, while the household-level data set includes 9,062 house-
+holds. Both sample populations span 244 counties in 27 provinces.
+
+We assume that most rural labor markets continue to be confined to a
+single county. Accordingly, we classify the 244 sample counties by the
+average characteristics of labor in each county. Though we allow for
+county-level variation within provinces while Nee assumes uniformity
+within provinces, our classification parallels in many ways his original
+designation of regions.° Counties where nonfarm workers constitute no
+more than one-fifth of the total labor force are classified as premarket
+or, in Nee’s terminology, “inland,” which indeed most of them are.
+
+Counties with more than one-fifth of the labor force in nonfarm em-
+ployment are classified as “marketized,” or “coastal,” and these are
+then subdivided into three groups. The first, “laissez-faire” group in-
+cludes counties where more nonfarm labor is employed in the private
+sector than in collective or local state-owned enterprises. Though some
+of these counties cluster along the southern coast, as in Nee, there is a
+scattering of these counties in other parts of China as well. In many of
+these areas, there is what we have elsewhere called a “backing-into-the-
+future” pattern, with people lacking other opportunities taking to small-
+scale self-employed activities (Parish et al. 1995). The second, “corporat-
+ist” group of “coastal” counties includes nonsuburban counties where
+more nonfarm labor is in collective or local state work units than in
+private-sector work units. As in Nee’s study, these are concentrated in
+the eastern coastal provinces. The third, “suburban” group includes
+counties abutting major cities. This is our substitution for Nee’s “redis-
+tributive” region. It consists mostly of the hinterland of the three mega-
+cities of Shanghai, Beijing, and Tianjin as well as the hinterland of a
+few inland cities. These places are special not only in high levels of
+collective and state ownership but also in opportunities for villagers to
+commute to work in cities.
+
+Arrayed in four groups—one inland and three coastal—these regions
+follow a regular order. As one moves from the “inland” to the suburban
+regions, there is a steady increase in both income and in the chances for
+nonfarm employment (table 1, parts A and B). This suggests much higher
+levels of labor demand in the final regions and much lower levels of labor
+demand in the initial regions. Thus, somewhat at variance with Nee, we
+expect the most open market for labor not in the laissez-faire but in the
+suburban regions.
+
+Also in contrast to Nee, we use a somewhat different and more restric-
+tive definition of “administrator.” The debate about power transfers and
+lingering positional advantage refers not to run-of-the-mill civil servants,
+a category that seems to dominate the very high 13% of all families with
+administrator connections in the Nee data set. Rather it refers to the top
+leaders of townships and villages, who may or may not reap additional
+rewards from their control of new rural industry. Accordingly, we restrict
+our attention to administrators, leaving aside the many other folk who
+have jobs as postal clerks and as other kinds of government clerical and
+service workers.
+
+Even the administrator’s role needs a slightly different imagery. Much
+of the debate seems centered around the image of the “local despot.”
+Just as often, we suggest, the proper image is that of the local “volunteer
+fireman.” Most of the communities these administrators lead are quite
+small—administrative villages (cun) average only 280 households and
+townships (xiang) average only 5,000 households. The village leaders are
+not on a state salary but only on local subsidies. The result is much as for
+fire departments in small U.S. hamlets and towns. Most small American
+communities with few fires and a weak tax base neither need nor can
+afford full-time, professional fire fighters. They make do with volunteers.
+
+Consistent with the firefighter metaphor, most Chinese rural adminis-
+trators fill this capacity only part-time. Nationally, they are split almost
+equally into three groups—the full-timers, the part-timers who consider
+administration their first job, and the part-timers who consider adminis-
+tration only their second job (table 1, part C, right column). Much like
+volunteer firefighters, the distribution of local leaders follows a regular
+pattern. The number of administrators increases steadily with the in-
+creasing income, economic diversity, and, by inference, size of local com-
+munities—ranging from a low of 1.3% to a high of 3.5% of all laborers
+in the community (part B).’ Also, as income and size increase, adminis-
+trators tend to move from part-time to full-time work (part C). Similarly,
+in other analysis, in corporatist and suburban regions, with many collec-
+tively owned enterprises that are easily taxed, administrator income in-
+ely 9¢ O2T by 717 sioyer}sIUIUIpe JO “ON,
+TOOT 0°O0T 0°00T 0°00T 000T * % [ROL
+vse oss” 8st Ss62 ory * uonednoso Arepuodas sv JoyeI}sTUTUIpy
+0°82 68°8¢ 19°9€ cele 6r'61 uonyednas0 Areuttid se soyexystUTUpy
+1-98 9s'ss OsLe £L°27 £0°9¢ “* uonednss0 alos se 10yeNsTUTUIpy
+1(%) sdoyestutupe Jo sadAy, “-
+L9e‘Lz ¥20'T £L0b sto'z $$z‘0z s1ax0qe] JO “ON
+at se 67 ve eT “"* (%) sloyex}sIUIWIpY *Z
+vor vor Le ae 68 (%) YOM waeyuou Auy *T
+ceyep jeuoryedns909 “g
+290'6 88e vert £69 Lss‘9 * spjoyasnoy jo “ony
+o0z‘e o0s‘r 000‘r ooe‘e (00) St (wong) awoour jenuue ueIpey
+raurooUT pjoyasnoyy “y
+dIOHM V ueqingng ysterodi0_, alte q-zasste’y GNVIN]
+sv NOLLVN
+‘IVLSVOD
+
+ 
+
+ 
+
+VLIVQ NOILVdND90 GNV ANOONT
+
+T OTaViL
+creases along with community income.® In inland and laissez-faire re-
+gions, where taxation is more problematic, community income is
+unrelated to administrator income (details not shown).
+
+These volunteer firemen types of relationships suggest a potentially
+benign link between leadership and income. Incomes are determined by
+shared community and leader needs. In larger, more complex, and more
+affluent communities, it is not only the community that needs more
+“fires” put out. Local leaders, busy with more tasks, find less time for
+second jobs and, hence, need more income from their first, administrator
+job. When adequate taxing ability exists, the community responds with
+higher payments. This “natural” relation between type of community
+and income calls into question the use of income as a measure of adminis-
+trator power. The most despotic or arbitrary leaders may well be those
+in small, poor communities who have few economic resources to use as a
+carrot to induce compliance. In poor communities, the coercive stick—or
+resignation from office—may be the leader’s only recourse (see O’Brien
+1994, p. 53; Rozelle 1994, p. 123).
+
+Resignations (and retirement) are common, it would seem. The average
+age for village and town administrators remained at only 41 in 1988,
+suggesting little increase over the decade. Over the same time period,
+education levels rose steadily, suggesting that administrators were in-
+creasingly not old-style local despots but part of an emerging technocratic
+leadership core.’ In short, the community leaders in place at the end of
+the 1980s were a quite different lot from those who went before them.
+Though the group remained mostly male, they were a new, more highly
+educated group.
+
+Even if a “different lot” and even if there is a community need for
+highly professionalized leaders with better incomes, there could still be
+special returns to authority. Local leaders could have an array of adminis-
+trative ties that would advantage themselves and their family members.
+We can examine two potential advantages that would provide additional
+returns to authority. The first potential return is the ability to secure
+a better nonfarm job for family members. The exact kind of “power
+transference” attempted might well vary by region. In inland regions,
+with few nonfarm work opportunities, a job as a manual worker might
+seem extremely desirable. In corporatist regions, with many collectively
+run enterprises, and with unskilled labor shortages filled by in-migrating
+external workers, the most desirable jobs might be found in enterprise
+management.
+
+In the late 1980s job results largely followed this pattern (table 2).
+Using the CHIP data set, we ask whether having a local leader in one’s
+family helped one avoid farming in favor of a more desirable nonfarm
+jobs. There are four job alternatives: (1) managers and technical workers,
+with the latter including technicians, teachers, and other professionals,
+(2) administrators and clerical workers, with both groups including peo-
+ple who worked for county as well as local government, (3) entrepreneurs
+and the self-employed (geti hu), and (4) manual workers, both temporary
+and permanent in places ranging from state enterprises to local collective
+enterprises. Though we report only the coefficients for having a local
+leader in one’s household, the underlying equations also included controls
+for age, age squared, education, gender, and mean household income of
+the county.’°
+
+The issue is whether having an administrator in the household advan-
+tages an individual household member in the labor market.'! The an-
+swer, contra Nee, is that it does (table 2).? And, that advantage, though
+differing in specific content, is present in all regions. In inland regions,
+manual work seems to be the choice for administrator families. In laissez-
+faire regions, both administrative and entrepreneurial roles are chosen.
+As expected, in corporatist regions, with many collectively run enter-
+prises, both managerial and administrative type jobs are popular among
+administrator families. In suburban regions, managerial and technical
+jobs predominate among administrator families. In short, the major story
+for local leaders seems to be one not so much of getting ahead or falling
+behind but one of selective adaptation. Members of administrator fami-
+lies drift towards the best jobs available in their region.
+‘TO > d xx
+“SO > dx
+*(eWOOUT Ployasnoy uveUT JaAe]-AJUNOD pa8Zo]) awooUT AWTUNUITOD
+pue ‘Japue ‘uoreonpe ‘,a8e ‘a8e apnpour suonenbe Zurdjepun ayy Ur Suis} UMOYsUOU ‘1ayIO “a[qnop saduRY> S,9U0 SazBIPUT 0O'Z JO amsy Y “suo}2eUUOD aIped Jo
+asneoaq asvaisep Jou aseaJU! JeyzoU Gof Jenoted v BuIyIe3 Jo saoueyo S,aU0 Jey} SayeoIpuT OO'T Jo any y “seULILy v BurUIOIaq 0} paredurod ‘249 ‘Joyersturwpe ‘“Jaseueul
+ Surwmoseq jo ,.YSU 2ANPIAI,, ay} MOYS saINZy ay} ‘Jaquisur axpes v YM Aprueyz e wlosy apdoad 10.4 ‘siséTeue WOT [etWoUNNUT v WOIy paAtiap st UUUNIOD YIe|—"ALON
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+LOC‘ LZ y20'T £L0'r st0‘z ssz‘oz SqaI0qe] JO “ON
+%69°T 19'T ell 80°T x9 L'T sree JaxzOM TENUBYAL
+#4907 rh LT xx6b'Z LT * pakoydura-sjas/mauaidanug
+axfl€ oz2 x89°7 #988 ELT rr xaxdoas TeoLT9DD /AoyeHSTUTUPY
+xa fh'Z «16°S aex08"E vs LST oe" Jay1OM TesTUYyI}/1IseUe AL
+TIOHM V ueqinqns ysnesodio_ ‘aare q-Zasste'T aNVINI
+SV NOILYN
+
+‘TwLsvoD.
+
+ 
+
+ 
+
+(soney ASty PANeEY) SNOLLIINNOD FAAVD ANV SNOLLVdNI9O TWACIAIGN
+
+@ ATaVL
+The second possible return to administrative position is in total house-
+hold income. Much as in Nee’s table 2, we examine logged household
+income in 1988. Potential determinants that are used as controls include
+mean age and education of all household labor, logged county-level
+household income, and household farm and nonfarm labor. Our principal
+interest, of course, is in the influence of cadre connections on household
+income. And, given the weak hypothesis that cadre income suffers not
+in absolute amount but only in relation to other forms of nonfarm employ-
+ment, we also compare the family’s advantages from having a cadre to
+those from having an extra nonfarm worker. The results show positive
+returns to cadre administrative position in all regions (table 3). In net
+returns (row 1), cadre households do almost 40% better than the average
+farm household. Thus, in absolute amount, the administrator’s income
+advantage had not disappeared by 1988.'* Nor had the absolute amount
+of the administrator’s income begun to decline in more marketized
+regions. '*
+
+This still leaves the issue of whether families with nonfarm workers
+were gaining on administrator families. This is the new, more modest,
+Nee proposal. The answer is no. (table 3, row 2). Even in the highest
+labor demand areas with highest incomes, a major gap remains between
+administrator income and that of the average nonfarm worker.'> To be
+sure, some nonfarm workers are fabulously successful, and the envy of
+administrators and everyone else around them. Also, in the suburbs,
+government clerical workers (probably included in Nee’s “cadre” cate-
+gory) fall behind other nonfarm workers, which explains reports of grow-
+ing discontent among run-of-the-mill civil servants (details not shown).
+Nevertheless, when one restricts one’s attention to a comparison between
+local leaders and the average nonfarm worker, the leaders still remain
+far in the lead.
+
+This full set of findings is so at variance with the Nee findings that
+surely more analysis on a variety of data sets will have to be done.
+Though some of the specific conclusions from our tentative analysis may
+fall, we think some things will stand. These will include observations
+that run-of-the-mill civil servants and local leaders have quite different
+fates in the new order, observations that local leaders engage in selective
+adaptation fitted to their region, and observations that the leaders them-
+selves are changing as the new order evolves. The final conclusion to
+this reanalysis may well have a “both... and...” character. That is, in
+the Chinese countryside there is both considerable market and politically
+induced flux, with many new individuals seeking fame and fortune
+through nonadministrative channels and new types of administrators ris-
+ing to the top; at the same time local administrators have considerable
+opportunity, particularly in more marketized and corporatized areas, to
+reap additional benefits for themselves and their families.
+REFERENCES
+
+Amsden, Alice H. 1989. Asia’s Next Giant: South Korea and Late Industrialization.
+New York: Oxford University Press.
+
+Bates, Robert H. 1981. Markets and States in Tropical Africa. Berkeley and Los
+Angeles: University of California Press.
+
+Blanchard, Olivier, et al. 1993. Post-Communist Reform: Pain and Progress. Cam-
+bridge, Mass.: MIT Press.
+
+Burawoy, Michael, and Pavel Krotov. 1992. “The Soviet Transition from Socialism
+to Capitalism: Worker Control and Economic Bargaining in the Wood Industry.”
+American Sociological Review 57:16-38.
+
+Burns, John P. 1988. Political Participation in Rural China. Berkeley and Los
+Angeles: University of California Press.
+
+CCO (China-Cornell-Oxford). 1989. China-Cornell-Oxford Program on Health and
+Nutrition in China: Questionnaire. Ithaca, N.Y.: Cornell University Press.
+
+Collier, Ruth Berins, and David Collier. 1991. Shaping the Political Arena: Critical
+Junctures, the Labor Movement, and Regime Dynamics in Latin America.
+Princeton, N.J.: Princeton University Press.
+
+De Soto, Hernando. 1989. The Other Path: The Invisible Revolution in the Third
+World. New York: Harper & Row.
+
+Eisenstadt, S. N., and L. Roniger. 1984. Patrons, Clients and Friends: Interpersonal
+Relations and the Structure of Trust in Society. Cambridge: Cambridge University
+Press.
+
+Evans, Peter. 1995. Embedded Autonomy: States and Industrial Transformation.
+Princeton, N.J.: Princeton University Press.
+
+Friedman, David. 1988. The Misunderstood Miracle: Industrial Development and
+Political Change in Japan. Ithaca, N.Y.: Cornell University Press.
+
+Graziano, Luigi. 1977. “Patron-Client Relationships in Southern Italy.” Pp. 360-77
+in Friends, Followers, and Factions: A Reader in Political Clientelism, edited by
+Steffen W. Schmidt, Laura Guasti, Carl H. Landé, and James C. Scott. Berkeley:
+University of California Press.
+
+Griffin, Keith, and Zhao Renwei. 1992. Chinese Household Income Project, 1988
+(MRDF). New York, N.Y.: Hunter College Academic Computing Services (pro-
+ducer). Distributed by Inter-University Consortium for Political and Social Re-
+search, Ann Arbor, Mich.
+
+Haggard, Stephan, and Robert R. Kaufman. 1992. The Politics of Economic Adjust-
+ment. Princeton, N.J.: Princeton University Press.
+
+Huang, Shu-min. 1989. The Spiral Road: Change in a Chinese Village through the
+Eyes of a Communist Party Leader. Boulder, Colo.: Westview Press.
+
+Huntington, Samuel P., and Joan M. Nelson. 1976. No Easy Choice: Political Partici-
+pation in Developing Countries. Cambridge, Mass.: Harvard University Press.
+
+Johnson, Chalmers. 1982. MITI and the Japanese Miracle. Stanford, Calif.: Stanford
+University Press.
+
+Lawrence, Susan. 1994. “Democracy, Chinese Style.” Australian Journal of Chinese
+Affairs 32:61—70.
+Lee, Hong Yung. 1991. From Revolutionary Cadres to Party Technocrats in Socialist
+China. Berkeley and Los Angeles: University of California Press.
+
+Liang, Zai, and Michael J. White. 1997. “Market Transition, Government Policies,
+and Interprovincial Migration in China, 1983-88.” Economic Development and
+Cultural Change, in press.
+
+Lipton, Michael. 1977. Why Poor People Stay Poor: Urban Bias in World Develop-
+ment, Cambridge, Mass.: Harvard University Press.
+
+Maurer-Fazio, Margaret. 1994. “An Analysis of the Emerging Labor Market in the
+People’s Republic of China and Its Effect on Rates of Return to Investments in
+Education.” Ph.D. Dissertation. University of Pittsburgh, Department of Eco-
+nomics.
+
+Ma, Zhongdong, and Kao-Lee Liaw. 1996. “Explaining Hierarchical and Interpro-
+vincial Migrations of Chinese Young Adults by Personal Factors and Place Attri-
+butes.” Mathematical Population Studies, in press.
+
+Madsen, Richard. 1984. Morality and Power in a Chinese Village. Berkeley and Los
+Angeles: University of California Press.
+
+McAdam, Doug. 1982. Political Process and the Development of Black Insurgency,
+1930-1970. Chicago: University of Chicago Press.
+
+Migdal, Joel S. 1974. Peasants, Politics, and Revolution: Pressures toward Political
+and Social Change in the Third World. Princeton, N.J.: Princeton University Press.
+
+Moore, Barrington. 1966. Social Origins of Dictatorship and Democracy: Lord and
+Peasant in the Making of the Modern World. Boston: Beacon.
+
+Nelson, Joan. 1984. “The Political Economy of Stabilization: Commitment, Capacity,
+and Public Response.” World Development 12:983—1006.
+
+. 1990. Economic Crisis and Policy Choice: The Politics of Adjustment in the
+Third World. Princeton, N.J.: Princeton University Press.
+
+North, Douglass C. 1981. Structure and Change in Economic History. New York:
+Norton.
+
+O’Brien, Kevin. 1994. “Implementing Political Reform in China’s Villages.” Austra-
+lian Journal of Chinese Affairs 32:33-60.
+
+Oi, Jean C. 1992. “Fiscal Reform and the Economic Foundations of Local State
+Corporatism in China.” World Politics 45 (1): 99-126.
+
+Olson, Mancur. 1982. The Rise and Decline of Nations. New Haven, Conn.: Yale
+University Press.
+
+Parish, William L. 1979. “The View from the Factory.” Pp. 119-40 in The China
+Difference, edited by Ross Terrill. New York: Harper.
+
+. 1994. “Rural Industrialization in Fujian and Taiwan.” In The Economic
+Transformation of South China, edited by Thomas P. Lyons and Victor Nee. Ithaca,
+N.Y.: Cornell University, East Asia Program.
+
+Parish, William L., Xiaoye Zhe, and Fang Li. 1995. “Nonfarm Work and Marketiza-
+tion of the Chinese Countryside.” China Quarterly 143:1-29.
+
+Pereira, Luiz Carlos, Jose M. Maravall, and Adam Przeworski. 1993. Economic
+Reforms in New Democracies. Cambridge: Cambridge University Press.
+
+Psacharopoulos, George. 1994. “Returns to Investment in Education: A Global Up-
+date.” World Development 22:1325-1343.
+
+Putnam, Robert D. 1993. Making Democracy Work: Civic Traditions in Modern
+Italy. Princeton, N.J.: Princeton University Press.
+
+Ramseyer, J. Mark, and Frances M. Rosenbluth. 1993. Japan’s Political Marketplace.
+Cambridge, Mass.: Harvard University Press.
+
+Rocca, Jean-Louis. 1992. “Corruption and Its Shadow.” China Quarterly 130:402—
+16.
+
+Rubinson, Richard, and Irene Brown. 1994. “Education and the Economy.” Pp.
+581-99 in The Handbook of Economic Sociology, edited by Neil J. Smelser and
+Richard Swedberg. Princeton, N.J.: Princeton University Press.
+Sabel, Charles F., and David Stark. 1982. “Planning, Politics and Shop-Floor Power:
+Hidden Forms of Bargaining in Soviet-imposed State-socialist Societies.” Politics
+and Society 11:439-75.
+
+Scott, James C. 1977. “Patron-Client Politics and Political Change in Southeast
+Asia.” Pp. 123-46 in Friends, Followers, and Factions: A Reader in Political Cli-
+entelism, edited by Steffen W. Schmidt, Laura Guasti, Carl H. Landé, and James C.
+Scott. Berkeley: University of California Press.
+
+Shirk, Susan L. 1993. The Political Logic of Economic Reform in China. Berkeley
+and Los Angeles: University of California Press.-
+
+SSB (People’s Republic of China, State Statistical Bureau). 1994. Zhongguo Tongji
+Nianjian 1994 (Statistical Yearbook of China, 1994). Beijing: China Statistical
+Publishing House.
+
+Stark, David. 1992. “Path Dependence and Privatization Strategies in East Central
+Europe.” East European Politics and Societies 6:17-54.
+
+Tidrick, Gene, and Jiyuan Chen, eds. 1987. China’s Industrial Reform. New York:
+Oxford University Press.
+
+Tilly, Charles. 1990. Coercion, Capital, and European States, A.D. 990-1990. Cam-
+bridge, Mass.: Basil Blackwell.
+
+Wade, Robert. 1990. Governing the Market: Economic Theory and the Role of Govern-
+ment in East Asian Industrialization. Princeton, N.J.: Princeton University Press.
+
+Walder, Andrew. 1987. “Wage Reform and the Web of Factory Interests.” China
+Quarterly 109:22—41.
+
+. 1989. “Factory and Manager in an Era of Reform.” China Quarterly 118:
+242-64.
+
+Wank, David L. 1995. “Symbiotic Alliance of Entrepreneurs and Officials: The Log-
+ics of Private Sector Expansion in a South China City.” In The Waning of the
+Communist State: Economic Origins of Political Decline in China and Hungary,
+edited by A. G. Walder. Berkeley and Los Angeles: University of California Press.
+
+Weingrod, Alex. 1977. “Patrons, Patronage, and Political Parties.” Pp. 323-36 in
+Friends, Followers, and Factions: A Reader in Political Clientelism, edited by
+Steffen W. Schmidt, Laura Guasti, Carl H. Landé, and James C. Scott. Berkeley:
+University of California Press.
+
+Wong, Christine P. W. 1992. “Fiscal Reform and Local Industrialization: The Prob-
+lematic Sequencing of Reform in Post-Mao China.” Modern China 18 (2): 197-227.
+
+Yan, Yun-Xiang. 1995. “Changes in Everyday Power Relations: A View from a
+North China Village.” In The Waning of the Communist State: Economic Origins
+of Political Decline in China and Hungary, edited by A. G. Walder. Berkeley and
+Los Angeles: University of California Press.
+
+Yang, Mayfair Mei-Hui. 1994. Gifts, Favors, and Banquets: The Art of Social Rela-
+tionships in China. Ithaca, N.Y.: Cornell University Press.
+
+Zaks, Jeffrey S. 1994. “Human Capital in a Worker’s Paradise: Returns to Education
+in Urban China.” Working Paper 94-7. University of Colorado, Department of
+Economics.

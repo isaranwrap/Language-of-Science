@@ -1,0 +1,892 @@
+Children and Marital Disruption
+
+Author(s): Linda J. Waite and Lee A. Lillard
+
+Source: American Journal of Sociology, Vol. 96, No. 4 (Jan., 1991), pp. 930-953
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2780736
+
+Accessed: 08-06-2016 04:00 UTC
+Children constitute the prime example of “marital-specific capi-
+tal,” a resource worth substantially more inside a marriage than
+outside it. This article examines the effect of children on marital
+stability, using data from the Panel Study of Income Dynamics,
+and tests the propositions that (1) children enhance marital stability,
+(2) younger children increase stability more than older children, and
+(3) under some circumstances children have no stabilizing effect
+or even increase chances that their parents’ marriage will end. A
+proportional hazards model in continuous time is estimated and
+then modified to accommodate key features of the data. The results
+indicate that firstborn children increase the stability of marriage
+through their preschool years. Other children increase marital sta-
+bility only when they are very young. Older children and children
+born before marriage significantly increase chances of disruption.
+The initially stabilizing and later destabilizing effects of children
+combine over the course of the marriage to give parents only a
+modestly higher chance than childless couples of reaching their
+twentieth wedding anniversary.
+EMPIRICAL EVIDENCE
+
+A rich research tradition focuses on the relationship between children
+and marital disruption. But the relationship is so complex and so depen-
+dent on other circumstances that much of the literature addresses a lim-
+ited part of the problem, uses special samples that cannot be generalized,
+or ignores the intertwined effects of marital duration and childbearing.
+
+First, couples tend to disrupt marriages more readily in the early years
+of marriage—exactly the period when rates of childbearing are highest.
+This association confounds the effects of marital duration with the effects
+of presence, number, and ages of children (Schoen 1975; Cherlin 1981).
+Second, the “effect” of children on marital stability actually comprises
+a number of distinct effects, primarily number of children, ages of chil-
+dren, and timing of births relative to marriage.
+
+Most research to date has examined only one of these effects. For
+example, Chester (1974) focuses on childlessness and marital disruption;
+he concludes that one cannot say for sure whether there is a relationship
+if one has only cross-sectional data and compares mean marital duration
+for those with children and without. Some research examines only the
+age of the youngest child (vs. no children); Mott and Moore (1979) find
+no evidence of effects of youngest child, but their sample includes only
+the early years of marriage and is focused on the preschool years. Thorn-
+ton (1977) examines the effect on marital stability of number of children
+without regard to their age. He reports that both women with no children
+and those with relatively large families exhibit higher rates of marital
+disruption than those with one or two children. In a related piece, he
+reports that the number of children has no significant effect on attitudes
+toward divorce in general (Thornton 1985) (but presence of children un-
+der age six decreases the proportion of husbands who have ever consid-
+ered divorce for themselves, according to Huber and Spitze [1980]).
+
+Waite, Haggstrom, and Kanouse (1985) focus only on effects of the
+firstborn. In an analysis restricted to the early years of parenthood, they
+find that married parents have disruption rates of 5% and 8% for males
+and females, respectively, by two years after the birth of the first child.
+However, they estimate that from 22% to 25% of these couples would
+have broken up without the birth of a child. This is an estimate based
+on comparisons with married but childless couples with many of the
+same characteristics.
+
+Cherlin (1977) examines the effect of having any preschool children
+and of having any older children, the effect of total number of children,
+and the effect of premarital childbearing on chances of disruption over
+a five-year period. He finds that only the presence of any preschool-aged
+children decreases the probability of divorce for married women, a result
+also reported by Becker et al. (1977). But Hannan, Tuma, and Groene-
+veld (1977), analyzing data from the Seattle and Denver Income Mainte-
+nance Experiment, find no effect of the presence of children under age
+six or of children aged 6—10 on marital dissolution for black, white, or
+Hispanic women, although the investigators do not consider number of
+children.
+
+In perhaps the most comprehensive examination of the determinants
+of marital disruption and how these change between cohorts and over
+the life cycles of the women involved, Morgan and Rindfuss (1985) find
+that first births decrease the likelihood of divorce in all marital cohorts
+and at all the marital durations that they examined. Premarital births
+increased chances of disruption, but these effects were limited to the first
+few years of marriage. In contrast, Cherlin (1977) finds no effect for
+premarital births.
+
+If the empirical evidence on the relationship between children and
+marital disruption is mixed, most theoretical perspectives are clear. We
+turn to the major perspectives in the next section.
+children (Thornton 1977). Children may increase the psychic costs of
+divorce to the parents, both because of the loss of access to the children
+experienced by the noncustodial parent (Furstenberg et al. 1983) and the
+increased burden on the custodial parent and because of the decreased
+financial well-being that typically follows divorce, especially for the
+mother and the children (Hoffman 1977; Duncan and Hoffman 1985).
+Parents may end their marriages less readily than childless couples be-
+cause they believe that disruption will harm the children (see Thornton
+[1977] for a review of this literature), and, indeed, the literature on the
+consequences of divorce shows deleterious short-term and long-term ef-
+fects (Furstenberg and Allison 1985; McLanahan and Bumpass 1988).
+
+A number of researchers argue that young children stabilize marriages
+more than older children. Cherlin (1977) argues that preschool children
+more effectively inhibit marital disruption because they require more
+time, effort, and expense than do older children. We elaborate this rea-
+soning as follows. If children tie their parents together through increasing
+specialization within the marriage, this tie might be strongest when that
+specialization is most complete, that is, during the years of childbearing,
+infancy, and the preschool ages. Mothers turn over some of the tasks of
+child rearing of older children, such as discipline, entertainment, helping
+with homework, and athletic training, to fathers. This is especially true
+for sons (Morgan et al. 1988). And schools take over some of the child
+care and training functions for children over five or six. Parents may
+believe that very young children’s dependence on parental time and at-
+tention is such that the loss of a parent from the home would be more
+harmful for them than for a school-aged child or teenager. And recent
+research suggests that children who receive full-time care by someone
+other than their mother during the first year suffer emotional and behav-
+ioral consequences over the long run (Belsky and Rovine 1988; Desai,
+Chase-Landale, and Michael 1989). Since marital disruption and the con-
+sequent loss of income force many previously homemaking mothers into
+the labor force, these considerations might deter divorce most forcefully
+during the child’s early years. In addition, having a child may signal
+commitment to the relationship, a signal that gets weaker the more dis-
+tant the signaling event.
+
+Older children may inhibit the disruption of their parents’ marriage
+less than younger children if, as children enter school, they need much
+less of their parents’ time in care and become more emotionally indepen-
+dent. And since parents spend less time with older than with younger
+children, noncustodial parents give up less contact with older children
+than with younger. Finally, the closer children get to maturity and the
+residential independence that accompanies it, the less future contact with
+the child a parent gives up by divorcing.
+Economic perspectives on divorce (Becker 1973; Becker et al. 1977)
+focus on investments in the marriage and on the alternatives to the mar-
+riage. Unlike many investments in being married, such as specialization
+by the spouses, children constitute an investment in this particular mar-
+riage and, as such, should decrease chances of disruption of the marriage
+in which they were produced. In fact, previously married women, espe-
+cially young women, are less likely to remarry if they have children than
+if they are childless (Teachman and Heckert 1985), so that alternatives
+to the current marriage probably are less attractive for mothers than for
+childless women. However, economic theories appear to be silent on how
+children of different ages affect marital stability.
+
+Both sociological and economic perspectives imply that, to the extent
+that children increase the real or psychic costs of divorce or create a long-
+lasting bond between the parents, couples that have ever had children
+will have more stable marriages than childless couples. In addition,
+young children may decrease the chances of divorce either by raising
+the parents’ commitment to the marriage or by increasing the costs of
+disruption. Having children may signal at least a short-run commitment
+to the continuation of the relationship. We test both of the hypotheses
+implied by this perspective: first, that offspring reduce the probability of
+dissolution and, second, that younger children have a greater stabilizing
+effect on marriages than older children.
+
+However, both sociological and economic theories have paid less atten-
+tion to the destabilizing than to the stabilizing effect children may have
+on marriages, and neither perspective has fully explicated the conditions
+under which children stabilize or, conversely, destabilize marriages. Em-
+pirical work and scattered theoretical treatments point to the mechanisms
+through which and the conditions under which children might increase
+chances of disruption.
+
+First, as most theories note, children born outside the marriage in
+question may increase chances of divorce because they belong to only
+one of the partners, by providing ties to relationships outside the mar-
+riage, and by acting as a source of conflict within the marriage (Becker
+et al. 1977; Cherlin 1978). In fact, recent research has found that remar-
+riages that include stepchildren are more likely to dissolve than remar-
+riages without them and that children from previous relationships consti-
+tute a source of tension, strain, and discord in new marriages (White and
+Booth 1985a). This same reasoning extends to children born outside this
+relationship, before the first marriage. We test the hypothesis that chil-
+dren born out of wedlock increase the chances of marital disruption.
+
+There are a number of other conditions under which children may
+make marriages less likely to survive. Much previous research shows
+strong, zero-order effects of premarital conception on chances of disrup-
+tion (Furstenberg 1976; Coombs and Zumeta 1970); theory points to the
+abbreviated search for a marital match often caused by such a pregnancy
+as a primary mechanism (Becker et al. 1977). In addition, any childbear-
+ing soon after marriage gives the new couple relatively little time to
+establish their relationship before entering their new roles as parents.
+Childbearing early in the marriage often reduces the couple’s ability to
+accumulate assets prior to the financial drain of supporting a third family
+member (Coombs et al. 1970; Freedman and Thornton 1979). We test the
+hypothesis that a first birth conceived before marriage increases marital
+instability.
+
+But we suggest other mechanisms through which children may increase
+chances of disruption: children interfere with time spent maintaining the
+marital relationship and may decrease happiness and life satisfaction.
+Hill (1988) suggests that children decrease marital stability indirectly be-
+cause, as she shows, their presence interferes with the parents’ leisure
+time spent together and shared leisure activities create a bond that
+strengthens marriage. Her research, which is based on the sample of
+individuals interviewed in the Michigan Time Use Survey in 1975-76,
+supports this reasoning (see also Kingston and Nock 1987). And a sub-
+stantial literature suggests couples with children are less satisfied, on
+average, with their marriages than are childless couples (Glenn and
+McLanahan 1982) and that women with young children perceive a lower
+quality of life than those in any other life-cycle stage (Campbell, Con-
+verse, and Rogers 1976). Some of this unhappiness appears to result
+directly from the demands and disruptions of the birth of a child, espe-
+cially a first child (Rossi 1968).
+
+If the presence of young children inhibits divorce, for reasons outlined
+above, but decreases marital and life satisfaction, this process may result
+in increasing heterogeneity of the population of couples at longer marital
+durations, with still-married childless couples happier and more satisfied
+than couples with children. If, as we and others have suggested, the
+stabilizing effect of children declines with the children’s ages, then par-
+ents may postpone disruption when children are young, creating a pent-
+up demand for divorce that parents satisfy when children get older. This
+would appear as a declining negative effect on disruption with children’s
+age, with the inhibiting effect disappearing or even turning positive at
+older ages. We test the hypothesis that the presence of older children
+increases marital instability compared with childless couples among those
+couples still married.
+
+We restrict our attention in this analysis to the stability of first mar-
+riages because a sizable number of influences on disruption apply only
+PSID DATA: MARITAL DURATIONS AND CHILDBEARING PATTERNS
+
+Our analysis uses data on first marriages constructed from the first 18
+years, 1968-85, of the PSID. The PSID is well suited to analysis of the
+relationship between children and marital disruption. First, it contains
+longitudinal information on both marital and fertility changes. This
+allows us to trace the experiences of individual couples over a substantial
+period. Second, the sample of married couples is large, with a sizable
+number of disruptions during the period of observation. Third, since our
+analysis uses all information on any sample member ever in the PSID
+who meets our criteria, we minimize problems of sample attrition.
+Fourth, the PSID obtained information on marital status at each inter-
+view, a practice that minimizes recall bias, together with a complete
+retrospective marital and fertility history in 1985. The availability of the
+two types of information allows us to date marriages, separations, di-
+vorces, and births with a good deal of precision. Finally, the PSID repre-
+sents the entire age range of married couples in the United States, which
+allows us to generalize to the nation as a whole.
+
+The PSID began in 1968 with 5,500 households. Approximately half
+of those were drawn from a nationally representative sample and half
+drawn from the prior year’s Survey of Economic Opportunity (SEO)
+sample, which oversampled low-income households. Demographic and
+socioeconomic data were collected for the household and each member of
+the household. These included marital status and, for married household
+heads (the husband in the case of married-couple households and the
+householder in others), data on whether the current marriage was the
+first marriage and the date of marriage. Information was collected on all
+Sample Characteristics
+
+We begin with every couple that we observed married between 1968 (the
+initial interview in the PSID) and 1985, the year in which the PSID
+obtained a detailed retrospective marital history. We restrict our analysis
+to those couples for whom this was the respondent’s first marriage. For
+couples married in 1968, the respondent is the husband. For those who
+married later, the respondent is the PSID sample member and could be
+either male or female.
+
+We observe separation or divorce within intervals defined by the inter-
+view year. The value of all time-varying measures, such as the husband’s
+income, comes from the immediately preceding interview. In addition,
+within years we begin a new interval whenever one of the children born
+to the couple enters a new age category or when a marriage begins or
+ends. For example, we define a new interval when the couple has a first
+birth, when a preschool child reaches age six, or when an 18-year-old
+reaches 19. This allows us to measure the value of these time-varying
+variables very precisely over the marriage. We include in our sample all
+intervals during which the marriage is at risk of disruption.
+
+In this analysis we combine divorces and separations under the general
+rubric of marital disruption or dissolution. We include separations be-
+cause separation often precedes legal divorce by several years, and be-
+cause separation without subsequent divorce is a frequent disruption
+pattern for blacks (Glick and Norton 1977).
+
+The result is a sample of 4,400 first marriages, one-third of which
+ended in divorce or separation during the panel period. Thirty-one per-
+cent of these marriages were underway at the first interview in 1968 and
+so are left truncated—we have no information about the marriage before
+that year. The observations are truncated rather than censored because
+the marriage date is known, but the marriage had to survive to its current
+duration in 1968 to be a first marriage. The remainder of the marriages
+in our sample began during the panel period.
+
+For all marriages observed at any point during the panel period we
+observe the duration of the marriage (if the couple divorces or separates
+during the panel) or the censoring of the marriage by attrition, death of
+one partner, or the last wave of the survey. But we observe 1,070 di-
+vorces or separations among those married during the panel and 354
+disruptions among marriages underway in 1968 for a total of 1,424 dis-
+ruptions. Thus, 26% of those couples who were already married in 1968
+dissolved their marriages within their participation in the panel, and 35%
+of those married for the first time within the panel divorced or separated
+during their participation in the panel. This difference in the percentage
+of marriages disrupted reflects high divorce rates early in marriage, espe-
+cially since the average period of participation as a married couple is
+shorter for those married within the panel. The remaining couples, not
+divorced within the sample, represent right-censored observations be-
+cause we do not observe the dissolution of the marriage and know only
+that, if it occurred, it happened after the last survey period.
+
+We adjust risk of dissolution for the effects of covariates that theory
+and previous research point to as important determinants of marital in-
+stability. These include race (Michael and Tuma 1985), the education of
+the husband (Glick and Norton 1977), income (Hannan et al. 1977), age
+at marriage of the husband and of the wife (Moore and Waite 1981),
+religion (Chi and Houseknecht 1985; McCarthy 1979), and time period
+(Thornton and Rodgers 1987). South and Spitze (1986) find that the ef-
+fects of these and similar variables do not change over the marital life
+course. Table 1 gives definition of these variables and their means for
+couples observed at various durations of marriage. We measure the in-
+come of the head (Cherlin 1978; Ross and Sawhill 1975) as a dummy
+variable for low income (the bottom quartile). Only the income mea-
+sure—and measures of ages and numbers of children, discussed next—
+is time varying. In all cases, we experimented with a number of specifi-
+cations of these independent variables before settling on those presented
+here as best capturing the effects in question.
+to allow us to test the hypotheses presented earlier. For this reason, we
+distinguish first children from their later-born siblings, and we distin-
+guish younger from older children. One variable indicates that the cou-
+ple’s first child was born in the previous year (FB), another that the
+couple had a second- or higher-order birth in the last year (BIRTH). We
+measure the presence of a first child between 1 and 5 years old (FPSC),
+the number of preschoolers other than the first (NPSC), the number of
+children between 6 and 12 years old, the number of children between 13
+and 18, and the number of children older than 18. In addition, we include
+a dummy variable for a premarital conception, measured as a birth
+within eight months of marriage (BIRTHMAR), and a dummy variable
+for a child born prior to the mother’s first marriage (PREMAR). Table
+2 presents means for presence and ages of children for couples at various
+durations of marriage.
+
+The panel nature of the data used in this study is extremely useful for
+identifying the separate effects of duration and children, given the strong
+association of presence and ages of children with years married. A cross-
+sectional view of the data reveals a strong tendency for those couples
+who have been married for a longer time at the initial survey to have
+more and older children. We include marriage cohort variables to capture
+those trends. However, we observe the couples in our sample over many
+years, and so have a longitudinal view of their childbearing and marital
+stability.
+Statistical Model
+
+The statistical model underlying our approach is based on proportional
+hazards in continuous time, modified to accommodate the key features
+of our data: (1) the explanatory variables of primary interest, measures
+of the presence of children, inherently vary over time; (2) some marriages
+were in progress at the time of the final survey or at the time that the
+couple left the sample (due to attrition), so that marriage durations may
+be right censored; (3) the data on marriage durations come either from
+retrospective reports of dates of marital separation or divorce or from
+annual reports of marital status at survey times over the 18-year panel;
+and (4) some marriages were in progress at the time of the initial survey,
+so that marriage durations may be left truncated (at a known duration).
+
+Let us begin with the basic continuous-time model of marital duration.
+A couple marries and is immediately at risk of dissolution. The (log)
+hazard of marital disruption is given by
+
+In h(t) = In A [v(t), w,] + «,X(t) + a5 kids(t),
+where v(t) is the duration at time ¢, X(t) is a vector of time-varying (or
+constant) regressors, and kids(t) is a vector of variables measuring the
+presence and ages of children.
+
+The risk of dissolution may change systematically over time as the
+marriage continues. The couple learns over time about the quality of the
+match, and the couple may acquire “marriage-specific capital,” which
+makes the union more desirable so that the risk of divorce declines as
+the marriage endures. This change accounts for declining divorce proba-
+bilities with marital duration (Becker et al. 1977). These systematic
+changes in the risk of dissolution are reflected in the baseline hazard. We
+use a piecewise log linear spline in marriage duration, v(t), for the base-
+line hazard.
+where ¢;,, is the duration at the end of the last subinterval J.
+
+About a third of the first marriages were in progress at the time of the
+first survey. These observations are left truncated. Left truncation occurs
+in the case in which the marriage date is known but the marriage had
+been in progress m years when it was first observed.* For these observa-
+tions the likelihood is conditioned on the probability of the marriage’s
+surviving from its inception to the initial period of observation, that
+is, the survivor function at that duration. In this proportional hazard
+formulation this probability simply cancels with the corresponding por-
+Parameter Estimates
+
+Maximum-likelihood estimates of the parameters of the model are pre-
+sented in table 3. The first column of table 3 presents estimates from our
+preferred model, which includes all measures of numbers and ages of
+children discussed earlier. The other columns in table 3 present alterna-
+tive models estimated for comparison. Column 2 presents the model with
+a single measure of number of children instead of the detailed measures
+we prefer, column 3 presents the model with no measures of presence
+and ages of children, and column 4 presents a model that includes only
+splines for duration of marriage and a dummy variable for race. The
+coefficients from the models must be transformed to yield clearer substan-
+tive interpretation; however, we discuss the pattern of statistical signifi-
+cance and sign briefly below.
+
+Children clearly have a powerful effect on the risk of marital dissolu-
+tion—at least under some circumstances. While we explore these issues
+more fully below, the basic pattern is clear: the presence of young chil-
+dren delays the initiation of separation or divorce until the child is of
+school age. Young children greatly reduce the hazard of disruption,
+whereas children over age 12 increase the hazard by a smaller amount
+but for a longer period. Only the presence of preschool children after the
+first child and children ages 6-12 have no statistically significant effect
+on the chances that their parents’ marriage will dissolve; each child older
+than 12 significantly increases the risk of disruption. And a child born
+before the beginning of the first marriage substantially increases chances
+of disruption.
+
+We control for the effect of a number of demographic variables in
+addition to the measures of the presence of children. Couples in which
+the husband is highly educated have a much lower rate of separation and
+divorce than those with less educated husbands, with chances of disrup-
+tion falling fairly steadily with increases in husband’s schooling. Mar-
+riage when the wife is age 20 or younger reduces the chances that the
+couple will dissolve, although we find this result suspect.° The measures
+(ost0") (osto") (110°)
+«xb000" %76£0" xbveo" os verre OLTLUVWA
+(8€T0') (Tr10°) (sT0")
++STO" 1600° Leto" seeeneeeeneneeeseeeeeeo sO OOTY ATA
+(2120') (120°) (v120")
+#x£7S0" 1870" ax S S10" ue “OOUVINA
+(s€TT’) (6etT) (Lv1T’)
+wx 06S" — 4978S" — sexe] 299° — OTT
+(960°) (860°) (v080")
+#7891 — xxl £91 — 99ST vereeeneeees stetHdg
+(290°) (€290°) (290°)
+wen SOLE™ sea TATE" sexe POOL” vrereteteeeeneee " 7LLTHdd
+(0290°) (9290°) (4290°)
+sea POLT — ee @TbT — aeeSS@D vere “OZ7MUWOV
+(090°) (sT90") (2190)
+1840" 2690" 8h10" . beeeeseseteteneeeeseseneeeees “ 27ERNOV
+(2¢s0") (09s0°) (860°) (8690°)
+wna T9ZS" waxbZ97" e662" sexe TSZE™ “MOVIE
+(¥600") (9bT0") (urt0') (1020°)
+48690" — sexx SHO" — xx0S0" — wee€l80'— “7 sawak OT <
+(s220°) (9¥20") (uv20") (o0€0")
+evn €£80°— #2260" — 407H0"— gafQQ0) Herre reeereeneeeeseessneneseessneessessneessess ga@ad OTS
+(64£0") (16¢0°) (s6¢0") (60+0')
+sea 8201" — $ze0'— $20" — z$20'— ver saead $-2
+(88z1") (8621°) (662T') (otet)
+¥SL22°— 6201 — +60" — 0060" — srrsaead 7-1
+(8112’) (se1z") (uet2") (1s12")
+#40686" axe LOLUT wee 9087 'T see Obbe TD “sread 1-0
+(4e9T) (goze") (90z€") (9zze")
+n078S'E — sean STES™E — weanSZ28'E — wen f006'S — + -ydaoxoquy
++ £ z I aqqeHeA
+
+ 
+
+ 
+
+NOLLANUSIG IVLNAVI, 40 Tao] NI SUALAWVAVG JO SALVWILSY GOOHITAMT-WOAWIXVIL
+
+€ ATaVL
+10'S d xxx
+
+“10° <d < $0" xx
+
+“$0. <d < Ol’
+
+“SUS ere sasayjuaied ur sanjeA—‘aLON:
+
+ 
+
+6°706
+
+“
+
+—
+
+ST6L‘L—
+(99S0°)
+
+axa SO0V
+
+9°s84‘L—
+(990°)
+aa STUD"
+
+vsELL—
+(49S0°)
+seen DOEP™
+(p£L0")
+«6797
+(6190°)
+ae CbbT
+(StS0°)
+T6T0" —
+(980°)
+£6£0' —
+(€920°)
+#x8L9T —
+(LET)
+wna 8 S60" —
+(6T€T)
+#448883" —
+
+[oun mne\
+
+ 
+ 
+
+“pooyrfayl] BOT
+
+ 
+ 
+
+ 
+
+ 
+
+“NYGWIO
+
+ 
+
+“ 8SLLON
+
+ 
+
+“STEIN
+
+  
+
+*7T9N
+
+ 
+
+ 
+
+ 
+
+ 
+
+“ OSdN
+
+ 
+
+“OSdA
+
+ 
+
+“HLA
+
+ 
+
+aa
+of marriage cohort show increases in chances of disruption before 1960,
+a period of relative stability from 1960 to 1970, and then substantial
+increases after 1977. This pattern maps secular trends in divorce rates
+fairly well. We also see that low husband’s income (in the year preceding
+a survey response) increases the risk of disruption. These results closely
+match those reported by others.
+
+Comparison of the estimates in columns 1-4 of table 3 makes some
+interesting points. First, the effect of number of children born during the
+marriage (col. 2) is negative but quite modest in size. This effect reflects
+the strong negative effects of young children, especially the firstborn, the
+weak effects of preschool- and school-age children, and the positive ef-
+fects of children older than 12. The measure of number of children ap-
+pears to be quite misleading about the effect of children of different ages
+and birth orders on the chances that their parents’ marriage will dissolve.
+Note also that the effect of a premarital birth is much weaker in the
+equation estimated in column 2, which includes numbers of children born
+but none of their characteristics. This suggests some correlation between
+occurrence of a premarital birth and timing and number of marital births
+so that, without appropriate controls, some of the protective effect of
+young children offsets the disruptive effect of a child born before mar-
+riage.
+
+Note also that the parameter estimates in column 3 come from models
+that contain no measures of presence or ages of children and are virtually
+identical to those in columns 1 and 2 for all the remaining variables in
+the model. So, although a simple measure of number of children born
+does not reflect the complex effect of children on chances that a marriage
+will end, use of such a variable—or even no measures of marital child-
+bearing—has little effect on conclusions about the strength of other
+factors.
+
+The final column of table 3 shows a very simple model, which includes
+only splines for marital duration and a dummy variable for race. Note
+that when other factors are not controlled, black couples are much more
+likely to end their marriages than are whites. But controls for education,
+low income, age at marriage, and so on substantially reduce this differen-
+CONSEQUENCES OF CHILDBEARING PATTERNS FOR
+MARITAL DURATIONS
+
+In this section we present a discussion of specific hypotheses about the
+effect of children on marital duration. To make the rather cumbersome
+coefficients in table 3 more easily interpretable, we present simulations
+of the proportion of marriages surviving and the hazard of disruption at
+each duration of marriage for a couple with a chosen set of character-
+istics.
+
+The previous section presented estimates of the effects of children on
+the hazard of marital disruption, focusing on effects of the first birth, all
+subsequent births, and presence and numbers of children of various ages.
+We find that a first birth dramatically lowers the probability that the
+marriage will dissolve in the interval, with a smaller effect of later births.
+This finding is consistent with the reasoning that a first birth acts as a
+signal of the stability of the couple—so that those couples who plan to
+stay together are much more likely than others to become parents, at
+least in part because they plan to stay together. This finding is also
+consistent with Cherlin’s (1977) argument that the high costs of caring
+for a young child increase the costs of dissolving a marriage.
+
+Couples with children ages five or younger face significantly lower risks
+of disruption than other couples (although the effect is only significant for
+the first preschooler). But the inhibiting effects of children older than
+five decrease with the age of the child; we see very small, statistically
+insignificant effects of children ages 6-12, with the effect of children
+becoming positive in the teenage years, so that each child age 13 or older
+significantly increases the chances that his or her parents will dissolve
+their marriage. These results match quite closely other findings of the
+effects of preschool children (Becker et al. 1977; Cherlin 1977). However,
+previous research only vaguely suggests a positive effect of children ages
+12 and older on the chances that their parents will dissolve their mar-
+riage. We address this issue in more detail below.
+
+Next, we assess the implications of the estimates presented earlier of
+effects of children on the hazard of divorce and for the long-run marital
+stability of couples with different numbers of children. We do this by
+simulating hazards of disruption and survival rates for couples with base-
+line values on the time-invariant independent variables while varying
+the number and timing of children. This exercise displays the effect of
+different patterns of childbearing on disruption at various marital dura-
+tions, other things being equal.
+
+We take: as the baseline case a couple with the omitted values on all
+series of dummy variables: couples married in 1970, with a male head of
+household with 12 years of schooling and an income higher than the
+lowest quartile, who married at age 22 or older to a woman aged 20 or
+older, with no premarital birth or birth in the first year of marriage.
+
+Figure 1 displays the effects of any versus no children on hazards of
+disruption of the marriage. Figure 2 shows survival rates at 20 years of
+marriage for couples with no children, with one child, with three chil-
+dren, and with five children.
+
+These figures make two important points. First, as figure 1 shows,
+hazards vary dramatically over the course of the marriage for couples
+with and without children; those with no children face hazards that rise
+steeply over the course of the first year and then fall gradually over the
+remainder of the marriage, whereas parents face dramatically lowered
+hazards of disruption when their first child is young and somewhat lower
+hazards until their children become teenagers. But each older child in-
+creases the hazard of disruption significantly.
+
+Figure 2 shows the implications of this pattern for the long-term sur-
+vival of couples with different numbers of children. The results are strik-
+ing. The early protective effects of children on the marriage are largely
+offset by the later disruptive effects, making the overall effect of children
+on marital stability quite modest. This substantive result does not arise
+from any constraints on the model but from the empirical results we
+obtain.
+
+We are now in a position to use our findings to answer some of the
+questions posed earlier. First, does having children increase marital sta-
+bility? The answer is clearly, yes and no. Having children increases mari-
+tal stability in the short run. But in the long run, children have only a
+modest stabilizing effect. Second, do younger children increase stability
+more than older children? Clearly they do. In fact, we estimate that older
+children significantly decrease marital stability after about age 12. We
+find that each additional child reduces the parents’ risk of disruption
+when the child is age five or younger and increases this risk when he or
+she enters adolescence. The number of children changes the timing of
+disruption but does little to change its long-run probability. Do children
+born before or shortly after marriage decrease stability? The stability is
+decreased greatly, but only for premarital births. Children conceived
+before but born after marriage have no measurable effect on the stability
+of the marriage.
+children, considered by itself, affects the survival of marriages; any effect
+that exists is modest at best. Second, young children decrease chances of
+disruption, and this effect is strongest for the first birth. Third, under a
+number of circumstances children significantly decrease stability of first
+marriages, for example, if they were born out of wedlock or have reached
+the age of 13. Both of these effects are substantial.’ So our results indicate
+that, over the long run, marriages with many children are only slightly
+more likely to survive than marriages with few or even none.
+
+We argued earlier that children could hold couples together by raising
+the financial or psychic costs of divorce, by increasing the gains from
+division of labor between the couple (see Morgan et al. 1988), and because
+of the high costs in time, effort, and money of providing for children,
+especially when they are young. Whatever the mechanism through which
+young children decrease the chances that their parents’ marriage will
+dissolve, a substantial literature suggests that parents do not have hap-
+pier marriages and are not happier with life in general than couples
+without children (Glenn and McLanahan 1982). White and Booth (19856)
+suggest that the desire to have children or the arrival of offspring keeps
+marriages together even if they are of only moderate quality. Childless
+couples of the same marital quality divorce more readily, even in the
+absence of major problems. Thus, the intact childless couples become
+more and more selected for high marital quality relative to couples with
+children.
+
+Our results suggest that, although young children hold marriages to-
+gether, older children do not and may push couples apart. This result
+could occur if a birth causes couples who would otherwise have divorced
+to stay together, at least in the short run. Then the sample of couples
+with older children would include some who would have divorced had
+they not become parents. If the inhibiting effect of children fades and
+eventually disappears, these couples would then show higher divorce
+rates than childless couples simply because some of them had put off
+divorce earlier.
+
+An alternative argument suggests that children become a source of
+marital tension as they get older, especially as teenagers, when the strains
+of parenthood could augment the strains of marriage, leading to increased
+risks of disruption. And once children reach adulthood and leave home,
+parents need to give up very little contact with their children if they want
+to dissolve their marriage. Although our data do not allow us to test these
+REFERENCES
+
+Bachrach, C. A., and M. C. Horn. 1985. “Marriage and First Intercourse, Marital
+Dissolution and Remarriage, United States, 1982.” Advance Data from Vital and
+National Center for Health Statistics 107, Department of Health and Human Ser-
+vices publication no. 85-1250. Washington, D.C.: Public Health Service.
+
+Becker, Gary S. 1973. “A Theory of the Allocation of Time.” Economic Journal
+81:813-47.
+
+Becker, Gary S., Elizabeth Landes, and Robert T. Michael. 1977. “An Economic
+Analysis of Marital Instability.” Journal of Political Economy 85:1141-87.
+
+Becketti, Sean, Bill Gould, Lee Lillard, and Finis Welch. 1988. “The Panel Study of
+Income Dynamics after Fourteen Years: An Evaluation.” Journal of Labor Eco-
+nomics 6:423—45.
+
+Belsky, Jay, and Michael J. Rovine. 1988. “Nonmaternal Care in the First Year of
+Life and the Security of Infant-Parent Attachment.” Child Development 59 (1):
+157-67.
+
+Campbell, Angus, Philip Converse, and Willard Rodgers. 1976. The Quality of Ameri-
+can Life: Perceptions, Evaluations, and Satisfactions. New York: Russell Sage.
+Cherlin, Andrew. 1977. “The Effect of Children on Marital Dissolution.” Demogra-
+
+phy 14:265-72.
+
+. 1978. “Remarriage as an Incomplete Institution.” American Journal of Soci-
+
+ology 84:634—50.
+
+. 1981. Marriage, Divorce, and Remarriage. Cambridge, Mass.: Harvard Uni-
+versity Press.
+
+Chester, Robert. 1974. “Is There a Relationship between Childlessness and Marriage
+Breakdown?” Pp. 114-26 in Pronatalism: The Myth of Mom and Apple Pie, edited
+by E. Peck and J. Senderowitz. Ithaca, N.Y.: Cornell University Press.
+
+Chi, S. Kenneth, and Sharon K. Houseknecht. 1985. “Protestant Fundamentalism
+and Marital Success: A Comparative Approach.” Sociology and Social Research
+69 (3): 351-75.
+
+Coombs, Lolagene, Ronald Freedman, Judith Friedman, and William Pratt. 1970.
+“Premarital Pregnancy and Status before and after Marriage.” American Journal
+of Sociology 75 (5): 800-820.
+
+Coombs, Lolagene, and Zena Zumeta. 1970. “Correlates of Marital Dissolution in a
+Prospective Fertility Study: A Research Note.” Social Problems 18:92—102.
+
+Desai, Sonalde, P. Lindsay Chase-Lansdale, and Robert T. Michael. 1989. “Mother
+or Market? Effects of Maternal Employment on the Intellectual Ability of 4-Year-
+Old Children.” Demography 26 (4): 545-61.
+
+Duncan, Greg J., and Saul D. Hoffman. 1985. “A Reconsideration of the Economic
+Consequences of Marital Dissolution.” 22 (4): 485-97.
+
+Durkheim, Emile. 1933. The Division of Labor in Society. London: Macmillan.
+
+Freedman, Deborah, and Arland Thornton. 1979. “The Long-term Impact of Preg-
+nancy at Marriage on the Family’s Economic Circumstances.” Family Planning
+Perspectives 11 (1): 6-21.
+
+Furstenberg, Frank F., Jr. 1976. “Premarital Pregnancy and Marital Instability.”
+Journal of Social Issues 32 (1): 67-85.
+
+Furstenberg, Frank F., Jr., and Paul D. Allison. 1985. “How Marital Disruption
+Affects Children: Variations by Age and Sex.” Paper presented at the annual meet-
+ing of the Society for Research in Child Development, Toronto.
+
+Furstenberg, Frank F., Jr., Christine Winquist Nord, James L. Peterson, and Nicho-
+las Zill. 1983. “The Life Course of Children of Divorce.” American Sociological
+Review 48 (5): 656-67.
+
+Glenn, Norval D., and Sara McLanahan. 1982. “Children and Marital Happiness:
+A Further Specification of the Relationship.” Journal of Marriage and the Family
+44 (1): 63-72.
+
+Glick, Paul C., and Arthur J. Norton. 1977. “Frequency, Duration, and Probability
+of Marriage and Divorce.” Journal of Marriage and the Family 33:307-17.
+
+Hannan, Michael T., Nancy Brandon Tuma, and Lyle P. Groeneveld. 1977. “Income
+and Marital Events: Evidence from an Income-Maintenance Experiment.” Ameri-
+can Journal of Sociology 82 (6): 1186-1211.
+
+Hill, Martha. 1984. “Marital Stability: The Effects of Spouses’ Time Together.”
+Paper presented at the meeting of the Population Association of America, Minne-
+apolis.
+
+. 1988. “Marital Stability and Spouses’ Shared Time.” Journal of Family
+Issues 9 (4): 427-51,
+
+Hofferth, Sandra L. 1982. “Uses of the Panel Study of Income Dynamics for the
+Demographic Study of the Family: Strengths, Weaknesses, and Suggestions for
+Improvement.” Paper prepared for the National Advisory Board on the Panel
+Study of Income Dynamics.
+
+Hoffman, Saul. 1977. “Marital Instability and the Economic Status of Women.”
+Demography 14 (1): 67-76.
+
+Huber, Joan, and Glenna D. Spitze. 1980. “Considering Divorce: An Expansion of
+Becker’s Theory of Marital Instability.” American Journal of Sociology 86 (1):
+75-89.
+
+Kingston, Paul William, and Steven L. Nock. 1987. “Time Together among Dual-
+Earner Couples.” American Sociological Review 52, no. 3 (June): 391-400.
+
+McCarthy, James. 1978. “A Comparison of the Probability of the Dissolution of First
+and Second Marriages.” Demography 15 (3): 345-59.
+
+. 1979. “Religious Commitment, Affiliation, and Marriage Dissolution.” Pp.
+179-97 in The Religious Dimension: New Directions in Quantitative Research,
+edited by Robert Wuthnow. New York: Academic Press.
+
+McLanahan, Sara, and Larry Bumpass. 1988. “Intergenerational Consequences of
+Family Disruption.” American Journal of Sociology 94 (1): 130-52.
+
+Michael, Robert T., and Nancy Brandon Tuma. 1985. “Entry into Marriage and
+Parenthood by Young Men and Women: The Influence of Family Background.”
+Demography 22:515—44.
+
+Moore, Kristin A., and Linda J. Waite. 1981. “Marital Dissolution, Early Mother-
+hood, and Early Marriage.” Social Forces 60 (1): 20-40.
+
+Morgan, S. Philip, Diane N. Lye, and Gretchen A. Condran. 1988. “Sons, Daughters,
+and the Risk of Marital Disruption.” American Journal of Sociology 94 (1): 110-29.
+
+Morgan, S. Philip, and Ronald R. Rindfuss. 1985. “Marital Disruption: Structural
+and Temporal Dimensions.” American Journal of Sociology 90 (5): 1055-77.
+
+Mott, Frank L., and Sylvia F. Moore. 1979. “The Causes of Marital Disruption
+among Young American Women: An Interdisciplinary Perspective.” Journal of
+Marriage and the Family 41 (2): 355-65.
+Ross, Heather L., and Isabel V. Sawhill. 1975. Time of Transition: The Growth of
+Families Headed by Women. Washington, D.C.: Urban Institute.
+
+Rossi, Alice. 1968. “Transition to Parenthood.” Journal of Marriage and the Family
+30:26-39.
+
+Schoen, Robert. 1975. “California Divorce Rates by Age at First Marriage and Dura-
+tion of First Marriage.” Journal of Marriage and the Family 37 (3): 548-55.
+
+South, Scott J., and Glenna Spitze. 1986. “Determinants of Divorce over the Marital
+Life Course.” American Sociological Review 51 (4): 583-90.
+
+Teachman, Jay D. 1986. “First and Second Marital Dissolution: A Decomposition
+Exercise for Whites and Blacks.” Sociological Quarterly 27 (4): 571-90.
+
+Teachman, Jay D., and Alex Heckert. 1985. “The Impact of Age and Children on
+Remarriage.” Journal of Family Issues 6 (2): 185-203.
+
+Thornton, Arland. 1977. “Children and Marital Stability.” Journal of Marriage and
+the Family 39:531-40.
+
+. 1985. “Changing Attitudes toward Separation and Divorce: Causes and Con-
+sequences.” American Journal of Sociology 90 (4): 856-72.
+
+Thornton, Arland, and Willard Rodgers. 1987. “The Influence of Individual and
+Historical Time on Marital Dissolution.” Demography 24 (1): 1-22.
+
+Waite, Linda J., Gus W. Haggstrom, and David E. Kanouse. 1985. “Changes in the
+Employment Activities of New Parents.” American Sociological Review 50:263—72.
+
+White, Lynn K., and Alan Booth. 1985a. “The Quality and Stability of Remarriages:
+The Role of Stepchildren.” American Sociological Review 50:689—98.
+
+. 19856. “The Transition to Parenthood and Marital Quality.” Journal of
+
+Family Issues 6 (4): 435-49.

@@ -1,0 +1,770 @@
+Sealing Experience by a Multiple-Response Technique: A Study of White-Negro Contacts
+Author(s): Robert N. Ford
+
+Source: American Sociological Review, Vol. 6, No. 1 (Feb., 1941), pp. 9-23
+
+Published by: American Sociological Association
+
+Stable URL: http://www.jstor.org/stable/2086337
+
+Accessed: 16-06-2016 04:35 UTC
+Rosert N. Forp
+University of Alabama
+
+paper.! In testing this hypothesis, the word experience has suffered
+
+certain restrictions: (I) we refer to the experiences which white
+Americans have had with Negroes; (2) we refer to experiences which evoke
+variable responses, depending upon the individual and his life situation;
+(3) we avoid references to experiences of a tabooed nature; and (4) we refer
+to the pencil marks placed upon paper by our subjects. Such pencil marks
+are not white-Negro experiences of course. Whether they symbolize such
+contacts, which is the problem of validity, will receive considerable atten-
+tion here.
+
+Three subsidiary hypotheses are examined in this paper: (1) the experi-
+ences which an individual reports as his own are generally the same as
+those he reports for his community; (2) attitude and experience are inter-
+dependent; and (3) lectures on race relations will not shift the mean experi-
+ence scores of students, but they will shift attitude scores. In this work,
+attitude and experience will refer to scores assigned individuals as the result
+of their having selected answers on certain scales which purport to quantify
+these variables. Epistemological doubts, such as, “How accurate are recalls
+of experience,” will be omitted from consideration here. Methodological
+doubts, such as the propriety of summing scores, will be omitted likewise
+from consideration at this time. Instead, available space will be devoted to
+describing, (I) the instrument designed to scale experience, (II) its re-
+liability, (III) its validity, and (IV) the extent to which the hypotheses are
+sustained. The attitude scales employed are those of E. D. Hinckley? and
+E. S. Bogardus,? and the experience scales constructed by the author which
+appear here for the first time.
+
+Uses for Experience Scales. The chief value of such scales of experience,
+should they prove reliable and valid, lies in the opportunities afforded for
+checking our theories of the origins of attitude and for checking the inter-
+relation between experience and attitude. Findings reported later show that
+experience and attitude are indeed positively correlated, in so far as we have
+
+Gs experience can be scaled. That is the major hypothesis of this
+
+11 am greatly indebted to many people for aid in this research: at the University of Pitts-
+burgh, to Alfred G. Dietze, Harold A. Phelps, M. C. Elmer, Verne C. Wright, D. B. Rogers,
+W. A. Lunden, and R. J. Munce; at Tulane University, to Harlan W. Gilmore; and at the
+University of Mississippi, to Paul B. Foreman. Parts of this research appear here for the first
+time. Other parts in extended form are on file as a Ph.D. thesis at the University of Pittsburgh.
+
+2 Attitude Toward the Negro, University of Chicago Press, L. L. Thurstone, Editor.
+
+3 “A Social Distance Scale,” Sociol. and Soc. Res., 1933, 17: 265-271.
+
+9
+examined white-Negro contacts in our particular way. New scales could
+then be created to measure other areas of experience, such as religious ex-
+perience, experience with intoxicants, etc., to determine whether the rela-
+tion between attitude and experience is generally positive, whether it varies
+from social object to social object, whether direct experiences are more or
+less weighty than the indirect or community mediated experiences in de-
+termining attitude, whether there are sex differences involved, socioeco-
+nomic differences, etc. In this work, we may discover that careful case
+analyses of individuals whose experience scores differ widely from their
+attitude scores will be of especial value for developing sociological theory
+of the attitudes.
+
+I. Constructing Experience Scales. The Experience Variable. Our experi-
+ences are, as every one knows, extremely variable. When one notices that
+Negroes have legs and arms and that they are dark in color, he probably
+feels no sharp emotional affect at all, but when Negroes greet us as “‘Boss,”
+or when one “gets out of his place,” we are likely to experience heightened
+emotion. We may interpret such contacts as more or less friendly in affect.
+If such emotional tone or affect is not discriminable in social situations,
+then the task of our judges, described later, is hopeless and the problem is
+insoluble in the manner proposed here.
+
+In constructing experience scales, we become aware of the fact that there
+are many categories of experience. Thus, one may have had personal con-
+tacts with Negroes. He may have tormented Negro children in his youth.
+He may have lived in a community which treated Negroes in a friendly or
+unfriendly manner. Again, one’s contacts may have been almost entirely
+secondary because no Negroes lived where he was reared. That person’s
+knowledge of the Negro may have been gleaned chiefly from books, movies,
+and newspapers. Therefore, at least two experience scales appear to be
+necessary, one for estimating the friendliness or unfriendliness of personal
+contacts, and another for community mediated experiences. Within each
+scale, the individual must be given full opportunity to respond that he does
+not know the answers to certain questions because of lack of experience.
+
+Methods for Scaling. In scaling brief statements of attitude, to which this
+problem is closely related, Thurstone’s method of equal-appearing-intervals*
+has proved of great value. That method was followed in this research.
+Although the scales which resulted proved reliable and valid according to
+usual criteria, certain difficulties arose which caused the researcher to turn
+to Likert’s method,® recently called the method of summated ratings.®
+
+ 
+
+4L.L. Thurstone, and E. J. Chave, The Measurement of Attitude, Chicago, 1929.
+
+5 Rensis Likert, “A Technique for the Measurement of Attitudes,” Arch. Psychol., June,
+1932, no. 140. The Thurstone type scales and a discussion of the difficulties encountered
+appear in a companion article, “Scaling White-Negro Experiences by the Method of Equal-
+Appearing Intervals,” Sociometry, 1941, 4, no. 1.
+
+6 Charles Bird, Social Psychology, 159, New York, 1940.
+Preparing the Items. Many books and articles were read and notes were
+kept on situations involving Negroes and whites which seemed to indicate
+some emotional affect upon the part of the whites, such as, “I never shake
+hands with a Negro,” and “In our community, Negro and white children
+often play together.”” Many friends were interviewed informally about their
+actual contacts with Negroes and how they felt toward the Negro asa result
+of those contacts. About 800 short written statements of contact like the
+above two were secured by this procedure.
+
+In order to eliminate worthless items, the following criteria were set up.
+Items must (1) refer to social experience, (2) not be universally acceptable
+as experience, (3) be stated in generalized terms, (4) avoid tabooed subjects,
+and (5) avoid subjects which might be interpreted as damaging admissions.
+So far as the problems coincide, the criteria set up by Wang’ are helpful in
+the culling process.
+
+All of the items were subjected to the above criteria. They were then
+divided into two groups on the basis of whether the experience was a direct
+personal one or was mediated through the community. Items which were
+duplicating in content, or nearly so, were eliminated. Those which remained
+were cast into question form and a variety of responses was provided for
+each question. At this point, we insert the completed scales so that further
+remarks will have greater meaning.
+
+EXPERIENCES WITH NEGROES
+A Study in the Measurement of White-Negro Relationships
+
+By Roserr N. Forp, University of Pittsburgh
+
+This is a study of the experiences which you, your friends, and your relatives have
+had with Negroes. Below, you will find 26 situations indicating possible experiences
+you may have had.
+
+Each situation has five possible responses. Pick the one which most nearly corre-
+sponds with your personal experiences and place a check mark (4/) on the dotted
+line in front of it. Try to answer every item.
+
+There is no need to sign your name. This is not an examination. However, your
+experiences are of great interest to social scientists. Therefore, it is important that
+you select the items carefully and thoughtfully.
+
+Community Conracts®
+Please begin here, placing a check (4/) in front of one response:
+
+1. Are there separate arrangements for Negroes who travel in the areawhereyou were reared?
+
+1. — Always; a fixed custom.
+2, — Usually separate arrangements.
+3. — Never noticed.
+
+7C.K. A. Wang, “Suggested Criteria for Writing Attitude Statements,” ¥. Social Psychol.,
+1932, 3: 367-373- . .
+
+8 Scale values which appear here before each response, did not appear in forms indorsed by
+subjects.
++
+
+4. — Negroes not required to sit apart, but they usually do so voluntarily.
+
+5. — Same privileges as whites; sit where they like.
+
+When do whites address a Negro as Mr. or Mrs. in the community where you were reared?
+1. — Never; a fixed custom.
+
+2. — Rarely, as in addressing a famous Negro.
+
+3. — Never noticed.
+
+4. — When the occasion demands it.
+
+5. — Same as in addressing whites.
+
+Were Negroes allowed to use public buildings, such as libraries and museums, in the area
+where you were reared?
+
+5. — Yes, whites and Negroes used buildings at same time.
+
+4. — Same privileges as whites, but Negroes generally stayed away.
+
+3. — No chance to observe.
+
+2, — Limited privileges.
+
+1. — Not allowed.
+
+How are the Negro children educated in the community where you were reared?
+5. — Never noticed any difference in treatment of white and Negro children.
+4. — Same schools and teachers as white children had.
+
+3. — Can’t say; Negroes lived in another part of area.
+
+2. — Separate schools, but same amount of education provided.
+
+1. — Separate schools which were not as good as the white schools.
+
+How do whites in the area where you were reared look upon other whites who treat
+Negroes as equals?
+
+1. — Severely criticized for such conduct.
+
+2. — Disliked.
+
+3- — No set community attitude on the matter.
+
+4. — Seldom anything said.
+
+5. — Such conduct is never questioned.
+
+May a Negro enter the front door of a white man’s house in the area where you were
+reared?
+
+1. — Under no circumstances.
+
+2, — Only if invited.
+
+3. — No set custom in the community.
+
+4. — Yes, but they seldom use the privilege.
+
+5. — Same as for whites in similar circumstances.
+
+Do whites call Negroes “‘niggers”’ to their faces in the community where you were reared?
+1. — Yes, that is a common term of address.
+
+2. — Quite often, but usually in anger or disgust.
+
+3. — Too few opportunities for me to observe.
+
+4. — Rarely used.
+5. — No, the term is carefully avoided when Negroes are near.
+
+How is the Negro who wants to vote treated at the polls in the community where you were
+reared?
+
+5. — Same privileges as whites, which they exercise freely.
+
+4. — Same privileges as whites.
+
+3. — Don’t know.
+
+2. — Permitted to vote but not wanted.
+
+1. — Not allowed to vote.
+
+Do whites in the area where you were reared favor educating Negroes?
+
+1. — No; spoils the Negro.
+2. — Not beyond learning to read and write.
+3. — Never heard the subject discussed enough to know.
+PersonaL Contacts
+
+This group of situations refers to you, personally, and is to be marked in the same
+way as those above:
+
+1. Have you ever walked with a Negro for other than business reasons?
+5. — Yes, just as I do with whites,
+4. — When I though it suitable.
+3. — Situation calling for a decision never arose.
+2. — Yes, but I was uncomfortable while doing it.
+1. — Never under any circumstances.
+
+2. Under what conditions have you shaken hands with a Negro?
+
+5. — Follow same rules that I follow for whites.
+
+4. — When I meet a Negro friend who would expect me to.
+
+3. — Situation calling for a decision never arose.
+
+2. — To show friendship for a Negro, provided he knew his place.
+1. — Under no circumstances.
+
+3. Have you ever been annoyed by white people who were acting too friendly toward Ne-
+
+groes?
+
+1. — Yes, on many occasions.
+
+2. — Yes, a few times.
+
+3. — Haven’t had much chance to observe.
+4.— No.
+
+5. — Never; my observation has been that whites are too unfriendly.
+
+4. Have you warned whites to be more strict in handling Negroes?
+1, — Several times.
+2. — No, but there have been times when I should have.
+3. — Never had reason to.
+4. — My experience has been that whites are generally too strict.
+5. — No, I have advised them to be less strict.
+5. Have you ever noticed that Negroes have a disagreeable body odor?
+1. — Many times,
+~
+
+10.
+
+Il.
+
+12.
+
+13
+
+2. — A few times.
+
+3- — Never noticed.
+
+4. — Yes, but under circumstances where whites smell just as disagreeable.
+5. — The Negroes whom I have met are as clean or cleaner than whites.
+
+Have you ever approved of quick justice, as sometimes dealt by white men outside of
+court, to a Negro who has been accused of a crime against a white person?
+
+5. — Never under any circumstances.
+
+4. — Yes, but I no longer would approve.
+
+3- — Don’t know of such a case at first hand.
+
+2. — Yes, but only when the offense was a very serious one.
+1. — Yes.
+
+Can you recall actual cases where Negroes in public places seemed to be looking for
+trouble?
+
+1. — Many of them.
+
+2. — A few.
+
+3. — Few chances to observe such situations.
+
+4. — Yes, but under circumstances where whites would have done the same.
+
+5. — None.
+
+Under what circumstances have you gone to the home of a Negro?
+
+5. — For a friendly visit.
+
+4. — Usually on business, but sometimes for other reasons.
+
+3. — Never had reason to.
+
+2. — On business or to show friendship, provided the Negro knew his place.
+1. — Under no circumstances,
+
+Think of the Negro who has the finest qualities of character of all the Negroes whom you
+know. Where would you rate him in comparison with the whites whom you know?
+
+5. — Above any whites I know, outside of my family.
+
+4. — Equal to my white acquaintances.
+
+3. — Cannot answer: don’t know any Negroes well enough.
+2, — Below whites in general.
+
+1. — Below the meanest of white people.
+
+What has been your policy in the past when a Negro came into a public place, such as
+theatre, railroad waiting room or restaurant?
+
+1. — Let the Negro know he wasn’t wanted.
+
+2. — Let him alone so long as he knew his place.
+
+3- — Situation never arose.
+
+4. — Tried to pay no attention to the situation.
+
+5. — Treated him as I did whites in similar circumstances.
+
+ 
+
+Have you ever had trouble with Negroes because you thought that they were getting out
+of their place?
+
+5. — On the contrary, I have defended Negroes who were being put in their place.
+
+4. — No trouble.
+
+3. — Have seldom been in position where this might have happened.
+
+2. On a few occasions.
+
+1. Many times.
+
+Have you ever permitted Negroes to come into your home for friendly visits?
+
+1. — Positively never.
+
+2. — Yes, if they knew their place.
+
+3. — Situation calling for a decision never arose.
+4. — On a few occasions.
+
+5. — Yes, frequently.
+
+Have you ever called Negroes “‘niggers’”’ when talking to them?
+5. — Never.
+4. — Yes, but I have since regretted it.
+3. — Never had reason to.
+
+2. — Yes, when sufficiently aroused.
+
+1. Many times.
+
+14. Which of the following descriptions most accurately represents Negro workers whom you
+have seen?
+
+1. — Very poor workers; did the least possible amount of work.
+2. — Poor workers even when directed.
+
+3. — Not enough opportunity to make such a judgment.
+
+4. — Good workers when directed.
+
+5. — Very good workers; even showed initiative.
+
+In preparing such items as the above, one feels compelled to state situa-
+tions in the simplest possible terms. A practice was followed here to insure
+statement simplicity which may prove generally useful. The Thorndike-
+Century Funior Dictionary was used as a criterion. No word appears in the
+above items or in the instructions which falls outside the 10,000 most
+frequently used words in the English language, and most of the words used
+fall inside the first 5,000. However, this is not a sufficient guarantee that the
+items will be unambiguous, and therefore we take other steps.
+
+When the items and the five responses allowed in each were in a form
+which satisfied the writer, he took a step beyond the Likert procedure,
+combining with it part of Thurstone’s procedure. He presented the items
+and the five responses to seven judges (all college graduates), after dis-
+arranging the responses from the order in which they appear above. The
+judges were asked to read the question and then place the responses to the
+items in the following order: response showing greatest unfriendliness to-
+ward the Negro first; response showing the greatest friendliness toward the
+Negro fifth; neutral response third; with the other two responses filling in
+the proper gaps to the left or right of the neutral position. This is a critical
+point in the research. Can judges arrange responses to questions along a
+scale of friendliness-unfriendliness?
+
+The seven judges and the author agreed remarkably well. Of 27 items
+under consideration, the responses for 12 questions (60 responses) were
+ranked in exactly the same order by all of the judges, and the responses for
+ten more of the questions (50 responses) were ranked exactly alike by seven
+of the eight judges. The responses for four more questions were ranked alike
+by six of the eight judges, and the remaining item was hopelessly ambiguous
+by this test. This is a relatively simple check for item ambiguity and has the
+additional value of objectivity which has made the Thurstone procedure
+noteworthy. Furthermore, the procedure as modified here is highly flexible,
+permitting the revamping of items upon advice of the judges who disagree.
+An interesting observation of one judge is that the responses can be ranked
+
+® Based on the work of E. L. Thorndike, Thorndike-Century Junior Dictionary, New York,
+1935, see pp. iii ff. Half title: 4 Child’s Dictionary of the English Language. Contains 30,000
+
+most frequently used words; first 20,000 marked off in successive thousands in terms of fre-
+quency of use.
+along the friendliness-unfriendliness scale without bothering to read the
+question, provided that the judge go through the process completely two or
+three times in order to understand the task fully. The small number of
+judges used in this research is justified by the findings of Rosander’ and
+Ferguson.
+
+Weighting the Items. The items were weighted simply and consecutively
+from one to five, on the basis of research results published by Likert, Rund-
+quist and Sletto, and Guilford. The most unfriendly item response was
+assigned arbitrarily the value of one and the most friendly, the value of five.
+Such simple weighting is satisfactory so long as one does not wish an item
+to item analysis of the variations in response for some particular individual.
+In that case, sigma or standard scoring is necessary. Each item in the scales
+has as much total weight as any other. Undoubtedly certain experiences are
+more weighty than others, in terms of measurable emotional disturbance.
+How to weight such experiences is beyond the scope of this paper.
+
+Scoring the Scales. The individual’s score on the two scales is determined
+by adding the simple weights of the responses which he has checked for the
+various questions. Two scores result, one for personal items and one for
+community mediated items. Approximately half of the items are printed
+with the most friendly response first and the other half of the items have
+the most unfriendly response printed first. This precaution may not be
+necessary. However, on a priori grounds, the practice of alternating oc-
+casionally the friendly with the unfriendly ends of the scaled responses aids
+in eliminating those papers from further consideration where the respon-
+dents hastily check, let us say, the first response each time in order to be
+done with the task. Such a paper will receive scores near the midpoints of
+the two scales, and such scores carry with them the interpretation, “no
+definite experience.”
+
+If the individual selects one response each time, as he is requested to do,
+the following ranges and midpoints indicate the least and greatest scores
+obtainable on each scale:
+
+Scale Least Score Midpoint Greatest Score
+I. Community Contacts 12 36 60
+II. Person Contacts 14 42 70
+
+Preliminary Trial to Determine Internal Consistency. A preliminary form
+was administered to 55 undergraduate students in sociology at Tulane Uni-
+versity and to 56 at the University of Pittsburgh. Internal consistency of
+
+10 A. C. Rosander, “The Spearman-Brown Formula in Attitude Scale Construction,”
+F. Exper. Psychol., 1936, 19: 486-495.
+
+uL, W. Ferguson, “Influence of Individual Attitude on Construction of an Attitude
+Scale,” ¥. Social Psychol., 1935, 6: 115-117.
+
+12 Rensis Likert, op cit., 25 ff. Rundquist and Sletto, Personality in the Depression, Minne-
+apolis, 1936, 102. J. P. Guilford, Psychometric Methods, 448, New York, 1936.
+the items was first determined by Likert’s suggested high-low method,®
+using the upper and lower ten percent of papers as determined by total
+score. From this, one learns which items in the series are most discriminat-
+ing in producing high and low scores. This test fails to tell decisively how
+undiscriminating the poorest items are. Consequently, in the present re-
+search, we started again with the least discriminating item as determined
+above and computed product-moment correlations between the individual’s
+response to the item under analysis and the total score on his paper for all of
+the items in that scale. As one works up the list from the least to the most
+discriminating items, he soon passes the point where coefficients of .30 re-
+
+Taste 1. Opp-EveN Rewiasitity CoEFricieNTs OBTAINED FRoM Community Contact
+AND Personar Contact Scates, CorRECTED ror DousLe LENGTH
+
+ 
+
+ 
+
+ 
+
+Scale Group! Number Correlation Probable
+Pp Cases r Error
+Community Contact A 177 +92 Or
+Community Contact B 100 84 +02
+Personal Contact A 177 +86 OL
+Personal Contact B 100 82 +02
+
+ 
+
+1 Group A. Students, Univ. of Miss. and Univ. of Pittsburgh combined.
+Group B. Students, Tulane Univ. and Univ. of Pittsburgh, combined.
+are separated. A random arrangement of 12 or 14 items would be less satis-
+factory. As printed above, the items are in descending order of merit.
+
+The reliability coefficients, ranging from .82 to .92, indicate that the
+scales have good reliability when administered to college classes. The coefli-
+cient of .92 is higher than those generally obtained in studies of this kind.
+It is interesting to note that the students answer the questions about their
+communities more consistently than they do those about their personal con-
+tacts with Negroes. This becomes more interesting when we recall that the
+community scale contains only 12 items, as compared to 14 items about
+personal contacts. Ordinarily, greater length produces greater reliability.
+One can only conjecture what produces this greater consistency. An hypoth-
+esis which recurred constantly to this writer is that the students have a
+tendency to stereotype responses about their community. That is, they are
+quite certain that they know how their community behaves toward the
+Negro. Their own experiences are more variable. However, this is an open
+question so far as this research is concerned.
+
+III. Validity of the Scales. We judge the validity of the scales created here
+by certain criteria outside of the scales themselves: (A) the scales should
+enable us to differentiate between groups whose experiences are known be-
+fore hand to differ; (B) if the scales are fit tools, they should also enable us
+to differentiate within groups which are homogeneous in certain other re-
+spects, later specified.
+
+A. Differentiating between Known Groups. It is common knowledge that
+Northerners and Southerners of the United States have different attitudes
+toward the Negro, and that the experiences one has with Negroes in the
+North vary from the experiences of Southerners. To test the validity of our
+scales, we administered them in final form, as printed above, to several large
+groups of white students in sociology classes at the University of Pittsburgh
+and at the University of Mississippi. Table 2 shows that the mean score of
+77 students, both male and female, who reported their legal residence as
+Mississippi differs significantly from the mean score of 71 students from the
+University of Pittsburgh who reported their legal residence as Pennsyl-
+vania. The mean score of the Southerners is well below the theoretical mid-
+point of the scales, and that of the Northerners is above it. The critical
+ratios (Diff. /caitt.; means assumed to be uncorrelated) are well above the
+usually accepted standard for high significance of 3.0. Merton has shown
+that selected groups from Pennsylvainia vary less from Southerners in
+attitude toward the Negro than do New Englanders.'® Consequently, we
+may judge that the results shown here are conservative.
+
+Comparison of the mean scores for a given sex in the South with the same
+sex in the North indicates the same fact; these scales elicit responses re-
+
+1 R. K. Merton, “Fact and Factitiousness in Ethnic Opinionnaires,” Amer. Sociol. Rev.,
+1940, 5: 27.
+fell below 7.3 and the highest was 14.4. The fifth and sixth groups were
+separated, by sex as well as by residence. Caution is needed here because
+subanalysis reduces greatly the number of cases. The results seem to indi-
+cate, however, that the scales are able to elicit differentiating responses in
+groups which are homogeneous with respect to state of legal residence, by
+sex, and by fact of university enrollment. Such findings are evidence of
+validity because we assume on good grounds beforehand that individuals
+have varying experiences with Negroes, even though they are white, mem-
+bers of a given sex, residents of a certain state, and students at a certain
+university.
+
+IV. Checking Some Original Hypotheses: The following paragraphs indi-
+cate the degree to which test findings sustain the original notions about
+white-Negro contacts. It so happens that each hypothesis is supported by
+the findings of this research. Insofar as test results support our preliminary
+notions, the scales are further validated.
+
+1. The major thesis of this paper, that social experiences can be scaled,
+is sustained within the limits set by the questions asked and so far as usual
+statistical tests of reliability and validity are employed, as indicated pre-
+viously.
+
+2. A subsidiary hypothesis is that the experiences one reports for himself
+are generally the same as those which he reports for his community. We
+have indicated above that there is a significantly wide range of experiences
+related with the score assigned them on the Personal Contacts scale, we
+obtain a product-moment correlation of +.64+.03, which becomes a .72
+when corrected for attenuation. We may consider the hypothesis sustained
+insofar as this research touches upon the problem raised.
+
+3. Attitude and experience are interrelated. Attitudes determine the
+interpretation an individual places upon experience, and the experience
+further intrenches or modifies the attitude held. Many case studies have
+borne out this theory. If we test it here by means of certain scales, we find
+the theory upheld. Table 3 shows the relevant correlations. One’s attitude
+toward the Negro as determined by the Thurstone-Hinckley Scale!® and by
+the Bogardus Social Distance Scale!’ is rather highly correlated with the
+report one makes of his own experiences with Negroes, as determined by the
+Personal Contacts Scale. If one’s attitude score on the Thurstone-Hickley
+Scale is correlated with the report one makes for his community, the coeffi-
+cient is somewhat lower than the others obtained, but the correlation is still
+significant.
+
+The students used in the tests were the same students indicated above.
+
+16 Op cit.
+
+17 Op. cit.
+In computing correlations which have been corrected for attenuation, a
+reliability of .80 was granted the Thurstone-Hinckley Scale!8 and the Bo-
+gardus Scale. For this reason, the uncorrected figures are more dependable.
+
+There is a point of view not mentioned previously from which we may
+indeed expect to obtain high correlations between experience and attitude.
+In this research, the items in the scales refer to past conduct called “ex-
+periences.” The judges were asked to rank the responses to the questions
+upon the basis of the friendliness or the unfriendliness indicated by the
+response. We may logically expect, therfore, that a measure of this friend-
+liness of contact will correlate positively with tests of attitude such as the
+Thurstone-Hinckley or the Bogardus scales, where the opinions which one
+may indorse are likewise ranked on a scale of friendliness and unfriendliness.
+
+From this point of view, one may say that the scales for estimating the
+friendliness or unfriendliness of experience are really attitude scales in
+disguise. That may indeed be correct. Thurstone has struck at the problem
+of attitude by asking essentially, “What are your opinions?” Bogardus
+and Dodd" strike at attitude by asking, “What social relations are you
+willing to tolerate with these people?” C. R. Pace®® has struck at the prob-
+lem of attitude by creating a Situations-Response scale in which he asks,
+“What would you do under these circumstances?” He uses the Likert type
+scale. Rosander® asks the same kind of question, using the Thurstone type
+scale. In the present research, which was suggested by Rosander, we ask
+essentially, “What has happened to you?” and “What are the relationships
+maintained in your home community with these people?’ From this, we
+assign scores of friendliness or unfriendliness upon the basis of the consen-
+sus of eight judges. If the scales as prepared here are indeed attitude scales
+in disguise (and this seems to be a fruitless point to labor further), the dis-
+guise may be a virtue rather than a vice. The next section has bearing upon
+the question raised here.
+
+4. A final hypothesis concerns the possibility of shifting scores on these
+experience scales through a series of lectures and class discussions about
+race relations. We hold, hypothetically, that the scores on experience scales
+should shift insignificantly as a result of the lectures if the scales presented
+here are valid, unless such items as the following appear in the scales; “Did
+you ever study race relations?” or “Have you been influenced by a teacher
+in the matter of race relations?” No such items appear in the scales. There-
+fore, experience scores should not shift significantly.
+
+18 Personal letter from E. D. Hinckley reporting such coefficients for college groups.
+19 Stuart C. Dodd, “A Social Distance Test in the Near East,” Amer. 7. Sociol., Sept.
+1935, 41: 195.
+20 “A Situations Test to Measure Social-Political-Economic Attitudes,” 7. Social Psychol.,
+aca 10: 331-344.
+. C. Rosander, “An Attitude Scale Based upon Behavior Situations,” 7. Social
+Piychol, 1937, 8: 3-15.
+To check this hypothesis, we administered the following four scales as
+a battery; Personal Contacts, Community Contacts, Bogardus Social Dis-
+tance, and the Thurstone-Hinckley Negro scale. The 26 students who
+served as subjects were all members of a class studying “Immigration and
+Race” at the University of Kentucky. Thereafter, for 18 sessions the class
+listened to materials about racial problems and relations, such as parts of
+Otto Klineberg’s Race Differences and F. H. Hankins’ Racial Basis of Civi-
+lization. The class interrupted freely and frequently to discuss the material.
+The bias of the subject matter selected and of the lecturer (myself) was
+that race differences are much exaggerated, that we must be careful to
+avoid imputing inferiority to out-groups on racial grounds, and, in general,
+
+TaBLe 4. Test Scores on ExpERIENCE AND ATTITUDE TOWARD THE NEGRO BEFORE
+AND AFTER EIGHTEEN Lecrures aBouT RACES OVER A Firty-Four-Day INTERVAL
+
+ 
+
+ 
+
+ 
+
+Mean Score Standard Diff.
+Scales Number Deviation ri — >
+aiff.
+Before | After | Before | After
+Community Contacts 23 33-0 33-7 6.7 6.5 “79 0.72
+Personal Contacts 23 39-5 41.3 6.8 6.8 72 1.68
+Bogardus Social
+Distance 22 5.3 4.53 0.5 reg +70 3-36
+Thurstone-Hinckley
+Attitude 23 5-7 6.3 1.2 1.3 75 3-49
+
+ 
+
+1 Product-moment correlation between scores before and after, corrected for attenuation
+
+(reliabilities indicated previously).
+? Means assumed to be correlated.
+3 Smaller score indicates greater friendliness on Bogardus scale.
+SCALING EXPERIENCE 23
+
+The interesting fact is that the students did change significantly in their
+attitude toward the Negro, as measured by both the Thurstone-Hinckley
+and the Bogardus scales. With due regard to the small number of cases, we
+may call the change highly significant, as judged by Fisher’s test. This ex-
+periment is not conclusive in that the number of cases is small and in as
+much as no formal control group was used. However, the hypothesis which
+was set up is uncontradicted, namely, that the lectures would not change
+the experience scores. In passing, we might add that it was also an hypoth-
+esis that the attitude scores would shift significantly, which accounts for
+the fact that the two attitude scales were included in the battery.
+
+V. Conclusion. Social experiences can be scaled. Two such scales are pre-
+sented, one for Community Contacts with Negroes and another for Per-
+sonal Contacts with Negroes. The scales are reliable and valid according to
+usually accepted standards.
+
+The experiences an individual reports for himself are generally the same
+as those he reports for his community. Furthermore, his experiences and his
+attitudes are positively related. Evidence indicates that the scales are not
+disguised opinionnaires of the Thurstone or Bogardus type, because attitude
+shifted when experience as measured here did not. This must be strictly
+interpreted in terms of the procedures involved, the questions asked, and
+the individuals who responded. Generalizations beyond these points are
+hazardous.
+
+Further research along several lines is suggested in the section Uses for
+Experience Scales above. In addition, we might profitably take people who
+live in a given community and apply both scales to them. We also might
+inquire into the relatively greater variability of response on the Personal
+Contacts with Negroes scale. As suggested, we might find there is a tend-
+ency to stereotype the home community. No analysis is made here of item
+by item responses, which may have interesting results. Also, now that over
+a half dozen varieties of scales about Negroes are available, partial correla-
+tional analysis may prove valuable.

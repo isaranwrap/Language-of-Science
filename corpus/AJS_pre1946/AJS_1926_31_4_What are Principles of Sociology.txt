@@ -1,0 +1,440 @@
+What are Principles of Sociology?
+
+Author(s): I. W. Howerth
+
+Source: American Journal of Sociology, Vol. 31, No. 4 (Tan., 1926), pp. 474-484
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2764745
+
+Accessed: 03-06-2016 19:30 UTC
+A principle, in one way of looking at it, is anything which, ac-
+cording to accepted usage, we have agreed to call by that name.
+From this point of view it should be easy to ascertain just what a
+principle is; we have only to consult the dictionary.
+
+Turning, then, to the Century Dictionary, I find seven distinct
+and more or less independent definitions of the word “principle.”
+It is (1) a beginning or commencement; (2) a cause, in the widest
+sense; (3) an original faculty or endowment; (4) a truth which is
+evident and general; (5) that which is professed or accepted as a
+law of conduct or a rule of action; (6) a component part; and (7)
+a law of nature, or a general property of matter.
+
+Now which, if any, of these definitions is, or are, or should be,
+applicable in the field of sociology? Hardly the first, second, third,
+fifth, or sixth. These may define certain things properly regarded
+as principles, but a principle of sociology, in any significant sense,
+could hardly be regarded as adequately described by any of them.
+According to the fourth definition, a principle is a general truth,
+and the word is often so used, but a law is also a general truth. Is
+there, then, no difference between a principle and a law? It would
+appear that the dictionary does not recognize any difference, for
+in the seventh definition, “principle” is defined as a law of nature.
+But surely in sociology the terms are not synonymous, and if they
+were so in common usage, it would be desirable to create a dis-
+tinction for sociological and for general scientific purposes. In our
+quest, then, for the essential nature of a sociological principle we
+do not get much help from the dictionary.
+
+Perhaps we shall have better luck if we lay aside the diction-
+ary and examine the use of the word “principle” among sociologists
+themselves. What, then, is a sociological principle according to the
+present usage of the expression in the science of sociology? Natur-
+ally, our first resort for an answer is to the books on sociology
+carrying the word “principles” in their titles.
+
+On casually glancing over my library I observe four treatises
+entitled Principles of Sociology. They are those of Spencer, Ross,
+Giddings, and Bushee. There may be others. I note one bearing
+the title Principles of Educational Sociology, and another entitled
+An Introduction to the Principles of Sociology. Here, then, it
+would seem, we should be able to find just what we are after. Let
+us glance at some of these works to see if we can ascertain from
+them what a principle is.
+
+Well, I turn first to Spencer’s three volumes on the Principles
+of Sociology. Somewhat to my surprise, the word “principle” is
+not in the index. In Giddings’ and Bushee’s texts, ditto. Giddings,
+however, says in his Preface, “There are principles of sociology,
+and they admit of logical organization,” and describes his own
+book as “an attempt to combine the principles of sociology in a
+coherent theory.” But he nowhere tells us what a sociological
+principle is. Ross, I observe, has not included the word “principle”
+in his index either, but this is evidently in the nature of an over-
+sight, for, as most of my readers will know, Ross devotes sixty-
+three of his seven hundred pages, less than one-tenth, to a presen-
+tation and discussion of sociological principles. Sociological Prin-
+ciples is, indeed, the title of the fifth division of his book. He
+names four such principles—the principles of anticipation, simu-
+lation, individualization, and balance; but he nowhere defines a
+principle. We are assumed to know, or we are left to infer, what
+principles are from the samples he lays before us. Fishing in these
+waters turns out to be almost as discouraging, so far as our pur-
+pose is concerned, as was our angling in the dictionary. In both
+cases we get practically “a dry haul.”
+
+My own view is that the concept “principle,” and the prin-
+ciples of sociology are altogether too important to be thus neg-
+lected or taken for granted in sociological exposition. From the
+viewpoint of the possible modification of human behavior and the
+consequent future direction of social evolution social or sociologi-
+cal principles are, I think, just the most important things with
+which sociology may be and should be concerned. I propose, there-
+fore, to present another conception of a principle in the socio-
+logical sense. Whether it is the correct conception, or the most
+helpful, the reader himself may determine.
+
+I begin by asking the reader, What would you understand by
+“principle” if I should address you in regard to the principle of a
+given mechanism, say, a steam engine? Would you not think at
+once of the expansion of steam in the cylinder, that is to say, of
+the particular mode or manner in which a steam engine operates?
+You would understand, I think, that I was talking about how it
+moves.
+
+Again, if I should declare that I had succeeded in moving a
+heavy weight, heavier than a man could lift, would you not ask, if
+you were curious about the matter, What principle did you employ
+in moving the weight? And you would expect to hear that I had
+employed the principle of the lever or the pulley, or the inclined
+plane, or some other well-known “mechanical principle.” A me-
+chanical principle is generally understood, I think, as the modus
+operandi of a mechanical operation. It is an explanation of how
+the movement takes place.
+
+Now, I believe that biological, psychological, and sociological
+principles are exactly of the same nature—they explain the move-
+ments and operations of nature in the realms of the corresponding
+natural phenomena. In biology, for instance, natural selection is a
+true principle; it explains, in part, the process of organic evolu-
+tion. When we discover, if we ever do, the “principle” of varia-
+tion, that is, when we find out how natural variations in living
+things are produced, the explanation of the whole process of or-
+ganic evolution will practically be complete.
+
+Now, as I see it, the prime objective of the science of sociology
+is the discovery of the principles operative in the social mechan-
+ism. It is to find out just how social movements are initiated and
+carried on by nature. That is really the great sociological question,
+for if we can ascertain just how nature produces, or induces, social
+change, we shall then have the secret of producing desirable
+changes in social phenomena through artificial effort. That is to
+say, we shall be able to control and direct social evolution.
+
+If I have correctly suggested the nature of a principle, we
+should now be able to see clearly that it is not the same as a law,
+and to perceive the respect in which a law and a principle differ
+from each other. A law is a mere formula expressing the observed
+constancy or uniformity in action in a special field of phenomena,
+the mere sequence or coexistence of certain events as observed by
+man. It is supposed to express a general truth, as it does if it is a
+correct formula; but it explains nothing. When we have dis-
+covered a social law, for instance, expressing a uniformity of co-
+existences or sequences in a given area of social phenomena, we
+have achieved an important object, but our task is not yet com-
+plete. We must go a step farther; we must endeavor to find out
+how the change takes place. That is, we must find out the operat-
+ing principle. We are then, and not until then, ready to exert the
+most effective artificial control over the given change. In efforts
+to control we must observe the law, if we would be effective; that
+is, we must act within the limitations imposed by it, but the secret
+of control in a given case is not a knowledge of the law, but a
+knowledge of the corresponding natural principle.
+
+To be specific, then, a scientific principle is a modus operandi
+of nature in the production of phenomenal change, and a socio-
+logical principle is the modus operandi of nature in the produc-
+tion of any particular natural change in the realm of social phe-
+nomena.
+
+If we regard nature as objective, we may say, then, that so-
+ciological principles exist and are operating in nature independ-
+ently of any conscious interference or direction by man. They are
+there as a natural coefficient, so to speak, of every social move-
+ment. The function of sociological science, viewing that science
+from the standpoint of social betterment, is to reveal these prin-
+ciples. First of all, it may concern itself with the laws of social
+change, but, having discovered these, it should go on, as I said
+before, to ascertain the principles involved. The importance of
+these principles, from the standpoint of intelligence, lies in the
+fact that a knowledge of them is essential to the most effective
+social control; and social control, that is, social self-direction, I
+think we must agree, is the ultimate purpose of sociology.
+
+Now, let us turn back to the four sociological principles an-
+nounced by Professor Ross, and see whether, or to what extent,
+they conform to our definition. His first principle he calls the
+“principle of anticipation.” It is stated as follows:
+
+Any established and known policy, whether of government, of a corporate
+body, or of an individual, which affects people favorably or unfavorably ac-
+cording to their present conduct, will come to be anticipated and will result in
+modifying behavior. Favorable action will call forth more of the conduct,
+condition, or type of character favored, while adverse action will tend to re-
+press it.
+
+Now it will be observed that Professor Ross here expresses a
+general truth relative to human beings, through the observance of
+which we may modify human behavior. That is a helpful idea,
+and there is no objection, as I see it, to calling it a principle,
+although he does not go quite deeply enough to expose a prin-
+ciple in the exact sense of the word; he does not explain how
+anticipations are effected. If he had gone deeper he would have
+struck, I think, upon a psychological principle, but in sociology it
+is perhaps only necessary to “hook up” with the principles of the
+underlying sciences. If this principle is only a law, there should
+be nothing surprising in the admission of its practical value, for
+laws are also helps to action. The helpfulness of a law without a
+knowledge of the underlying principle is exemplified in the case of
+gravitation. We know the law, approximately, at least, but we
+have not as yet ascertained the principle. We profit from the law
+by its observation, we take it into account. But from a knowledge
+of the principle we should profit by control. In the case of forced
+observance of a law it is ourselves, rather than the phenomena,
+that is the subject of control.
+
+The second principle mentioned by Professor Ross is merely
+named; it is not formulated. He calls it the “principle of simula-
+tion.” Perhaps it might be fairly stated as “the native disposition
+of all men to simulate individual traits and types of action of a
+particular kind.” So stated it also is a law. If it were a true prin-
+ciple it would show Aow simulation is effected in natural social
+phenomena. The fundamental principle here is also psychological.
+But, for the reasons suggested, I raise no objection to calling
+simulation, or imitation, a principle of sociology.
+
+The third principle Professor Ross calls “individualization.”
+It is not expressly formulated, but it appears to be nothing more
+than the assertion that the common practice of lumping should be
+discarded, and more play should be given to individuality. This
+is undoubtedly a truth, and a valuable one. It is an injunction
+that should be heeded by all who are seeking to promote the ad-
+vancement of society or to eliminate evil conditions, but it should
+hardly be called a principle. At least, it is not a principle in the
+sense we have ascribed to the term.
+
+The last of the principles announced by Professor Ross is
+“the principle of balance.” It is formulated as follows: “In the
+guidance of society, each social element should share according to
+the intelligence and public spirit of its members, and none should
+dominate.”
+
+This, to be sure, is a practical observation, but I do not see
+that this statement of a more or less obvious fact is a sociological
+principle in any specifically significant or fundamental sense. If,
+for instance, I should say that the load or strain of an engine
+should be proportionately distributed among its parts with due re-
+gard to their strength, I doubt whether anyone would be disposed
+to identify the statement with the disclosure of a true mechanical
+principle. Professor Ross’s “principles” then, are, to say the least,
+somewhat confused and confusing. They are not all turned out of
+the same lathe.
+
+On submitting the foregoing to Professor Ross for his com-
+ment, he wrote me, and on request granted me permission to pub-
+lish, the following statement:
+
+As regards the manuscript which I return herewith I will say that it ex-
+emplifies Ward’s conception of “sociological principle,” and that I have never
+been able to work that conception, although I was perfectly familiar with it
+from his books and from our conversations. His conception of principle is
+valid in the field of mechanics certainly, but I have yet to see it happily illus-
+trated in the field of sociology. Accordingly, I had to arrive at my own notion
+of a sociological principle. With me the term came to mean (1) a truth of a
+general character susceptible of being verified in many social fields; (2) it is
+not self-evident, but recondite, arrived at only by extensive observation and
+reflection—a key to locked doors; (3) the application of the principle in par-
+ticular situations makes a great difference in the line of action men will take.
+My principle of anticipation is a perfect specimen of what I think a true so-
+ciological principle is, but it does not square with the Wardian conception.
+
+Let us now see what the Wardian conception of a principle is.
+Turning to his Pure Sociology (pp. 169-70), I find,
+
+A law is the general expression of the natural sequence of uniform phe-
+nomena. It states the fact that certain phenomena uniformly take place in a
+certain way. It takes no account of cause, but only of the order of events. A
+principle, on the contrary, deals wholly with the cause, or, perhaps more cor-
+rectly, with the manner. It is the modus operandi. It has to do with the
+means or instrument by which the effects are produced. It is essentially an
+ablative conception. As principles deal with causes they must deal with
+forces. Gravitation, for example, is a force, but it operates in a regular way
+which we call the law of gravitation. Its various applications are principles or
+utilize principles. Thus, the weight of water is a force, but the different kinds
+of water wheels act on so many different principles—overshot, undershot, flut-
+ter, turbine, etc. The turbine wheel, for example, acts on the principle of re-
+action according to Newton’s third law of motion, that action and reaction are
+equal and opposite. Other applications of the law of gravitation are those of
+weights, the balance, the pendulum, etc., all of which involve different princi-
+ples. Water and steam expand by heat according to a certain law. This ex-
+pansion of steam is a force which has been utilized by means of a number of
+mechanical principles—the piston, the cut-off, the governor, etc.
+Again, evolution is a law, or takes place according to a law, the phenom-
+ena succeeding each other in a definite order of sequence. We observe the
+successive phenomena, and from them deduce or formulate the law. But nat-
+ural selection is a principle. It teaches how the effects thus observed are pro-
+duced. Malthus’ great book, the Principles of Population, was correctly
+named, and the principle is there fully explained. So the expression which I
+prefer to others of the same import, viz., the “principle of advantage,” con-
+forms to this definition and applies wherever there can be an advantage, i.e.,
+to all sentient things. Creative synthesis is a principle of far-reaching appli-
+cation in both the inorganic and organic worlds, and each of the synthetic cre-
+ations of nature passed in review in chapter v was brought about under the
+operation of this principle. All the products of natural genesis involve appro-
+priate principles.
+
+A law cannot explain anything, but must itself be explained. Principles
+alone explain. The law of gravitation is as yet unexplained. No principle has
+been found that explains it to the satisfaction of physicists. The world is
+therefore never satisfied with laws. It demands principles. The positivists
+may affect to dispense with causes and be content with mere observed suc-
+cession, but the mind will never be at rest until the principle according to
+which that succession goes on is discovered and the phenomena are thereby
+really explained.
+
+From the foregoing it is clear that Ward regarded a soci-
+ological principle as exactly the same in character as a mechanical
+principle—both explain processes and facilitate control. Both are
+in a sense general truths, but truths of a particular kind, namely,
+truths that are applicable not merely in discovering other truths,
+but in directing change.
+
+In a letter to his translator, Mrs. I. O. Unger, of Chicago,
+dated December 9, 1907, and which I am permitted to quote, Pro-
+fessor Ward threw further light on his conception of a sociological
+principle. In this letter he says:
+
+You must not expect that everybody will make the sharp distinction be-
+tween a law and a principle that I do in Applied Sociology. Your quotation
+from my address on “Neo-Darwinism” shows that I have not done so myself.
+Both words are used in a very loose way as practically synonymous and ex-
+pressing either of the two ideas. But you see the difference, of course. A
+law does not explain, but must be explained. A principle always explains. It
+tells how.
+
+And then, going on to speak of Gumplowicz’ principle of race
+struggle, he says,
+He showed what it was. I sometimes call it “social evolution through the
+struggles of races,” and compare it to organic evolution through the struggle
+for existence. But it is to be compared to natural selection, which explains
+how social evolution takes place. It comes much nearer to the principle of
+recompounding in chemistry. The groups come together by force. A struggle
+follows. One is subjugated. The two remain in a desperate grapple. But time
+converts this forced propinquity into a state of toleration, a modus vivendi.
+Then, by a long series of steps, the two races are “amalgamated,” then “assimi-
+lated,” and out of it comes the state, the nation, and a new people, different
+from either of the original conflicting groups, raised on a high plane, and so-
+cially evolved. The only name I have ever given to it is social synergy, but it
+then falls clearly under the broader principle of cosmic synergy, which is a
+principle of the universe. The new people is a creation, and thus creative syn-
+thesis is an essential part of it. That may be called a principle, too, but it is
+rather a process.
+
+You can now see how perfectly Gumplowicz’ principle conforms to my
+definition of a principle in Applied Sociology. It shows just how society
+evolves. The principle you quote from him, of the subjection and utilization
+by one race of another, is only the first step in the race struggle. It is hardly
+a principle. The principle applies after the conquest. It is intensive and causes
+the blending of the two groups. Of course, the conquest is the essential con-
+dition to its operation.
+
+The organic struggle for existence is entirely different from the race
+struggle. The biological and the sociological principles and processes are en-
+tirely different. They only agree in their function: organic and social evolu-
+tion, respectively.
+
+Sociologists are in wild confusion over the whole subject.
+
+Professor Ward, then, it is obvious, at least believed himself
+quite clear in his conception of a sociological principle. He thought
+it explained a social process, and the explanation being provided,
+the process could be socially controlled. He illustrates it, par-
+ticularly in the field of sociology, in the case of the principle of the
+conflict of races.
+
+Now, in the conflict of races it appears to me that at least two
+principles are, or may be, displayed. They are the principles of
+natural selection and the principle of cross-fertilization. If the
+conflict results in the complete extinction of one of the conflicting
+groups, which of course rarely happens, then natural selection is
+the predominant principle. If, on the other hand, the outcome is
+conquest and subjugation, then the principle of cross-fertilization
+becomes the prevailing one.
+This latter principle of cross-fertilization of cultures is, in my
+judgment, a fine example of a sociological principle as illustrative
+both of the nature of such principles and their significance in so-
+ciology, and in the social art of social self-direction. First we
+study natural social evolution to see how it takes place, how nature
+brings about social change. That is pure sociology. We discover
+that nature brings it about, in one way, through the conflict of
+social groups and the survival of the fittest. Now we know how it
+is done, and we can do it ourselves. But, obviously, if we should
+utilize this principle, it would mean enormous waste. We should
+kill off an entire group for perhaps a small increment of superiority
+represented by the surviving group. But when we find that nature
+brings about social progress also by the intermingling of cultures,
+and that this intermingling is achieved in many ways, we may
+then bring the same thing to pass by that way which to us seems
+most economical. In either case a knowledge of the principle is
+equivalent to the power to control. As Comte said, Science, d’ou
+prévoyance; prévoyance, d’o action.
+
+Without insistence on overpreciseness, may we not say that
+there are really two kinds of principles that may not improperly
+be called principles of sociology? (Sometimes they may be two
+aspects of the same principle.) First, there are the fundamental
+truths about society that serve the sociologist primarily in the dis-
+covery of additional social truths, and so in building up the body
+of knowledge that has come to be known as the science of so-
+ciety—“keys to unlock doors,” as Professor Ross has said. These
+are primarily of scientific concern. They may be “organized and
+combined into a coherent whole.” Science, from one point of view,
+is itself an art. It is the art of discovering truth. As such it is in-
+terested in the formulation of laws and the statement of funda-
+mental truths (principles) that enable it to penetrate farther into
+regions of the unknown. Such principles are used by the scientist
+in laying down the foundations and constructing the framework
+of his scientific structure. Sociological principles from this view-
+point are of primary importance to the sociologist as such. They
+enable him to practice with increasing success the art of ascertain-
+ing sociological truth. They may properly be called principles of
+the science of sociology, the aim being scientific discovery through
+scientific organization and synthesis.
+
+Secondly, there are fundamental truths about society that def-
+initely explain social processes. These are important, not so much,
+perhaps, from the viewpoint of sociological science—although they
+may be that, too—as from that of possible social control or direc-
+tion. They are for the service of the social art, for which so-
+ciological science exists. They are in a sense the ultima Thule of
+sociological exploration. Their discovery finishes the task of the
+sociologist as providing explanations of the social process and
+modes of intelligent social action for the use of those who would
+undertake to modify social evolution in the interest of social bet-
+terment, that is, in social direction and social self-direction, which,
+again, is the final object of sociology, though it lies outside of the
+science itself. It is this identity of those truths with the finalities
+of sociological investigation, and their character as prerequisites
+of successful social control, that make this class of sociological
+principles of supreme importance. They are principles of soci-
+ology and, at the same time, principles of social change.
+
+We see, then, in conclusion, that there is confusion among
+sociologists in the use of the term “principle”; that sociological
+principles, in a comprehensive sense, are general and fundamental
+truths applicable (1) in scientific procedure, and (2) in social
+procedure. But in the final and most meaningful and helpful sig-
+nificance of the expression, particularly from the viewpoint of
+action, they are the modes of operation employed by nature in
+the initiation and continuance of the various changes observable
+in the realm of natural social phenomena. Such changes may al-
+ways be expressed in terms of law. A knowledge of the laws of
+social change is of practical value, since in successful social direc-
+tion we must act in conformity with them. But behind each law,
+and explaining it, is a corresponding principle. This principle,
+when discovered, may be effectively employed in the great art of
+social direction, which may, in time, become social self-direction.
+Such being the case, the discovery of this kind of sociological
+principles is the fundamental and ultimate object of the scientific
+study of society.

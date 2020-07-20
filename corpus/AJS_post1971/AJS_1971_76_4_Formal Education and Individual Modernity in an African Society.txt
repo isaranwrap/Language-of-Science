@@ -1,0 +1,1018 @@
+Formal Education and Individual Modernity in an African Society
+
+Author(s): Michael Armer and Robert Youtz
+
+Source: American Journal of Sociology, Vol. 76, No. 4 (Jan., 1971), pp. 604-626
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2776431
+
+Accessed: 08-06-2016 03:04 UTC
+The importance of education for national and individual development has
+long been recognized by civic leaders and social scientists alike. But
+whereas civic leaders are inclined to see education as primarily functional
+in the production of skilled manpower to fill technical and administrative
+positions in society, social scientists are more apt to stress the role of
+education in “working to change the balance of different attitudes and
+values in the population” (Clark 1962, p. 70). This latter function would
+seem to be particularly important in schools in modernizing societies
+where, as Anderson (1966, p. 70) notes, “children develop new concep-
+tions of what kind of person they are. They adopt new rules for their
+conduct and acquire loyalties to new ideas and new groups.’
+
+1 Fieldwork for this study was made possible by a grant from the Foreign Area Fellow-
+ship Program. Data processing and analysis were generously supported by grant GS-
+1174 from the National Science Foundation. We are indebted to government officials
+in Kaduna and Kano, Nigeria, for their cooperation in making the study possible and
+to the many persons who helped on various aspects of the fieldwork, especially to Abdu
+Ho, Moh. Aminu Doraye, Mahmoud Aliyu, and Moh. Uba Adam. Special thanks go
+to Robert Thompson for research assistance, to Ann Paden for editorial assistance,
+
+and to Profs. Remi Clignet, Allan Schnaiberg, John Kitsuse, and John Walton for
+comments on earlier drafts.
+The expectation that formal schooling leads to new orientations is
+based in large part on the general theoretical argument that “men’s
+environment, as expressed in the institutional patterns they adopt or
+have introduced to them, shapes their experience, and through this their
+perceptions, attitudes and values, in standardized ways which are mani-
+fest from country to country, despite the countervailing randomizing
+influence of traditional cultural patterns” (Inkeles 1960, p. 2).
+
+In applying this general sociological proposition to the question of
+Western education in traditional societies in Africa or elsewhere, it is
+hypothesized. that formal schooling shapes experiences of youth and, in
+turn, leads toward standardized changes in their value orientations in a
+direction congruent with the dominant value emphasis of the educational
+environment. More specifically, formal Western education is expected to
+have a modernizing influence on perspectives, that is, to foster values
+and beliefs such as independence from family and other traditional au-
+thority, belief in science and in man’s ability to control his fate, and
+orientation to the future (Inkeles 1966, 1969; Moore 1963, pp. 110-11;
+Hanson 1964; Turner 1955; Frazier 1955a, 1955b).?
+
+On the other hand, there are obviously limits to the influence of formal
+schooling. In “traditionalistic” societies (Hoselitz 1961) which seek to
+preserve their cultural heritage, education may have little or no effect in
+changing an individual’s perspectives. Or education may have only super-
+ficial and temporary effects; overt behavior may change, but basic beliefs
+and values acquired during childhood and reinforced in the home and
+community may continue to prevail. Moreover, even if value-orientation
+differences are found between more and less educated individuals, the
+differences may not be due to educational effects but, rather, to selective
+recruitment or retention of individuals with different orientations at the
+outset, or to the influence of alternative modernizing forces which may
+be correlated with education, for example, urban experience, mass-media
+exposure, voluntary association membership, and factory experience
+(Inkeles 1966). Also, the impact of educational experience may be af-
+fected by a number of other personal and social background factors, such
+as ethnic affiliation, family socioeconomic status, religion, intelligence,
+age, and sex.
+
+These caveats call into question the theoretical expectation that for-
+mal Western education has a modernizing effect on values and beliefs of
+individuals. To what extent and in what way does formal schooling shape
+the value orientations of individuals in nonindustrial, non-Western so-
+ciety? Closely related are questions concerning the social backgrounds of
+those who are more affected or less affected by education, the kinds of
+value orientations that are most affected, and the aspects of the educa-
+tional system that are most important in producing the changes—formal
+organization, curriculum, or other aspects.
+
+These are particularly critical questions in modernizing societies where
+educational expansion competes with other development programs for
+scarce resources. They are also important questions in social psychologi-
+cal studies of modernization which are concerned with the nature and
+determinants of individual change associated with socioeconomic devel-
+opment. However, as Moore (1963, p. 111) points out, systematic empiri-
+cal evidence regarding the effects of formal education on value orienta-
+tions is generally lacking.*
+
+The present study represents a preliminary investigation of these mat-
+ters based on structured interview data from 591 young men in Kano
+City, Nigeria. The research objectives are (1) to establish whether a
+positive association exists between formal schooling and individual mo-
+dernity that is independent of other modernizing forces and selectivity
+factors, and, if an association exists, (2) to specify those personal and
+social background characteristics of youth and those value orientations
+which are most resistant and most vulnerable to modernizing influences
+of schooling, and (8) to explore whether curriculum or organization
+aspects of formal education systems are more important in producing the
+observed association.
+effectively discouraged. As a result, Hausaland has remained one of the
+most traditional societies of Africa today, and its people take great pride
+in their cultural heritage.®
+
+Kano, Nigeria, the research site for the present investigation, is an
+urban center located in the heart of Hausaland and consists of more than
+a quarter of a million inhabitants. The urban area is divided into three
+major sections: mud-walled Kano City (Birni), various migrant com-
+munities of northern and southern Nigerian immigrants (Waje),® and the
+former European quarter (Nassarawa). Kano City (with a population of
+approximately 165,000) has a history dating back to the tenth century
+and is the seat of Native Authority government offices, the central mar-
+ket, and central mosque. It is comprised largely of Muslim Hausa and
+Fulani residents, many from long-established families, and it reflects
+much of the traditional character of Hausaland. The migrant and Euro-
+pean sections are more modern by contrast and include areas of commerce
+and light industry. Because of its traditional character, Kano City pro-
+vides a critical cultural context in which to test the impact of education
+on value orientations. If Western schooling exerts a clear modernizing
+influence here, an even greater influence would be expected in less tradi-
+tional settings.
+Measurement Indexes
+
+The independent variable, educational level, is measured by items asking
+respondents about the number of years they attended primary and
+secondary school. The information yields three broad categories: those
+who have no formal education (52.8 percent), those who have attended
+one to seven years of primary school (35.7 percent), and those who have
+gone beyond primary school to at least one year of secondary school
+(11.5 percent).
+
+Development of an index of the dependent variable, modern value
+orientation, follows procedures employed by Kahl (1968) in his measure-
+ment of modernism. We began by examining previous literature in an
+effort to identify major theoretical dimensions of modern or Western
+values and beliefs that might be affected by schooling. From the writings
+of Weber (1947), Parsons (1951), Becker (1957), and Inkeles (1966) in
+particular come the concepts of “empiricism” or “belief in science,”
+“secularism,” and “receptivity to change,” all of which capture the
+notion of rationalism, while the dimensions of “trust,” “futurism,” ‘“in-
+dependence from family,” and “mastery” stem largely from the work of
+Kluckhohn and Strodtbeck (1961) and Kahl (1965).* The dimensions of
+“openness to new ideas,” “women’s equality,” and “ethnic equality” are
+suggested by various others (Smith and Inkeles 1966; Doob 1967; Han-
+son 1964; O’Connell 1965; Peshkin and Cohen 1967).
+
+Questionnaire items tapping these ten selected value orientations were
+independently constructed or borrowed in direct or modified form from
+questionnaire materials used by Inkeles, Kahl, and others.® The internal
+consistency of items within each of the postulated dimensions was
+analyzed separately by means of factor analysis, and items were elimi-
+nated if their loadings on the principal axis of the unrotated matrix were
+less than .30.!° Factor analysis of the remaining items was used as a basis
+for developing factor weighted composite scores of each dimension.
+
+The dimension scores themselves were then factor analyzed in order to
+ascertain the extent to which they form a single syndrome of traditional
+versus modern value orientations." Six of the original ten dimensions
+were found to have loadings above .30 on the principal axis: independence
+
+8 Kahl (1965, p. 671) combines Kluckhohn and Strodtbeck’s “doing” and “control
+over nature’ dimensions into a single dimension labeled ‘‘mastery.”
+
+® This was done prior to the development and publication of modernity measures by
+these researchers.
+
+10 The twenty-two items retained for the modernity measure and their respective
+loadings on the principal axis of the unrotated matrix are listed in abbreviated form
+in the Appendix.
+
+1 A composite measure avoids the necessity of repeating the analysis for each value
+dimension, and separate measures of each dimension enable investigation of the value
+TABLE 1
+
+LoADINGS OF Top VALUE-ORIENTATION
+SCORES ON PRINCIPAL AXIS OF
+FACTOR ANALYSIS
+
+Loading Value Orientation
+
+Independence from family
+Ethnic equality
+Empiricism
+
+Mastery or efficacy
+Receptivity to change
+Future oriented
+
+ 
+
+environment. The first two are largely controlled through sampling re-
+strictions in the present research; all respondents resided in Kano City
+(with over 80 percent saying they had spent most of their lives in Kano
+or in other large urban areas), and only a handful had any factory ex-
+perience.
+
+Radio listening was chosen as an index of mass-media exposure because
+it does not require literacy and thus is not confused with education. Three
+categories of respondents were identified: those who listened to news on
+the radio daily (35.4 percent), a few times each week (38.9 percent), and
+rarely or never (25.7 percent).!? Voluntary association membership was
+
+orientations which are more or less influenced by formal education. In other words,
+the measurement procedures are geared to the present research purposes; alternative
+measurements may be more appropriate for other analytical purposes.
+
+12 Kuder-Richardson internal consistency reliability coefficients (Guilford 1965, pp.
+458-60) were computed both for the twenty-two items (rz; = .88) and for the six di-
+mensions (rz = .90) included in the measure. The inferred average interitem correla-
+tion (suggested by Guilford 1965, p. 463, as an index of reliability independent of test
+length) is .25, which is high by conventional standards (Morrison, Campbell, and
+Wolins 1967). A separate factor analysis of the six dimensions produced a unitary
+factor structure controlling 34 percent of the variance.
+
+13 The lower two mass-media categories are combined in the subsequent analysis of
+partials because of insufficient educational distribution among respondents who “listen
+rarely or never.” Out of the 152 males in this category, only five had some secondary
+education.
+measured in terms of youth club membership because these were vir-
+tually the only voluntary associations available to youth in Kano. Thirty
+percent of the respondents indicated they were members.
+
+The problem of measuring the degree of modernism of home environ-
+ment is especially difficult in the present study. Parents or other family
+members of the respondents were not personally interviewed, and direct
+assessment of their orientations is impossible. Furthermore, strong norms
+of deference toward elders and sensitive relations between children (espe-
+cially firstborn) and their parents make it awkward for respondents to
+answer questions about their parents.
+
+Rather than rely on a single measure, several items are employed as
+implicit and indirect indexes of parental modernity. The first of these is
+concerned with whether a respondent’s father belongs to one of the
+Islamic brotherhoods; a respondent whose father is “free,” or not in-
+volved with either of the two major brotherhoods, is expected to be more
+secularized with respect to the pervasive Muslim culture, that is, to come
+from a more modern home environment. Data on father’s English liter-
+acy, level of schooling, and occupation are also taken as indirect indexes
+of the modernity of home environments.“ A respondent whose father is
+literate in English, has had some formal Western schooling, or is em-
+ployed in a more “modern” occupation—civil service, professional, other
+white-collar, or skilled labor, as opposed to religious, trading, craft, or
+farming—is expected to have a more modern home environment.
+
+Finally, several personal background factors were identified as relevant
+in testing and specifying the relationship between education and psycho-
+logical modernity. Ethnic affiliation, socioeconomic status, and intelli-
+gence are among the most obvious and important ones, aside from age,
+sex, and religion, which are held constant through sampling. The first,
+ethnic affiliation, is measured separately by father’s and mother’s ethnic
+group, since interethnic parentage is found among almost one-fourth of
+the respondents.
+
+Social status is an extremely complex phenomenon in Hausa society
+(Smith 1959, 1961), and we prefer to use a variety of status indexes rather
+than rely on a single index or composite score. In addition to father’s
+education, literacy, and occupational status, which are introduced above
+as indirect indexes of parental modernity but which may also be seen as
+socioeconomic indexes, social status is measured by respondent’s esti-
+mates of father’s income and family prestige.
+
+14 The father’s education index presumes confirmation of the hypothesis that level of
+schooling is positively associated with psychological modernity. If confirmed, then it
+is meaningful to investigate the independent determinancy of respondents’ schooling
+by controlling for parental modernity as measured by father’s education. If the hy-
+
+pothesis is false and level of schooling is not associated with modernity, no further
+controlled analysis will be necessary.
+with modern value orientations and that this relationship is not the result
+of selectivity processes or of alternative modernizing forces and back-
+ground factors.
+
+Cross-tabulation of educational level with “high” and “low” individ-
+ual modernity for respondents in the study is presented in table 2. The
+evidence indicates a strong positive association between the two variables
+at a statistically significant level. More than four out of five (83.8 per-
+cent) of the respondents with some secondary education score in the
+upper half of the modernization scale, while less than two out of five
+(37.8 percent) of those with no formal education do so. The difference in
+percentages is stronger between respondents with primary and those
+with secondary education than between respondents with primary and
+those with no education. In short, the prediction of a positive relation
+Selectivity
+
+A serious alternative explanation which may account for these findings
+is that educational recruitment and retention selectively favor persons
+with more modern outlooks. That is, those who are more modern in their
+values and beliefs from the outset are more likely to begin and continue
+schooling.
+
+The only truly adequate way to test this alternative explanation
+would be with panel data which would take a cohort of individuals as
+preschoolers and trace their value-orientation changes during the ensuing
+years. In the absence of such data, substitute methods must be employed
+to gain indirect evidence in support of one interpretation or the other.
+
+In the present study, for example, we will examine modernity per-
+centages by number of years of schooling. If selectivity factors are re-
+sponsible for the observed association, it is reasonable to expect that dif-
+ferences in the percentage of ‘‘more modern’’ respondents would be most
+pronounced at the beginning of primary or secondary school rather than
+during primary or secondary school. This is because the major decisions
+by youth, parents, and school officials regarding school entrance and
+termination are made prior to beginning primary or secondary school;
+once admitted, most students continue until the end of the course, espe-
+cially students at the secondary level. The restricted number of second-
+ary-school openings makes admittance extremely difficult, and the drop-
+out rate is virtually nil.'*
+
+On the other hand, if schooling fosters modern perspectives, as pre-
+dicted, then we would expect evidence of a steady increment in the pro-
+portion of “more modern’ respondents with each increasing year of
+schooling, and there should be no unusually sharp percentage increases
+at the beginning of the major educational levels.
+
+Examination of the relevant evidence in table 3 reveals a rather steady
+increase in the percentage of ‘more modern” respondents with increasing
+Alternative Modernizing Forces
+
+We have also noted the need to control for other commonly mentioned
+modernizing forces in testing the association between formal schooling
+and individual modernity. The relationships between educational level
+and individual modernity, while partialing on mass-media exposure and
+voluntary association membership, and the four parental modernity in-
+dexes are presented in table 4. To facilitate reading the table, only per-
+centages of “high”? modernity scores are reported.
+
+Among the forty-two respondents who “listen to radio news daily,”
+85.7 percent of those with some secondary education have modern value
+orientations, compared with only 55.3 percent of those with primary
+schooling and 46.6 percent of those who have not had any formal educa-
+tion. Clearly, the relationship between level of education and individual
+modernity persists among the respondents who have daily exposure to
+radio news, and it also persists among those who have less than daily
+17 Tt is necessary to combine the first through third and the fourth through fifth pri-
+mary-school years in order to achieve large enough sample sizes to compute reliable
+percentages. Primary schooling is normally seven years in length, although a handful
+of students repeat grades and a few are able to skip the seventh year if they pass the
+Common Entrance Examination for secondary school. Secondary-school courses
+generally continue for five years. At the time of the present study, the seventeen-year-
+old respondents in our sample were normally at the third or fourth year of secondary
+school if they had begun school at age seven and had continued their education stead-
+ily without interruption. However, many students start school late or fail their
+
+entrance examinations for one or more years. This probably accounts for the smaller
+numbers of respondents in our sample in the later years of secondary school.
+American Journal of Sociology
+
+exposure. Moreover, a positive association between education and indi-
+vidual modernity is also found within both categories of respondents on
+the index of voluntary association membership and within each of the
+categories on the four parental modernity indexes. In the case of respon-
+dents whose fathers are literate or are in modern occupations, the number
+of respondents who have had no formal education is too small to compute
+reliable percentages, but the differences in modernity percentages con-
+tinue to appear between primary- and secondary-education levels.
+
+In sum, the evidence indicates that the association of formal schooling
+and modernization is largely independent of these alternative moderniz-
+ing forces and cannot be readily explained or interpreted by any of them.
+Also, it is clear that combining the items into a composite index would
+Personal Background Factors
+
+We have also suggested several other factors which may have a bearing
+on the observed relationship. The variables of ethnic affiliation, social
+status, and intelligence are viewed less as alternative modernizing forces
+than as potential conditioning variables, that is, as factors which may
+specify categories of youth that are more susceptible or more resistant to
+educational influences.!®
+
+The results of partialing on the ethnic, social status, and intelligence
+measures are reported in table 5. The results of partialing on alternative
+modernizing forces in table 4 may be reexamined concurrently, with an
+eye to specifying conditions under which the association appears
+strengthened or weakened.
+
+The data in table 5 reveal a clear association between “high” moder-
+nity and educational level for each of the subsamples defined by the per-
+sonal background variables. For example, among respondents with
+Fulani fathers, “high” modernity increases from 43.9 percent of those
+with no education, to 68.9 percent of those with primary schooling, and
+finally to 81.4 percent of those with secondary schooling. Although the
+Fulani are much more likely to attend school and to hold modern value
+orientations than respondents of other ethnic groups, the strong associa-
+tion between these two variables cannot be explained by ethnic differ-
+ences.
+
+The same general pattern of results and conclusions is indicated for
+Hausa respondents and for the various subsamples with respect to
+mother’s ethnic affiliation, family economic status, subjective family
+prestige, and measured “general intelligence.” For each category there
+exists a substantial, monotonic increase in percentage of “high” moder-
+nity by level of formal schooling. The pattern was also found in table 4
+with respect to father’s English literacy, father’s education, and father’s
+occupation.
+
+By using the association between formal education and modernity for
+the total sample as a standard of comparison, the results in table 5 may
+be examined to see whether the association is substantially stronger or
+weaker for the particular categories of respondents. In general, a pattern
+
+18 Of course, it is also possible that one or another of these variables may help interpret
+or explain the association, but we are introducing them as potential specification
+variables. The terms “specify,” “interpret,” and “explain” are used in the sense
+defined by Lazarsfeld (1955).
+TABLE 5
+
+PERCENTAGE “HIGH” INDIVIDUAL MODERNITY BY LEVEL OF EDUCATION,
+CONTROLLING FOR PERSONAL BACKGROUND VARIABLES
+
+ 
+
+ 
+
+Leven or WESTERN EpucaTIoN
+
+ 
+
+  
+
+Some Some No
+PrrsonaL BACKGROUND VARIABLES Secondary Primary Education y*
+Total sample..................5. 83.8 55.5 37.8 48
+(68)t (211) (312) 7
+Father’s ethnic group:
+Fulani............0-6 00 ee eee ee 81.4 68.9 43.9 51
+(43) (61) (57) oer
+Hausa... 0.00... eee eee eee oer 52.0 37.1 41
+(16) (123) (224) M
+Mother’s ethnic group:
+Fulani........0.0.0 00000 cess 79.5 61.5 39.1 52
+(44) (65) (69) ae
+Hausa..........60 060 c eee eee 90.9 54.0 38.4 43
+(22) (124) (224) a
+Father’s income:
+High (£10/month or more)...... 89.1 50.4 37.2 54
+(46) (117) (94) vee
+Low (less than £10/month)...... ee 64.0 42.7 42
+(18) (75) (157) oer
+Subjective family prestige:
+Very or fairly high............. 85.0 58.6 35.8 55
+(40) (116) (123) s
+Average or below.............. 82.1 51.6 39.4 -40
+(28) (95) (188) oer
+Measured “general intelligence”:
+Higher. ..............--.0000- 84.2 62.8 43.4 61
+(57) (118) (99) oer
+Lower... 0.0.6 eee cece e eens see 46.9 35.2 32
+(11) (98) (213) see
+
+ 
+
+* All y significant (one-tailed test) at the .001 level.
+t Numbers of respondents are in parentheses.
+
+¢ Respondents with mothers and fathers belonging to other ethnic groups, e.g. Kanuri, are elimi-
+nated for this partial analysis. There are sixty-seven respondents with fathers who are not Hausa or
+
+Fulani and forty-three whose mothers are neither Hausa nor Fulani.
+Value-Orientation Dimensions
+
+We have also raised the question of whether certain value orientations
+are more vulnerable or resistant to educational influence on the perspec-
+tives of youth in Hausa society. At the outset, we identified ten dimen-
+sions suggested in the literature as potentially influenced by formal
+Western education. Six which were strongly associated in a common fac-
+tor were combined and used as a summary measure of individual moder-
+nity in the preceding analysis. But there is no reason to assume that these
+six are associated to the same degree or in the same way with formal
+education, nor is there reason to assume that the remaining dimensions
+are not also associated with education.
+
+Table 6 reports the association of education with each of the ten value
+orientations ordered from top to bottom in terms of their loadings on the
+principal axis of our original factor analysis of psychological modernity.
+The distribution of scores on each dimension has been divided as closely
+as possible to the median, and percentages in the table indicate propor-
+tions of respondents at each educational level who score in the upper half
+(or “more modern” side) of the distribution.
+
+It will be noted that most, but not all, of the dimensions are clearly
+and positively associated with formal education. In particular, inde-
+pendence from family is very strongly associated; 85 percent of the
+respondents with secondary education indicate independence, compared
+with 41 percent of those with no education. Education is also strongly
+associated with the dimensions of empiricism and futurism and, to a
+moderate extent, with the dimensions of ethnic equality, mastery, open-
+ness to new ideas and experiences, and interpersonal trust. On the other
+hand, receptivity to change, secularism, and women’s equality are not
+strongly associated with education, and there is even a reversal in the
+percentages of secular orientations by level of schooling. In sum, there
+Curriculum versus Social Organization
+
+We have been using the phrase “formal Western education” in much of
+the preceding discussion and analysis because both formal social or-
+ganization characteristics and Western curriculum factors have been
+suggested as responsible for modernizing the perspectives of young people
+who attend school. Inkeles (1966, p. 147; 1969, p. 213) calls special
+
+TABLE 6
+
+PERCENTAGE OF RESPONDENTS WITH HIGH SCORES ON TEN VALUE
+ORIENTATIONS, BY LEVEL OF EDUCATION
+
+ 
+
+ 
+
+Leven or Western Epucation
+
+ 
+
+ 
+  
+ 
+  
+   
+
+ 
+
+ 
+ 
+  
+
+Some Some No Sra-
+VaLuE-ORIENTATION Dimensions Secondary Primary Education Y NIFICANCE
+Independence from family. we 85.3 58.3 41.0 47 ead
+Ethnic equality 79.4 44.5 43.3 -26 aad
+Empiricism. . 67.6 51.7 31.4 45 aie
+Mastery or efi 69.1 52.1 43.9 26 +e
+Futurism. ......... 64.7 51.7 35.3 37 il
+Receptivity to change. 51.5 47.4 44.2 08 NS.
+Secularism............. 65.2 41.7 51.8 01 NS.
+Openness to ideas and experi-
+QMCES.. 0.2. e eee eee eee 58.8 46.9 38.1 23 ee
+
+Women’s equality . 57.4 49.8 44.9 .14 *
+
+60.3 57.3 46.2 21 a
+
+Interpersonal trust.
+N (68) (211) (312)
+
+ 
+
+* Significant at .05 level (one-tailed test).
+** Significant at .01 level (one-tailed test).
+*** Significant at .001 level (one-tailed test).
+ernization of perspectives should also tend to result from formal educa-
+tional systems with nonmodern, non-Western curriculums; on the other
+hand, if curriculum effects are more important, then we would expect
+differences in the modernization of perspectives in Western and non-
+Western formal educational systems.
+
+The Muslim Koranic schools in Kano are an example of such a non-
+Western system. In these schools, the first four to six years normally
+consist of learning to read and write Arabic script and memorizing con-
+secutive passages of the Koran. After a student has gone through the
+Koran in this fashion, he is “graduated” and starts again at the begin-
+ning, this time receiving fuller instruction from the mallam (Koranic
+teacher) on the meaning of passages and other religious knowledge.
+
+Actually, Koranic schools vary considerably in level of organization,
+ranging from a handful of students at the feet of a mallam to classroom
+situations with students grouped according to level of instruction. In
+general, however, the formal organizational characteristics of Koranic
+schools are similar to institutionalized characteristics of other formal
+educational systems; for example, they involve a “graded curriculum and
+more or less orderly sequence of studies” (Moore 1963, p. 110), separation
+from home, regular hours of instruction, continuous testing and evalua-
+tion of individual performance, and objective and universal standards of
+progress (see Tukur 1963 for details).
+
+Of course, these characteristics are not handled in exactly the same
+way as in Western schools, because of curriculum and cultural differ-
+ences, but they are conceptually equivalent. If such organizational char-
+acteristics serve as models “of rationality, of the importance of technical
+competence, of the rule of objective standards of performance, and of
+the principle of distributive justice reflected in the grading system”
+(Inkeles 1966, p. 147) in Western schools, they should promote similar
+value orientations in Koranic schools.
+
+On the other hand, if curricular, rather than organizational, features of
+educational systems are more important in shaping perspectives, the
+effects of Koranic education with its nonmodern curriculum may be quite
+different from the effects of Western education. We call the Koranic
+school curriculums nonmodern rather than traditional because, as Tukur
+(1963) stresses, they are not necessarily opposed to modern orientations,
+especially in the first several years, which emphasize Arabic reading,
+writing, and rote memorization. Thus, to the extent that curriculum
+effects are important in producing modernity, little or no change in
+modernity would be expected to result from Koranic education, but to
+the extent that organizational effects are important, modernity should be
+positively associated with level of Koranic education as with other formal
+educational systems.
+TABLE 8
+TYPE OF SECONDARY SCHOOL ATTENDED AND INDIVIDUAL MODERNITY
+
+ 
+
+ 
+
+InprvipvaL Mopernity
+
+ 
+
+ 
+
+Type or Seconpary ScHooL High Low N Y
+Secondary grammar school eer 96.7 3.3 30 -68*
+Teacher-training “college”... .. . 79.2 20.8 24 cee
+Other (craft and technical, clerical,
+
+CC) 64.3 35.7 14
+
+ 
+
+* Significant at .001 level (one-tailed test).
+
+ish grammar schools; (2) teacher-training “colleges,” with curriculums
+designed to produce primary-school teachers; and (3) other schools, in-
+cluding craft and technical schools, clerical schools, and various Ministry
+training schools in agriculture, hygiene, and veterinary medicine. The
+social organization of these secondary schools is virtually identical, but
+the curricular emphases range from classical academic education to
+locally relevant applied training. Evidence of equally high rates of moder-
+nity among respondents with different kinds of secondary-school experi-
+ence would suggest the importance of formal organization effects, while
+modernity differences would suggest curriculum or other effects (see
+table 8).
+
+The results in table 8 tend to reinforce the previous emphasis on the
+DISCUSSION
+
+The findings in this study clearly and consistently support the view that
+Western education does, indeed, have a definite effect on value orienta-
+tions of youth that is largely independent of the test factors mentioned
+and is not specific to particular sample subpopulations. The results
+also call attention to the importance of school-curriculum differences in
+determining the nature of value-orientation change, and they suggest a
+less important role for the formal organization of the school.
+
+These findings are particularly relevant to the theoretical argument,
+stated so well by Inkeles, that the institutions to which men are exposed
+shape their experiences and, in turn, their values, beliefs, and perceptions,
+despite differences in cultural background. This theoretical position is
+certainly supported by the findings of the present study, but there is a
+danger in assuming that institutions going by the same name have the
+same effects. Formal educational institutions may have much in common,
+
+20 Since the evidence in table 5 indicates that intelligence is associated with modernity
+and since a major factor in selecting students for different types of secondary schools
+ig examination results (which presumably reflect measured intelligence), intelligence
+level is among the most likely background factors that may account for the observed
+differences in modernity percentage by type of secondary schooling in table 8. How-
+ever, when we examine just the secondary-school-educated respondents with high
+intelligence, the association persists: high modernity is found among all twenty-six
+(100 percent) of those with secondary grammar schooling, sixteen out of twenty-one
+(76 percent) of those with teacher-training schooling, and six out of ten (60 percent)
+of those with other types of secondary schooling (vy = .82, significant at .001 level).
+Limitations of sample size reduce the reliability of these percentages and preclude
+testing the influence of other background differences on the association between type
+of schooling and modernity.
+but they also can have much that is not held in common, particularly in
+the curriculum area. And it may be in areas of diversity such as this that
+the greatest influence is exerted on experiences of individuals and in turn
+on their beliefs, values, and perceptions. It is tempting to view formal
+educational influences as necessarily converging to produce a common
+set of attitudinal characteristics, and there may in fact be such con-
+vergences resulting from schooling in many areas of the world, but our
+evidence suggests that convergence is not necessary, that differences in
+perspectives can be fostered by different formal educational systems, and
+that caution should be exercised in generalizing about the value-transi-
+tion effects of unspecified formal educational systems.
+
+With respect to Kano City, the evidence suggests that education has a
+definite influence on value orientations and that education successfully
+leads to modernization of perspectives in certain areas (e.g., independence
+from family, empiricism, futurism) while it has little or irregular effect on
+other perspectives (e.g., secularism, women’s equality, receptivity to
+change). Reasons for these associations can readily be suggested on a post
+hoc basis, but we do so only with full acknowledgment that the justifica-
+tions are conjectural. Our main contention, stemming from the findings
+presented above, is that independence, empiricism, and futurism are
+probably among the dimensions most clearly embedded in the implicit
+and explicit curricular content of Western schools, as well as in their
+formal organization, as suggested by Inkeles, Moore, and others. Con-
+versely, schools take care not to challenge religious beliefs; in fact,
+religious instruction has been incorporated into the school curriculum by
+Nigerian authorities. Thus, it is perhaps not surprising that religious
+beliefs (including belief in women’s inferior status) are not clearly associ-
+ated with educational experience in Kano.
+
+The low association of educational level and receptivity to change may
+be partially a function of the feeling among many of the less educated
+respondents that changes (either traditional or modern) are needed to
+improve their living conditions and future prospects, while many of the
+primary- and secondary-educated respondents may be satisfied with their
+hfe circumstances and may be opposed to change, especially change in a
+traditional direction which would perhaps not be in their interest.
+
+It cannot be claimed that all possible alternative determinants of indi-
+vidual modernity have been tested in the present study, nor can the pos-
+sibilities be disregarded that selectivity factors may account for some of
+the association between education and modernity and that the associa-
+tion may not hold for different samples or in different settings. But all
+efforts to test these alternative interpretations and qualifications failed
+APPENDIX
+ITEMS AND PRINCIPAL AXIS LOADINGS BY VALUE ORIENTATION
+
+ 
+
+ 
+
+Loadings Abbreviated Items*
+
+1. Independence from Family
+
+ 
+
+a ORE eEE EEE Should live near parents, even if means losing better place else-
+where. (A/D)f
+
+LTB. eee Is Cay to hire a relative, even if less qualified than a stranger.
+
+BOE eee I (greatly /slightly /do not) prefer work that is close to home.
+
+ 
+
+2, Ethnic Equality
+
+ 
+
+LTB eee Boys should protect own tribe and let others look out for them-
+selves. (A/D)
+TMLee eee Sper pnd friendships with other tribes are risky or impossible.
+
+Outsiders bring more (harm/good) to this country.
+I (do not/slightly/greatly) prefer work with people of other tribes.
+
+ 
+
+ 
+
+3. Empiricism
+
+ 
+
+64.00 0.00008 (Prayer /medical care) is most important in recovery from illness.
+
+61... ee. There (should not/should) be scientific study of such things as hu-
+man birth and plant life.
+
+60... ..00008 Certain diseases only Hausa practitioner can cure. (A/D)
+
+ 
+
+4. Mastery or Efficacy
+
+ 
+
+Man (should not/should) strive for more food and possessions, even
+if he has enough to get by.
+
+Man who plans has as many difficulties as man who does not. (A/D)
+
+T (greatly /slightly /do not) prefer work that is easy.
+
+A man’s success (is predetermined/depends upon ambition and
+hard work).
+
+ 
+
+ 
+
+ 
+
+  
+
+5. Futurism
+TB ccna Should dedicate self to (conserve customs/assure good future).
+65.00.0000. Things of the (past/present/future) should be of greatest concern
+to us.
+.39.. I prefer to plan ahead on (few/most) matters.
+38. I (do not/slightly/greatly) prefer work that promises future ad-
+
+  
+
+vancement.
+
+ 
+
+* All items are stated here in the same direction from traditional to modern choices. Sixteen of the
+items have been reversed from the way they are stated in the questionnaire for factor-analysis purposes.
+
+t A/D refers to agree-disagree-type questions. All others are multiple-choice or polar choice.
+APPENDIX—Continued
+
+ 
+
+ 
+
+Loadings Abbreviated Items*
+
+ 
+
+6. Receptivity to Change
+Is never wise to change rapidly in government or economy. (A/D)
+People are content with present way of life and do not want changes.
+‘D
+
+If you change things much, you usually make them worse. (A/D)
+The amount of change in way of life should be (slower/faster).
+
+ 
+
+7. Secularism
+
+ 
+
+Should give alms to poor because (fear of God/compassionate).
+
+Should follow (religious men and sacred books/own conscience).
+
+(Need not be/should be) respectful of other religions.
+
+A boy (cannot/can) be truly good without any religion.
+
+oe is for (own religion only/good people of other religions
+also).
+
+ 
+
+8. Openness to Ideas and Experiences
+
+ 
+
+Is all right for people to criticize sacred social matters. (A/D)
+Is Poe to seek new and different experiences rather than familiar.
+
+I (do not/slightly /greatly) prefer work that offers new experiences.
+Persons should (always/sometimes/never) be allowed to express
+minority ideas.
+
+ 
+
+9. Women’s Equality
+
+ 
+
+Girls (should not/should) have educational opportunity.
+Women (cannot/can) be trusted as much as men.
+Girls’ freedoms should be (not changed /increased).
+
+ 
+
+ 
+
+10. Interpersonal Trust
+
+ 
+
+ 
+
+69......008. (Most/few) people are deceptive and dishonest.
+
+-64.......... If you trust and show respect, people (will not/will) treat you
+fairly.
+
+MBL eee Most people are honest through fear of being caught. (A/D)
+
+REFERENCES
+
+Ainsworth, Leonard H., and Mary D. Ainsworth. 1962a. “Acculturation in East
+Africa. I. Political Awareness and Attitudes toward Authority.” Journal of Social
+Psychology 57 (August) :391-99.
+
+. 19620. “Acculturation in East Africa. III. Attitudes towards Parents, Teach-
+
+ers, and Education.” Ibid., pp. 409-15.
+
+. 1962c. ‘‘Acculturation in East Africa. IV. Summary and Discussion.” Ibid.,
+pp. 417-32.
+
+Anderson, C. Arnold. 1966. ‘“The Modernization of Education.” In Modernization,
+edited by Myron Weiner. New York: Basic.
+
+Armer, Michael. 1970. “Formal Education and Psychological Malaise in an African
+Society.” Sociology of Education 43, no. 2 (Spring) : 143-58.
+
+Becker, Howard. 1957. ‘Current Sacred-Secular Theory and Its Development.” In
+Modern Sociological Theory, edited by Howard Becker and Alvin Boskoff. New
+York: Dryden.
+
+Busia, K. A. 1962. The Challenge of Africa. New York: Praeger.
+Clark, Burton R. 1962. Educating the Expert Society. San Francisco: Chandler.
+
+Dawson, J. L. M. 1967. “Traditional versus Western Attitudes in Africa: The Con-
+struction, Validation and Application of a Measuring Device.” British Journal of
+Social and Clinical Psychology 6, No. 2:81-96.
+
+Doob, Leonard W. 1960. Becoming More Civilized. New Haven, Conn.: Yale Univer-
+sity Press.
+
+. 1967. “Scales for Assaying Psychological Modernization in Africa.’’ Public
+Opinion Quarterly 31 (Fall) :414~-21.
+
+Dreeben, Robert. 1968. On What Is Learned in School. Reading, Mass.: Addison-
+Wesley.
+
+Frazier, E. Franklin. 1955a. “Commentary” (to L. D. Turner’s article). In Africa
+Today, edited by C. Grove Haines. Baltimore: Johns Hopkins Press.
+
+. 1955b. “The Impact of Colonialism on African Social Forms and Personality.”
+In Africa in the Modern World, edited by Calvin W. Stillman. Chicago: University
+of Chicago Press.
+
+Guilford, J. P. 1965. Fundamental Statistics in Psychology and Education. New York:
+McGraw-Hill.
+
+Hanson, J. W. 1964. “The Nation’s Educational Purpose.” In Nigerian Education,
+edited by O. Ikejiani. Ikeja: Longmans of Nigeria.
+
+Hoselitz, Bert F. 1961. ‘Tradition and Economic Growth.” In Tradition, Values, and
+Socioeconomic Development. Durham, N.C.: Duke University Press.
+
+Inkeles, Alex. 1960. “Industrial Man: The Relation of Status to Experience, Percep-
+tion, and Value.” American Journal of Sociology 66, no. 1 (July):1-31.
+
+. 1966. “The Modernization of Man.’”’ In Modernization: The Dynamics of
+
+Growth. New York: Basic.
+
+. 1969. “Making Men Modern.” American Journal of Sociology 75, no. 2
+(September) : 208-25.
+
+Jahoda, Gustav. 1961. ‘‘Aspects of Westernization: A Study of Adult-Class Students
+in Ghana, I.” British Journal of Sociology 11, no. 3 (September) : 197-210.
+
+. 1962. “Aspects of Westernization: A Study of Adult-Class Students in Ghana,
+II.” Ibid. 18, no. 1 (March) : 43-56.
+
+Kahl, Joseph A. 1965. “Some Measurements of Achievement Orientation.”’ American
+Journal of Sociology 70, no. 6 (May): 669-81.
+
+. 1968. The Measurement of Modernism: A Study of Values in Brazil and Mexico.
+Austin: University of Texas Press.
+
+Kluckhohn, Florence R., and Fred L. Strodtbeck. 1961. Variations in Value Orienta-
+tions. Evanston, Ill.: Row, Peterson.
+
+Lazarsfeld, Paul F. 1955. ‘Interpretation of Statistical Relations as a Research Oper-
+ation.” In The Language of Social Research, edited by P. F. Lazarsfeld and M. Ro-
+senberg. New York: Macmillan.
+
+Lord, Edith. 1958. “The Impact of Education on Non-scientific Beliefs in Ethiopia.”
+Journal of Social Psychology 47 (May) :339-53.
+
+Moore, Wilbert E. 1963. Social Change. Englewood Cliffs, N.J.: Prentice-Hall.
+
+Morrison, D. G., D. T. Campbell, and Leroy Wolins. 1967. ‘A roRTRAN-Iv Program
+for Evaluating Internal Consistency and Single-Factoredness in Sets of Multilevel
+Attitude Items, mimeographed. Evanston, Ill.: Vogelback Computing Center,
+Northwestern University.
+
+Nisbet, Robert A. 1969. Social Change and History: Aspects of the Western Theory of
+Development. Oxford: Oxford University Press.
+
+O'Connell, James. 1965. ‘The Concept of Modernization.” South Atlantic Quarterly
+(Autumn), pp. 549-64.
+
+Omari, T. Peter. 1960. “Changing Attitudes of Students in West African Society
+toward Marriage and Family Relationships.” British Journal of Sociology 11, no. 3
+(September) : 197-210.
+
+Paden, John N. 1970. “Urban Pluralism, Integration, and Adaptation of Communal
+Identity in Kano, Nigeria.” In From Tribe to Nation in Africa, edited by Ronald
+Cohen and John Middleton. San Francisco: Chandler.
+Parsons, Talcott. 1951. The Social System. Glencoe, Ill.: Free Press.
+
+Peshkin, Alan, and Ronald Cohen. 1967. “The Values of Modernization.” Journal of
+Developing Areas 2 (October) :7—22.
+
+Powdermaker, Hortense. 1956. ‘Social Change through Imagery and Values of Teen-
+age Africans in Northern Rhodesia.” American Anthropologist 57 :783-813.
+
+Schwarz, Paul A. 1964. Development of Manpower Screening Tests for the Developing
+Nations. Pittsburgh: American Institutes for Research in the Behavioral Sciences.
+
+Smith, David H., and Alex Inkeles. 1966. ‘‘The OM Scale: A Comparative Socio-
+psychological Measure of Individual Modernity.” Sociometry 29 (December) :353-
+77.
+
+Smith, M. G. 1959. “The Hausa System of Social Status.”’ Africa 29 (July) : 239-52.
+
+. 1960. Government in Zazzau, 1850-1950. London: Oxford University Press.
+
+. 1961. “Kebbi and Hausa Stratification.” British Journal of Sociology 12
+
+(March) : 52-64.
+
+. 1965. “The Hausa of Northern Nigeria.” In Peoples of Africa, edited by
+James L. Gibbs, Jr. New York: Holt, Rinehart & Winston.
+
+Tukur, Bashiru. 1963. ‘““Koranic Schools in Northern Nigeria.’ West African Journal
+of Education 7 (October) : 149-52.
+
+Turner, Lorenzo D. 1955. ‘“‘The Impact of Western Education on the African’s Way
+of Life.” In Africa Today, edited by C. Grove Haines. Baltimore: Johns Hopkins
+Press.
+
+University of Wisconsin. 1963. ‘The Expansion of Teacher Education in Northern
+Nigeria, 1961-1970,” unpublished. Madison: University of Wisconsin, for the
+Agency for International Development, Department of State, Washington, D.C.,
+under contract AID /afe-56.
+
+Weber, Max. 1947. The Theory of Social and Economic Organization. New York:
+Oxford University Press.

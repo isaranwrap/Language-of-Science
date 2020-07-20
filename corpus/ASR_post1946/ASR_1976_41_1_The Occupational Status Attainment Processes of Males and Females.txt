@@ -1,0 +1,949 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+The intergenerational occupational
+mobility of males has been the subject of
+intensive empirical study by sociologists for
+several decades, both in the United States and
+in other industrial nations. More recently,
+multivariate models have been extensively
+employed to study the occupational status
+attainment of males in the United States (Blau
+and Durcan, 1967; Duncan et al., 1972;
+Jencks et al., 1972; Sewell and Hauser, 1975).
+As a result of this research, a considerable
+body of knowledge has been accumulated on
+the occupational mobility and _ status
+attainment of males.
+
+Although women comprised 38.4 percent
+of the labor force in 1974 (U.S. Bureau of the
+Census, 1975:336), comparatively little is
+known about female mobility and status
+attainment. It has only been in the last few
+The NORC General Social Surveys of 1972-1974 are utilized to compare white working males
+and females with respect to the process of occupational status attainment. The occupational
+status of each sex is quite similar, although males are somewhat more likely to have high and
+low status jobs. The process of status attainment is also the same for males and females.
+Education is the strongest determinant of status for each sex, with family background
+characteristics showing only a small direct influence on status. The determinants of educational
+attainment are also much the same for white working males and females, although number of
+siblings has a significantly stronger effect for males. There is no evidence that the education of
+the like-sexed parent is a stronger influence on educational attainment than that of the
+opposite-sexed parent. An extended model of occupational status attainment is also estimated
+for females. Although full-time workers and married women have slightly higher status than
+part-time workers and unmarried women, respectively, the number of children at home has no
+effect on the occupational status of working women.
+for occupational mobility, they found the
+status attainment processes of males and
+females to be quite similar.
+
+This paper represents an attempt to
+add to the comparatively meager body of
+knowledge concerning the occupational
+status attainment process of females.
+Representative samples of white males and
+females in the U.S. labor force will be
+compared with respect to the basic model
+of status attainment (Duncan et al.,
+1972). In addition, an extended model of
+female status attainment will be estimated.
+Thus, this study is, in part, a replication
+of the work of Treiman and Terrell
+(1975). However, the General Social Sur-
+vey (GSS) data (described in the following
+section) used in this study are superior to
+that available to Treiman and Terrell in
+several respects. Their male data were
+gathered five years earlier than their female
+data, whereas the GSS male and female data
+are for the same years. Their sample was re-
+stricted to respondents 30-44 years of age,
+whereas the General Social Surveys are for
+adults 18 years and older, and their data did
+not contain as many family background vari-
+ables as the GSS data. In addition, the GSS
+samples are five and ten years more recent
+than Treiman and Terrell’s female and male
+samples, respectively. Thus, the GSS data per-
+mit a more valid comparison of the male and
+female status attainment processes, as well as
+the addition of new variables to the female
+model of status attainment.
+General Social Surveys (GSS). Each survey is a
+national sample of the non-institutionalized
+population of the United States, 18 years of
+age or older. The sample is a multi-stage area
+probability sample to the block level with
+quotas based on sex, age and employment
+status within blocks. The combined number
+of respondents is 4,601. The bulk of the
+analysis will focus on 1,381 white males and
+778 white females who were working full
+time, part time or with a job but not at work
+because of temporary illness, vacation or
+strike at the time of the surveys.
+
+Occupational status will be measured by
+Duncan’s (1961) Socioeconomic Index
+(SEI).? Two factors in the construction of the
+Duncan SEI naturally lead to questions con-
+cerning its validity for measuring the occupa-
+tional status of women (Parnes et al., 1970;
+Haug, 1975). First, the SEI scores were com-
+puted from the income and education of male
+incumbents. Second, the NORC prestige
+ratings used to determine the weights for in-
+come and education were generated in a con-
+text which suggested that respondents were to
+rate occupations on the basis of male incum-
+bents. Thus, the fact that the SEI scores were
+computed from data on males suggests that a
+certain amount of error will result when using
+the SEI to measure female status.
+
+Treiman and Terrell (1975:176) have re-
+viewed a considerable amount of evidence
+bearing on the validity of using socioeconomic
+and prestige scales constructed for males to
+measure the occupational status of females.
+For instance, Parnes et al. (1970) and Bose
+(1973) have found for samples of occupations
+that socioeconomic scores computed from the
+income and education of female incumbents
+are highly correlated with scores computed
+for male incumbents (r’s equal .92 to .94).3 In
+addition, Bose (1973) has shown that prestige
+scores for male incumbents are correlated .97
+with prestige scores for female incumbents,
+for a sample of 108 occupations. Based on
+such facts as these, Treiman and Terrell
+(1975:176) concluded that there is a single
+status hierarchy for male and female workers.
+They also concluded that since male and
+female prestige scores were slightly more high-
+ly correlated than male and female socio-
+economic scores (Bose, 1973), a prestige scale
+is preferable for comparing males and females.
+However, since previous multivariate studies
+of status attainment have overwhelmingly re-
+lied on the SEI, the use of the SEI in this
+study has the advantage of increasing its com-
+parability with other research, without appre-
+ciably increasing errors. Although present evi-
+dence suggests that the SEI may be used for
+females without too much error, a certain
+amount of caution should be exercised when
+comparing the male and female findings. How-
+ever, it is felt that the SEI is sufficient for
+describing the major outlines of the female
+Although it is well known that the male
+and female occupational distributions are very
+different (to be described in more detail
+later), Treiman and Terrell (1975) found the
+male and female prestige distributions to be
+quite similar with respect to the mean,
+standard deviation, and shape of the distribu-
+tion, although males were more heavily con-
+centrated in the extreme upper tail. Although
+the GSS data with respect to socioeconomic
+status basically support the findings of
+Treiman and Terrell, the sex differences will
+be examined in some detail.
+
+The male and female SEI distributions are
+similar with respect to their means and stan-
+dard deviations (Table 1). The means are near-
+ly equal, with females averaging one point
+higher than males, while the standard devia-
+tions differ somewhat more, with the female
+variance being only .9 as great as the male
+variance.
+The similarity of the male and female
+means and the somewhat smaller female stan-
+dard deviation suggest a smaller percentage of
+high and low scores for females. This is borne
+out by the percentage distributions in Table 1.
+In each of the four lowest categories, the fe-
+male proportion is smaller than that of the
+males, with 46.2 percent of the males having
+scores below 40 versus only 36.6 percent of
+the females. At the high end of the scale, 7.8
+percent of the males are above 80 whereas
+only 2.3 percent of the females are above that
+point. There are no females in the highest
+category, which includes the scores for the
+legal and medical professions.
+
+Although women are somewhat less likely
+than men to be in the lower status jobs and
+the very highest status jobs, the overall shape
+of the two distributions is roughly the same.
+The index of dissimilarity for the ten categor-
+ies shown in Table 1 is 15, which indicates
+that only a relatively small percentage of
+women (or men) would have to change cate-
+gories in order to make the two distributions
+equal.
+
+We have seen that the male and female SEI
+distributions are equal with respect to the
+mean, that the female standard deviation is
+somewhat smaller, that the shape of the two
+distributions is similar, that females are less
+likely than males to have high and low scores
+and that the two distributions differ by an
+index of dissimilarity of 15. Given these facts,
+some researchers might stress the similarity of
+male and female socioeconomic status, while
+others might stress the dissimilarity. One way
+of gaining some perspective on this issue is to
+compare these sex differences with racial dif-
+ferences in socioeconomic status and with sex
+differences on other variables.
+
+In the 1962 OCG data (Duncan et al.,
+1972), the mean SEI of black males is less
+than half as large as the mean of white males
+(17.7 and 39.6, respectively), while the stan-
+dard deviation for black males is only .62 as
+great as for white males (15.3 and 24.5,
+respectively). The racial differences for males
+in the OCG survey are clearly far greater than
+the sex differences for whites in the GSS sur-
+Male and female workers are considerably
+more similar with respect to their father’s
+socioeconomic status than with respect to
+their own status. Although females come from
+a slightly higher background, on the average,
+the variance in the socioeconomic back-
+grounds of males and females is equal (Table
+1). As suggested by the similar means and
+equal standard deviations, the index of dis-
+similarity between the fathers of males and
+females is only 8.3, about half as great as the
+dissimilarity between males and females them-
+selves.
+
+If the socioeconomic distributions of males
+and females are more dissimilar than their
+socioeconomic backgrounds, their occupa-
+tional distributions are even more dissimilar.
+In 1973, the male and female occupational
+distributions for ten major Census categories
+(professional, managerial, sales, clerical, etc.)
+differed by an index of dissimilarity of 41
+(U.S. Bureau of the Census, 1975:350), over
+two and one-half times more dissimilar than
+their socioeconomic distributions. The dis-
+similarity in the occupations of males and
+females is due primarily to the greater concen-
+tration of women in clerical and service jobs
+and the greater concentration of men in man-
+agement and crafts.
+
+To summarize, white males and females in
+the work force differ more with respect to
+socioeconomic status than did their fathers,
+but these differences are much less than either
+racial differences in status or sex differences
+in type of work.
+
+Although the mean SEI scores of males and
+females are equal, it might be argued that if
+more women entered the labor force, the fe-
+male SEI distribution might be lowered. One
+reviewer commented that “many women can
+choose to stay out of the labor force. This
+fact may mean that the bottom end of the
+‘true’ female occupational SES distribution is
+cut off, since working at a low SES job may
+be less attractive than not working at all.”
+
+In an attempt to shed some light on this
+possibility, women in the labor force were
+compared with housewives who were not in
+the labor force and were under 65 years of
+age. Compared to the working women, the
+housewives had a year less education, slightly
+more brothers and sisters and had fathers with
+slightly lower SEI scores and slightly less edu-
+cation. Given the relationship between these
+variables and the occupational status of work-
+ing females (to be discussed in a later section),
+these facts suggest that if these housewives
+were willing and able to find employment,
+they would end up with lower occupational
+status than the presently working women, on
+the average. To estimate the probable occupa-
+tional status of the housewives, the means of
+the background variables and education were
+entered into the regression equation for
+females (Table 3). The predicted SEI score for
+the average housewife is 39.9, which is four
+points below the mean for working women.
+Although this suggests a lower SEI distribu-
+tion for females, the mean score for all fe-
+males, if all the housewives entered the labor
+force at the predicted level, would only be
+about one point less than the average male
+SEI score, hardly an important difference.
+
+The possibility of a lower female socio-
+economic distribution is also suggested by
+other data. Housewives in the GSS were asked
+if they had ever worked for as long as one
+year. For the 73 percent who had, the mean
+SEI score was 41.8, only about two points
+below the mean for working women. Al-
+though this also suggests some lowering of the
+female SEI distribution, the drop would be
+less than that suggested by the regression exer-
+cise. Although it is impossible, of course, to
+predict reliably from cross-sectional data what
+might occur if a large proportion of house-
+wives entered the labor force, the evidence re-
+viewed here with respect to the socio-
+economic characteristics of housewives and
+their past work experience does not support
+the prediction of a significantly lower status
+distribution for women.
+Since education has repeatedly been shown
+to be the most important determinant of oc-
+cupational status (Duncan et al., 1972; Sewell
+and Hauser, 1975), possible sex differences in
+the process of educational attainment will be
+investigated before proceeding to the deter-
+minants of occupational status.
+
+Previous research by Sewell and Shah
+(1967; 1968), and more recently by Alex-
+ander and Eckland (1974), has shown sex dif-
+ferences in educational attainment net of sex
+differences in background and academic abili-
+ty. Females get less education than would be
+expected on the basis of other relevant varia-
+bles. They have also shown that sex interacts
+with other factors related to educational at-
+tainment in such a way that for females,
+family status is a stronger determinant of edu-
+cation than is mental ability, while for males,
+the opposite relative effects occur (Alexander
+and Eckland, 1974). Such findings suggest
+that education is more of a luxury for females
+and more of a necessity for males. Although
+this paper deals primarily with working males
+and females only, and although the GSS does
+not contain data on mental ability during the
+N eyeurto.y
+
+vt st Let 6€ SE TT oer “CS eewoy
+. i uve g[eUlo]
+
+  
+
+      
+
+(1aS) uoryedno9Q
+
+OvET
+
+LLET ee Sr 8s - or 9” sv oe~ St- ONnaD voreonpy
+IZ Ovez vee Te 6e° - 1s ve" stv ST (aS Vd) Yonedns99 s 1ey}ey
+O€TT cv 16 St 6" cw - 99° we oe™ COngavd vonronpy s.s9y24
+OTZT Le 96 ow 8e Le £9" - La 9e- ONGAVW) YoHeoNpy s,r0y10W
+O8ET tt ve St- oe St ce St- - 6 (Sas) s3unaqis
+
+(adv) 38v
+
+    
+
+LET
+
+  
+
+soqqeirea,
+
+  
+
+TaSVd ONdaAVd ONdAVW aov
+
+  
+
+ 
+
+(Mojaqg Soe pue [eUOsEIG] aAOge S2TLUIOJ) HL 6 I-ZLET ‘XE AQ 9010,J 10geT oY} JO SIoQUIOW OYA, 1OJ SUOT}EIAD plepuejg pue suey] ‘suOTIeTaIIOD *Z o1qeL
+(1aS) voredns09
+
+(ona voneonpy
+
+(aS Vd) Yonedns99 s 1ey}ey
+COngavd vonronpy s.s9y24
+CONGaAVN) YoHeonpy s,r9y1OW
+(Sas) s3unaqis
+
+(adv) 23V
+schooling process, the sex interactions just
+mentioned should alert us to the possibility
+that family background may explain more of
+the variation in the educational attainments of
+females than of males.
+
+A more specific sex interaction effect was
+suggested by Treiman and Terrell (1975).
+They found that the education of working fe-
+males was more strongly affected by their
+mother’s education than by their father’s edu-
+cation, while father’s education had a stronger
+effect for working males. Treiman and Terrell
+suggested that these interaction effects might
+be due to like-sexed role modeling. However,
+they were cautious about this possibility due
+to the fact that their male sample did not con-
+tain data on mother’s education, and thus
+they were forced to estimate the correlations
+involving mother’s education, as well as the
+means and standard deviations.
+
+Turning to the GSS data on education, we
+find that although the mean educational at-
+tainments of working males and females are
+equal (Table 2), the male and female educa-
+tional distributions are not the same. As sug-
+gested by the smaller female standard devia-
+tion, females are more concentrated in the
+center of the distribution at twelve years of
+schooling. Males are more likely to have left
+school before entering high school and to have
+finished four years of college or more. Given
+the positive correlation between schooling and
+occupational status (Table 2), the different
+shapes of the male and female educational dis-
+tributions help explain why females are less
+likely to be found in the upper and lower tails
+of the occupational status distribution (Table
+
+1).
+ences do not quite reach the .05 level of sig-
+nificance.“ Given the fact that Treiman and
+Terrell were forced to estimate all relevant
+statistics for mother’s education in their male
+sample, the absence of like-sexed effects in
+the GSS data appears to be the more reliable
+finding.
+
+The proportion of variation in educational
+attainment explained by the basic model is
+only slightly greater for females than for
+males (.28 and .26, respectively). Thus, the
+overall effect of the family background vari-
+ables on the education of working females is
+about the same as for working males. This is
+not consistent, in any important sense, with
+the findings of Sewell and Shah (1967; 1968)
+and Alexander and Eckland (1974) concern-
+ing the greater role played by socioeconomic
+background with respect to the schooling
+completed by females. However, Treiman and
+Terrell (1975) found that socioeconomic
+background was more important for nonwork-
+ing women than for working women. Thus,
+we compared housewives under 65 years of
+age who were not in the workforce with work-
+ing women under 65 and found that the ex-
+plained variation in educational attainment
+was somewhat higher for the housewives (.37
+versus .31). When both working women and
+housewives are combined, the explained varia-
+tion is still somewhat greater than that of
+working men (.34 and .28, respectively).
+Thus, for women overall, socioeconomic back-
+ground is a more important determinant of
+educational attainment than for males, a find-
+ing consistent with past research. However,
+for working women, the process of educa-
+tional attainment is more similar to that of
+males. Perhaps, as Treiman and Terrell (1975)
+suggested, the factors that lessen the influence
+of family on educational attainment may be
+the same factors that influence some women
+to reject the traditional role of housewife.
+
+The only statistically significant sex inter-
+action in the basic model of educational at-
+tainment is for number of siblings (p <
+01). The levels of significance of all other
+interaction terms are greater than .10. The
+direct effect of siblings on years of school
+completed is twice as great for males as for
+females. For males who differ by three
+siblings, those with the smaller number of
+brothers and sisters will average about one
+more year of school, whereas the difference
+for comparable females will only be half a
+year. The standardized coefficients show that
+for males, number of siblings has a slightly
+greater effect than either father’s status or
+head’s education, while for females, number
+of siblings is less important than the latter two
+variables. A possible explanation of the sex
+interaction with siblings is that sons are more
+likely than daughters to drop out of school
+early to supplement family income in case of
+need, and need tends to be greater as the size
+of the family increases.
+
+Although a sex difference with respect to
+the effect of siblings has been noted, all in all
+Multivariate models for the occupational
+status attainment of males have consistently
+found that education is the main determinant
+of occupational status. Most of the effect that
+family background factors (father’s occupa-
+tion, father’s education and number of sib-
+lings) have on occupational status is indirectly
+channeled through son’s education (Duncan et
+al., 1972; Sewell and Hauser, 1975). However,
+when white males are compared with black
+males it is found that the effects of education
+and family background on status are much
+weaker for blacks than for whites (Duncan,
+1968; Jencks et al., 1972). The explained
+variation for blacks is less than half that for
+whites. This difference between the black and
+white models has usually been attributed to
+racial discrimination.
+
+Since it is often assumed that women are
+discriminated against in the job market, it
+would be logical to expect that the parameters
+of the occupational status attainment model
+would be weaker for females than for males.
+This particularly might be expected for the
+direct effect of education on status, the
+strongest effect for males. On the other hand,
+married women are by and large “free” to par-
+ticipate or not to participate in the labor force
+since the breadwinner role normally belongs
+to the husband. This “freedom” would allow
+women to stay out of the labor force when
+they cannot find jobs at a status level com-
+mensurate with their education. To the extent
+that this option is exercised, we might expect
+the potentially dampening effect of discrimi-
+nation to be offset with the result that the
+relationship between education and status
+among women might be similar to the rela-
+tionship for males. There might even be
+reason to expect a stronger relationship
+among women. Duncan et al. (1972) found
+that the effect of education on occupational
+status is weakened somewhat by age. It is
+assumed that this results from the decreasing
+importance of education as experience in the
+labor market increases. Since women often
+enter the labor force at an older age than men
+and participate more intermittently than men,
+women tend to have less labor force experi-
+ence than men (Suter and Miller, 1973). Thus,
+we might expect female occupational status to
+be more closely determined by education than
+is the case for males. Whatever the outcome of
+these somewhat opposing factors, there are
+certainly plausible reasons to expect sex inter-
+actions with respect to the determinants of
+occupational status.
+
+The coefficients of the model of occupa-
+tional attainment are shown in Table 3 for
+males and females. As Treiman and Terrell
+(1975) found, the male and female models are
+quite similar. They are also nearly identical to
+earlier models for males (Duncan et al., 1972).
+The direct effect of education is the major
+determinant of status for both sexes. Father’s
+status has only a small, but statistically signifi-
+cant effect. The effect of parent’s education
+on status is not significant for either sex.
+
+Comparison of the male and female coef-
+ficients shows that the standardized coeffi-
+cient for education is slightly stronger for
+males, while the unstandardized coefficient is
+slightly greater for females, due to differences
+between the male and female standard devia-
+tions. However, the male and female educa-
+tion coefficients are not significantly different
+(the level of significance is approximately
+.35). Thus, we cannot conclude that the occu-
+pational status return to investment in
+schooling differs by sex. Each year of school-
+ing is worth about four status points, on the
+average, for white men and women. This sup-
+ports Treiman and Terrell’s (1975) findings
+with respect to occupational prestige.
+
+Turning to other coefficients in the model,
+the coefficient for age is significantly different
+from zero for males, while it is not for fe-
+males, and the coefficient for siblings is signi-
+ficant for females and not for males. The sex
+interaction with age is highly significant at the
+.001 level. This is probably because age serves
+as a better measure of labor force experience
+for males than for females. The sex inter-
+action with siblings is not quite significant at
+the .05 level (p = .09), and an explanation for
+the existence of such a sex difference will not
+be ventured. The small sex interactions with
+respect to age and siblings seem rather trivial,
+given the small effects of age and siblings rela-
+tive to that of education. When the model of
+status attainment is estimated for males and
+females together, the increase in explained
+variation resulting from the addition of a main
+sex effect and sex interaction effects is only
+seven-tenths of a percent, a statistically signifi-
+cant but hardly a substantively important
+increase.
+
+Although discrimination and less labor
+force experience were suggested as plausible
+reasons for expecting sex differences in the
+determinants of occupational status, no sub-
+stantial differences were found. For both
+sexes, education is the dominant determinant
+of status with only a small direct effect due to
+family background.
+
+However, the reader should be reminded
+that the variables in the basic model of occu-
+pational status only explain a little over one-
+third of the variation. The addition of intelli-
+gence scores is known to significantly increase
+the explained variation, but still leaves over
+half the variation in status unexplained
+(Jencks et al., 1972; Duncan et al., 1972).
+Thus, it is possible that the presently unmea-
+sured variables which explain the remaining
+variation might be different for males and fe-
+males. They might also show the present
+model to be misspecified in such a way that
+variables presently in the model may show sex
+interactions.
+tended female model of occupational status
+attainment. Marital status might affect the
+status attainments of females for several rea-
+sons. Currently married women often find
+their occupational endeavors to be secondary
+in precedence to those of their husbands, and
+possibly secondary in importance to their role
+of homemaking. Thus, their marital status
+tends to constrain their free and full participa-
+tion in the labor market, possibly lowering
+their level of status attainment and the rela-
+tionship between education and status, be-
+cause they are forced to accept positions for
+which the status is not commensurate with
+their education. Women not currently married
+would not be faced with these constraints and
+thus might show greater attainment. But as
+previously mentioned, married women are
+also “free” to participate in the labor market
+and thus might choose to participate only
+under optimal conditions, thus reducing the
+constraining effects of marriage. Whatever the
+outcome, it seems worthwhile to investigate
+the effect of marital status by including it in a
+status attainment model for females.
+
+The primary responsibility for the care of
+children in the home traditionally belongs to
+women. This responsibility might also tend to
+limit their commitment to occupational roles
+and their freedom to participate in the labor
+force to their fullest ability. Thus, the status
+attainments of women with children in the
+home, whether currently married or not,
+might be reduced. Three variables which
+measure the number of children in the home
+will be included in the model: number of
+babies (under age 6), number of pre-teenagers
+(age 6 through 12) and number of teenagers
+(age 13 through 17).
+
+The last additional variable to be included
+in the extended female model indicates
+whether the woman is a full-time worker or a
+part-time worker. Female workers are much
+more likely to be part-time workers than are
+males (29.3 percent versus 6.6 percent). Since
+part-time workers tend to have lower occupa-
+tional status than full-time workers and since
+such a significant proportion of women work
+part-time, work status might act as an impor-
+tant determinant of status, independently of
+the other socioeconomic variables in the
+model.
+
+The standardized and unstandardized coef-
+ficients for the extended female model are
+given in Table 4. The coefficients for the
+background variables and for education are
+the same as in the basic model. The addition
+of the marital, children and work status vari-
+ables increases the explained variation by two
+percent, a statistically significant but relative-
+ly small increase. Of the new variables, work
+status has the strongest effect, marital status
+the next strongest effect and the children at
+home variables do not show statistically signi-
+ficant effects. Working full-time, as opposed
+to part-time, is worth about five status points.
+The direct effect of work status is the same
+strength as the effect of father’s occupational
+status. Currently married women have about a
+3.5 status point advantage over the nonmar-
+tied women. This suggests that the “freedom”
+to enter the labor force outweighs the possible
+handicaps of marriage for married female
+workers. However, the effect due to marital
+status is relatively weak.®
+Using the NORC General Social Surveys of
+1972-1974, we have found the occupational
+status attainments and the determinants of
+occupational status of white working males
+and females to be quite similar. As measured
+by Duncan’s Socioeconomic Index (SEI), the
+occupational status distributions of males and
+females are very similar, both with respect to
+the mean and the shape of the distributions.
+The most important difference between the
+two status hierarchies is the greater concentra-
+tion of males at both the upper and lower
+ends of the distributions. Although working
+females have more education and come from
+higher status families than nonworking house-
+wives, the data do not suggest that the occu-
+pational status of females would be appreci-
+ably lowered if a larger proportion of women
+were in the workforce.
+
+With respect to the basic model of status
+attainment, education is by far the most
+important determinant of occupational status
+for both white men and women. And, the
+process of educational attainment is much the
+same for working men and women. There is
+no evidence that the education of the like-
+sexed parent has a greater effect on the num-
+ber of years of school completed than does
+the education of the opposite-sexed parent.
+The effect of family background on the edu-
+cation of working women is somewhat less
+than for nonworking housewives, however.
+The only significant sex differences in the
+basic model of status attainment are for the
+effect of number of siblings on education and
+the effect of age on occupational status (the
+effect being stronger for males in each case).
+
+Examination of an extended model of
+status attainment for white females revealed
+small but significant positive effects for full-
+time workers versus part-time workers and for
+married women versus nonmarried women.
+The number of children at home had no effect
+on occupational status, however, and the ex-
+tended model provided little additional ex-
+planatory power over that of the basic model.
+
+The reader should be reminded that these
+findings only pertain to whites. It should not
+be assumed that the absence of sex differences
+in the status attainment process among whites
+can be generalized to blacks. Treiman and
+Terrell (1975) found that for blacks, the ex-
+plained variation in both education and occu-
+pational prestige was considerably higher for
+females than for males. The occupational
+prestige return to years of school completed
+was also considerably higher for females.
+Thus, important sex differences apparently
+exist in the black population.
+
+The conclusions which seem to emerge
+with greatest clarity from this analysis are,
+first, that the white male and female occupa-
+tional status structures are very much alike
+and second, that education is the most im-
+portant factor for allocating both males and
+females to positions in the status hierarchies.
+It should be remembered, however, that the
+similar status hierarchies are built on quite dis-
+similar occupational structures. In the GSS
+data, two-thirds of the working women are
+concentrated in white-collar jobs, more than
+half of which are clerical, while less than half
+of the men are found in white-collar jobs. The
+concentration of women in white-collar jobs is
+responsible for the female prestige and status
+parity with males. This parity does not result
+in income equality, of course, as females earn
+much less than males, even when they have
+the same status as males (Suter and Miller,
+1973; Treiman and Terrell, 1975).
+
+In light of the well-known sex inequalities
+with respect to type of occupation and in-
+come, the male-female status parity may
+appear surprising. However, this parity can be
+viewed as an integral part of a pervasive in-
+equality of sex roles, albeit a highly paternalis-
+tic aspect. The white-collar jobs in which the
+majority of women are found are cleaner,
+more comfortable and safer than the male
+dominated blue-collar jobs. They also possess
+relatively higher status. Thus, society seems to
+protect the “weaker” sex, to a greater degree
+than males, from the rigors and unpleasant-
+ness of the lower status blue-collar jobs. Such
+paternalism tends to increase the occupational
+status of females relative to males. However,
+within the blue-collar and white-collar cate-
+gories, females tend to be in lower status jobs
+than males. The concentration of females in
+service and clerical occupations within the
+blue-collar and white-collar categories, respec-
+tively, results in a lower mean status for
+women in each category. The lower female
+status within categories counterbalances the
+tendency for women to have higher status due
+to their concentration in the white-collar cate-
+gory, and thus produces the status equality of
+males and females. When viewed from this
+perspective, the equality of male and female
+occupational status is not so anomalous with
+respect to other sex inequalities.
+Bose, Christine E.
+
+1973 Jobs and Gender: Sex and Occupational
+Prestige. Baltimore: Johns Hopkins Univer-
+sity, Center for Metropolitan Planning and
+Research.
+
+Carter, Nancy
+
+1972 “The effects of sex and marital status ona
+social-psychological model of occupational
+status attainment.” Unpublished master’s
+thesis, University of Wisconsin.
+
+DeJong, Peter Y., Milton J. Brawer and Stanley S.
+Robin
+
+1971 “Patterns of female intergenerational occu-
+pational mobility: a comparison with male
+patterns of intergenerational occupational
+mobility.” American Sociological Review
+36:1033-42.
+
+Duncan, Otis Dudley
+
+1961 ‘“‘A socioeconomic index for all occupa-
+tions.” Chapter 6 in Albert J. Reiss, Jr.,
+Otis Dudley Duncan, Paul K. Hatt and C.
+C. North (eds.), Occupations and Social
+Status. Glencoe: Free Press.
+
+1968 “Inheritance of poverty or inheritance of
+race?” Pp. 85-110 in Daniel P. Moynihan
+(ed.), On Understanding Poverty. New
+York: Basic Books.
+
+Duncan, Otis D., David L. Featherman and Beverly
+Duncan
+
+1972 Socioeconomic Background and Achieve-
+
+ment. New York: Seminar.
+Featherman, David L. and Robert M. Hauser
+
+1975 “Sexual inequalities and socioeconomic
+achievement in the U.S., 1962-1973.”
+Paper presented at the Population Associa-
+tion of America, Annual Meeting, Seattle,
+Washington.
+
+Haug, Marie R.
+
+1975 “Sex role variations in occupational pres-
+
+tige ratings.” Sociological Focus 8:47-56.
+
+Hauser, Robert M., David L. Featherman and Dennis
+P. Hogan
+
+1974 “Race and sex in the structure of occupa-
+tional mobility in the United States,
+1962.” Paper presented at the 8th World
+Congress of Sociology, Toronto, Ontario,
+Canada.
+
+Jencks, Christopher, Marshall Smith, Henry Acland,
+Mary Jo Bane, David Cohen, Herbert Gintis, Bar-
+bara Heyns and Stephen Michelson.
+
+1972 Inequality. New York: Basic Books.
+
+Parnes, Herbert S., John R. Shea, Ruth S. Spitz and
+Frederick A. Zeller
+
+1970 Dual Careers. Volume 1. Washington D.C.:
+U.S. Department of Labor, Manpower Re-
+search Monograph No. 21.
+
+Sewell, William H. and Robert M. Hauser
+
+1975 Education, Occupation, and Earnings. New
+York: Academic Press.
+
+Sewell, William H. and Vimal P. Shah
+
+1967 “Socioeconomic status, intelligence, and
+the attainment of higher education.”
+Sociology of Education 40:1-23.
+
+1968 “Parents’ education and children’s educa-
+tional aspirations and achievements.”
+American Sociological Review 33:191-209.
+
+Suter, Larry E. and Herman P. Miller
+
+1973 “Income differences between men and
+career women.” American Journal of
+Sociology 78:962-74.
+
+Treiman, Donald J. and Kermit Terrell
+
+1975 “Sex and the process of status attainment:
+a comparison of working women and
+men.’’ American Sociological Review
+40:174-200.
+
+Tyree, Andrea and Judith Treas
+
+1974 “The occupational and marital mobility of
+women.” American Sociological Review
+39:294-302.
+
+U.S. Bureau of the Census
+
+1975 The Statistical Abstract of the United
+States. New York: Grosset and Dunlap.
+
+Wang, Linda
+
+1973 “The female status attainment process and
+occupational mobility.” Unpublished M.S.
+thesis, University of Wisconsin.

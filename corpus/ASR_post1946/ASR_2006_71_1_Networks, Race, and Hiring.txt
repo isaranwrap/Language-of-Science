@@ -1,0 +1,2508 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+It is common for scholars interested in race and poverty to invoke a lack of access to job
+networks as one of the reasons that African Americans and Hispanics face difficulties in
+the labor market. Much research has found, however, that minorities do worse when they
+use personal networks in job finding. Research in this area has been hampered by the
+complicated and multi-step nature of the job-finding process and by the lack of
+appropriate comparison data for demonstrating the various ways in which minorities
+can be isolated from good job opportunities. We seek to specify what it means to say that
+minorities are cut off from job networks. Building on the literature on social networks in
+the labor market, we delineate the various mechanisms by which minorities can be
+isolated from good job opportunities. We examine how these mechanisms operate, using
+unique data on the chain of network contacts that funnel to an employer offering
+desirable jobs. We find that network factors operate at several stages of the recruitment
+process. We find scant evidence, however, that these network factors serve to cut off
+minorities from employment in this setting. We conclude with a discussion of the
+theoretical and methodological implications of the case for the study of networks, race,
+and hiring.
+networks (e.g., Braddock and McPartland 1987;
+Johnson, Farrell, and Stoloff 2000; Royster
+2003; Wilson 1996)
+
+Previous studies, however, have produced
+mixed results on whether social networks pro-
+duce superior job rewards for minorities.
+Although the original impulse might have been
+to emphasize minorities’ disconnection from
+the world of work, much work suggests the
+opposite, that minorities are more likely to have
+obtained their job through networks than non-
+minorities (e.g., Elliott 1999, 2000; Green,
+Tigges, and Browne 1995; Reingold 1999).
+Moreover, these studies have also found that
+jobs obtained through networks pay Jess than
+jobs obtained by other means. A similar find-
+ing that informal job networks are detrimental
+for the earnings of Hispanics has appeared in
+Falcon (1995), Green, Tigges, and Diaz (1999),
+Korenman and Turner (1996), and Mier and
+Giloth (1985; but see Elliott and Sims 2001).
+Rather than exclusion from white networks
+(e.g., Royster 2003), the emphasis in the liter-
+ature has shifted to minorities’ over-reliance on
+ethnic networks. Thus, the imagery that emerges
+from these studies is that minorities are stuck in
+the “wrong networks,” that is, those that lead to
+low-wage jobs.
+
+There is something slippery about the way
+these network arguments are currently being
+used, however. Because “wrong network” is
+defined in terms of the eventual outcome (a
+network is “good” if it leads to a good out-
+come, otherwise, it is a “wrong network”), such
+explanations run the danger of circular reason-
+ing. To give network accounts of minority under-
+performance analytical bite, we need to specify
+the mechanisms by which minorities are
+“excluded” from productive networks or “stuck”
+in unproductive ethnic networks.
+
+In this paper, we elaborate the various net-
+work mechanisms by which minorities can be
+isolated from good job opportunities. Using
+unique data from one employer, we examine
+multiple steps in the chain of network referral
+processes originating from employees to the
+applicants for entry-level jobs at this employ-
+er. To avoid the circularity inherent in extant
+“wrong network” accounts, we study access to
+a set of desirable jobs that are within reach of
+candidates with modest levels of education and
+skills. Further, we form proper baselines of
+comparison using data on both networked and
+non-networked minorities and non-minorities at
+each stage of the process. We identify numer-
+ous points in the process where network factors
+could lead minorities to have less access to
+these desirable jobs than non-minorities.
+ly addressing the effects of minority/non-minor-
+ity differences in networks have also produced
+mixed results. Some studies argue that racial
+homophily in job-finding networks results in
+racial insularity, and thus contributes to the eco-
+nomic marginalization of minorities (e.g.,
+Braddock and McPartland 1987). Reingold
+(1999) finds that the percentage of employed
+friends is a critical factor in explaining differ-
+ences in word-of-mouth job finding among sev-
+eral minority groups. He suggests, however,
+that “there seems to be an inverse relationship
+between the socioeconomic status of personal
+contacts and finding work through word-of-
+mouth.”
+
+In all this research, the question arises
+whether ties to employed people provide access
+to jobs, or is it that working people get to know
+other employed people in the course of their
+work? Studies comparing the networks of
+employed and unemployed individuals will
+always suffer from this causal ambiguity. While
+this is a general problem in the area of net-
+works (do ties to higher-status people cause
+superior labor market outcomes, or is it that
+people with superior labor market outcomes
+gain access to high-status people?), much of
+the research on race and networks suffers from
+this ambiguity (e.g., Fernandez and Harris 1992;
+Johnson, Bienenstock, and Farrell 1999;
+Johnson et al. 2000; Lichter and Oliver 2000).
+
+One way to avoid this causal ambiguity is to
+begin with samples of job seekers or job chang-
+ers—as opposed to job incumbents—and exam-
+ine the chances of obtaining employment for
+various search methods. For example, several
+projects using data from the Multi-City Study
+of Urban Inequality (MCSUI) compare the ways
+in which people from different race groups
+found their current jobs (e.g., Elliott 1999, 2000,
+2001; Green et al. 1995; Green et al. 1999;
+Johnson et al. 2000). Since the job-finding
+methods reported by workers are temporally
+prior to having obtained the job, the use of net-
+works in these studies does not suffer from the
+causal ambiguity noted above because the net-
+works being reported were not obtained once the
+person was on the job. This research, however,
+has produced little evidence that social net-
+works generate superior job rewards for minori-
+ties. For example, Falcon (1995), Green et al.
+(1999), Korenman and Turner (1996), and Mier
+and Giloth (1985) find that informal job net-
+works are detrimental for the earnings of
+Hispanics. According to these studies, it would
+appear that, rather than simply being cut off
+from job finding networks, minorities seem to
+underutilize formal methods of job search,
+which lead to better jobs.
+
+Job-seeker studies have a number of weak-
+nesses, however. First, because they contain
+samples of people looking for a diverse array of
+jobs at many different firms, they cannot uncov-
+er the specific influence of social ties on the
+organizational screening process. Depending
+on the firm’s particular human resources prac-
+tices, personal contacts can affect the hiring
+process at a number of distinct points: the for-
+mation of a pool of applicants, the manner in
+which applicants learn about the screening
+process, the extent of information about open-
+ings, and so forth. Employers certainly vary in
+the degree to which they rely on the use of per-
+sonal contacts as a means of recruitment (e.g.,
+Holzer 1996; Marsden 2001; Marsden and
+Gorman 2001), and such heterogeneity in
+employers’ behavior limits our ability to inter-
+pret the results for these studies.
+
+Second, studies of job changers tend to have
+limited and possibly inappropriate controls for
+worker characteristics. Because the use of social
+ties for job search may be related to other vari-
+ables that measure the overall appropriateness
+of the job seeker for the job opening (e.g., edu-
+cation, relevant work experience), the general-
+ly sparse controls in these studies could result
+in biased assessments of the role of social ties
+in hiring.
+
+Employer surveys (e.g., Holzer 1996; Moss
+and Tilly 2001) constitute an alternative
+approach for studying social networks and hir-
+ing. These types of studies offer valuable
+insights on typical hiring practices and provide
+good information about the last person hired.
+Compared to job-seeker studies, research using
+this approach is less vulnerable to the causal
+ambiguity noted above since it is designed to
+report on the employer’s recruitment behavior.
+Thus, studies in this tradition have been help-
+ful in fleshing-out the employer side of the hir-
+ing process.
+
+Although these studies contribute pieces to
+the puzzle, it is important to realize that none
+of the research discussed thus far examines
+actual hiring processes, in that they cannot
+address how the firm selects employees from a
+pool of candidates. Without baseline informa-
+tion on the presence or absence of social ties for
+the pool of competing applicants, among whom
+some are hired and others are not, it is impos-
+sible to isolate the effect of social contacts on
+hiring per se. If large proportions of job seek-
+ers use their friends and relatives as sources of
+information during job searches, then, even if
+hiring decisions were being made randomly, a
+similarly large proportion of hires would report
+having used personal networks. The literature on
+networks and race has similarly suffered from
+a paucity of data on actual hiring processes.
+To address the ways in which race and net-
+works interact in hiring, we need research that
+taps screening dynamics at various phases of the
+hiring process and measures the ways in which
+social ties might affect outcomes at each stage.
+Single-firm screening studies (e.g., Fernandez,
+Castilla, and Moore 2000; Fernandez and
+Weinberg 1997; Petersen, Saporta, and Seidel
+2000, 2004) are better suited to this task. These
+papers find that referral networks have an
+important role in the hiring process. While these
+studies overcome the general problems of job
+incumbent, job seekers, or employer-side stud-
+ies, with the exception of the Petersen et al.
+(2000, 2004) and Kirnan, Farley, and Geisinger
+(1989) papers, screening studies cannot address
+the role of race in hiring since the authors could
+not identify the race or ethnicity of applicants.
+Some studies using an audit framework have
+addressed race differences in employer screen-
+ing (Bertrand and Mullainathan 2004; Cross et
+al. 1990; Heckman 1998; Pager 2003; Turner,
+Fix, and Struyk 1991). These studies are limit-
+ed to assessing employer behavior when candi-
+dates apply via impersonal means (typically,
+responses to newspaper ads) because they use
+resumes from fictitious applicants.
+Consequently, they cannot study network
+recruitment practices, the key concern in this
+paper. Nor can these studies address, as we do
+here, subsequent steps in the hiring process.
+Using obviously different methods, ethnog-
+raphers have also weighed in on the question of
+whether minorities are cut off from job-finding
+networks. For example, Kasinitz and Rosenberg
+(1996) argue that poor, black residents of the
+Red Hook section of Brooklyn are cut off from
+good jobs on the waterfront, even though these
+jobs are spatially very close by. Since people
+tend to be hired into these jobs only through con-
+The imagery that emerges from these accounts
+is not so much one of minorities being cut off
+from employment opportunities—on the con-
+trary, minorities appear disproportionately to
+use networks to find jobs—but one where they
+are embedded in the “wrong” network, that is,
+they tend to overuse networks that lead to low-
+wage jobs. Since, as we noted above, a “wrong
+network” is defined in terms of the outcome,
+such an argument runs the risk of circular rea-
+soning.
+
+In light of the research showing that there
+does not appear to be a deficit in minorities’ abil-
+ity to form job-finding networks per se, a key
+component of the “wrong network” puzzle
+comes down to understanding why minorities
+are underrepresented in networks that lead to
+good jobs. Addressing this issue is crucial if the
+idea of “wrong network” is to be rendered fal-
+sifiable. To attribute logically the exclusion of
+minorities to the absence of network ties to
+good opportunities, we would need to feel con-
+fident that these minorities might plausibly have
+been hired except for the lack of the contact (for
+a discussion of causal structure of network the-
+ories, see Mouw 2003). For example, when
+considering modestly educated people (e.g.,
+high school graduates), it would not make sense
+to attribute their underrepresentation among
+medical doctors to the lack of networks that
+lead to the job as a proximate factor. Indeed,
+what gives Kasinitz and Rosenberg’s (1996)
+account of network exclusion its power is the
+fact that African Americans in Red Hook could
+plausibly have worked the waterfront jobs with
+their existing skills.
+
+From this perspective, it is critical to define
+the various processes whereby network factors
+could limit minorities’ access to desirable jobs.
+In the conceptualization we advance here, the
+“wrong network” account is consistent with
+underrepresentation of minorities in any of a
+number of stages in the recruitment and hiring
+process. While past research on race and net-
+works has studied various portions of the
+process, it has been poorly equipped to distin-
+guish among these various stages. In addition,
+since policies target discrete steps in the process
+(e.g., training policies are meant to affect the
+formation of the applicant pool, some forms of
+affirmative action are meant to affect the screen-
+ing stage; see Reskin 1998), understanding each
+stage is crucial for crafting effective policy
+interventions.
+
+Figure 1 presents a conceptual map of the
+ways in which networks might affect the vari-
+ous stages of the recruitment and hiring process.
+We analytically separate the chain of network
+processes into two phases: the referring process
+and the screening process. We start by adopting
+the perspective of the employees that might
+originate network connections to desirable jobs,
+and analyze minority versus non-minority rep-
+resentation in this pool of workers (step 1a in
+Figure 1). By doing so, we probe the theoreti-
+cal argument that there might not be enough
+minority workers in good jobs who can serve as
+originators of word-of-mouth networks, as is the
+case in Kasinitz and Rosenberg’s (1996) story
+of Red Hook. Even if minorities are in a posi-
+tion to originate job networks, it could be that
+minorities are reluctant to pass on information
+about job openings to good jobs. We flag this
+issue as step 1b in Figure 1. Wilson (1987), for
+example, suggests this might be a possibility in
+his discussion of the exodus of the middle class
+from poor areas. More recently, Smith (2005)
+has found strong evidence of such reluctance to
+pass on information about job openings in her
+sample of low-income African Americans (see
+also Newman 2005).
+
+Even if employed minorities originate refer-
+rals to desirable jobs at comparable rates to
+non-minorities, the question of the race of the
+target of those efforts remains (Figure 1, step
+1c). As emphasized by Elliot (1999, 2000,
+2001), job referral networks tend to be
+“Wrong” Network
+
+     
+ 
+
+    
+ 
+
+      
+ 
+   
+     
+   
+ 
+  
+  
+
+Step la. Are minority
+employees available to
+refer? [minority vs. non-
+minority representation in
+pool of workers]
+
+Step 1b. Do minority
+employees refer?
+
+Step 1c. Do employees
+refer minority applicants?
+
+ 
+
+ 
+
+1. Referring Process
+
+2. Screening Process
+
+ 
+    
+  
+ 
+
+Employer Prefers
+Nonreferrals
+
+  
+  
+
+        
+  
+
+Step 2. Employer’s
+Attitude Towards
+Referrals
+
+Pool of Minority
+“Networked” Applicants
+
+   
+
+    
+   
+
+(0) (+)
+
+Employer Is Neutral Towards Referrals Employer Prefers Referrals
+ies (e.g., Aponte 1996; Bailey and Waldinger
+1991; Jenkins 1986; Kasinitz and Rosenberg
+1996; Miller and Rosenbaum 1997; Neckerman
+and Kirschenman 1991; Waldinger 1996, 1999)
+claim that minorities lack the necessary social
+connections that employers look for in hiring.
+As a consequence of this disconnection, minori-
+ties are alleged to suffer at the hiring interface.
+This was the pattern in Petersen et al.’s (2000)
+study in which recruitment source explains the
+company’s apparent avoidance of African
+Americans. In this important study, African
+Americans were less likely to be hired than
+whites, but “once referral method is taken into
+account, all race effects disappear.”
+
+In this scenario, if minorities were well rep-
+resented in the pool of networked applicants,
+then employers’ preference for referrals would
+act to hire minority applicants in proportion to
+their representation in the networked pool of
+applicants that are delivered by steps 1a to Ic.
+If, however, minorities are underrepresented in
+the steps that occur prior to the screening step
+2, then the preference for referrals would work
+to transmit minority underrepresentation of the
+networked pool of applicants to the pool of peo-
+ple who have been hired.
+
+Other research has found, however, that while
+many employers hire through contacts generat-
+ed from their existing employees, some employ-
+ers avoid hiring through networks (Fernandez
+et al. 2000:1296-98). For example, Ullman
+(1966) reports that many employers prefer to
+hire through employee referrals, but that
+employers who do not like their current work
+force or are having “problems with cliques”
+avoid referrals. In this case, the final screening
+stage of the process (step 2) would serve as a dis-
+tinct point of disconnection from desirable jobs.
+For an employer who is avoiding referrals, being
+well represented in the pool of referred appli-
+cants is bad news for minorities. On the other
+hand, if the employer is neutral toward hiring
+referrals, access to desirable jobs for minorities
+will be provided at the last step of the process
+(step 2) in proportion to the overall applicant
+pool, as opposed to the networked applicant
+pool. In this latter case, the employer’s screen-
+ing actions at step 2 would not reinforce minori-
+ties’ referral networking activities (steps la—1c),
+but neither would the employer actions serve to
+cut off minorities from desirable jobs.
+centages of these employees are immigrants (to
+be discussed later).
+
+The data that we have collected at this site are
+extremely sensitive, and issues of confidential-
+ity are very salient in this case. Consequently,
+we need to be spare in our description of the
+company. The company we are studying is a pri-
+vate, medium-sized (approximately 1,200-per-
+son) firm located in the western United States.
+While the company employs people at numer-
+ous locations, we focus here on its headquarters
+and main production facility. The entry-level
+jobs that are the main focus of this study are fac-
+tory-production occupations that fall into the
+broad category of “Other Production
+Occupations” (Bureau of Labor Statistics SOC
+code 51-9000), a code that covers a range of
+machine operators and tenders (see
+www.bls.gov/soc/home.htm).
+
+As a case study, we make no claims with
+respect to the representativeness of the plant
+under study. The in-depth information we have
+available here makes this an ideal setting, how-
+ever, for dissecting a number of the network
+mechanisms by which minorities might be dis-
+advantaged. Although some links in the chain
+have been studied in a piecemeal fashion, a
+number of these processes have never before
+been addressed. Thus, the theoretical signifi-
+cance of this case is that it provides a window
+through which one can view the operations of
+a set of processes that are normally hidden from
+view.
+
+Working through the firm’s human resources
+department, we assembled data on the pool of
+applicants, interviewees, job offers, and hires.
+We collected the paper application materials
+(i.e., the standardized application form and,
+occasionally, resumes) for all 2,605 applica-
+tions to the plant’s entry-level production jobs
+over the 39-month period of the study, from
+September 1, 1997 to November 30, 2000. The
+number of hires over this period is 192. Over
+three-quarters (77 percent) of the applications
+were from people who applied only once, and
+23 percent of the applications were from peo-
+ple who applied multiple times during the peri-
+od of the study. These repeat applicants allow
+us the opportunity to examine the reliability of
+the racial classification we use here (see
+Appendix). The number of repeat applications
+varied from two to six. Most of the repeat appli-
+cations (72.2 percent) were second applications,
+and account for an additional 16.6 percent of the
+application pool. An additional 4.0 percent of
+the applicant pool was made up of applications
+from people who had applied three times; only
+2.3 percent of the applications were from peo-
+ple who had applied four or more times.
+
+From these paper files, we coded data on
+applicants’ education, work history, and other
+human capital characteristics. We also geocod-
+ed candidates to the addresses they listed on the
+application form. We successfully geocoded
+99.8 percent of the applicants. We use the
+geocoded data to calculate measures of com-
+muting distance to the plant. To our knowledge,
+this is the first time such spatial data has ever
+been used in the analysis of an applicant pool.
+
+The most important feature of this study site,
+however, is that the plant is unusual in that it
+keeps information on the racial and gender com-
+position of the applicant pool. This feature of the
+data allows us rare insight into the ways in
+which race and networks interact in the hiring
+process. In order to be hired, all applicants to the
+plant must come into the receptionist’s area to
+turn in a completed and signed application form.
+After accepting the application form, the recep-
+tionist logs the receipt of the application and
+records the applicant’s apparent race and gen-
+der. Therefore, race of applicant is not, as in
+many surveys, self-identified, but it is based
+on the receptionist’s perception. While such a
+definition is well suited to our purposes of
+understanding the role of race in the hiring
+process, the specific procedures used by the
+company to collect these data do introduce
+methodological complications (see Appendix).
+Because we had access to the names and sig-
+natures on the application forms, we did not
+need to rely solely on the logs to identify gen-
+der. We were successful in coding gender for
+97.2 percent of the applications.
+
+The applicant pool for the entry-level jobs at
+this company is quite diverse along racial lines.
+As we discuss later, Asian Americans are clear-
+ly overrepresented among employees and in the
+application pool for this company. Although
+the employer does not directly ask whether the
+candidate is an immigrant, there is some infor-
+mation on the application form (e.g., address of
+previous employers, address of schools attend-
+ed) that gives us some indication about the
+immigrant composition of the applicant pool.
+Using these criteria, 11 percent of white, 1 per-
+cent of black, 17 percent of Hispanic, and 55
+percent of Asian applicants are immigrants.
+Immigrants from the Philippines and Mexico
+account for 47 and 9 percent of the immigrant
+population respectively.
+
+A key component of our argument is that, in
+dissecting the network processes as a proxi-
+mate cause of success in the labor market, it is
+important to consider settings where it is plau-
+sible that minorities might be hired, except for
+the network processes. This is crucial for ensur-
+ing that we are not misattributing the effect of
+networks to the effects of human capital factors.
+The entry-level production jobs that we study
+here are within reach for people with modest
+education and labor force experience: the medi-
+an years of education and labor force experience
+for the people hired into these jobs over the
+course of the study are 12 and 7.9 respectively.
+There is also plenty of reason to think that these
+jobs are desirable for modestly educated work-
+ers within the context of the local labor market.
+Although the nation as a whole was experienc-
+ing an economic boom over most of the period
+of the study, the local labor market was plagued
+by high rates of unemployment ranging between
+6.7 and 14.1 percent.! In this macro-environ-
+ment, full-time jobs with good medical and
+pension benefits are likely to be especially
+attractive. This is confirmed by the applicants’
+behavior in this setting: 95.5 percent of the job
+offers made were accepted.
+
+Moreover, the wages that the firm offered
+were also attractive, particularly for females
+and minorities. Similar to the firm in the
+Fernandez et al. (2000) study, the company had
+a policy of offering everyone the same starting
+wages. For the first eight months of the study
+(9/97--4/98), starting wages were $7.75 per hour;
+the starting wages were then raised to $8.05
+for the rest of the study. We used data from the
+5 percent Public Use Micro Sample of the 2000
+Census to calculate baseline wage rates for var-
+ious race and gender groups in the local area.
+Following Holzer (1996), we limit the data here
+to the non-college population (i.e., years of edu-
+cation less than 16). Table 1 shows that the
+company’s starting wages of $7.75 and $8.05 fell
+in the 25th and 27th percentiles of the overall
+wage distribution for males in the area. These
+wages were even more attractive to females,
+however: for them, $7.75 and $8.05 fell in the
+35th and 36th percentiles of the overall female
+wage distribution.
+
+There was also considerable racial variation
+in the levels of attractiveness of these wages.
+Considering whites alone, these starting wages
+fell in the 18th and 19th percentiles of the male
+wage distribution, and in the 30th and 31st per-
+centiles of the female distribution. These wages
+placed considerably higher in the wage distri-
+bution for minorities, especially minority
+females. The company’s wages fell in the 27th
+and 28th percentiles of the wage distribution for
+male African Americans and in the 37th and
+38th percentiles for African American females.
+For both genders, these wages were even more
+attractive to Hispanics, for whom the company’s
+starting wages fell in the 35th and 36th per-
+centiles of their male distribution, and in the
+43rd and 44th percentiles of the wage distribu-
+tion for Hispanic females. Asians, too, showed
+a similar pattern. For Asian males, the compa-
+ny’s offered wages fell in the 32nd and 35th
+percentiles, a difference of 14 and 16 points
+compared to white males. For Asian females, the
+difference was nine and 10 points compared to
+the wage percentiles of white females, that is,
+the 39th and 41st percentiles.
+
+Starting wages do not tell the whole story,
+however. This firm shares various elements of
+a classic internal labor market (Doeringer and
+Piore 1971), with most hiring occurring at the
+entry-level “ports of entry,” and with internal
+promotion ladders. New hires go through a 90-
+day probation period, after which pay raises are
+commonly granted. Of the 192 hires, 56 people
+(29.2 percent) turned over prior to the end of the
+90-day probation. An additional 16 people were
+re-hires, and had already passed the probation
+period at the time of the second hire. We did not
+observe the end of the probation period for 11
+people, who were censored because we fin-
+ished the study prior to the end of their 90-day
+probation. Looking at the raises for the remain-
+ing 109 new hires, 68 people (62.4 percent)
+received pay increases to $8.50. Seventeen peo-
+ple (15.6 percent) did not receive a raise, but 23
+people (21.1 percent) had their hourly wage
+increased to $10.05 per hour, and one person
+received a pay increase to $10.35. Data under
+the second heading in Table 1 shows that these
+increases place the company’s wages in, respec-
+tively, the 29th, 37th, and 38th percentiles of the
+local wage distribution for males. Here, too,
+these wages were more attractive for females
+than for males by 11 to 14 points; that is, these
+wages fell at the 40th, 51st, and 52nd percentiles
+for females.
+
+Similar to the pattern in the top section of
+Table 1, the post-probation wages are consid-
+erably more attractive to minorities than to non-
+minorities of both sexes. Whereas these wages
+cut at the 21st, 27th, and 28th percentiles for
+white males, they fell at the 32nd, 40th, and
+41st percentiles for African American males, the
+37th, 43rd, and 45th percentiles for Asian males,
+and the 39th, 49th, and 50th percentiles for
+Hispanic males. Similarly stark race contrasts
+appear for females (c.f. columns for whites and
+each minority group). Indeed, the top wage of
+$10.35 approaches the median of the wage dis-
+tribution for white and African American
+women in the area (46th and 48th percentiles),
+while the $10.35 figure well exceeds the medi-
+an for Hispanic and Asian females (62nd and
+57th percentiles).
+
+Although the underrepresentation of minori-
+ties in job-referral networks is often cited as an
+element of network accounts of race and pover-
+ty, there is a paucity of information on the role
+of networks and race in the hiring process per
+se (for a thorough review, see Petersen et al.
+2000). In these data, we distinguish networked
+candidates using data collected from the origi-
+nal application forms submitted for entry-level
+jobs at the plant. The application form has an
+item that explicitly asks about recruitment
+source: “How did you find out about the job?”
+and lists several boxes to check. One of the
+boxes is “Current [NAME OF COMPANY]
+employee,” and includes space for the name of
+the referrer. Because we can identify the recruit-
+ment source at application, and follow candi-
+dates through pre-hire screening, we can address
+demand-side arguments about the employers’
+favoring referrals in the screening process.
+Employee referrals made up 30.2 percent of
+the applications for which we could identify
+recruitment source (773 of the 2,556; the recruit-
+ment source was left blank for 49 of the 2,605
+applications), and non-referrals made up 70.3
+percent. Among these non-referrals, however,
+there were 164 applications that did not contain
+a check in the box indicating that an employee
+had referred them, but they did list a word-of-
+mouth source: 146 of these applications simply
+listed “friend,” and another 18 applications list-
+ed a name. A search of the company records
+showed that none of these 18 individuals was
+ever employed at the company. We will distin-
+guish these as “non-employee referrals” in our
+analyses.
+
+Whereas most past research has collected
+data on the characteristics of the job contact
+once people have been hired (e.g., Corcoran,
+Datcher, and Duncan 1980), we have been able
+to link referrers with their referrals for a large
+percentage of candidates at the application
+phase. Of the applications indicating that the
+applicant was referred by employees of the
+company, 83.7 percent (647 of 773) supplied the
+name of the referrer, and 126 declined to give
+the name of the referrer (122 applicants left the
+space on the application form blank, and four
+others filled in “friend”). In contrast to the set-
+tings of some past research (e.g., Fernandez et
+al. 2000; Fernandez and Weinberg 1997), this
+company does not pay employees for their refer-
+rals. Thus, workers do not have any financial
+incentive to ensure that applicants will fill in
+their name as referrers on the application form
+(see Neckerman and Fernandez 2003;
+Fernandez and Castilla 2001 for analyses of
+referring incentives). This is likely to account for
+the relative laxity that these applicants show in
+providing the name of their referrer.
+From company data sources, we located
+employment records for 95.9 percent (602) of
+the 628 referrers who were named on the appli-
+cation form. The missing 26 applications list-
+ed only a first name on the application form;
+since many of these names were common, we
+could not generate unique matches for them
+from the employee database. By tracing back
+their names in the company’s employee data-
+base, we were able to match 216 referrers to
+these 602 referrals. The number of referrals
+produced per referrer varied between one and
+20.? Of these 216 referrers, 39.3 percent pro-
+duced only one referral applicant, and 26.4 per-
+cent originated two referral applications.
+
+For studying who among company employ-
+ees produces referrals, we built a dataset gleaned
+from the company’s personnel records. We iden-
+tified 557 workers who were employed at the
+focal plant at any point over the 39-month peri-
+od of the study, and thus, were at risk of origi-
+nating referrals to the site of the study. We coded
+worker’s self-identified race and gender as it was
+provided to the company for purposes of com-
+plying with Equal Employment Opportunity
+policies. As we noted earlier, minorities con-
+stituted over 50 percent of the work force
+employed at this site. This feature is crucial for
+addressing the question of whether minority
+workers are less likely than other workers to
+originate networks. This is in contrast to Kasinitz
+and Rosenberg’s (1996) case where there were
+no minorities at all employed in desirable water-
+front jobs. There, the network disconnection
+occurs at the very origin of the referral net-
+works, since there were no minorities to activate
+referral processes. The situation in the setting
+of our article is clearly not as stark. An impor-
+tant advantage of the current study, however, is
+that we are able to examine multiple points
+beyond origination where minorities’ network
+exclusion could occur in this setting. We com-
+bined the employee race data with the recep-
+tionist’s information on the race of the applicant
+to explore the role of racial and ethnic homophi-
+ly (.e., the tendency of people to refer people
+The first way that “wrong network” processes
+could manifest themselves in this context is by
+the absence of minorities and poor workers
+among the originators of job contact networks
+(see step 1a in Figure 1). We begin by studying
+the race and gender distribution of the potential
+originators of job contact networks, that is, the
+group of employees at the company who might
+serve as network conduits to the firm.
+
+The first two columns of Table 2 show the
+race distribution by gender for all plant employ-
+ees who could have produced referral applica-
+tions to the company over the period of the
+study for employees at the focal plant. For both
+males and females, over half the workers
+employed at this company are minorities. The
+next two columns show the race distribution
+for male and female entry-level employees who
+might be especially likely to refer people to the
+entry-level jobs at this company. For both gen-
+ders, the percentage of minorities increases,
+and the percentage of whites decreases com-
+pared to the full population of employees at the
+plant. Among minorities, relatively large per-
+centages of Asian Americans and Hispanics,
+but more modest percentages of African
+Americans, are represented in entry-level jobs
+and in the company overall.
+
+We also examined the pattern of gender rep-
+resentation at the company. Women make up
+63.2 percent of the work force at the plant and
+69.4 percent of the incumbents of entry-level
+jobs. This pattern of female overrepresentation
+occurs irrespective of race. The only exception
+to this is the African Americans, for whom the
+gender distribution is much more evenly divid-
+ed: 47.8 percent of blacks in the company over-
+all are female, and 56.3 percent of blacks in
+entry-level jobs are women.
+It is well known, however, that race is uneven-
+ly distributed across space within labor markets
+(Fernandez and Su 2004). We gain further
+insight by comparing these race and gender dis-
+tributions of workers with the composition of
+persons employed in the local area. For this
+task, we use data from the 5 percent sample of
+the 2000 Public Use Micro Sample (PUMS)
+for the local metro area, which contains approx-
+imately 1 million residents. As with the analy-
+ses presented in Table 1, we adjust the data to
+focus on the non-college labor force.
+
+Against this spatially defined external base-
+line, white workers of both genders are under-
+represented in the factory under study. The
+percentages of African Americans employed at
+the factory are quite similar, however, to their
+respective proportions in the metro area.
+Hispanic males are underrepresented in entry-
+level jobs (28.6 vs. 35.3 percent) and the com-
+pany overall (24.9 vs. 35.3 percent). The most
+noteworthy pattern, however, is the extremely
+large overrepresentation of Asians. For both
+male and females, and whether the comparison
+is to all employees or only to entry-level employ-
+ees, the Asian percentage of the company’s work
+force is much higher than that of the local labor
+catchment area as measured by the PUMS.
+Asians make up only 6.5 and 6.1 percent of
+employed females and males in the metropoli-
+tan labor market, but account for nearly a quar-
+ter of females (23.3 percent) and over a quarter
+of males (26.8 percent) employed at the com-
+pany. The Asian overrepresentation is even larg-
+er when considering the entry-level employees,
+especially for males (c.f. 35.7 vs. 6.1 percent).
+
+In sum, the analyses of step 1a of the process
+show that relatively large percentages of Asian
+Americans and Hispanics, but small percentages
+of African Americans, are available to refer oth-
+ers in this setting. At least with respect to
+Hispanics and Asians, substantial numbers of
+minorities are available to serve as potential
+originators of job networks that lead to this
+company. While African Americans are in short
+supply in this setting, this shortage appears to
+be attributable to their relative scarcity in the
+employed work force in the metro area in which
+the firm is located.
+cations for 200 referrers. Of the 557 employees
+working at the focal plant, these 200 employees
+(35.9 percent) originated a total of 580 appli-
+cations over the 39-month period of the study.
+
+The first column of Table 3 shows race dif-
+ferences in the percentage of employees origi-
+nating at least one referral applicant. Over half
+(50.9 percent) of Asian American male employ-
+ees and 45.1 percent of Asian females originated
+at least one referral applicant. Within gender,
+Hispanics produced the next highest percentage
+of referral applicants (females: 44.6 percent,
+males: 41.2 percent). About a third of African
+Americans of both genders (33.3 and 36.4 per-
+cent) originated at least one referral to the plant.
+Interestingly, whites show the lowest rates of
+producing referrals: 27.7 percent for females
+and 18.8 percent for males. The next two
+columns of Table 3 show the average number of
+referrals produced by employees of each race
+group. Here, too, Asians are the most active
+networkers (producing an average of 2.27 refer-
+rals for males and 1.58 for females), and whites
+are the least active in originating referrals (0.47
+for males, and 0.51 for females).
+
+One limitation of the analysis presented in
+Table 3 is that it does not control for any back-
+ground factors. To determine whether back-
+ground factors might account for the observed
+race differences in referral behavior, we devel-
+oped a set of predictive models (i.e., negative
+binomial regressions) of referring, including a
+number of background variables among the
+regressors. One potentially important variable
+is the amount of time that individuals are
+employed during the hiring window and are
+We also include in the model demographic
+background factors of gender and age. Also,
+since job networks often involve kin (see, e.g.,
+Grieco 1987; Waldinger and Lichter 2003), we
+include measures of marital status (1 = married)
+and family size among the regressors. The lat-
+ter measure is coded from company records on
+the number of dependents that workers claim for
+medical benefits. Similar to Fernandez and
+Castilla (2001), we control for hourly wages
+since low-wage workers might be better posi-
+tioned than high-wage workers to know about
+openings for these entry-level jobs. Wages might
+also measure structural accessibility to appro-
+priate candidates, since high-wage workers are
+probably less likely to know people who would
+be interested in applying for these relatively
+low-wage entry-level jobs. We also control for
+Table 4. Descriptive Statistics of Variables Used in Predictive Models of Referring
+
+ 
+
+ 
+
+ 
+
+Mean Std. Dev. Minimum Maximum
+African American 042 .201 0 1
+Hispanic 274 446 0 1
+Asian American .245 430 0 1
+Native American .009 .095 0 1
+Gender (Male = 1) 367 482 0 1
+Age (in years) 34.186 10.075 18.218 61.128
+Marital Status (1 = Married) 558 497 0 1
+Number of Dependents 1.731 1.573 0 7
+Hourly Wage (in $s) 12.699 5.036 6.000 49.520
+Tenure (in years) 2.790 4.539 0 31.641
+Air Distance to Plant, km (e!) 2.059 2.213 .020 17.131
+Air Distance squared (e) 9.126 26.129 000 293.461
+Days of Exposure (e?) 9.393 4.119 9 1248
+Number of Referrals Produced 1.047 2.263 0 20
+
+ 
+
+Note: N = 547.
+Table 4 presents descriptive statistics for these
+background factors. Noteworthy in Table 4 is
+that the “days of exposure” variable shows wide
+variation across individuals in the number of
+days that people were employed during the win-
+dow of study (minimum = 9, maximum =
+1,248). Table 5 reports the result of negative
+binomial count models of the number of refer-
+rals produced by employees, adjusting for the
+time that each individual is employed at the
+company during the hiring window (see
+Cameron and Trivedi 1998:3). Model 1 exam-
+ines race and gender differences in producing
+referrals controlling only for length of time
+exposed to the risk of referring. To facilitate the
+comparison between Models | and 2, we have
+dropped from the analysis 10 cases that are
+missing on the background factors used in
+Model 2. (Adding the 10 cases for estimation
+of Model 1 does not change the substantive
+results). Model 1 shows that there are no sig-
+nificant gender differences in the counts of
+referrals originated by employees at the com-
+pany. There are race differences, however. The
+counts of referrals produced by members of all
+three major minority groups are greater than
+those produced by whites. As was the pattern in
+Table 3, Asian Americans originated the most
+referrals. African Americans, too, produced
+more referral applicants than did whites. The
+black-white difference in originating referrals is
+so pronounced that, despite their modest num-
+bers in the plant, the contrast between African
+Americans and whites is statistically reliable.
+Table 5. Negative Binomial Regression Models Predicting the Count of Referrals Produced
+
+ 
+
+ 
+
+ 
+
+ 
+
+Model 1 Model 2
+Marginal Marginal
+Coefficient Effect Coefficient Effect
+African American 1.425 *** 1.213 1.435 *** 1.285
+(3.51) (3.21)
+Hispanic 869 *** 532 1859 *** 546
+(4.20) (4.03)
+Asian American 1.469 *** 1.286 1.511 *** 1.418
+(7.06) (6.88)
+Native American 538 274 818 508
+(0.51) (0.82)
+Gender (Male = 1) 0.013 ~.005 ~.047 —.018
+(-0.07) (-0.26)
+Age (in years) —.026 ** -.010
+(-2.98)
+Marital Status (1 = Married) —.333 -.159
+(-1.54)
+Number of Dependents .250 *** .100
+(3.67)
+Hourly Wage (in $s) .013 .005
+(0.48)
+Tenure (in years) —.074 * -.030
+(-2.46)
+Air Distance from Plant (km) —.023 * -.009
+(-2.28)
+Air Distance squared 00017 .00007
+(1.80)
+Constant 7,597 *** —6.74]1 ***
+(49.46) (-14.22)
+Hispanics were also the source of more refer-
+rals than were whites.
+
+We next examined whether these race dif-
+ferences in referral behavior could be explained
+by the other background factors (Model 2).
+Considering the effects of the controls, older
+workers were significantly less likely to produce
+referrals than were younger workers. Although
+marital status did not significantly predict orig-
+inating referrals, the number of dependents that
+workers listed with the company is positively
+associated with producing referral applications.
+We next examine step Ic in Figure 1, the race
+of the referred applicants that have been pro-
+duced by this process. We use several baselines
+of comparison in assessing whether step Ic of
+the process is a point of disconnection in the
+chain of network contacts leading to these jobs.
+The first and simplest criterion of disconnection
+is whether there are any minorities at all pro-
+duced by the referral process, irrespective of the
+race of the referrer. This was clearly not the
+case in Kasinitz and Rosenberg’s (1996) study:
+not only were minorities absent and thus could
+not originate referrals (step 1a), none of the
+non-minorities employed in the waterfront jobs
+referred minorities.
+
+Table 6 shows the race and ethnic distribution
+of applicants produced by referrers of different
+racial and ethnic backgrounds. Along the rows
+is the self-identified race or ethnic group of the
+referrer as it was provided to the company when
+the worker was hired. Listed along the columns
+is the race or ethnicity of the 306 referral appli-
+cants who applied during the period and whom
+we could match to the receptionist’s coding of
+the applicant’s race based on their appearance
+(see Appendix). There is a strong overall rela-
+tionship between the race of the referrer and the
+race of the referral applicant in Table 6 (p <
+.0001; log-likelihood x? = 151.829, with 9 d.f.).
+The results are very similar when the analyses
+are divided by gender (males: p < .0001; log-
+likelihood x” = 64.999, with 9 d.f.; females: p
+< .0001; log-likelihood x* = 97.657, with 9
+d.f.). Indeed, all the results regarding race
+homophily are very similar across gender. Most
+important for our purposes, over half of the
+referred applicants of either gender are minori-
+ties (males: 61.8 percent; females: 57.2 per-
+cent). Clearly, by this first criterion, minorities
+are not absolutely cut off at step Ic.
+
+A more stringent criterion, however, would be
+to assess whether the referral process is repro-
+ducing the racial distribution of the referring
+population. The baseline here is the race distri-
+bution of referrers surviving prior steps in the
+process, that is, the race distribution of referrers
+at step 1b. Of the 200 employees producing
+referrals during the study window, 29.5 percent
+were white, 4.0 percent were African American,
+33.0 percent were Hispanic, 32.5 percent were
+Asian American, and 1.0 percent were Native
+American. As we noted earlier, there were
+marked race differences in the extent to which
+these employees produced at least one referral,
+and in the number of referrals per referrer (Table
+3). Looking at the race distribution of the refer-
+rals produced by these referrers (row 5, Table 6),
+we find that whites account for a higher per-
+centage of the referral pool than of the origi-
+nating population of referrals (40.8 vs. 29.5
+percent). The diagonal element for whites shows
+that they are the most racially insular of the
+groups in referring: 76.9 percent of the referrals
+produced by white employees are white. This is
+consistent with network accounts that empha-
+size racially insular job-contact networks as a
+means of advantaging whites (e.g., Royster
+2003). In contrast, the percentage of blacks in
+the referral pool is quite similar to that of the
+referrers (5.6 vs. 4.0 percent), and the percent-
+age of Asians in the referral pool also matches
+the percentage of the referring population quite
+closely (34.6 vs. 32.5).
+
+The lone exception to this pattern is the
+Hispanics: they constitute nearly a third of refer-
+rers, but only 19 percent of referrals. Some part
+of this result could be due to measurement error
+introduced by the receptionist’s relatively high
+inconsistency in classifying Hispanics. Analyses
+of the racial classification of repeat applicants
+(see Appendix) show that the receptionist would
+sometimes switch the racial classifications of
+whites and Hispanics. If the first application
+from a person was coded as Hispanic, the sec-
+ond application from the same person was coded
+as white 13.5 percent of the time. The confusion
+appears in the other direction as well: for first-
+time applications who were coded as white, the
+second application from the same person was
+switched to Hispanic 10.7 percent of the time.
+In contrast, the large off-diagonal percentages
+for African Americans and Asian Americans
+are not likely to be due to the receptionist’s
+inconsistency in coding race. For these groups,
+the receptionist was very consistent across mul-
+tiple applications from the same person, with
+inconsistency rates of only 2.0 percent for Asian
+Americans and 0.0 percent for the small num-
+ber of African Americans (see Table Al). As an
+upper-bound estimate of the effect of the mis-
+classification, we reclassified all the referrals
+from Hispanics that were listed as white by the
+receptionist as Hispanic referrals, and all the
+Hispanic referrals produced by white referrers
+as white. This raises the marginal percentage of
+Hispanic referrals from 19 percent to 23.9 per-
+cent, a number that is still considerably less
+than the 33 percent of the referring population
+that is Hispanic. Although the extent of dis-
+connection is not absolute, by failing to replen-
+ish the supply of referral applicants in proportion
+to their representation among referrers,
+Hispanics are being cut off, in relative terms,
+from the networks leading to these jobs.
+
+While the reclassification exercise still leaves
+a large unexplained gap for Hispanics, it is
+worth noting the impact of the reclassification
+on inferences about the extent of connection
+for whites. The net impact of the reclassifica-
+tion exercise is to lower the estimated percent-
+age of whites among referrals to 29.4 percent,
+a figure virtually identical to the 29.5 percent-
+age of whites among referrers. Therefore, using
+the race distribution of the referring popula-
+tion as a baseline, the measurement error intro-
+duced by the receptionist’s misclassification
+could account for the disproportionate access
+whites appear to be granted at step Ic.
+
+A final criterion for assessing whether
+minorities suffer disadvantages at step lc
+depends on whether minority employees refer
+minority applicants less than they refer white
+applicants. Network accounts of racial factors
+in the labor market emphasize the importance
+of racial insularity of job contact networks in
+channeling people of distinct races to different
+jobs (Elliott 1999, 2001; Royster 2003;
+Waldinger and Lichter 2003; Wilson 1996).
+Given that minorities are well represented in
+steps la and 1b, a lack of racial homophily in
+the target of referring could weaken minori-
+ties’ links to the jobs at this company.
+
+Table 6 shows considerable evidence of the
+cross-race referring of whites by minorities:
+percentages of white referrals originated by
+Hispanic, African American, and Asian
+American referrers are respectively, 39.3, 35.3,
+and 25.2 percent. As discussed above, the large
+percentage for Hispanics is likely an overesti-
+mate due to measurement error introduced by
+the receptionist’s inconsistency in classifying
+Hispanic referrals. Irrespective of which minor-
+ity group one considers, however, the percent-
+age referring whites is /ower than the percentage
+referring minorities. While there is considerable
+variation across rows, for each row the largest
+percentage appears in the same-race (diagonal)
+cell. Over three-quarters (76.9 percent) of refer-
+rals produced by whites are white, according to
+the company’s receptionist. The next largest
+percentage on the diagonal is for Asian
+American referrers: 65.2 percent of the referral
+applications produced by Asians are coded as
+Asian by the receptionist. Although relatively
+low percentages appear on the diagonal for
+Hispanic and African American referrers (41.6
+and 41.2 percent respectively), in both cases
+these numbers exceed the percentage of whites
+being referred. By this final criterion, we find
+no evidence that a lack of racial homophily in
+minorities’ referring patterns is weakening
+minorities’ access to this company. This con-
+clusion is robust to the inclusion of a number
+of control variables in multivariate analyses.°
+
+In sum, we have found little evidence that
+minorities in this setting are cut off from the job
+networks that lead to employment at this com-
+pany due to the behavior of the originators of
+referral networks. We have shown that minori-
+ties (i.e., African Americans, Hispanics, and
+Asian Americans) are well represented among
+the employees of this firm, and thus are avail-
+able to serve as originators of referral networks
+to the company (step 1a). Although only a small
+number of African Americans are employed at
+the company, at least some part of their short
+supply is likely to be attributable to the relative
+scarcity of African Americans in the area in
+which the firm is located. Moreover, in the data
+presented in Tables 3 and 5, whites show the
+lowest level of participation in networking activ-
+ities among the racial and ethnic groups of
+employees. We found no evidence that minori-
+ties are absent from job networks that lead to
+employment at this company due to minority
+employees’ relative ineffectiveness compared
+with whites in recruiting employee referrals
+(step 1b). Indeed, these findings are consistent
+with other research (e.g., Elliott 1999, 2001;
+Reingold 1999) suggesting that minorities use
+networks more often than whites in job search-
+es. Although the firm employs a highly female
+work force, we found no evidence of gender
+affecting racial patterns in the propensity to
+participate in networking.
+
+At the last stage of the referring process (step
+1c), we find that minority referrals are well rep-
+resented in the pool of referral applicants and
+The net result of the network referral process-
+es emanating from the company employees is
+to produce a pool of applications that is racial-
+ly diverse. As the last row of Table 6 shows, non-
+network applicants to this company are also
+racially diverse. The analyses thus far have yet
+to address the screening process, however (step
+2 in Figure 1). Even if minorities are well rep-
+resented in the application pool, this does not
+necessarily mean that they will be similarly rep-
+resented at subsequent stages of the screening
+process, such as interview, job offer, or hire.
+As we discussed earlier, the role of referral
+networks depends on the employer’s attitude
+toward referrals. If the employer prefers refer-
+rals—perhaps by giving them the benefit of the
+doubt (see Fernandez and Sosa, forthcoming)—
+then having minorities well represented in the
+pool of referrals will serve to strengthen their
+representation at later stages of the screening
+process. If the employer is avoiding hiring refer-
+rals, however, then minorities’ representation
+in the referral pool will work against them.
+While employers pay employees for referrals in
+many settings (e.g., Fernandez et al. 2000), that
+is not the case in this company. As pointed out
+by an anonymous reviewer, this is prima facie
+evidence that the employer does not prefer refer-
+rals. We interviewed the entire four-person staff
+of the factory’s human resources department
+concerning the company’s recruitment prac-
+tices. Interviews totaled approximately three
+hours with the head of the human resources
+department, and one hour each with the other
+three HR personnel. In addition, we spent a
+total of eight days in the HR offices working
+with these people to obtain copies of the appli-
+cation and employee records that we coded for
+this study. None of these people responded affir-
+matively when asked directly whether they
+showed any preference for referrals as a matter
+of policy. The most common phrasing of these
+responses was that “referrals are treated like
+everyone else.” Consequently, we do not expect
+the screening and hiring process to strengthen
+minority representation among the pool of hires
+via a preference for referrals (step 2, right-hand
+arrow in Figure 1). On the other hand, we have
+no evidence that this employer is avoiding refer-
+rals (step 2, left-hand arrow leading to “Wrong
+Network” in Figure 1).
+
+To check whether screeners play this role at
+step 2, we assembled data on all applicants for
+entry-level jobs at the company over the peri-
+od of the study and tracked their progress
+through the hiring pipeline. We coded whether
+initial applicants were granted at least one inter-
+view by company personnel and whether they
+were offered a job. At least one in-person inter-
+view was conducted by the human resources
+department; the standard operating procedure is
+for the human resources department then to
+send successful interviewees on for a subse-
+quent interview with the hiring manager who
+requested the position be filled. The decision to
+make a job offer is then made by the hiring
+manager.
+
+Figure 2a shows the race and network com-
+position of female candidates as they move
+from application, to interview, to offer, and
+finally to the hiring stages of the screening
+process. Overall, there is little evidence of a
+preference for networked candidates among
+females: networked candidates were 33.9 per-
+cent of female applicants, and 35.3 percent of
+female hires. Although the number of networked
+black females became nil, the race distribution
+did not otherwise change very much across the
+stages.
+
+Turning to males (Figure 2b), several pat-
+terns are noteworthy. First, for each race group,
+the non-networked share of the population of
+applicants is greater than the proportion of net-
+worked applicants. For whites, the networked vs.
+non-networked percentage nearly doubles (30.1
+vs. 15.3 percent), and nearly triples for
+Hispanics (14.6 vs. 4.5 percent). Looking across
+the stages for non-network candidates (i.e., top
+of Figure 2b), we find that the share of Asians
+grows substantially from 16.8 percent of appli-
+cants to 28.6 percent of hires. The share of non-
+networked Hispanics and blacks also increases
+across stages, albeit less dramatically. This
+growth among the non-networked minorities is
+balanced by a large decline across the stages in
+the number of non-networked white males, from
+30.1 percent of the initial applicant pool to 17.1
+percent of hires.
+
+The most important pattern for our purpos-
+es is revealed in the bottom portion of Figure 2b,
+however. The percentage of networked appli-
+cants does not increase across the various stages
+of the screening process. If anything, the gen-
+eral pattern is one where networked candidates
+decline relative to non-networked candidates
+across the stages: networked candidates con-
+stitute 35.3 percent of the overall male applicant
+pool, and 28.6 percent of the overall set of hires.
+For whites, the decline is substantial, from 15.3
+of applicants to 5.7 percent of hires. Thus, nei-
+ther Figure 2a nor Figure 2b show evidence
+that this employer prefers candidates who were
+referred to the company; if anything, the gen-
+eral pattern among males is one where net-
+worked candidates decline relative to
+non-networked candidates across the stages.
+
+The analyses presented thus far do not con-
+trol for other variables that might influence
+screeners’ choices, however. As a way of intro-
+ducing controls into the analysis, we developed
+predictive models of who survives the screen-
+ing process and is hired vs. who is not hired.
+This analysis compresses the three stages of
+the screening process: interview, offer, and offer
+acceptance (hire). In preliminary analyses, we
+examined the predictors of who gets interviews
+and who gets job offers conditional on being
+interviewed. The findings of these more detailed
+analyses are consistent with the results pre-
+sented here. We coded a number of human cap-
+ital factors from information provided by
+applicants on the application form. We measured
+the number of years of education, years of labor
+force experience, and labor force experience
+squared (to capture the decay in the importance
+of experience; see Mincer 1974). In addition, we
+coded a dummy variable for whether the appli-
+cant had work experience in the firm’s specif-
+ic industry. As a measure of the applicant’s labor
+100%
+
+Network
+
+Network
+
+ 
+
+0%
+
+(B)
+
+ 
+
+ 
+
+16.8
+
+ 
+
+   
+
+ 
+
+3.2
+
+ 
+
+ 
+
+{
+
+ 
+
+ 
+
+£9 Asian Non-Networked|
+
+8 Hispanic Non-
+Networked
+
+@ Black Non-Networked
+
+£3 White Non-
+Networked
+
+DAsian Networked
+
+@ Hispanic Networked
+
+@ Black Networked
+
+O White Networked
+
+ 
+
+ 
+
+Applications
+(N=555)
+100%
+
+Non-
+Network
+
+ 
+
+Network
+
+(A)
+
+ 
+
+ 
+
+ 
+
+11.8
+
+34.1
+
+Applications
+(N=789)
+
+ed
+
+9.9
+
+38.8
+
+  
+
+Interviews
+(N=152)
+
+ 
+
+: 38.4
+
+ 
+
+ 
+
+Basa
+
+8.8
+
+44
+
+36.8
+
+ 
+
+ 
+
+ 
+
+ 
+
+£9 Asian Non-Networked|
+
+@ Hispanic Non-
+Networked
+
+@ Black Non-Networked|
+£3 White Non-
+Networked
+
+GAsian Networked
+
+@ Hispanic Networked
+
+ 
+
+ 
+
+Re co Black Networked
+17.8 17.6 O White Networked
+Offers Hires
+(N=73) (N=68)
+applications in excess of the number of job
+openings on the day the person applies (for a
+similar strategy, see Fernandez and Weinberg
+1997). We have also controlled for the number
+of times that the person applied.
+
+Our main variables of interest, however, are
+those distinguishing among application sources.
+To evaluate the extent to which this employer
+shows a preference for networked candidates,
+we have coded a dummy variable distinguish-
+ing whether applicants have been referred by
+either an employee or by a non-employee. As
+with the descriptive analyses presented earlier,
+the substantive results do not change if we focus
+only on employee referrals.
+
+In light of the findings in Figures 2a and 2b,
+which show that the results for race differ by
+gender, we present the models separately for
+males and females. Table 7 presents descriptive
+statistics for the variables used in the predictive
+models by gender. To provide a consistent set of
+cases across the various analyses, we have delet-
+ed cases that are missing across any of the vari-
+ables used in the final models (i-e., Model 3 on
+Tables 8 and 9). Here, too, the substantive con-
+clusions do not change if we use the non-miss-
+ing cases in the other models. The key
+background variables we examine are race—as
+coded by the receptionist—and network vs.
+non-network recruitment source. Table 8 reports
+the results of probit regression models of who
+gets hired among females. Model 1 includes
+only network vs. non-network recruitment
+source, and dummy variables for race.
+Controlling for race, the relationship between
+network recruitment source and getting hired is
+aeaS TS «44L6 80 9770 GP) X UT
+cw L00"— 18 600"— _ pordde sown jo N
+£7 60000" St 1000" a sSutuodo Jo N — suoneordde jo N
+£9" 100° cL 100° _ (z-8-) pozenbs jue]d 0} sourysip peoy
+Le €£00°- we €00- _ (;-9-) wry ‘sueyd 0} courysip peoy
+byl 00" 6r'l 400° a gof yse] uo a3em ApLNOY
+£67 ae CV LOT axa CP" a (sax = |) Ansnput ut souoredxy
+S'07- «#£00— £°0c— *#£007— _ (;-2-) parenbs sousriedxo yo sie,
+9LT «eal 10° C8 «ex 110" _ soustiedxe JO sIBo,
+89° £00° 69° £00° — SUI[OOYPS JO sIBa,
+:sjonuod
+so SEO" —_ —_ aa — PoOYIOMJON,
+cr I— L70"— _ —_ — — poyIOMjoUu-UON,
+ueisy
+89° 670" —_ —_ _— — PoaxOMjoN
+cL 070° —_ —_ aa — PoxJOMjou-uON
+oruedsty
+qa q— — — a a PoxOMION
+ov" 810° _ _ _ — poxtomjou-UON,
+ueoLoUury ueoLyy
+so” 610° —_ —_ _ — PoyIOMION
+ou
+suOTOBIOU]
+_ _ Is 600°- Le- O10 ueououry ueIsy
+_ _ tL 910° +0"- 100'- oruedsiyy
+_ _ se 600— Il- 900°- ueoLoUly UeoLIyy
+:punoisyoeg o1ydersowsq
+_ _ orl rZ0" 6c 010" ONION
+r90INOg JUSWINIIDY
+onyea-Z poo [eursreypy anyea-Z poo” [eurseypy anjea-Z soy [euseyy so[qele, Juopuadopuy
+£ [POW 7 PPOW
+
+ 
+
+ 
+
+so[qeieA JUopuodopuy poyosjag YIM so[eUlo, 10J OIF] SUNoIParg S[OpO| UOISsasBOY WqQolg JO swaIoJoo °g a1qul.
+“(480} papte1-OM}) 10° > T axa ‘SO > Tae Ol > 7
+‘g]qeuuea Juopuadap 0} payejar Ap}0aJ19q “PyBUIIS2 ION q
+
+“(gouatIedxa ATsnpul jnoyyIM pue Poyxlomiou-uoU oyYM ‘sayy “9"1) SafqeuiseA JUopusdapul [Bd11089}e9 Jo sallosayeo
+[epout 10} pue ‘parjdde sow yo saquinu ‘ssurusdo gof Jo saquinu Jo ssaoxa ul suoneor|dde yo soquinu ‘pasenbs aour)sip peor Yueyd 0} souesIp peo ‘gol yse] Uo o3em ‘porenbs
+aouatiadxa ‘souatiodxa ‘sievaX Sulpooyps Jo suvsW ev payenjeas ‘ajquieA JUopuadapul Ul aSuLYO UN eB YIM poyEIOsse pamolAsoyU! Bulag Jo Aq[Iqeqoid jeuorpuod ul aBueyD y
+
+‘919 = N [MOL :210N
+
+ 
+
+cw
+£c
+9°
+Lc
+br
+£67
+s'0c-
+9LT
+89°
+
+(sD)
+aaaS UTS
+L00"—
+60000°
+100°
+£00—
+00°
+axel
+ax £00
+ax LTO"
+£00"
+
+18
+Sc
+cL
+ce-
+orl
+L6T
+£07—
+C87
+69°
+
+(€1)
+444 L6 80
+600"—
+1000"
+100°
+£00-
+400°
+axa CV"
+#*£00—
+xe LO"
+£00°
+
+(p)
+
+9770 GP) X UT
+— pordde sown jo N
+— sSutuodo Jo N — suoneordde jo N
+a (z-9-) porenbs jueyd 0} s0ux sip peoy
+_ (,-9-) wy suey 0} sourjsip peoy
+— gof yse] uo a3em ApLNOY
+_— (sax = |) Ansnput ut souoredxy
+a (;-9-) pouenbs aouatiedxe yo sey,
+— aouatiadxe Jo sIvax
+_ Sulpooyps jo sea,
+small (marginal effect = .01) and statistically
+insignificant. This is also true when race is not
+controlled: in analyses not presented here, the
+zero-order marginal effect of network recruit-
+ment source is .008, with a Z-value of .34.
+Model 1 also shows that the race contrasts are
+small and statistically insignificant. The same
+is true when recruitment source is not con-
+trolled: none of the race contrasts are significant,
+and they are virtually identical to those pre-
+sented in Model | (i.e., —.006, -.001, and —.009
+for blacks, Hispanics, and Asian Americans).
+
+Model 2 introduces human capital and other
+controls to the predictive model. The results
+show that the firm’s screeners are more likely
+to hire applicants with more years of work expe-
+rience, although consistent with human capital
+predictions, this effect is curvilinear. Controlling
+for the other factors, candidates with industry-
+specific experience are 14.2 percent more like-
+ly to be hired. In our discussions with the
+company personnel, they said that they do not
+consider years of education to be a particular-
+ly important factor for these jobs. Consistent
+with this, the marginal effect of years of edu-
+cation is small and insignificant. None of the
+effects of the other control variables is statisti-
+cally reliable. Most important for our purpos-
+es, there are no effects of the network vs.
+non-network recruitment source or of race on
+the chances of getting hired after controlling for
+human capital and other factors. These results
+do not change when recruitment source is inter-
+acted with race (Model 3): none of the race by
+network interaction contrasts (compared to the
+excluded category of non-networked whites) is
+significantly related to getting hired. Taken as
+a whole, the results in Table 8 are consistent with
+the findings presented in Figure 2a. Even after
+adding controls to the analysis, there is no evi-
+dence of a preference for networked candidates
+among females, and the race distribution of
+hires is not different from the distribution of
+applicants.
+
+Table 9 presents the same analyses for males.
+Similar to the results for females, networked
+applicants are not more likely to be hired than
+non-networked applicants. The negative sign
+on the coefficient shows that, if anything, the
+opposite is true: non-networked applicants are
+more likely to be hired than networked candi-
+dates. Turning to the race effects, while none of
+the race contrasts was significant among
+females, the pattern is different for males. For
+males, all three minority racial groups—blacks,
+Hispanics, and Asians—are more likely to be
+hired than whites. The strongest effect is for
+black males, who are 15.1 percent more likely
+to be hired than white males (i.e., the excluded
+category), although the small number of cases
+involved makes this effect statistically margin-
+al (p < .10, Z-value of 1.64). The contrasts of
+Hispanic and Asian males, however, are also
+substantial, showing that they are respectively
+5.8 and 7.7 percent more likely to be hired than
+white males. Here, too, these results are not
+affected by whether the person applied via a net-
+worked or non-networked recruitment source.
+In preliminary analyses examining the zero-
+order effect of race (i.e., without controlling
+for recruitment source), the marginal effects
+for race are respectively 13.2, 5.4, and 6.2 for
+blacks, Hispanics and Asians and achieve sim-
+ilar levels of statistical reliability (Z-values of
+1.72, 1.67, and 2.12).
+
+Model 2 introduces the controls for individ-
+ual background factors that the firm’s human
+resources screeners said they look for. Similar
+to the finding for females, the marginal effect
+of years of education is small and statistically
+insignificant for males. Although the effect is
+not as strong for males as it is for females, can-
+didates with more years of work experience are
+more likely to survive the screening process
+and be hired (c.f. marginal effects .006 for males
+vs. .011 for females). Consistent with human
+capital predictions, the squared term for males
+shows that this effect is curvilinear. None of the
+other control variables were significantly relat-
+ed to hiring. Considering the race differences in
+Model 2, the race differences are somewhat
+attenuated compared to Model 1, and the sig-
+nificance levels of the effects bounce around
+(i.e., the effect for African Americans falls below
+the .10 level of significance [p-value of .107],
+and the effect for Hispanics climbs over the 10
+percent level [p-value of .098]). Neither the
+control variables nor the race dummies change
+the conclusion, however, with respect to the
+role of network recruitment source: candidates
+applying via networks are not more likely to be
+hired than non-networked candidates. Indeed,
+although it is not significant, the sign of the mar-
+ginal effect is negative, indicating that non-net-
+worked candidates are more likely to be hired
+than networked candidates.
+LR x? (df) 10.82** 34.19*** 35.42***
+
+(4) (3) (16)
+Note: N = 445.
+2 Change in conditional probability of being interviewed associated with a unit change in independent variable,
+evaluated at means of schooling years, experience, experience squared, wage on last job, road distance to plant,
+road distance squared, number of applications in excess of number of job openings, number of times applied, and
+for modal categories of the categorical independent variables (i.e., whites, white non-networked, and without
+industry experience).
+* p< .10; ** p <.05; *** p< .01 (two-tailed test).
+Recruitment Source:
+Network
+Demographic Background:
+African American
+Hispanic
+Asian American
+Interactions:
+White
+Networked
+African American
+Non-networked
+Networked
+Hispanic
+Non-networked
+Networked
+Asian
+Non-networked
+Networked
+Controls:
+Years of schooling
+Years of experience
+Years of experience
+squared
+Experience in industry
+(1 = Yes)
+Hourly wage on last job
+Road distance to plant
+(kms.)
+Road dist. to plant squared
+Num of apps—
+Num openings
+Number of times applied
+ginal effect shows that Asian non-networked
+males are 8.5 percent more prevalent among
+hires than among applicants, even after the
+introduction of control variables in Model 3.
+In separate analyses, we explored whether
+characteristics of the referrer are associated
+with getting hired. We found some evidence
+that referrals from high-wage employees are
+more likely to be hired when referrer’s wage
+(measured in dollars) is added to Model 3 in
+Tables 8 and 9, but only when the data for males
+and females are pooled (marginal effect .005,
+with a Z-value of 2.02). The results are also
+statistically unreliable when the “race x net-
+work interaction” terms (as in Model 3) are
+added to the model in analyses pooling both
+genders. We examined whether this referrer’s
+wage effect reflects deference that the human
+resources department shows to highly paid
+supervisors who have the authority to make
+final hiring decisions. Although intriguing, this
+question stretches the limits of our data. We
+cannot separate the effects of referrer’s wage and
+referrer’s supervisory status in these data: the
+correlation between supervisory status and wage
+is .665, and neither variable is significant when
+both are added to Model 3. Nor is the referrer
+supervisor effect significant when added to
+Model 3 alone (Z-value of 1.34). To the extent
+that screeners are showing a preference for
+referrals from some subset of referrers, this evi-
+dence can be described only as weak at best.
+In sum, the regression analyses of step 2
+show little evidence of whites—either male or
+female—being preferred to minorities in screen-
+ing. Indeed, the pattern is the opposite for males.
+Even after controlling for the factors that the
+human resources screeners say that they look
+for, the marginal effects show that minority
+males are being hired at higher rates than white
+males. Most important from the perspective of
+our goal of parsing out the steps at work in gen-
+erating “wrong network” processes, there is
+also little evidence of an employer’s preference
+either for, or against, candidates who were
+referred to the company at the hiring interface.
+The one exception to this observation is the
+case of Asian American males, where non-net-
+worked candidates are more likely to be hired
+compared with networked applicants. We can
+only speculate whether this reflects a conscious
+effort to limit the number of Asians. It is clear
+that Asians—especially males—are overrepre-
+In this paper, we have sought to specify what it
+means to say that minorities are cut off from job
+networks using unique primary data on the hir-
+ing process for entry-level jobs collected at a
+factory. In this respect, this paper has made a
+number of important theoretical contributions
+to the study of racial inequality and networks.
+First, this paper has made important strides for-
+ward in specifying the mechanisms (Reskin
+2003) operating in network accounts of racial
+inequality in the labor market. Extant “wrong
+network” accounts of minority underachieve-
+ment run the danger of circular reasoning
+because “wrong network” is defined in terms of
+the eventual outcome. We argue that much more
+analytical precision is needed to specify what it
+means to be “stuck” in the “wrong network.”
+The complicated and multi-step nature of the
+job-finding process has thwarted past attempts
+to identify and distinguish among the various
+steps of network processes at work in the labor
+market. The research in this area has also been
+hampered by the lack of appropriate compari-
+son data for demonstrating the various ways
+that minorities can be isolated from good job
+opportunities.
+
+We suggest that when properly specified, the
+“wrong network” idea is a black box with many
+moving parts inside. Moreover, “wrong net-
+work” stories are consistent with minority
+underrepresentation in any of a number of dis-
+crete steps in the recruitment and hiring process-
+es. In this paper, we have been able to specify
+es.
+
+We found that network factors operate at sev-
+eral stages of the recruitment process, but we
+only found scant evidence that these network
+factors serve to cut off minorities from employ-
+ment at this company. We began by examining
+the minority vs. non-minority representation in
+the pool of people who could potentially orig-
+inate word-of-mouth networks to this employ-
+er (step la in Figure 1). We found relatively
+large percentages of Asian Americans and
+Hispanics, but small percentages of African
+Americans, available to refer others in this set-
+ting. African Americans were in short supply in
+this setting, but the shortage appears to reflect
+their relative scarcity in the metro area work
+force.
+
+We next analyzed the extent to which minor-
+ity workers actually produce minority candi-
+dates for hire at the plant via referral networks
+(step 1b in Figure 1). In contrast with the expec-
+tations of certain theories, which suggest that
+minorities might be reluctant to engage in net-
+working activities, we found that African
+Americans, Asians, and Hispanics are signifi-
+cantly more likely to produce referral applica-
+tions than are whites. We also examined whether
+job referrals from minority employees serve as
+a conduit to the firm by checking the data for
+evidence of racial and gender homophily in
+employee referrals, and by comparing the racial
+background of the originator and the target of
+referring (step 1c). Notwithstanding the limi-
+tations of the procedures by which race was
+measured in the applicant pool (see Appendix),
+we found a strong overall relationship between
+the race and gender of the referrer and the race
+and gender of the referral applicant. Irrespective
+of the baseline of comparison, we found little
+evidence of minorities’ disconnection from jobs
+at this firm at step Ic.
+We then studied the company’s hiring process
+by examining candidates’ chances of proceed-
+ing through the screening process from appli-
+cation to interview to job offer. In contrast to
+some other hiring studies (e.g., Petersen et al.
+2000), we did not find that the racial distribu-
+tion of candidates is skewed against minorities
+over subsequent steps of the hiring process.
+Gender and race interact in a complex manner,
+and we found that minorities (especially males)
+appear to be preferred over whites. We could
+find only weak evidence, however, that the com-
+pany’s screeners prefer networked candidates,
+irrespective of race or gender of the applicant.
+
+It is important to point out that this paper has
+significant implications for policy. Since poli-
+cies are often designed to target distinct steps
+in the recruitment process (National Research
+Council 2004), understanding each of these
+steps is crucial for crafting effective policy
+interventions. Affirmative action, for example,
+is focused on affecting the behavior of labor
+market screeners (Reskin 1998). Assessing
+whether there is discrimination in screening is
+very difficult using only data on the people
+who were hired, without observing the people
+who are turned away and not hired during
+screening (National Research Council 2004).
+Similarly, assessing the extent to which affir-
+mative action policies change the behavior of
+screeners will be very difficult without data on
+both hires and non-hires. Other policy pre-
+scriptions have urged companies to open up
+their recruitment practices by broad advertising
+and use of formal job posting systems that for-
+malize their recruitment processes, on the the-
+ory that informal, referral-based recruitment is
+inherently exclusionary (LoPresto 1986). The
+results presented here, however, suggest that
+this heuristic is too simple. Relying on referrals
+as a recruitment strategy can help reproduce
+the distribution of the referring population
+(Rubineau and Fernandez 2005). In a setting like
+the one studied here, where the current work
+force is racially diverse, a recruitment strategy
+involving employee referral processes can help
+to perpetuate the existing racial diversity of the
+company.
+
+In conclusion, although we found clear evi-
+dence of network processes at work at several
+of the various stages of the recruitment process
+we examined, we are hard pressed to describe
+these results as supporting the view that network
+factors serve to cut off minorities from employ-
+ment at this company. Although the “wrong
+network” account does not fit the facts in this
+setting, this is not to say that in another, less
+diverse setting, where referrals might be pre-
+ferred by screeners, the empirical results would
+not be markedly different.
+
+While we can make no claims of empirical
+generalizability on the basis of the results from
+this setting, nevertheless, this study has impor-
+tant methodological implications. While the cir-
+cumstances might be special, the value of this
+study is apparent in the light it sheds on mech-
+anisms that are normally hidden from view. We
+suggest that the fine-grained processes that we
+have uncovered here need to be addressed to ren-
+der the “wrong network” hypothesis testable in
+other settings. Given the interdependencies laid
+out in Figure 1, racial and network differences
+in the upstream, early stages of the referring
+process (steps la—1c) will potentially bias the
+pool from which employers will select candi-
+dates (step 2). Moreover, in light of the mech-
+anisms we have examined here, it is important
+to realize that the race and network effects that
+are often reported in analyses of highly aggre-
+gated survey data (e.g., those based on the
+Multi-City Study of Urban Inequality), are like-
+ly conflating the effects of the multiple mech-
+anisms that we have delineated. At best, results
+based on such highly aggregated data will reflect
+the net result across the various stages of the
+process in different organizational settings.
+Distinguishing among these steps should be a
+high priority for future research. The insights
+gleaned from this case study should serve as an
+important guide for designing broader-gauge
+research that might parse out more precisely
+the mechanisms alleged to be at work at the
+intersection of networks and race in the labor
+market.
+The company has taken precautions to organ-
+ize their hiring process in a lawful way, not
+allowing factors of race and gender to affect the
+hiring process directly. Specifically, they have
+kept the information on race and gender on sep-
+arate logs that are filed separately by clerical
+staff that are not part of the human resource
+screening process. Note that the company staff
+has never combined the application information
+and the data on race and gender.
+
+Although it is extremely rare to have data on
+race at the time of application, the particular way
+in which the company collected these data com-
+plicates the measurement of race. First, the pro-
+cedures used to record the flow of applicants
+changed over the course of the study. During the
+first 10 months of the study, the receptionist
+checked off the apparent race and gender of
+each applicant, but did not record the name of
+the applicant in the log. Therefore, we cannot
+identify the race of the job seeker for applica-
+tions that arrived during that 10-month period.
+For months 11 to 39, however, the receptionist
+recorded the name of each individual applicant
+in the log. For those applying during this peri-
+od, we can match the race of the applicant (as
+it was perceived by the receptionist) to the other
+application material.
+
+Second, although the same receptionist was
+employed throughout the 39-month period of the
+study, the issue of the reliability of this per-
+son’s racial judgments remains to be addressed.
+We analyzed the consistency of the reception-
+ist’s racial identifications using data gleaned
+from repeat applications from the same person.
+Over the 29 months of the study for which we
+can match racial identifications to individual
+applications, 119 people applied multiple times,
+producing a total of 265 applications with infor-
+mation on race. Most (97) of these people
+applied twice, 18 three times, and 4 applied 4
+or more times. Arranging the applications in the
+time order in which they applied, we constructed
+146 time-adjacent comparisons of the race clas-
+sification for the same person across these 265
+applications. Table Al shows the pattern of race
+classification for pairings of multiple applica-
+tions for the same person. For people who
+applied twice, the race assigned the first time
+that the person applied is listed along the rows,
+and the columns show the racial classification
+for the second application made by the same
+person. For those who applied three or more
+times, the race of the first application (listed
+along the rows) is then compared with the race
+of the second application (listed along the
+columns). Then, to reflect the time sequence of
+these judgments, the race of the second appli-
+cation is compared against the race of the third
+application for the same person. This process is
+repeated until all pairings are exhausted, yield-
+ing a total of 146 such time-adjacent paired
+judgments for the same applicant.
+
+Table A1 shows that the overall level of agree-
+ment across judgments is very high: 89 per-
+cent of people in Table 1 fall on the diagonal.
+Only 16 people were treated inconsistently by
+the receptionist, and 15 of these had applied
+twice, and one had applied three times. All the
+other instances of multiple applications (from
+three to six applications) showed absolute agree-
+ment with respect to race. Looking at the dif-
+ferent races, the level of consistency was very
+high for the small number of African Americans
+(100.0 percent of the four cases were classi-
+fied consistently) and Asian Americans (98.0
+percent). The rate of agreement was somewhat
+lower for non-Hispanic whites (85.7 percent)
+and Hispanics (81.1 percent). The ambiguity
+with respect to Hispanic vs. white origin appears
+in both directions: six non-Hispanic whites were
+subsequently coded as Hispanic; five Hispanics
+are later classified as non-Hispanic white. This
+latter result is consistent with the results of
+recent research on racial classification (Harris
+2002).
+
+We were able to compare the receptionist’s
+racial classification to the applicants’ self-iden-
+tified race for some cases. Some applications
+were from people who were either subsequent-
+ly hired or had worked at the company in the
+past, and thus had provided the company a self-
+identified race for equal employment opportu-
+nity (EEO) reasons. There were 123 applications
+from 110 people for whom we could match the
+self-identified racial classification with the
+receptionist’s classification. Here, too, the great-
+est inconsistency resulted from coding
+Hispanics. Of the 40 applicants that self-iden-
+tified as Hispanics, the receptionist coded 23
+(57.5 percent) as Hispanic. Asians, too, were
+often misclassified: only 27 of 46 (58.7 percent)
+of the self-identified Asians were classified as
+Asian by the receptionist. This is in contrast to
+virtually total agreement with respect to whites
+(29 of 30, or 96.8 percent) and blacks (7 of 7,
+or 100 percent).
+Aponte, Robert. 1996. “Urban Employment and the
+Mismatch Dilemma: Accounting for the
+Immigration Exception.” Social Problems
+43:268-83.
+
+Bailey, Thomas and Roger Waldinger. 1991.
+“Primary, Secondary and Enclave Labor Markets:
+A Training Systems Approach.” American
+Sociological Review 56:432-45.
+
+Bertrand, Marianne and Sendhil Mullainathan. 2004.
+“Are Emily and Greg More Employable Than
+Lakisha and Jamal? A Field Experiment on Labor
+Market Discrimination.”American Economic
+Review 94:991-1013.
+
+Braddock, Jomills and James McPartland. 1987.
+“How Minorities Continue to be Excluded from
+Equal Employment Opportunities: Research on
+Labor Market and Institutional Barriers.” Journal
+of Social Issues 43:5-39.
+
+Bridges, William P. and Wayne J. Villemez. 1986.
+“Informal Hiring and Income in the Labor Market.”
+American Sociological Review 51: 574-82.
+
+Cameron, A. Colin and Pravin K. Trivedi. 1998.
+Regression Analysis of Count Data. New York:
+Cambridge University Press.
+
+Corcoran, M., Linda Datcher, and Greg J. Duncan.
+1980. “Influence Networks in Labor Markets.”
+Pp. 1-37 in In Five Thousand American Families:
+Patterns of Economic Progress, vol. 8, edited by
+Greg J. Duncan and James N. Morgan. Ann Arbor,
+MI: Institute for Social Research.
+
+Cross, Harry, Genevieve Kenney, Jane Mell, and
+Wendy Zimmerman. 1990. Employer Hiring
+Practices: Differential Treatment of Hispanic and
+Anglo Job Seekers. Urban Institute Report 90-4.
+Washington, DC: Urban Institute.
+
+Doeringer, Peter and Michael Piore. 1971. Internal
+Labor Markets and Manpower Analysis.
+Lexington, MA: D.C. Heath.
+
+Elliott, James R. 1999. “Social Isolation and Labor
+Market Insulation: Network and Neighborhood
+Effects on Less-Educated Urban Workers.” The
+Sociological Quarterly 40:199-216.
+
+. 2000. “Class, Race, and Job Matching in
+Contemporary Urban Labor Markets.” Social
+Science Quarterly 81:1036-51.
+
+——. 2001. “Referral Hiring and Ethnically
+Homogeneous Jobs: How Prevalent Is the
+Connection and for Whom?” Social Science
+Research 30:401-25.
+
+Elliott, James R. and Mario Sims. 2001. “Ghettos and
+Barrios: The Impact of Neighborhood Poverty and
+Race on Job Matching among Blacks and Latinos.”
+Social Problems 48:341-61.
+
+Falcon, Luis M. 1995. “Social Networks and
+Employment for Latinos, Blacks, and Whites.”
+New England Journal of Public Policy 11:17-28.
+
+Fernandez, Roberto M. and Emilio J. Castilla. 2001.
+“How Much Is That Network Worth? Social
+Capital in Employee Referral Networks.” Pp.
+85-104 in Social Capital: Theory and Research,
+edited by N. Lin, K. Cook, and R. S. Burt. New
+York: Aldine de Gruyter.
+
+Fernandez, Roberto M., Emilio J. Castilla, and Paul
+Moore. 2000. “Social Capital at Work: Networks
+and Employment at a Phone Center.” American
+Journal of Sociology 105:1288-1356.
+
+Fernandez, Roberto M. and David Harris. 1992.
+“Social Isolation and the Underclass.” Pp. 257-93
+in Drugs, Crime, and Social Distress: Barriers to
+Urban Opportunity, edited by Adele Harrell and
+George Peterson. Washington, DC: Urban Institute
+Press.
+
+Fernandez, Roberto M. and M. Lourdes Sosa.
+Forthcoming. “Gendering the Job: Networks and
+Recruitment at a Call Center.” American Journal
+of Sociology.
+
+Fernandez, Roberto M. and Celina Su. 2004. “Space
+in the Study of Labor Markets.” Annual Review of
+Sociology 30:545-69.
+
+Fernandez, Roberto M. and Nancy Weinberg. 1997.
+“Sifting and Sorting: Personal Contacts and Hiring
+in a Retail Bank.” American Sociological Review
+62:883-902.
+
+Green, Gary P., Leann M. Tigges, and Irene Browne.
+1995. “Social Resources, Job Search, and Poverty
+in Atlanta.” Research in Community Sociology
+5:161-82.
+
+Green, Gary P., Leann M. Tigges, and Daniel Diaz.
+1999. “Racial and Ethnic Differences in Job-Search
+Strategies in Atlanta, Boston, and Los Angeles.”
+Social Science Quarterly 80:263-78.
+
+Grieco, Margaret. 1987. Keeping It in the Family:
+Social Networks and Employment Chance.
+London, England: Tavistock.
+
+Harris, David. 2002. “In the Eye of the Beholder:
+Observed Race and Observer Characteristics.”
+Department of Sociology, Cornell University,
+Ithaca, NY. Unpublished manuscript.
+
+Heckman, James J. 1998. “Detecting Discrimination.”
+Journal of Economic Perspectives 12:101-16.
+Holzer, Harry J. 1996. What Employers Want: Job
+Prospects for Less-Educated Workers. New York:
+
+Russell Sage Foundation.
+
+Jenkins, Richard. 1986. Racism and Recruitment:
+Managers, Organizations and Equal Opportunity
+in the Labor Market. Cambridge, England:
+Cambridge University Press.
+
+Johnson, James H., Jr., Elisa J. Bienenstock, and
+Walter C. Farrell, Jr. 1999. “Bridging Social
+Networks and Female Labor Force Participation in
+a Multiethnic Metropolis.” Urban Geography
+20:3-30.
+
+Johnson, James H., Jr., Walter C. Farrell, and Jennifer
+A. Stoloff. 2000. “African American Males in
+Decline: A Los Angeles Case Study.” Pp. 315-37
+in Prismatic Metropolis: Inequality in Los Angeles,
+edited by Lawrence D. Bobo, Melvin L. Oliver,
+James H. Johnson, Jr., and Abel Valenzuela, Jr.
+New York: Russell Sage Foundation.
+
+Kasinitz, Philip and Jan Rosenberg. 1996. “Missing
+the Connection: Social Isolation and Employment
+on the Brooklyn Waterfront.” Social Problems
+43:180-93.
+
+Kirnan, Jean Powell, John A. Farley, and Kurt F.
+Geisinger. 1989. “The Relationship Between
+Recruiting Source, Applicant Quality, and Hire
+Performance: An Analysis by Sex, Ethnicity, and
+Age.” Personnel Psychology 42:293-308.
+
+Korenman, Sanders and Susan C. Turner. 1996.
+“Employment Contacts and Minority-White Wage
+Differences.” Industrial Relations 35:106-22.
+
+Lee, Jennifer. 1998. “Cultural Brokers: Race-Based
+Hiring in Inner-City Neighborhoods.” American
+Behavioral Scientist 41:927-37.
+
+. 2001. “The Racial and Ethnic Meaning
+Behind Black: Retailers’ Hiring Practices in Inner-
+City Neighborhoods.” Pp. 168-87 in Color Lines:
+Affirmative Action, Immigration, and Civil Rights
+Options for America, edited by John David
+Skrentny. Chicago, IL: University of Chicago
+Press.
+
+Lichter, Michael I. and Melvin L. Oliver. 2000.
+“Racial Differences in Labor Force Participation
+and Long-Term Joblessness among Less Educated
+Men.” Pp. 220-248 in Prismatic Metropolis: Race,
+Segregation, and the Dynamics of Inequality in Los
+Angeles, edited by Lawrence D. Bobo, Melvin L.
+Oliver, James H. Johnson, Jr., and Abel Valenzuela,
+Jr. New York: Russell Sage Foundation.
+
+Lin, Nan, W. M. Ensel, and J. C. Vaughn. 1981.
+“Social Resources and Strength of Ties: Structural
+Factors in Occupational Status Attainment.”
+American Sociological Review 46:393-405.
+
+LoPresto, Robert. 1986. “Recruitment Sources and
+Techniques.” Pp. 13-1 to 13-26 in Handbook of
+Human Resource Administration, 2nd ed., edited
+by J. J. Famularo. New York: McGraw Hill.
+
+Marsden, Peter V. 2001. “Interpersonal Ties, Social
+Capital and Employer Staffing Practices.” Pp.
+105-26 in Social Capital: Theory and Research,
+edited by Nan Lin, Karen Cook, and Ron Burt.
+Chicago, IL: Aldine de Gruyter.
+
+Marsden, Peter V. and Elizabeth H. Gorman. 2001.
+“Social Networks, Job Changes, and Recruitment.”
+Pp. 467-502 in Sourcebook of Labor Markets:
+Evolving Structures and Processes, edited by Ivar
+Berg and Arne Kalleberg. New York: Kluwer
+Academic/Plenum.
+
+Menjivar, Cecilia. 2000. Fragmented Ties: Salvadoran
+Immigrant Networks in America. Berkeley, CA:
+University of California Press.
+
+Mier, Robert and Robert Giloth. 1985. “Hispanic
+Employment Opportunities: A Case of Internal
+Labor Markets and Weakly Tied Social Networks.”
+Social Science Quarterly 66:296-309.
+——. 2005. Chutes and Ladders: Navigating the
+Low-Wage Labor Market. Department of
+Sociology, Princeton University, Princeton, NJ.
+Unpublished manuscript.
+
+National Research Council. 2004. Measuring Racial
+Discrimination. Panel on Methods for Assessing
+Discrimination, edited by Rebecca M. Blank,
+Marilyn Dabady, and Constance F. Citro.
+Committee on National Statistics, Division of
+Behavioral and Social Sciences and Education.
+Washington, DC: National Academies Press.
+
+Pager, Devah. 2003. “The Mark of a Criminal.”
+American Journal of Sociology 108:937-75.
+
+Petersen, Trond, Ishak Saporta, and Marc-David
+Seidel. 2000. “Offering a Job: Meritocracy and
+Social Networks.” American Journal of Sociology
+106:763-816.
+
+—. 2004. “Getting Hired: Race and Sex
+Differences.” Institute of Industrial Relations
+Working Paper, University of California, Berkeley.
+
+Reingold, David A. 1999. “Social Networks and the
+Employment Problem of the Urban Poor.” Urban
+Studies 36:1907-32.
+
+Reskin, Barbara F. 1998. The Realities of Affirmative
+Action. Washington, DC: American Sociological
+Association.
+
+. 2003. “Including Mechanisms in Our
+Models of Ascriptive Inequality.” American
+Sociological Review 68:1-21.
+
+Royster, Deirdre A. 2003. Race and the Invisible
+Hand: How White Networks Exclude Black Men
+Jrom Blue-Collar Jobs. Berkeley, CA: University
+of California Press.
+
+Rubineau, Brian and Roberto M. Fernandez. 2005.
+“Missing Links: Referral Processes and Job
+Segregation.” MIT Sloan School of Management,
+Massachusetts Institute of Technology, Cambridge,
+MA. Unpublished manuscript.
+
+Sanders, Jimy, Victor Nee, and Scott Sernau. 2002.
+“Asian Immigrants’ Reliance on Social Ties in a
+Multiethnic Labor Market.” Social Forces
+81:281-314.
+
+Smith, Sandra. 2005. “ ‘Don’t Put My Name on It’:
+Social Capital Activation and Job-Finding
+Assistance among the Black Urban Poor.”
+American Journal of Sociology 111:1-57.
+
+Turner, Margery Austin, Michael Fix, and Raymond
+J. Struyk. 1991. Opportunities Denied,
+Opportunities Diminished: Racial Discrimination
+in Hiring. Urban Institute Report 91-9.
+Washington, DC: Urban Institute.
+
+Ullman, Joseph C. 1966. “Employee Referrals: A
+Prime Tool for Recruiting Workers.” Personnel
+43:30-35.
+Waldinger, Roger. 1996. Still the Promised City?
+African Americans and New Immigrants in
+Postindustrial New York. Cambridge, MA: Harvard
+University Press.
+
+1999. “Network, Bureaucracy, and
+Exclusion: Recruitment and Selection in an
+Immigrant Metropolis.” Pp. 228-60 in Immigration
+and Opportunity: Race Ethnicity and Employment
+in the United States, edited by Frank D. Bean and
+Stephanie Bell-Rose. New York: Russell Sage
+Foundation.
+
+Waldinger, Roger and Michael I. Lichter. 2003. How
+the Other Half Works: Immigration and the Social
+Organization of Labor. Berkeley, CA: University
+of California Press.
+
+Wilson, William Julius. 1987. The Truly
+Disadvantaged. Chicago, IL: University of
+Chicago Press.
+
+1996. When Work Disappears: The World
+
+of the New Urban Poor. New York: Knopfb

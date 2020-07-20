@@ -1,0 +1,2116 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+During recent decades, women’s participa-
+tion in the labor market has steadily
+increased, but has there been a concurrent
+gender convergence in unpaid domestic
+work? Empirical studies document some
+convergence of women’s and men’s domes-
+tic work time, but women still do the
+majority of housework, particularly the less
+enjoyable routine tasks such as cleaning
+and laundry (Bianchi et al. 2000; Bianchi,
+Robinson, and Milkie 2006; Blair and
+Lichter 1991; Gershuny 2000; Hook 2010;
+Robinson and Godbey 1997). Because men
+continue to spend more time than women on
+paid work, women’s continued specialization
+This article studies the relationship between household income and housework time across
+33 countries. In most countries, low-income individuals do more housework than their high-
+income counterparts; the differences are even greater for women’s domestic work time. The
+analysis shows that the difference between rich and poor women’s housework time falls with
+economic development and rises with overall economic inequality. I use a cross-national
+reinterpretation of arguments from the historical time-use literature to show that this is attrib-
+utable to the association between economic development and the diffusion of household
+technologies and to the association between economic inequality and the prevalence of ser-
+vice consumption among high-income households. Results for a direct measure of technology
+diffusion provide striking evidence for the first interpretation. The findings question the
+widespread notion that domestic technologies have had little or no impact on women’s
+housework time. On a general level, I find that gender inequalities are fundamentally condi-
+tioned by economic inequalities. A full understanding of the division of housework requires
+social scientists to go beyond couple-level dynamics and situate households and individuals
+within the broader social and economic structure.
+separately analyze the domestic division of
+labor, as it is linked not only to earnings
+inequalities and women’s economic depen-
+dence (Becker 1985; Budig and England
+2001), but also to relationship satisfaction,
+mental health, and other quality of life out-
+comes (Coltrane 2000).
+
+In recent years, research on the level and
+determinants of housework time has increas-
+ingly taken a comparative approach. This
+important line of scholarship, exemplified by
+Diefenbach (2002), Fuwa (2004), Geist
+(2005), Knudsen and Werness (2008), and
+Stier and Lewin-Epstein (2007), has enhanced
+our understanding of the domestic division of
+labor considerably. This article contributes to
+this rapidly growing literature by investigating
+cross-national variation in the impact of
+household income, a potential determinant of
+housework time that has so far received sur-
+prisingly little attention in both comparative
+and non-comparative work. More specifically,
+I analyze cross-country variation in what I
+refer to as the “‘rich—poor difference in house-
+work time’’: that is, the difference in house-
+work time between women and men from
+the richest and the poorest 10th of a country’s
+households. Borrowing terminology from the
+health literature, I also refer to the extent of
+these differences as the “housework—income
+gradient.”
+
+Recent housework literature treats income
+primarily as a resource vis-a-vis one’s partner,
+that is, as a determinant of (or proxy for) rel-
+ative bargaining power. Income has received
+much less attention as a resource that affords
+access to domestic technologies, paid help,
+restaurant meals, and goods such as prepared
+food, all of which may be used to reduce
+unpaid domestic work time (but see Cohen
+1998; de Ruijter, Treas, and Cohen 2005; Spi-
+tze 1999). Viewing income as a source of pur-
+chasing rather than bargaining power may
+suggest reinterpretations of the impact of
+women’s relative resources (Gupta 2006). It
+clearly draws attention to the fact that high-
+income households will be able to reduce
+the domestic workload in ways unavailable
+to low-income households. This may result
+in the status or class differences in housework
+that have received some attention in historical
+studies (Gershuny 2000; Vanek 1978) and
+recent contributions by Gupta and his col-
+leagues (Gupta 2006, 2007; Gupta et al.
+2009).
+
+In explaining cross-country variation in
+the housework—income gradient, I draw on
+the work of Gershuny and argue that the
+variation can be accounted for by develop-
+mental and inequality explanations. The
+developmental explanation suggests that
+economic development is associated with
+the diffusion of labor-saving household
+technologies into lower strata and will nar-
+row differences in the housework time of
+rich and poor households. The inequality
+explanation claims that the housework—
+income gradient will be steeper in societies
+with high levels of wage and income
+inequality, because households at the top
+of the income distribution will shed a larger
+portion of the domestic burden by employ-
+ing paid help.
+more unequal. Hence, the main goal of this
+section is to identify the macro-level factors
+shaping inequalities in appliance and service
+use. It is clear that my argument hinges on
+the assumption that household technologies
+and domestic services really reduce house-
+work time. I therefore briefly address wide-
+spread skepticism about the time-saving
+qualities of household technologies.
+
+Doubts about whether household technolo-
+gies really reduce housework time have been
+around since 1974, when Joann Vanek pub-
+lished her famous article on the domestic
+work time of American housewives. Using
+data from several time-budget studies, Vanek
+showed that housewives’ domestic work time
+did not fall between the 1920s and 1965,
+despite the massive diffusion of household
+technologies. Subsequent studies document
+some decline in homemakers’ housework
+time after 1965 (Bianchi et al. 2000; Bianchi
+et al. 2006; Ramey 2009), but the skeptical
+view retains a sizable following and is seem-
+ingly supported by a recent study by Bittman,
+Rice, and Wajcman (2004). Using Australian
+time-budget data, Bittman and colleagues
+find virtually no negative effects of actual
+appliance ownership on women’s (and
+men’s) housework time.' At first glance, these
+results are even more challenging to the
+notion that household technologies reduce
+domestic work time, because Bittman and col-
+leagues study the effect of appliance owner-
+ship directly, while the evidence was rather
+circumstantial in Vanek’s analysis. House-
+wives’ domestic work time simply did not
+fall during the era of appliance diffusion,
+which leaves open the possibility that time
+gains from automation were cancelled out
+by other changes—an issue to which I will
+return.
+
+Upon reflection, however, Bittman and
+colleagues’ findings do not rule out the possi-
+bility that household technologies reduce
+domestic work time. To see this, it is impor-
+tant to note two interpretations of their results.
+First, domestic technologies might not really
+save labor or, put differently, they might not
+enhance domestic productivity. If washing
+machines do not reduce the time spent on
+washing per shirt, it would not be surprising
+to find that washing machine ownership and
+laundry time are unrelated. Yet, neither Vanek
+nor Bittman and colleagues question that most
+domestic appliances are labor-saving in this
+sense. Instead, these authors suggest that all
+of the productivity gain associated with appli-
+ance use seems to be taken in the form of
+increased domestic output—and none of it in
+the form of reduced housework time. A com-
+mon explanation for Vanek’s findings, echoed
+by Bittman and colleagues, is that the diffu-
+sion of household technologies has been
+accompanied by a rise in housekeeping stand-
+ards. Many scholars do not think this concom-
+itant rise of housekeeping standards and
+appliance diffusion is purely coincidental.
+Rather, they believe the rise in housekeeping
+standards is a consequence of appliance diffu-
+sion; macro-level versions of this endogeneity
+argument point to the promotion of new
+housekeeping ideals in the media and adver-
+tising (Cowan 1983). Vanek (1974:120) her-
+self stressed the performative qualities of
+housework: “time spent in work, rather than
+the results of the work, serves to express to
+the homemaker and others that an equal con-
+tribution is being made.”
+
+The idea that housekeeping standards may
+be endogenous to appliance use is important
+and plausible. Yet, it seems rather unlikely
+that all of the productivity gain associated
+with appliance use would be taken in the
+form of increased output. How can Bittman
+and colleagues’ findings be reconciled with
+the idea that some portion of automation-
+induced productivity gains is taken in the
+form of reduced housework time? To answer
+this question, Gershuny (2004) argues that
+unobserved exogenous differences—in house-
+keeping standards, needs, and other dimen-
+sions—ikely plague any attempt to estimate
+the effects of appliance ownership on house-
+work time directly. Furthermore, such unob-
+served differences should be especially salient
+if financial considerations play a minor role
+when deciding whether to acquire a certain
+technology, as is presumably the case for
+most households in an affluent country like
+Australia.
+
+Unobserved differences may also account
+for Vanek’s results. American housewives in
+the 1960s were arguably very different from
+their counterparts in the 1920s, when female
+labor force participation was considerably
+lower. Gershuny (2000) also proposes an
+alternative explanation for Vanek’s findings,
+stressing class-specific trends in housework
+time. Using time-budget data for housewives
+in the UK, Gershuny, like Vanek, finds that
+their domestic work hours stayed roughly con-
+stant until 1960, but he demonstrates that this
+stability masks divergent  status-specific
+trends. While housework hours decreased
+considerably for low-status housewives,
+high-status housewives experienced just the
+opposite. Gershuny’s explanation for this pat-
+tern is as follows: All classes, including the
+lower strata, benefitted from the diffusion of
+household technologies. For high-status
+women, however, the gains from automation
+were more than offset by another trend—for
+a variety of reasons, including a narrowing
+of the wage structure (Atkinson and Piketty
+2007; Goldin and Margo 1992), high-status
+women found it increasingly difficult to afford
+domestic servants.
+
+This account suggests that automation (i.e.,
+the use of labor-saving technologies) is
+a much more equally distributed means of
+reducing the domestic workload than is out-
+sourcing (i.e., the employment of paid help
+or servants). In the remainder of this section,
+I explore this idea more systematically and
+trace the implications for cross-national varia-
+tion in the housework—income gradient. My
+argument rests on the observation that house-
+hold appliances and domestic services differ
+in two key respects: the former are tradable
+goods whose production is capital-intensive,
+while the latter furnish non-tradable goods
+whose production is labor-intensive.
+
+The fact that domestic appliances are trad-
+able implies that cross-country variation in
+their price should be limited, making access
+to domestic appliances a matter of absolute
+rather than relative income. The fact that their
+production is capital-intensive further implies
+that advances in production technology can
+induce dramatic decreases in their real prices.
+Such decreases have occurred in recent
+decades; now, in more affluent countries,
+even low-income households can afford a basic
+stock of appliances. In less affluent countries,
+where only those at the top of the income dis-
+tribution can afford domestic technologies,
+tich-poor differences in appliance penetration
+and housework time should be greater.
+
+Outsourcing-related variation in the house-
+work—income gradient should follow a differ-
+ent pattern. When hiring someone in your area
+to clean your house or mow your lawn, the
+price of this service is primarily a function
+of that person’s wages (and the appropriate
+taxes). Loosely speaking, this makes service
+consumption a matter of relative rather than
+absolute income. If your financial resources
+are high relative to the wages of the geograph-
+ically proximate service providers, there is lit-
+tle to prevent you from making extensive use
+of these services. But if your financial resour-
+ces are not relatively high, you are unlikely to
+outsource domestic labor. In any country,
+individuals at the bottom of the income dis-
+tribution will barely consume unsubsidized
+domestic services. Cross-country variation
+in the outsourcing-induced portion of house-
+work differences will thus be shaped by dif-
+ferences in high-income households’ service
+consumption.
+
+If services are what economists refer to as
+normal goods, then individuals at the top of
+a country’s income distribution should con-
+sume more services the higher their income
+and the lower services are priced. This simple
+observation suggests that outsourcing-induced
+cross-country variation in the housework—
+income gradient will be considerable. It is
+well-known that top incomes in a relatively
+egalitarian country (e.g., Sweden) are much
+lower than in a relatively unequal society
+(e.g., the United States) (OECD 2008). The
+non-tradability of domestic services further
+implies that differences in wage and tax struc-
+tures lead to considerable cross-country varia-
+tion in service prices. Ideally, one would
+explain the outsourcing-driven portion of the
+rich-poor difference in housework by the ratio
+of high-income households’ financial resour-
+ces to service prices. Because good estimates
+of this quantity are hard to obtain, it is, from
+a practical point of view, rather fortunate
+that it should be closely tracked by standard
+measures of income inequality (i.e., the prices
+of labor-intensive services are closely related
+to the wages of the low-skilled, which in
+turn are closely related to a country’s level
+of income inequality).
+
+The idea of a link between level of inequal-
+ity and service consumption echoes Esping-
+Andersen’s (1990, 1999) argument that the
+low-skill service sector will flourish in coun-
+tries like the United States whose institutional
+framework permits high levels of inequality
+(see also Freeman and Schettkat 2005).
+Esping-Andersen (1990, see also Gershuny
+2000) also identifies an alternative ‘“‘social
+democratic post-industrial trajectory” that com-
+bines service sector growth with low levels of
+inequality through the subsidization and public
+provision of services. Subsidies and public pro-
+vision likely promote equality of access to
+services and thus attenuate rich-poor differen-
+ces in housework time. Empirically, however,
+these public provisions are largely confined to
+particular kinds of service jobs in areas such
+as education and care work. When outsourcing
+domestic chores such as cleaning, cooking, or
+shopping, one must usually turn to the private
+market.’ Because researchers who gathered
+data for the 2002 wave of the International
+Social Survey Programme (ISSP 2002) did
+not collect information on childcare time, I do
+not examine the impact of public provision of
+childcare on the housework—income gradient.
+
+This discussion yields some empirically
+testable hypotheses concerning cross-national
+variation in the difference between rich and
+poor women’s housework time. Rich and
+poor refer to women from the top and the
+Hypothesis 2b specifies the mechanism under-
+lying Hypothesis 2a. The empirical analysis
+tests Hypothesis 2a by investigating the
+country-level relationship between rich-poor
+differences in housework and a country’s
+level of income inequality. As for Hypothesis
+2b, the ISSP contains some information on the
+use of external help with housework, but the
+quality of these data is questionable. I there-
+fore do not examine Hypothesis 2b directly
+in the main analysis (interested readers should
+So far, the discussion has ignored an impor-
+tant alternative perspective on the relation-
+ship between income and housework time.
+In the wake of Fuwa’s (2004) seminal study,
+recent comparative housework literature
+devotes considerable attention to Blumberg
+and Coleman’s (1989) discount hypothesis.
+In its original formulation, this hypothesis
+claims that “‘the extent of male domination
+at the more macro levels will act as a kind
+of ‘discount rate’ on women’s exercise of eco-
+nomic power at the more micro levels”
+(Blumberg and Coleman 1989:231). Previous
+studies have examined how macro-level gen-
+der equality mediates the impact of three
+individual-level resources: women’s relative
+income, women’s paid work hours, and gen-
+der ideology. Fuwa’s analysis indicates that
+the impact of these variables is indeed stron-
+ger in more egalitarian countries, but Knudsen
+and Weerness’s (2008) recent study yields
+mixed evidence. In the context of the present
+study, it seems natural to view absolute
+income as yet another potentially equalizing
+resource. The discount hypothesis suggests
+that income’s effect on the level and sharing
+of housework should be stronger—that is,
+the housework-income gradient should be
+steeper—in more gender-egalitarian countries.
+Ireland and East Germany with, respectively,
+Great Britain and West Germany because the
+macro variables are unavailable at the subna-
+tional level.* In the case of Belgium, the
+ISSP data only cover the region of Flanders
+(with a few additional respondents from
+Brussels but none from Wallonia). I adopt
+the ISSP’s label and refer to this “country”
+as Flanders. For reasons of data availability,
+I have to assign the Belgian values of the
+macro variables. A total of 33 countries are
+available for the analysis. Only one respon-
+dent per household was interviewed, so all
+information, including partner’s housework
+time, is based on respondents’ reports (for
+a discussion of possible biases, see Kamo
+[2000]). The analysis is confined to respond-
+ents living with a partner. After listwise dele-
+tion (i.e., exclusion of households with miss-
+ing information), the sample includes 20,877
+observations.> Country sample sizes range
+from 255 for Switzerland to 1,157 for the
+United Kingdom. I examined the sensitivity
+of my main results to other missing data
+techniques and the results are reassuring, par-
+ticularly for the analyses of women’s house-
+work time, which are the main focus of this
+article. The most far-reaching sensitivity
+analysis was to create multiple imputations
+using Royston’s ice ado for Stata (Royston
+2005) (see part F of the online supplement
+for more details of this analysis).
+The focal couple-level independent variable
+is the household income decile. The regres-
+sions use the top decile as the reference cat-
+egory. Coefficients on belonging to the bot-
+tom decile are my estimates of rich-poor
+differences in the housework variables, with
+positive values indicating that poor individu-
+als spend more time on housework.° The
+household income question is bracketed
+rather than open-ended in about half of the
+countries; in these cases, the top and bottom
+income deciles can usually not be clearly
+identified. However, approximately the
+same fraction of households should be placed
+in the extreme income groups for the esti-
+mated rich—poor differences to be compara-
+ble across countries. I therefore constructed
+the deciles based on the order resulting
+from first ordering households according to
+their reported income and then, within each
+reported-income group, according to their
+predicted value from country-specific house-
+hold income regressions.’ This procedure
+guarantees that imputed income never trumps
+reported income; a household with a lower
+reported income is never ranked above
+a household with a higher reported income.
+
+In addition to household income, the
+household-level models also include varying
+sets of control variables. The reasons for
+including controls are clear: I do not want to
+attribute differences in housework to household
+income that are really consequences of differ-
+ential paid work commitment, family responsi-
+bilities, gender ideology, or other factors. How-
+ever, the inclusion of paid work measures may
+entail endogeneity problems with unknown
+consequences for the effects of interest (Jenkins
+and O’Leary 1995). We should also be wary of
+gender ideology, as theories of cognitive and
+normative adaptation suggest that such atti-
+tudes may be as much a consequence as a cause
+of housework arrangements (Plutzer 1988). To
+account for potential endogeneity problems,
+my analysis encompasses specifications with
+and without the presumably endogenous
+regressors. Table Al in the Appendix lists the
+covariates included in the different house-
+hold-level specifications.
+
+The following variables are included in at
+least one of the household-level specifications
+(see part A of the online supplement for addi-
+tional information on the construction of the
+measures):
+
+Respondent is female.
+
+Respondent's age. 1 enter a linear and
+a squared term.
+
+Respondent’s gender traditionalism. This
+variable is an unweighted additive index con-
+structed from five questions concerning gen-
+der roles (see the online supplement for ques-
+tion wordings). Cronbach’s alpha for this
+index is .74. The original variables range
+from 1 (“‘strong disagreement’) to 5 (“‘strong
+agreement’’). I rescaled the index to range
+from 0 to 1, with higher values implying
+more traditional attitudes. I include an interac-
+tion with respondent’s gender.
+
+Employment of man and woman. One
+household-level specification includes dummy
+variables for the intensity of market work,
+distinguishing among men and women
+employed full-time (at least 35 hours per
+week), part-time (15 to 34 hours), or less
+than part-time (1 to 14 hours). In another
+specification, I enter the exact number of
+paid work hours rather than the categorical
+measures.® According to Jenkins and
+O’Leary (1995), endogeneity problems
+should be especially severe when using the
+metric measure.
+
+Man’s and woman's previous absence
+from paid work. These variables are con-
+structed following Iversen and Rosenbluth
+(2006) and reflect the paid work commitment
+(i.e., no paid work, part-time, or full-time) dur-
+ing four phases of family life (i.e., before birth
+of first child, before the youngest child entered
+school, after the youngest child entered school,
+and after the children left home). The variables
+are increased by .125 for each instance of part-
+time employment and by .25 for each instance
+of non-employment; they range from 0 for
+individuals who worked full-time during all
+life phases to 1 for individuals who were not
+employed during all four life phases. These
+variables are rather noisy measures of employ-
+ment history, but they significantly improve
+model fit even when current paid work time
+is controlled.” They also provide the possibil-
+ity of controlling for propensity to work for
+pay without including measures of contempo-
+raneous employment.
+
+Respondent's education. Education dum-
+mies are based on a measure of the highest
+degree obtained. I collapsed the original six
+categories into a three-category measure and
+include an interaction with respondent’s
+gender.
+
+Household composition. | include the num-
+ber of adults and children under the age of 18
+years (more detailed information on the age of
+children is not available for all countries).
+
+Woman’s relative income. This variable is
+based on a seven-point ordinal variable indi-
+cating partners’ relative income levels. This
+measure seems preferable to one constructed
+from the information on respondent and
+household income (see note 6).
+
+Employment in domestic services. Individ-
+uals employed in domestic services might
+include their paid work hours when answering
+the question about their housework hours.
+Presumably, this would bias the results in
+favor of the hypotheses, as service employ-
+ment should be more common among poor
+women, particularly in more unequal and
+I measure economic development via PPP-
+adjusted GDP per capita. The values for
+this variable come from the 2003 edition
+of the CIA Factbook. To capture the impact
+of household technologies more directly, I
+use data on the diffusion of eight technolo-
+gies (i.e., dishwasher, tumble dryer, freezer,
+microwave, refrigerator, shower, vacuum
+cleaner, and washing machine) from Euro-
+monitor International’s 2007 World Con-
+sumer Lifestyles Databook (WCLD; Tables
+1.88-1.90). For each of the eight technolo-
+gies and for all countries in the sample,
+the databook gives the percentage of house-
+holds possessing the technology in 2006.!° I
+condensed this information into a one-
+dimensional automation score through a fac-
+tor analysis (see Table S.B1 in the online
+supplement for the original values). The
+automation scores are the estimated factor
+scores for the first factor, rescaled to range
+from 0 to 1."!
+
+No other data collection that I am aware of
+comes close to the WCLD in terms of the
+number of countries or the breadth of technol-
+ogies covered. Nonetheless, there are some
+limitations. First, the comparability of the
+data is difficult to judge. The documentation
+is scarce, but most of the data probably
+come from household surveys with varying
+sampling strategies, interview methods, and
+question wordings. Apart from general ques-
+tions of validity and comparability, two fur-
+ther concems are more specific to the present
+investigation. First, some households may not
+own a particular technology because they can
+conveniently access it in other ways (e.g.,
+through shared facilities in public apartment
+buildings). This may explain why washing
+machine penetration is relatively low in
+some affluent countries such as Sweden (see
+Table S.B1 in the online supplement). The
+second concern is that data on technology dif-
+fusion among low-income households would
+be more adequate for testing my argument
+and that overall penetration levels are only
+a (possibly rough) proxy for them. These
+limitations, however, are clearly outweighed
+by the fact that the WCLD data cover many
+more countries and technologies than does
+any alternative data source. More importantly,
+I see no reason why the data should bias the
+results in favor of Hypothesis 1b.
+
+It is difficult to obtain a comparable mea-
+sure of relative income differences within
+countries. To reduce error due to measure-
+ment error or to varying income concepts,
+I use the unweighted average of the Gini
+coefficients available from three sources:|?
+(1) the Luxemburg Income Study, which
+covers most of the economically more
+developed countries in the sample; (2) the
+dataset compiled by Branko Milanovic of
+the World Bank (Milanovic 2005; World
+Bank 2008), which covers all but one of
+the countries in the 2002 ISSP (however,
+the income concepts differ considerably
+across countries and the latest year available
+often lies well before 2002); and (3) the CIA
+Factbook. Correlations between averaged
+measure and the three original Gini varia-
+bles range between .95 and .98. I would pre-
+fer to have a measure of rich households’
+service consumption, as this would enable
+a direct test of Hypothesis 2b. It may seem
+possible to construct such a measure from
+six ISSP questions on the sharing of house-
+hold tasks, where respondents can report
+that a task is “‘usually done by a third per-
+son.”’ Reports of outside help are very
+rare, however, so I am reluctant to use this
+information. Nevertheless, I explored the
+potential of an outsourcing measure based
+on these questions and the results are gener-
+ally supportive of Hypothesis 2b—at least
+when Cyprus, an extreme outlier, is
+excluded from the analysis (see part E of
+the online supplement).
+This model expresses B,; as the sum of an
+intercept term 10, the effects of the (varying
+sets of) country-level predictors summarized
+by Syuzy, and a country-specific error-
+term vj).
+
+Various strategies are available for estimat-
+ing the multilevel model summarized by
+Equations 1 and 2. Recent comparative stud-
+ies on the division of housework favor simul-
+taneous estimation by restricted maximum
+likelihood methods, usually referring to them
+as hierarchical linear models (HLM) (Bryk
+and Raudenbush 1992). By contrast, I apply
+a two-step procedure pioneered by Hanushek
+(1974) that has recently been detailed and
+performed well in Monte Carlo simulations by
+Lewis and Linzer (2005). In a first step, I obtain
+estimates of the B,,’s by running country-
+specific household-level linear regressions
+where u,; is an additional error component
+that stems from the fact that the dependent
+variable of the regression is estimated rather
+than observed. uj; varies as a function of the
+sample size and other characteristics of
+the country samples. The error term of the
+country-level regressions is heteroscedastic
+even when the v,’s in Equation 2 are homo-
+scedastic, implying that estimation of coun-
+try-level regressions by OLS will be ineffi-
+cient and yield biased standard errors.
+Following the recommendations of Lewis
+and Linzer, I use a Feasible Generalized Least
+Squares (FGLS) procedure to address this
+problem. The FGLS approach fits a weighted
+least squares regression with weights
+
+1 a2: ; 2
+w= where G~ is an estimate of o
+J ata?
+
+ 
+
+from an auxiliary country-level OLS regres-
+sion. a is an estimate of country-specific var-
+iance of the heteroscedastic error component.
+It is provided by the squared standard error of
+the estimated dependent variable, that is, by
+the squared standard errors of the 6 1S (for
+further details, see Lewis and Linzer [2005]).
+
+Achen (2005) discusses advantages of the
+two-step approach over simultaneous estima-
+tion in the context of cross-country applica-
+tions. Scholars often advocate simultaneous
+estimation on the basis that it borrows strength
+across the level-2 units (e.g., across class-
+rooms or countries). Without entering the dis-
+cussion at length, it is worth noting that the
+case for borrowing strength is more compel-
+ling when the number of cases per level-2
+unit is small, and when the level-2 units are
+randomly sampled and reasonably similar to
+each other. These conditions are usually
+not fulfilled in cross-country applications:
+Table 1 reports average weekly housework
+hours of women and men in the bottom and
+top deciles of the country-specific income
+distributions, differences between these aver-
+ages, and values of the three country-level
+variables. Countries are ranked in descending
+order according to the size of the rich-poor
+difference for women. As I suggested earlier,
+low-income women and men tend to spend
+more time on housework than do their
+high-income counterparts—and the magni-
+tude of the difference is often substantial.
+For women, the difference exceeds seven
+hours per week—or one full hour per
+day—in about half of the countries. It
+remains to be seen whether these differences
+persist when the effects of differential
+employment rates and other factors are taken
+into account.
+
+The ordering of countries is roughly as
+hypothesized. To see this more clearly, con-
+sider the rightmost columns in the bottom
+rows of Table 1, which give the average val-
+ues of the country-level independent variables
+for the 10 countries with the largest rich-poor
+differences in women’s housework time (Top
+10), the 10 countries with the smallest differ-
+ences (Bottom 10), and the 13 countries that
+fall in between (Middle 13). The 10 countries
+with the greatest rich-poor differences have
+Table 1. Rich—Poor Differences in Women’s and Men’s Weekly Housework Time
+
+ 
+
+ 
+
+ 
+
+Women Men Macro Variables
+
+Average Average Diff. Average Average Diff. GDP per Gini
+
+Hours Hours (Btm Hours Hours (Btm capitain Coeff.
+
+Bottom Top - Bottom Top - 1000 in Automation
+
+Decile Decile Top) Decile Decile Top) USD (PPP) % Score
+Slovenia 33.6 15.1 18.5* 8.0 5.8 2.2 19.2 27.3 49
+Brazil 43.0 25.0 18.1* 13.0 8.4 4.7 7.6 56.7 19
+Hungary 39.0 22.5 16.5* 15.6 7.8 7.8* 13.3 26.9 42
+Ireland 34.8 20.9 13.9* 12.0 6.3 5.8* 29.3 34.5 87
+Portugal 34.1 20.7. 13.3* 8.2 5.3 2.9 19.4 38.5 62
+Chile 42.2 29.6 12.5* 12.9 8.3 4.6* 10.1 55.9 30
+Flanders 31.3 194 11.9* 11.8 70 48 29.2 28.8 92
+Philippines 26.9 16.5 10.4* 15.7 13.8 1.9 4.6 48.0 00
+Austria 27.9 17.6 10.3* 6.3 7.3 -1.0 27.9 29.1 86
+Israel 20.7 10.7 10.0* 7.3 5.2 21 19.5 36.7 84
+Median. 24.7 16.4 7.3 10.0 7.0 3.2 20.1 30.8 79
+
+Mean 25.2 174° 7.7 10.2 7.2 3.0 20.3 33.6 .67
+SD 8.3 5.0 49 4.0 24 2.7 8.9 8.5 .31
+Top 10 —- Mean 33.4 19.8 135 111 7.5 3.6 18.0 38.2 55
+Middle 13-Mean 24.9 176 7.3 12.1 8.2 3.9 17.4 33.8 .60
+Bottom 10-Mean 17.3 148 9 2.5 6.9 5.7 12 26.2 28.6 .87
+
+ 
+
+Note: Rich—-poor difference is the difference in women’s average weekly housework hours between the
+top and bottom deciles of the household income distribution (bottom — top). Housework hours estimated
+from 2002 wave of the International Social Survey Programme. See text for details on the macro
+variables.
+
+*p = .05 (two-tailed test).
+an average GDP of 18,000 USD, an average
+Gini coefficient of 38.2 percent, and an aver-
+age automation score of .55, while the respec-
+tive values are around 26,200 USD, 28.6 per-
+cent, and .87 for the 10 countries with the
+smallest rich-poor differences.
+
+Figure 1 takes a closer look at the macro-
+level relationships. The two graphs on the
+left show scatter plots, OLS regression lines,
+and LOWESS fits (bandwidth = .8) of the
+unadjusted difference in women’s housework
+time (i.e., the values from column 4 in Table
+1) against the automation score and the Gini
+coefficient. The two graphs on the right depict
+the relationships for adjusted differences,
+which are based on level-1 regressions that
+control for most of the individual- and house-
+hold-level covariates listed in the previous
+section, including gender traditionalism, paid
+work time, and a woman’s relative income.!°
+It is evident that the rich-poor difference in
+women’s housework time falls with the level
+of appliance diffusion and rises with eco-
+nomic inequality. The LOWESS fits are close
+to the regression lines, suggesting that linear
+specifications of the country-level relation-
+ships are appropriate. When comparing unad-
+justed and adjusted differences, three things
+are worth noting. First, adding controls tends
+to reduce rich-poor differences, which is
+why the regression lines shift downward
+when compositional differences are taken
+into account. This is unsurprising, as women
+from high-income households tend to be
+better educated and to work longer hours
+outside the home, two factors commonly
+associated with lower housework time. Sec-
+ond, the country-level relationships are
+attenuated somewhat but remain strong and
+in the expected direction (see note to Figure
+1 for the exact slope estimates). Finally,
+many outlying countries (e.g., Brazil,
+Cyprus, Hungary, and Slovenia) move
+closer to the regression lines when composi-
+tional differences are accounted for.
+R-squared is thus substantially higher for
+the regressions of adjusted differences (see
+note to Figure 1).
+Before turning to the parametric analysis of
+country-level relationships, I briefly examine
+results of household-level regressions with
+the full set of control variables (specification
+with categorical paid work measures). For
+each of the four housework variables—her
+and his absolute hours and the two relative
+contribution measures—Figure 2 represents
+the mean point estimates from the 33
+country-specific regressions. Vertical lines
+mark reference values between —10 and 10
+in steps of five. Where interactions with gen-
+der are included, circles indicate the average
+effect for men and arrows indicate the average
+effect for women.
+
+The mean effects generally carry the sign
+that theoretical reasoning and previous
+research would lead one to expect. Note that
+the mean effects of the relative income dum-
+mies follow a curvilinear pattern. Women’s
+absolute and relative contributions to house-
+work do not seem to uniformly fall as their
+contributions to household income rises. At
+least in some countries, increases in women’s
+relative income beyond a certain point raise,
+rather than reduce, their domestic commit-
+ments (Bittman et al. 2003; Brines 1994;
+Evertsson and Nermo 2004; Greenstein
+2000). Debate about the mechanisms underly-
+ing this quite common result is ongoing, and it
+is beyond the scope of this article to address it
+in detail. It is clear, however, that my general
+argument is consistent with recent contribu-
+tions by Gupta (2006, 2007), who suggests
+that the curvilinearities may result from the
+fact that women with high relative incomes
+are often women with low absolute incomes,
+which leaves them little leeway to buy their
+way out of doing housework. Part of this rela-
+tionship between women’s income share and
+purchasing power should be picked up by
+the household income variables, yet part of
+it will remain unaccounted for if women’s
+and men’s incomes affect housework time
+differently.
+
+Figure 2 also illustrates how effects of var-
+ious independent variables on men’s and
+women’s absolute hours translate into changes
+Rich-Poor Difference in
+
+Rich-Poor Difference in
+
+Wom’s HW Hrs
+
+Wom’s HW Hrs
+
+0
+
+15 20
+
+5 i510:
+
+0
+
+-5
+
+15 20
+
+10
+
+5
+
+25
+
+ 
+
+Unadjusted Difference
+
+15 20
+
+5-10.
+
+0
+
+-5
+
+Adjusted Difference
+
+Automation score
+
+ 
+
+ 
+
+35 45 55
+Gini coefficient
+
+LOWESS Fit
+
+ 
+
+15 20
+
+$340.
+
+0
+
+-5
+
+25
+
+35 45
+Gini coefficient
+OLS Linear Fit
+
+ 
+
+ 
+
+55
+Figure 1. Rich—Poor Differences in Women’s Housework Time against Macro Variables
+Note: Rich-poor difference is the difference in women’s average weekly housework hours between the
+top and the bottom decile of the household income distribution (bottom — top). Bandwidth of LOWESS
+smoothes = .8. Adjusted differences are based on country-specific household-level regressions that con-
+trol for various covariates (see text and Table A1 in the Appendix for details). Micro data are from the
+2002 wave of the International Social Survey Programme. Household-level N = 20,877. Automation score
+is the first factor score from a principal-factor factor analysis of the diffusion of eight household technol-
+ogies. See text for details on the macro variables. Slope estimates/R-squared: automation score, unadj.
+difference: -6.6/17.3 percent; automation score, adj. difference: —5.9/25.5 percent; Gini coefficient,
+unadj. difference: .23/16.5 percent; Gini coefficient, adj. difference: .21/23.5 percent. Abbreviations:
+AT = Austria; AU = Australia; BG = Bulgaria; BR = Brazil; CH = Switzerland; CL = Chile; CY = Cyprus;
+CZ = Czech Republic; DE = Germany; DK = Denmark; ES = Spain; FI = Finland; FL = Flanders; FR =
+France; HU = Hungary; IE = Ireland; IL = Israel; JP = Japan; LV = Latvia; MX = Mexico; NL = Netherlands;
+NO = Norway; NZ = New Zealand; PH = Philippines; PL = Poland; PT = Portugal; RU = Russia; SE = Swe-
+den; SI = Slovenia; SK = Slovakia; TW = Taiwan; UK = United Kingdom; US = United States.
+x
+a
+&
+&
+=
+<
+
+ 
+
+Avg. R2: 21.7%
+
+ 
+
+ 
+
+Avg. R?: 12.6%
+
+ 
+
+21.9%
+
+ 
+
+   
+
+Woman’s Hrs
+
+Avg. R?:
+
+ 
+
+TT TT TT
+Seg 9 ¥ HE ERLE Sa y AE 5 58 548 g EREMES pg aeseesaee
+et HH SP PUP Ee ee
+Ree cee ee te pS Sos
+a4 2 5 3 2 8 3 = 3
+$25 88 G2 3 ck 3 3
+& 8 = Bree pee ae 3
+2 e 4 ; 2
+2
+Figure 2. Average Coefficient Estimates from Household-Level Regressions
+
+Note: Average point estimates from country-specific regressions estimated by OLS. For gender tradition-
+alism and respondent’s education, interactions with respondent’s gender are included. In these cases,
+circles depict the mean effect for male respondents and arrows that for women. Data are from the
+2002 wave of the International Social Survey Programme. Household-level N = 20,877. Housework
+Gap is woman’s minus man’s weekly housework hours. Abbreviations: Wom.’s = Woman’s; Prev. = Pre-
+vious; HH = Household; Resp.’s = Respondent’s. Reference categories for dummy variables: male respon-
+dent; man’s/woman’s paid work time: not employed; respondent’s education: low; woman’s relative
+income: man earns all; household income: 10th (top) decile.
+explain part of the unadjusted rich—poor dif-
+ference in women’s housework: at 4.4
+hours, the mean coefficient estimate of
+belonging to the bottom decile is smaller
+than the mean unadjusted difference of 7.7
+hours per week (see Table 1). It is still sub-
+stantial, however, and on par with the aver-
+age effect of a woman earning a higher
+(rather than no) income or working part-
+time (rather than not at all).
+
+Figure 3 summarizes the central pieces of
+the empirical analysis: the country-level
+FGLS regressions of the rich—poor differ-
+ence in women’s and men’s housework
+hours. Markers indicate the point estimates
+and horizontal lines indicate the associated
+95 percent confidence intervals from these
+regressions. Dashed vertical lines mark ref-
+erence values between —15 and +15 in steps
+of five, and a darker solid line marks the
+zero value. Any coefficient estimate whose
+confidence interval does not intersect with
+the zero line is significant at the 5 percent
+level (two-tailed test).'® I rescaled all macro
+variables to range from 0 (for the country
+with the lowest value on a variable) to 1
+(for the country with the highest value on
+that variable). The estimates can be thought
+of as the maximum effects for the country
+sample at hand.
+
+While it is difficult to infer the exact
+point estimates and test statistics from the
+figure (see Table S.C1 in the online supple-
+ment for a classical regression table provid-
+ing these values), the graphic representation
+greatly facilitates comparisons across differ-
+ent household- and country-level specifica-
+tions (see Kastellec and Leoni [2007] for
+a useful discussion of the advantages of
+graphically displaying empirical results).
+For a given macro variable (e.g., Gini coef-
+ficient, GDP, and automation score), esti-
+mates based on the same household-level
+specification are grouped together, with the
+model specification signaled by the label
+on the y-axis (labels are designated M1,
+M2, and so forth; see Table Al in the
+Appendix for details on the included
+variables). Thus, for example, the top four
+points in the left graph represent the esti-
+mated effects of the Gini coefficient on
+tich-poor differences in women’s house-
+work hours when the latter is estimated
+from the household-level model with basic
+controls, while the second set of four points
+summarizes the results when rich—poor dif-
+ferences are estimated from the household-
+level model that controls for all variables
+except traditionalism and paid work time.
+Within each set of estimates, different
+marker symbols (e.g., black or grey circles)
+are used to differentiate among various
+country-level specifications. Black circles
+represent estimates from bivariate regres-
+sions and grey circles represent estimates
+from regressions with the Gini coefficient
+and GDP per capita (which is why they are
+missing for the automation score in Figure
+3). White circles depict results from regres-
+sions with the Gini coefficient and the auto-
+mation score (which is why they are missing
+for GDP per capita, again, in Figure 3), and
+triangles represent results from regressions
+with all three country-level predictors.
+
+To summarize, one should compare esti-
+mates represented by the same marker symbol
+across sets of coefficients to gauge the impact
+of modifying the household-level specifica-
+tion. To gauge the impact of changing the
+country-level specification, one should make
+comparisons among the different markers
+within a single set of estimates.
+
+Results for the rich-poor difference in
+women’s absolute housework hours are dis-
+played in the left graph of Figure 3. Leaving
+the model with all three macro-level predic-
+tors (triangles) aside for the moment, all
+effects go in the expected direction and,
+with very few exceptions, reach or approach
+statistical significance. Based on results for
+household-level Model 3, the maximum effect
+of economic inequality on the rich—poor dif-
+ference in women’s housework time is more
+than seven hours in the bivariate country-level
+specification (black circles). The maximum
+effects of GDP per capita and technology
+\d-level
+
+Househol
+
+specification
+
+i
+i
+:
+
+ 
+
+M2: Full w/o trad. & paid work
+
+JUOTOLJJIOO TUT
+
+ 
+
+M3: Pull, paid work categories
+
+M4: Full, # of paid work hours
+
+MI: Basic controls
+
+M2: Full w/o trad. & paid work
+
+a
+
+d
+
+M3: Full, paid work categories
+
+D
+
+M4: Pull, # of paid work hours
+
+MI: Basic controls
+
+M2: Pull w/o trad. & paid work
+
+M3: Full, paid work categories
+
+M4: Full, # of paid work hours
+
+oJOOS UOT}VUOINY
+
+ 
+
+try-level specification:
+
+Coun
+
+g
+z
+[—
+Ss
+g
+&
+g
+a
+xB
+3
+6
+°
+
+@ Bivariate
+
+4 All 3 Variables
+
+@ Gini & GDP
+Figure 3. Country-Level Regressions: Effects of Gini Coefficient, GDP per Capita, and Auto-
+mation Score on Rich—Poor Differences in Women’s and Men’s Housework Hours
+
+Note: Country-level FGLS estimates following Lewis and Linzer (2005). Dependent variable is the differ-
+ence in women’s and men’s average weekly housework hours between households from the top and bot-
+tom deciles of the country-specific income distribution (bottom — top). Micro data are from the 2002 wave
+of the International Social Survey Programme. Household-level N = 20,877. Country-level N = 33. Models
+1 through 4 control for different sets of household-level covariates. See Table A1 in the Appendix for
+exact household-level specifications and the text for details on household- and country-level variables.
+I rescaled macro variables to range from 0 to 1. Dashed branches of the confidence intervals are cut at
+(-)15.5. Abbreviation: trad. = gender traditionalism.
+diffusion are estimated at about minus six
+hours. These effects attenuate when the Gini
+and GDP per capita (grey circles) or the
+Gini and the automation score (white
+circles) are entered simultaneously, reflect-
+ing the relatively strong correlations of
+—.6 between the Gini and GDP and —.55
+between the Gini and the automation score.
+The effects remain sizable and at least on
+the verge of statistical significance. The
+maximum effect of the Gini is estimated at
+more than 5.4 hours in the presence of
+GDP and at 4.1 hours in the presence of
+the automation score. The corresponding
+estimates for GDP per capita and the auto-
+mation score are minus 3.4 and minus
+4.4 hours, respectively.
+
+Figure 3 also shows that household-level
+specification affects country-level relation-
+ships somewhat, but not dramatically. The
+comparisons of interest are now among the
+results for the same country-level specifica-
+tion (represented by the same marker sym-
+bol), but for different specifications of the
+household-level model (indicated by the
+labels on the y-axis). The effects of the
+Gini are weaker for Models 2, 3, and 4
+than for Model 1, implying that household-
+level control variables explain part of the
+relationship between economic inequality
+and the rich-poor difference in women’s
+housework hours. For GDP and the automa-
+tion score, adding household-level controls
+has only small and unsystematic effects on
+the point estimates. Finally, reflecting the
+reduction in error variance apparent in Fig-
+ure 1, the effects of all variables, including
+the Gini, are estimated more precisely—that
+is, with smaller confidence bands—in the
+presence of household-level controls.
+
+These comparisons across different house-
+hold-level specifications suggest that endoge-
+neity is not a serious problem in the present
+application. Whether one uses a household-
+level model without measures of gender tradi-
+tionalism and contemporaneous work com-
+mitment (Model 2) or one that includes such
+variables (Models 3 and 4) has relatively
+small effects on the estimated country-level
+relationships.
+
+A final interesting aspect of Figure 3 con-
+cerns the comparison between GDP per capita
+and the automation score as the two variables
+intended to capture the equalizing effects of
+appliance diffusion. Given their high correla-
+tion of .94, both variables behave quite simi-
+larly in the regressions, but the effect of the
+automation score—which is an attempt to
+measure the theoretically relevant process
+more directly—is generally larger in absolute
+value and performs better in terms of statisti-
+cal significance. Results from the country-
+level models with all three predictors (the tri-
+angles in Figure 3) are even more telling. Due
+to their high correlation, the standard errors on
+both variables increase substantially when
+they are entered simultaneously. The automa-
+tion score, however, retains the theoretically
+predicted sign and its effect becomes stronger
+for all but one household-level specification.
+The effect of GDP per capita, by contrast,
+approaches zero or changes sign when the
+automation score is included.
+
+How are the macro variables related to
+rich-poor differences in men’s housework
+time? Figure 3 shows that the effects go in
+the same direction as for women’s hours,
+but they are generally smaller in size and
+do not reach conventional significance lev-
+els in the models with more than one
+macro-level predictor. Given that the aver-
+age rich—-poor difference in housework
+hours is much smaller for men, the effect
+sizes are nonetheless remarkable, especially
+for the Gini coefficient. Sensitivity analyses,
+however, suggest that this effect in particu-
+lar should be viewed with caution.'’ The
+automation score does not perform better
+than GDP per capita in these regressions,
+suggesting that the relationship between
+economic development and rich—poor dif-
+ferences in men’s housework time is driven
+by processes other than diffusion of the
+technologies on which the automation score
+is based. This is intuitively plausible, as the
+technologies considered are clearly related
+to female-typed housework tasks. I must
+leave the question of how economic devel-
+opment is related to rich-poor differences
+in men’s unpaid work time to future
+research, but it seems that the prevalence
+of informal food production may be one
+important factor (Alber and Kohler 2008).
+
+The results summarized in Figure 3 pro-
+vide clear support for Hypotheses la, 1b,
+and 2a. Examining a variety of household-
+and country-level specifications, I find robust
+evidence that economic development and
+appliance diffusion go with smaller differen-
+ces in the housework time of income-rich
+and income-poor women, and economic
+inequality goes with greater differences. Com-
+parisons of the results for GDP per capita and
+the automation score support the idea that
+appliance diffusion is driving the relationship
+between economic development and inequal-
+ities in housework time.
+
+In a final step, I consider a prominent
+alternative to the hypotheses examined so
+far. According to the discount hypothesis,
+the effects of women’s micro-level resour-
+ces are discounted by macro-level gender
+inequality. Applied to the present study,
+the most straightforward interpretation of
+this hypothesis is that the rich—poor differ-
+ence in women’s housework time should
+be greater in more gender-egalitarian coun-
+tries. This is because rich women in these
+countries should realize the full potential
+of their high household income, while in
+less egalitarian countries, women’s income
+will be discounted. Figure 4 summarizes
+the results from a set of country-level
+regressions, with the United Nations Devel-
+opment Programme’s Gender Empower-
+ment Measure (GEM), a composite index
+commonly used to capture macro-level gen-
+der inequality, taking the place of GDP per
+capita.'® I took GEM values from Knudsen
+and Werness (2008) and rescaled them to
+range from 0 to 1. Higher values indicate
+greater macro-level gender equality.
+
+Results displayed in Figure 4 do not sup-
+port the discount hypothesis. If anything, the
+effect of household income is weaker, not
+stronger, in more gender-egalitarian countries.
+From a technical point of view, this is not sur-
+prising, because gender empowerment is
+highly correlated with GDP per capita (r =
+-72 for the country sample analyzed here).
+The apparent negative effect of the GEM
+indeed seems to be largely spurious. It practi-
+cally disappears when appliance diffusion and
+economic inequality are controlled, but it
+remains far from showing the positive effect
+predicted by the discount hypothesis (results
+represented by the triangles in Figure 4).
+Because Knudsen and Weeness’s (2008)
+study found stronger evidence for discounting
+in the case of relative contribution measures,
+it is worth noting that results are similar for
+the effect of household income on the house-
+work gap or a woman’s share.!°
+
+These results raise questions about the
+scope of the discount hypothesis. How does
+household income differ from other resources
+to which this hypothesis applies? I would like
+to briefly sketch one possibility. As I argued
+at length, absolute income affords access to
+household technologies and services and
+thus allows households to reduce women’s
+domestic burdens without lowering house-
+keeping standards or increasing male partic-
+ipation. Reductions in female housework
+time associated with time availability, gen-
+der ideology, and relative income, by con-
+trast, must be compensated for by the male
+partner or by reductions in domestic output;
+they are thus more likely to involve conflic-
+tual processes of negotiation and intrahouse-
+hold bargaining. It seems plausible that
+macro-level gender equality conditions
+such processes of negotiation, for example,
+by shaping relevant preconceptions about
+gender roles.
+Household-level
+
+ 
+
+specification
+
+ 
+
+MI: Basic controls
+
+M3: Full, paid work categories
+
+WUOIO1JJ209 TUID
+
+ 
+
+MI: Basic controls
+
+Wad
+
+ 
+   
+
+  
+
+M3: Full, paid work categories
+
+ 
+
+ 
+
+MI: Basic controls
+paid work categories
+
+M3: Full,
+
+9109s UOTRWOINY
+
+     
+
+Country-level specification
+
+ 
+ 
+
+O Gini & automation score
+A All3 Variables
+
+@ Bivariate
+
+   
+
+@ Gini & GEM
+Figure 4. Country-Level Regressions: Effects of Gini Coefficient, Gender Empowerment
+Measure, and Automation Score on Rich—Poor Differences in Women’s and Men’s House-
+work Hours
+
+Note: Country-level FGLS estimates following Lewis and Linzer (2005). Dependent variable is the differ-
+ence in women’s and men’s average weekly housework hours between households from the top and bot-
+tom deciles of the country-specific income distribution (bottom — top). Micro data are from the 2002 wave
+of the International Social Survey Programme. Household-level N = 20,877. Country-level N = 33. Abbre-
+viation: GEM = Gender Empowerment Measure. Models 1 and 3 control for different sets of household-
+level covariates. See Table A1 in the Appendix for exact household-level specifications and text for
+details on household- and country-level variables. I rescaled macro variables to range from 0 to 1.
+equity (Okin 1989), much of this literature
+takes a horizontal approach, concentrating
+on the impact of paid work commitment, gen-
+der ideology, relative income, and variables
+such as marital status that have no obvious
+relationship to the vertical inequalities empha-
+sized by traditional stratification research.
+Class, financial resources, and socioeconomic
+status are often controlled; only a few studies
+place these variables at the center of the
+analysis.
+
+This study demonstrates that doing so can
+enhance our understanding of the domestic
+division of labor. I argue that affluent house-
+holds can afford labor-saving appliances and
+services more readily than can poor house-
+holds and that one should therefore expect
+women’s housework time to fall as household
+income rises. Averaging my estimates over
+the 33 countries included in this study,
+women from the poorest 10th of households
+spend an additional 7.7 hours on housework
+each week compared with women from the
+richest 10th. The average difference falls
+to 4.4 hours when standard covariates are
+accounted for, but this is still substantial,
+on par with the effects of a woman’s paid
+work time or relative income. The main
+aim of the article, however, was not to
+establish that there is a relationship between
+household income and housework time, but
+to explain cross-country variation in its
+strength.
+
+Reinterpreting arguments from the his-
+torical time-use literature (Gershuny 2000),
+I argue that differences between rich and
+poor women are smaller in economically
+more developed countries—where even
+low-income households have access to
+major household technologies—and_ that
+differences will be greater where overall
+economic inequality is high, because high-
+income households in these societies out-
+source larger portions of their domestic
+work to the market. The empirical analysis
+confirms these predictions; results for
+a direct measure of appliance diffusion pro-
+vide striking evidence that the equalizing
+effect of economic development is really
+driven by the automation of domestic
+work. Data restrictions preclude an equally
+compelling test of the hypothesis that the
+effect of economic inequality reflects differ-
+ences in rich households’ service consump-
+tion, but it is worth repeating that supple-
+mentary analyses, which use the limited
+information on external help in the 2002
+ISSP, seem supportive of this hypothesis.
+
+On a general level, the findings remind us
+that gender inequalities are often conditioned
+by economic inequalities. When couples
+decide—or bargain over—how to get house-
+work done, their options are fundamentally
+shaped by their financial resources, which
+in turn interact with the wider technological,
+economic, and social environment. With
+respect to the result that the housework—
+income gradient is steeper in more unequal
+countries, it is important to see that the
+prevalence of outsourcing among high-
+income households is not simply a matter
+of how rich these households are: it also
+hinges critically on the costs of employing
+paid help. These costs are related to the
+more general wage structure, whose deter-
+minants are the subject of ongoing debate
+(see Kenworthy 2007). In the context of
+domestic services, it seems especially
+important to acknowledge the role of inter-
+national female migration in providing an
+ample supply of low-wage domestic work-
+ers in many of the economically more devel-
+oped countries (Hondagneu-Sotelo 2001;
+Parrefias 2001).
+
+The results of this study clearly challenge
+the notion that household technologies have
+had little or no impact on women’s domestic
+work time. The findings square well with
+recent work in economics that finds household
+technologies have been an important force
+behind increasing female labor force partici-
+pation (Cardia 2009; Cavalcanti and Tavares
+2008; Greenwood, Seshadri, and Yorukoglu
+2005). This suggests that politicians con-
+cerned with women’s labor force participation
+and economic independence should promote
+access to household technologies; in many
+less developed countries, this may involve
+investment in basic infrastructure such as
+indoor running water, plumbing facilities,
+and electricity.
+
+Additional analyses suggest that the
+influential discount hypothesis (Blumberg
+and Coleman 1989; Fuwa 2004), stating
+that the effect of women’s micro-level
+resources will be weaker in less gender-
+egalitarian countries, does not apply to
+household income. This invites further theo-
+retical and empirical work to determine the
+exact scope of this hypothesis. Future
+research should also extend the present anal-
+ysis in other ways. An obvious first exten-
+sion would be to consider the impact of
+financial resources on care time (due to
+data limitations, this could not be studied
+here). As I suggested earlier, such an analy-
+sis should pay particular attention to possi-
+ble inequality-reducing effects of public ser-
+vice provision. This analysis will likely be
+complicated, however, by class differences
+in childrearing standards (Lareau 2003).
+Second, this study is concerned with cross-
+sectional differences between income-rich
+and income-poor households. Because these
+differences reflect individuals’ and couples’
+adjustments to the status-specific constraints
+they face, it would be interesting to see how
+income conditions the effects of unforeseen
+events that trigger a refocusing of estab-
+lished time use patterns. How do poor
+households and rich households react when
+care demands are suddenly increased or
+when financial shocks require household
+members to increase their paid employ-
+ment? One cannot help but suspect that the
+differences observed in the present investi-
+gation would be amplified under such cir-
+cumstances. Finally, the nature of the
+income data prevented me from separating
+the effects of women’s and men’s income.
+Research on the demand for domestic serv-
+ices and other market substitutes for unpaid
+work suggests that women’s income has
+a much stronger effect on housework than
+does men’s income. Women may be sacri-
+ficing part of their income by buying market
+substitutes for unpaid work. These questions
+touch on issues of intra-household distribu-
+tion of consumption that are difficult to
+tackle with existing survey data. Nonethe-
+less, they are clearly worthy of further
+investigation. Comparative studies analyz-
+ing men’s and women’s incomes separately
+would be natural extensions of the present
+analysis, but, at least for the moment, a focus
+on gender-specific incomes seems to imply
+a small-N design (see the important study
+by Gupta et al. 2009).
+Table A1. Independent Variables Included in Household-Level Specifications
+
+ 
+
+ 
+
+Model 2.
+Full w/o Model 4.
+Model 1.‘ Traditionalism and Model 3.Full, Full, Number of
+Basic Employment Paid Work Paid Work
+Controls Dummies Categories Hours
+Respondent’s age x x x
+Respondent’s age squared x x x
+Respondent female xX xX xX x
+Region (Germany and UK only) x x x x
+Gender traditionalism x x
+(+ interaction with
+“respondent female”)
+Woman: paid work time x
+categories
+Woman: paid work time,
+number of hours
+Woman: employed in ISCO 512/ x xX x x
+513 (models for woman’s
+hours only)
+Man: paid work time categories x
+Man: paid work time, number of Xx
+hours
+Man: employed in ISCO 512/513 xX x x x
+(models for man’s hours only)
+Woman: previous absence from x x x
+paid work
+Man: previous absence from x x x
+paid work
+Respondent’s education x x x
+(+ interaction with
+“respondent female”)
+Number of adult household xX xX xX
+members
+Number of children in x x x
+household
+Woman’s income share x x x
+Household income decile x x x x
+
+ 
+
+Note: See text for details on the variables. X = variable included.
+An earlier version of this article was presented at the
+EQUALSOC EMPLOY-FAMNET Workshop in Berlin,
+May 2009. The author thanks Jens Alber, Agnes Blome,
+Petra Béhnke, Johannes Giesecke, Max Haller, Jonas
+Radl, Alessandra Rusconi, Chiara Saraceno, and Philip
+Wotschak for their comments on earlier drafts. The com-
+ments of Ulrich Kohler, Eric Plutzer, and the ASR edi-
+tors and anonymous reviewers were particularly helpful
+in improving the manuscript. Paula England and David
+Grusky provided valuable advice when the project was
+in an early stage.
+shopping services may be publicly provided for cer-
+tain needy groups of people (e.g., the disabled).
+
+. A link to Stata code for replicating the main analy-
+ses can be found on the author’s website (http://
+www.wzb.eu/bal/usi/leute/heisig.en.htm).
+
+. The analyses include weights that correct for the
+implicit oversampling of East German and Northern
+Trish households.
+
+. I did not apply strict listwise deletion to two pairs of
+variables. The first pair are the dummies for (his/
+her) employment in domestic services. All results,
+including the average effect of employment in
+domestic services, are virtually identical when I
+exclude cases where this information was missing
+for at least one of the partners, or when I assign
+these cases to a separate missing category. For sim-
+plicity, I pooled these cases with respondents who
+said they did not work in domestic services. The
+second pair are the measures of (his/her) previous
+absence from paid work. These measures are based
+on employment status during four life phases
+defined by the birth and age of children. The prob-
+lem here is that it is very difficult to distinguish
+between missingness due to item non-response
+and missingness due to not having experienced
+a particular life phase because the ISSP provides
+only a single missing code. Any attempt to make
+this distinction based on the limited information
+about fertility history and household composition
+would inevitably have to make strong assumptions.
+I therefore treated missing values on these variables
+as if they are due to not having experienced the
+respective life phase.
+
+. The work by Gupta and his colleagues (Gupta 2006,
+2007; Gupta et al. 2009) suggests that the effects of
+women’s and men’s incomes should be analyzed
+separately. Unfortunately, the ISSP data are not
+suited for such an analysis, because information
+on personal income was collected only for the
+respondent and because the income concepts in
+the question on respondent income vary consider-
+ably across countries (i.e., earnings versus income
+from all sources).
+
+. The dependent variable in the regressions is the
+observed value of household income (i.e., midpoints
+of income brackets in countries with bracketed
+questions). As predictors, I include respondent’s
+gender and age (linear and squared), employment
+status of the man and the woman, two measures
+of respondent’s previous absence from paid work
+(described below), dummies for being retired
+(man and woman), and number of children and
+adults in the household. For education, I use the
+ISSP’s original six-category measure rather than
+the three-category variable used in the main analy-
+sis, because cross-country comparability is not nec-
+essary at this point (some categories are not
+10.
+11.
+
+available for some countries). To increase predic-
+tive power, I also include partner’s level of educa-
+tion in these regressions, accommodating cases
+with missing values by defining an additional ‘“‘edu-
+cation missing” category (the main analysis omits
+partner’s education because it is unavailable for
+six countries). I also include a full set of interactions
+between education and employment status. All
+results are virtually identical when I include the
+remaining variables used in the main analysis (i.e.,
+gender ideology, employment in services, and
+woman’s income share) or when IJ also include the
+natural logarithm of the man’s and the woman’s
+housework hours.
+
+. Information on partner’s hours is not available for
+
+Australia, the Czech Republic, Ireland, Northern
+Ireland, Slovenia, and Slovakia. I retained categor-
+ical measures in these cases and included an appro-
+priate dummy in the country-level regressions.
+
+. The maximum possible value for an individual
+
+clearly depends on the number of life phases expe-
+rienced; I therefore experimented with a measure
+that divides by this number. The results are hardly
+affected.
+
+Cyprus was assigned the Greek values.
+
+I obtained estimates through the principal-factor
+method. I obtained factor scores for the unrotated
+solution using regression scoring. The first factor
+loads positively on all eight technologies and has
+a high eigenvalue of about 5.2. Loadings are (often
+substantially) above .7, except for the percentage of
+households with refrigerators, which has a loading
+of .62. The second factor has an eigenvalue of
+only .85, is difficult to interpret, and shows no clear
+relationship to the rich—poor difference in women’s
+housework hours. The results are very robust to the
+way I construct the automation score. They are vir-
+tually identical when I use other factor-analysis
+methods (i.e., principal component factor or iterated
+principal factor), an additive index obtained by first
+standardizing and then summing the eight technol-
+ogy measures, or multidimensional scaling. They
+are also similar when I construct the factor scores
+from rotated solutions.
+
+. An alternative measure of inequality, the ratio of the
+
+top decile’s income/consumption to the bottom dec-
+ile’s income/consumption, is available for all coun-
+tries but Taiwan from the United Nations Develop-
+ment Programme’s 2007 Human Development
+Report (assigning the Greek value to Cyprus and
+the Belgian value to Flanders). The country-level
+results (available from the author on request) are
+very similar to those presented in this article when
+I use this measure instead of the Gini coefficient.
+
+. Household-level standard errors are heteroscedasticity-
+
+consistent Huber-White standard errors. Because
+housework time of one hour or less is reported
+for 18.1 percent of men and 1.5 percent of women,
+I repeated the analysis using tobit models at the
+household level. The results are virtually identical.
+Part D of the online supplement reports results from
+HLMs of women’s housework hours. Support for
+Hypotheses la and 1b is somewhat weaker in the
+HLMs that include the full set of household-level
+controls. Estimated effects of GDP and the automa-
+tion score are smaller in absolute value and no lon-
+ger statistically significant when the Gini coeffi-
+cient is controlled. However, given that the HLMs
+impose strong and implausible restrictions on the
+effects of the control variables, I am inclined to
+attach greater weight to the two-step results
+reported in the main article.
+
+. More specifically, the adjusted differences are
+
+based on the specification labeled “Model 3. Full,
+Paid Work Categories” in Table Al in the
+Appendix.
+
+. This is because significance at the 5 percent level
+
+implies that the 95 percent confidence interval
+does not include zero and vice versa.
+
+. The effect of the Gini on the rich—poor difference in
+
+men’s housework hours is the only effect that is
+consistently and substantially weaker when I use
+multiple imputation instead of listwise deletion to
+deal with missing data. See part F of the online sup-
+plement for further details.
+
+For parsimony, I present only the results for the
+household-level model with basic controls and for
+the full model with paid work categories. Results
+for other level-1 models are similar.
+
+The most favorable results for the discount hypoth-
+esis emerge when the rich-poor difference in the
+woman’s percentage share is estimated from
+household-level Model 3 and regressed on all three
+country-level predictors (i.e., Gini, automation score,
+and GEM). In this regression, the maximum effect of
+the GEM is estimated at +3.7 percentage points. At
+4.2, the standard error of this estimate is large, how-
+ever, and implies a p-value of .38 (detailed results are
+available from the author on request).
+Becker, Gary S. 1985. “Human Capital, Effort, and the
+Sexual Division of Labor.” Journal of Labor Eco-
+nomics 3:S33-S58.
+
+Bianchi, Suzanne M., Melissa A. Milkie, Liana C. Sayer,
+and John P. Robinson. 2000. “Is Anyone Doing the
+Housework? Trends in the Gender Division of
+Household Labor.” Social Forces 79:191—228.
+
+Bianchi, Suzanne M., John P. Robinson, and Melissa A.
+Milkie. 2006. Changing Rhythms of American Fam-
+ily Life. New York: Russell Sage.
+
+Bittman, Michael, Paula England, Nancy Folbre, Liana
+C. Sayer, and George Matheson. 2003. ‘When
+Does Gender Trump Money? Bargaining and Time
+in Household Work.” American Journal of Sociol-
+ogy 109:186-214.
+
+Bittman, Michael, James Mahmud Rice, and Judy Wajc-
+man. 2004. “Appliances and Their Impact: The
+Ownership of Domestic Technology and Time Spent
+on Household Work.” British Journal of Sociology
+55:401-423.
+
+Bittman, Michael and Judy Wajcman. 2000. ‘“‘The Rush
+Hour: The Character of Leisure Time and Gender
+Equity.” Social Forces 79:165-89.
+
+Blair, Sampson L. and Daniel T. Lichter. 1991. “‘Mea-
+suring the Division of Household Labor: Gender
+Segregation of Housework among American Cou-
+ples.” Journal of Family Issues 12:91—-113.
+
+Blumberg, Rae Lesser and Marion Tolbert Coleman.
+1989. ‘A Theoretical Look at the Gender Balance
+of Power in the American Couple.” Journal of Fam-
+ily Issues 10:225—S0.
+
+Brines, Julie. 1994. ‘Economic Dependency, Gender,
+and the Division of Labor at Home.” American
+Journal of Sociology 100:652-88.
+
+Bryk, Anthony S. and Stephen W. Raudenbush. 1992.
+Hierarchical Linear Models: Applications and
+Data Analysis Methods. Newbury Park, CA: Sage.
+
+Budig, Michelle J. and Paula England. 2001. “The Wage
+Penalty for Motherhood.” American Sociological
+Review 66:204-225.
+
+Cardia, Emanuela. 2009. “‘Household Technology: Was
+It the Engine of Liberation?” University of Mon-
+treal. Unpublished manuscript. Retrieved April
+24, 2010 (http://www.cireq.umontreal.ca/personnel/
+cardia_household_technology.pdf).
+
+Cavalcanti, Tiago V. and José A. Tavares. 2008.
+“Assessing the ‘Engines of Liberation’: Home
+Appliances and Female Labor Force Participation.”
+Review of Economics and Statistics 90:81—88.
+
+Cohen, Philip N. 1998. ‘‘Replacing Housework in
+the Service Economy: Gender, Class, and Race-
+Ethnicity in Service Spending.” Gender & Society
+12:219-31.
+
+Coltrane, Scott. 2000. “‘Research on Household Labor:
+Modeling and Measuring the Social Embeddedness
+of Routine Family Work.” Journal of Marriage
+and the Family 62:1208-233.
+. 1999. Social Foundations of Postindustrial
+Economies. Oxford: Oxford University Press.
+
+Euromonitor International. 2007. World Consumer
+Lifestyles Databook 2007. London: Euromonitor
+International.
+
+Evertsson, Marie and Magnus Nermo. 2004. “Depen-
+dence within Families and the Division of Labor:
+Comparing Sweden and the United States.” Journal
+of Marriage and Family 66:1272-86.
+
+Freeman, Richard B. and Ronald Schettkat. 2005. ‘“‘Mar-
+ketization of Household Production and the EU-US
+Gap in Work.” Economic Policy 20:7—S0.
+
+Fuwa, Makiko. 2004. “‘Macro-Level Gender Inequality
+and the Division of Household labor in 22 Coun-
+tries.” American Sociological Review 69:75 1-67.
+
+Geist, Claudia. 2005. “‘The Welfare State and the Home:
+Regime Differences in the Domestic Division of
+Labour.” European Sociological Review 21:23-41.
+
+Gershuny, Jonathan. 2000. Changing Times: Work and
+Leisure in Postindustrial Society. Oxford: Oxford
+University Press.
+
+, 2004. “Domestic Equipment Does Not Increase
+Domestic Work: A Response to Bittman, Rice and
+Wajcman.” British Journal of Sociology 55:425-31.
+
+Goldin, Claudia and Robert A. Margo. 1992. “The Great
+Compression: The Wage Structure in the United
+States at Mid-Century.” Quarterly Journal of Eco-
+nomics 107:1—-34.
+
+Greenstein, Theodore N. 2000. ‘Economic Dependence,
+Gender, and the Division of Labor in the Home: A
+Replication and Extension.” Journal of Marriage
+and the Family 62:322-35.
+
+Greenwood, Jeremy, Ananth Seshadri, and Mehmet
+Yorukoglu. 2005. “Engines of Liberation.” Review
+of Economic Studies 72:109-133.
+
+Gupta, Sanjiv. 2006. “‘Her Money, Her Time: Women’s
+Earnings and Their Housework Hours.” Social Sci-
+ence Research 35:975-99.
+
+. 2007. ‘Autonomy, Dependence, or Display?
+
+The Relationship between Married Women’s Earn-
+
+ings and Housework.” Journal of Marriage and
+
+Family 69:399-417.
+Gupta, Sanjiv, Marie Evertsson, Daniela Grunow, Mag-
+nus Nermo, and Liana C. Sayer. 2009. “‘Housework,
+Earnings, and Nation: A Crossnational Investigation
+of the Relationship between Women’s Earnings and
+Their Time Spent on Housework.” University of
+Massachusetts-Amherst. Unpublished manuscript.
+Retrieved June 24, 2009 (http://www.umass.edu/
+sadri/pdf/WP/WP%20Gupta%2009.pdf).
+
+Hanushek, Eric A. 1974. “Efficient Estimators for
+Regressing Regression Coefficients.” American
+Statistician 28:66-67.
+
+Hondagneu-Sotelo, Pierrette. 2001. Doméstica: Immi-
+grant Workers Cleaning and Caring in the Shadows
+of Affluence. Berkeley: University of California
+Press.
+
+Hook, Jennifer L. 2010. “Gender Inequality in the Welfare
+State: Sex Segregation in Housework, 1965-2003.”
+American Journal of Sociology 115:1480-1523.
+
+ISSP Research Group, International Social Survey Pro-
+gramme (ISSP). 2002. Family and Changing Gender
+Roles III. Distributor: GESIS Cologne, Germany,
+ZA3880. Data Version: March 2006.
+
+Iversen, Torben and Frances Rosenbluth. 2006. “The
+Political Economy of Gender: Explaining Cross-
+National Variation in the Gender Division of Labor
+and the Gender Voting Gap.” American Journal of
+Political Science 50:1—-19.
+
+Jenkins, Stephen P. and Nigel C. O’Leary. 1995. “‘Mod-
+elling Domestic Work Time.” Journal of Population
+Economics 8:265—79.
+
+Kamo, Yoshinori. 2000. ‘‘‘He Said, She Said’: Assess-
+ing Discrepancies in Husbands’ and Wives’ Reports
+on the Division of Household Labor.” Social Science
+Research 29:459-76.
+
+Kastellec, Jonathan P. and Eduardo L. Leoni. 2007.
+“Using Graphs Instead of Tables in Political Sci-
+ence.” Perspectives on Politics 5:755—71.
+
+Kenworthy, Lane. 2007. “Inequality and Sociology.”
+American Behavioral Scientist 50:584-602.
+
+Knudsen, Knud and Kari Werness. 2008. “National
+Context and Spouses Housework in 34 Countries.”
+European Sociological Review 24:97-113.
+
+Lareau, Annette. 2003. Unequal Childhoods: Class,
+Race, and Family Life. Berkeley: University of Cal-
+ifornia Press.
+
+Lewis, Jeffrey B. and Drew A. Linzer. 2005. “Estimat-
+ing Regression Models in Which the Dependent Var-
+iable Is Based on Estimates.” Political Analysis
+13:345-64.
+
+Milanovic, Branko. 2005. Worlds Apart: Measuring
+International and Global Inequality. Princeton:
+Princeton University Press.
+
+Okin, Susan Moller. 1989. Justice, Gender, and the
+Family. New York: Basic Books.
+
+Organisation for Economic Co-operation and Development
+(OECD). 2008. Growing Unequal? Income Distribu-
+tion and Poverty in OECD Countries. Paris: OECD.
+Parrefias, Rhacel S. 2001. Servants of Globalization:
+Women, Migration and Domestic Work. Stanford:
+Stanford University Press.
+
+Plutzer, Eric. 1988. “Work Life, Family-Life, and
+Women’s Support of Feminism.” American Socio-
+logical Review 53:640—-49.
+
+Ramey, Valerie A. 2009. “Time Spent in Home Produc-
+tion in the Twentieth-Century United States: New
+Estimates from Old Data.” Journal of Economic
+History 69:1-47.
+
+Robinson, John P. and Geoffrey Godbey. 1997. Time for
+Life: The Surprising Ways Americans Use Their
+Time. University Park: Pennsylvania State Univer-
+sity Press.
+
+Royston, Patrick. 2005. “Multiple Imputation of Miss-
+ing Values: Update.” Stata Journal 5:188-201.
+Spitze, Glenna. 1999. “Getting Help with Housework:
+Household Resources and Social Networks.” Jour-
+
+nal of Family Issues 20:724-45.
+
+Stier, Haya and Noah Lewin-Epstein. 2007. “Policy
+Effects on the Division of Housework.” Journal of
+Comparative Policy Analysis 9:235—59.
+
+van der Lippe, Tanja, Kea Tijdens, and Esther de
+Ruijter. 2004. “Outsourcing of Domestic Tasks and
+Jan Paul Heisig is a predoctoral researcher at the
+Social Science Research Center Berlin. In his disserta-
+tion, he studies how the welfare state shapes income
+dynamics among older individuals in the United States
+and Germany. With Johannes Giesecke, he recently
+completed a study of trends in West German job mobil-
+ity that appeared in Kélner Zeitschrift fiir Soziologie
+und Sozialpsycholgie. He continues to study the divi-
+sion of housework within the EU-funded EQUALSOC
+network.

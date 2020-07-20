@@ -1,0 +1,2826 @@
+Class Forces, Political Institutions, and State Intervention: Subnational Economic
+
+Development Policy in the United States, 1971—1990
+
+Author(s): J. Craig Jenkins, Kevin T. Leicht and Heather Wendt
+
+Source: American Journal of Sociology, Vol. 111, No. 4 (January 2006), pp. 1122-1180
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/498467
+
+Accessed: 08-06-2016 04:47 UTC
+The United States has experienced a major devolution of social and
+economic policy responsibilities to the states. Subnational industrial
+policies to create jobs and qualitative economic growth are key to
+this devolution. The authors examine the development of these pol-
+icies in terms of (1) the articulation of class interests, (2) state-level
+political institutions, (3) prior political legacies, (4) underlying pro-
+duction regimes, and (5) interactions of strong political institutions
+and class mobilization. An annual pooled cross-sectional time-series
+analysis of three state-level economic development policies (entre-
+preneurial, industrial recruitment, and labor market regulation)
+shows that in addition to business power and strong state capacities,
+the political legacies of 1930s welfare policy innovations and me-
+zocorporatist bargaining potential condition the effects of business
+power.
+retrenchment (Zylan and Soule 2000; Pierson 1994, 2000; Huber and Ste-
+phens 2001), state and local governments have adopted new proactive
+economic development policies that target favored industries in an at-
+tempt to improve tax bases, generate jobs, and stimulate economic growth
+(Eisinger 1988, 1990, 1991, 1995; Fosler 1988; Osborne 1988; Luger and
+Goldstein 1990; Hansen 1990; Schmandt and Wilson 1990; Jenkins and
+Leicht 1996; Jenkins, Leicht, and Jaynes 2006; Leicht and Jenkins 1994,
+1998; Saiz 2001a, 20016). All of these policies promote state intervention
+in the marketplace, and many of these policies constitute direct interven-
+tion as government agencies become co-investors with private enterprise
+in the creation of new technology, products, and markets.
+
+Policy researchers have neglected this growth of state-level economic
+development policy as a potentially significant arena for examining state
+policy. As Burstein and Linton (2002) show, recent studies of policy de-
+velopment have focused almost exclusively on social policy. In this anal-
+ysis, we argue that: (1) state-level economic development policies are new
+and significant developments that are worthy of study in their own right,
+and (2) recent theoretical developments that explain social policy can be
+used to account for these state-level economic development policies.
+
+We draw on the convergence of Hicks’s (1999; Hicks and Misra 1993)
+political resource theory, Amenta’s (1998; Amenta and Halfmann 2000;
+Amenta, Dunleavy, and Bernstein 1994) institutional politics theory, and
+Huber and Stephens’s (2001) power constellations theory to explain the
+adoption of these state-level economic development policies. All three
+formulations point to the joint effects of class forces and political insti-
+tutions to explain social policy. Hicks (1999) shows that working-class
+mobilization combined with centralized democratic constitutions, strong
+center/left parties, and neocorporatist institutions create and sustain gen-
+erous welfare states. Amenta (1998) finds that strong administrations and
+democratized polities mediated the effects of working- and middle-class
+movements and reformed center/left parties on state-level welfare pro-
+vision during the U.S. “Second New Deal.” In later work, Amenta and
+Halfmann (2000) argue that democratized polities combined with strong
+administrative capacities and labor unions promoted progressive sub-
+national welfare policy. Huber and Stephens (2001) focus on the political
+articulation of class interests and political institutions, showing that strong
+center/left parties, strong unions, women’s mobilization, and neocorpor-
+atist institutions interact with centralized democratic constitutions to cre-
+
+for financial assistance. The opinions and views presented in this paper are solely those
+of the authors and do not reflect those of the U.S. Census Bureau or of any of our
+sponsors. Direct correspondence to J. Craig Jenkins, Department of Sociology, 300
+Bricker Hall, 190 North Oval Mall, Ohio State University, Columbus, Ohio 43210. E-
+mail: jenkins.12@sociology.osu.edu
+ate strong welfare states that resist retrenchment. Strong welfare policies
+also depend on and reinforce underlying production regimes and inter-
+nationally competitive economies. All three perspectives argue that state
+policy is a joint product of class forces and political institutions. As Huber
+and Stephens put it: “State policy is the result of power relations in society
+mediated by political institutions” (2001, p. 13).
+
+Our analysis addresses two unanswered questions. First, how should
+this “joint product” of class forces and political institutions be understood?
+Most of this research (see Hicks and Misra 1993; Huber and Stephens
+2001; Amenta et al. 1994; Amenta 1998) treats class forces and political
+institutions as additive effects in regression models or uses qualitative
+categorical analysis (or QCA) to capture conjunctural combinations of
+class and political institutions. Yet there are additional possibilities, in-
+cluding: (1) the interaction of class forces and institutions, (2) the mediation
+of class effects by political institutions, and (3) class biases built into the
+structure of political institutions. As Hicks argues, “infraresources [i.e.,
+political institutions]. . . broadly facilitate diverse actors’ pursuits of their
+interests by empowering their actions, conditioning their use of specific
+instrumental resources or systematically operating to their advantage”
+(1999, p. 158, emphasis added). We develop below this idea that political
+institutions empower, condition, and systematically condition the effects
+of class forces.
+
+Our second question is: Can these theories developed originally to ac-
+count for social policy also explain economic policy, especially direct eco-
+nomic development intervention? Our answer to this is “yes” in that social
+policy often includes direct consideration of the economic impact of spe-
+cific measures. For example, providing more generous old-age insurance
+also affects labor market participation and the number of people paying
+employment tax. Policy makers considering social policies are often weigh-
+ing economic development outcomes as central to their decisions. Second,
+both types of policy constitute intervention in the capitalist economy and
+are therefore influenced by many of the same social and institutional
+constraints. The “class war” over social policy is often fought on the
+grounds of economic development outcomes, making the level of class
+mobilization a potential key to both policy arenas. This leads several
+researchers (e.g., Cawson 1985, 1986; Katzenstein 1984; Kenworthy 1995)
+to see the adoption of economic development policy as interdependent
+with the adoption of social policy.
+
+We begin with a brief discussion of these state-level development pol-
+icies. We then outline arguments for the joint effects of class and insti-
+tutional factors on the commitment to these policies and use pooled cross-
+sectional time-series analysis to examine relevant explanations. Examining
+subnational policy development poses distinctive analytic problems. Any
+SUBNATIONAL ECONOMIC DEVELOPMENT STRATEGIES
+
+Since the early 1970s, state governments have adopted three major strat-
+egies for promoting economic development. Entrepreneurial policies make
+the state a direct co-investor and business partner in the creation of new
+enterprises, technologies, products, and markets. Popularly called “high
+technology,” “third frontier,” and “new industrial policy,” these policies
+constitute direct intervention because the state is a co-investor in private
+enterprise, assuming an entrepreneurial role in key business decisions and
+in the financial risks of developing new technology. The goal is qualitative
+growth of high value-added production that is internationally competitive,
+brings higher returns to capital and labor, and creates quality jobs and
+tax revenues. The central policies are (1) public venture capital funds that
+invest public funds in new products and enterprises, (2) business incu-
+bators and technology research parks that provide managerial and tech-
+nical assistance along with subsidized rents and financing for new high-
+technology start-up enterprises, and (3) research and development tax
+credits for product development. Combining what Evans (1995) calls eco-
+nomic “midwifery” and “husbandry,” entrepreneurial policies require sig-
+nificant discretionary decision making to evaluate market opportunities.
+This is a long-term development approach that should require a decade
+or more to have a significant economic impact.
+
+Industrial recruitment policies provide incentives for existing enter-
+prises to invest and expand their business operations in particular loca-
+tions by lowering input production factor costs. The goal is quantitative
+growth through the relocation and expansion of existing enterprises using
+proven technology. These policies are largely rule based or nondiscre-
+tionary since they are available to all firms that meet predefined statutory
+standards but are often targeted at specific industries and sectors. They
+constitute indirect intervention because the state complements private
+financiers by providing subsidies for new investment. The key industrial
+recruitment policies are (1) financing subsidies for new plants and equip-
+ment through industrial revenue bonds, loan guarantees, and commodity
+credit corporations; (2) grants for industrial site planning and preparation;
+(3) tax exemptions for the purchase of new plants and equipment and
+industrial inventory; (4) tax incentives for job creation and industrial
+investment, including accelerated depreciation; (5) grants for worker train-
+ing and recruitment; (6) public-operated industrial parks, including do-
+nations of public lands for major plants; and (7) tax incentives for the
+development of procurement bids. Industrial recruitment policies are a
+short-term approach that optimally work within a few years to boost
+employment, production, and tax revenues.
+
+Labor market regulation policies attempt to create stability and equity
+in employment and thereby create more efficient labor markets. Wage
+and hour laws, fair employment codes, and protection for “closed shop”
+unions are argued by some to make labor markets more efficient and to
+contribute to locational quality of life (Edwards 1979). Others argue that
+these policies may also be repealed as an industrial recruitment incentive
+in an attempt to lower labor costs, a strategy that especially appeals to
+large manufacturers and smaller business in low-wage industries (Canak
+and Miller 1990). Like industrial recruitment, labor market regulation
+policies are indirect interventions because they affect the input production
+costs of firms and do not entail direct involvement in entrepreneurial
+decisions.
+
+Table 1 identifies the policies associated with each strategy. In earlier
+work (Leicht and Jenkins 1994), a confirmatory factor analysis demon-
+strated that these are distinct and coherent economic development strat-
+egies. We use the annual sums of these policies to gauge the growth of
+these strategies from 1971 to 1990 for the 48 contiguous states. Entre-
+preneurial policies grew the most rapidly, rising from .52 programs per
+state government in 1971 to 2.77 in 1990, an increase of over 400%. By
+1990, only three state governments (South Dakota, Vermont, and Wyo-
+ming) had no entrepreneurial policies. Industrial recruitment policies grew
+from a mean of 13 programs per state government in 1971 to 20 in 1990,
+a 45% increase. Starting with Mississippi’s creation of industrial revenue
+bonds in 1936 and New York’s creation of general obligation and umbrella
+loans in 1962, interstate competition has encouraged the steady growth
+of these programs. By 1990, all state governments had some industrial
+recruitment policies. Labor market regulation policies changed the least,
+increasing from a mean of 2.0 programs per state government in 1971 to
+2.3 in 1990 (a 15% increase) as nine state governments adopted fair em-
+ployment policies, five adopted minimum-wage laws, one (Colorado) abol-
+ished its minimum-wage law, and three (Colorado, Idaho, and Louisiana)
+outlawed the “closed shop” with “right-to-work” laws.”
+TABLE 1
+THREE STRATEGIES OF STATE GOVERNMENT ECONOMIC DEVELOPMENT
+
+ 
+
+ 
+
+Programs
+
+ 
+
+Entrepreneurial:
+Public venture capital funds
+Technical assistance centers
+Business incubators
+Research parks
+R&D tax credits
+Industrial recruitment:
+Industrial development bonds
+Private development credit corporation
+Revenue bond financing
+General obligation bond financing
+Loans for building, construction, equipment, and machinery
+Loan guarantees for building, construction, equipment, and machinery
+Aid for existing plant expansion
+Matching funds for city-county industrial financing
+Funds for development-related public works
+Industrial revenue bonds
+Incentives for establishing industrial plants
+Tax exemption on land-capital improvements
+Tax exemption on equipment and machinery
+Inventory tax exemption—goods in transit and manufacturing inventories
+Tax exemption on new equipment and raw materials
+Tax incentive for job creation and industrial investment
+Accelerated depreciation—industrial equipment
+State-supported training and retraining of industrial workers
+State-financed speculative building
+Free land for industry
+State- and city-owned industrial park sites
+State funding of city-county master plans
+Feasibility studies for recruitment of plants
+Recruiting and screening of industrial employees
+Training of hardcore unemployed
+Technical assistance with procurement bids
+Labor regulation:
+Minimum-wage laws
+Fair employment laws
+Absence of right-to-work laws
+CLASS FORCES AND POLITICAL INSTITUTIONS
+
+As discussed above, we draw on the emerging consensus among analysts
+of social policy that policy development is a joint product of class forces
+and political institutions. In this research, capitalist concentration, work-
+ing-class mobilization, strong center/left parties, and voter turnout com-
+bine with centralized regimes, neocorporatist institutions, and competitive
+elections to generate welfare expenditure (Hicks 1999; Huber and Ste-
+phens 2001). Amenta (1998; Amenta and Halfmann 2000; Amenta et al.
+1994) found that working- and middle-class movements combined with
+strong voting-rights protections, strong center/left parties, administrative
+powers, and reformed political parties to produce strong subnational wel-
+fare protections during the Second New Deal. This suggests a number of
+additive hypotheses about the effects of class forces and political insti-
+tutions on state-level economic development policies.
+
+A second possibility is that political institutions mediate the effects of
+class forces on policy outcomes. Bureaucratization, strong voting rights,
+and reformed political parties mediated the effects of middle- and work-
+ing-class mobilization on social welfare expenditure by state governments
+during the Second New Deal in the late 1930s (Amenta et al. 1994). Below
+we examine the possibility that various state capacities and electoral pro-
+cesses mediate the effects of class forces on state economic development
+policy. By “class forces,” we include structural power as well as mobilized
+groups.
+
+A third possibility is that political legacies (earlier policies and the class
+mobilization/institutional complexes behind them) aid class mobilization
+by magnifying their effects on subsequent policy outcomes (see Hicks 1999,
+chap. 6; Huber and Stephens 2001, chap. 5). This may take the form of
+strong path dependence as political legacies enable and constrain subse-
+quent policy development, operating as a constant cause (in Stinchcombe’s
+[1968] sense). For example, Hicks (1999, pp. 179-85) argues that imme-
+diate post-World War II center/left governments introduced welfare pol-
+icies and neocorporatist institutions that both strengthened working-class
+mobilization and contributed directly to further welfare state develop-
+ment. Or political legacies may have weaker mediated effects by pro-
+moting class mobilization, institutional development, and production re-
+gimes that have strong direct effects on policy (Huber and Stephens 2001).
+If path dependence exists, political legacies will have strong direct effects
+net of controls for contemporary class/institutional configurations. If me-
+diation exists, legacy effects should be significantly mediated by contem-
+porary class/institutional factors.
+
+A fourth possibility is that political institutions interactively combine
+with class forces to influence policy. We call this the “conjunctural” thesis
+because it requires the simultaneous combination or conjuncture of po-
+litical institutions and class forces to promote policy development. In
+Hicks’s formulation, strong political institutions operate as infraresources
+that “broadly facilitate diverse actors’ pursuit of their interests by em-
+powering their actions, conditioning their use of specific instrumental
+resources or systematically operating to their advantage” (1999, p. 158,
+emphasis added).
+
+Conditioning effects imply that political institutions enable mobilized
+classes or groups to influence policy. For example, Kitschelt (1986) argues
+that state bureaucratization provides the institutional context that allows
+the environmental movement to press for proactive policies that otherwise
+would be unlikely to be adopted. Framed in terms of regression analysis,
+conditioning effects exist when, for example, environmental mobilization
+uniquely affects policy in the presence of significant state bureaucrati-
+zation. A second example is Huber and Stephens’s (2001, pp. 72-73)
+analysis of the conditional effects of women’s labor force participation
+on welfare expenditure. Women’s labor force participation does not affect
+welfare expenditure except through the statistical interaction with left-
+party strength.
+
+A fifth possibility is that political institutions have built-in biases that
+systematically favor the interests of specific classes. The welfare state
+literature is replete with evidence that constitutional centralization reduces
+the number of veto points that business and other privileged groups use
+to block welfare development (Hicks 1999; Huber and Stephens 2001).
+The capital-dependence thesis argues that state managers are systemically
+constrained by the need to generate private investment to insure the cre-
+ation of jobs, tax revenues, and political legitimacy (Lindblom 1977; Offe
+1984; Block 1987). This leads to structural pressures to adopt probusiness
+policies. Subnational governments are especially vulnerable to capital de-
+pendence because of the high geographic mobility of sectors of capital,
+pressuring local state managers to adopt probusiness policies without di-
+rect political pressure from business (Peterson 1995; Grant 1995).
+
+In the analysis below, we operationalize conditioning effects by using
+interaction terms that combine institutions and class forces in a multiple
+regression format.’ Conditioning occurs when class organization has
+greater effect on policy in specific institutional contexts. Built-in or sys-
+tematic biases are captured by single measures that tap institutions whose
+operation favors specific classes. How do these effects translate into spe-
+cific hypotheses?
+
+Table 2 summarizes a set of hypotheses about four main determinants
+of state policy: (1) the articulation of class interests and their relative unity
+or fragmentation, (2) facilitative state structures, (3) prior political legacies,
+and (4) underlying production regimes.
+
+The articulation of class interests——Class explanations focus on the
+power and potentially opposing interests of capitalists and workers. Busi-
+ness mobilization in general should promote entrepreneurial and industrial
+recruitment policies that subsidize business investment and oppose labor
+market regulations that increase labor costs. A central issue here is the
+organization or fragmentation of capitalist interests. In general, the greater
+the business unity, the greater the pressure to adopt policies that create
+a better business climate, even if these policies impose costs on specific
+firms and industries (Useem 1984; Domhoff 2002). In state-level politics,
+business unity is created through single peak associations (Morehouse
+1981; Thomas and Hrebenar 1982), extensive business lobbying, and man-
+ufacturing concentration that reduces the costs of collective action and
+creates a core group to engage in classwide mobilization. A single-business
+peak association allows business to speak with one voice, reducing sectoral
+or “fractional” competition among business sectors. Single-business peak
+associations also attempt to represent all business sectors, including small
+and medium as well as large business. Business lobbyists typically dom-
+inate state government, constituting half to two-thirds of all lobbyists,
+controlling campaign finance and the development of most of the policy
+proposals debated by the state legislature and governor’s offices (Zeigler
+1983; Hunter, Wilson, and Brunk 1991; Gray and Lowery 1996). Jacobs
+(1987) found that manufacturing concentration contributes to lower state-
+level corporate tax rates, reflecting classwide business mobilization.
+
+Organized labor historically has been a major supporter of labor market
+regulation. Jacobs (1978) found that strong unions prevented the adoption
+of state-level “right-to-work” laws and contributed to the spread of un-
+employment insurance coverage in the 1960s. However, Form (1995)
+found that the subsequent decline of industrial unions and the growth of
+public sector unions weakened the political power of unions, which may
+reduce union influence on labor market regulation policies. Since high-
+technology firms and newly established branch plants are resistant to
+TABLE 2
+HYPOTHESES ON CLASS AND INSTITUTIONAL EFFECTS ON STATE GOVERNMENT
+DEVELOPMENT STRATEGIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Industrial Labor
+Entrepreneurial Recruitment Regulation
+Independent Variables Strategy Strategy Strategy
+
+Articulation of class interests:
+
+Single-business peak association + + -
+
+Business lobby power .. bene + + -
+
+Manufacturing concentration ........... + + -
+
+Union density ........... NS NS +
+
+Democratic Party power . - - +
+
+Southern states .......... + + -
+
+Democratic Party power x South ....... + + +
+Facilitative political institutions:
+
+Governor’s powers ....... + + +
+
+Administrative capacity ................. + + +
+
+Legislative professionalism ............. —/+ —/+ —/+
+
+Electoral competition . - + +
+
+Voter turnout ........ - + +
+
+Electoral competition turnout .......... - + +
+Policy legacies:
+
+Best-case states for welfare
+
+innovation ................ccce eee ee eee + + +
+
+Production regimes:
+
+Large manufacturing corporations . NS + +/ —-
+
+Advanced industries ............... + + +
+
+Private venture capital firms ........... - + -
+
+Corporate income tax dependence ..... + + -
+
+Deindustrialization + + -
+
+Mezocorporatism + + +
+Federal fiscal constraints:
+
+% federal transfers . - - NS
+
+% defense spending _ - NS
+strength. As an economically disadvantaged region, Southern states were
+early architects of industrial recruitment policies in the 1930s. Following
+the same logic, they should adopt the new entrepreneurial policies while
+simultaneously deregulating labor markets as an industrial recruitment
+incentive. Southern Democrats frequently have been probusiness, reflect-
+ing a political heritage of weak unions, strong business influences, and
+noncompetitive elections. This should lead to support for entrepreneurial
+and industrial recruitment policies while, at the same time, Southern Dem-
+ocrats should promote the labor market regulation policies of their tra-
+ditional labor allies.
+
+Political institutions.—State-centered theorists contend that strong
+state capacities provide state managers with the institutional tools for
+proactive interventions that expand their control over their institutional
+environments (Heclo 1974; Skocpol and Amenta 1986). Constitutional
+centralization reduces legislative veto points and increases the likelihood
+of proactive intervention. Bureaucratization provides the capacity to ad-
+minister large routine programs (such as industrial recruitment and labor
+market regulation) as well as the political insulation needed for entre-
+preneurial interventions (Katzenstein 1984; Kitschelt 1986).
+
+We examine three state government capacities: (1) the power of gov-
+ernor’s offices, (2) administrative capacity, and (3) the professionalism of
+state legislatures. Governor’s powers and administrative capacity are in-
+dicators of administrative centralization. Over the past few decades, gov-
+ernor’s offices have professionalized and developed stronger policy ca-
+pacities. Stronger constitutional powers give governors greater ability to
+block legislative vetoes and promote proactive policies (Bowman and
+Kearney 1986; Dometrius 1999), which should lead to proactive economic
+development policies. A second centralized state capacity is the bureauc-
+racy. The federal-to-state devolution of social and economic policies has
+pushed state governments to develop more rationalized administrations,
+making state agencies responsible for administering a wide range of eco-
+nomic, social, and environmental programs (Barrilleaux 1999). The
+strength of the central administration should facilitate all three economic
+development policies. State legislatures are, by comparison, more decen-
+tralized institutions with strong ties to special and local constituencies.
+More professionalized state-level legislatures mean longer sessions, better
+pay, and larger staffs, thereby strengthening policy-development capaci-
+ties (Brace and Ward 1999). Some researchers argue that more profes-
+sionalized legislatures generate more support for proactive policy. Fine-
+gold and Skocpol (1995) found that more professionalized legislatures were
+initiators of generous welfare policy during the 1920s and 1930s. But,
+given the relatively decentralized structure of legislatures, professionalism
+may only strengthen veto points and opposition to proactive policy. We
+test both propositions, as indicated in table 2.
+
+Pluralists argue that electoral competition makes elected officials more
+responsive to the median voter (Ranney 1976). Converging with class
+arguments, increased voter turnout makes middle- and working-class vot-
+ers more critical to this median voter constituency (Dye 1979). Studies
+have found that both electoral competition and voter turnout contribute
+to state government welfare expenditure (Dye 1979; Amenta 1998; Hicks
+1999; Amenta and Halfmann 2000). Since proactive economic develop-
+ment policies promise to stimulate economic growth, jobs, and employ-
+ment protection, electoral competition and voter turnout should promote
+the adoption of these policies. It is also possible (as noted above) that
+electoral competition conditions the effects of voter turnout, leading us
+to test the interaction between electoral competition and voter turnout.
+
+Prior political legacies —Cross-national studies of welfare development
+argue that prior policies and accompanying institutions and class mobi-
+lization often influence contemporary policies. As discussed above, this
+may work in a path-dependent fashion where political legacies largely fix
+subsequent policy outcomes directly (Hicks 1999), or prior political leg-
+acies may facilitate subsequent class mobilization, institutional develop-
+ment, and underlying production regimes that in turn affect policy out-
+comes (i.e., a mediation effect [Huber and Stephens 2001]). To examine
+the effects of prior political legacies in the U.S. subnational context, we
+draw on Amenta and Halfmann (2000), who classify the U.S. state gov-
+ernments based on the combination of political actors and institutions
+that contributed to progressive welfare policy in the Second New Deal
+during the late 1930s. Specifically, we examine whether state governments
+that Amenta and Halfmann (2000) define as the “best cases” for welfare
+policy development were also innovators in proactive economic devel-
+opment policy, and whether this prior political legacy contributes directly
+or is mediated in its effect on state development policy by contemporary
+class and institutional factors.
+
+Subnational production regimes.—In the cross-national context, pro-
+duction regimes are defined by the degree of economic coordination as
+opposed to arm’s-length market transactions (Huber and Stephens 2001,
+pp. 99-112). In Western Europe, working-class mobilization interacted
+with capitalist mobilization and a strong centralized state to create neo-
+corporatist bargaining that has facilitated proactive economic intervention
+(Katzenstein 1984; Kenworthy 1995) and strong welfare policies (Hicks
+1999; Huber and Stephens 2001). In the United States, a weak labor
+movement, business dominance, and a tradition of minimal economic
+coordination means that federal-level intervention is limited, and intra-
+capitalist conflicts are often key to policy development. Nonetheless, Caw-
+son (1986) contends that these conditions may also favor direct economic
+intervention at the subnational level. In our state-level analysis, we ex-
+amine three aspects of the underlying production regime: (1) the economic
+dominance of different business sectors, (2) the fiscal dependence of state
+government on corporate profits, and (3) mezocorporatist bargaining
+potential.
+
+Different sectors of business have a stake in specific development pol-
+icies. Large manufacturing corporations benefit from industrial recruit-
+ment policies while smaller agricultural and service firms usually fear
+higher taxes and wages and may oppose development subsidies for other
+business sectors. Large manufacturing corporations typically have their
+own R&D programs and are indifferent to entrepreneurial policies that
+are more useful to medium and smaller high-technology manufacturing.
+Some argue that large manufacturers are central to the political campaign
+to deregulate labor markets (Canak and Miller 1990), joining with small
+and medium-sized business to lower labor costs. In contrast, others argue
+that large corporations benefit from labor market regulations that create
+more efficient labor markets, rationalize large multistate operations, and
+boost corporate legitimacy (Edwards 1979). We test both propositions.
+
+More advanced high-technology and service sectors depend on new
+technology and should facilitate all three development strategies, includ-
+ing labor market regulations that attract talented workers and promote
+local quality of life. Less advanced industries should be more concerned
+about keeping taxes and labor costs low and should oppose both types
+of business subsidy as well as labor market regulation.
+
+Private venture capitalists are critical to the organization and effec-
+tiveness of regional development (Florida and Kenney 1991; Jenkins,
+Leicht, and Jaynes 2006). Some state governments have created public
+venture capital programs to compensate for the local lack of private ven-
+ture capital (Eisinger 1991). Private venture capitalists may also actively
+oppose entrepreneurial policies that compete with their investment activ-
+ities but favor industrial recruitment policies that complement their efforts
+to attract new industry and investment. Because of their interest in new
+business start-ups, venture capitalists should oppose labor market regu-
+lations that raise labor costs and conflict with their entrepreneurial
+ideology.
+
+The capital-dependence thesis argues that state managers are struc-
+turally dependent on private investment for the creation of jobs, tax rev-
+enues, and economic growth (Lindblom 1977; Offe 1984; Block 1987).
+This dependence is magnified at the subnational level, where the high
+geographic mobility of capital forces state and local governments to com-
+pete for private investment (Peterson 1995; Grant 1995). Capital depen-
+dence should pressure state managers to initiate entrepreneurial policies
+independently to create new enterprises, subsidize existing firms with
+industrial recruitment, and provide relocation incentives by reducing la-
+bor market regulation.
+
+We use two measures of capital dependence: (1) the fiscal dependence
+of state governments on corporate income taxes, and (2) deindustriali-
+zation, that is, the loss of high-wage manufacturing jobs (Bluestone and
+Harrison 1982). Both factors should prompt state officials to initiate en-
+trepreneurial and industrial recruitment policies independently and, as a
+recruitment tool, to deregulate labor markets.
+
+Neocorporatist theory argues that the three-way combination of cen-
+tralized capital/labor representation, strong multiclass mobilization, and
+strong state capacities facilitates direct state intervention (Katzenstein
+1984; Cawson 1985). The presence of a single encompassing peak asso-
+ciation for both capital and labor means that the leaders of these class
+sectors are likely to act as classwide representatives who invest in col-
+lective goods for their class as a whole. Centralized representation facil-
+itates negotiation, the development of interpersonal trust, and discipline
+within class sectors. A high level of multiclass mobilization creates a
+balance of class power that encourages class representatives to negotiate
+positive-sum outcomes, such as investment incentives and employment
+programs to promote economic development. At the state government
+level, this mobilization is best gauged through business and labor lobby
+representation. Strong state capacities are the third leg of the neocorpor-
+atist stool, providing the institutional tools for implementing direct in-
+tervention policies. This type of neocorporatist combination has been a
+major influence on cross-national social spending (Hicks 1999; Huber and
+Stephens 2001) and national industrial policies (Katzenstein 1984; Ken-
+worthy 1995). Several state-level studies have argued that neocorporatist
+capital/labor bargaining nurtured by strong governors and legislative
+leaders was important to the adoption of entrepreneurial policies in the
+1970s and 1980s (Osborne 1988; Ferguson and Ladd 1988; Eisinger 1988,
+pp. 286-89; Jackson 1988; Hill and Negrey 1985; Brace 1993; Bartsch
+1985; Brace 1993; Osborne 1988). Gray and Lowery (1990) found that
+state-level neocorporatist bargaining contributed to industrial recruitment
+policies, and, in earlier work (Jenkins and Leicht 1996; Leicht and Jenkins
+1998), we found that neocorporatist bargaining potential contributes to
+the adoption of public venture capital programs.
+
+Why should neocorporatist bargaining be relevant at the subnational
+level, especially in a decentralized “pluralistic” state such as the United
+States? Cawson (1986) argues that decentralized institutions and a weak
+labor movement discourage direct federal-level state intervention. But at
+the subnational level, favorable institutions and class mobilization make
+neocorporatist bargaining and direct intervention an appealing response
+to the competition for local investment. In the United States, state gov-
+ernments also have a long experience with supply-side economic inter-
+vention, providing public higher education and employment services and
+administering social-welfare programs. Mezocorporatist institutions
+should facilitate both direct and indirect intervention. We operationalize
+state-level mezocorporatism as a three-way interaction combining: (1) a
+single peak association for both capital and labor, (2) the political mo-
+bilization of capital and labor, and (3) strong state capacities.
+
+Controls for federal fiscal constraints.—We also control for changing
+federal fiscal constraints that have been linked to state-level development
+policies. Eisinger (1988, pp. 67-68) argues that the reduction of federal
+transfer payments in this period stimulated the adoption of the new en-
+trepreneurial and industrial recruitment policies. Defense spending has
+also functioned in the past as a type of regional industrial policy (Hooks
+and Bloomquist 1992). Since this period witnessed a major reduction in
+defense spending, the loss of federal defense spending may have spurred
+states to adopt new entrepreneurial and industrial recruitment policies.
+(see Greene 1998, p. 419; 2000, p. 617). Inspection of Durbin-Watson
+statistics, additional autoregressive terms (up to the fifth order), and com-
+parison of results with three single-equation models using error compo-
+nents suggests that this estimation technique produces the best and most
+conservative results.
+
+Dependent variables: measuring policy strategies —To gauge these pol-
+icy strategies, we use the annual sum of policies adopted by each state
+government for each of the three economic development strategies starting
+in 1971 and concluding in 1990.° Drawing on prior literature (including
+our earlier confirmatory factor analysis [Leicht and Jenkins 1994]), we
+classify these programs as entrepreneurial, industrial recruitment, and
+labor market regulation (see table 1). The entrepreneurial index is the
+annual sum of five programs, the industrial recruitment index is the an-
+nual sum of 26 programs, and labor market regulation is the annual sum
+of three programs. These measures gauge the adoption of particular strat-
+egies as states elect to adopt specific programs out of the total matrix of
+policy choices. This method is best for capturing policy adoption and
+allows us to gauge the simultaneous adoption of multiple strategies. We
+focus on 1971-90 because this is a critical period for the adoption of state-
+level economic development policy and is the longest period for which
+complete data on all these economic development policies are currently
+available.’
+
+Annual measures of specific policies come from the Minnesota De-
+partment of Trade and Economic Development report State Technology
+Programs in the United States (1988), the National Association of State
+Development Agencies’ Directory of Incentives for Business Investment
+and Development in the United States (1981, 1986, 1991), Eisinger (1988,
+1991), Conway Data’s Site Selection and Industrial Development Hand-
+book (1971-90), and our own telephone survey of state government de-
+velopment agencies (available from the authors).
+
+Measuring independent variables.—Table 3 provides details on our in-
+dependent measures. Several of our measures have been used in previous
+studies so we only discuss in detail those that are novel or that require
+special justification. All are annualized except as constrained by data
+availability as noted in table 3. Class theory points to the importance of
+both business and working/middle-class mobilization. Classwide business
+Presence of single-business peak association (authors’
+phone survey; Morehouse 1981; Thomas and Hre-
+benar 1982; mean=.21, SD=.40)
+
+Business lobbyists as % registered lobbyists (Hunter,
+Wilson, and Brunk 1991; mean=55.50, SD= 10.78)
+
+% manufacturing workers employed by enterprises
+with 1,000+ workers (U.S. Dept. of Commerce
+1971-9la; mean=7.96, SD=3.21)
+
+Union density based on membership in manufacturing/
+total workers and total union membership/total
+workers (U.S. Dept. of Commerce 1971-914; union
+density mean = 20.77, SD =8.22)
+
+% state legislature Democratic + margin (win/loss) of
+Democratic governor’s candidate in most recent
+election (U.S. Dept. of Commerce 1971—91a;
+mean =61.53, SD=18.91)
+
+12 states of the Confederacy (mean =.25, SD=.43)
+mobilization is gauged by three measures. The first is the presence of a
+single-business peak association. Three states have no business peak as-
+sociation, and almost half have two or more, a sign of weakened intra-
+business unity. We use a dummy variable to represent a single-business
+peak association (1) in comparison to states with no or multiple business
+peak associations (0). Our second indicator is a measure of business lob-
+byists as a percentage of all state lobbyists, which captures the relative
+dominance of business among state lobbyists, and the third is a measure
+of manufacturing concentration. Manufacturing concentration reduces
+free-rider problems and should facilitate business unity. Working-class
+strength is gauged by two measures: (1) industrial union density based
+on manufacturing union membership as a percentage of manufacturing
+jobs, and (2) general union density (i.e., union membership as a percentage
+of total state labor force). The first measure taps the strength of the
+industrial unions that have been the backbone of progressive unionism,
+and the second measure taps the overall strength of the union movement.
+To capture the “democratic class struggle,” we use Democratic Party
+strength based on the percentage of state legislators who are Democrats
+plus the popular voting margin (percentage plus or minus) for the Dem-
+ocratic candidate for governor in the most recent statewide election.
+Southern states are defined as the 12 states of the former Confederacy
+(yes = 1, all other states = 0).
+
+Political institutions include institutional actors with an interest in par-
+ticular policies and conditioning and empowering contexts for the intro-
+duction of policies. We use the constitutional powers of the governor’s
+office to measure governor’s powers because these constitutional powers
+represent the centralized resources controlled by governors and their abil-
+ity to block legislative vetoes. Administrative capacity is measured by the
+mean of the Z-scores for welfare spending per capita and total state rev-
+enue per capita. This measures a state’s policy heritage of proactive social
+welfare intervention and the total financial resources available to state
+government. Legislative professionalism is measured as the mean of the
+Z-scores for legislative salaries and the length of legislative sessions. Better
+salaries and longer sessions are indicators of greater legislative resources.
+Because of the decentralized structure of state legislatures, this measure
+taps a decentralized state capacity. Electoral competition is measured by
+the Ranney index (1976) which uses the margin of electoral victory in the
+most immediate statewide election. Closer margins of victory indicate
+greater interparty competition. Voter turnout is measured using the per-
+centage of eligible voters who voted in the most recent statewide election.
+Empowering and conditioning effects of these institutional conditions on
+class mobilization are measured by interaction terms that combine specific
+class resources with institutional conditions.
+
+As noted above, we measure prior policy legacies with a dummy var-
+iable (yes = 1, no = 0) representing the states that Amenta and Halfmann
+(2000, p. 516) identify as the best cases for the adoption of strong welfare
+policies in the Second New Deal.* These were strongly democratized states
+with strong institutional protections for voting rights, reformed parties,
+left or center/left party control, strong administrative capacities, and a
+mobilized labor movement. Following the idea of path dependence, these
+conditions may have directly facilitated the adoption of state economic
+development policies or indirectly worked by producing a political context
+that is favorable to later policy innovations.
+
+To capture underlying production regimes, we use three measures of
+capitalist sectors: (1) large manufacturing corporations based on the num-
+ber of Fortune 500 manufacturing headquarters, (2) advanced industry
+as measured by the percentage of the state labor force in the service sector
+of the economy,’ and (3) the number of private venture capital corpora-
+tions. All three tap the structural and direct influence of specific industrial
+sectors with a stake in particular development policies.
+
+The underlying production regime is also reflected in structural con-
+straints: (1) fiscal dependence on corporate income taxes, measured by
+corporate income taxes as a percentage of total state revenues; (2) dein-
+dustrialization, measured as the average annual change in manufacturing
+employment as a percentage of total employment (reverse coded so that
+states losing the most manufacturing employment receive the highest
+scores on this measure); and (3) the potential for mezocorporatist
+bargaining.
+
+To measure mezocorporatist bargaining potential, we use a three-way
+interaction between: (1) encompassing centralized capital/labor represen-
+tation based on the copresence of a single peak association for both capital
+and labor (state governments with the copresence of a single peak asso-
+ciation for both capital and labor = 1, all others = 0), (2) capital/labor
+mobilization based on the density of business and labor lobbyists (i.e.,
+business lobbyists + union lobbyists divided by the total state population),
+and (3) one of the three state capacity terms—governor’s powers, legis-
+lative professionalism, or administrative capacity (as defined above). The
+first component compares states with only one encompassing peak as-
+sociation for business and one peak association for unions (coded “1”) to
+states with no peak association for either business or labor or states with
+multiple peak associations for either business or labor (coded “0”).'° The
+second component measures business/labor lobbying pressure on state
+legislators. Our full model includes the additive effects of the three com-
+ponents of the mezocorporatist interaction, the three two-way interactions
+between the three measures, and the three-way interaction representing
+mezocorporatist bargaining institutions.
+
+We arithmetically center all three measures on their means to reduce
+multicollinearity (Aiken and West 1991, pp. 32-35). The mezocorporatist
+thesis contends that it is the simultaneous conjuncture of all three factors
+that facilitates direct and indirect intervention. The critical question is
+whether the three-way mezocorporatism terms are statistically significant
+net of all main effects, including all two-way terms (see Jaccard et al.
+1990, pp. 40-42; Aiken and West 1991, chap. 2). In view of the long-
+running debate over the interpretability of lower-order terms in a three-
+way interaction equation (Hays [1963] argues against, Jaccard et al. [1990,
+p. 14] and Aiken and West [1991, pp. 32-35] argue for), we do not interpret
+these lower-order terms. To corroborate our results, we also test an al-
+ternative two-way interaction measure of mezocorporatism, obtaining
+similar results which we present below.
+
+Finally, we measure and control for federal fiscal constraints: (1) federal
+transfers as a percentage of the state budget (lagged one year), and (2)
+total defense spending per capita in each state (lagged one year). Negative
+changes in these should spur state managers to adopt new policies to
+stimulate private investment.
+(STO’) (rT0°) (STO’) (sto) (sto)
+sex £90" sexe SO" sexe P90" sex690' e980" . coe crete srrssss saamod $,1OUIIA0T)
+(900°) (900°) (900°) (900°) (900°)
+xb T0° PTO" PTO" S00" LOO— tts qamod AVIeg IeIDOWIAG] x SayeIs W1ByYINOG
+(8b) (48b') (pr) (26v') (z08')
+9¢r — sh — oos'— 17 xf90'T (T=) sayeys uraynos
+(00°) (00°) (00°) (00°) (00°) (¢00")
+aexOT0" — $00°— sex600'— seek OTO'— — sesexOTO" — Z00'— . coe crete “ gamod Aqieg sye1I0WIB,
+(810°) (00°) (00°) (00°) (00°) (200°)
+T00"— £00'— T00"— TOO — TOO — Z00" * Aysuap uotu_.
+(810') (810°) (810°) (410°) (sto’) (STO)
+100° 1z0'— 400'— Z10° zo — TOO ttt tenssstneesscec ees vorerjuaou0) SuLNyeyNUe|A,
+(00°) (00°) (s00")
+sete 9TO" sea 9TO" 010" : ve verses “1 gamod Aqqo] ssauisng
+(80°) (p80') (880°)
+601" SLO’ exe OOE” uoneDosse yeod ssautsnq-a[suls
+(s9r’) (91) (oLT) (zsT’) (br) (9ST) (ost)
+seal S” seer LQ" see PED” ELE kek BOS ake DOO ake SOS” UOHCAOUUT IIVJ[AM OF OFTBUIIS aSeI-{S9q
+(410°) (410°) (410°) (410°) (810°) (610°) (610°)
+820° $70" +20" 120" Lt reo" pEQ eters see seeseeeeeeses sess Burpuads asuayop %
+(910°) (910°) (910°) (910°) (ST0’) (Z10) (110)
+eee SET aeeab pT — weeaVET — cee BET —  seexOLT — aeek697— sek OBT reese sseseess siaysuesy [elapay %
+(or0’) (4€0°) (6£0°) (oro’) (T¢0") (z¢0") (o¢0")
+wee 8ST" see 06 1" nf wee SET S60" eee ED ead ZD srs Ayrunrxord ory deszoary
+of PPO +9 PPO oS PPO PPP = PPO = ZPPON I PPO saqqeie A quapuadepuy
+syeuOIssajog. == :Aoedeg, :Sypedeg
+aanesi8ay = aANeNsTUTUpy aanensturupy
+
+ 
+
+ 
+
+SNOLLVONOY ‘IWIAAINAATALNY ‘SAIOALVALS LNAWdOTAAT OIWONOOY AO SISAIVNY WAS
+
+v ATAVL
+(pL7")
+aesexOPO'T —
+(r£0°)
+610°
+(r00")
+seaex PLO"
+(£00")
+ater ETO"
+(z00")
+£00°—
+(€10°)
+eae LPO"
+(200°)
+100"
+(z00")
+100°
+(000°)
+sex 100°
+(0z0")
+£70"
+(120")
+sexo DET
+TOO > sesee
+
+TO> dx
+
+$989} Payte}-O.mn} “SO'> dx
+“pazajuas are sarqunrea Sunoesoquy ,
+
+096 = N ‘SYS are sasayyuared ur ‘sou ‘syua1yJaoo uoIssaiZa1 pazipIepUueysuU) — "ALON
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+€8'T rT 78 Sst 261 06'T LOT wos}eMy-UIqing
+
+980° 840° 880° 940° 6£0° zs0" +10" oud
+
+ss" ose" ose" 098° se" Les" £78" “ay paysnipy
+«L PPO .9 PPO $ [Ppop PPPON € PPO ZPPOW 1 PPO solquie, juapuadapuy
+
+ 
+
+SIRUOTSSIOIg Soedeg qpedeg
+
+aanysiza] = aAT}eYSTUTpY eanexsturupy
+
+ 
+
+ 
+
+(panurquod) b ATAVL
+sks BOL” seaeeOL 0° ses LOE see OTL” see EOE nn nnn nnn cen cece eeeeeeeees sdamod $,10ud1aA0r)
+($z0") (sz0’) (sz0') (pZ0") (920°)
+970° 970" 870" z00° SEO— damod Ayreg IeAIOUIAG] x Saye}s UIBYINS
+(00°2) (10°2) (66°T) (86°T) (66°T)
+TLp— c6L— Ore’ — 199° 8897 (T=) saqeys wrayynog
+(210°) (I10°) (Z10) (210°) (210°) (210°)
+*970°— 810° — xb 70° — 070° — sek CLO" — 610° — * yamod Ayreg s1yRID0WII,
+(110°) (O10’) (110) (110) (110) (110°)
+110" 800° 710° 710° O10" 610" + Aqisuap uormg
+(p40°) (2L0°) (rL0°) (690°) (£80) (60)
+sea OVC" ara LOC ae EET aK PBT abl ce UoryeI}UIUOD SULINJoeINUEA,
+(610) (610) (610°)
+80" tee Z90" xe 7 SO" vette ++ gamod Aqqoy ssoursng
+(Lee) (Lee) (ese’)
+Ist’ eo" S96" uonReDosse yead ssautsnq-a[suls
+(904°) (204°) (eTZ) (z¢9') (¢09') (¢¢9") (809°)
+aeaex TTT S$ — aeaex ET S— sea SOTS— exe SLOS— eax € bh P—  acexb PS P- exxOOLb— UOTPAOUUL aTey[aM JOJ OLTEUaIS aseo-[saq_
+(140°) (140°) (140) (140°) (240°) (940°) (940°)
+87r sev Lev sIv Ler #f9T" Lev crete “o'* Surpuads asuayap %
+(490°) (990°) (490°) (090°) (290°) (80°) (s¢0')
+aeaex BEL — sex OSE — see ODE — sea TSE — sea SP — HAVES — eee OPB— eee eee eeeses STOJSUBI] [BIOPI %
+(210) (110°) (Z10°) (210°) (010) (110°) (110)
+x0€0" ee € £0" LZ" 810° 400° +10" ETO ree sssesse sess ecs Ayrurxoid s1yde130a5)
+vf PPOW v9 PPO eS PPO > PPO € PPoW 7 PPOW T Ppow saTqeueA Juapuadapuy
+syeuorssajorg §—-oedeg ypedeg
+
+aanysio] = aanjeaysutpy oanenstunupy
+
+ 
+
+ 
+
+SNOILVNOY LNANLINMOAY TVIALSAGNY :SAIOALVALS LNANdOTIAT OINONOOY JO SISATVNY WAS
+
+S$ ATaVL
+(p21) (PD) (UD
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+  
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$89" 96° T— x9 7— “++ <ysuap Aqqo] uorun pur ssouisng
+(gs¢") (6r¢") (oze—)
+ole 9L0°— 901° — suoljersosse yeod uolun pure ssouisng
+(€10°) (€10°) (€10) (€10°)
+$70" x ZE0" 820° $20" coe crete sss Gone zITeLysnpurad
+(€10") (€10") (€10°) (£10)
+600° 7c10" O10” Oto" * gouapuodap xe} au0DUT 9yv10d.10,)
+(400°) (400°) (400°) (400°)
+%L10° z10° £10" £10" sway jeydes ainquea ayeanig
+(sso") (Zs0") (sso’) (rs0")
+aK BET” sex POT” see E TO seer [PZ arn arn vosss Sjsnpul pasueapy
+(210°) (210°) (Z10°) (210°)
+7Z0'— 0z0°— 810° — Plo — suoryeiodio) SutmyeynuvuU ss1e'T
+(400°) (400°) (400°) (400°) (400°)
+aC 70" aC 70" ak 770" ack ZO" a8 ZO" MOUAN} 13}0A,
+(810°) (ST0’) (z00") (200°) (200°)
+100° 100° T00"— 100" TOO treet teeeeesnacereneacess uoneduios pe10199[q
+(sor’) (180°) (180°) (180°) (920°)
+9£0° srl — orl’ — ser — 900° — UIST[RUOTSSaFOId JATLISIBI'T
+(p80°) (980°) (980°) (€80°) (40°)
+sree STE” ee OSE” ee OSE” se 08" eae LSP" Aypoedes aaryerysturupy
+(190°) (090°) (190) (190°) (090°)
+ef PPO 29 PPO »§ [PON + [PPO €PPOW = Z PPO TPO. sarqeue, quopuadapuy
+syeuoIssajoig. = :AoRdeg) :Aypedeg
+
+aanysiza] = aAT}eYSTUTpY eanexsturupy
+
+ 
+
+ 
+
+(panurquod) § ATAVL
+(096 = NSS ame sasoyjuozed ut *
+
+TOO >d sie
+TO>d sxx
+
+“sqSa} paywes-omy “SO >d x
+
+“parajuad are sajquurea SuyowiaqUy ,
+
+ou ‘squaroyyooo uolssouZ04 pazipaepurysu — “ALON
+
+ 
+
+ 
+
+SLT
+WT
+Ors"
+(L271)
+#EST
+(919°)
+x9 LT
+(s81’)
+ae STO"
+
+SLT
+sor"
+ers"
+(809°)
+#08'T
+(sre)
+67l"
+(ror)
+est”
+
+set
+7
+ers
+(619")
+9L0'T
+(ure)
+090°
+(sor)
+Tel
+
+set
+60r°
+srs
+
+Os'T
+cor
+rs
+
+  
+
+ 
+
+7ST 7oT vere cress ss UOsye A -UIGIN
+160° seo" oud
+cs ors" “ly pasn{py
+
+ 
+
+wisryesod1090z9 yA,
+
+ 
+
++++ sapoedes ayeys x ApIsuap Aqqo] UoruNyssauIsng
+
+ 
+
+sanroedes
+
+nO
+(800°) (800°) (800°) (408') (800°)
+O10" 900° 110" Z10" 600° : ve ve vos saaatod $,10uraA05)
+(£00") (£00") (£00") (£00") (F00")
+600° 4600" K010" 900° 900 trees: Jomod Ayreg MNesD0WAC] x sayeys UIOYIMOS
+(992') (¢92') (68z') (292') (1sz’)
+sip — 6sb— 96r — sgz— gse— (T=) soqeys WiayNog
+(200°) (100°) (200°) (200°) (200°) (t00")
+100"— 100° 100° z00°— z00'— x £00"— : ve ve  gamod Aug seD0WIEg
+(100°) (100°) (100°) (100") (100") (100°)
+100°— 100°— 100" — 100" — 100" — 100" — * Ayisuap uoruy,
+(o10') (o10') (o10’) (600°) (400°) (400°)
+see £0" e720" see TL" sete £0" $00" TOO ert tttttenttsrssssssesssces woresquaoUOD SuLANJovINUL TAL
+(£00°) (£00°) (200°)
+seeeb TO soe ® TO" sexe T0" : ve ve  gamod Aqqoy ssoutsng
+(40°) (40°) (sb0")
+see @8T xa ®ST— eae O2D worerosse yeod ssautsnq-a[3UIS
+(r60") (s60°) (960°) (s80°) (280°) (280°) (820°)
+see LL — seek SP we O9P — seal 97 — 160'— +60'— 860°— UOHPAOUUL ateJ[aA IOJ OLeUAIS asvI-~qsag_
+(o10’) (600°) (600°) (600°) (600°) (600°) (oto)
+800°— +00°— +00°— £00°— 800° — 400° — POO rns senses Burpuads asuajap %
+(600°) (600°) (600°) (600°) (800°) (900°) (900°)
+T10°— e10'— o10'— 900° — see ZO— sess PO — sere b@O seen ses sence sroJsuery [e19pay %
+(zz0') (020°) (2z0') (220) (120°) (0z0") (810°)
+790° so" SSO" sence ZT aes OT — seseaeST TD seaeQZQ" Terres eeeeeeceess Ayunrxord otydess0a4)
+vf PPOW v9 PPO eS PPO + PPO £ PPOW 7 PPOW T PPOW saqetzeA, Juapuadapuy
+syeuorssajorg. = _:Aqovdeg :Aypedeg
+
+aanelsiBa]
+
+aanessIUIMpy aAneysturmpy
+
+ 
+
+ 
+
+SNOLLVNOY NOILVINDAY AOAV’] :‘SAIOALVALS LNAWAOTIAT OUNONODY AO SISATVNY WAS
+
+9 ATAVL
+(sor’)
+seed DS"
+(Lb0')
+$70"
+(z00")
+£00°—
+(z00")
+100°—
+(100")
+skske 00° —
+(400°)
+sex O £0"
+(z00")
+100°
+(100")
+100°
+(z000°)
+100° —
+(10°)
+600°—
+(L10")
+200°
+TOO > sesee
+
+TO> dx
+
+$989} Payte}-O.mn} “SO'> dx
+“pazajuas are sarqunrea Sunoesoquy ,
+
+096 = N ‘SYS are sasayyuared ur ‘sou ‘syua1yJaoo uoIssaiZa1 pazipIepUueysuU) — "ALON
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+I8'T 06'T Sst T6T 86 66T 66T wosyeqy -urq.inq
+$60" 750" PLO Lr" 110" £00" 200° oud
+178" ze" res" ses’ 17s" 78" 618" yy paisn{py
+
+ol PPO 69 PPO S POW. + PPO =F PPO = ZPPON TT PPOW s9qeise, Juepuadepuy
+
+ 
+
+SIRUOTSSIOIg Soedeg qpedeg
+
+aanysiza] = aAT}eYSTUTpY eanexsturupy
+
+ 
+
+ 
+
+(panuiquod) 9 ATAVL
+in parallel so that model 1 in each table includes the control variables
+and the political legacy effect on the three strategies, model 2 adds the
+class variables, model 3 adds political institutions, and models 4-7 add
+the underlying production regime, including mezocorporatism. We or-
+ganize this discussion by theory bloc, tracing the effects of various var-
+iables across the three policy strategies.
+
+Model 1 shows that reduced federal transfer payments pressured states
+to be proactive across all three strategies, supporting Eisinger’s (1988, pp.
+87-89) contention that the “new federalism” was an important impetus
+to development policy innovation. Significantly, this extends to labor mar-
+ket regulation, suggesting this devolution of responsibilities has extended
+beyond providing business subsidies to creating more rationalized labor
+markets. The political legacy of a best-case scenario for welfare innovation
+in the 1930s also contributes to entrepreneurial policy but works against
+industrial recruitment and has no effect on labor market regulation policy.
+With respect to direct intervention, this indicates significant continuity
+across several decades. This same legacy, however, discourages industrial
+recruitment policies, which is contrary to our prediction. This suggests
+that a high level of democratization, administrative capacity, and strong
+unions during this earlier period created a political legacy that discourages
+this type of indirect business subsidy. These states favor direct entrepre-
+neurial policies to create new high-technology industry but shun indirect
+industrial recruitment. Defense spending is never significant in any of
+these equations, indicating state governments are not responding signif-
+icantly to the loss and regional shifts in defense spending through the
+adoption of new economic development policies.
+
+Model 2 adds the class factors, showing that unified business peak
+associations promote entrepreneurial and industrial recruitment but dis-
+courage labor market regulation policy. These results support the argu-
+ment that business unity promotes business subsidies. It also indicates
+that single-business peak associations are attempting to balance the in-
+terests of various business sectors by working against labor market reg-
+ulation. Stronger business lobbies favor all three policies, indicating gen-
+eral business support for business subsidies and the perceived benefits of
+rationalized labor markets. Greater manufacturing concentration also pro-
+motes industrial recruitment and labor market regulation policy, further
+reinforcing the conclusion that business unity favors labor market regu-
+lation. The discrepancy between the single-business peak association effect
+and the two other business unity measures is probably the result of the
+political constraints on single-business peak associations that balance the
+interests of small and medium-sized business against big business.
+
+Union density is never statistically significant in predicting any of these
+policies, including labor market regulation. Tests of the alternative mea-
+sure for union density in manufacturing produced similar results. Given
+that unions were crucial for promoting labor market regulation prior to
+World War II and during the 1950s and 1960s (Jacobs 1978), this suggests
+that union decline has blunted the ability of unions to influence state-
+level economic policy. Labor regulation policy is also not affected by the
+best-case scenario, which was based in part on strong unions in the 1930s.
+This suggests significant discontinuity between the strength of the union
+movement in the 1930s and our period. While 1930s labor strength may
+have been a favorable political legacy for stimulating entrepreneurial pol-
+icy, it did not promote sustained political support for labor market reg-
+ulation in our period.
+
+As predicted, Democratic Party power discourages entrepreneurial and
+industrial recruitment policy, pointing toward a partisan division over
+these policies. Republicans favor business subsidies while Democrats gen-
+erally oppose these policies. However, Democratic Party power negatively
+affects labor market regulation (model 2), suggesting a reversal of tra-
+ditional partisan stances toward this issue.'' In the fuller models 4 and
+5, a regional split over entrepreneurial policy helps explain this result.
+Democratic Party strength in the South positively affects entrepreneurial
+as well as labor market regulation policy, appealing to both labor allies
+and probusiness conservatism. Northern Democrats are no longer major
+players in this contemporary policy battle that is being waged by Southern
+Democrats with sufficient power to be influential.
+
+Model 3 controls for political institutions, showing that governor’s pow-
+ers affect entrepreneurial and industrial recruitment policies, and that
+administrative capacity promotes all three policies. Professionalized leg-
+islatures have mixed effects, promoting entrepreneurial policy but limiting
+labor market regulation. Electoral competition encourages state govern-
+ments to use business subsidies to attract new private investment and to
+roll back labor market regulation in a bid to attract new industry. In-
+creased voter turnout promotes industrial recruitment and labor market
+regulation policy as well. We also tested the interaction between electoral
+competition and voter turnout, but the interaction term is not statistically
+significant (results not shown but available from the authors). Adding
+political institutions eliminates the significance of the single-business peak
+associations on entrepreneurial and industrial recruitment policy as well
+as the “South” effect on entrepreneurial policy. This suggests that the
+business peak association and South effects are the result of broader in-
+stitutional differences across the states.
+Model 4 adds controls for the underlying production regime, showing
+that the presence of advanced industry promotes all three types of inter-
+vention. Fiscal dependence on corporate taxes is a key impetus for en-
+trepreneurial policy, underscoring the importance of creating new industry
+to these state governments. Industrial recruitment policy, in contrast, en-
+tails a trade-off in which firms often are granted waivers on taxes that
+may discourage state managers from pursuing this option. Deindustrial-
+ization prompts state governments to adopt entrepreneurial and industrial
+recruitment policies, but it is negatively associated with labor market
+regulation policies. This result suggests that manufacturing job loss
+spurred state governments to reduce labor market regulation in a bid for
+new investment. Private venture capitalists are associated with more in-
+dustrial recruitment policy and rollbacks in labor market regulation, both
+of which reinforce their business operations.
+
+In these models, the production regime mediates the positive effect of
+professional legislatures on entrepreneurial policy and the positive effects
+of administrative capacity and voter turnout on labor market regulation
+policy. Controlling for the production regime reveals the above-mentioned
+effects of manufacturing concentration and Southern Democratic Party
+strength on labor market regulation policy. It also reveals a significant
+negative effect of electoral competition, suggesting that, contrary to our
+prediction, competitive elections actually weaken support for labor market
+regulation. This is compatible with the idea that union decline has weak-
+ened electoral support for workers’ rights.
+
+Models 5-7 control for mezocorporatism, first using the administrative
+capacity measure and then legislative professionalism as components. Be-
+cause of multicollinearity, the single-business peak and the business lobby
+power measures are removed from these equations.” Both forms of me-
+zocorporatism contribute to all three policies. Because of multicollinearity
+between the administrative-based mezocorporatism measure and the
+Southern Democratic power interaction, the three-way interaction is not
+significant in model 5 for entrepreneurial and industrial recruitment pol-
+icies. Once the Southern Democratic power interaction is removed (model
+6), mezocorporatism significantly affects both policies. We also examined
+governor’s powers as a component of mezocorporatism, but this measure
+never reached statistical significance.
+
+Graphing mezocorporatism.—To further specify the relationship be-
+tween class actors, political institutions, and economic development policy
+we examined the effects of state administrative capacity and legislative
+professionalism across different values of our measures of peak association
+and lobbying activity, the main class-based components of mezocorpo-
+ratism. These results are presented in figures 1-5. We center the dependent
+variable in these graphs to ease interpretation.
+
+Figures 1-3 examine the effects of different values of administrative
+capacity as a measure of political institutions for high (1 SD or greater
+above the mean) and low (—1 SD or more below the mean) values of
+lobby density and peak association presence. Looking at the results for
+entrepreneurial and industrial recruitment policy, the results suggest that
+the presence of mobilized class actors for business and labor in the absence
+of facilitative political institutions is especially detrimental for the adop-
+tion of these economic development policies. In the presence of mobilized
+class actors, increases in administrative capacity from one standard de-
+viation below (around the twentieth percentile) to one standard deviation
+above the mean (around the eightieth percentile) moves entrepreneurial
+policy one-half a standard deviation upward. If the range is extended to
+the ninetieth percentile of state administrative capacity, the change in
+entrepreneurial policy is almost two-thirds of a standard deviation.
+
+In figure 2, the same can be said for the effects of administrative ca-
+pacity in the presence of mobilized class actors—mobilized actors in states
+with relatively limited administrative capacity have industrial recruitment
+policies approximately one-half a standard deviation below the mean.
+This value approaches the mean as state administrative capacity reaches
+its eightieth percentile value. Taken together, these results suggest that
+state administrative capacities have strong conditioning effects on the
+adoption of entrepreneurial and industrial recruitment policies and are
+especially helpful at channeling the activities of mobilized class actors
+toward these policies.
+
+The remaining figures tell a different story regarding the effects of
+mezocorporatist bargaining institutions on economic development poli-
+cies. In figure 3, state administrative capacities are central to the adoption
+of labor regulation policies in contexts with mobilized class actors. The
+movement from one standard deviation below the mean on state admin-
+istrative capacity to one standard deviation above increases commitment
+to labor regulation policies by two-thirds of a standard deviation, and the
+predicted commitment to industrial recruitment policy surpasses the com-
+mitment by states without mobilized class actors with mean levels of
+administrative capacity. This is much the same as the effects of legislative
+professionalism on industrial recruitment policies in the mobilized class
+actor context (fig. 4). Above the median score for legislative profession-
+alism, commitment to industrial recruitment policy moves drastically up-
+ward, almost an entire standard deviation. Commitments to industrial
+recruitment and labor market regulation policies are dramatically im-
+proved by strong political institutions that facilitate and channel the ac-
+tivities of mobilized class actors.
+
+Figure 5 examines the effects of different values of legislative profes-
+sionalism on labor regulation policy for high and low values of lobby
+density and peak association activity. Here, mobilized class actors are an
+important facilitator of commitment to labor market regulation policies,
+and professionalized legislatures enhance this commitment further. In the
+absence of these actors, political institutions have little or no influence on
+labor regulation policies.
+
+These figures suggest that the activities of mobilized class actors are
+conditioned by state-level political institutions, thereby promoting eco-
+nomic development policies. Where these institutions are weaker, class
+effects are significantly less. For entrepreneurial policy, political institu-
+tions (especially state administrative capacity) have important indepen-
+dent effects on policy commitment and play a role in steering mobilized
+class actors.
+
+Conditioning effects —To evaluate whether state capacities condition
+the effects of class variables on economic development initiatives, we
+center our predictors on their means and test a comprehensive set of 90
+interactions between the 10 class mobilization/production regime variables
+and the three state capacity variables. We add these interactions separately
+to model 4, tables 4-6. To save space, tables 7, 8, and 9 present only the
+statistically significant interactions along with their main effects. All other
+interactions were not statistically significant. Overall, almost one-third
+(29) of these interactions are statistically significant, indicating that state
+capacities are important contexts for interpreting class effects.
+
+Of the 29 statistically significant interactions, 10 enhance state com-
+mitment to specific economic development policies, and 19 reduce these
+commitments. The class variables that are the most sensitive to their state
+capacity contexts are business lobby power (where six of the nine potential
+interaction terms are statistically significant), Democratic vs. Republican
+Party power (where five of the nine potential interaction terms are sta-
+tistically significant), advanced industry (where five of the nine potential
+interaction terms are statistically significant), and manufacturing concen-
+tration (where four of the nine potential interaction terms were statistically
+significant). All three state capacities modify class effects, but the policy
+input institutions (governors and legislatures) produce 23 of the 29 sig-
+nificant class-institution interactions.
+
+Looking first at entrepreneurial policy (table 7), 7 of the 30 possible
+interactions are statistically significant. The effects of organized business
+interests are conditioned by the presence of facilitative state capacities.
+Enhanced governor’s powers combines with single-business peak asso-
+ciations, Republican Party power, and advanced industry to promote en-
+trepreneurial policies. Legislative professionalism combines with business
+lobby power, Democratic Party power, and advanced industry to promote
+entrepreneurial policies. Only the combination of private venture capital
+firms and state administrative capacity reduces state commitments to
+entrepreneurial policies.
+Unlike the effects of state administrative capacity and class on entre-
+preneurial policies, the effects of state administrative capacity reduce com-
+mitment to industrial recruitment policies. This is a sign that powerful
+business interests are more central to stimulating new entrepreneurial
+economic development policies instead of more traditional industrial re-
+cruitment policies. Only the interaction between governor’s powers and
+large manufacturing corporations and advanced industry, along with the
+interaction between state administrative capacity and Democratic Party
+power, seem to promote industrial recruitment policies by the states. All
+the remaining interactions suggest that mobilized class power serves to
+reduce commitment to industrial recruitment policies as state capacity
+increases.
+
+Much the same could be said of the combination of state capacities
+and class forces in the promotion of labor regulation policies. Only the
+governor’s powers x advanced industry interaction promotes commitment
+to labor regulation policies. All other interactions, including interactions
+with union density and Democratic Party power, reduce state commitment
+to these policies.
+
+Overall, these results suggest that state political institutions condition
+the effects of class forces on economic development policy. Relatively
+strong state capacities are an important context for promoting direct in-
+tervention but are relatively less critical for promoting indirect
+intervention.
+
+Political legacy effects —Earlier we saw that the best-case variable has
+strong direct effects on state economic development policies, indicating
+positive and negative path dependence. To further explore this, we ran
+the models in tables 4-6 with the best-case variable removed to see if it
+also contributes to contemporary factors that are correlated with these
+policies (results not shown but available from the authors). Several con-
+temporary correlates of industrial recruitment policy emerged as statis-
+tically significant, suggesting that they stem from this legacy and, in turn,
+contribute to this policy. With the best-case measure removed, manufac-
+turing concentration and private venture capital positively and signifi-
+cantly affect industrial recruitment policy, which is in line with our earlier
+predictions (table 3). Likewise, competitive elections and declining federal
+transfers encourage this policy once the best-case measure is removed.
+However, removing the best-case measure reveals a significant negative
+effect of legislative professionalism, suggesting that relatively profession-
+alized legislatures dampen commitments to industrial recruitment policy.
+These results reinforce the conclusion that the political conditions giving
+rise to early welfare innovation have a strong path-dependence effect on
+state economic development policies and, at least for industrial recruit-
+ment, also contribute to several contemporary factors that promote and
+discourage this policy approach.
+
+Do political legacies create facilitative contexts for the operation of
+contemporary factors? To examine this, we test a comprehensive set of
+interactions between our best-case measure and all other independent
+variables. Tables 10, 11, and 12 show the parallel equations for SUR
+models when adding the two-way interactions between the best-case states
+and the class mobilization/institutional measures to model 4 in tables 4—
+6. To save space, we present only the main effects and the interaction
+terms.
+
+The best-case welfare policy legacy positively affects entrepreneurial
+policy in interaction with single-business peak associations, manufactur-
+ing concentration, and enhanced governor’s powers. The effects of busi-
+ness lobby power, electoral competition, and advanced industry are neg-
+ative in the presence of this policy legacy. This same general pattern of
+results is found in the analysis of industrial recruitment policies (table
+11). The real differences come in the analysis of labor market regulation
+policies, where business lobby power and advanced industry (the same
+factors that reduced commitment to entrepreneurial and industrial re-
+cruitment policies in the best-case states context) increase commitments
+to labor regulation policies. This suggests that states that can produce
+progressive welfare provisions are also capable of taking mobilized busi-
+ness actors and promoting labor market regulation policies.
+
+Robustness checks.—We checked these results through several methods.
+Because multicollinearity might bias our three-way interaction results for
+mezocorporatism, we constructed an alternative measure using a simpli-
+fied two-way interaction between business and union peak associations
+and lobby density and our measures of state capacities presented earlier.
+This simplified measure is constructed by multiplying the joint business/
+union peak dummy variable by business/union lobby density and then
+“p a[qe} JO p [apour ur stuz9} BANIppe
+
+T00°>d xxx
+TO >d xx
+“sqsa} payfes-oany ‘SO >d x
+
+94} 40J [0x}UOD suoTJeNba [Ty (096 = A’ ‘Semnsvour pas9yUV9 ‘syUaroyJo09 pazipsepuL}su) — "ALON
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+198" 198° 198" 198" 998" 198" COR ee nee se runes’ 2¥ paisnipy
+100" Asnpur paoueape x wisTeUoIssajord aaryeysizaT
+TOO is damod Aieg IMeAI0WIaG x WsTTBUOTSsajoId BATILISISIT
+se £00" sess Jamod Aqqoy ssauisng x wstferuorssayord aanryisisay
+100 “SULIT eudes ainjuaa ayealid x Ayoedes aanesysturupy
+ae €8T° . Axsnpur paoueape x ssamMod s, 10019005
+T00'— ue “ gamod Ayreg oes0WIg x siaMod s,10U1aA0F)
+ax90D uoneosse yead ssautsnq-a[suis x siamod s,10U19A05)
+aL 90" + ramod Aqqoy ssouisng
+Z00° . “ sug yeydes ainqueaa ayeAlig
+ae STO" ax SOT — AIsnput paourapy
+ax 600° — PTO tres runes suusereness qamod Ayreg IeID0ULIIG,
+aelL9T— * “+ yoreposse yead ssoursnq-a[suts
+670° oo" $ZO" . UIST[RUOISSaJOId dATILISISAT
+aeeCT TD cine gee urereeeeeesess Ayoedes sayensturupy
+ax PhO — xx O9T" sex SSO" . “+ sdamod s,10uIaA0D
+
+(L) (9) (s) (r) (€) (2) (1)
+
+SNOILVNOW
+
+ 
+
+ 
+
+STAGOJT UNS ‘AOIIO”d TWIANANAAMAALNY NO SAANSVAJ] ALIOVAVD ALVIS ATAHL 10 SLOGIAY ONINOILIGNOD AGNV ONIAAMOdN A
+
+4 ATAVL
+“$1801 payte}-0M} ‘SO > dx
+
+“f 91qRI JO F [apoUL UF sUII9} DANIPPE oY} JoJ [orIUOD suOTFeNba [TY (096 = AV ‘SaINseouE pardquad ‘s}UaIoyJo09 pozIpxepuLysUQ — “ALON
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+srs" srs" ors ors" ors" ors Or" Les" Les" BPS ess 2 parsn{py
+L00°— Aqsuap uotun x wsteuorssayord aanerstsaT
+«#970 — uonerjuau0d
+SupMovynuew x wstpeuossayord aaneystsay
+%£00'— samod Sqqoy ssaursng x wstfeuorssayord aanelstsarT
+800 nc Jamod eg mNeD0WIG x Apovdes aanensturUpy
+e861 ee samod £qqo] ssaursng x Aoedes oanenstuUpy
+ef £0 os Axjsnpur paoueape x sramod $,10U19A05)
+ae “+ uonesodioo Supmpvmuvur are x s19MOd s,10019A05
+seeeP9O ts uoTeI{UIIUOD SULNpRNULUT x sIaMmod $,JOUIIAOD)
+see STO — samod Sqqoy ssautsng x s1amod s,10UI9A05,
+sex ZS uoreposse yead ssautsnq-aputs x siamod s,10U19A05
+400° Aysuap uotwp,
+BO nce ener eect cnn e ene n cn es somod avg INVID0WIECT
+esz— Anjsnpur pooueapy
+TS suonerodios SupMsejnueUr ose]
+xa EE 4870" * uoreuadUOD SULN|eINUETA,
+xx 190 xxb SO wae L8Z szamod Sqqoy ssoursng,
+sora 8 uoneosse yead ssautsnq-a[3uIg
+eer a9 LST wst[euolssosord aanr[stor]
+PL eT nn nnn nner nnn e eee cs pede oarensturupy
+067 — see68Z eee IZ eaeeST'T eee 287° * sramod s,10u19A05)
+(ol) (6) (8) (2) (9) (s) (r) (e) (2) (1)
+SNOLLVOOG
+
+ 
+
+ 
+
+STAGOW UNS :ATOd LNIWLINAITY IWIALSAGN] NO SAYASVA ALIOVAVD ALVLS ITAH], JO SLOTATY ONINOILIGNOD GNV ONIAAMOA NY
+
+8 ATAVL
+TOO"—
+
+ax 1 £0 —
+
+sex I LO"
+
+100°'—
+
+axe 8h0"
+z00°—
+
+x%820'— xx T€0'— «920° — x0 E00" —
+
+ax €00°—
+
+*00'—
+7200'—
+
+acer STO"
+
+¥%0£0° —
+
+7720 #%b90'
+
+*700'—
+
+acer PTO"
+
+sex POO"
+
+610° —
+
+ 
+
+- Ausuap
+uotun x Aedes aarensturupy
+azomod £qqoy
+ssoutsng x SHoedes aanensturupy
+* AYsnpur
+_pasuvape x si9atod $003.08)
+samod Syeg
+atyeoWLac] x s1aaod s,10WI9A05,
+vests eens uore1odioo Surnjovy
+-nuew oB1e] x s1amod $,10UI9A05,
+* aouapuadap xe} ayesodi0D
+ves uoTe.juaUO) SuLN}IVyNuePL
+sug [eyes emyuaa aywaug
+Aysuap uorug,
+~ ramod Aqqoy ssoursng,
+Anjsnpur pooueapy
+gamod Aqeg oneID0WIEG
+cores suonesodi09
+Sulnjoeynueur aSse'T
+wisyeuorssayord aanyisisaT
+Ayoudes aarensturupy
+“+ sramod s,10UI9A05
+
+ 
+
+ 
+
+ 
+
+«100° —
+
+900° —
+
+ 
+
+ 
+
+   
+
+600°
+see TET
+
+ 
+
+ax SO" x £90"
+
+ 
+
+(2y
+
+(iy) (or) (6) (8)
+
+(4) (9) (s)
+
+SNOLLVOOG,
+
+(2) a)
+
+ 
+
+ 
+
+STAGOP UNS :AOIIOd NOILV1NOaAY AOAV’T NO SAAASVAJ] ALIOVAVD ALVLS AAAHL 10 SLOAAAY ONINOILIGNOD ANY ONIAAMOdN
+
+6 ATaVL
+T00>d xxx
+10> d x
+“sys9} popley-oma ‘SO'>d x
+
+“p Qe} JO p [BpOu Ur suJd} BANIPpe ay} 10J [o1]UOD suOTeNbe [TY “096 = A’ ‘SeNsvaW paitozUad ‘s}UdIYJa09 pozipsepuLysuy — "ALON
+
+ses" Bes" 9e8" 988"
+*L00°—
+
+#700" —
+
+axe LOO" —
+
+x& 100°
+
+res" Les" 988" 988" 9e8" 9e8" ses" 988" ~ yf paisnipy
+aouapuadap
+xe] ayesodi09 x WST
+-jeuorssayord aaneystsoy
+Axjsnput paoueape x wst
+-[euorssayord aAnyysiza’T
+veteeee ee yeaod
+Ayreg onessowag x wWst
+Teuorssajord aanne(sta7]
+voles Ausuap
+uorun x wsqeuorssosord oAnrystar]
+won
+-eajuadu0D BULEM]IENUEUT x VST
+~jeuorssayord aaneystzay
+Jamod £qqo] ssautsng x st
+-[euorssajoid aaneysisarT
+* suy jeydes aanquaa
+ayeaud x Qroedes aanensturupy
+
+ 
+
+ 
+
+ 
+ 
+
+#%£00°—
+
+ 
+
+ax LOO —
+
+ 
+
+axe LOO" —
+098" 098" 198° 098" 098" 798° 198° 798° . a “ay paisn{py
+
+ceo" UWsI[VUOIssajoid IANLISIBZ] x S9}w}S 9seI-]Sagq_
+
+CLO nnn Ayioedes aatqerjstulurpe x Sayejs ased-jsogqe
+
+seskse COT" vets “+ saamod $,10U19A08 x Saye]s ased-Jsag
+
+BOO — tes Jamod Ayeg dyeID0WA x sayeys asvo-\sagq_
+
+LOO— nnn esses Ajisuap uorun x sayeys ased-}soq
+
+eae f LT uOTRUIDUOD SULIN{IVINUU x S9}BIS ISvd-]sIg
+
+#970 — . * gamod Aqqot ssaursngq x sayeqs aseo-jsaq_
+
+sete T LO uoneposse yead ssautsnq-a[Suls x sayeys ased-ysagy
+
+970° . UsT[eUOTssajoid aATIRISISA'T
+
+see DSO en gn ge nnn nene nen ees Ayoedes aanesysrurmmpy
+
+aeaex SSO" sdamod s,JOuIaA0D,
+
+BOO i i ern ne reese qamod Ayieg ITyeID0UING
+
+100" * Aysuap wor,
+
+S00" uoTeryUaIUOD ZULMeNUePL
+
+aexkO TO" qamod Aqqoy ssoursng
+
+720° * uoleposse yead ssaursnq-a[suls
+
+#C8E #OLE” akEOT— x BBL" *eSS 00°T — aah lT Saye}S ISBI-JSIq_
+(8) (1) (9) (s) (r) (¢) (2) (1)
+
+SNOLLVNOW
+
+ 
+
+ 
+
+WIAVIAVA ASVD-LSAG GNV SNOILALIISN]/NOILVZITIGO| SSVID NAIMLAG SNOLLOVAGLNY NO ADALVALS TVIMNAINIAdMTALNGY 40 WAS
+
+Ol ATAVL
+TOO >d xxx
+
+TO >d wx
+
+'S]S} PAIe}-OM “SO'>d x
+
+“p a[qe} JO p [apout UT SULIa} BANIPpK ay} Joy [OIJUOD suoNENba []Y “096 = A ‘SANsvUI parayuad ‘syUaryJe09 pazipaepuLysuy —“ALON
+
+ 
+
+ 
+ 
+ 
+  
+
+ 
+
+ 
+
+098° 098° 098" 998" 098" 098" $98" -y pasn{py
+900° UONLZI[PLISNpUTap x S9JB}s ISed-}sIaq
+6£0° . “+ gguapuadap xey aye10d409 x sayeys ased-jsog:
+
+910° sully [eydes aanjusa ayeaud x sayeys ased-jsaq_
+
+acs PT — * Asnpur paoueape x sojej}s asvo-qsaq_
+
+£10" “"* suoryedodioo ZuLNjoRjNueU aB1R] x Saje}S ased-4saq
+600° . vets * NOUWINY JaJOA x sayeys asvI-Jsaq_
+uoNnedutos [e10}99]9 x SayB}s asBd-JSagq
+coe uorezTerysnpur qd
+* souapuadap xv} ayesodi09g
+suzy yeydes ainquaa ayeatg
+corres Aagsnpurt paoueapy
+suoneiodios SulnyoejnueU aB.1eT
+. veers qnouIny 1930,
+ss yornaduros pes0}99]9f
+saqeys aseo-jsaq,
+
+ 
+ 
+
+ 
+ 
+
+aaa TOO" —
+
+ 
+
+ 
+ 
+
+see 10" —
+
+ 
+
+sexo ETO"
+
+ 
+ 
+
+TOO" —
+
+ 
+
+ 
+
+ 
+
+sexe ST
+z00°
+
+  
+
+TOO"
+
+ 
+
+ 
+
+ 
+
+seek TOO *
+#OLE IZ 67" aenexOL © #99E £90 — — exxOb
+
+ 
+
+ 
+
+(ST) (rT) (€T) (21) (TT) (oT) (6)
+
+ 
+
+SNOLLVAOY
+srs" srs" ors" ors" srs Lys" ors" Oss"
+687
+
+veseeeee a paisn{py
+“* wustyeuorssazord aAneystsay x Seyeys aseo-ysagi
+Ayoedes sanesrurupe x sayeys aseo-ysogq.
+s1amod s,10UIAA08 x sayejs aseo-jsaq,
+eb SO'— cots jamod Ayreg WeID0UIaG x sayeys ased-jsag_
+
+720° — ++ Alsuap uorun x sayeys ased-jsagi
+
+ 
+ 
+
+08z
+
+ 
+
+TS
+
+ 
+
+ 
+
+acc OTT * uonesyUa.u0.
+
+BULINjOVJNUeUL x ayes asvI-ySaq_
+* ramod Aqqo] ssautsnq x sayeys asvo-sog,
+
+ 
+
+see COT —
+
+ 
+
+aeaexOP'D “* uoTyeID0sse
+
+yead ssauisnq-a[3uls x sayeys aseo-qsogq.
+ws[euolssajoid asAneysisay
+aaa Ayoedes saneysturmpy
+sreesesees sqamod $,10UIIAOD,
+sete damod Ayleg IeAI0WIqy
+vette Ayisuap uot
+uonesUa.UOD SuLMpEjNUEYL
+. damod Aqqoy] sseutsng:
+verte uojenosse yead ssautsnq-a[sutg
+. sayeys aseo-jsogy
+
+ 
+
+87 —
+B97"
+
+  
+
+sek £7
+
+ 
+
+610° —
+
+ 
+
+STO”
+
+ 
+
+see SZ
+
+ 
+
+aeax080"
+
+ 
+
+It
+see 80°F — POS—  xxebl eT — SPT ee TSP— ee TTT — eae seater €8°L —
+
+(8) (1) (9) (s) (r) (¢) (2) (1)
+
+SNOILVNOW
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATaVIeVA ASVD-LIsdg ANV SNOILLOLILSN]/NOILVZITIGOJT SSVID NAAMLAG SNOILOVAALN] NO ADALVALS INANLINAOAY TVRILSNANy 40 YS
+TW aTav
+“p a[Qe} JO p [apour UT suuI9] BANIPpE ay} JOF [OINUOD
+
+TOO > ed see
+TO > d xx
+“$}S9] P9TTeI-OM} ‘SO'>d x
+
+suorenba [TV (096 = A’ ‘SaInsvaw pasazuad ‘s}Uatoyya0d pazipsepuE}su ly) — "ALON
+
+ 
+
+srs"
+slo"
+
+L470 —
+
+sexe O'S —
+
+ors"
+
+al 7
+
+$00"
+
+Oss" TS8" srs
+
+ater OSE”
+
+sexe 99S —
+soe
+
+O10”
+sex OLS
+ro —
+
+sekI8'O— see OL L sexe 8 7S —
+
+srs
+
+reo"
+
+ace ZO"
+
+sexe SL°9—
+
+srs"
+
+aaa COO" —
+
+bO00"
+ax OS'S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“ly pasnipy
+
+* uoneziesnpurep x sayeys asvo-\sog,
+
+aouapuadap xv} aye10di109 x sayeys asvd-js9gq
+
+SULA
+
+Tedes aanquaa ayeatid x sayeqs ased-jsagq
+
+Ayjsnpur pasueape x saqyeys aseo-\sog,
+
+suorye10d109
+
+SULINJOVINULUL IaZIE] x Saye}S asvd-saq
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* qnouN} 19}0A x sayeqs ased-jsagq
+uoNeduto0d [e10ya]9 x SayBIS aSBd-]S9q
+
+sos uonezieLysnpured,
+* souapuadap xvy aye10d10d,
+sway eydes oanquaa ayeALg
+sott+s Sgsnpur poourapy
+
+suorjeiodios SuLnyoeynuewl 331e7T
+
+ 
+
+qNouny 39}0A,
+“+ yorneduios [eropayy
+sayeys aseo-jsogy
+
+ 
+
+(ST)
+
+(€T) (21) (ID)
+
+(oT)
+
+(6)
+
+ 
+
+SNOILVNOG
+ses" ses’ ses’ ses’ ses’ ses’ ses" ses’ “ . . oo lay paisnipy
+
+pe ns WIsITeUOIssayord ATEISISI] x Sayeys ased-Jsag_
+
+(40 Aypedes sanestarupe x sayeqs aseo-jsagq_
+
+seo — crete ** sxamod s$,10U19A08 x Sayeys ased-ysagy
+
+ZOO nn ene qamod Ayleg IVeID0WIAG] x Sayeys ased-ysag_
+
+~800°— “++ <jsuap UOTUN x sayeys ased-Jsag
+
++b0° uoneUaIUOD SULNJ"NUeUT x SoyeIS aseI-Jsag
+
+sel £0" * ramod Aqqoy ssautsnq x sayeys ased-ysog
+
+00z’— * uoQeosse yead ssautsnq-a[suls x sayeys ased-jsagy
+
+a8 70" — UsI[eUOIssajoid dATIRISISI'T
+
+600 nen nee nn teen nner e eee nese eee Ayoedes aanensurwpy
+
+STO” stamod s,10UI9A05)
+
+TOO nn nnn n eee ne erence ces wamod AyIeg IyeII0WIIg,
+
+100° * Ayisuap wou
+
+sexx T £0" uonerUa UO) SUL DejNUEYL
+
+. qamod Aqqoy| ssoutsng
+
+sparse COT” * uonerosse yead ssauisnq-a[3uls
+
+wex8l7— 4x697— — 87E" est'— sso" x1 8h — 6LT— : saqeys aseo-ysag_
+(8) (1) (9) (s) (r) (¢) (2) (1)
+
+SNOILVNOF
+
+ 
+
+ 
+
+WIAVIYVA ASVD-LSAG GNV SNOILALILSN]/NOILVZITIGOJ SSVI. NAAMLAG SNOLLOVAGLN] NO ADALVALS NOILVINDAY WOAv'T 40 WAS
+
+cl ATaAVL
+TOO > d xxx
+TO>d xx
+'$1$9} PITE-OMI ‘SO > x
+
+“p a[qed Jo f [apour UT SULIa} BATIPPe oy} J0J [orIUOD suOTJeNba [TY “096 = AV ‘SaINseauE pa.aquad ‘s}uaDYJe09 paziprepueysuQ —“ALON
+
+ 
+
+ses’ ses” 9e8" bes" ses”
+z00"
+800°
+070° —
+ae POO"
+810°
+
+b00' —
+z00°—
+aeaex E00" —
+2720"
+z00°
+
+997 — 967° — TOT— see TET eee 2°—
+
+ 
+ 
+
+ses” ses”
+
+ 
+
+uonez]eLysnpulep x saye}s
+“+++ gguapuadap xe} ayes0ds09 x sayeqs
+
+sug jeydes ainquaa ayeArid x saqeys
+* AIsnpur paouvape x soqe}s
+“" suonesodi0s SuLanpejnueul aB1E] x s9ye 1s
+. settee * {NOUN} 19}0A x sayeqs
+
+ 
+
+ 
+
+ 
+
+100°
+
+2¥ paisn{py
+
+aseo-jsog
+aseo-jsogq.
+aseo-jsogq
+aseo-jsog
+aseo-jsogq.
+aseo-jsogq
+
+ 
+
+uoTedutod [e1opaIa x SayB}s asVd-JsI9gq
+coo uonezyerysnpureq
+
+* souapuadap xey aye10d10D,
+sug yeyides amyuaa ayeatig
+soos Kqsnpur paoueapy
+suoreiodiod SuLnjzovjnuewl 331e'T
+
+. certs qNouwsny 1930A,
+sr gorneduros ye10}99]9f
+sayeys aseo-sagy
+
+00° —
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+TOO"
+
+ 
+
+ 
+
+ 
+
+ 
+
+L£80°— $69"
+
+ 
+
+(ST) (rT) (€T) (21) (TT)
+
+(oT) (6)
+
+ 
+
+SNOLLVAOT
+using this term to construct a two-way interaction with all three state
+capacities. Table 13 presents only the main effects and two-way inter-
+actions for this alternative mezocorporatism measure. The results are
+essentially unchanged from those in tables 4-6 with the only difference
+being that administrative mezocorporatism does not predict entrepreneu-
+rial policy but legislative mezocorporatism does. The two-way interaction
+with governor’s powers is never significant (not shown but available from
+the authors). This reinforces the conclusion that mezocorporatist bar-
+gaining potential contributes to these three state economic development
+policies.
+
+We further tested our results using three independent GLS equations
+in an error-components model with an AR1 term, obtaining similar results
+to those reported above. We also tested for two-to-five year lags for dein-
+dustrialization, governor’s powers, administrative capacity, legislative
+professionalism, federal transfer payments, and defense spending, finding
+that a one-year lag creates the strongest statistically significant coefficients.
+
+A final set of tests focused on the temporal consistency of these results.
+One test split the sample into two decades, producing slightly stronger
+coefficients for 1981-90. This reflects the fact that most of the change in
+this policy measure occurred during the second decade of our study period.
+Introducing a yearly count measure (i.e., 1971 = 1, 1972 = 2, 1973 =
+3, and so on) produced multicollinearity between the year measure and
+all three proximity measures, indicating the existence of a ratchetlike
+process in policy adoption. New policies are added in part through the
+imitation of neighboring states and rarely rescinded. Our geographic prox-
+imity control captures this ratchet effect. Inspection of the LaGrange
+multiplier indicated no major temporal differences in residuals, and tests
+for higher-order autocorrelation (up to ARS) revealed no significant au-
+tocorrelation beyond our first-order correction. In summary, our results
+appear to be robust.
+TOO > sexes
+TO > d xx
+*$}S9] PaTTe}-OM} ‘SO'>d x
+
+‘uoraesa7yUT AeM-aa.4) BY) YIM se GUBdYTUsIS JaA9dU are SUOTIBADIUT sIoMod s,JOUIDAODH ‘aINseaw suOTEIDOSse Yead puE sISsLAqqo]
+SsaUIsng pauiqwWods ay} YW wsTeUoIssayoid aanv[sisay/Jovdes sayeaysturwpe Jo UoHIvII}UT AVA\-0M\} 9Y} YSnoIy} painseow st suotyenba asay} ul wsHeIod1090za] ,,
+‘9-p Sa[qe} UI ¢ Japow Wo. UOTIIIUT JaMod AyIVg IRIDOWAG] x YINOS ay} pue YNog Sulrowsy ,
+“9-F Sa[qe UI g JaPOUN UT sJDa]Ja aANIppe [[e 10F Buyor UD
+“Auvauyfoorn|nur aonpar 0} parajuaa are sua} VON BAVqUL UT PapnyUT sa|quLeA [TY «
+(096 = NSS are sasoyjuosed ut ‘son ‘samnsvout paroyuad ‘s}uatoyja09 pazipsepurysU LQ — “ALON
+
+ 
+
+£61
+
+ro
+
+978
+(601)
+ost
+(202°)
+seo —
+
+68 T
+
+so”
+
+878"
+(z0z")
+060°
+(202°)
+60°—
+
+76'T
+0°
+978"
+(90°)
+ax CDT
+(681)
+#9Eb —
+
+68'T
+LS0°
+878"
+(90°)
+
+ax S71"
+(481)
+860° —
+
+6LT
+or
+ore
+(L278)
+sex DP" E
+(IST)
+L387
+
+sl
+Iv
+ors"
+(res)
+sexe STE
+(os'T)
+tL
+
+Ist 6LT 481 PST L8T
+or or 90° 80° 90°
+ers brs" sss 888° sss"
+(Is¢) (6zr') (s0z") (rOz') — (rOT’)
+#08 L" 979 —xEPE 7 4c
+(8¢T) (LET) (e9e) (6se) — (8z€")
+
+LOT— 4OV— [pe Ole” 807 —
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rst - verses * uosyeAy-UIqing
+80° ou
+888" ap paysnipy
+(vor)
+6L00 puustye10d.10902a TA
+(Lz¢")
+eeo'-— * “* suoneposse yead uorun
+
+jssouisng yurof pue AjIsuap 4st
+-Aqqoy uotunyssautsng paurquiog
+The decentralized “pluralistic” structure of the U.S. state and the weak-
+ness of organized labor mean that direct economic development inter-
+vention is unlikely to occur at the national level. Similar industrial policies
+were adopted at the national level in post-World War II Western Europe
+where centralized states, strong union movements, and centralized peak
+association bargaining between capital and labor had developed (Katz-
+enstein 1984; Kenworthy 1995). These policies have proven their value
+in terms of economic performance, reducing the trade-off between proac-
+tive economic policy and generous social policy. In contrast, the U.S.
+federal government has followed a neoliberal policy course. This dictates
+a conducive stance toward subsidies for private investment while im-
+posing relatively stringent social policies. How is this related to subna-
+tional development policy? In line with neocorporatist theory (Cawson
+1985, 1986), where corporatist institutions exist at the subnational level,
+state governments have been more likely to adopt proactive policies to
+create high-technology development and to recruit and retain existing
+enterprises by providing financial and tax incentives as well as by ra-
+tionalizing labor markets.
+
+Is the United States that exceptional with respect to these policies? The
+pressures of economic globalization and regional economic integration
+appear to be creating a similar devolution in Western Europe (Manor
+1999; Bennett 1991) as well as in several developing countries (Burki,
+Perry, and Dillinger 1999; Evans 1995), suggesting that the U.S. state may
+not be that exceptional. Globalization and the growing systemic power
+of capital may be encouraging more centralized states toward a similar
+devolution of economic policy. In any case, the federal structure of the
+U.S. state and the weakness of organized labor make this political system
+especially vulnerable to the economic pressures of footloose investors who
+have a high degree of geographic mobility and an entire world for their
+investments. This environment, when combined with subnational policies
+designed to cater to the interests of mobile investors, can exacerbate re-
+gional inequalities and contribute to a growing polarization of regions
+within nation-states in the global economy.
+
+In our analysis of state economic development policies, we found ex-
+tensive support for all four mechanisms for specifying the joint effects
+between mobilized class actors and local political institutions. Regarding
+the first mechanism—the independent effects of state institutions and
+mobilized class actors—subnational economic development policy reflects
+four major sets of variables: (1) the mobilization of particular classes and
+class factions that pressure policy makers to adopt specific measures, (2)
+the institutional interests and capacities for implementing specific policies,
+(3) political legacies, and (4) the structural constraints of underlying pro-
+duction regimes. In all our results, we found that class forces and political
+institutions independently affect economic development policy.
+
+Regarding the second mechanism, political institutions mediate rela-
+tionships between mobilized classes or production regimes and policy
+adoption. Political institutions mediate the effects of single-business peak
+associations on entrepreneurial and industrial recruitment policies. South-
+ern states adopt entrepreneurial policies because of institutional differ-
+ences. Underlying production regimes mediate the effects of legislative
+professionalism, administrative capacities, and voter turnout on economic
+development policy. This suggests that political institutions are embedded
+in production regimes that enhance or retard policy development.
+
+Third, institutions condition the effects of class mobilization. We found
+several instances where institutions (including political legacies) channeled
+the effects of policy adoption in specific directions both toward and away
+from commitments to specific policies. Mezocorporatism should be un-
+derstood as this type of conditioning effect. Central administrative ca-
+pacities and professionalized legislatures condition the impact of mezo-
+corporatist mobilized class actors. Where institutions favoring centralized
+business/union bargaining exist and business and unions are highly mo-
+bilized, these state capacities positively condition the effects of business/
+union political mobilization on proactive development policy. In general,
+strong political institutions combine interactively with business power to
+facilitate direct intervention while relatively weak political institutions
+facilitate positive effects of business power on indirect intervention. All
+three state capacities—governor’s powers, administrative capacities, and
+legislative professionalism—condition the effects of mobilized class actors
+on economic development policy.
+
+State-centered theorists have sometimes written as if strong state man-
+agers invariably promote state intervention. This depends, however, on
+the structure of the institution. Relative to governors and central admin-
+istrations, state legislatures are relatively decentralized institutions with
+strong ties to local constituencies where small and medium-sized firms
+are central. Legislatures also provide opportunities to veto legislation.
+Hence, strong legislatures often interactively combine with business power
+to block these policies. In general, states with strong governors and state
+bureaucracies favor proactive intervention while professionalized legis-
+latures are more complex, favoring entrepreneurial and industrial re-
+cruitment but opposing labor market regulation policy.
+
+The fourth mechanism involves political legacy effects. Prior welfare
+innovations adopted during the 1930s Second New Deal contribute di-
+rectly to entrepreneurial policy over three decades later. This legacy also
+negatively affects industrial recruitment and labor market regulation pol-
+icies, demonstrating path dependence on these earlier policies.
+
+The central class factor in promoting state-level economic development
+policy is business mobilization. Although entrepreneurial intervention
+could be seen as an ideological threat to the autonomy of private entre-
+preneurs, this approach enjoys general business support. Although busi-
+ness leaders may often voice support for laissez faire, in practice they
+strongly favor public subsidies for private investment, even if these ben-
+efits flow to particular entrepreneurs (Stiglitz 2003). While these subsidies
+may eventually create higher taxes and labor costs, these are discounted
+future costs that are less tangible than immediate business subsidies. Busi-
+ness political leaders can present these subsidies to the business com-
+munity as collective goods earned by political lobbying and other efforts
+to influence state-level policy.
+
+Our major programmatic recommendation is that political sociology
+should more intensively examine subnational governmental units as
+unique arenas where classes mobilize around peak associations, and gov-
+ernmental institutions have the ability to engage in innovative policy
+experiments that may or may not “trickle up” to the federal level. This
+occurs in a globalizing context where local elites and citizens are pro-
+moting local policy innovations designed to improve local competitive
+advantage and to advance the welfare of local citizens. Whether this leads
+to a “race to the bottom” or to a “race to the top” needs further investi-
+gation. We suspect there are trade-offs between proactive development
+policy and social policy. But it is important to note that we found a positive
+relationship between social welfare spending and proactive development
+policies. It is possible that there is a positive-sum return from these de-
+velopment policies, similar to that from the industrial policies in Western
+Europe and the developing world during the 1960s and 1970s. To better
+address these issues, researchers need to pay attention to the ways that
+mobilized class action is conditioned by political institutions that promote,
+deflect, and channel class interests in specific policy directions.
+Huey Long’s Share Our Wealth, Political Mediation and the Second New Deal.”
+American Sociological Review 59:678-702.
+
+Amenta, Edwin, and Drew Halfmann. 2000. “Institutional Politics, Social Policy and
+WPA Wages.” American Sociological Review 67:506—-28.
+
+Barrilleaux, Charles. 1999. “Statehouse Bureaucracy.” Pp. 97-113 in American State
+and Local Politics, edited by Ronald Weber and Paul Brace. New York: Chatham
+House.
+
+Bartsch, Charles. 1985. Reaching for Recovery: New Economic Initiatives in Michigan.
+Washington, D.C.: Center for Regional Policy.
+
+Bennett, Robert J. 1991. Local Economic Development: Public-Private Partnerships
+Initiatives in Britain and Germany. New York: Belhaven.
+
+Block, Fred. 1987. Revising State Theory. Philadelphia: Temple University Press.
+
+Bluestone, Barry, and Bennett Harrison. 1982. The Deindustrialization of America.
+New York: Basic Books.
+
+Bowman, Ann, and Richard Kearney. 1986. The Resurgence of the States. Englewood
+Cliffs, N.J.: Prentice-Hall.
+
+Brace, Paul. 1993. State Government and Economic Performance. Baltimore: Johns
+Hopkins University Press.
+
+Brace, Paul, and Daniel S. Ward. 1999. “The Institutionalized Legislature and the Rise
+of the Antipolitics Era.” Pp. 71-96 in American State and Local Politics, edited by
+Ronald Weber and Paul Brace. New York: Chatham House.
+
+Burki, Shadid Javed, Guillermo E. Perry, and William Dillinger. 1999. Beyond the
+Center: Decentralizing the State. Washington, D.C.: World Bank.
+
+Burstein, Paul, and April Linton. 2002. “The Impact of Political Parties, Interest
+Groups and Social Movement Organizations on Public Policy.” Social Forces 81:
+380-408.
+
+Canak, William, and Berkeley Miller. 1990. “Gumbo Politics: Unions, Business and
+Louisiana Right-to-Work Legislation.” Industrial and Labor Relations Review 43:
+258-71.
+
+Cawson, Alan. 1985. Organized Interests and the State. Beverly Hills, Calif.: Sage.
+
+. 1986. Corporatism and Political Theory. London: Blackwell.
+
+Conway Data. 1971-90. Site Selection and Industrial Development Handbook. Atlanta:
+Conway Data.
+
+Council of State Governments. 1973-93. The Book of the States. Lexington, Ky.:
+Council of State Governments.
+
+Dometrius, Nelson C. 1999. “Governors: Their Heritage and Future.” Pp. 38-70 in
+American State and Local Politics, edited by Ronald Weber and Paul Brace. New
+York: Chatham House.
+
+Domhoff, G. William. 2002. Who Rules America? 4th ed. New York: McGraw-Hill.
+
+Donohue, John D. 1997. Disunited States. New York: Basic Books.
+
+. 1999. The Devolution Revolution. New York: Century Foundation.
+
+Dye, Thomas. 1979. “Politics vs. Economics: The Development of the Literature on
+Policy Determination.” Policy Studies Journal 7:652-62.
+
+Edwards, Richard. 1979. Contested Terrain. New York: Basic Books.
+
+Eisinger, Peter. 1988. The Rise of the Entrepreneurial State. Madison: University of
+Wisconsin Press.
+
+. 1990. “Do the American States Do Industrial-Policy?” British Journal of
+
+Political Science 20:509-35.
+
+. 1991. “The State of Venture Capitalism.” Economic Development Quarterly
+
+5:64-76.
+
+. 1995. “State Economic Development in the 1990s: Politics and Policy
+Learning.” Economic Development Quarterly 9:146-58.
+
+Evans, Peter. 1995. Embedded Autonomy. Princeton, N.J.: Princeton University Press.
+
+Ferguson, Ronald, and Helen Ladd. 1988. “Massachusetts.” Pp. 21-90 in The New
+Economic Role of American States, edited by Scott Fosler. New York: Oxford
+University Press.
+
+Finegold, Kenneth, and Theda Skocpol. 1995. State and Party in America’s New Deal.
+Madison: University of Wisconsin Press.
+
+Florida, Richard, and Martin Kenney. 1991. Breakthrough Illusion. New York: Basic
+Books.
+
+Form, William. 1995. Segmented Labor, Fractured Politics. New York: Plenum.
+
+Fortune. 1971-91. Top 500 Manufacturers. New York: Fortune.
+
+Fosler, R. Scott. 1988. The New Economic Role of American States. New York: Oxford
+University Press.
+
+Grant, Don Sherman. 1995. “The Political Economy of Business Failures across the
+American States, 1970-1985.” American Sociological Review 60:851-73.
+
+Gray, Virginia, and David Lowery. 1990. “The Corporatist Foundations of State
+Industrial Policy.” Social Science Quarterly 71:3-24.
+
+1996. The Population Ecology of Interest Representation: Lobbying
+Communities in the American States. Ann Arbor: University of Michigan Press.
+Greene, William H. 1998. Limdep: Version 7.0. Plainview, N.Y.: Econometric Software.
+
+. 2000. Econometric Analysis, 4th ed. Saddlebrook, N.J.: Prentice-Hall.
+
+Hansen, Susan. 1990. “Industrial Policies in the American States: Historical and
+Comparative Perspectives.” Pp. 3-22 in The Politics of Industrial Recruitment,
+edited by Ernest Yanarella and William Green. New York: Greenwood.
+
+Hays, William. 1963. Statistics. New York: Holt, Rinehart and Winston.
+
+Hecker, Daniel. 1999. “High-Technology Employment: A Broader View.” Monthly
+Labor Review 121:18-28.
+
+Heclo, Hugh. 1974. Modern Social Policies in Britain and Sweden. New Haven, Conn.:
+Yale University Press.
+
+Hicks, Alexander. 1999. Social Democracy and Welfare Capitalism. Ithaca, N.Y.:
+Cornell University Press.
+
+Hicks, Alexander, and Joya Misra. 1993. “Political Resources and the Growth of
+Welfare in Affluent Capitalist Democracies, 1960-1982.” American Journal of
+Sociology 99:668—710.
+
+Hill, Richard Child, and Cynthia Negrey. 1985. “The Politics of Industrial Policy in
+Michigan.” Pp. 119-40 in Industrial Policy, edited by Sharon Zukin. New York:
+Praeger.
+
+Hooks, Gregory, and Leonard Bloomquist. 1992. “The Legacy of World War II for
+Regional Growth and Decline.” Social Forces 71:303-38.
+
+Hovey, Harold A. 1999. Can the States Afford Devolution? New York: Century
+Foundation.
+
+Huber, Evelyne, and John D. Stephens. 2001. Development and Crisis of the Welfare
+State. Chicago: University of Chicago Press.
+
+Hunter, Kenneth G., Laura Anne Wilson, and Gregory G. Brunk. 1991. “Societal
+Complexity and Interest-Group Lobbying in the American States.” Journal of
+Politics 53:488-503.
+
+Jaccard, James, Robert Turrisi, and Choi K. Wan. 1990. Interaction Effects in Multiple
+Regression. Newbury Park, Calif.: Sage.
+
+Jackson, John. 1988. “Michigan.” Pp. 91-140 in The New Economic Role of American
+States, edited by Scott Fosler. New York: Oxford University Press.
+
+Jacobs, David. 1978. “Determinants of Class Legislation.” Sociological Quarterly 19:
+469-80.
+
+. 1987. “Business Resources and Taxation.” Sociological Quarterly 28:437-54.
+
+Jenkins, J. Craig, and Kevin T. Leicht. 1996. “Direct Intervention by the Subnational
+State: The Development of Public Venture Capital Programs in the American States.”
+Social Problems 43:306-26.
+
+Jenkins, J. Craig, Kevin Leicht, and Arthur Jaynes. 2006. “Do High Technology Policies
+Work? An Analysis of High Technology Employment Growth in MSAs, 1988-1998.”
+Social Forces forthcoming.
+
+Katzenstein, Peter. 1984. Corporatism and Change. Ithaca, N.Y.: Cornell University
+Press.
+
+Kenworthy, Lane. 1995. In Search of National Economic Success. Thousand Oaks,
+Calif.: Sage.
+
+Kitschelt, Herbert. 1986. “Political Opportunity Structures and Political Protest.”
+British Journal of Political Science 16:57-85.
+
+Land, Kenneth C., and Glenn Deane. 1992. “On the Large-Sample Estimation of
+Regression Models with Spatial or Network Effects Terms.” Sociological
+Methodology 22:221-48.
+
+Leicht, Kevin T., and J. Craig Jenkins. 1994. “Three Strategies of State Economic
+Development: Entrepreneurial, Industrial Recruitment and Deregulation Policies in
+the American States.” Economic Development Quarterly 8:256-70.
+
+. 1998. “Political Resources and Direct State Intervention: The Adoption of
+Public Venture Capital Programs in the American States, 1974-1990.” Social Forces
+76:1323-45.
+
+Lindblom, Charles. 1977. Politics and Markets. New York: Basic Books.
+
+Luger, Michael L., and Harvey A. Goldstein. 1990. Technology in the Garden. Chapel
+Hill: University of North Carolina Press.
+
+Manor, James. 1999. The Political Economic of Democratic Decentralization. New
+York: World Bank.
+
+Minnesota Department of Trade and Economic Development. 1988. State Technology
+Programs in the United States. St. Paul: Minnesota Department of Trade and
+Economic Development.
+
+Morehouse, Sarah McCally. 1981. State Politics, Parties and Policy. New York: Holt,
+Rinehart and Winston.
+
+National Association of State Development Agencies. 1981. The Directory of Incentives
+for Business Investment and Development in the United States. Washington, D.C.:
+Urban Institute.
+
+. 1986. The Directory of Incentives for Business Investment and Development
+
+in the United States, 2d ed. Washington, D.C.: Urban Institute.
+
+. 1991. The Directory of Incentives for Business Investment and Development
+in the United States, 3d ed. Washington, D.C.: Urban Institute.
+
+Offe, Klaus. 1984. The Contradictions of the Welfare State. New York: St. Martins.
+
+Osborne, David. 1988. Laboratories of Democracy. Cambridge, Mass.: Harvard
+Business School Press.
+
+Peterson, Paul. 1995. The Price of Federalism. Washington, D.C.: Brookings.
+
+Pierson, Paul. 1994. Dismantling the Welfare State? New York: Cambridge University
+Press.
+
+. 2000. The New Politics of the Welfare State. New York: Oxford University
+Press.
+
+Ranney, Austin. 1976. “Parties in State Politics.” Pp. 128-55 in Politics in the American
+States, edited by Herbert Jacob and Kenneth N. Vines. Boston: Little, Brown.
+
+Saiz, Martin. 2001a. “Using Program Attributes to Measure and Evaluate State
+Economic Development Strategies.” Economic Development Quarterly 15:45-57.
+
+. 2001b. “Politics and Economic Development: Why Governments Adopt
+Different Strategies to Induce Economic Growth.” Policy Studies Journal 29:203-14.
+
+Schmandt, Jurgen, and Robert Wilson. 1990. Growth Policy in an Age of High
+Technology. Boston: Unwin Hyman.
+
+Skocpol, Theda, and Edwin Amenta. 1986. “States and Social Policies.” Annual Review
+of Sociology 12:131-57.
+
+Stiglitz, Joseph E. 2003. The Roaring Nineties: A New History of the World’s Most
+Prosperous Decade. New York: Norton.
+Stinchcombe, Arthur. 1968. Constructing Social Theories. New York: Harcourt, Brace
+and World.
+
+Thomas, Clive S., and Ronald J. Hrebenar. 1982. “Interest Groups in the States.” Pp.
+88-132 in Politics in the American States, edited by Virginia Gray, Herbert Jacob,
+and Kenneth Vines. Glenview, IIl.: Scott Foresman.
+
+U.S. Department of Commerce. 1971-91a. Statistical Abstract of the United States.
+Washington, D.C.: Government Printing Office.
+
+. 1971-91b. State and Metropolitan Data Book. Washington, D.C.: Government
+Printing Office.
+
+Useem, Michael. 1984. The Inner Circle. New York: Oxford University Press.
+
+Venture Economics. 1978-91. Pratt’s Guide to Venture Capital Resources. Wellesly
+Hills, Mass.: Venture Economics.
+
+Zeigler, Harmon. 1983. “Interest Groups in the States.” Pp. 235-59 in Politics in the
+American States, edited by Virginia Gray, Herbert Jacob, and Kenneth W. Vines.
+Boston: Little, Brown.
+
+Zylan, Yvonne, and Sarah Soule. 2000. “Ending Welfare as We Know It (Again):
+Welfare State Retrenchment, 1989-1995.” Social Forces 79:623-52.

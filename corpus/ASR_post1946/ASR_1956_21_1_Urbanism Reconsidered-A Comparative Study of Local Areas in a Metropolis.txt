@@ -1,0 +1,569 @@
+@SAGE As)A
+http://www.jstor.org/stable/2089335?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+HE investigation of the internal dif-
+[ serntiation of urban population has
+
+been concerned chiefly with economic
+rank and ethnic diversity, and with the dif-
+ferences which accompany variations in these
+factors. Such studies throw little light upon
+the broad, non-ethnic, cultural differences
+generated in the metropolitan environment,
+ie., upon “urbanism as a way of life.” While
+there has been much concern, theoretically,
+with the effects of the metropolitan ambit
+upon all social relationships, most of the
+empirical basis of urban theory has been the
+study of small “natural areas” or the study
+of gross regularities in census data, arranged
+spatially for analysis.
+
+Perhaps the best evidence bearing upon
+this larger question of “urbanism” has been
+the study of urban neighborhoods. The work
+of Donald Foley, for example, indicates that
+in a sample of Rochester residents (1) the
+neighborhood pattern still exists to some
+degree, but, (2) many individuals do not
+neighbor and do not consider their local area
+to be a social community. Such studies
+approach the propositions that urban society
+is functionally rather than spatially organ-
+ized and that urbanites are mobile, anony-
+mous, and lacking in identification with their
+local area.
+
+To gauge the generality of Foley’s con-
+clusions, however, one needs to know where
+the neighborhoods he studied fit in an array
+of neighborhoods. Because wide variation
+exists, the relation between the area studied
+and others is crucial for the hypothsis tested;
+most of Rochester may be much more neigh-
+borhood oriented, or much less so, than the
+area studied.
+
+The Shevky-Bell typology of urban sub-
+areas is useful in this connection, for it
+allows any census tract to be located in three
+different arrays by means of three indices
+constructed from census data.? It is hypothe-
+sized that these represent three dimensions
+within urban social space, each statistically
+unidimensional and independent of the
+others. The dimensions are social rank,
+segregation, and urbanization? The last
+largely measures differences in family
+structure, and, it is assumed, indicates
+corollary differences in behavior. Thus,
+when social rank and segregation are
+controlled, differences in the index of
+urbanization for specific tract populations
+should indicate consistent variations in social
+behavior. One purpose of the present re-
+search was to determine the nature of such
+corollary differences, and particularly differ-
+ences in social participation.
+
+This report is based upon a pilot study of
+differences in social participation between
+sample populations in two Los Angeles areas
+(census tracts 35 and 63).* The two tract
+populations are nearly identical with respect
+to two of the indices (social rank and segre-
+gation) and differ on the third, urbanization.
+For simplicity in presentation the tract with
+the higher urbanization index score (tract
+63) will hereafter be called the high-urban
+tract, the other (tract 35) the low-urban
+tract.
+
+The two sample tracts compare as follows.
+History: the low-urban tract is in an area
+that thirty years ago was separately incor-
+porated for a brief time; the high-urban tract
+has always been a part of Los Angeles proper.
+Location: the low-urban tract is approxi-
+mately fifteen minutes from the city center
+by auto; the high-urban tract is about half
+as far. (The low-urban tract is adjacent to
+the competing centers of Glendale and Pasa-
+dena.) Social rank: both tracts fall within
+the large middle range, being slightly above
+the median for the County. The social rank
+index for the low-urban tract is 68, for the
+high-urban tract, 66, as of the 1950 census
+of population, based upon the standard
+scores developed by Shevky with 1940
+census data. Ethnicity: in neither tract does
+the foreign-born and non-white population
+amount to more than 5 per cent. Urbaniza-
+tion: the two tracts represent the extremes
+of the middle range of the urbanization in-
+dex, within which a majority of the Los An-
+geles County census tracts lie. The low-urban
+tract had an urbanization index of 41, the
+high-urban tract, 57. There are much more
+highly urban tracts at middle rank, and
+much lower ones, in the County. The sample
+is weighted against the instrument, so that
+if striking and consistent variations appear
+in this middle range, they probably indicate
+more extreme variations at the poles.
+veloped for a similar population in Palo Alto,
+California.> The scale assumes that neighbor-
+liness is unidimensional and can be measured
+by a small battery of questions referring to
+the degree of interaction with neighbors. The
+reproducibility for the present sample has
+not yet been determined. Cultural events
+were recorded and categorized in the manner
+devised by Queen, in his studies of social
+participation in St. Louis.® Individuals were
+asked about their attendance in the past
+month at movies, classes and study groups,
+athletic contests, lectures and speeches, mu-
+seums and exhibits, musical events, and stage
+shows. They were also asked the location of
+the event and who accompanied them. Special
+schedules of questions were developed for the
+purpose of describing participation in formal
+organizations of various sorts, definitions of
+the local area, domestic participation, neigh-
+borhood play of children, and other aspects
+of participation which will not be reported
+here.
+
+An area random sample was interviewed
+in each tract, with 161 respondents in the
+low-urban tract, 150 in the high-urban tract.
+These households represented approximately
+7 per cent of the populations of the two
+census tracts chosen. The housewife was the
+respondent, and the response rate was over
+85 per cent, being higher in the low-urban
+area. Interviewers were advanced and gradu-
+ate students at Occidental College, and the
+average interview time was approximately
+one hour.
+
+The two samples of households compare
+as follows:
+Such differences are not great but seem
+to indicate a consistent tendency towards
+somewhat more heterogeneity in the high-
+urban sample. It includes a slightly higher
+proportion of low-income, low-education per-
+sons, and also a slightly higher proportion
+of high-income, high-education persons. The
+high-urban sample is also more heterogeneous
+with respect to ethnicity. Although the per-
+centage of non-white and foreign-born is
+similar in the two samples (9 for the low-
+urban sample, 11 for the high-urban) dif-
+ferences in religious affiliation indicate more
+ethnic diversity in the high-urban sample.
+
+The low-urban area sample is much more
+homogeneous and Protestant in affiliation
+and preference. The high-urban sample, how-
+ever, includes sizeable representations of the
+minority American religious beliefs: Jews
+and Roman Catholics are, together, only 20
+per cent of the low-urban sample; they are
+37 per cent of the high-urban sample. This
+heterogeneous and non-Protestant popula-
+tion in the high-urban sample is probably,
+to a large degree, made up of second and
+later generation ethnic individuals. Since the
+census tracts with high indexes of segrega-
+tion in middle economic ranks are usually
+found in the more highly urbanized areas of
+the Shevky-Bell grid, it is likely that “later
+generation ethnics” (not identified in census
+data) are also concentrated in the more
+highly urbanized tracts of the middle social
+rank.
+
+Such a correlation between second and
+later generation ethnic populations and
+Table 1 gives differences in participation
+between two areas with respect to the local-
+ization of community. The low-urban sample
+differed sharply and consistently in the direc-
+tion of more participation in the local com-
+munity. Their neighboring score was higher,
+they were more apt to have friends in the
+local area, and these constituted a larger pro-
+portion of all close friends, i-e., those visited
+at least once a month. They were more apt
+to go to cultural events such as movies, ath-
+letic contests, stage shows, and study groups,
+in the local area, and they were more apt to
+use local commercial facilities of certain
+types.
+
+The low-urban sample had a higher rate
+of membership and participation in formal
+organizations other than church, and, more
+important, a larger proportion of their or-
+ganizations were local in nature. A large
+majority of the respondents’ organizations
+held meetings in the local area, and although
+the husbands’ organizations usually met out-
+side the area, still a much larger proportion
+met locally than did in the high-urban
+sample. Furthermore, the members of formal
+organizations to which the low-urban sample
+belonged were more apt to live in the imme-
+diate local community. In the high-urban
+sample other members were most apt to be
+scattered over the metropolis as a whole.
+
+Further indication of the differential im-
+portance the local based organization had for
+these two somples is the greater familiarity
+of the low-urban sample with local com-
+munity leaders. (See Table 2.)
+
+While the samples were equally able (and
+unable) to name Los Angeles leaders, there
+was a significantly higher proportion who
+Per cent of respondents’ formal
+organizations with the ma-
+jority of members residing in:
+
+Local area
+
+Other area
+
+Scattered over the city
+No response
+
+N of organizations
+
+Per cent of husbands’ formal
+organizations (as reported by
+respondent) which meet in:
+
+Local area
+
+Other areas
+
+No response
+
+N of husbands’ organizations
+
+Per cent of husbands’ formal
+organizations (as reported by
+respondent) with the ma-
+jority of members residing in:
+
+Local area
+
+Other area
+
+Scattered over the city
+
+No response
+
+N of husbands’ organizations
+
+57
+18
+23
+
+(126)
+
+21f
+73
+
+(104)
+
+25
+
+23
+
+45
+
+7
+(104)
+
+33,
+18
+45
+
+(67)
+
+5st
+86
+
+9
+(37)
+
+10
+12
+77
+
+1
+
+(87)
+
+*P (x?) <.01, with exceptions noted below.
++P (x?) slightly above .05 level: x2=3.77.
++P (x?) between .01 and .02 levels.
+whole, but definite variations in their interest
+and involvement with respect to local affairs.
+
+It is sometimes stated, almost as an
+axiom, that the urban milieu results in the
+extreme attrition of kin relations. The present
+study indicates this to be questionable. The
+most important single kind of social rela-
+tionship for both samples is kinship visiting.
+A large majority of both samples visit their
+kin at least once a month, and half of each
+sample visit their kin at least once a week.
+These data, reported in Table 3, are con-
+sistent with the findings of Bell in his com-
+parable study of social areas in the San Fran-
+cisco Bay Region.”
+where “people are friendly and neighborly.”
+The high-urban sample, on the other hand,
+most frequently mentioned the “convenience
+to downtown and everything,” and spoke
+often of the “nice people” who “leave you
+alone and mind their own business.” The
+high-urban sample seemed less committed to
+remaining in their present area—a higher
+proportion stating that there were other
+neighborhoods in the city in which they
+would rather live.
+
+A tendency toward differential association
+with populations at a similar level of urban-
+ization is indicated in the visiting patterns
+of the two samples outside their local areas.
+The residences of close friends and the meet-
+ing places of social circles are almost mutu-
+ally exclusive for the two samples. Further-
+more, when the census tracts in which are lo-
+cated the homes of the friends they visit are
+categorized by urbanization scores, clear
+differences appear. The low-urban sample is
+more apt to have friends in other low-urban
+areas, while the high-urban sample is apt to
+visit in other high-urban areas. (See Table
+4.)
+In order to investigate empirically the
+complex of notions surrounding the nature
+of urban social behavior, the Shevky-Bell
+typology, applied to sub-areas in Los Angeles
+County, was used to select two neighborhoods
+which differed clearly on the index of urban-
+ization. Social rank was not used as the chief
+factor accounting for differential social par-
+ticipation, as was the case in the studies of
+Komarovsky, Goldhamer, and others.’ In-
+stead, rank was controlled, and the urban-
+ization dimension was tested for broad
+differences in social participation.
+
+It should be noted that this study investi-
+gates the effects of urbanization at a par-
+ticular level of rank and segregation; at
+other levels, the effects of urbanization re-
+main problematical. It is hoped that future
+studies will clarify, for example, the effects
+of differential urbanization at higher and
+lower social ranks, as well as in segregated
+populations. The Shevky-Bell typology,
+based upon a three dimensional attribute-
+space model of urban society, calls attention
+not only to three separate factors, but also
+to the possibility that the particular effects
+of one may be transformed as either or both
+of the others vary.
+
+However, the urbanization dimension
+was the focus of the present study. It was
+not identified with the older notion of urban-
+ism which implies that all city populations
+are changing in the direction of atomistic,
+mass society.® Instead, it was assumed that
+there is a continuum of alternative life-
+styles at the same economic level and that
+these are concentrated in different urban
+sub-areas. In this framework, the low-urban
+areas are just as characteristic of modern
+urban society as are the high-urban areas.
+Both types continue to be alternatives in
+the urban complex. In this view, the Shevky-
+Bell index of urbanization is a putative
+means of identifying such variations in
+“ways of life.” Instead of concentrating on
+urbanism as @ way of life, the present study
+was focused upon the variations possible.
+
+Two social aggregates, inhabiting tracts
+with similar economic rank and ethnicity
+but varying with respect to the urbanization
+index, were sampled. The sample popula-
+tions were then studied by means of reported
+social participation.
+
+The findings are consistent with the
+hypothesis that, where rank and ethnicity
+are equal, differences in the urbanization
+index will indicate differences in social be-
+havior. Had the index identified popula-
+tions not significantly different, doubt would
+have been cast upon its utility at the level
+of individual social behavior, for the urban-
+ization dimension of modern society, as
+conceived by Shevky in his theoretical
+structure, implies such differences in social
+behavior.1° However, the present study indi-
+cates that the index, constructed primarily
+with items related to family structure, does
+identify differences in social participation
+which are associated with variations in
+family structure but not derived solely from
+them. The general validity of the hypoth-
+esis must rest upon further studies in Los
+Angeles and other urban complexes.
+Although this study and that of Bell indi-
+cate the urbanization dimension does affect
+social participation to an impressive degree,
+the regularity with which these differences
+form a continuum at this intersection of
+social rank and segregation, and the nature
+of the hypothesized continuum, remain to
+be spelled out. Still, in the interpretation of
+1, The local area in the contemporary
+American metropolis may be viewed as at-
+tracting population, not only by the economic
+rank and ethnic composition of the population
+already in the area, but also by the degree of
+urbanization characteristic of the area—the
+way of life common to the older inhabitants.
+
+2. Such areas may attract populations on
+at least two different functional bases: (1)
+the demographic and the cultural character-
+istics of the older settlers, who give the area
+its “tone,” may attract people, as seems true
+in the low-urban sample, or, (2) the area as
+a socially neutral, but convenient, base of
+operations for various segmental interests,
+may attract people as in the high-urban
+sample. Such different principles of attrac-
+tion would tend to produce greater homo-
+geneity of background and interest in low-
+urban areas, and from this similarity a higher
+degree of community-type behavior and of
+conformity would be expected.
+
+3. A continuum is hypothesized for non-
+segregated, middle-rank areas. At one pole
+lie the local areas which select a predomi-
+nantly “old American” population with similar
+jobs, aspirations, incomes, who wish to raise
+children, neighbor, participate in local com-
+munity groups, and, in brief, carry on a life
+in many ways similar to that of the small
+towns described by Warner and his associ-
+ates.11 At the other pole lie those areas of
+the city which are more heterogeneous, with
+fewer children and little interest in the local
+area as a social arena. Such areas may ap-
+proach, in many ways, the ideal type of
+urban environment hypothesized by Wirth.12
+
+4. In this perspective, the local area is
+important as a framework for interaction, as
+a “social fact,” just where it is least repre-
+sentative of the total urban society. The
+small community, as studied by Warner and
+others, is a very poor example of the urban
+complex, since it will include the fewest ele-
+ments of urban society as a whole. At the
+same time, the high-urban tract as a sample
+of urban society is only slightly less biased,
+for in it the local area as a social fact dis-
+appears altogether. Thus it is not possible to
+use either the model of a small, spatially en-
+closed community or the stereotype of the
+continually more atomistic mass society in
+There are, however, certain common struc-
+tural threads running through the fabric
+of modern society. As Paul Hatt noted, the
+indices developed by Warner and others to
+measure social status may be generalized
+to the total society, since the various
+methods correlate highly with one universal
+attribute—occupation.13 The present ap-
+proach is, then, to ask: How does this
+attribute become defined and organized, how
+does it influence participation, in different
+sub-areas of the metropolis?
+
+A tentative answer is that the individual’s
+social position is defined differently and his
+social participation is patterned differently
+as the focus shifts from the low-urban
+populations to the high-urban populations.
+One may envisage the low-urban areas as
+somewhere between the small town and
+the conventional picture of metropolitan
+living. Where the local area is a social fact,
+where common interests and associations ob-
+tain, generalizations derived from small com-
+munity studies may have validity. For here
+the individual’s status will result, in part,
+from participation in a known and used local
+organizational structure and from family ties
+that are publicly understood.
+
+When, however, high-urban populations
+are considered, social participation is organ-
+ized around position in other organizational
+contexts, as for example, the corporation,
+
+13 Paul K. Hatt, “Stratification in the Mass
+Society,” American Sociological Review, 15 (April,
+1950), pp. 216-222.
+politics, the labor union, or perhaps, as
+Riesman has suggested, categories derived
+from the popular culture of the mass media.!4
+Here also are many individuals whose life,
+aside from work, is ordered by participation
+in small informal groups, and informal groups
+only, floating within the vast culture world
+of the market and the mass media. In such
+populations the locally defined community is
+largely irrelevant to status and participation.
+Associations are spread geographically, but
+ordered and concentrated in terms of selected
+interests. Family, in this context, is still im-
+portant. It is slightly more important in the
+high-urban sample described. But it is prob-
+ably much more private in its reference. In
+fact, kin relations may be seen as growing
+in importance just because of the diminished
+reliance placed upon neighborhood and local
+community.
+
+What has been sketched above is a tenta-
+tive model which will allow the use of con-
+tributions from earlier research, (studies of
+small cities, natural areas, the apartment
+house family, the suburban fringe) within a
+framework which integrates and orders them
+in relation to one another. Such a frame of
+reference also relates, eventually, to the in-
+creasing importance of large-scale organiza-
+tions in a society which allows many alterna-
+tive life patterns for individuals at the same
+functional and economic level.

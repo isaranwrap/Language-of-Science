@@ -1,0 +1,918 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+HE problem of relating attributes or di-
+
+mensions of a social system to the ter-
+
+ritory which that social system occu-
+pies is a significant one whether human
+ecology is defined broadly as embracing the
+total exchange relationship between man and
+his environment, or in its narrowest sense
+as the study of the areal distribution of
+social characteristics in human communities.
+One dimension that can be treated profitably
+in the latter sense concerns the ecological
+distribution of social status within a given
+community setting.
+
+Persons of similar status, by implication,
+engage in roughly similar behavior patterns
+which in turn are consistent with and to a
+large degree dependent upon their parallel
+life styles (and/or chances). This pattern
+manifests itself in many diverse settings,
+only one of which is residential behavior.
+
+*The data presented here are also utilized in
+Hoiberg’s Masters Thesis (Hoiberg, 1969).
+Persons of similar status, according to this
+argument, tend to select residences near one
+another in physical space which results in
+a spatial clustering of places of residence by
+those of similar social rank (Hawley and
+Duncan, 1957).
+
+Further, these similarities in residential
+selection patterns augmented by an attendant
+gross similarity in possessions will tend to
+become symbolically characteristic of the
+status levels in which they occur. Therefore,
+residential areas will tend to have symbolic
+meanings which are associated with the other
+status characteristics of their inhabitants.
+In this way, status characteristics can be
+associated with residential areas even though
+particular residents may deviate from what
+is characteristic of any given area.
+
+With the exception of the unlikely case
+where a given area is completely homogene-
+ous, there will tend to be some local varia-
+tion in the status levels of a dwelling area.
+This raises the possibility that there will
+exist a relatively continuous variation in
+both status composition and symbolic reputa-
+tion as one moves across a residential area.
+In this way, continuous variation in the
+status of dwelling areas can occur without
+violating the principle of residential cluster-
+ing by status as outlined above.
+
+One striking characteristic of both theo-
+retical and empirical approaches to the re-
+lationship has been the persistent tendency
+to deal with space or territory in terms of
+bounded units. This tendency has produced
+a number of problems—problems of unit
+size, boundary location, questions of internal
+homogeneity (Myers, 1953) and compara-
+bility between units, and questions of the
+appropriateness of a given boundary system
+for the study of different sets of variables.
+Cartwright (1969), in a recent review of
+the current state of ecology, further points
+out that bounded units lack flexibility; if a
+particular boundary system is held constant,
+it may become obsolete and the units lose
+their original homogeneity, while if the boun-
+daries are adjusted to community changes,
+the comparability of units over time is de-
+stroyed (Kitagawa and Taeuber, 1963).
+Finally, the construction of a system of
+bounded units almost always involves some
+kind of trade-off if more than a single cri-
+terion is employed. Units cannot generally be
+uniform in both area and population. In-
+ternal homogeneity with respect to one varia-
+ble must often be sacrificed to homogeneity
+in another. These difficulties seem to arise
+from two major sources: the attempt to com-
+prehend a multiplicity of variables by means
+of a single boundary system, and the tend-
+ency for bounded units to represent changes
+as occurring at arbitrary boundary lines when
+in fact they may have taken place elsewhere
+or be continuous across the entire territory.
+It follows that these difficulties should be
+avoidable by methods which relate one social
+dimension to the territory at a time, and
+which relate this directly, without the inter-
+vention of bounded territorial units.
+
+The isoline map (for example, see Figure
+1), in which lines are drawn connecting loca-
+tions at which equal values occur within
+the range of a variable being related to the
+territory, suggests itself as a technique which
+meets the foregoing requirements. Such a
+map not only provides a visual image of the
+way in which a variable is distributed across
+the territory, but is also a mathematical con-
+struction from which it should be possible
+to derive measures of those variables which
+have been systematically entered into it.
+
+The essential formal difference between
+those approaches which relate other variables
+to territory by means of bounded units and
+those which make use of isolines lies in the
+level of measurement employed on the ter-
+ritorial side of the relationship. When the
+territorial factor is treated as a set of
+bounded units, it becomes, in effect, a set
+of nominal categories, which makes it neces-
+sary to aggregate measures of whatever vari-
+able is being related to the territory within
+these units. In the isoline map, on the other
+hand, the territorial factor is expressed in
+terms of a ratio scale, which does not ag-
+gregate locations but retains their specific
+spatial identities and interrelationships. This
+difference has a number of implications.
+
+First, if observations are to be aggregated
+within bounded units, their specific spatial
+relationships are lost, and only complete
+enumerations or random samples within such
+units can be adequately representative of
+them, The observations on which an isoline
+map is based are necessarily representative
+of the points at which they are taken, and
+since their interrelationships are not lost,
+the principle that each element in the uni-
+verse must have a known probability of in-
+clusion in the sample is not violated by de-
+partures from randomness in their selection.
+
+Second, the level of measurement adopted
+for the territorial factor influences the selec-
+tion of appropriate inductive statistics in
+investigating relationships between this and
+other variables. If the territory is represented
+by a set of nominal units, the choice of tech-
+niques will be limited by this fact, while if
+ratio-scale measurement of the territory is
+retained, limitations on the strategies availa-
+ble for investigating relationships between
+the territory and a social variable will be due
+to the level of measurement obtained for the
+social variable.
+
+Third, the bounded unit approach focuses
+upon representing the state of a variable
+within a given area as represented by a sum-
+marizing measure, while the isopleth ap-
+proach assumes that the differences between
+Ficure 1. Isorine Map
+indices are generally called isopleths, al-
+though some authors use the latter term for
+both types of lines. The distinction is based
+upon the principle that a person standing on
+a point corresponding to the 50-foot interval
+on a land contour map can assume that the
+ground under his feet has an elevation of 50
+feet, while the person standing on a point
+corresponding, for example, to the 50% iso-
+pleth on a map of percent of land under
+cultivation cannot assume that 50% of the
+ground under his feet will be under cultiva-
+tion; he can, however, expect to be located
+in an area in which it is usual for half the
+land to be cultivated. Similarly, of course,
+the sharp transition shown on a map of per-
+cent of land under cultivation where an
+irrigated area meets a nonirrigated area in a
+desert will be only analogous to the cliff
+which would be represented by the same pat-
+tern of lines on a land contour map. Both
+maps, however, will make operationally de-
+rived statements about rates of change over
+the territory, and both will be subject to
+operational verification.
+
+The social variables to which isoline map-
+ping can be applied are those which can be
+conceptualized as meaningfully related to
+territory and measured on at least an ordinal
+level. Socioeconomic status, for example, can
+be objectified in one sense only by individuals
+or groups. On the other hand, neighborhood
+or residential area status is an environmental
+attribute. It is a feature of the surroundings
+within which, not only inhabitants, but parks,
+schools, churches, businesses and streets may
+be found. The present study concerns itself
+with the use of the isoline map as a method
+of measuring and representing variation in
+residential area status across a community,
+and therefore reports tests of the hypotheses
+that: (1) Continuous variation in the status
+characteristics of neighborhoods can be repre-
+sented by means of an objective status con-
+tour map. Specifically, once the map is con-
+structed, those subjects who deviate from it
+will deviate in a comparable manner from
+their immediate neighbors. (2) Respondents
+will be able to assign symbolic status mean-
+ings to the community’s subareas, which will
+be comparable to the objective occupational
+status of the subareas’ inhabitants.
+The process used in this case consisted of
+constructing a gridwork over a map of a
+Midwestern city with a population of about
+150,000, which divided it into 64 equal rec-
+tangles, each about a 16-block square. These
+areas were further subdivided into fourths,
+producing 256 equal rectangular areas, which
+covered the entire city map. When those
+areas which fell outside the city limits and
+those areas where no residential activity was
+evident had been deleted, 154 of these areas
+remained in the analysis. The geometric cen-
+ters of these areas were designated as points
+of observation or measurement.
+
+Clusters were designated which consisted
+of the three residences located closest to the
+established reference point. This is a very
+small cluster, but we wanted to expose the
+method to some risks in this respect. Some
+of the designated areas were only partially
+occupied, and in these cases the number of
+blocks within the area were enumerated, and
+the block, as well as the three residences
+within the block, were selected by a table of
+random numbers. Measurements in these
+cases were, of course, entered on the map
+at the point where they occurred, rather than
+at the center point of the area in which they
+fell.
+
+Once points of reference were established,
+socioeconomic status scores for the clusters
+surrounding these points were obtained. This
+was done by simply consulting the city di-
+rectory for the occupation of the head of the
+household for each of the selected residences.
+Each occupation was given a score through
+the use of the NORC transform of the Dun-
+can SES scale (Duncan, 1961), which is
+based upon the income, educational level,
+and relative prestige ratings of occupational
+titles. For each point of reference then, socio-
+economic status was expressed as the average
+of the occupational scores of a cluster of three
+residences.
+
+The final task was to construct a series of
+isopleths or, more specifically, status contour
+lines connecting points of equal value as
+interpolated from those measured and entered
+on the map. Scores obtained for the various
+points ranged from a low of 44 to a high of
+88. Status contour lines were plotted at five-
+point intervals interpolated on the basis of
+the locations of the scores for each of the
+previously established reference points. For
+example, if one reference point had a score
+of 46 and a contiguous point had a score of
+54, the location of the 50-point contour
+interval was determined by plotting the
+scores of 46 and 54 on a sheet of graph paper
+and drawing a straight line between the two
+points. This simple graphing procedure de-
+termines the point at which the line so drawn
+intersects the 50-point line on the graph
+paper and in turn its location relative to
+the other two scores. This information is
+then transferred to the map, and the opera-
+tion is repeated for each set of contiguous
+scores which have an intervening contour
+interval. These interpolated points are the
+ones through which status contour lines can
+be expected to pass, and their locations are
+in each case affected by the scores occurring
+on all sides of them. Isopleths or status con-
+tour lines are then drawn in. This operation
+requires a small amount of skill and experi-
+ence. Its basic principles are: (1) no two
+lines should meet or cross, but each contour
+line should either be a closed polygon on the
+map or run off the map at both ends, and
+(2) the series of contours lying between any
+two points on the map should be continuous
+(Raisz, 1938).
+
+The construction of another map was un-
+dertaken to determine the relative prestige
+value of the ecological areas of the commu-
+nity or, in other words, the symbolic con-
+ception of the status structure of the com-
+munity by a sample of its residents.
+
+The sample of residents chosen to be
+respondents for an interview were selected
+on the basis of a simple random sampling
+procedure. The population from which the
+sample was drawn was defined as all persons
+listed in the city directory, a relatively com-
+plete listing of residences in the community.
+Given the purposes of the study, we were
+only interested in fairly strong relationships
+between variables. Thus, a random sample of
+50 persons, which would yield satisfactory
+significance levels for such relationships, was
+drawn from the population. If the primary
+respondent was not at home or refused to be
+interviewed, the residence immediately next
+to it was selected.
+
+Lazerwitz (1964) used a somewhat similar
+method when he clustered addresses from
+the city directory, from which he averaged
+at least one interview per cluster after the
+various “non-response” factors were encoun-
+tered. In determining the degree of departure
+of the “clustering” method from simple ran-
+dom sampling, he found that the variance of
+the “clustered” sample was on an average
+only about 1.20 times larger than its simple
+random sampling variance. Further, the task
+at hand was the determination of the con-
+ception of the status structure as it was con-
+ceived by a heterogeneously located group of
+residents within the city, a task which was
+not interfered with by the use of this pro-
+cedure.
+
+Following the selection of the sample, an
+interview requiring from 15-30 minutes to
+complete was administered to each of the
+respondents. The way in which the respon-
+dents’ symbolic conception of the spatial
+distribution of status was determined con-
+sisted of first, providing him with a map of
+the city with the previously established grid-
+work of 64 equal areas superimposed on it.
+He was then asked, for each of twenty occu-
+pations listed, to give the number of the area
+on the map where he thought that a person
+with that occupation might reside. The occu-
+pations were selected on the basis of their
+heterogeneity as a group, both in the general
+type of work that they do and in their rela-
+tive prestige value.
+
+For each of the 64 areas a tally was made
+on the various occupational allocations re-
+ceived. From this a mean NORC transform
+SES score was determined for each area and
+assigned to the geometric center of the area
+as a basis for interpolating contour lines or
+isopleths in the manner described above. The
+result was a map portraying the subjective
+conception of the spatial distribution of socio-
+economic status in the community held by a
+sample of fifty of its citizens. This subjective
+map is a more generalized and less detailed
+portrayal of the status structure of the com-
+munity, which is at least partly a smoothing
+effect due to the use of a larger gridwork in
+this part of the analysis.
+map were derived. The map does not pre-
+tend to represent the status characteristics of
+particular subjects, but only of their immedi-
+ate residential surroundings. These two vari-
+ables have ordinarily not been found related
+to an extent producing correlations greater
+than about .5 (Miller, 1964:101). However,
+the SES scores of fifty respondents inter-
+viewed in connection with another aspect of
+the study were correlated with the score of
+the status contour within which the respon-
+dent lived. A Pearson r of .35 (P<.01) was
+found. The same procedure was utilized for
+an alternate random sample of residents of
+the community and a Pearson r of 46
+(P<.01) was obtained. These findings are
+comparable to Kahl and Davis’ (1955) re-
+port of a tetrachoric r of .46 between two
+indexes which are roughly comparable to
+ours, the North-Hatt occupational category
+and the census tract mean monthly rent. This
+comparability is brought out when our two
+sets of data, dichotomized at the same point
+as Kahl and Davis’, are transformed into
+tetrachoric r’s, the resultant correlations of
+42 (P<.01) and .61 (P<.01), respectively,
+being favorably comparable to their reported
+correlation of .46.
+
+Thus while some relationship exists be-
+tween the occupational statuses of these sub-
+jects and the status characteristics of their
+locations as represented by the map, and
+although the magnitude of the relationship is
+not out of context with what is usually found
+to obtain between the status characteristics
+of individuals and their residential areas, the
+correlation found is certainly not high. The
+crucial question for the validity of the map
+is whether these subjects’ individual devia-
+tions from the scores found for their residen-
+tial locations on the map represent deviations
+from the general status characteristics of
+their surroundings or simply inaccuracy in
+the map. This question can be answered by
+comparing the subjects’ deviations from the
+map with their deviations from the status
+characteristics of persons living nearby. To
+test the hypothesis that those subjects who
+deviated from the map would also deviate in
+a comparable manner from their neighbors
+required us to ascertain the occupational
+scores of the three neighbors on either side
+of the subject, and from this cluster of six
+to obtain an average SES score for the neigh-
+bors at that point. When this was done it
+was found that 83% of the sample either
+fit in terms of both their neighbors and the
+map or differed from their neighbors in the
+same direction that they differed from the
+map. Further, for the latter group, there was
+no significant difference (t= 1.124, P< .30)
+between the amount of deviation from their
+neighbors and the amount of deviation from
+the map. The 50 subjects’ deviations from
+the map were also correlated with their de-
+viations from the average status scores of
+their six neighbors, yielding an r of .73 (P<
+.01). In sum, the hypothesis that the status
+contour method will yield accurate results
+in the prediction of the status characteristics
+of various locations in the community seems
+to be borne out by the data.
+
+To test the hypothesis that individuals
+will be able to symbolically perceive the
+status structure of the community, and that
+this symbolic perception will be comparable
+to the objective status structure of the com-
+munity, required us to measure the degree of
+correspondence between the symbolic status
+contour map and the objective status contour
+map. In order to do this, we designated 50
+random points, and for each of these points
+SES scores were obtained from the objective
+and symbolic maps. The two sets of scores
+were then correlated and a Pearson r of .50
+(P<.05) was obtained. This permits us to
+accept our hypothesis and indicates a fair
+degree of relationship between the subjective
+image of the status reputations of various
+areas of the city held by its citizens and the
+objective variation of SES as indicated by
+the persons actually residing in those areas.
+Again, comparing our results with those re-
+ported by Kahl and Davis (1955), the tetra-
+choric r between the subjective map and the
+objective map was .88, which compares very
+favorably with their reported correlation of
+.76 between interviewers’ rating of residential
+area (subjective index) and census tract
+mean monthly rent (objective index). This,
+in turn, lends support to the idea that status
+contour analysis does lead to a portrayal of
+the relationship between territory and socio-
+economic status which is congruent with the
+manner in which this relationship is per-
+ceived by residents of the community. Sub-
+jects were selected randomly and not for
+their knowledge of the community. They
+were asked, not to rate the status character-
+istics of particular locations but merely to
+suggest where persons of a variety of occu-
+pations might reside. It is interesting to note
+that a subjective map based upon the aggre-
+gate of these responses corresponds as closely
+as it does with one based upon objective
+data. The correlation is as high as can usu-
+ally be expected between objective and sub-
+jective measures of the same _ variable
+(Stinchecombe and Ofshe, 1969:116; Cap-
+low, 1954:216-217).
+
+Another method, and perhaps a better one
+in evaluating the symbolic map’s general val-
+idity, is to note its performance as com-
+pared to the objective map in its relation to
+some third variable. Lazarsfeld (1959:65)
+states: “It is not the relation of the indices
+to one another which is the crucial problem,
+but their relation to outside variables.” Ac-
+cordingly, two “outside” variables were
+chosen, not so much for the substantive find-
+ings involved as for the sake of testing the
+comparability of the two maps in treating
+outside variables. The first treats residential
+status as a dependent variable in relation to
+land elevation, while the second treats resi-
+dential status as an independent variable in
+relation to friendship choice.
+
+An interesting question which emanates
+from the utilization of contours in depicting
+social status is the relationship between the
+status contours so derived and the actual
+geographical contours depicting the topog-
+raphy of the land. Hoyt (1939) contended
+that city areas at higher altitudes frequently
+were characterized by high rents because
+they were free from slides and floods, and
+thus became fashionable and desirable resi-
+dential districts. Harris and Ullman (1945)
+also point out this relationship between high
+land and high social status when they postu-
+lated that, in general, high class residential
+zones would be on well-drained high land
+with a view and away from the noise, smoke,
+and odor of industry. Therefore, high physi-
+cal altitude seems to be associated with high
+status in many instances. However, in those
+cases where the pragmatic effects of floods
+and slides are not relevant, height still seems
+to retain its relation to status through the
+symbolic cultural definition given to the en-
+tire concept of height. Such a symbolic mean-
+ing can be crudely displayed through the
+popularity and meaning of such sayings as
+“top drawer,” “high man on the totem pole,”
+“top dog,” etc. An interesting empirical ques-
+tion concerns the existence of a relationship
+between status and physical elevation.
+
+To test this relationship, we utilized again
+the alternate gridwork that had been used in
+testing a previous hypothesis to establish 50
+points at which both topographical measures
+of elevation and status measures could be
+obtained. The status measures were taken
+from both the objective and subjective status
+contour maps, while the geographical eleva-
+tion measures were secured from the United
+States Geologic Survey’s contour map of the
+City’s area. Although there is relatively little
+elevation differential in this community,
+there does exist a range of some 210 feet,
+which, when broken down into 20-foot in-
+tervals, does offer a meaningful gradient of
+elevation with which the status scores can
+be correlated.
+
+The resultant correlation between status
+and elevation when using the objective map
+was .73 (P< .005). When the subjective map
+was used, the coefficient of correlation was
+raised to .78 (P< .005). Therefore, not only
+does there seem to be a significant positive
+correlation between the status score of an
+area and the physical elevation of that area,
+but the objective and subjective maps dem-
+onstrate essentially parallel performance in
+demonstrating the strength of the relation-
+ship.
+
+The performance of the objective and sub-
+jective methods of portraying residential
+status as an independent variable was exam-
+ined in relation to friendship choice. That
+friendship runs essentially along social class
+lines is a well demonstrated empirical gen-
+eralization in sociology today. Hollingshead,
+(1949), for example, demonstrated that
+clique formation, dating, and marriage all
+essentially followed social class lines. More
+recently Laumann (1966) found that persons
+in all occupational classes disproportionately
+found their friends in the same occupational
+class as themselves. Finally, Warner’s (1949)
+studies tend to use associational data as the
+basis for determining the class position of an
+individual. The Warner Index for Evaluated
+Participation (EP) identifies the social class
+group within which a person participates.
+This index of participation was found to be
+predictable through the use of the Index of
+Status Characteristics (ISC), which was
+based upon such objective class determinants
+as occupation, source of income, and dwelling
+area. Thus, a high correlation between (1)
+objective social class criteria, as measured
+by the ISC, and (2) the associations that a
+person had, as measured by EP, was demon-
+strated.
+
+On the basis of such findings as these, we
+can hypothesize that the SES levels of re-
+spondents’ locations in the community and
+those of friends’ designated by these re-
+spondents will correlate positively. To ob-
+tain this correlation we asked the fifty resi-
+dents who comprised the sample to determine
+their three closest friends and to note on the
+map the area within which each of them
+resided. To seek a more specific location than
+this was thought to be unwise as it might
+appear as an encroachment upon the respon-
+dents’ privacy.
+
+With this data in hand, a sociogram was
+constructed on both the subjective and the
+objective maps which connected the respon-
+dent, whose exact location was known, with
+each of his three friends, whose general loca-
+tion was arbitrarily plotted as the center
+point of the area where they were reported
+as living. On the basis of this sociometric
+overlay on the status contour maps, status
+contour intervals of respondents’ locations
+and the locations of their chosen friends were
+determined. Obviously, the method used to
+identify friends’ locations sacrifices some
+information.
+
+The procedure just discussed was carried
+out for both the objective and subjective
+maps. The coefficient of correlation which
+was obtained in determining the association
+between the objective status contour interval
+of the respondent and the objective status
+contour intervals of his friends was .59 (P<
+.005). An examination of the correlation
+for the subjective status scores reveals an
+even higher coefficient of .69 (P< .005). It
+should be noted at this point that, although
+each subject made more than one choice of
+a friend, the levels of significance were calcu-
+lated on the basis of the number of different
+subjects making the choices.
+
+Therefore, whatever the actual relation-
+ship between socioeconomic status and
+friendship choice, it has been demonstrated
+that the status of a respondent’s dwelling
+area, as measured by “status contour analy-
+sis,” is highly related to the status of his
+friends’ dwelling area, as measured by the
+same technique, in either its subjective or
+objective form.
+
+A question which naturally comes to mind
+at this point is whether, or to what etxent,
+the findings just described are an artifact
+produced by a number of respondents simply
+selecting their next-door neighbors, who by
+virtual definition of the method would share
+the same environmental SES level. One of
+the difficulties dealing with this question lies
+in the fact that such an occurrence would be
+completely in keeping with the theoretical
+basis of the hypothesis we have been testing.
+Persons of similar SES are expected both to
+seek similar locations and to choose each
+other as friends. Moreover, if we attempt to
+eliminate propinquity as a factor in friend-
+ship choice by excluding nearby choices, we
+will artificially retain all cases contrary to
+the hypothesis, since the friend must live at
+some distance from the respondent in order
+to occupy a different socioeconomic neighbor-
+hood. Despite these biases, the attempt must
+be made, because the crucial test is whether
+those friends who do not live nearby are to
+be found at similar socioeconomic environ-
+mental locations.
+
+Using the grid of mile-square areas on
+which friendship choices were originally en-
+tered, those choices which fell within the
+same square as the respondents’ residence
+were eliminated. This resulted in the deletion
+of about one-third of the total friendship
+choices, eliminating all of those choices
+which fell within one-half mile of the re-
+spondents’ location and nearly all of those
+which fell within three-quarters of a mile.
+In that part of the data which remained, the
+correlation between respondents’ status loca-
+tions and those of their chosen friends was
+reduced to .36 (P<.01) on the objective
+status contour map and .53 (P<.005) on
+the subjective status contour map. Thus,
+while the hypothetical relationship between
+locations of respondents and chosen friends
+received less support when only physically
+distant friends are studied, it remains im-
+pressive when the biasing factors mentioned
+above are taken into account.
+
+It may be useful to compare the perfor-
+mances of continuous and bounded unit
+analysis in handling the same basic data.
+This can be done by recalculating some of
+the correlations reported above using the net-
+work of 154 rectangular areas from which
+our original observation points were taken
+and comparing them with those obtained
+through the status contour method. This
+should provide adequate risk for the contour
+method, because the bounded units are
+small, about one-fourth square mile each,
+and the data used to assign status scores to
+the units are identical with those from which
+the isoline map was derived.
+
+When the relationship between the status
+location of the respondent and the status lo-
+cations of his three friends was recomputed,
+using the score assigned their respective
+bounded units, a Pearson r of .41 was ob-
+tained, compared to the previously reported
+correlation of .59, using the contour method.
+This raises the question of whether the
+higher correlation represents better perfor-
+mance in revealing an existing relationship
+or an exaggeration of that relationship. The
+latter possibility could occur if the contour
+method tends to provide a less exact but
+potentially smoother estimate of status vari-
+ation than small bounded units are likely to
+do. Since the referent in either approach is
+the status characteristic of the surroundings
+at any residential location, we combined each
+respondent’s occupational score with those
+of his six nearest neighbors to give an aver-
+age for those immediate surroundings in at-
+tempting to answer this question. We found
+that this score correlated .25 with scores de-
+rived from the rectangular units and .50
+with those derived from the isoline map.
+On this basis, it would seem that at least
+in this community, the idea of continuous
+variation of socioeconomic status over the
+territory gives closer estimates—both of the
+status characteristics associated with partic-
+ular locations and of the relationship between
+residential status and friendship formation—
+than does the alternate conception of status
+occurring within homogeneous units and be-
+ing separated by sharp breaks and jumps.
+
+None of our findings preclude the existence
+of “natural areas” or homogeneous areas en-
+closed by natural, man made, or symbolic
+boundaries. Most communities, indeed, have
+instances of both types of variation. It seems
+difficult even to state, in answerable form,
+the question of which tends to predominate.
+The point is simply that residential status
+may be continuous, which means that the
+status gradient can vary from low to high.
+
+While bounded units emphasize the gen-
+eral status characteristics of specified areas
+within the community, isolines are capable,
+further, of presenting an image of status
+change as one moves across the community,
+as well as of variation in rates of change
+from one part of the community to another.
+This would seem to suggest that the latter
+method has advantages over the former, pro-
+vided first, that variation of neighborhood
+status is at least potentially continuous and
+second, that an isoline map can represent
+the status characteristics of residential areas
+in a valid way. Status contour analysis does
+appear to succeed in representing the rela-
+tionship between the territory of the com-
+munity and one social system variable, socio-
+economic status, in a manner compatible with
+the way in which the community is perceived
+by its inhabitants. This, in turn, would seem
+to warrant further use of methods in which
+variation of social characteristics over terri-
+tory is represented by contour lines or iso-
+pleths, indicating the locations at which
+stated intervals in their range of variation
+tend to be found.
+
+The approach we have suggested here
+tends to be in opposition to the use of arti-
+ficial boundary systems, but not to the con-
+cept of the natural area, since it is equipped
+to show both gradual changes and the rapid
+changes which may be associated with the
+occurrence of “natural” boundaries. As Hatt
+(1946:427) pointed out long ago, “no obei-
+sance need be made to the natural areas of
+the city, but only those natural areas logi-
+cally determined by the data, and the prob-
+lem need be constructed, used and defended.”
+Reiss, Jr., Occupations and Social Status.
+New York: The Free Press.
+Duncan, O. D., Ray Cuzzort and Beverley Duncan
+
+1961 Statistical Geography. Glencoe, Illinois:
+The Free Press.
+
+Harris, Chauncy and Edward Ullman
+
+1945 “The nature of cities.” The Annals 242:
+
+7-17.
+Hatt, Paul K.
+
+1946 “The concept of the natural area.” Amer-
+ican Sociological Review 11 (August) :423-
+427.
+
+Hawley, Amos and O. D. Duncan
+
+1957 “Social area analysis: A critical appraisal.”
+
+Land Economics 33 (November) :337-344.
+Hoiberg, Eric O.
+
+1969 “Status contour analysis: An ecological ap-
+proach to social stratification.” Unpub-
+lished Masters Thesis, University of Ne-
+braska.
+
+Hollingshead, August B.
+
+1949 Elmtown’s Youth. New York: John Wiley
+
+& Sons.
+Hoyt, Homer
+
+1939 The Structure and Growth of Residential
+Neighborhoods in American Cities. Wash-
+ington D.C.: Federal Housing Authority.
+
+Kahl, Joseph and James Davis
+
+1955 “A comparison of indexes of socioeconomic
+status.” American Sociological Review 20
+(June) :317-325.
+Kitagawa, E. M. and Taeuber, K. E. (Eds.)
+
+1963 Local Community Fact Book: Chicago
+Metropolitan Area, 1960. Chicago Com-
+munity Inventory, University of Chicago.
+
+Laumann, Edward
+
+1966 Prestige and Association in an Urban Com-
+
+munity. Indianapolis: Bobbs-Merrill.
+Lazarsfeld, Paul F.
+
+1959 “Problems in methodology.” Pp. 39-78 in
+Robert K. Merton et al., (Eds.), Sociology
+Today. New York: Basic Books.
+
+Lazerwitz, Bernard
+
+1964 “A sample of a scattered group.” Journal
+
+of Marketing Research (February) :68-72.
+Miller, Delbert
+
+1964 Handbook of Research Design and Social
+Measurement. New York: David McKay
+Company.
+
+Myers, Jerome K.
+
+1953 “Note on the homogeneity of census tracts:
+A methodological problem in urban ecolog-
+ical research,” Social Forces 32:364-366.
+
+Raisz, Erwin
+
+1938 General Cartography. Pp. 129-139, 243-
+
+244. New York: McGraw-Hill.
+Stinchcombe, Arthur L. and Richard Ofshe
+
+1969 “On journal editing as a probablistic pro-
+cess.” The American Sociologist 4 (May):
+116-118.
+
+Warner, W. Lloyd
+
+1949 Social Class in America, Chicago: Science
+
+Research Associates.

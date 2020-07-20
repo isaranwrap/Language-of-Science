@@ -1,0 +1,2082 @@
+Regional Variation in Earnings Inequality in Reform-Era Urban China
+Author(s): Yu Xie and Emily Hannum
+
+Source: American Journal of Sociology, Vol. 101, No. 4 (Tan., 1996), pp. 950-992
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2782235
+
+Accessed: 08-06-2016 04:12 UTC
+! This research was supported by a Young Investigator Award from the National
+Science Foundation to Yu Xie and an NICHD traineeship to Emily Hannum. Earlier
+versions of this paper were presented at the 1994 winter workshop of the Insti-
+tute for Research on Poverty and the 1994 World Congress of Sociology (Research
+Committee on Social Stratification), Bielefeld, Germany. The authors are grateful to
+the participants at the two presentations as well as to John Bound, Albert Her-
+malin, David Lam, Victor Nee, and William L. Parish for their comments and
+criticisms. We particularly thank Bill Parish for urging us in the direction of
+decomposing total earnings. The opinions expressed herein are those of the au-
+thors. Working data files generated in this study and additional statistical results
+are available upon request. Direct all correspondence to Yu Xie, Department of
+Sociology, University of Michigan, Ann Arbor, Michigan 48109-1382. E-mail:
+yuxie@umich.edu
+
+© 1996 by The University of Chicago. All rights reserved.
+0002-9602/96/10104-0005$01.50
+adjusted yuan, an average annual rate of 6.07%.’ Against the backdrop
+of an unstable economy and the Maoist egalitarian ethos in prereform
+China (Riskin 1987),° this drastic economic boost has spurred new inter-
+est among social scientists in understanding the consequences of economic
+reforms for income and wealth distribution in China (Trescott 1985; Adel-
+man and Sunding 1987; Walder 1987, 1990, 1992a, 1992b; Riskin 1987;
+Hsiung and Putterman 1989; Nee 1989, 1991, 1994, 1996; Gelb 1990;
+Zhao 1990; Li 1991; Zhu 1991; Peng 1992; Khan et al. 1992; Griffin and
+Zhao 1993; Selden 1993; Xin 1994). These researchers have been in-
+trigued by two fundamental questions: (1) Do economic reforms increase
+or reduce inequality? and (2) Do economic reforms disproportionately
+benefit certain social groups at the expense of others? Indeed, these two
+questions have dominated all theoretical discussions among sociologists
+of postsocialist or reforming-socialist economies. Such discussions were
+recently summarized by Réna-Tas (1994, table 1).*
+
+With the exception of Khan et al. (1992), Knight and Song (1993), and
+Nee (1994, 1996), studies of the consequences of economic reforms in
+China typically treat China as a homogeneous entity and disregard enor-
+mous regional variations, even when data used are regional and unrepre-
+sentative of China as a whole. This practice, while sensible when Chinese
+data were scarce, should no longer be continued, as China is a vast
+country with spatially heterogeneous economies (Linge and Forbes 1990;
+Li 1993). Ignoring China’s spatial heterogeneity during economic reforms
+is particularly striking in light of the fact that “dozens of books and
+hundreds of journal articles” have focused on the reform in Hungary
+alone (Kornai 1989, p. 32), a country smaller in population size than 25
+of China’s 30 province-level administrative units.°
+
+Consideration of regional heterogeneity is significant, not only because
+economic activities in different parts of China are dictated by large re-
+gional variations in natural and human resources, but also, and more
+important, because the Chinese industrial reform has had a regional di-
+mension. Aguignier (1988), Falkenheim (1988), Shirk (1989), Linge and
+Forbes (1990), and Li (1991, 1993) all document that the reform has
+disproportionately benefited coastal provinces at the expense of inland
+provinces and that serious tensions across regions have resulted. What
+has often been overlooked, however, is that the increasing regional dis-
+parities were part of a deliberate scheme from the outset. There are
+several reasons for this. First, the central government thought it was
+“less dangerous . . . to carry out the initial experiments in a distant
+province [such as Guangdong] rather than in Tianjin, Shanghai, or else-
+where in the country’s industrial heartland” (Linge and Forbes 1990, p.
+15). Since the experiments were contained in restricted regions, their
+failure would not have been catastrophic to the national economy. Sec-
+ond, following a long-standing practice in prereform China, Chinese re-
+formers wished to set up a few exemplary models to showcase the indus-
+trial reform. Channeling government resources and foreign investment
+to limited regions would greatly enhance the likelihood of success. At the
+core of the Chinese Communist Party’s plan for economic reforms has
+been the slogan, “Let certain people become rich first in order to achieve
+common prosperity” (Zhao 1994, p. 115). It is hoped that the affluence
+of the coastal regions will trickle down to the remote hinterlands, as the
+whole country starts to emulate the success of the coastal regions. Finally,
+Chinese leaders learned the value of decentralization from the agricul-
+tural reform and encouraged it during the early stages of the industrial
+reform, allowing local governments to use their comparative advantages
+and to “sidestep their ‘shortcomings’” (Falkenheim 1988, p. 287). This
+permission to use comparative advantage was a primary reason for the
+rise of Shenzhen, near the border between Guangdong and Hong Kong,
+from a small town to a sizable metropolis with a vibrant economy and a
+major stock market.
+
+With data from a 1988 national income survey of 9,009 urban house-
+holds, this article studies the regional variation in earnings inequality in
+A BASELINE HUMAN CAPITAL MODEL
+
+We modify Mincer’s (1974) human capital model for contemporary China
+into the form of
+
+T = log ¥ = By + BX; + BX, + BX}
++ BX, + BsXs + PX Xs + €,
+
+(1)
+
+where Y is earnings, X, years of schooling, X, years of work experience,
+X, a dummy variable denoting membership in the Communist Party of
+China (1 = party member), and X; a dummy variable denoting gender
+(1 = female). All B’s are unknown parameters, and « is the residual
+unexplained by the model. Equation (1) deviates from Mincer’s model
+in two ways. First, we include party membership in the model and inter-
+pret it as an aspect of human capital associated with political advan-
+tages.° Past research (e.g., Walder 1990; Knight and Song 1993) clearly
+documents the importance of party membership and lends support to our
+interpretation. Second, we apply the model to both male and female
+workers and allow for differences between the sexes in the intercept as
+well as in the return to years of schooling. Inclusion of women into the
+earnings equation improves upon similar models based on data only from
+male workers for the United States and other countries. The common
+practice of excluding women often stems from the difficulty of dealing
+with women not currently participating in the labor force. For contempo-
+rary China, however, this difficulty does not arise as women’s labor force
+participation is nearly universal. We will discuss the justification for
+including the interaction between gender and education later.
+
+For estimation, we use data from the 1988 Chinese Household Income
+Project (CHIP). CHIP encompassed two surveys, one for urban residents
+and another for rural residents. For this article, we use data only from
+the urban portion of the study. The urban survey follows a multistage
+sampling methodology, with the first step being to select 10 province-level
+administrative units (out of a total of 30) and then 55 cities (out of a total
+of 434) to represent varying urban conditions in China (Eichen and Zhang
+1993). The urban survey instrument was administered to a total of 9,009
+households in March and April 1989.
+
+The survey gathered information pertaining to all household members,
+including demographic and educational characteristics and labor force
+activities. For this analysis, we make an unrealistic but convenient as-
+sumption that within-household clustering is negligibly small. That is,
+we treat all members of sampled households who are between ages 20
+and 59 and active in the labor force as independent observations. Com-
+bined with other criteria for excluding respondents with missing or in-
+complete data, this procedure yields a sample of 15,862 cases.’
+
+As a study of income, the CHIP survey instruments were carefully
+tailored to capture all forms of income in 1988, including the provision
+of cash bonuses and subsidies. Major findings from the study are pub-
+lished in a book edited by Griffin and Zhao (1993). In this article, we
+are concerned with the cash compensation that individual workers earn
+at the workplace. Specifically, our measure of earnings (Y) contains the
+following three components: (a) (regular monthly salary/wage) x 12,
+denoted by Y,; (b) (monthly average of cash bonuses and subsidies) x
+12, denoted by Y,; and (c) 1988 annual earnings from private businesses,
+denoted by Y,. The last component plays a negligible role (about 1% of
+total earnings). Between the first two forms of earnings, regular salary/
+wage (Y,) is slightly more important.®
+
+Following Mincer (1974, p. 48), we extrapolate years of schooling from
+levels of attained education (less then three years of schooling = 1; three
+years of schooling but less than primary school = 4; primary school =
+6; lower middle school = 9; upper middle school = 12; trade school =
+13; community/technical college = 15; and college and graduate school
+= 17). Given the relatively unfamiliar and poorly understood setting of
+contemporary China, the conservative treatment of education as a truly
+categorical variable (in levels of attained education) has been wisely
+adopted by many researchers (e.g., Peng 1992; Khan et al. 1992; Griffin
+and Zhao 1993; Nee 1994, 1996). However, an interval measure in years
+of schooling is preferred for our study due to three important consider-
+ations. First, the theoretical framework of human capital requires that
+education be considered in years of schooling as a primary source and
+thus cost of investment (Mincer 1974). Second, with log of earnings as
+the dependent variable as in equation (1), the coefficient for years of
+schooling can be interpreted readily as the rate of return and compared
+cross-nationally (Psacharopoulos 1981). Finally, a one-degree-of-freedom
+specification for education effects allows us to conveniently analyze geo-
+graphic variation in returns to schooling in relation to the local economic
+context. Even if the stringent linearity specification is imperfect, it may
+be a good approximation. To check the suitability of this simplifying
+specification, we will conduct a sensitivity analysis.
+
+We also follow Mincer (1974, p. 48) in calculating years of work experi-
+ence as the difference between the current age and the age at first year
+of experience, which varies with education (primary school and lower =
+14; lower middle school = 16; upper middle school = 19; trade school
+= 20; community/technical college = 22; and college and graduate
+school = 24). Again, this parameterization is dictated by the choice to
+build our baseline model on human capital theory, which requires that
+“it is experience rather than age that enters as an independent variable
+(in order to distinguish between the biological and human capital effects
+of time)” (Psacharopoulos 1977, p. 40).
+
+The first column of table 1 presents ordinary least squares (OLS) esti-
+mates of equation (1) with the constraint 8B, = 0. Thus, model 1 forces
+the effect of schooling to be parallel between men and women. With this
+rather restricted model, we begin to draw some general inferences about
+the earnings determination in urban China. The negative estimates for
+8, confirm the expectation from human capital theory that the experience
+effect should be concave, first increasing for most of the working life and
+then declining toward the end of the working life (Mincer 1974, p. 84).
+According to model 2, the optimal level of experience is 33.2 years, a
+figure close to the 33.8 years implied by Mincer’s (1974, p. 92) estimates
+for the United States.°
+“ssay 10 Kaeumd = popnpxg »
+
+“(1) ‘ba jo sayeumnjse sarenbs sea] Areurpso 03 Jayar s,g “(uend) sButusea [enuue [e303 Jo wWYyIedO] eINyeU oy} st (J) axJqeuea Juapuadap ayy “z98‘ST = A7—“ILON.
+
+ 
+
+61°97
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+£L°97 $197 * (%) a
+
+Lv8‘ST Sse‘st 9s8‘ST ~ £
+
+o-091‘z ST19T‘Z 7 6LT'Z ** Joq1a sarenbs jo wing
+T¢0" tLe" “"* gaoqe pue o8a][0> 1ea4-1n0,F
+620° 182° * a8aqjoo AyunuWIOD,
+¢Z0° $97" Jooyps yesiuysay,
+120° £12" “+ JooyDs YStYy JoTUES
+610° elt" “+ yooyss ysty Jorun{
+
+:UOTeINpa Jo [aAa] pue Japues Jo Vor} Ie19}UT
+
+z00° 270° *** (9g) Butjooyps Jo sreak x Japuary
+
+410° zoe’ — 120° ve — 900° PED erreeerteeererersesesececees (g) (eqeutey = 1) Jopusn
+
+300° LO" 800° £10" 800° 110) ("g) (S04 = 1) Joquiout Kreg
+
+s-O1(19°Z) +-O1(SZ°L—) s-O1(¥$"2) +-01(€6°9—) s-OT(b$"2) pOT(E9Q—) rere tteeerssceeeseeeesces (fg) ,eouariedxg
+
+100" +0" 100° 9+0" 100" PHO eter eetsetenesesecereceeceenecceces (4g) eouarredxg
+610° OCC nner nnn cent ene nne aAoqe pue aZa[[od read-1n0
+020° Lev" * a8aqjoo AyrunuWI0D,
+810° z80° Jooyps festuysay,
+910° TL0° ** Jooyss YyBIY JoTUIas
+sto" 800° — + yooyss ysty sorun{
+
+4 UOTWBINP Jo Jara]
+
+100° 220° 100" TO" * (ig) Surpooyss jo sxea
+
+L10° 0289 610° $89°9 Z10° TOS eee eirrtrtrttreseerersererererensenseees * Og) ydeosaquy
+
+as Jojourereg as sojourereg as sojourereg HIAVRIVA INTONSATANT
+
+€ TaG0—W Zz TaqOW 1 Tago
+
+ 
+
+ 
+
+ALIDNADOWOH TVNOIOTY ONINASSY SONINUVY IVLOL YOA STAGOP] NOISSTAOTY AGAHL,
+
+T aTavL
+According to model 1, the estimated return in earnings to years of
+schooling is 3.1%. By international standards, this figure is extremely
+small. In his review with an emphasis on international comparison, Psa-
+charopoulos (1981, p. 330) places the rate of return to education between
+5.9% (for Canada) and 22.8% (for Malaysia). The very low estimated
+rate of return for China is particularly puzzling in light of China’s status
+as a less developed country and its rapid economic growth since 1978.
+Both of these traits are commonly associated with high returns to educa-
+tion. Psacharopoulos (1981) reports that the rate of return tends to be
+higher in less developed countries (with an average of 14.4%) than in
+more economically advanced countries (with an average of 7.7%). Eco-
+nomic reasoning also predicts that the return to schooling is positively
+related to the rate of economic growth because “individuals who are
+more efficient resource allocators will be better able to take advantage
+of the changed opportunity sets” (Chiswick 1971, p. 28).
+
+We have no reason to doubt the reliability of the CHIP data in light
+of the low estimated return to education, for many other studies have
+also found similarly low rates of return to education in China using
+independent data sources. From a sample drawn in Nanjing, for exam-
+ple, Byron and Manaloto (1990, p. 790) report an “astonishingly low
+rate of return of income to education, about 4% for each additional
+year of schooling.”!° From a Tianjin sample, Walder (1990, pp. 149-50)
+estimates a 1.0% rate of return in income and a 1.6% rate of return in
+salary. In addition, earlier research on selected Chinese subpopulations
+found education to have either no effect (e.g., Whyte and Parish 1984;
+Zhu 1991) or negative effects (e.g., Gelb 1990; Peng 1992; Nee 1994) on
+income. Thus, we are reassured by the consistency of the low rate of
+return to education estimated in model 1 with the relevant literature.
+
+Coefficient B, reveals the advantage of being a member of the Commu-
+nist Party of China. According to model 1, party members earn about
+7.4% more than nonmembers net of education, experience, and gender.
+This estimate is close to the 9% party premium reported by Walder (1990,
+p. 150) for the 1976 and 1986 salaries of a Tianjin sample. As cautioned
+by Knight and Song (1993, pp. 253-59), however, the effect of party
+membership may not be causal. The party may selectively recruit work-
+ers possessing characteristics associated with high productivity, some of
+which may be unobserved and thus unconsidered here. In any event, our
+interest in using party membership is to detect the regional variation in
+party membership effects. Unless the potential selectivity varies substan-
+tially across regions, using party membership as an indicator of positional
+power should serve our purpose well.'!
+
+The estimate for 8; in model 1 indicates that women on average earn
+about 10.8% less than men of equal education, experience, and party
+status. This estimate is consistent with those reported by Byron and
+Manaloto (1990), Gelb (1990), Peng (1992), Walder (1990), and Knight
+and Song (1993), which range from 5 to 14%. Although the gender gap
+is relatively small by international standards,” it nonetheless exists and is
+substantial despite the Chinese government’s rhetoric on gender equality
+dating from the founding of the People’s Republic of China in 1949 (for
+a review, see Hannum and Xie 1994). The gender gap in earnings, how-
+ever, is not the same across the spectrum of educational attainment. In
+model 2, we test the interaction between gender and schooling.
+
+Model 2 allows B, to be free and thus contains all of the parameters
+specified by equation (1). The F-test statistic from nesting models 1 and
+2 is 128 with 1/15,855 degrees of freedom, highly significant, indicating
+that the schooling effect is not parallel between men and women. The
+positive interaction effect for gender and schooling reveals that the return
+to schooling is higher for women than for men. Estimates of model 2
+indicate that women’s return to schooling is 4.5%, twice that of men’s
+(2.2%). The interaction effect between gender and schooling is essentially
+a consequence of women’s significantly lower earnings at low levels of
+education.'’ This can be easily seen in figure 1, where the two solid lines
+represent the predicted log of earnings as a function of years of schooling,
+separated for men and women using the estimates of model 2.
+
+To guard against a possible misspecification of the education effect
+through the linearity constraint imposed on models 1 and 2, we conduct
+a sensitivity analysis in model 3, which allows for the effect of education
+to be distinct at six levels through the use of discrete coding. The F-test
+statistic for nesting models 2 and 3 is 1.65 with 8/15,847 degrees of
+freedom, not significant at 0.05 level. Thus, the linear specification for
+education effects seems to be an acceptable approximation. Figure 1
+contrasts predicted earnings by schooling and gender according to models
+2 and 3 after controlling for other independent variables. The figure
+shows that a linear specification of education leads to a slight underpre-
+Log of Earnings (yuan per year) Earnings (yuan per year)
+
+ 
+
+ 
+
+ 
+
+2208
+7.6 1998
+75 1808
+7.4 1636
+7.3 1480
+7.2 . 1339
+7A L L L 1 L 1 1212
+
+4 6 8 10 12 14 16 18
+
+Years of Schooling
+-« Linear Effect, Males + Linear Effect, Females
+5 Discrete Coding, Males -© Discrete Coding, Females
+
+ 
+
+Fic. 1.—Education effects on earnings in China, comparison of two specifica-
+tions (based on models 2 and 3 in table 1; other variables are held at sample
+means).
+log(Y,) and log(Y,) as dependent variables. In fact, this strategy was
+adopted by Knight and Song (1993). However, we see two major disad-
+vantages with this approach. First, log(Y, + Y,) cannot be decomposed
+into linear functions of log(Y,) and log(Y,), and as a result regressions
+using log(Y,) and log(Y,) as dependent variables do not have a simple
+relationship to regressions using log Y. Second, log(Y,) is undefined for
+zero Y,, and log(Y,) for zero Y,. One may argue that a respondent who
+does not have a regular salary or wage is not really employed and should
+be excluded from an analysis of employment-related earnings. The same
+argument does not hold for respondents with zero Y, as it is logically
+possible (albeit empirically unlikely) that some workers receive no other
+forms of compensation aside from regular salary or wage.'* Recoding
+zero values of Y, to a small positive number is also problematic, for
+regression results are sensitive to the arbitrary choice of the small
+number.
+
+To solve both problems, we devised the following decomposition
+method:
+Equation (3) also shows that B is a monotonic transformation of Y, for
+any fixed Y,. For the convenience of decomposing log Y, we use S and
+B as our dependent variables and interpret B as the “bonus share”
+among total employment-related earnings. Variation in B essentially indi-
+cates the variation in the significance of bonuses and subsidies relative
+to the regular salary or wage. If B were constant, bonuses and subsidies
+would comprise the same proportion among total employment earnings.
+
+We now apply the baseline model in the form of equation (1) separately
+to the two components of log Y, excluding respondents with no regular
+salary or wage. The regression estimates are shown in table 2. Note that
+parameter estimates are in the same scale across the two equations for
+each of the independent variables. Summing them for each row would
+give the net effect on log(Y, + Y,), a quantity close to T. It is thus
+feasible for us to compare the estimated coefficients for the S and B
+equations in table 2 to those for the T equation of model 2 in table 1.
+Several interesting results emerge. First, the baseline model does a much
+better job in determining regular salary or wage than determining bonus
+share. The R? is 44.60% for the salary/wage (S) equation but only 3.27%
+for the bonus share (B) equation. Second, the effect of party membership
+(B,) resides entirely in the determination of salary/wage. This is easy to
+see in the insignificant coefficient of party membership for B and in the
+comparable magnitude of the coefficients for S and T (0.075 and 0.073,
+respectively). Third, by the same logic, experience affects total earnings
+The Model
+
+Although the application of the baseline human capital model of equation
+(1) is a useful first step, treating China as a homogeneous entity is both
+methodologically untenable and theoretically wasteful. It is methodologi-
+cally untenable because regional variation in earnings determination is
+substantial, as is shown in appendix table A2. It is theoretically wasteful
+because we can capitalize on the regional variation in earnings determina-
+tion to test theories relating earnings inequality to the progress of eco-
+nomic reforms. Thus, we relax the assumption that the human capital
+model in the form of equation (1) is regionally homogeneous.
+
+Taking regional heterogeneity to an extreme, one may treat different
+cities as totally different regimes and allow full interactions between cities
+and the coefficients of equation (1). Results from this exercise are pre-
+sented in appendix table A2. While one may gain some insight by examin-
+ing city-specific estimated coefficients, this strategy is unduly conserva-
+tive and does not allow us to test theoretically interesting hypotheses.
+For example, we would like to know whether the regional variation in
+earnings determination can be explained by the regional variation in
+economic growth. To this end, we have developed the following multi-
+level model with two components, one at the individual level and another
+at the city level. Our strategy is similar to that of DiPrete and Grusky
+(1990), except that our macrolevel variation is regional rather than tem-
+poral.
+
+Using total earnings (YT) again as an illustration, for the ith person
+G = 1,... ,) in the kth city, the model at the individual level is
+log( viz) = Bor + BieX1ie + Bra X2in + Bs Xin
++ Ban Xaie + BseXsin + Bot iinXsin + Exe.
+A distinct feature of equation (4), as compared to equation (1), is that
+the coefficients of x, %., x4, and x; (1.e., Bos, Biz, Bre, Baz» and Bz)
+
+vary across cities. Note that a constraint is placed on 8; and B, so that
+they do not change with &.'° At the city level, we assume
+
+(4)
+
+Bog = & + Agse + Boss (Sa)
+Bu, =O, + AZ, + Mig, (5b)
+Bop = &, +22, + Woe, (Sc)
+B; = 4s, (5d)
+Bap = Og +42, + Pars (Se)
+Bsz = Os + As2_ + Hse, (Sf)
+Bo = O. (5g)
+
+The city-level variable z measures economic growth. For this study, we
+compute z by
+That is, 2 measures the change in economic output, or economic growth,
+between 1985 and 1988, net of regionally fixed characteristics associated
+with economic output such as the size, infrastructure, and natural and
+social conditions of local economies (Firebaugh and Beck 1994, p. 636).
+In addition, z can be interpreted as a monotonic transformation of the
+more familiar growth rate (denoted as 1):
+
+1 = (GPVIjo5 — GPVIog5)/GPVIjog5 = exp(2) — 1.
+
+In appendix table Al, we present z and an annualized growth rate,
+along with other city-based descriptive statistics computed from the
+CHIP data set.'® We note that z varies widely among the 55 cities, rang-
+ing from .19 (corresponding to a 6.54% annual growth rate) for Yang-
+quan of Shanxi Province to 1.16 (corresponding to a 47.21% annual
+growth rate) for Shenzhen of Guangdong Province. As expected, the
+growth rate tends to be higher in the coastal provinces of Guangdong
+and Jiangsu than in other provinces.
+
+Our interest centers on how the determinants of earnings vary as a
+function of economic growth in China. This is made clearer if we substi-
+tute (5) into (4):
+
+2
+Log (Viz) = Og + Oy Xyiy + Uy Xrin + ZX 7x + Ag Xaip + As Kein + UX rie Xsiz
+Ft ose AX iine + ArKoinde + Ng Laine + As XsinZe (7)
+t (Mon + Min iin + Peon Xrie + Man Xain + MseXsin + ix):
+
+The second line of equation (7) represents the interactions of the individ-
+ual-level explanatory variables (including the intercept but excluding
+squared work experience and gender-education interaction) and the city-
+level measure of economic growth. The third line of equation (7) indicates
+the composite residual consisting of an individual-level residual and city-
+level residuals weighted by individual-level independent variables.
+
+A general two-level model, equation (7) provides the framework for
+our analysis of the regional variation in earnings determination (see Ma-
+son, Wong, and Entwisle 1983). Some special cases of this model are
+worth mentioning:
+HYPOTHESES
+
+One interpretation of our measure of economic growth, z, is to treat it
+as an indicator of the success of urban economic reforms between 1985
+and 1988. Note that z is not an “intention” measure but an “outcome”
+measure. If the urban economic reforms have achieved what they were
+intended to do, namely to spur economic growth, the distinction is of
+minor significance. To the extent that efforts at urban economic reform
+have not always been successful (e.g., Shirk 1989; Walder 1992a, 19925),
+the distinction is important, for, with the use of z, we are actually assess-
+ing the consequences for earnings determination of the success of eco-
+nomic reforms rather than of economic reforms themselves. With this
+caveat, we formulate the following two hypotheses.
+
+HypotuHEsis 1.—The faster the economic growth, the greater the rate
+of return to education.
+
+We derive this hypothesis both from Nee’s (1989) market transition
+theory and from Chiswick’s (1971) economic analysis. According to Nee’s
+market transition theory, during economic reforms, markets gradually
+replace state bureaucracies in reallocating surplus. Since markets “[fa-
+vor] direct producers relative to redistributors” and accordingly reward
+productivity instead of political loyalty, the transition to a market econ-
+omy is likely to give rise to “higher returns of education, which is among
+the best indicators of human productivity” (p. 666). If we accept our
+measure of economic growth (z) as a valid indicator of the success of
+economic reforms and thus market transition, we expect economic
+growth to be positively related with the returns to education.
+
+In fact, this prediction preceded Nee’s work on China. In an economic
+analysis of the relationship between earnings inequality and economic
+development, Chiswick (1971) essentially came to the same conclusion.
+Although he does not clearly identify a relationship between the rate of
+return and the level of economic development, Chiswick predicts that
+“the rate of return is likely to be positively related to the secular rate of
+growth of output” (p. 27; emphasis added). Chiswick’s explanation is
+that economic growth associated with increased productivity and im-
+proved technology tends to provide better opportunities for the educated
+labor force, who disproportionately contribute to and derive benefits from
+a fast-growing economy. Thus, this economic reasoning leads to the ex-
+pectation that our measure of economic growth (z) is positively related
+to the rate of return to education. That is, 4, of equation (7) should be
+positive.
+
+HypoTuHEsis 2.—The faster the economic growth, the smaller the re-
+turns to party membership.
+
+Based on the argument that market forces gradually replace political
+hierarchies in determining social stratification, Nee (1989) unambiguously
+projects a “decline in the value of political capital” (p. 671) during mar-
+ket transition. This is made possible, according to Nee’s market transi-
+tion theory, by the public’s increasing reliance on market coordination
+and decreasing reliance on state functionaries for economic goods and
+services. For support, Nee uses Walder’s findings from a Tianjin survey
+that the positive effect of party membership declined between 1976 and
+1985 (see Walder 1990). Further, Nee suggests that the extent to which
+a socialist economy is replaced by a market economy can vary substan-
+tially by region and sector and that such variations have direct implica-
+tions for social stratification (1989, p. 667). In our analysis, we operation-
+alize Nee’s suggestion through a multilevel model with a macrolevel z
+variable measuring the success of market transition. If Nee’s prediction
+is correct, we expect to see a negative coefficient for \,.
+
+Besides these two hypotheses, we are interested in the interaction ef-
+fects between economic growth and work experience (A,) and between
+economic growth and gender (A;), although our theoretical expectations
+for these interactions are not clear-cut. Work experience may be more
+important in the old redistributive economy because experience is built
+into bureaucratic formulas for setting salaries under the old regime but
+is subject to market regulations under the new regime. If experience
+boosts productivity by an amount that exceeds the experience schedule
+for pay formally set by bureaucratic formulas, experience should be posi-
+tively related to economic growth. However, we have no good reason to
+endorse this proposition, especially in light of the fact that experience may
+become quickly obsolete in a fast-growing economy. Thus, we postpone
+theoretical discussions about the relationship between economic growth
+and the returns to work experience until empirical results are presented.
+
+In a similar fashion, we are reluctant to form an unequivocal hypothe-
+sis concerning the relationship between the gender gap in earnings and
+economic growth. Fears that economic reforms will exacerbate gender
+inequalities have been voiced (e.g., Trescott 1985). Clearly, the main
+source of the fears lies in the erosion of the government’s ability to imple-
+ment socialist affirmative-action-type programs aimed at reducing gender
+inequalities. In other words, if gender inequalities are held to a low level
+by government interventions, they may climb during the transition to
+markets. However, Walder (1990) challenges this speculation and reports
+evidence instead for the narrowing of the gender gap in income.
+
+We follow our earlier strategy of decomposing the logarithm of total
+earnings (J) into a regular salary/wage component (S) and a bonus/
+subsidy share component (B) within the multilevel model frame-
+work. Not only are we interested in testing hypotheses concerning
+how economic growth influences the effects of schooling and party
+membership on total earnings, we would also like to know if the influ-
+ence of economic growth works through regular salaries and wages
+or through bonuses and subsidies. Even when economic growth is un-
+related to the effects of individual-level determinants on total earnings,
+it may influence the effects of the individual-level determinants on
+the regular salary/wage and the bonus/subsidy share in different direc-
+tions.
+distribution. Thus, we make this additional normality assumption in
+order to facilitate statistical inference.”°
+
+We estimate a series of parallel models for the 7, S, and B dependent
+variables with the same sample restrictions associated with these depen-
+dent variables for models reported in tables 1 and 2. In table 3, we
+present goodness-of-fit statistics for three such models, which are modifi-
+cations of equation (7). The first model is the variance components model
+in which all \’s, w 1, 2, by, and ws are constrained to be zero. Its
+departure from the regionally homogeneous model (model 2 of table 1) is
+the introduction of a random component for the intercept (i.e., uo). Nine
+parameters, seven coefficients (a), @1, 2, @3, 4, @s, and a,) and two
+residual variances (var[e] and var[y.9]) are estimated for this model. For
+the random coefficients model, we further allow four w’s (1, M2, Wa;
+and ys) to contribute to their corresponding B coefficients. Since the two
+models are nested, we can assess the improvement in goodness of fit by
+taking the difference in the log-likelihood ratio statistic (L’) to form a
+chi-square test. As shown in the last two columns, the contrast yields a
+chi-square test statistic with four degrees of freedom. For each of the
+three dependent variables, the random coefficients model is preferred to
+the simpler variance components model, since the chi-square test statistic
+is significant.
+
+In the full model, we further allow our city-level variable z to affect
+individual-level coefficients. That is, X), 1, X42, Ag, and A; are now
+allowed to be freely estimated. The full model consumes five more de-
+grees of freedom than the random coefficients model. Again, we use a
+chi-square test (with df = 5) to assess the improvement in goodness of
+fit as we move from the random coefficients model to the full model. For
+all of the three dependent variables, the chi-square test is in favor of the
+full model at a P value less than or equal to 0.001. Note that the chi-
+square tests reported in table 3 are “composite” tests in the sense that
+they test several hypotheses simultaneously. Rejection of the simpler
+model thus does not mean that the additional parameters in the more
+complicated model should all be included. Although we initially tried to
+simplify the full model by trimming unnecessary parameters, we decided
+to report the full model to maintain consistency across the three depen-
+dent variables and discuss significance tests associated with individual
+parameters. For all three dependent variables, the estimated parameters
+of the full model and their estimated standard errors are reported in
+table 4.
+
+We first examine the estimated parameters for the total earnings (7)
+equation. The exponential transformation of the estimated microlevel
+intercept (exp[6.384] = 592.3) should be interpreted as the mean earnings
+for a hypothetical group: male nonmembers with no schooling and no
+work experience living in a city that experienced no economic growth.
+In our approach of allowing the intercept to vary across cities, the inter-
+cept has a structural component (Az) and a random component (jt).
+The estimated A, (under “Micro-macro interactive coefficients” in table
+4) is significantly positive. This is to be expected, as more economic
+growth generates more economic wealth for redistribution to workers in
+the local labor force. Since z varies from 0.19 to 1.16 in our data, the
+estimated \, of 0.685 would contribute between 0.130 and 0.795 to the
+baseline intercept term of 6.384. This result shows clearly that economic
+growth has a very significant effect on the level of earnings. The decom-
+positional results from the second and third columns of table 4 show that
+the increase in the level of earnings associated with economic growth
+occurs mostly through the bonus share component rather than through
+regular salaries and wages (0.440 vs. 0.261, respectively). That is, the
+“¢ 91qe} UT SmOr ,JepoUr TNA, O43 UF
+
+payiodas are sjapour aay} asay} 103 soNsTEIs 3Y-Jo-ssaupooy “payeumnsa st (1) “ba Jo ULAOJ ay} Ut [apoUt JaAarH{Nur [NJ ay} ‘satqeLTeA Juapuadep dary} ay} Jo [Te 10.J—"ALON
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100° 190° 100° 190° 100° BOT erretrtrrtsreseseesecersareaceceesescsececerees (a)7ea
+syuouoduiod a2ueLIeA ]PAI[OIOITAL
+000° 000° »-O1(ST"9) ¢-OT(8T'2) y-OT(08"8) e-OT(hS'Z) [m)ze] (e7eurey = 1) Jepuen,
+»-OT(00'b) y-OT(L9°L) »-OT(ST"€) »-OT(ZS"€) y-OT(bT"9) p-O1(26°8) [zea] (Sek = 1) requiour Ayeg
+,-01(29°9) 9-O1(82'T) 1-OT(LL°L) 9-O1(€8'T) 9-01 (02'T) g-OT(Lb'Z) rr errrerresssrees [(@n) zea] aouetedxg
+9-OT(4$"9) ¢-OT(0E"T) 9-O1(S0'6) ¢-OT(PS"2) ¢-OT(62'T) ¢-O1($6°Z) * [('n) zea] Zutjooyps Jo sxea A
+¢-O1(9L'2) 7-01(92'T) ¢-OT(TZ°2) 7-O1(€T'T) ¢-0T(02'S) 2-OU(T EZ) rr ereerrerseerrssseres [(1) rea] ydaoz03uy
+syuauodulod aoue1eA aAafoIIVIL
+020° 480° — seo" £s0" £b0" 600° — (EX) @Teutay = 1) apuay
+Te0" Oro" 620° +10 — 6£0° 620° (PX) (624 = 1) sequiew Ayeg
+100" 000° 100" soo" — z00° 400° — (2x) aouatadxg
++00" 600° — 00° $00" — 900° LTO rereeneeeeetreneressess ('x) Burpooyps Jo sea
+480° Orr’ $30" 192° oIT $39" s+ (Oy) ydaoraqUy
+:SJUIIYJ90I IATIVIIUL OIIVW-OINTA
+100° 800° TOO" €10° z00° TZ0° (99) Sulpooyss Jo sxeak x Japuar)
+L10" $90° £20" 27" — 820° TEE rr rrereseeessess ($0) (eyeuray = 1) Jepuen
+sto" £10" — +10" 80° 610° 140° * (®) (sa = = =D Jequieu Ayreg
+¢-OT(S2‘T) »-O1(TL'7—) ¢-OT(SL'T) y-O1(9b'€—) OT (0€"2) »-O1(Se9—) * () Aouatiadxg
+TOO" 200° 100: L£0° 100° sro" + (%) souatedxy
+200° 200° — 200° eo" £00" O20 rreeetrirreretresessssss ('») Buyjooyrs jo sieax
++v0" evr £+0" Le6'S 6s0° v8e'9 verses (Ox) ydaosaquy
+1SJUSIOYJ909 [IAd]OII IPT
+as daqjauIeIeg as aaqjourereg as dqourereg
+
+ 
+
+(gq) TAvHS sANOg
+
+(§) TOVM/AAVIVS
+
+(Z) SONINAVY TVLOL
+
+ 
+
+SATAVINVA INSGNadaq AIAH] YOd TAGO| TAAATILTIAYL TINY AHL JO SAALAWVAVG AALVWILSY
+
+v ATEVL
+main reason for higher earnings in fast-growing cities is that workers
+living in such cities tend to receive a higher proportion of earnings in the
+form of bonuses and subsidies.
+
+The effect of schooling on total earnings is 0.029 for males and 0.050
+for females when economic growth is held at zero. Surprisingly, the edu-
+cation effect on total earnings is negatively related to economic growth
+(z), as the estimated A, is —0.017 with an estimated standard error of
+0.006. Within the observed range of variation, z contributes between
+—0.003 and —0.020 to the baseline education effect of 0.029. Although
+the negative influence of economic growth does not reverse the sign of
+the education effect, it can reduce it by as much as two-thirds. While ),
+remains negative in both the S equation and the B equation, it is only
+statistically different from zero in the B equation. Thus, our first hypothe-
+sis is contradicted by the multilevel model for total earnings: economic
+growth is not positively related to the returns to education; instead, the
+relationship is negative. Furthermore, our decomposition results show
+that the negative impact of economic growth on the return to schooling
+works mainly through bonuses and subsidies. Not only does the bonus
+share not increase with education, it actually decreases with education
+in faster-growing cities.
+
+Consistent with earlier results assuming regional homogeneity, work ex-
+perience has a generally positive but concave effect on logged earnings.
+What is particularly interesting, however, is that the linear part of the expe-
+rience effect is associated with economic growth in the same way as the
+education effect: \, is estimated to be negative. In developing hypotheses
+earlier, we were not sure how to predict the relationship between the experi-
+ence effect and economic growth. With the results reported in the first col-
+umn of table 4, we are inclined to group education and experience together
+under a broad category of human capital. In the human capital framework,
+education and experience are the two most important dimensions of human
+capital, respectively representing formal and informal training (Mincer
+1974). However, the similarity between experience and education is limited
+to the model for total earnings. Unlike the case of education, the interaction
+effect between experience and economic growth (),) is significantly nega-
+tive (— 0.005) for the regular salary/wage education but insignificant for the
+bonus share equation. That is, work experience is a less important factor
+for determining a regular salary or wage in faster-growing cities than in
+slower-growing cities. This negative relationship suggests that govern-
+ment-sponsored seniority systems for setting salary and wage scales have
+been weakened in faster-growing cities.
+
+We also observe from table 4 that the effects of party membership and
+gender on total earnings are unrelated to economic growth. For party
+membership, the absence of an effect holds true after decomposition. For
+G= [se > ly: wl] Jems (8)
+
+i=1 j=l
+
+where »., = E(y), and i and j refer to any two data points in the popula-
+tion. The Gini index is bounded between zero, which indicates absolute
+equality, and one, which indicates absolute inequality. For properties of
+the Gini index, the reader is referred to other sources (e.g., Allison 1978;
+Lerman and Yitzhaki 1984). Note that the definition of Gini presumes
+population data. In many research settings, including this one, we have
+access only to sample data. There are two solutions to this problem. The
+first solution is to ignore the difference between a population and a sam-
+ple and apply the population formula to sample data. We call this solu-
+tion “sample analog” (SA) estimation. For convenience, we follow the
+advice of Lerman and Yitzhaki (1984) in calculating SA estimates of G:
+
+G, = 2 covly, F(y)\/9, (9)
+
+where F(y) is the empirical cumulative distribution of y after y is rank
+ordered, and ¥ is the sample mean of y. The second solution is to assume
+a parametric distribution underlying the dependent variable and derive
+a maximum-likelihood estimator. Our maximum-likelihood estimator is
+based on the assumption that the dependent measure y follows a lognor-
+mal distribution, as this assumption greatly simplifies Gini to a monotonic
+transformation of the standard deviation of logged y (Allison 1978, p. 874):
+
+Gy = 2®[Siog¢)/(2"?)] — 1, (10)
+
+where S}9,(,) is the standard deviation of log(y), and ®(-) is the cumulative
+distribution function for a standard normal variable.
+
+For each city, we calculate G, and G,, according to equations (9) and
+(10) and list them in appendix table Al. With few exceptions, G, and G,,
+vary between 0.17 and 0.28. For the whole data set, G, = 0.230 and G,,
+= 0.240. By international standards, these figures are very low (Psachar-
+opoulos 1981; Executive Yuan 1990, p. 19). However, we are not so
+much interested in the levels of Gini as in the variation of Gini across
+different cities in China. In particular, we want to examine the relation-
+ship between Gini or other measures of overall inequality and economic
+growth. Before we delve into this exercise, we would like to draw infer-
+ences a priori.
+
+One dominant view of economic development and inequality is Kuz-
+nets’s (1955) thesis that inequality follows an inverted U shape: inequality
+initially rises in the early and intermediate stages of development and then
+eventually declines with continued development. Strictly speaking, how-
+ever, Kuznets’s thesis is inapplicable to our study because Kuznets was
+concerned with total inequality rather than urban inequality. In fact, rural-
+to-urban migration is one of the key reasons behind Kuznets’s conjecture
+that inequality increases during industrialization. However, Kuznets’s
+thesis has been incorporated into a general modernization theory con-
+tending that increases in inequality accompany rapid economic growth in
+developing countries (Nee 1991, p. 277; Crenshaw and Ameen 1994, p. 2).
+While this conjecture is consistent with the experience of some countries
+such as Brazil (Fishlow 1972), Taiwan’s recent history has clearly proven
+the opposite: Gini coefficients dropped gradually from 0.321 in 1964 to
+0.277 in 1980 and then steadily climbed to 0.312 in 1990 (Executive Yuan
+1990, p. 15). The example of Taiwan is relevant in three ways. First, while
+most studies confirming Kuznets’s thesis are based on cross-sectional data
+(Gillis et al. 1987; Nee 1994, p. 7), high-quality trend data are available
+for Taiwan. Second, being culturally Chinese, Taiwan provides a natural
+reference for comparison with China. Third, Taiwan has had low levels of
+inequality comparable to China’s. If Taiwan did not experience a rise in
+inequality during its early stages of rapid development during the 1960s
+and 1970s, there is reason to believe that inequality can be kept low during
+China’s economic reforms.
+
+Note that the two different methods of calculating Gini yield similar
+results, as the correlation between G, and G,, is 0.932. Thus, the choice
+between the two appears inconsequential. For ease of computation and
+interpretation, we will focus our attention on G,,, which is in essence a
+monotonic transformation of the standard deviation of log(y). In fact,
+the standard deviation or the variance of log(y) can be used as a direct
+measure of inequality (Allison 1978). Labor economists (Chiswick 1971;
+Fishlow 1972; Lam and Levison 1992) have shown that total inequality
+can be decomposed based on the individual-level determinants of earn-
+ings. For ease of illustration, let us work with a simple case where there
+is no interaction effect between education and gender. That is, we set
+6. = 0. For each city we take the variance function on both sides of the
+equation and then take the partial derivatives of log Y with respect to
+
+8, and B,:
+
+dV(log Y)/AB, = 2B, V(X) + 2B, cov(X,, X,) + 2B, cov(X,, X3)
+
++ 2B, cov(X,,X,) + 2B; cov(X,, Xs); (11a)
+dV (og Y)/9B, = 2B, V(X,) + 2B, cov(X,, X,) + 2B; cov(X,, X3)
+
++ 2B,cov(X,, X,) + 2B; cov(X,, Xs). (11b)
+
+We now make another simplifying assumption that the covariances do
+not vary across cities so that we can substitute estimates from the entire
+sample into the equation.”! As an approximation, we also make use of
+our earlier parameter estimates under the assumption of regional homoge-
+neity (i.e., model 1 of table 1). Thus, we reduce equation (11) into
+
+dV(log Y)/8B, = —.02799 + 19.4992B,; (12a)
+aV(log V)/AB, = —6.0645 + 210.14648,. (12b)
+
+ 
+
+That is to say, as long as B, is above a small threshold of 0.0144, which
+is generally true for our data, earnings inequality is a positive and increas-
+ingly positive function of the rate of return to education. Likewise, as
+long as B, is above a small threshold of 0.0289, which is also true,
+earnings inequality is a positive and increasingly positive function of the
+return to the linear component of work experience.
+
+Hence, we infer that macrolevel factors that increase the rate of returns
+to education and work experience also increase overall inequality. At low
+rates of return, increases in overall inequality due to increases in returns
+to human capital are slow. At high rates of return, however, increases
+in overall inequality due to increases in returns to human capital are very
+fast, as the relationship between the two is nonlinear and convex. It is
+for this reason that we stated that Nee’s market transition theory implies
+an increasing trend in overall inequality (see n. 4).
+
+In table 5, we present the correlation matrix for various city-level
+indices and regression parameters. As expected, faster economic growth
+is correlated with higher mean earnings (correlation = 0.577) and higher
+mean logged earnings (correlation = 0.502). Furthermore, the correlation
+between economic growth and the mean of our bonus share measure is
+much higher (0.522) than that between economic growth and the mean
+of logged salary and wages (0.216). Note that the city-level measure of
+bonus rate (reported in app. table A1) is highly correlated with the mean
+of our measure of the bonus share (0.980), an indication that B captures
+intercity variation in the importance of bonuses and subsidies relative to
+regular salary and wages.
+
+We note the negative correlation (—.407) between R? from the city-
+specific baseline model and economic growth (z). This negative correla-
+tion suggests that earnings determination varies less systematically and
+conforms less to the human capital model in cities where economic
+growth has been faster than in cities where economic growth has been
+slower. Much of this negative correlation is due to bonuses and subsidies,
+as R? has relatively large negative correlations with the mean of B and
+the city-level bonus rate (—0.515 and —0.503, respectively) but a small
+positive correlation with logged salary/wage (0.103).
+
+Consistent with results from the multilevel analysis, faster economic
+growth is correlated with a lower return to education (correlation =
+—0.337) and with a lower return to work experience (correlation =
+—0.115).?? Of special interest in table 5 are the correlations between
+economic growth and several measures of inequality: economic growth
+has low correlations with the SA and ML estimates of the Gini index
+(0.287 and 0.236, respectively). These results do not lend strong support
+to the modernization view that high inequality is a necessary price to
+pay for rapid economic growth. In brief, cities with faster-growing econo-
+mies are characterized by higher mean earnings (particularly higher bo-
+nuses and subsidies), lower returns to education and experience, less
+conformity to the baseline model for earnings determination, and slightly
+higher overall inequality.
+
+Given equation (12), these results imply that education and experience
+work to depress the overall inequality in faster-growing cities. That is,
+the correlation between economic growth and overall inequality would
+“2 aqey ‘dde wo aur0s “5
+pur -¥ “Ty 219%} “dde ur poyiodai are sayer snuog JaAe-AjD “saye1 snuog Jo uoTeURTdxa ue J0J TY 2I1qQe} “dde 2ag ‘0 = °f = *¢ Jey} JUTENSUOD oy} YATM ‘sarTD Sg ay} JO
+yore 104 () “ba Jo sayeumse saxenbs-ysea] ayy 0} Jayar (s,g) sJUatyyza0o uoIsseIZOY “uoReUINse Zojeue-sjdures = YS pue UoreUINse pooyrjayy-uNUXeu = TJ{—'aLON.
+
+ 
+
+ 
+
+ 
+
+OOO'T Shp The BSE OZ SHE" SHI 00Z-  E10"—99T— vET'- LL” TT (7g) aousttadxe Jo “73209
+000'T THO" Tsp LOT" 902 E977 — LZ OFO'—  S@z"—  SBTT— BBT— LEE ee (7g) woryeonpe Jo “33209
+
+O00'T 2Is'— 906° 66" 898" TE ZT" COT” SZ hOB ET ttre (4p) TUE penpIsoy,
+
+OOO" —862"—  9EZ"— LOS STS GOT" 067" = THE 090° = LOR rs QD a
+
+O0O'T @€6" —10Z’— SHI HI" ZO — ET’ 620" ~~ (2p) eyeunse ys ‘TurD
+
+OOOT Lez Z8T" 660" S20" BLT OB ~~ (*p) syeumse TW. “TUED
+
+OOO'T 086" STO" LIEN BOLTS reeeerrereernens ng) aye snuog,
+
+OOO'r 1£0' 669° 199" 180" ze" * (q) areys snuog paso] jo vay
+
+OOOT F€L° 824" O20" (g) eBea/Arefes pedo] Jo ueayy
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+000°T 196° 410° zos” creteeees « So]) sBururea pa8Zo] jo ueayy
+O00'T 090° LLG) etree (@) sBururea Jo vay
+ooorT st'- 7 7" (¢ 30}) ezis uoeindod passo7
+000°T veeee srett* (2) YyMorZ IWOOT
+‘9 nr) oy 9 “9 ua a s & Bo} « g 30 2
+
+ 
+
+ 
+
+WNIHD NI SaILID $¢ SSOUDV SOILSILVLS GALVWILSY GNV SAT€VNIVA TVALXELNOD ONOWY SNOILV1aaaOZ
+
+$ ATaVvL
+DISCUSSION
+
+To recapitulate, our results are negative: We failed to find higher returns
+to education and lower returns to party membership in cities that experi-
+enced faster economic growth. Instead, for total earnings the returns to
+education as well as to work experience are negatively associated with
+economic growth, and the effects of party membership and gender are
+regionally invariant. Furthermore, we find the correlation between eco-
+nomic growth and overall earnings inequality to be moderate, in part
+due to the equalizing influence of the negative relationship between the
+returns to human capital factors and economic growth.
+
+These new results contradict expectations derived from the literature
+and thus present an interesting empirical puzzle. Very often, it is new
+empirical findings that serve as the ultimate arbitrator of theoretical dis-
+putes and set the course for future theoretical work. Although our pri-
+mary interest in this paper is to report surprising empirical results, we
+would like to offer our interpretation in this section.
+
+While data quality can always be suspect, we believe that it is an unlikely
+source for the negative findings.”* Compared to data used in similar studies
+on earnings inequality in China, CHIP is superior for two reasons. First,
+CHIP is a large national sample; in contrast, most earlier studies (with the
+few exceptions of Khan et al. 1992; Griffin and Zhao 1993; Nee 1994, 1996)
+are based on regional samples. Second, CHIP used an unusually detailed
+survey instrument to collect information pertaining to earnings, including
+all forms of subsidies (see Griffin and Zhao 1993). In addition, our results
+are robust in the sense that our qualitative conclusions do not depend on
+our multilevel model. As shown in table 5, the returns to education and
+experience estimated via OLS separately for each city (with B, and B, set
+to zero) are negatively correlated with the measure of economic growth.
+Although we concede the possibility that economic growth may have been
+measured with error, there is no reason to believe that measurement errors
+are so systematic as to bias our results. We have confirmed the validity of
+our measure of economic growth both by a city-by-city check for face valid-
+ity and by its high correlation with mean earnings (table 5). One likely
+source of measurement error for economic growth is possible changes in
+geographic boundaries between 1985 and 1988 (see n. 18). Such changes
+should favor smaller cities, which have expanded more rapidly in recent
+years. That is, it is possible that our measure of economic growth for small
+cities is inflated due to the problem of boundary reclassification between
+1985 and 1988. Table 5 shows, however, that the logarithm of population
+size in 1988 has only a weak negative correlation with the measure of eco-
+nomic growth (—0.151). We should not attribute all of this correlation to
+boundary reclassification, since we know that smaller cities have actually
+experienced faster rates of real growth since the onset of the reforms. In
+any event, it is safe to conclude that this correlation is too small for city size
+or measurement errors associated with city size to explain away the role of
+economic growth.
+
+One likely explanation for the negative findings is that Nee’s market
+transition theory and Chiswick’s economic reasoning may be applicable
+to rural China but inapplicable to urban China. As observed by Réna-
+Tas (1994, p. 44), Nee’s support for market transition theory has so far
+been restricted to data from rural China; whether conclusions drawn
+from studies of rural workers can be generalized to urban workers re-
+mains an open question. Vast differences exist between the urban and
+rural sectors of China, in large part because the two sectors have been
+governed by distinct administrative policies with tight restriction on ru-
+ral-to-urban migration. The scholarship on contemporary China has
+nearly always made a sharp distinction between the rural and urban
+sectors, treating them as separate entities. In a recent study of wages
+that combines the two, Peng (1992) finds that the Chinese wage sys-
+tem is characterized far more by the rural-urban distinction than by the
+public-private distinction, as wage determination in the rural public sec-
+tor is similar to that in the rural private sector but quite different from
+that in the urban state sector. One prominent rural-urban difference is
+that, prior to economic reforms, Chinese agriculture was collectivized
+into communes but was never nationalized, whereas the state owned
+virtually all of the important enterprises in urban China. Indeed, one
+may make a case that industrial reforms in China are more partial—that
+is, farther away from the ideal of “markets”—than agricultural reforms.
+
+It seems plausible that our negative findings can be attributed to “par-
+tial reforms” in urban China, as the transition to markets is far from
+complete. This argument, however, is untenable for three reasons. First,
+as Roéna-Tas (1994, p. 44) argues, it is too easy to attribute negative
+findings to “partial reforms” and thus to make market transition theory
+unfalsifiable. Second, if the negative findings are indeed attributable to
+partial reforms in urban China, we are interested in knowing how partial
+reforms have brought about a regional variation in earnings determina-
+tion that contradicts our theoretical expectations. Third, Nee (in this
+issue) reports that for rural China the effect of education on income is
+significantly positive for inland provinces but nil or negative for coastal
+provinces, a finding that he found unexpected (p. 940) but that is consis-
+tent with our results.
+
+We attribute our negative findings to the lack of a true labor market
+in 1988 urban China. Restated, the relationship between employers and
+employees remains essentially in the old socialist order, although eco-
+nomic reforms have generated new manifestations of this relationship.
+As pointed out by Lin and Bian (1991, p. 661) in a study of status
+attainment in urban China, “status attainment in China is more geared
+to work units than to occupations per se.” That is to say, where one
+works matters a great deal and probably more than what tasks one per-
+forms in the workplace. Similar to occupation in western societies, one’s
+work unit affiliation in China reveals much about one’s social status.
+Before economic reforms, inequalities generated by work units were
+mainly manifested in terms of housing, access to facilities (such as bath-
+houses and childcare centers), the ability to confer or seek favors (guan-xi
+or “connections”), and other fringe benefits. Since the reforms, however,
+the benefits that workers derive from work units have become more
+monetary. Walder’s (1986, 1987, 1992a, 1992b) work has clearly demon-
+strated that work organizations commonly engage in handing out mone-
+tary benefits to their workers, sometimes over the upper limits set by
+the government. When work organizations have more resources at their
+disposal, these resources are directly translated into financial benefits to
+workers in the form of bonuses and subsidies, regardless of workers’
+actual contributions. That is to say, intraorganizational inequality is kept
+low while interorganizational inequality may have risen, primarily
+through the distribution of bonuses and subsidies.
+
+Let us illustrate the situation with a hypothetical example. Say two
+incumbents (“a” and “b”) of the same occupation have identical quali-
+fications and are thus substitutable for each other. The actual amount
+they are paid may vary greatly depending on the abilities of their work
+units (A and B, respectively) to afford bonuses and subsidies. It is possible
+that organization A pays worker a 1,000 yuan (about 53% of average
+urban earnings in 1988) more than organization B pays worker b simply
+because A has more money at its disposal than does B. In fact, A pays
+all of its workers about 1,000 yuan above the level B pays its workers.
+Because there is no labor market in urban China, workers working for
+organization B cannot quit to move to organization A in order to get
+higher pay; neither can organization A replace its workers with those
+working for B in order to lower its labor costs. In fact, as shown later,
+organization A has no incentives to lower its labor costs. Hence, pay
+inequities across work organizations will not disappear or even approach
+equilibrium. Although greatly simplified, this scenario captures much of
+the reality described by recent scholarship, particularly Walder’s, on
+social inequalities and work organizations.
+
+How do we account for organization A’s seemingly irrational practice
+of paying its workers more than “necessary” in the form of bonuses
+and subsidies and thus foregoing higher profits? Walder (1992a, p. 526)
+persuasively eliminates as an explanation the need to use incentives for
+retaining skilled workers, as the labor market is essentially nonexistent
+and job mobility is extremely low in urban China (Walder 1986; Davis
+1992). There are two explanations, one economic and the other sociologi-
+cal. The economic explanation is based on the fact that socialist econo-
+mies typically operate under what Kornai (1986, 1989) characterizes as
+a “soft budget” due to vague definitions of property rights. As Kornai’s
+work demonstrates, under a soft budget, it is quite rational for work
+organizations to spend as much as possible since they are constantly
+bargaining to obtain or protect economic resources from the central gov-
+ernment. Rewarding workers with extra pay or other tangible benefits
+increases the cost of production and thus reduces the amount of profit
+being sucked away into the government’s vast redistributive channel.
+
+The sociological explanation argues that social structures in socialist
+societies are tightly organized around work organizations (Walder 1986).
+In socialist economies, employment is not a market relationship in terms
+of payment for labor or services performed. Rather, “employment plays
+a welfare role,” with work organizations being responsible for the overall
+well-being of their employees (Walder 1986, p. 11). Although the govern-
+ment has attempted to change this employer-employee relationship in
+recent years (e.g., housing has been commercialized in limited areas), the
+norm of employer paternalism is so entrenched in Chinese society that
+the attempt has not been successful. In fact, workers’ dependency on
+work organizations has not decreased but increased, since bonuses and
+subsidies, which are set by the work units, have constituted an increas-
+ingly large fraction of earnings over the years (Walder 19926). In our
+CHIP data, we have found bonuses and subsidies to comprise higher
+proportions of total employment earnings in faster-growing cities than in
+slower-growing cities.
+
+Although all work organizations have an incentive to “overpay” their
+workers, not all of them are in a position to do so. As a consequence of
+economic reforms, organizations are allowed to reward their workers only
+when they can find the financial resources needed for doing so. However,
+this pay inequality generated by work organizations appears to critics as
+“irrational” or “unfair” because profit differences between organizations
+can be arbitrary. A Chinese observer (Zhao 1994, p. 113) points out that
+profit levels are affected by many “external conditions” above and beyond
+workers’ productivity. Such external conditions include the dual-pricing
+system, domestic and international markets, administrative mismanage-
+ment, and the government’s financial policies toward certain districts, cer-
+tain industries, and certain enterprises. From this, Zhao concludes, “Ex-
+cessive earnings inequalities across districts, industries, and work units
+attributable not to differences in worker productivity but to these [external]
+factors have generated the masses’ discontent. On the surface, this discon-
+tent reflects the unfairness of distribution; in actuality it reflects the un-
+fairness of process. From this, we think that the government . . . should
+provide all workers an equal opportunity for fair competition” (p. 113, our
+translation from Chinese). By “the unfairness of process” Zhao means that
+the affiliation with highly profitable enterprises, which is the major deter-
+minant of earnings, is determined mainly through administrative channels
+and not through market forces.
+
+If interorganizational inequalities are largely due to external factors that
+are related to economic disequilibrium, intraorganizational inequalities
+can be even more arbitrary. Walder (1987, 19926) and Shirk (1989) both
+show that workers prefer equal distribution of pay and reject any notion of
+linking pay and productivity within organizations. Let us recall that earn-
+ings in 1988 urban China essentially consist of two parts roughly equal in
+importance: (a) regular salary or wages and (b) bonuses and subsidies.
+While the first part is set by the government and varies little, the second
+part is set by individual work units. Note that the returns to education and
+experience are explicitly recognized in the government’s pay schedule.
+Walder’s and Shirk’s work suggests that human capital factors do not mat-
+ter much in the determination of bonuses and subsidies within an organiza-
+tion. If this is the case, the more capable organizations are of giving mone-
+tary benefits to workers, the higher the intercept of the earnings equation
+but the flatter the slopes of human capital factors.”> Large geographic varia-
+tions in economic growth and thus financial capability explain why the re-
+turns to education and experience are lower and average earnings are
+higher in cities where economic growth has been faster.
+
+Direct evidence has yet to be collected that would show workers’ high
+dependency on the financial conditions of their work units for bonuses
+TABLE 6
+
+SIGNIFICANCE OF VARIOUS FACTORS IN DETERMINING REGULAR SALARY AND BONUS
+SHARE: RESULTS FROM AN ANALYSIS OF VARIANCE
+
+ 
+
+ 
+
+SALary (S) Bonus SHARE (B)
+SouRCE df SS MS SS MS
+
+ 
+
+By explanatory variable:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+City ....... 54 142.258 2.634 251.588 4.659
+Education 7 43.905 6.272 778 ALL
+Experience . 45 429.793 9.551 29.213 .649
+Party member . 1 5.402 5.402 -093 093
+Gender 1 9.145 9.145 +129 129
+Gender-education interaction 7 5.379.768 -810  .116
+Employer ownership .......... 8 20.301 2.538 4.199.525
+Occupation 7 7.776 1.111 -810 .116
+Industry .. 16 11.200 = .700 5.989.374
+Employment term . 4 4.750 1.188 7.279 1.820
+
+Model ...............645 150 1,124.339 7.496 326.907 2.179
+
+ 
+
+ 
+
+Error .... 15,437 904.494 .059 927.312  .060
+15,587 2,028.833 1,254,219
+55.42 26.06
+
+ 
+
+ 
+
+Note.—WN = 15,588. All explanatory variables are entered into the analysis of variance as categorical
+variables. df stands for degrees of freedom, SS sum of squares, and MS mean of squares (MS = SS/
+df). For explanatory variables, SS refers to the partial sum of squares with other variables controlled
+for. Missing values are coded into a separate category for employer ownership, occupation, industry,
+and employment term.
+rion, which adjusts for degrees of freedom. For the logged regular salary/
+wage (S), city is the sixth most important factor after (in order of impor-
+tance) experience, gender, education, party membership, and employer
+ownership. For the bonus share (B), city is by far the most important
+factor: a 4.659 mean of squares is attributable to intercity differences,
+with the next highest mean of squares being 1.820 (for employment term).
+Similar to results shown in table 2, the bonus share is less “explainable”
+than regular salary/wage. For the B model, R? is 26.06%; R? is 55.42%
+for the S model. To the limited extent that it is explainable, the bonus
+share is mostly determined by geography: at least 77.0% of the small R?
+for the B model is attributable to intercity variation.”” For S, the compa-
+rable figure is merely 12.7%.
+
+These ANOVA results in table 6 are consistent with our interpretation
+that bonuses and subsidies are distributed to workers mainly for their
+affiliations with profitable work units. The share of bonuses and subsidies
+among total employment earnings does not reward human capital factors
+because bonuses and subsidies are regulated neither by the old socialist
+regime nor by a market regime. In the socialist regime, salary is set
+administratively as an increasing function of education and experience; in
+the market regime often regarded as the ultimate destination of Chinese
+economic reforms, employers would need to raise bids in order to compete
+for productive workers. Given the absence of true labor markets in 1988
+urban China, moderate returns to human capital factors for the regular
+salary or wage suggest that salaries and wages are governed by the old
+socialist regime. In contrast, bonuses and subsidies are largely unregu-
+lated according to any clearly articulated logical system.
+reforms is also unsupported, as we find the return to party membership
+to be invariant.”* Our results are consistent with Réna-Tas’s (1994) recent
+work, which clearly demonstrates the importance of political capital for
+maintaining an advantaged position during Hungary’s transition to a
+market economy. In addition, our results show that the gender gap in
+total earnings is also unrelated to the pace of economic growth. The level
+of overall earnings inequality remains low in China and only slightly
+correlated with economic growth, in part because the tendency toward
+higher levels of inequality in faster-growing cities is offset by the lower
+returns to human capital variables in these cities.
+
+Given the high quality of the data and the appropriateness of the
+statistical strategies used, we conclude that our negative results serve to
+reject the applicability of Nee’s market transition theory, at least to urban
+China in 1988. Although one cannot really rule out the possibility that
+market transition theory will become more applicable with time, we do
+not resort to “partial reforms” as the default explanation, as it is tauto-
+logical and unfalsifiable. Rather, we find our results to be congruent with
+economic and sociological explanations that give primary attention to
+institutions as agents of stratification in socialist and reforming-socialist
+economies.
+
+In conclusion, we find that in terms of earnings determination, reform-
+era urban China cannot be simply characterized as falling along a contin-
+uum between a redistributive economy and a market or capitalist econ-
+omy. Instead, we argue that the postreform Chinese economy has
+qualitatively unique features and should be studied accordingly. One
+unique feature is that, while there are free or semifree markets for goods
+and services, labor markets are virtually absent. A related feature is the
+vagueness in defining property rights and articulating the rules for profit
+sharing for nominally public enterprises. Given the continued acceptance
+of the ethos that work organizations should provide welfare to workers,
+profitability differentials are translated into large differentials in bonuses
+and subsidies across work organizations and thus regions. Variations in
+bonuses and subsidies cannot be adequately explained by a traditional
+human capital model. Ironically, the extra earnings in the form of bo-
+nuses and subsidies that epitomize economic reforms are even less subject
+to market forces than are regular salaries and wages. We view this irony
+as an unintended consequence of economic reforms in urban China,
+which until now have failed to effectively address the fundamental issues
+of property rights and labor markets.
+v6 le or oll Luv ore" BPEL 1z¢ Te9'T Tle corres nogzurt
+6°01 Te eb" 191" 191" 862° 8er'l 819 084‘T zs oo" Zuopued
+oz ve Ly 7st" ost” 6Lz° OS's sss 188° €19 . vreerrsrersersees UBT CT
+e1l 7 st elt zur" L0¢" srl z+9 ST8‘T 619 vrreeereerssesreseseececes BupkUaYS
+:Zurwoery
+6°02 Ls" or Tez" Tre" eer" 90¢"L 88 zh9'T 6L1 coer: Supsyun x
+T0¢ 6L er zs7" TSz" es 9ee'L 408 669'T 861  Susyourf
+$8T 1s" Ir" 961" Lez" oer £674 z8$ L8s‘T 002 Srrrerereersrereeresesesrees yz Suey
+$9 or le 092° 6b" rr 662°L spel ZL9'T L0z coe uenbsue x
+86 gz or 612 ver zr sIeL 878 spoT gee vrreeerreeeseees, Buoyed
+16 9e° am 187" $92" Lie vSeL 102'2 oes‘T ze ~ uendrey
+Txueys
+8 oe" or" 961" 91z" 88" LOS", StL 796° sig creeeteees vo Burfieg
+surfiog
+sb ez" Ore Ter" oes LL0'T 1L8‘T 298°ST TeI0L
+(%) avey z ey 2 5 as weal as ueayy N
+jenuuy snuog
+xe@puy tury) s8ururegq pessory
+
+ 
+
+YMorN swWOUDd Ty
+
+sSuruieq jenuuy
+
+ 
+
+SOO 88-s86T
+
+VIV( OXOTA dIHD 8861
+
+ 
+
+ 
+
+ALID GNV FONIAONY Ad SHOLVOIGN] OLWONOOY GNV ALITWNOANT SONINUVY JO SdANSVaY AUVNINAS
+
+IV ATaVL
+6'eT oe Ir gor" est" 8ze vOe'L S8b e9s‘T sot vores Suedueny
+6-02 Ls" 6g" 161" zoz" z9¢° €L2'L 98¢ Les't ver ~ uerpeunyz
+v2 09° Le zz" ez" sir Leek 8s ozs‘t 692 o Suerxury’
+Ver Le ee vez $97" Lb sore 199 ert s8z srrrrereressrerecsrrsesesesesees BUBAUYT
+9°91 or ve 102" 102° ze" 9rz"L 09¢ oos‘T zt - cores upyssuIpsuld,
+vst eb" La re Ze Leb 2L7'L 26$ 99s‘t z9¢ “+ BuesonT
+Lg sz" oe" 6Lt oT" ore" stl ely e6e'T vor ceerreeess Suge yy
+TOr 62" se" O6r" 961" ose’ been 8e9 e19'T vse ceretteeeececensnsnes noyzsueyZ
+sweuox,
+set se" or ata Tez" 9Ir 9824 889 8s‘T $8 coe puny,
+wl sr or" 972° oe" ey £86°9 ors LUT 16 cireeseeeeeneens + Buedng
+a se or ior: Bez" sop" coe ozs"t s08't pee cette SuTbUY
+el ze er" gsz" ele" vor" roel 186 LL9'T LLe cerpteeeneceees oo ueurenyy
+vat se" sr Lez" Sz" zsh T9e"L SL oeL‘T 981 vere " nqsueg
+Vet le eh 6Lt vor" Bre 18¢"L 882 21L'T eLt - . nyo
+wLI 8b" sh 161" 72" Tor" 906"2 £86 984'T 606 ” seers TOE
+“mnyuy
+sre 68° sb 112" 02" soe" Ozr'L 9r6'T ers‘T 062 “ noyzsue A,
+6°02 Ls sb vor" Lou" yse" €2b'L 92s SOL‘T 06 crrpreesesoesersesesoeseseeees ZUQU OU A
+$02 9s" or" 602° 102° zLe" 680° ble 782'T LOL sereseeweceeseseovoseseeeeseeee ULATENET
+6°81 zs Lr 291" Ist" +e 9Is'L 9¢9 Te6‘T Or cerrttenseees “+ SuojueN,
+1st os" Ly 9st" 002° ose" SLL €2L 818'T 9LT “ noyzsueyD
+o'zr +e or" ost 6st" 6c" ose'L oss 269'T ore “ noyznx
+Lor os or cor" 91" vie S8b'L ess s98‘T bb . verre TXT
+vst er or 191" bl zie" Ors ozs oeu‘T ves ve Surfuen,
+ms3ueif
+(%) ey z aey a “9 as ueay, as ua N
+jenuuy snuog
+xapuy tury sSuluzeq padZo-y (ueng)
+
+ 
+
+WyMory) MwWou0TT
+
+s8urwreg jenuuy
+
+ 
+
+SOD 88-$86T
+
+VLVQ OMI dIHO 886T
+
+ 
+
+(panuruod) 1¥ ATAVL
+“Y}MOIZ Jo ayer pezifenuue our z s}19AU0d
+
+Ayer TENUUR,, Payfaqe] UUNJod ye] ayy pue “(*TAGD/*"'TAqd)30] = 2 (EAdH) ANsnpur Jo anpea yonposd ssoaB Aq painseoul st yjMorB IOUOIy “sarpisqns/sasnuoq
+
+ysed adeiaav ay} sajouep
+
+24 pue oBem/Areyes 1epnBai aBesaae ay} sajouap ‘4 oxy “(24 + '4)/2q se (@Bem/Arepes aatjtsod YIM syuspuodsar asoy} 103) peuyap st ayer
+
+snuog “A1fenbaur Jo xepur TUIH ay} 10y sayeuITse Zopeue-ojdures pue pooyrpsyy]-wnuxe ay} Jouap ‘Ajaanoadsar “5 pue “y pue ‘azis ejdures ay} sajousp A/—"SLON.
+
+ 
+
+OL
+
+v6
+
+oeT
+evr
+$2
+oO?
+69
+
+fir
+
+Toe
+vip
+v87
+ase
+se
+aly
+Ost
+OFT
+
+87
+Ter
+OFT
+sor
+86
+
+ce
+
+La
+6
+or"
+19°
+ve
+07°
+we
+
+6L
+vO'T
+sl
+16°
+16°
+Ort
+ey
+Tr"
+
+sl
+Le
+Ww
+oe"
+82°
+
+se"
+
+er"
+cy
+Le
+vs
+8b
+
+os”
+
+8s"
+9S"
+8s"
+89°
+7s
+Ly
+es
+es”
+
+vy
+se"
+by
+sv
+Iv
+
+TSsz
+
+Ost’
+err”
+902°
+€2z"
+zor”
+sez"
+lt
+
+bre
+S@z
+OLz°
+Bez"
+ere
+961"
+6€7°
+Os2"
+
+ser”
+oot”
+6ST"
+991°
+vl
+
+Sle
+
+vst”
+est”
+O22"
+e@z"
+Olt’
+OfZ"
+cor”
+
+982°
+cst
+$67
+sez"
+see”
+827°
+408°
+zse"
+
+Ost”
+991°
+691"
+002"
+zor”
+
+Lov"
+
+Sle
+ele"
+v6e"
+00r"
+vor"
+viv
+ere”
+
+sts”
+vs
+ges”
+ety
+419°
+OTr”
+sss
+sy
+
+892°
+962°
+zoe"
+sse"
+ere:
+
+60b°2
+
+60r°L
+Tors
+Ter.
+88s".
+6982
+cp
+8Ss"L
+
+Z6S°L
+Ssovk
+LOS
+S66°L
+Lev
+LE78
+LoL
+OTL.
+
+Loy
+OLe£
+66r'L
+Orbs
+6Ir'L
+
+982'T
+
+28b
+bsp
+Or0'T
+826
+Ts
+ore'T
+£69
+
+ost‘T
+L10'T
+ont
+920‘
+SIS‘T
+Tes‘T
+0L6
+
+SbLiT
+
+Ley
+vss
+86S
+Les
+0z9
+
+s98‘T
+
+eTL'T
+008‘T
+vest
+Zvr'z
+£202
+£e8‘T
+$20°7
+
+6272
+gte‘z
+£222
+egz‘e
+9¢0'
+990'r
+920'Z
+90s‘z
+
+eLL'T
+099'T
+688'T
+86L'T
+29L'T
+
+960‘T
+
+T6T
+vst
+26
+98T
+08
+
+TST
+Sis
+
+107
+022
+961
+60¢
+16
+
+907
+68T
+Lss
+
+261
+LOZ
+v6
+961
+es9
+
+ 
+
+* noyzuey
+msuey
+so upysoeg
+rd
+see ntfagy
+veer en,
+~ Burne
+sees uenypsuoq,
+Votes SuTTUNY
+cueuun x
+"+ Surboeyz,
+“ noyziny,
+ Suerfueyz,
+sores upysog
+“ noyueys
+“* uayzuays
+* wensoeys
+sees poyzsueng
+:Suop3ueny
+uesorry
+“ Tyseys
+” uediyg
+ TysBuenyL
+vo uegNA,
+eqn
+6LT” ore asp 060° seo" — sot" 29"'7— T¢0° 610° 299°9 ixuny,
+11z ole” Sz 120° 62h — 111" 11zz- 120° £10" 649°9 7 Bueéng
+vez zor" 8°97 120" 18z°— seo" 046°9— 640" ZO" gss‘9 * Surbuy
+8Iz° 16¢" ese 190° Ore’ — 390° 6b8'b— 9¢0° sto" 148°9 “ ueurenyy
+96T° zse" ep oto" slz-— oto’ — 660° — vS0° +0" veg 7 nqsueg
+491" 867° v6z 200° £10°- 920° 161"b— seo" 620° 119°9 sees TUT,
+zr" gee Ore 600° ser — 690° 809° — 8£0" 9¢0° 96b'°9 "0" PRH
+amyuy
+bl ore £°67 810° o8z°— 10" ers e— 70° 810° TZgg rs noyzsue A
+ist 182° ZIP oto 661 — 101" seo"s— T¥0" S10" 692°9 : ~ Buayoue x
+61 oze" T0¢ 10° 0zz"- LOI" 6IrL— 90" 9¢0° eTe'9 sees ULATeny
+Orr” 992° ve 810° soe’ — SIT’ ble p— Tg0° 00° OOr'Z ~ Suojuen
+69T° zoe" vie $zo" 96e° — Ts0" zerL— so" £00" 696°9 “ noyzaueyD
+evr" pst" Ley 80° Lgg-— 160° 106°9— v0" +10" 6L°9 “ noyznx
+eT 8b" 9°8¢ 00" 0L0°— 490° vsoe— +£0° 620° 91L°9 vores ORM
+921° $77" vsP £10" Le — $60° ore L— L~0" L10° 889°9 a ONG
+ms3ueif{
+Ter" eez" €or 20° Zug — zor" OL b— Lg0° £20" £799 *  noyzurt
+OT: 62 se 900° — 000° £0" zezt— 120° 80° L41L9 * vo Buopued:
+921° $77 ose £10° 161 — 6s0° Le peo" 610° £s88°9 vores UpTTed
+Opt” osz° ere S10" oz" — L410" el b— ££0° 20° Lylg corres Bue cuayg
+:Buluoery
+oz LLe" 6°92 zr0" vos — o¢0" Ove’ s— +0" 800° 169°9 verrrrees Bugysun A
+TOT ere Sr 410° 060°T — 17 @7-@1— 190° 800° — 0989 rrrrererererereess Buayutt
+Sor’ ore ose 8s0° eu - oro" sseL— 9S0° 610° Orb Q “7 Tyzsuey)
+ata T8¢" Toe eo" ele — 060° — 1S9°6— 090° 9¢0" 6re'9 * uenbsue x
+est 8ze" L°0b 090° £68" — $10" ose6 — +S0° oto" 8bL°9 verre Buoyed
+102° ole” S-Ob z£0" Oz — $77" 8618 — TSO" £20" 19¢°9 veers WenATe TL,
+crxueys
+ost 6ze" 1°82 $00" ost — £0" ssro— £0" 810° segsq cu - cree SuTftog,
+:Burlleg
+asWa (%) oo 9 sg ‘9 (,-01 x) *d ‘g °g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALIQ (NV FONIAON AT
+
+TAGOW TWLIdVD NVWAY GaIGOW AHL AO SALVIWILSY
+
+eV ATaVL
+“ASIN Uo paseq
+XOPUT TUT) OY} JO ayeuNT|se Pooyrayl]-wNuTXeuL ay} 10} “H pue ‘10112 parenbs uvaul jOOI Joy spurys |SWY *(1) “be Jo sayeuutysa sarenbs jsea] Areurpio are sg [[y¥—"aLON.
+
+ 
+
+ 
+ 
+
+       
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+e12" ze" er 660" 649° — zt $rl8— 980° z€0" €1h'9 vemos NOUZURT
+msuex)
+ag 96T" vos $00° — $s0"— 600° SLLS— 10° £0" gisg oo ueysoRg,
+620" o¢z" zTE £00" 8st" — €s0" vez — €20° 920" 906°9 * cos qe
+sor" $62" 6'Sb O10" Lee" — S10" SLL'6— 790° TPO" oze'9 ~ nifen
+soz" Loe" Sst 120° Lee — zt os.'z— €z0° — €00°— L2e'L vee TTA
+Let" £pz 80r 620° T4g°- 160° 800° — T10° $20" 62ZT°L vos Burlnd
+Lu Lie" o'er +20" ble — Sut" 826°¢— 960° 00" beso oo wenyasuog,
+cor" 062" voz 400° — oro" 090° 680°4— 9r0" hE" 6199 coe Burrus
+sweuunyz
+ore" bbb" 6°82 810° oe" = 200° — OL 6— 680° £0" 1£9'9 “+ Burboeyz,
+112" 68¢" 1°87 600° LIZ" - est" 060° — veo" 980" ss8'9 vores noyziny
+992" ost 12 00" — 6L0°— $80" $996 — 090" $20" psyg rrr Sowruey 7,
+072" poe S'¢r 020° ose’ — Tel" 08'T — L10" 200° 28k res UB YsOT
+80¢" 19s" Lt vor — L00'T veo" L2t— $90" —Lb0" BOZQ * noqueys
+161" ze" ve 10° 92@7" — 040° 66°91 — 780° $20" sor, os uayzueys
+897" sr 122 ogo" orb’ — 6st” e"pT — 820° 220° s6r'9  uensoeys
+vez" 12h Lr 020" see — zer 2£0'p— 620° O10" TL2'L verre noyzguenyy
+ssuopsueny
+zr" 827" £0¢ 100° — Oro" — 720" — £6¢°9— yr" 220" 219°9 uezorrx
+11 zsz" 8°62 soo" Lg0°— zb0° Le6°%— 820" LTO" 1829  Tyseys
+TST’ Lz" +t 810° LIZ" - +80" 902°r— z€0° 90" 198'°9 * verre UBATIS
+Lev 292" Z'8b 9¢0° zor’ — ozo" 68 IT — 140° 7T0" SObQ Crees TUssuen A
+7st ZLe" o'se 910° bz" — 210° S61'9— 70" 0£0" 9rs'9 ue re oRg nA,
+speqny
+Srr" $92" sse 200° sol — sso" T8¢"¢— ogo’ 00" 66899 rere Sueduen,
+gor" 162° T9¢ L10° oze"— 260° es8°s— 4v0" 20° QOS'Q ureter reteeeess uerpeumnyz,
+sor" ore" o1e 820° z9¢°— Orr vOr's— Tho 610" L8pg cores SURIXUTX
+112" Sle" 0'6e 600° 692° — $20" 6LS°8— 9s0" £20" 22g rns BuesUy
+691" zoe" T9¢ 20" Tey = ZL0" 206'2 — 420° €10" $94'9 corres ueussUIpsuld,
+6st" see" ZIP 20" £9" — ssl TOIT — $90° 120" Treg cs “ guesonT
+vor £62" €°82 100° — sto" — vor" Sbe'p— eco’ T£0" Thro vreerersecereeee Suge yy
+gst zz" 6st 120° eer — Orr’ 60°72 — 120” LTO" srsg oo noyzsuayZ
+
+sueuayy
+Adelman, Irma, and David Sunding. 1987. “Economic Policy and Income Distribu-
+tion in China.” Journal of Comparative Economics 11:444-61.
+
+Aguignier, P. 1988. “Regional Disparities since 1978.” Pp. 93-106 in Transforming
+China’s Economy in the Eighties. Vol. 2: Management, Industry and the Urban
+Economy, edited by Stephan Feuchtwang, Athar Hussain, and Thierry Pairault.
+Boulder, Colo.: Westview.
+
+Allison, Paul D. 1978. “Measures of Inequality.” American Sociological Review 43:
+865-80.
+
+Bianchi, Suzanne, and Daphne Spain. 1986. American Women in Transition. New
+York: Russell Sage.
+
+Byron, Raymond P., and Evelyn Q. Manaloto. 1990. “Returns to Education in
+China.” Economic Development and Cultural Change 38:783—96.
+
+Chiswick, Barry. 1971. “Earnings Inequality and Economic Development.” Quar-
+terly Journal of Economics 85:21-39.
+
+Crenshaw, Edward, and Ansari Ameen. 1994. “The Distribution of Income across
+National Populations: Testing Multiple Paradigms.” Social Science Research
+23:1-22.
+
+Davis, Deborah. 1992. “Job Mobility in Post-Mao Cities: Increases on the Margins.”
+China Quarterly 132:1062-85.
+
+DiPrete, Thomas A., and David B. Grusky. 1990. “Structure and Trend in the
+Process of Stratification for American Men and Women.” American Journal of
+Sociology 96:107—43.
+
+Eichen, Marc, and Ming Zhang. 1993. “Annex: The 1988 Household Sample Sur-
+vey—Data Description and Availability.” Pp. 331-46 in The Distribution of
+Income in China, edited by Keith Griffin and Renwei Zhao. New York: St.
+Martin’s.
+
+Executive Yuan. 1990. Report on the Survey of Personal Income Distribution in
+Taiwan Area of the Republic of China. Taipei: Directorate-General of Budget,
+Accounting, and Statistics.
+
+Falkenheim, Victor. 1988. “The Political Economy of Regional Reform: An Over-
+view.” Pp. 285-309 in Chinese Economic Policy: Economic Reform at Midstream,
+edited by Bruce Reynolds. New York: Paragon House.
+
+Firebaugh, Glenn, and Frank D, Beck. 1994. “Does Economic Growth Benefit the
+Masses? Growth, Dependence, and Welfare in the Third World.” American Socio-
+logical Review 59:631-53.
+
+Fishlow, Albert. 1972. “On the Emerging Problems of Development Policy: Brazilian
+Size Distribution of Income.” American Economic Review 62:391—410.
+
+Gelb, Alan. 1990. “TVP Workers’ Incomes, Incentives, and Attitudes.” Pp. 280-98
+in China’s Rural Industry: Structure, Development, and Reform, edited by William
+A. Byrd and Lin Qingsong. Oxford: Oxford University Press.
+
+Gillis, Malcolm, Dwight H. Perkins, Michael Roemer, and Donald R. Snodgrass.
+1987. Economics of Development. New York: Norton.
+
+Goldstein, H. 1986. “Multilevel Mixed Linear Model Analysis Using Iterative Gener-
+alized Least Squares.” Biometrika 73:43-56.
+
+Griffin, Keith, and Renwei Zhao, eds. 1993. The Distribution of Income in China.
+New York: St. Martin’s.
+
+Hannum, Emily, and ‘Yu Xie. 1994. “Trends in Educational Gender Inequality in
+China: 1949-1985.” Research in Social Stratification and Mobility 13:73-98.
+
+Hox, Joop J., and Ita G. Kreft. 1994. “Multilevel Analysis Methods.” Sociological
+Methods and Research 22:283—99.
+
+Hsiung, Bingyuang, and Louis Putterman. 1989. “Pre- and Post-Reform Income
+Distribution in a Chinese Commune: The Case of Dahe Township in Hebei Prov-
+ince.” Journal of Comparative Economics 13:406—45.
+
+Khan, Azizur Rahman, Keith Griffin, Carl Riskin, and Renwei Zhao. 1992. “House-
+hold Income and Its Distribution in China.” China Quarterly 132:1029-61.
+
+Knight, John, and Lina Song. 1993. “Why Urban Wages Differ in China.” Pp.
+216-84 in The Distribution of Income in China, edited by Keith Griffin and Renwei
+Zhao. New York: St. Martin’s.
+
+Kornai, Janos. 1986. Contradictions and Dilemmas: Studies on the Socialist Economy
+and Society. Cambridge, Mass.: MIT Press.
+
+. 1989. “The Hungarian Reform Process: Visions, Hopes, and Reality.” Pp.
+32-94 in Remaking the Economic Institutions of Socialism: China and Eastern
+Europe, edited by Victor Nee and David Stark with Mark Selden. Stanford, Calif.:
+Stanford University Press.
+
+Kuznets, Simon. 1955. “Economic Growth and Income Inequality.” American Eco-
+nomic Review 45:1-28.
+
+Lam, David, and Deborah Levison. 1992. “Age, Experience, and Schooling: Decom-
+posing Earnings Inequality in the United States and Brazil.” Sociological Inquiry
+62:220-45.
+
+Lerman, Robert I., and Shlomo Yitzhaki. 1984. “A Note on the Calculation and
+Interpretation of the Gini Index.” Economics Letters 15:363-68.
+
+Li, Ruojian. 1991. “A Preliminary Investigation of the Issue of Increasing Cross-
+Regional Differences in Personal Income” (in Chinese, our translation). Shehui
+Kexue (Shanghai) 3:41-44.
+
+. 1993. “The Problem of Regional Disparity in Contemporary China’s Social
+Development” (in Chinese, our translation). Shehui Kexue Zhanxian (Changchun)
+5:114-20.
+
+Lin, Nan, and Yanjie Bian. 1991. “Getting Ahead in Urban China.” American
+Journal of Sociology 97:657-88.
+
+Linge, G. J. R., and D. K. Forbes. 1990. “The Space Economy of China.” Pp.
+10-34 in China’s Spatial Economy: Recent Developments and Reforms, edited by
+G. J. R. Linge and D. K. Forbes. New York: Oxford University Press.
+
+Mason, William M., George Y. Wong, and Barbara Entwisle. 1983. “Contextual
+Analysis through the Multilevel Linear Model.” Pp. 72—103 in Sociological Meth-
+odology 1983-1984, edited by Samuel Leinhardt. San Francisco: Jossey-Bass.
+
+Mincer, Jacob. 1974. Schooling, Experience and Earnings. New York: Columbia
+University Press.
+
+Nee, Victor. 1989. “A Theory of Market Transition: From Redistribution to Markets
+in State Socialism.” American Sociological Review 54:663-81.
+
+. 1991. “Social Inequalities in Reforming State Socialism: Between Redistribu-
+
+tion and Markets in China.” American Sociological Review 56:267-82.
+
+. 1994. “Markets and Inequality; Why Marx and Smith Are Both Right.”
+
+Working Paper no. 94.4. Mario Einaudi Center for International Studies, Cornell
+
+University.
+
+. 1996. “The Emergence of a Market Society: Changing Mechanisms of Strati-
+fication in China.” American Journal of Sociology, this issue.
+
+Peng, Yusheng. 1992. “Wage Determination in Rural and Urban China: A Compari-
+son of Public and Private Industrial Sectors.” American Sociological Review 57:
+198-213.
+
+Psacharopoulos, George. 1977. “Schooling, Experience, and Earnings: The Case of
+an LDC.” Journal of Development Economics 4:39-48.
+
+. 1981. “Returns to Education: An Updated International Comparison.” Com-
+parative Education 17:321-41.
+
+Riskin, Carl. 1987. China’s Political Economy—the Quest for Development since
+1949. New York: Oxford University Press.
+Rona-Tas, Akos. 1994. “The First Shall Be the Last? Entrepreneurship and Commu-
+nist Cadres in the Transition from Socialism.” American Journal of Sociology 100:
+40-69.
+
+Selden, Mark. 1993. The Political Economy of Chinese Development. Armonk, N.Y.:
+M. E. Sharpe.
+
+Shirk, Susan. 1989. “The Political Economy of Chinese Industrial Reform.” Pp.
+328-62 in Remaking the Economic Institutions of Socialism: China and Eastern
+Europe, edited by Victor Nee and David Stark with Mark Selden. Stanford, Calif.:
+Stanford University Press.
+
+State Statistical Bureau. 1985. China Urban Statistics 1985. London: Longman
+Group.
+
+. 1990. China Urban Statistics 1988. New York: Praeger.
+
+. 1993. 1993 Statistical Yearbook of China. Beijing: China Statistical Publish-
+ing House.
+
+Szelényi, Ivan. 1978. “Social Inequalities in State Socialist Redistributive Economies:
+Dilemmas for Social Policy in Contemporary Socialist Societies of Eastern Europe.”
+International Journal of Comparative Sociology 19:63—87.
+
+. 1983. Urban Inequalities under State Socialism. New York: Oxford Univer-
+sity Press.
+
+Trescott, Paul B. 1985. “Incentives versus Equality: What Does China’s Recent
+Experience Show?” World Development 13:205-17.
+
+Walder, Andrew G. 1986. Communist Neo-Traditionalism: Work and Authority in
+Chinese Industry. Berkeley and Los Angeles: University of California Press.
+
+. 1987. “Wage Reform and the Web of Factory Interests.” China Quarterly
+
+109:22-41.
+
+. 1990. “Economic Reform and Income Distribution in Tianjin, 1976-1986.”
+
+Pp. 135-56 in Chinese Society on the Eve of Tiananmen, edited by Deborah Davis
+
+and Ezra F. Vogel. Cambridge, Mass.: Harvard University Press, Council on East
+
+Asian Studies.
+
+. 1992a. “Property Rights and Stratification in Socialist Redistributive Econo-
+
+mies.” American Sociological Review 57:524-39.
+
+. 19926. “Urban Industrial Workers: Some Observations on the 1980s.” Pp.
+103-20 in State and Society in China: The Consequences of Reform, edited by
+Arthur G. Rosenbaum. Boulder, Colo.: Westview.
+
+Whyte, Martin King. 1986. “Social Trends in China: The Triumph of Inequality.”
+Pp. 103-23 in Modernizing China: Post-Mao Reform and Development, edited by
+A. Doak Barnett and Ralph N. Clough. Boulder, Colo.: Westview.
+
+Whyte, Martin King, and William L. Parish. 1984. Urban Life in Contemporary
+China. Chicago: University of Chicago Press.
+
+Xie, Yu. 1989. “Measuring Regional Variation in Sex Preference in China: A Caution-
+ary Note.” Social Science Research 18:291-305.
+
+Xin, Xin. 1994. “A Synthesis of Perspectives on the Issue of Polarization of Rich
+and Poor in China” (in Chinese, our translation). Gansu Lilun Xuekan (Lanzhou)
+1:46-50.
+
+Zhao, Renwei. 1990. “Income Distribution.” Pp. 187-99 in The Chinese Economy
+and Its Future: Achievements and Problems of Post-Mao Reform, edited by Peter
+Nolan and Fureng Dong. Cambridge, Mass.: Polity Press.
+
+Zhao, Zhenyu. 1994. “On Several Issues of Inequality in Social Distribution” (in
+Chinese, our translation). Shehui Kexue Zhanxian (Changchun) 1:112-21.
+
+Zhu, Ling. 1991. Rural Reform and Peasant Income in China: The Impact of China’s
+Post-Mao Rural Reforms in Selected Regions. Basingstoke: Macmillan.

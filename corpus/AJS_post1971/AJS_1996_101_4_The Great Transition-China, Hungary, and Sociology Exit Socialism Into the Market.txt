@@ -1,0 +1,620 @@
+The Great Transition: China, Hungary, and Sociology Exit Socialism Into the Market
+Author(s): Anthony Oberschall
+
+Source: American Journal of Sociology, Vol. 101, No. 4 (Jan., 1996), pp. 1028-1041
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2782237
+
+Accessed: 08-06-2016 04:15 UTC
+I welcome this opportunity to comment on the market transition in China
+and Hungary, a topic I have been studying intermittently for a decade.
+It gives me a chance to share my thoughts on how sociologists should
+research and account for social change. In anticipation of my conclusions,
+I state them briefly and cryptically at the start: (1) The conceptual appara-
+tus many sociologists apply to social change leads them to the wrong
+questions on institutional change. (2) Large sample surveys of households
+and multivariate techniques as used in the two China papers are of lim-
+ited use for understanding institutional change; structural analysis used
+in the Hungary paper is an improvement but asked to bear too heavy a
+freight. (3) Theoretical and methodological relief are available and sociol-
+ogy does not have to reinvent the wheel: there exists an emerging social
+science of institutions and organization.
+
+I start with the China studies of Xie and Hannum and of Nee. Because
+neither provides a description and account of Chinese social organization
+necessary for understanding them and my critique, I begin with a brief
+overview of Chinese institutions. A decade ago when I taught in Beijing
+for a year, there were three institutions at the core of Chinese society:
+the family, the work unit in the city and the collective farm in rural
+China (just then changing), and the communist party-state. Each Chi-
+nese citizen belonged to a family, and every family had been a permanent
+member of a work unit (danwei) or a collective farm. The party-state,
+accountable only to itself, penetrated and controlled every work unit and
+collective farm, and thus also every family and every individual.
+
+Chinese social organization was rigid and hierarchic. Work units were
+isolated from each other—even physically bounded by brick walls—with
+solidarity, loyalty, and collective identity encapsulating members against
+outsiders. The style of organization resembled the traditional Chinese
+house or palace, which was built as a set of nested walls, courtyards,
+and gates defining a gradient of protection and secrecy to the outside
+world and control, intimacy, and care within (Kahn-Ackerman 1982).
+As a “foreigner,” the ultimate outsider, I was kept isolated as much as
+possible, outside the outer gate, as foreigners had been in Imperial China
+in the preceding centuries.
+
+Halfway through the academic year, there were some occasions for
+penetrating these barriers, both through personal relationships I had de-
+veloped with my students and some other Chinese and for totally exogen-
+eous reasons. For instance, one of my students had forged grades, includ-
+ing those for two of my courses, on an application to a U.S. graduate
+program. Chinese colleagues feared I would discover it since I personally
+knew faculty at that U.S. university. They thought it prudent to inform
+me and get my approval (pro forma) for their earlier disposition of the
+case. I managed to extract a small quid pro quo for signing on, that is,
+an account of how they had handled the deviance issue, always a source
+of insight into the Goffmanesque world of total institutions. She was not
+suspended or expelled. She was a well-connected party person; she had
+publicly confessed to both the danwei party branch and to the work unit,
+and her submission to public shaming and discipline were punishment
+sufficient and appropriate to her “mistake” and the embarrassment she
+had caused for the work unit.
+
+As this occurred, the entire undergraduate student body had been col-
+lectively punished to a half hour of calisthenics on the soccer field before
+breakfast for at least a month, for a “general breakdown of discipline.”
+According to the dean, some students had cut a few classes; some others
+had played cards in the dorms at night after they were supposed to be
+sleeping, and some women students had complained about males “whis-
+tling” at them. To cap it, one student had thrown an empty beer bottle
+out of a dorm window. Everyone deserved punishment because they had
+failed to restrain the nonconformists. It was obvious to me that I had
+stumbled into a world very different from the ones I had lived and
+worked in: Europe, the United States, even East and Central Africa.
+Gemeinschaft-Gesellschaft sociology, pattern variables, modernization
+theory, critical theory, structuration, Marxism, and world systems was
+going to experience rough treatment in the reflexive, postmodern habitus
+of China.
+
+Martin Whyte (1974) described social control in China at the micro
+level; others have explained the intricate work-unit system (Henderson
+and Cohen 1984; Walder 1986). The party-state and the work unit de-
+cided where one works and what was produced there, who could marry,
+when, at what ages, and how many children a couple would have, what
+hospital one would die in, and where one’s ashes would be preserved,
+and, in Beijing, even whether one would get a bicycle registration. These
+controls worked because China was a society in which everything of
+value was scarce: food, arable land, a place on the bus, a park bench to
+sit with one’s sweetheart, even a patch of lawn behind the parkbench,
+where to store the family’s cabbage allocation, where to meet with
+friends, and so on.” Also, controls were effective because cadres and
+officials in workplaces, neighborhoods, and villages controlled the alloca-
+tion of scarce resources, and through asymmetry of information and ri-
+valry among subordinates for small benefits and privileges, manipulated
+an intricate vertical chain of patron-clientage, ensuring conformity
+(Walder 1989).
+
+Unlike a capitalist market economy, in Chinese socialism a high pro-
+portion of total resources (goods, services, information, etc.) was pro-
+duced and allocated as collective goods by and to work units and collec-
+tives rather than as private property and resources owned and controlled
+by individuals and families. A unit would decide whether to build addi-
+tional living quarters with its revenues and state allocation, or to invest
+in capital equipment, or to distribute bonuses to supplement wages.
+Within the unit, internal allocation mixed pursuit of personal power, unit
+collective goals, and distributive justice. Whereas in its relation to the
+party-state and the outside world the unit sought to get as much as it
+could for the least cost, its internal world was a hotbed of factions and
+rivalries. Members of a unit were locked in a game of cooperation against
+the outside while supporting a zero-sum game of gainers and losers
+within. We are entering the world of game theory, of transaction costs
+and agency, of strategic interaction, of collective goods and free riders.
+
+The communist party-state as well was thus internally organized and
+factionalized, full of intrigue and double-crossing, shifting coalitions,
+purges. Not subject to democratic accountability to the people, the ulti-
+mate source of scarcity was positional; that is, top leadership, decided
+by internal power struggles that empowered appointment of lesser leaders
+down the chain of command and patronage. Each faction had its support-
+ers and opponents among the cadres of work units and collective farms,
+and these in turn had rival patronage systems reaching to the grass roots.
+A succession struggle at the top would easily spread to the remote corners
+of China, as occurred in the Cultural Revolution. The stakes were high
+and not just at the top, because scarcity and a zero-sum situation existed
+throughout the whole society and the top winners picked the lesser cadres
+and patrons in the hierarchy (Chan, Rosen, and Unger 1980; Oberschall
+1993, pp. 303-8).
+
+Nonetheless, China is a semideveloped country of continental size and
+enormous population, with huge resource and development disparities
+between provinces and regions from the coast to the interior and the
+“Far West,” and between cities and villages and peri-urban townships
+and inland villages. China is also characterized by great climatic, agricul-
+tural, linguistic, and historic differences, the lack of an integrated trans-
+portation and communication system that restricts the mobility of people,
+goods, and information. All of these features contribute to making China
+a decentralized and localized territorial state and economy. Only the
+party-state and major transprovincial organizations such as the army,
+the railroads, and elite higher education provided spokes from the center.
+Even within the space of the five blocks from my residence to the Acad-
+emy of Science complex, one had a wide slice of the development spec-
+trum: the computer shops were selling chips and other computer hard-
+ware for the scientific and engineering elite to “do it yourself” while
+peasant men and women traders, like pack animals, pulled huge hand-
+carts loaded with heaps of melon to nearby farmers’ markets. A three-
+man plumbing crew sent to fix my drain showed up with only one wrench
+and one screwdriver (of the wrong sizes) between them. Ill-equipped for
+the task, they spent an hour drinking tea and resting on the floor and
+were finally persuaded to look for another crew to swap tools with,
+maybe.
+
+To escape the rigidities and controls of the party-state and danwei,
+and to get ahead of others in the scarcity queues, individuals, families,
+cliques, subunits, and work units kept cultivating and modifying intricate
+networks of horizontal exchange across vertical boundaries and compart-
+ments, collectively creating and forever changing a parallel, informal
+system of social organization that constituted a kind of no man’s land in
+which conformity and deviance were blurred and could be manipulated
+to advantage. The currency in these transactions was whatever was
+scarce, including information about how to extend the exchange networks
+themselves. Under socialism, resources are owned by the state or collec-
+tive units, yet were in temporary custody of role incumbents who had
+some discretionary power in stockpiling, diverting, appropriating, con-
+suming, and exchanging some part of these resources, not only for per-
+sonal use but for a small group or clique, and often with the connivance
+or at the direction of their superiors. Thus much that was impossible,
+forbidden, unobtainable, and frustrating in the vertical, official system
+could and was in fact accomplished in horizontal, particularist, interper-
+sonal transactions. Personal power and survival depended on two factors:
+the organizational role that provided access to resources and the personal
+networks based on trust, reciprocity, information built up over time—
+that is, social capital.
+
+We are now entering network models and methodology, but should be
+cautious. Block modeling and network analysis as usually practiced by
+sociologists is a simple, unproven tool for dealing with Chinese realities
+(Gold 1985). These resembled the multiplex networks of the Max
+Gluckman-Manchester social anthropologists I had known in Central
+Africa (Mitchell 1969). My entry into guanxi was by way of the Foreign
+Exchange Certificates we got for U.S. dollars, a currency not available
+to most Chinese but in high demand for foreign travel and special con-
+sumer goods. I had had some experience with interpersonal transaction
+networks because it resembled the systeme D in France (D stands for
+debrouille in polite company, and for demerde among friends). In my
+Zaire experience, there was no formal system at all, only network deal-
+ings with friend and foe alike. Still, guanxi was quite a learning expe-
+rience.
+
+In such a society, what are the most appropriate methods of study,
+and more important yet, what are the key questions to ask about institu-
+tional and social change? We are now into 15 years of economic reforms
+in rural China and about 10 for urban China, reforms which had barely
+started when I lived there. What sorts of changes would one expect
+from these reforms, and has the social organization I described changed
+fundamentally?
+
+By the time of Mao’s death China was stagnating and falling behind
+its much smaller East Asian neighbors on every indicator of well-being,
+economic growth, and modernity. Most disturbing for the leaders of the
+PRC, the country had fallen behind Taiwan. The Deng regime instituted
+economic reforms to modernize China in science, technology, economic
+organization, and performance and to restore the PRC’s standing and
+prestige as a world power. For rural China this meant disbanding the
+collective farms, dividing collective assets among village families who
+had acquired ownership rights and responsibilities on top of use rights
+to farm and village resources, and continuing the many rural industries
+and enterprises as village corporations managed by a local elite that
+operates much as a condominium in the United States manages some
+shared facilities. Just as important, price and production controls pre-
+venting rural people from efficient use of their resources were removed,
+and taxes and subsidies that provided a higher standard of living in cities
+at the expense of rural dwellers were changed. A surge of output and
+prosperity followed in many rural districts, and a huge migration of
+peasant labor took place from poor inland regions to the developing
+coastal provinces and cities.
+
+In cities and the large danweis in manufacturing, as the Russians and
+East Europeans are now also finding out, the change to more efficient,
+technologically advanced, competitive, private enterprise is a more for-
+midable undertaking. All around there is some downsizing and diversifi-
+cation of enterprises at the discretion of managers, more power to create
+incentives for productivity and profit and the allocation of resources
+within work units, more economic activity (especially in small trade and
+services undertaken by risk-bearing entrepreneurs), and a growing popu-
+lation outside the work-unit system falling through the minimum safety
+net of the urban Chinese welfare system, the so-called iron rice bowl.
+
+One consequence of economic reform is that the party-state and work
+units have less control over the lives of many people. Rural folk especially
+have gained much freedom. Rich peasants, even local cadres, violate the
+one-child family policy and pay fines they can well afford. With economic
+growth, scarcity diminishes. As more economic activity passes from the
+party-state and the work units enmeshed with it to markets and enter-
+prises freed from stifling central controls, the market transition is gather-
+ing momentum. The authors under review here wrestle with a model
+and imagery that expresses the “market transition” in its structural and
+power dimensions. They come up with local corporatism, clans for mar-
+kets, organization reflexivity, redistributive/corporatist/laissez-faire, po-
+litical capital, and similar concepts. This is suggestive imagery, but it
+falls short of theory. An appropriate mesolevel theory and models useful
+for understanding market transition actually exist in the public choice
+literature and is called the theory of clubs and of sharing groups. More-
+over, club theory is based on the very microtheories that are suited to
+analyze Chinese social organization with, that is, game theory, transac-
+tion costs, rent seeking, contract certainty, property rights, agency, and
+so forth. Oliver Williamson, one of the leading exponents of the new
+institutional economics, has actually applied both meso and micro analy-
+sis for a model of “hybrid” organization (between market and hierarchy)
+in the institutional environment of postcommunism (see Williamson
+1985). These models, which already exist, enable sociologists to move
+from imagery to theory in social change analysis (if only they studied
+them).
+
+If one applies this thinking to the Chinese transition, one should note
+that, in a fully developed market economy such as the United States,
+large corporations are enmeshed in a complex system of financial institu-
+tions, business services, accountants, advertisers and market researchers,
+employment agencies and headhunters, consultants, subcontractors,
+franchises, newsletters and information analysts, thinktanks and policy
+analysts and lobbies—in short, an enormous slice of our total GNP,
+which is now largely missing in China and other socialist transition coun-
+tries. Though missing as discrete organizational units, the functions asso-
+ciated with these institutions are performed by party-state cadres and
+officials and new-style wheelers and dealers (not to mention outright
+criminal organizations) in the parallel horizontal transaction system I
+described. Thus social capital and role incumbency in the hierarchy are
+transferred by cadres into the emerging capitalist sector. In the absence
+of political accountability and with but shallow submission to the disci-
+pline of the market, the fixers and wheeler-dealers thrive on corruption
+that is forever denounced yet will not diminish until the institutions of a
+market economy are more fully established. I am now ready to assess
+the contributions of Xie and Hannum and of Nee.
+
+1. How well people are doing in such a system depends not only on
+their earnings from their principal job and occupation, but on what work
+unit they belong to and what nonmonetary benefits they are getting
+through the unit allocation system, which is variable across units and
+industry categories. It also depends on opportunities for unofficial earn-
+ings and benefits not likely to be asked and reported in surveys. Further,
+in rural China, and especially in the poorer inland districts, there is still
+much household production and local exchange that is not monetized
+and difficult to measure; this tends to be underestimated. Consequently,
+measures based on earnings should be supplemented by consumption and
+lifestyle measures. Also, measures of income and earnings inequality, as
+the Gini index, are very approximate measures of inequality.
+
+2. Rank in the hierarchy matters a great deal, especially for increasing
+“unofficial” earnings and benefits. In a random sample of households,
+most respondents will have low rank. Household surveys are not particu-
+larly well-suited for the study of political capital, or only its lower tail
+effects. The Nee study, with its cadre, former cadre, and noncadre mea-
+sures, is doing better on this score than the simple party/nonparty distinc-
+tion of the urban survey. Still, one will obtain a “minimum” estimate
+of political capital at best. Different design, populations, and comparison
+groups will be necessary for giving “political capital” a fair shake.
+
+3. In Chinese social organization, success and earnings depend on so-
+cial capital in the horizontal parallel transaction economy, and not only
+on human capital and the usual variables. Social capital is more difficult
+to measure (and even conceptualize) than human capital. Its omission
+from the analysis, and presumably the survey, weakens the conclusions
+about corporatism against rival hypotheses. To be sure, the Nee study
+gives us some nibbles. One would like direct measures of network and
+status utilization and manipulation.
+
+4. Human capital is not just quantity of schooling, but quality as well.
+This is especially true for China because of the period and cohort effects
+on disrupting education and the quality of schooling, especially during
+the Cultural Revolution (Unger 1982). There are also huge regional and
+provincial differences, not to speak of within-city variance in school
+quality.
+
+5. A part of the Chinese population, and probably the most critical
+part for anyone interested in social and economic inequality during the
+market transition, has not been included in the sampling design of either
+study, that is, the huge migrant populations unleashed by the economic
+reforms and by the loss of party-state and work-unit control over some
+of the Chinese people, not only the migrants. Moreover, this migration
+stream is causally linked to the major dependent variables of earnings
+and inequality.
+
+6. I question whether the focus on the two dependent variables, income
+and income inequality, is what one wants for social change theory. Can
+they give us any clue about the shape of emerging institutions? Are these
+variables linked to any body of theory? For instance, does a certain
+degree of income inequality lead to popular unrest, to a demand for a
+welfare state, to a conflict between generations? Does a lack of income
+rewards for human capital mean that innovation is stifled, that talented
+people will be blocked from achieving, that they emigrate? Would it be
+important to know whether those who earn well invest into productive
+ventures rather than consumption, and further, whether the state and
+its officials are losing their power to arbitrarily extract resources from
+the people and that thus private property is becoming more secure? There
+are many questions on institutional change for which these surveys have
+no answers.
+
+7. Both articles are marred by risky excursions into causal analysis
+from a design and statistical techniques not appropriate for such a pur-
+pose, though frequently so misused by sociologists (see below).
+
+More specifically, the urban survey reports that only 1% of earnings
+derives from self-employment or private business. This is unrealistically
+low. When I taught a research methods course to graduate students in
+Beijing in spring 1985, we undertook small research projects on this
+topic in the Haidian district. The District Administration of Industry and
+Commerce, which licensed self-employed traders and supervised street
+and farmers’ markets, had issued 597 licenses in 1981 and 5,476 in 1985,
+an indication of the growth rate in this sector. Since the economic reforms
+started a decade ago, trade and self-employment have surged. We inter-
+viewed a random sample of 38 self-employed persons in three locations.
+They were retirees, waiting-for-job youths, temporary migrant farmers,
+and some unemployed individuals. In another study of retirees, we found
+in a nearby neighborhood committee (NC) that of 189 retired men and
+women living in a few city blocks, 41% were working, and 27% had
+found some work through self-employment with the NC’s help. They
+sought income because their work units did not pay them an adequate
+pension, because they wanted to help their families with cash (they did
+of course provide a lot of services, e.g., child care), or because they did
+not want to remain idle. Other forms of self-employment and work that
+would not be captured in household surveys include the many construc-
+tion workers in Haidian who were seasonal rural migrants living in tem-
+porary shacks at the construction sites. Also, many nannies and house-
+keepers were peasant women from Anhui and Hubei working for
+two-career professional and managerial couples. They were saving or
+remitting money to the village for weddings and marriage and were
+swiftly succeeded by village kin when they left Beijing. Others were
+moonlighting, including some of my graduate students whose proficiency
+in English placed them in high demand. All indications are that self-
+employment and labor migration in Beijing (as in other cities) has grown
+a great deal since 1985; the statements of the Beijing authorities about
+all those aliens from rural China who are bankrupting local government
+and overloading public services is reminiscent of the way Californians
+have been speaking out against Mexicans, Central Americans, and
+Asians.
+
+I am coming to the huge income and standard of life disparities be-
+tween coastal and inland, and urban and rural, China and the massive
+labor migration that uneven development has unleased. It is creating
+second-class citizenship and social and economic inequalities on a large
+scale. Using a back-of-the-envelope calculation from Nee (model 1 in
+table 2), a 42-year-old male farmer from an inland province, with 10
+years’ schooling, from a noncadre household of farmers, earns 1,189 yuan
+(about the average of 1,103 for inland village). If he stops farming and
+becomes self-employed, the household can expect to earn 393 yuan more;
+if he gets a nonfarm job, 362; if he becomes a cadre and continues farm-
+ing, an additional 391, taking interaction effects into account. If he be-
+comes a cadre, as according to Nee’s account, he gets his son or son-in-
+law a nonfarm job, and the household gains another 362 yuan. So far so
+good. Now go to the urban earnings findings in tables 1 and 2 for a
+42-year-old nonparty member male who has 10 years’ schooling and 25
+years employment. His estimated individual earnings are 2,027 yuan.
+His rural counterpart’s entire household (an average of 2.7 adult earners)
+earnings are 1,103. I believe that this comparison is the most important
+single datum and finding for understanding uneven development, in-
+equality, and earnings and that it gives us an important clue to emerging
+Chinese institutions.
+
+We have observed Cairo, Mexico City, and Sao Paulo; what will mega-
+Shanghai be like? And we should worry not only about the megame-
+tropolis but also about the new migrant outcasts in the rich coastal vil-
+lages reported by Chan et al. (1992). In addition, gender and age
+differences in both studies exceed the effects our analysts are dissecting
+and debating on corporatism and political capital. In the urban regres-
+sions, the 42-year-old nonparty member expects to earn only nine yuan
+less than his party member counterpart (2,027 compared to 2,036), which
+hardly demonstrates Nee’s belief in the “importance of political capital
+for maintaining an advantaged position.” Of course, as I have already
+stated, these surveys are not a good way of getting at political capital to
+begin with, but I am using the “internal” evidence. And even that inter-
+nal evidence demonstrates that on a very elementary, descriptive level,
+gender, generations, city versus village, inland versus coastal, and, in all
+likelihood, some variables such as social capital and work unit not in-
+cluded in these analyses are the big picture that has to be thoroughly
+understood in light of knowledge about China from other studies with
+different methodologies, before any headway can be made on the causal
+models and theoretic disputes the authors engage in.
+
+Beyond the problems listed above is a causal interpretation drawn
+from coefficients produced by a design and methodology that simply do
+not warrant such inferences. Just because a one-time survey has very
+large samples from many provinces and levels, and asks some retrospec-
+tive questions, just because computer programs allow the fit of complex
+quantitative models to data in ways that were unimagined even 20 years
+ago, does not mean that the usual cautions about cause and effect have
+been lifted, as they are in these two studies (e.g. the statements of Nee
+based on the relative size of coefficients). My remarks on the abuse of
+statistical inference are not principally directed at the authors under re-
+view, but at our entire profession. Sociologists ought to seriously ponder
+and study what David Freedman (1991) tells them about these methods
+and about scientific inquiry. It is the same message that many others
+have made over the years, for example, Samuel Stouffer, Paul Lazars-
+feld, Leslie Kish, Donald Campbell, John Tukey. I will only quote Otis
+Dudley Duncan (1984, p. 226):
+tician Frechet. After warning readers about multicollinearity, spurious
+correlations, interaction effects, assumptions about independent errors,
+and other difficulties with multiple regression applied to social data, he
+cautioned about faulty inferences from regression results that were based
+on absurd questions, such as, “How would a camel live if, remaining a
+camel, he were transplanted to some polar region?” (Halbwachs [1935]
+1972). In the absence of a clear theory of changing Chinese institutions,
+the techniques used in these large household surveys are best thought of
+as convenient data reduction procedures, to be supplemented with other
+data reduction and summary measures such as means or medians and
+frequency distributions for the pivotal variables of major comparison
+groups and categories. The back-of-the-envelope calculations I did could
+be done pretty well from these simple statistics and would have the
+advantage that no one will mistake them for cause and effect statements.
+Since any descriptive, factual statement and fancy data-reduction model
+can be made to look, via a verbal trick of formulating hypothesis from
+a diagram with all sorts of arrows on it, as derived from a causal theory,
+we are toying with devices that have enormous potential for misuse.
+
+I suspect our faith in statisticsm is due to the weakness of theory,
+which leads us to demand more from quantitative statistical manipula-
+tions than their creators ever intended, let alone promised. The typical
+social change analysis postulates two groups, classes, or social formations
+competing with each other for leadership in a society and for the benefits
+that come with elite status and monopoly. Here it is “cadres” and “en-
+trepreneurs”; but there is a long tradition of such dualism in social analy-
+sis: bourgeoisie and proletariat; Pareto’s rentiers and speculators;
+Mosca’s foxes and lions; St. Simon and Veblen had engineers, scientists,
+and producers against the aristocracy, officialdom, and the leisure class.
+These groups are motivated by “interests” that are so transparent that
+they, their adversaries, the people, and the social scientists who observe
+and write about them, find them self-evident. Collective action in the
+pursuit of these interests is unproblematic. It leads to an inevitable zero-
+sum conflict, though occasionally the two groups form coalitions against
+everyone else (the people). From the intentional, calculated pursuit of
+these “interests” the norms and institutions of the future society can be
+derived in straightforward fashion, both by the elites who want them
+and the social scientists whose theories have to predict and explain them.
+Except for changes in vocabulary, such a mode of theorizing is not differ-
+ent from a hundred years ago, and theory has stagnated.
+
+In its stead, let me recommend that sociologists seriously study, mod-
+ify, and apply the new institutional analysis in the social sciences. A
+sampler of what is available, with eminent contributors (Kenneth Arrow,
+Oliver Williamson, James Coleman, etc.) may be found in the special
+1991 (vol. 7) issue of the Journal of Law, Economics and Organization,
+but there are abundant other sources. Institutional analysis theorizes
+about positive-sum situations and transaction as well as pure conflict and
+social dilemmas; it analyzes ways in which antagonists cooperate for their
+common benefit. It does not assume that “interests” are well-defined
+and obvious; on the contrary, ideologies, information costs, and cognitive
+processes bear close study. It treats collective action as problematic and
+expects a lot of institutional and social change to result from unintended,
+unplanned actions. Whereas inherited social change theory short-circuits
+from groups and interests to institutions, all the action in the new institu-
+tional analysis takes place at the microlevel to derive and account for the
+meso- and macrolevel, including variance of norms and institutions, not
+just types and central tendencies. It is a more powerful and promising
+mode of theorizing than the usual sociological fare. Merely borrowing
+some phrases and concepts, like “contract certainty,” and incorporating
+them ad hoc in the usual social change discourse is not making use of
+institutional theory. As I have suggested all along, institutional analysis
+is superbly suited to deal with Chinese social organization and the “tran-
+sition.” Armed with such a mode of theorizing and concrete hypotheses
+to test, we shall pose the right questions and choose suitable methodology
+mixes to test them. Instead of accumulating more data and information,
+we shall gain knowledge. It will be hard work.
+
+In the Hungarian privatization research and analysis, David Stark
+makes more use of institutional analysis than the two China articles, but
+he curiously refrains from utilizing its full power to draw some disturbing
+inferences from his findings on the Hungarian market transition, or
+rather, the nonmarket gridlock. Stark’s research is a painstaking detec-
+tive investigation that eventually leads to the corpse, but not quite the
+murderer, and thus we do not get a trial and guilty verdict at the end.
+
+Stark’s research is a great achievement and a step forward in privatiza-
+tion research on Eastern Europe. To put it in a nutshell, he discovers
+that the privatization of state assets in the large industries and services
+in Hungary is illusory. In some ways it is a cruel deception in which
+many collude, a few profit, and the public at large is the great loser.
+Far from leading to a “clarification of property rights,” to certainty in
+contracting, to new property owners investing and risking their own
+resources in their enterprises, which are required for a market economy,
+privatization by the State Privatization Agency (SPA) and other elite
+economic agents and units has consisted of debt consolidation and debt
+shifting to the state treasury. This practice has increased the national
+debt by means of complex organization and ownership manipulations in
+which the managers of “privatized” state enterprises and banks end up
+controlling and making a comfortable living from productive assets,
+while unprofitable, loss-making, and inefficient parts of their enterprises
+and corporate debts end up as the responsibility of the state. In the end,
+the SPA and other state agencies and ministries end up owning worthless
+shares that neither the Hungarian public nor foreign investors want (ob-
+viously).
+
+Because Stark does not do it, let me spell out some consequences.
+A growing national debt and large, current budget deficits mean rapid
+inflation, “real” cutbacks in all social welfare, health, education spend-
+ing, the salaries of officials, and more taxes and attempts at tax collection.
+The consequences are several: more poverty for pensioners, the elderly,
+the unemployed, large families, all those on public salaries (e.g., academ-
+ics, who will moonlight even more than earlier), brain drain of best
+science talents, underinvestment in children and youth, and correspond-
+ing public spending bias for employees in large, loss-making enterprises.
+Other detriments include encouragement of consumption over investment
+(the opposite of what the country needs); massive tax evasion and corrup-
+tion; rent seeking by coalitions of managers, directors, and other eco-
+nomic elites networked into cliques (Mancur Olson [1982] explains what
+cliques mean for economic growth) which feeds the zero-sum, stagnant
+economy and gridlocked society described by Lester Thurow (1981). Fur-
+ther, contract uncertainty and blurred property rights discourage foreign
+investors and the transition to the market. All in all, this situation makes
+for a disturbing economic foundation for a democratic, civil society.
+
+On theory, Stark believes in the emergence of a distinctively East
+European capitalism that necessitates the novel concept of “recombi-
+nant” property; he uses a mode of research consisting of structural analy-
+sis and block modeling for identifying clans for markets. I suggest that
+the new institutional analysis can do the job and that the wheel does not
+have to be reinvented: risk spreading with diversified portfolios, rent
+seeking by distributional coalitions, path dependent theory and models,
+bankruptcy for profit (as in Chapter 11 bankruptcies), and so on, are
+after all standard fare in the literature on capitalist institutions, as is the
+shifting of private debts and liabilities to the public treasury (Medicare
+does that and is indeed headed for bankruptcy). What Stark uncovers is
+thus not a peculiarity of the East European transition, because much of
+what he describes is found in economies around the world. What is
+peculiar is that these things occur without a genuine market economy
+being in place already. In 1990 the well-known economist Janos Kornai
+published a blueprint for his countrymen on how to make the transition
+from socialism to capitalism with a great deal of short-term pain but
+good prospects for long-term success; and it would have worked. For
+many reasons, the Hungarians ignored him and deluded themselves into
+the phony privatization so well analyzed by Stark. Each group thought
+REFERENCES
+
+Chan, Anita, Stanley Rosen, and Jonathan Unger. 1980. “Students and Class War-
+fare: The Social Roots of the Red Guard Conflict in Guangzhou.” China Quarterly
+83 (September).
+
+Chan, Anita, et al. 1992. Chen Village, rev. ed. Berkeley and Los Angeles: University
+of California Press.
+
+Duncan, Otis Dudley. 1984. Notes on Social Measurement. New York: Russell Sage.
+
+Freedman, David. 1991. “Statistical Models and Shoe Leather.” Sociological Meth-
+odology 21:315-24.
+
+Gold, Thomas. 1985. “After Comradship: Personal Relations in China since the Cul-
+tural Revolution.” China Quarterly 104 (December): 657-75.
+
+Henderson, Gail, and Myron Cohen. 1984. The Chinese Hospital: A Socialist Work
+Unit. New Haven, Conn.: Yale University Press.
+
+Halbwachs, Maurice. (1935) 1972. “La statistique en sociologie.” In Classes sociales
+et morphologie. Paris: Editions de Minuit.
+
+Kahn-Ackermann, Michael. 1982. Within the Outer Gate. London: Marco Polo.
+
+Kornai, Janos. 1990. The Road to a Free Economy. New York: Norton.
+
+Mitchell, J. Clyde. 1969. Social Networks in Urban Situations. Manchester: Manches-
+ter University Press.
+
+Olson, Mancur, Jr. 1982. The Rise and Decline of Nations. New Haven, Conn.: Yale
+University Press.
+
+Oberschall, Anthony. 1993. Social Movements. New Brunswick, N.J.: Transaction
+Books.
+
+Unger, Jonathan. 1982. Education under Mao. New York: Columbia University
+Press.
+
+Thurow, Lester. 1981. The Zero-Sum Society. New York: Penguin.
+
+Walder, Andrew. 1986. Communist Neo-Traditionalism. Berkeley and Los Angeles:
+University of California Press.
+
+. 1989. “Social Change in Post-Revolutionary China.” Annual Review of Soci-
+ology 15:405-24.
+
+Williamson, Oliver. 1985. The Economic Institutions of Capitalism. New York: Free
+Press.
+
+Whyte, Martin. 1974. Small Groups and Political Rituals in China. Berkeley: Univer-
+sity of California Press.

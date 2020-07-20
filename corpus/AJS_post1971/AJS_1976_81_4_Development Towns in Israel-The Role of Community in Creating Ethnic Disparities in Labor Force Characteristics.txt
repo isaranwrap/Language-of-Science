@@ -1,0 +1,1310 @@
+Development Towns in Israel: The Role of Community in Creating Ethnic Disparities in
+Labor Force Characteristics
+
+Author(s): Seymour Spilerman and Jack Habib
+
+Source: American Journal of Sociology, Vol. 81, No. 4 (Tan., 1976), pp. 781-812
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2777597
+
+Accessed: 08-06-2016 03:24 UTC
+INTRODUCTION
+
+Urban communities in Israel have not attracted particular attention as
+research sites. In part, this is because there are more novel settlement
+patterns, found only in that country, such as the kibbutz (agricultural
+collective) and the moshav (small-holders’ cooperative). These forms of
+rural community have been studied intensively, in regard to work organi-
+zation (Spiro 1970), productivity of the economy (Barkai 1974), decision
+making (Cohen 1968), family structure (Talmon 1972; Weintraub and
+Shapira 1971), and child-rearing practices (Bettelheim 1969). It is the
+case, however, that Israeli urban settlements provide convenient sites for
+investigating a number of topics that are of interest to urban specialists,
+especially issues which relate to planned community development. The
+country’s new towns, which were established in large numbers beginning
+in the late 1940s, permit one to evaluate the various strategies that have
+been employed in attempting to put together a viable community de novo:
+which industries can be implanted successfully in outlying areas, what
+mixes of settler backgrounds will produce socially integrated communities,
+and what kinds of local political institutions tend to operate effectively in
+the early stages of development of a new settlement.
+
+The pattern of Israel’s urban growth has been a matter of much con-
+cern to governmental authorities. At the time of the country’s founding,
+in 1948, 63% of the population was concentrated in three main cities—
+Tel Aviv, Haifa, and Jerusalem—and in their immediate environs. Exacer-
+bating this population imbalance, a vast immigration in the early years
+of the state threatened to create massive congestion in the urban centers,
+taxing their physical plants, the absorption potentials of their labor mar-
+kets, and their social service capabilities, unless many of the immigrants
+could be motivated to settle outside the metropolitan regions.
+
+Israel is a society with a considerable tradition of social planning and
+centralized decision making, dating to the imperatives of existence in the
+prestate period. The government, consequently, was in a position to under-
+take far-reaching decisions concerning population redistribution, and did
+so within months of the establishment of the state, committing extensive
+resources to this task. The instrument to accomplish population redistribu-
+tion was to be a network of small and medium-sized urban settlements,
+located away from the densely populated coastal plain; these settlements
+have since become known as “development towns.”
+
+The new towns have been a focus of much concern. They are populated
+by recent immigrants, particularly from less developed lands. Many are
+isolated, outside the main stream of Israeli society geographically as well
+as socially. For these reasons, the settlements constitute, in many respects,
+a second and inferior Israel. What we wish to accomplish here in regard
+to the towns is twofold: we want to describe their evolution and their
+problems, and in doing so we intend to view them as strategic sites for
+addressing an issue in ethnic stratification—the effect which community
+can have in producing ethnic disparities in labor market characteristics.
+Specifically, we consider how the creation of these settlements has influ-
+enced (a) the areal distributions of different ethnic (country-of-origin)
+groups, (4) the tendency for each group to be concentrated in certain in-
+dustries, and (c) the occupational opportunities available to the members
+of an ethnic population. In the concluding section we review the relevance
+of these considerations for understanding the role of community in ethnic
+stratification in America.
+Jewish manual labor with great significance. The erection of agricultural
+settlements was therefore consistent with the tenets of labor Zionism, as
+well as having a basis in strategic considerations, in that it established
+Jewish rights to land in outlying regions through purchase and cultivation.
+Yet, as Cohen (1970, pp. 2-7) has remarked, in modern times the Jewish
+population in Palestine was never more than 30% rural, a fact that was
+ignored in early Zionist writings, in which little attention was given to the
+role of cities in a modern economy, or to their potential importance in the
+state which was to be created.
+
+This situation changed abruptly following the establishment of Israel.
+In the three years subsequent to the termination of the British mandate,
+an influx of hundreds of thousands of immigrants, fleeing from persecution
+in Europe and the Arab countries, more than doubled the population of the
+state. In prior occupations, these immigrants had been predominantly arti-
+sans and small shopkeepers; they came to Israel as refugees, not out of an
+ideological conviction which might sustain them while adapting to the
+harsh life of an agricultural laborer. It was soon recognized by governmen-
+tal authorities? that residential quarters would have to be constructed in
+large numbers, in urban areas, to accommodate the immigrants. In order
+to relieve the congestion in Tel Aviv and Haifa resulting from very rapid
+population growth, and open the hinterland to settlement, industrialization,
+and mineral exploitation, the government adopted a policy of establish-
+ing new towns principally outside the periphery of Israel’s metropolitan
+centers.*
+American Journal of Sociology
+
+There is no consistent definition of a development town in the literature
+on Israeli settlements, though the intention is to signify urban settlements
+which lie outside metropolitan regions and which were established by de-
+sign, since 1948, and with considerable governmental assistance.* The 1961
+Israel Census of Population, the most recent census available, does not
+employ this term and distinguishes instead between veteran and new com-
+munities. “New” communities include those founded after 1948, whether
+in outlying areas or in the suburban periphery, as well as a number of
+older settlements which have experienced the major portion of their popu-
+lation growth since the creation of Israel. According to the census, 38 new
+settlements? existed in 1961, with a combined population of 398,000. Other
+governmental agencies use the term “development town” to refer to new
+communities distant from metropolitan areas; yet there are differences
+with respect to the settlements each includes in this category. A report
+written for the Ministry of Labor (Smith 1972, p. 17) lists 24 communi-
+ties,® with 246,000 residents in 1961. A report prepared for the Ministry
+of Housing (Lichfield 1971, 2:1) records 25 settlements, with 289,000
+inhabitants in 1961. Nongovernmental researchers also differ in terminol-
+ogy and settlement classification: Spiegal (1966, p. 34) cites 24 “new
+towns,” with a combined population of 271,000 in 1961. Because suburban
+settlements are excluded, her specification corresponds to the notion of a
+development town. Amiran and Shachar (1969, table 4) list 28 develop-
+ment towns as of 1961, with a total population of 312,000.
+
+The differences among these classifications result from decisions con-
+cerning which of the communities existing before 1948 should be consid-
+ered “developmental,” and which settlements that were initially in this
+category should be viewed as having outgrown the label, in that they no
+longer receive extensive financial assistance from the central government.
+Where we are in a position to calculate indices from census data, we will
+use the list of communities proposed by Amiran and Shachar. Their defini-
+tion covers settlements that were established after 1948, whether founded
+on entirely new sites or brought into being as a result of an influx of new
+populations into towns that had been vacated by Arab residents (Amiran
+and Shachar 1969, p. 1). Suburbs are omitted from the list, although one
+town (Tirat HaKarmel), which now is in the Haifa metropolitan region,
+is included. Also, they retain settlements that have progressed successfully,
+a consideration that is important, since we wish to discuss ethnic composi-
+tion and industrial structure in the full array of communities which were
+planned to achieve population redistribution and immigrant absorption.
+Where we refer to statistics from other studies, the development towns to
+which the figures pertain will be somewhat different from Amiran and
+Shachar’s list, in accordance with the comments in the preceding paragraph.
+
+The growth of development towns, and the impact which these settle-
+ments have had on the distribution of the urban population, is reported in
+table 1. The entries in the second row reveal that the considerable popula-
+tion expansion in the country since 1948 has been accompanied by an
+increase in proportion urban, from 73.3% to 84.4%. The decline in the
+early years of the time series, incidentally, is due to the establishment of
+many development towns during this interval; initially, they were too
+small to be categorized as urban in the census. For our purpose, a more
+important trend concerns the massive population increase in the develop-
+ment towns and the population redistribution resulting from this growth
+(Jast row), even during a period when all urban communities were ex-
+panding. Indeed, the last two rows of the table, in combination, suggest
+that the redistribution policies of the government were most successful,
+since the proportion of the urban population residing outside the three
+metropolitan areas increased from 14% in 1948 to 48% in 1972, with the
+bulk of this change deriving from the growth of development towns.
+*sumo} Juaudopaasp Jo ISI] (> 21GB} “696T) SIBYSeYS pue uRIPWY UO (1961 Ul BUNSIxa) soNTNUIWOD $e 94} sapnyoUy §
+“JSI] SJeyeYyS pue ueltWY uo suo} JUsUIdojasap ay} pue ‘sqinqns ‘satzI9 UyeW ad14} 943 3deoxa sjUsUA]}es UeqIN [|e Sapnpouy +
+
+“syuaur
+
+-9]}39S aSOy} YIIM paztioFezeo st pue uMo} JUaudojenep e se (yp 292} ‘6961) IeYORYS pue uelIWY Aq poysl] SI ‘eyIeTY JO qinqns & Se snsUad [aeIST ay} Ul Paylsse[D SI YOIYM
+PUILARE, IML “UP[ZIOPL IANO pue ‘weR AND “WRI WANG ‘WYSON Vy Ieyy ‘ueg Jeuey “Uo[OP ‘wIAeWeAIN ‘WeA Jeg “YeIg loug :sofyruNUUIOD OT sapnpouy |
+*1961 Ul pexouue ‘waesnief yseq JO uorejndod sapnpuy y
+
+“sosineig jo
+
+neaing jejjuey ‘suoneynqe} peysyqndun pue ‘(> ‘T saqqeL 6961) qeyoeys pue uemmy ‘{(6¢-ge ‘dd ‘vEez6T ‘7¢96T) SONSNeIG Jo neaIng [eNuad JeeIs—saoanog
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+'00T o'00T o'00T O'00T o'00r 0001 o'0or o'00T OOOT tts ueqin [207
+LIZ 91 Z1Z S07 y8I Out vel SIT 61 vrtrteetssessss* Ssumoz juaurdopasaqy
+97 Vez vee OTe sor 802 ft SOT T2r vettesecssessess  dequgurayyjes Ue1a}0 A.
+v6r +61 V61 81 Ost oor UST wat TI vrttesseesessessss Lsqanang
+xCIL «SIT 06 £6 66 Zr 6IT Zl 9O°oT creteesecesssssss urgresniia f
+og 68 96 TOt 6'0I ZIT 321 61 TLL coppeeeecesssessess ss BERET
+eel 6'ST OuT ¥0z oz S'r2 $62 rz Tep  cttrtrrsssstetssssssssssess ATAW [aL
+
+‘ur uoryeindod ueqin jo asezued1eg
+v8 $28 S18 161, LOL OSL 9°04 LL9 ees settreeesesteessseses upqin agequaoieg
+zer'e 6162 L597 oeh'z ost'z SLOT SILT LSs't 98 * (spuesnoy} ur) [aeisy ut uorefndod je,07,
+7L6T 6961 996T £961 096T LS61 PS6T TS6T 8r6T
+
+ 
+
+ 
+
+T ATavL
+
+ZL-SP61 “TAVS] NI NOLLVINdOg NVSYQ FHL JO NOILnaraLsiq
+in 1961, 67% of the population” in development towns consisted of recent
+immigrants to the country, arrivals since 1948, in comparison with 45% in
+the total Israeli population (36% in the main cities). Such great concentra-
+tions of recent immigrants, in communities that are also growing rapidly,
+could be expected to create massive problems of acculturation, and in the
+provision of housing, suitable jobs, and the many social services which a
+refugee population would require. Very great problems still exist in these
+towns; some will be discussed in the concluding section. Yet the settlement
+program was conducted within a framework of extensive assistance to the
+new communities by the central government. Also, the facts that Zionist
+ideology encouraged the ingathering of Jews, that many of the “veterans”
+were themselves immigrants in an earlier decade, and that Israeli culture
+was in the process of being molded during the initial years of the state,
+made for tolerance of the variety of life-styles brought by the immigrants,
+and a willingness to accept them as Israelis even while they were only
+marginally acculturated to the mores of the society.
+
+We wish to focus on how development towns have patterned the indus-
+try affiliations of the immigrant groups and influenced their consequent
+occupational distributions. For this purpose it will be useful to delineate
+two aspects of residence location: representation of a population group in
+a settlement category, and variability of its concentration among settle-
+ments within the category. The latter factor speaks to the possibility that
+individual communities may “specialize” in particular industrial activities.
+
+In regard to the first point, we note that not only are development towns
+places of concentration of recent immigrants, but that great differences
+exist between these settlements and other urban communities with respect
+to the origins of their foreign-born populations. Continent-of-origin figures
+are reported in columns 1 and 2 of table 2. From the entries in the two
+top panels it is evident that the population in development towns has been
+drawn, to a very considerable extent, from among Asian-African immi-
+grants. They comprise 66% of the foreign born, versus 29% for Euro-
+peans. In reference to their percentages in Israel, Asian-Africans are
+overrepresented by a factor of 1.65, Europeans underrepresented by a fac-
+tor of 0.54 (1.00 = representation at the same rate as in the total popu-
+lation). This suggests that the industrial structures of the towns should
+be especially pertinent to understanding the labor force characteristics of
+Asian-African immigrants.
+
+An equally important matter concerns differences among settlement types
+in regard to the variability of representation of the immigrant streams in
+the individual communities. This point refers to the fact that the conti-
+nent-of-origin groups are not dispersed evenly, but tend to be concentrated
+
+7 Since many of the Israeli born would be young children, the percentage foreign born
+in the adult population is much greater.
+ee Ee
+
+ 
+
+ 
+
+ 
+
+ 
+
+or or or ov oz 1 Ie wr oe + 87" Lz so" (OL= A) sqingng
+£2" Iz or ov" 0" 02" os" 8s ue 9c tke thew cts (p= N)
+syusmie]}}as UEqIN [TV
+44uonenea jo xapur
+a 190 260 ss‘0 sz0 6£'0 87'T sz OTT et 6eT +0 SOT +177 Sumo} quawdopeaaq,
+aa 6£'0 £7 IT 960 660 90°T sO BT eT 46'0 1OT 00'T “+ syueutayyjas e839,
+aa $3'0 TOT 9v'T 60'T 67'T oft gO —-9S°0 eT 8s'0 AUT oso tts sqanqng
+aa LT I0T 20 £21 82T 09°0 sso 80 seo IT £71 690 ts sap Urey
+an[eA [PPS] [eIOL jo uose1y & se WIOg UBIaIOg ay) Jo aeyUaDIAg
+£46 sz Ozr 92 TI £01 9 sz 4s yer 76 182 099" -44SUM0} JuoUUdoTaAaq
+£26 oT O91 es fy £92 e's £9 $6 sz 79 ves TOW «77 -gSIUAUIETIVas UEIE}OA,
+9°86 oF Vet os oF vee $9 oF 62 ST ge S19 OTe otters ysqangng
+226 OL Vel sb us ove o¢ zh 4 OL eh 99 94 rt §sanp urey_y
+Of6 lr ost Lv sy 9°92 os Vet zs Zor 99 87S OOb ott JeRasy [eI0L
+wog Uslasog ay} jo aBejuaiag
+(21) aD (or) (6) (3) () (9) (3) () (€) (2) (1) REODTLVD LNIWATLIES
+FT30L  a0a015 Ruewoy AreZunyR eLsny puejog eBIqhT ‘BIstuny uwapy bely uely adomy Boy
+-e1esing ~eryeaoys -Aueuras “ussa -dA3Bq -euasjy «-uaula x -Aaqiny, -eISy
+-04oaz) -o000109
+
+ 
+
+ANTONIO 40 ALLNAOD
+
+ 
+
+NIOTEQ 40 LNENIENOD
+
+ 
+
+ 
+
+T96T ‘NIOTUQ 40 SHIXLINNOD NIVIL INV INANILNOD Ad ,‘SLNANATLLAG Nvauf) NI NOLLVINdOg N¥od-NoTAIOT
+
+¢ aTav
+in some settlements and underrepresented in others. To measure variability
+we constructed an index that is analogous to the coefficient of variation
+(Stigler 1966, pp. 294-95). For an array of percentage values {p} we as-
+sess variability by the statistic /V(p) = SD(p)/\/p(1 — #). This index
+compensates for the fact that the standard deviation of a percentage
+(SD[p]) is constrained to be small when the average is very large or very
+small, and thereby enables comparisons to be made among sets of per-
+centages with different means. Indices of variation in the proportion Asian-
+African are presented for the various settlement categories in the bottom
+panel of column 1.8 The large value for development towns (0.33) means
+that there are greater differences in ethnic composition among settlements
+in this category than among either veteran communities or suburban settle-
+ments. The relevance of this point is that disparities in industrial structure
+which exist among development towns may correspond to the variation in
+location of the continent groups, thereby exposing Asian-African and Euro-
+pean settlers to very different industries and occupational opportunities.
+
+Continent of origin is hardly a sensitive measure of cultural homogene-
+ity, although this distinction is a salient one in Israeli life. Country of
+origin is a more important consideration; it signifies language and life-style,
+and it is at this level that ethnic identity is commonly specified. Columns
+3-12 report representation values by settlement type for several ethnic
+groups (top panel), and these figures standardized by the respective na-
+tional percentages (middle panel). It is apparent from the latter that each
+Asian-African group is overrepresented in development towns (entry > 1)
+and, with few exceptions, underrepresented in metropolitan centers and
+suburbs. The reverse situation characterizes the locations of most Euro-
+pean populations. Superimposed upon this pattern are some sizable differ-
+ences among the individual ethnic groups: the concentration of Moroccan-
+Algerian-Tunisian immigrants in development towns is especially high
+(2.48 times their representation in Israel); the presence of Yemenites
+(1.10) indicates near equality to their percentage in the country, while
+immigrants from Germany-Austria are grossly underrepresented in the
+towns (0.25).
+
+The variation in ethnic group concentration also speaks to the matter
+of labor force characteristics of these populations. The index values re-
+ported in the lower panel of table 2 show, in every instance, greater vari-
+ability among development towns than among settlements in the other
+categories. It also appears that the individual Asian-African ethnics are
+apt to concentrate in certain towns, while the European groups are more
+evenly dispersed (compare cols. 3-7 with 8-12, last row). (Indeed, the
+Time of Immigration and Concentration in
+Particular Development Towns
+
+Although it is a digression from our main theme—to show the impact of
+development towns on the industrial and occupational opportunities of the
+various ethnics—it is of interest to understand how the concentration of
+individual immigrant groups in certain settlements came about. The rele-
+vant facts are: (a) the ethnic groups arrived in Israel in large numbers in
+different years, and (b) the development towns were established and
+experienced their periods of maximum population growth at different times.
+
+The tendency for the country-of-origin groups to differ in year of arrival
+to Israel is documented in table 3. The first two columns report immigra-
+tion to Israel by continent of origin; column 3 shows the ratio of European
+to Asia-African immigrants. There are several clusters of years during
+which new arrivals came disproportionately from one continent. The bulk
+of immigrants in the prestate period came from European countries, a
+trend which continued into the first two years of the state’s existence, when
+the survivors of the Nazi extermination camps comprised the majority of
+newcomers. Following this period there was an eight-year interval when
+immigrants came from the Arab countries at approximately three times the
+rate from Europe. The ancient Jewish communities of Iraq, Yemen, and
+Aden moved to Israel, practically in their entireties, in these years. Several
+additional shifts followed in the dominance of a continent as a source of
+immigrants. These shifts frequently accompanied political upheavals in
+particular lands, and reflected the impact of those events on their Jewish
+populations.®
+
+The dominant period of arrival of immigrants from the individual coun-
+tries is more relevant to the issue of ethnic group concentration in different
+towns. In columns 4—7 we present immigration distributions for a few
+countries of origin to illustrate the range of patterns that exist concerning
+time of arrival in Israel. These distributions show that for some ethnics
+(e.g., Bulgarians, Iraqis) immigration to Israel was compressed into a very
+brief interval, although the specific years may vary among the groups.
+Other ethnics (e.g., Iranians) show less concentration in time; their popu-
+lations have arrived in sizable numbers over much of the lifetime of the
+state. Still other origin countries (e.g., Romania) exhibit arrival patterns
+which have several modes.
+
+The tendency for period of immigration to have influenced the location
+of the individual ethnics in different development towns can be investigated
+by comparing the concentration of a group in the settlements that were
+growing rapidly during its years of maximum immigration, with the group’s
+representation in all development towns. To pursue this matter we specified
+periods of substantial immigration to Israel for each ethnic group, and
+periods of rapid population growth for every town. A period of substantial
+immigration was defined as several adjacent years during which at least
+50% of the group’s population in 1961, the census year, arrived in the
+country. Alternatively, an ethnic group could have more than one period
+of substantial immigration if at least one-quarter of its population in 1961
+arrived in each time period. The periods were specified so as to maximize
+TABLE 4
+
+Erunic Group ConcENTRATION IN DEVELOPMENT Towns,* BY PERIOD
+OF ARRIVAL TO IsrAEL, 1961
+
+ 
+
+ 
+
+Proportion of Ethnic
+Group’s Development
+Town Population That Is Expected Proportion of — Overrepresentation of
+
+ 
+
+ 
+
+Ethnic Group with Large _ in Settlements Which Ethnic Group in Ethnic Group in Rapidly
+Population Proportion Grew Rapidly in Rapidly Growing Growing Development
+Immigrating to Israel Time Periodt Development Towns§ Towns. (1) — (2)
+
+in Indicated Period+ a) (2) (3)
+1948-49]
+Lybia# ......... 215 .288 —.073
+
+     
+
+ 
+
+ 
+
+ 
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    
+
+Turkey# ..... .350 .288 062
+
+Yemen ....... 17 288 429
+
+Bulgaria o 736 .288 448
+
+Poland ....... 391 288 -103
+1950-51**
+
+Egypt (Lybia) {+ 834 570 264
+
+Tran arr 438 570 —.132
+
+Iraq 799 570 299
+
+Romania . 701 570 131
+1954-56¢¢
+
+Morocco# ........ Pere 501 413 .088
+1957-61§§
+
+Egypt# .260 246 .014
+
+Poland .. aE 270 246 024
+
+Romania .............. 291 246 045
+
+ 
+
+Sources.—Israel Central Bureau of Statistics (19734, table 3; 1964, table 10; 19636, table 2),
+Amiran and Shachar (1969, table 4).
+
+* Computations pertain to the 19 development towns with populations exceeding 5,000 in 1961.
+
+{ “Large population proportion” is defined as more than one-half of the group’s population in Israel
+in 1961 arriving in indicated period (if ethnic group appears in one time interval), or more than
+one-quarter of group’s population arriving in the period (if ethnic group appears in two time intervals).
+
+4A “rapidly growing town” is one with more than one-third of its 1961 population accounted for by
+expansion in the indicated period (if settlement appears in one time interval), or more than one-quarter
+of its Po aaaa accounted for by expansion in the period (if settlement appears in more than one time
+interval).
+
+§ Entry is the proportion of the total population in development towns in 1961 that is in settlements
+which grew rapidly in the time period.
+
+|| Rapidly growing development towns in this period Akko, Lod, Ramla, Rosh HaAyin, Yehud.
+
+# In some census data used in our calculations (Israel Central Bureau of Statistics 1964, table 10)
+this ethnic group is paired with another which did not have a high immigration rate in the period.
+
+** Rapidly growing development towns in this period: Akko, Afula, Ashkelon, Beer Sheva, Or Yehuda,
+Tiberias, Tirat Hakarmel, Zefat.
+
+tt Egypt and Lybia, which are grouped in the census data, each satisfied the criterion for inclusion
+in this time period.
+
+ti Rapidly growing development towns in this period: Ashkelon, Beer Sheva, Bet Shaan, Bet Shemesh,
+Dimona, Qiryat Shemona, Yavne.
+
+§§ Rapidly growing development towns in this period: Beer Sheva, Dimona, Elat, Qiryat Gat.
+Rapidly growing development towns were defined as places which ob-
+tained at least one-third of their 1961 populations in the indicated time
+period. Alternatively, a town was considered to have multiple periods of
+rapid growth if it obtained at least 25% of its 1961 population in each of
+several intervals. Using these definitions we calculated the proportion of an
+ethnic group’s development town population in 1961 which resided in set-
+tlements that were growing rapidly when its members had a high rate of
+immigration to Israel. This value is reported in column 1 of table 4. In
+column 2 we present the proportion which would reside in these settlements
+if the group were represented equally in all development towns. Column 3
+shows the difference between the entries in the preceding columns, and
+measures the extent of overrepresentation in the towns that were expand-
+ing rapidly.
+
+These calculations support the argument that the ethnics tend to be
+concentrated in settlements which have growth histories that parallel
+their immigration distributions. Eleven of the 13 entries in column 3 are
+positive, indicating overrepresentation in rapidly expanding towns. Also,
+the two instances in which a column 3 entry is negative refer to situations
+where the ethnic group under consideration is paired in the census data
+with a second group, one lacking a high immigration rate in the referenced
+time period. In these cases our calculations cannot provide a sensitive test
+of the thesis.1°
+which a town can support. Second, the national government has followed a
+policy of extending incentives for certain kinds of industries to locate in
+development towns. Third, the preferred industries tend to have large
+plants; this also serves to reduce the variety of firms in a settlement.
+
+Governmental encouragement of industry is carried out through a plan
+of financial incentives administered by the Ministry of Commerce and
+Industry. For locating in a development town, firms are granted tax re-
+ductions and low-interest loans for site acquisition, site development, on-
+the-job training of workers, and working capital (Lichfield 1971, 1:3.13).
+The kinds of industries that have been given preference are ones which
+either exploit the resources of a region—food-processing plants in agri-
+cultural locales, mining and chemical manufacturing in towns near the
+Dead Sea—or ones which, while neutral to location, are labor intensive
+and provide many jobs at a low initial capital cost. Textile manufacturing
+has been the most favored industry; the short training period for spinning
+and weaving jobs makes these tasks especially suitable for accommodating
+low-skill immigrants.
+
+The impact of the factors which make for industrial concentration can
+be illustrated by reference to the economies of a few development towns.
+In Qiryat Shemona, 71% of industrial employment is in textile manu-
+facturing; this figure represents one-fourth of the total labor force in the
+city!” (Zarchi and Shiskin 1972, pp. 61, 84). In Dimona, textile plants also
+dominate the manufacturing sector: 96% of industrial workers, repre-
+senting 50% of the labor force, are in these enterprises. Ashqelon special-
+izes in food processing (46% of industrial employment); Bet Shemesh
+manufactures transportation equipment (40% of the industrial labor
+force) ; Afula weaves textiles (57% of the industrial work force); and the
+economy of Yeruham, a new development town, is based principally on
+chemical and mineral processing (92% of industrial employment). While
+it is true that the preceding examples depict extreme instances of un-
+balanced economic structures, they only exaggerate what is an evident
+tendency.
+Development Towns in Israel
+
+As a result of community differences in industrial composition, the in-
+dividual ethnic groups tend to be overrepresented in certain activities.
+Yemenites are concentrated in textile manufacturing (three times their
+representation in the Israeli population), Moroccans are in mining (four
+times their representation), Lybians manufacture cement products (four
+times their representation), and immigrants from Algeria-Tunisia are em-
+ployed disproportionately (by a factor of three) in wood product indus-
+tries.13 The overrepresentation of those immigrant groups can be attributed
+to the particular development towns where they reside. Veteran settlements
+play much the same sort of role, but tend to expose European ethnics to
+certain industrial sectors. Germans are overrepresented (by a factor of two)
+in chemical and petroleum processing, an industry which has a major center
+in the Haifa Bay region, where this group is concentrated. Bulgarians, who
+reside principally in the Tel Aviv metropolitan area, are overrepresented
+(by a factor of two) in machinery and metal products manufacturing,
+an economic sector with a strong representation in this region.
+
+To inquire in a more systematic fashion into the impact of community
+on the industry affiliations of the ethnic groups, indices of dissimilarity
+(Taeuber and Taeuber 1965, p. 236) were computed from the 1961 census
+tape to compare the industry distribution of each immigrant group with
+that of the urban population. For ethnic group j, this measure is defined by
+ID; = .502|P,, — Pi.|, where P,; = the proportion of group j’s urban
+population in industry i, P;, = the proportion of the total urban population
+in industry 7, and the subscript i ranges over the two-digit census industry
+categories. The index /D, varies from 0 to 1, and has an interpretation as
+the proportion of persons in ethnic group j who would have to change
+their industry affiliations in order for the two distributions to be in
+agreement.
+
+Index values for the individual ethnic groups are reported in column 1
+of table 5. These figures document a rather consistent tendency for Asian-
+African ethnics to show greater discrepancies from the urban population
+in their industry distributions than is the norm for European groups. When
+continent of origin, as a summary measure, is considered, Asian-African
+immigrants exhibit almost twice the disparity of Europeans!* (.13 versus
+TABLE 5
+
+DEGREE OF DISPARITY BETWEEN INDUSTRY DiSTRIBUTIONS OF THE ETHNIC GROUPS
+in UrBAN AREAS AND ToTAL UrBan Popuration, 1961
+
+ 
+
+ 
+
+DEVELOPMENT TowNS
+
+ 
+
+ALL Urpan SETTLEMENTS — =
+Ethnic Group
+
+ 
+
+ 
+
+  
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Percentage Percentage Proportion in
+Explained Explained Development
+ID* by Communityt ID* by Communityt Towns
+
+Erxnic Group a) (2) (3) (4) (s)
+Turkey 7 06 26 38 .23
+Iran .28 12 50 45 24
+Iraq . 13 AAS 26 56 19
+Vemen-Aden ....... .28 -18 39 59 .20
+Morocco .23 26 31 58 46
+Algeria-Tuni a 25 .29 32 46 -63
+Egypt 21 04 30 12 21
+Lybia ......... 28 21 40 37 26
+Russia Al 07 25 —07 05
+Poland ........ -10 07 .23 31 06
+Germany-Austria . 21 -10 40 07 04
+Czechoslovakia AS 05 33 02 07
+Hungary ... 14 .00 27 —.03 14
+Romania ... -10 04 .22 .29 1S
+Bulgaria 18 A3 31 18 12
+Asian-African +13 25 26 -70 27
+European .... 07 12 18 .29 08
+
+ 
+
+ 
+
+Source.—Computations are from the 1961 census tape, for males aged 14 and older, and pertain to
+communities with more than 5,000 inhabitants in 1961.
+
+* For ethnic group j, /D, = .502 | P,, — P, , where P,, = proportion of group j’s urban population
+(development town population) in industry i, and P, _ = proportion of the total urban population in
+industry i.
+
+t Formula is (JD, — B, )/ID,. See text for details of this computation. Negative values should be
+interpreted as indicating zero importance of community.
+duction in the index, which can be attributed to community industrial
+structure is (JD, — 1D,)/IDj.
+
+The index proportions which are explained by community, in the sense
+of the preceding discussion, are presented in column 2 of table 5. There is
+an evident tendency for residence location to be more important for Asian-
+African groups than for the European ethnics. When continent of origin
+alone is considered, 25% of the discrepancy between the industry distribu-
+tions of Asian-Africans and the total urban population can be attributed
+to the concentration of those immigrants in certain communities; for
+Europeans, the corresponding figure is 12%. The percentages for the
+individual ethnic groups should also be compared with the indices of varia-
+tion in settlement concentration (table 2, top row of lower panel). Despite
+the lack of full comparability between the ethnic categories in our two
+data sources, there is evidence that the effect of community is greater for
+groups having a large variation in settlement concentration. For instance,
+immigrants from Yemen-Aden and Morocco-Algeria-Tunisia have the
+highest index values of settlement concentration, and the largest percent-
+ages of their industry distributions accounted for by community. This
+correspondence is hardly surprising; it simply illustrates the mechanism
+we have been describing whereby community may create ethnic disparities
+in labor force characteristics.
+
+What is the impact of development towns on the industry affiliations of
+the ethnic groups? To pursue this matter, the preceding calculations were
+repeated for the 19 development towns identified on the 1961 census tape.
+The index /D; now reports the difference between the industry distribution
+of group j in the development towns, and the industry distribution of
+the total urban population. The results, which are presented in column 3
+of table 5, reveal slightly larger index values for Asian-African ethnics
+than for Europeans; at the level of continent of origin, the respective
+figures are .26 and .18. A more pronounced effect concerns the disparity
+between the index value of an ethnic group in the development towns,
+and its value in all urban settlements (cols. 1 and 3). The figures for
+development towns are consistently larger, suggesting that these settle-
+ments expose their residents to industrial structures that differ considerably
+from the ones existing in other communities.> This observation, together
+with the greater representation of Asian-African populations in develop-
+ment towns (col. 5), explains the manner by which the towns contribute
+to ethnic differences in industry affiliation (col.1).
+American Journal of Sociology
+
+The degree to which the index values in column 3 can be attributed to
+the industrial composition of development towns is strikingly different for
+Asian-African and European ethnics. The proportions explained by com-
+munity in the case of the former greatly exceed the proportions for the
+latter groups (col 4).1° At the level of continent of origin, the respective
+figures are .70 and .29. It is also noteworthy that differences among the
+ethnic groups in the effect of community correspond to differences among
+them in degree of concentration in individual development towns (table 2,
+lower panel, last row). For instance, with regard to Asian-Africans, Yemen-
+Aden immigrants are highest on both concentration by settlement and
+importance of community for explaining their industry distribution, while
+immigrants from Egypt-Lybia are lowest on both factors. The European
+groups exhibit little difference in degree of settlement concentration, al-
+though Romanians do have somewhat higher values on the two indices.
+
+We conclude that the overrepresentation of Asian-African ethnics in
+development towns (which contain industries different from those common
+elsewhere in the country [n. 15]), and their further concentration in
+certain of these settlements, has served to expose them, to a disproportion-
+ate extent, to particular industrial opportunities. This situation is re-
+sponsible for the larger disparities between their industry distributions
+and that of the total urban population, in comparison with European
+groups (table 5, col. 1), and for the greater importance of community in
+explaining their industry affiliations (col. 2).
+TABLE 6
+
+Occupat:onaL ComposiTion* by ComMMUNITY CATEGORY, FOR
+Urpan SETTLEMENTS, 1961
+
+ 
+
+ 
+
+ 
+
+Occupationat DistriBuTION (%)t
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+—— rs OccupaTionaL
+Upper Lower Status Scoret
+White White Upper Lower —
+Collar Collar Manual Manual Observed Predicted
+Community CaTEGoRY a) Q) (3) (4) Total (3) (6)
+Development towns .09 13 39 39 1.00 97.5 101.3
+Veteran settlements 14 18 40 .28 1.00 104.0 106.4
+Suburbs 23 42 .20 1.00 1117 110.0
+Main cities 26 33 18 1,00 114.8 113.0
+All urban
+settlements ........ 18 23 37 22 1.00 109.7 109.7
+Sounce.—Computations are from the 1961 census tape, for males aged 14 and older, and pertain to
+
+ 
+
+communities with more than 5,000 inhabitants in 1961.
+
+* Occupational categories are defined as follows: upper white collar—scientific and academic workers,
+other professional workers, administrators and managers, lower white collar—clerical and sales workers;
+upper manual—skilled workers in industry, mining, building, and skilled workers in agriculture; lower
+manual—unskilled workers in industry, transport, building, other unskilled workers, service workers.
+The components refer to the 1972 occupational classification, to which the 1961 census codes were
+transformed (Israel Central Bureau of Statistics 1974, appendix B).
+
++ Entries are unweighted averages of settlement values, with the exception of the last row, which
+ieports the occupational distribution of the urban population.
+
+{Each of nine major occupational categories was indexed by its median earnings in 1972 (Israel,
+Central Bureau of Statistics 1973a, p. 344). ‘“Observed”’ status scores are a weighted average of the
+earnings values, the weights being the proportions of the labor force from a settlement type in the
+occupations. ‘Predicted’? status scores were calculated in the same manner except that the occupational
+distribution of a settlement was first estimated from its industry distribution, the estimation being made
+from an industry-by-occupation matrix for the entire urban population. Status scores are in units of
+Israeli currency (IL X 100) and reflect annual occupational earnings in 1972.
+is also the case that development towns have few skilled occupations, when
+this occupational category is viewed relative to the size of the lower manual
+work force. That is, while there are equal numbers of upper and lower
+manual positions, in other settlements the ratio of skilled to unskilled oc-
+cupations is much higher, enhancing the mobility prospects there for lower-
+class workers. Some implications of the restricted occupational opportunity
+in development towns are outlined in the next section.
+
+We wish to make clear the structural underpinnings of the occupational
+differences among settlement types. The differences derive principally from
+the kinds of industries located in the communities, and relate only indi-
+rectly to the skill levels of the inhabitants. The final two columns of table
+6 provide evidence for this contention. In column 5, “observed” occupa-
+tional status scores are presented for each settlement type. These scores
+were calculated by classifying the occupations into nine major categories
+for which national earnings data are available,!® and computing a weighted
+average of the earnings figures, the weights being the labor force propor-
+tions in the categories. The resulting scores index occupational standing;
+the value for a community reflects only its occupational composition, not
+the quality of work by practitioners of an occupation or community dif-
+ferences in rate of pay for the same work. The entries indicate that oc-
+cupational status varies considerably by settlement type, from a low of
+97.5 for development towns to a high of 114.8 for the main cities.1® These
+figures, then, express the preceding distributional information in more sum-
+mary form. In column 6 estimates of the occupational status scores are
+reported, the calculations being based on the occupational distributions
+characteristic of the various industries,?° and the industry composition of
+each settlement. These scores therefore report the status discrepancy that
+should exist among community types, given their industrial compositions.
+The estimated scores parallel the observed values, and reveal that 11.7
+points from the 17.3-point range in occupational status is expected from
+industry differences among the settlements.
+
+The fact that the occupational distributions of the communities can be
+Development Towns in Israel
+
+understood from a consideration of the kinds of industries they contain
+does not mean that the personal characteristics of residents are irrelevant
+to the determination of occupational composition. Indeed, we have argued
+that the industrial structures of development towns were deliberately
+planned with the needs of their prospective populations in mind. What a
+consideration of columns 5 and 6 reveals is that while the skill levels of
+the inhabitants may have been influential as initial causes in attracting
+certain kinds of enterprises, once an industrial base has been established
+the occupational structure of a settlement is an immediate resultant of its
+mix of industries. Also, since few industries have technologies which can
+accommodate much variety in occupational composition, a settlement
+cannot respond easily to changes in the skill and education levels of its
+residents.
+
+The impact of community on the magnitude of ethnic differences in
+occupational status is reported in table 7 for the continent-of-origin
+groups.?! Columns 1 and 4 present occupational status scores for each
+ethnic group, by settlement category. These “observed” values were cal-
+culated in the same fashion as the entries in column 5 of table 6, the sole
+difference being that the weights used in computing the occupational
+averages now pertain to proportions of the relevant ethnic group. The fig-
+ures reveal sizable disparities for each group, over the community categories,
+with development towns showing the lowest status scores, and suburbs and
+American Journal of Sociology
+
+main cities the highest. Within each settlement type there also are sub-
+stantial status differences between the immigrant groups: Europeans con-
+sistently have higher occupational standing than Asian-Africans. When all
+urban settlements are considered, a 19.7-point differential is obtained be-
+tween the origin groups. What we wish to ascertain is the extent to which
+this gap is a consequence of the settlement patterns of the two ethnic
+groups.
+
+Expected status scores were computed for each origin group by assuming
+that, in every community, its members had the same occupational distribu-
+tion as the settlement’s total population. This computation therefore in-
+dexes the degree to which an immigrant population is advantaged occu-
+pationally by its community locations. The expected scores are reported
+in columns 2 and 5, and reveal comparable occupational exposure patterns
+for the two ethnic groups within each settlement category. However,
+because Asian-Africans are overrepresented in development towns, while
+Europeans are concentrated in the main cities and suburbs (cols. 3 and 6),
+at the level of the total urban population a significant gap emerges in ex-
+pected occupational status; the score for Asian-Africans is 106.6, and for
+Europeans it is 110.8. This 4.2-point gap, which is attributable to different
+settlement locations by the two ethnics, accounts for 21% of the observed
+discrepancy in occupational status between the groups.
+
+In actuality, this 4.2-point gap is an upper bound to the impact of com-
+munity. Our computations have ignored resident characteristics, and
+thereby presume that any settlement differences in years of schooling or
+other job-related skills are, properly, the effects of community; for in-
+stance, lower educational attainment in development towns might be due
+to poor school facilities in these settlements. However, there is evidence
+(next section) that capable individuals tend to migrate from development
+towns. This means that individual attributes are, in part, a determinant
+of settlement location, rather than the reverse. If we adopt this formula-
+tion, the effect of community should be examined neé of individual
+characteristics. While we cannot hold these factors constant using the pre-
+ceding methodology, by means of a regression procedure an individual’s
+occupational status was examined against terms for (a) ethnic origin, (d)
+education, age, and length of residence in Israel, and (c) 46 dummy terms
+for the settlements. The result was that the initial 19.7-point gap? between
+Asian-African and European immigrants was reduced to 6.9 points by ad-
+dition of the individual characteristics, and to 4.7 points by the introduc-
+tion of the settlement terms. This last 2.2-point reduction, representing
+We have characterized development towns as locales in which few
+moderate-status positions are available, this limitation deriving from a
+concentration of low-skill industries in the settlements. Relating the occu-
+pational composition of the towns to their demographic features, we have
+suggested that the restricted occupational opportunity in these comunities
+is responsible, in part, for the disparities which exist in Israel in occupa-
+tional standing between immigrants from European and those from non-
+European countries; that is, the latter ethnics, being overrepresented in
+the towns, are exposed disproportionately to disadvantageous industrial
+contexts. Yet the impact of development towns on national-level indices of
+the ethnic gap is muted by the fact that even among Asian-Africans, only
+27% of the population resides in this class of settlements. When we turn to
+a consideration of the social character of the towns themselves, however,
+the full impact of the initial decisions concerning the structure of their
+economies becomes evident.
+
+There is merit to the contention that the government’s policy to establish
+new towns in outlying areas, direct large numbers of immigrants to the
+settlements, and introduce in them principally labor-intensive, low-skill
+industries, constituted an efficient strategy by which a small country with
+modest resources could cope with several pressing and related problems.
+First, immigrant absorption was a matter of urgency, not something that
+could be deferred or solved gradually, and the introduction of low-skill
+technologies facilitated their rapid incorporation into the labor force. A
+second objective furthered by the new towns was promotion of population
+redistribution and the opening of the hinterland to development. This was
+easier to achieve through encouraging new immigrants, who had few ties
+with communities in Israel, to settle in the towns, than through stimulating
+the migration of veteran Israelis from the country’s metropolitan centers.
+Nevertheless, substantial disutilities can be associated with the new-town
+policy once a longer-range time perspective is adopted. Pertaining to this
+matter, we wish to discuss several immediate consequences of the labor
+force composition of development towns, as well as a number of derivative,
+second-order problems.
+
+The direct consequences of limited opportunity are that immigrants who
+come to the towns with training which qualifies them for skilled manual or
+lower white-collar positions have difficulty in locating suitable work, and
+residents who begin their careers in low-ranked jobs have limited prospects
+for upward mobility. An indication of the seriousness of the blockage in
+occupational mobility, even for poorly educated persons, can be seen by
+noting that in the two medium-status categories underrepresented in the
+towns (skilled manual and lower white collar),?4 58% of the country’s
+labor force in the former category, and 29% of the labor force in the latter,
+have eight or fewer years of education (Israel Central Bureau of Statistics
+1973a, pp. 336-37). This means that it is not uncommon for capable in-
+dividuals with little education to enter these occupations. To summarize,
+while the industries established in development towns may be appropriate
+to the skill level of the average immigrant, they severely constrain the
+occupational prospects of the better-educated or more motivated settlers.
+
+Partly as a consequence of limited occupational opportunity, there has
+been considerable migration from development towns. A report on 21
+towns (Israel Manpower Planning Authority 1964, p. 6) notes that 40%
+of their population in 1961 moved out of this settlement category in the
+succeeding two years; this figure was four times the national rate of inter-
+urban movement. There is also evidence that the migrants come from the
+more talented segment of the community:?> they are better educated than
+
+24 “Skilled manual” refers to the census occupational category—skilled workers in
+industry, mining, building, and transport; and to part of the census category—agricul-
+tural workers, “Lower white collar” refers to two occupational categories—clerical and
+related workers, and sales workers (Israel Central Bureau of Statistics 1974).
+
+25 Data are from tabulations prepared by the authors from the 1961 census tape.
+Occupational status is indexed by 1972 earnings figures for the one-digit census
+occupation categories. Facility with Hebrew is based on a census tape code which
+refers simultaneously to reading and writing competence.
+nonmigrants (7.6 years of schooling vs. 6.2), have higher current occupa-
+tional status (103 vs. 96), are more facile with Hebrew (74% can read
+and write vs. 65%), and have been in Israel for a longer period (11.4 years
+vs. 11.0).?° There is little migration to development towns from veteran
+settlements, which might offset this loss of capable residents.?’ Rather,
+these towns have functioned as ports of entry for new immigrants to the
+country, providing them with temporary places of abode until they acquire
+the means to establish themselves in other communities. Those who remain
+tend to have modest occupational aspirations or require the housing sub-
+sidies and other kinds of assistance that are more readily available to
+residents of development towns. To put matters succinctly, the towns serve
+s “sinks” for less resourceful immigrants.
+
+An additional process appears to operate in development towns within
+commuting distance of veteran settlements. Residents who are better
+qualified occupationally frequently obtain employment outside the towns
+and travel to work, much as if they lived in suburbs. From the 1961 census
+tape we calculated that, for the industrial labor force?’ residing in develop-
+ment towns, mean education of males employed outside their settlements
+is 7.4 years, compared with 6.9 years for those residing and working in
+the towns. It is unclear from our data whether the existence of suitable
+employment in nearby communities permits development towns to retain
+these individuals, or whether it facilitates their eventual departure by
+enabling the withdrawal to be accomplished in stages. To some extent the
+latter process probably operates, since many of the settlements are not
+very attractive, and their inhabitants often have only a weak identification
+with community (Lichfield 1971, 1:6.3, 6.10). In this regard we point out
+that, alongside the departure of skilled manual and lower white-collar
+workers, development towns tend to have nonresident professional and
+administrative work forces (Smith 1972, p. 34). Teachers, social workers,
+and industrial managers choose to commute to work rather than reside
+in the towns. Our calculations from the 1961 census tape provide support-
+ing evidence for this residence style among white-collar workers: educa-
+tional attainment by nonresidents employed in development towns is
+10.0 years of schooling, versus 6.6 years for inhabitants of the towns.
+
+These processes are responsible for the indirect effects of industrial
+structure that we wish to document. The inability of the settlements to
+retain their more resourceful and better-acculturated inhabitants, or at-
+tract comparable persons from other Israeli communities in substantial
+numbers, has meant that the settlers who remain tend to have high rates
+of dependency and related social problems. In 1963, 11.6% of families in
+development towns received continuous economic help, in comparison with
+4.4% in the total population. For all forms of assistance, the respective
+figures were 34.5% and 17.4% (Israel Manpower Planning Authority
+1964, p. 26). With regard to participation in education by youth, in the
+14~17-year age group, 41% in development towns study full-time in some
+educational institution, compared with 68% in the entire country (Israel
+Manpower Planning Authority 1964, p. 11). Delinquency statistics are
+consistent with this picture. Using data from the Israel Ministry of
+Welfare’s (1972) handbook of community characteristics, we calculated
+an incidence rate of 26.6 per 1,000 in the age group 9-16 for the 19
+development towns used in the previous computations. This figure com-
+pares with 14.3 for the country, and 16.4 for the three main cities.
+
+Even if the rates of incurring social problems in development towns by
+the ethnic and class groupings residing there were not greater than the
+rates these same populations exhibit in other communities, the mere fact of
+concentration of less resourceful families creates undesirable consequences.
+The low representation of moderate-status individuals in the towns and
+their high population turnover mean that local leadership tends to be
+weak*® (Lichfield 1971, 1:63), that the schools are not centers of ex-
+cellence, and that the clientele capable of supporting cultural activities is
+small. Despite grants-in-aid from the central government, these settlements
+are hard pressed to collect adequate tax monies to provide for the mani-
+fold needs of their lower-class populations (Lichfield 1971, 1:5.16), not to
+mention the amenities which can make a community an attractive place of
+residence. Finally, because development towns are contexts in which de-
+pendency is common, there is a serious risk that it will become an approved
+life-style.8°
+To clarify the preceding comments, and place them in perspective in
+relation to long-range prospects for the towns, we must stress two points.
+First, we have discussed development towns as if they formed a homogene-
+ous settlement category with regard to occupational composition and the
+presence of derivative problems. This is a reasonable first approximation
+to ‘the reality, and an efficient analytic strategy considering that our
+interest is to elucidate the relation between community and ethnic stratifi-
+cation, and document the particular role played by industrial structure.
+However, it means ignoring the many differentiating mechanisms which
+have resulted in a few development towns constituting cases of successful
+progress, in that they attract settlers from diverse population groups via
+internal migration, retain their more talented residents, and have either
+acquired a diversified industrial base or were founded originally around
+industries which utilize a greater array of occupational skills than is the
+norm in the majority of the towns.
+
+Beersheva, Ashdod, and Arad are examples of successful development
+towns. Beersheva is now a regional center for southern Israel; it has a
+university, provides medical and commercial services for the surrounding
+region, and is able to support a varied white-collar labor force. Ashdod
+is a major seaport: Workers in shipping are well paid; also, the town has
+attracted ancillary manufacturing, transportation, and commercial firms
+that find it advantageous to be located in a maritime center. Arad is an
+isolated community near the Dead Sea which has been built around mineral
+extraction, chemical processing, and metal fabrication industries. These
+activities require engineers, technicians, and skilled craftsmen. Because of
+the settlement’s isolation, these personnel, together with teachers, social
+workers, and others who provide professional services in the town, must
+live there, and consequently have a vested interest in its progress. Arad,
+in addition, is advantaged by social composition; a majority of its residents
+are Israeli born, and lack the many adjustment problems which confront
+new immigrants. Differentiating processes of considerable import therefore
+operate, and some settlements are following satisfactory development
+trajectories. However, a detailed consideration of these matters is outside
+the scope of this report.
+
+A second qualification concerns the fact that we are examining the towns
+at a very early point in their histories. The bulk of our data are from the
+1961 Census of Population; thus no development town is older than 13
+years, at least in its modern phase. Most are very small, having less than
+10,000 inhabitants, and their unbalanced industrial character stems
+partly from this size factor. However, because governmental policy is to
+encourage further growth, and because the immigrants now arriving in
+
+knowledge about the allowance, and various individual characteristics, residence in a
+development town has a strong, positive effect on application.
+The processes we have described are very visible in Israel because of the
+huge immigration inflow this country has experienced in a brief time
+interval—far exceeding the rate of growth of the American population from
+immigration in any similar period—and because the government’s espoused
+intention has been to settle the immigrants in new towns. Nonetheless, the
+importance of community for explaining ethnic stratification in the United
+States is also considerable, although the mechanisms that have brought
+immigrant groups to certain sections of the country, and to particular
+communities, are not identical with the ones which have operated in
+Israel.
+
+The sorts of mechanisms that have generated ethnic concentration by
+region and community in America concern time of arrival, route of travel,
+and degree of affinity of a group for its own kind. The first factor is
+associated with the processes we have described in connection with ethnic
+concentration in Israel. Immigrants from various lands came to America
+in different decades; and time of arrival correlates with location of the
+western frontier and, consequently, with period of settlement of a geo-
+graphic region. Route of travel is a consideration in explaining the concen-
+tration of certain groups—French-Canadians, Mexicans, and Chinese—
+who came via routes that were not followed by the majority of immigrants.
+These ethnics tend to be overrepresented in the states that border their
+ports of entry.
+
+The preference of individuals from the same country of origin to live in
+proximity to their own kind is also responsible for generating ethnic con-
+centration, although this factor does not explain where in American a
+group will choose to reside. Breton (1964) suggested that immigrants who
+are different from the receiving population on a number of dimensions—
+language, religion, cultural traditions—are likely to settle together in a
+community in order to constitute a clientele of sufficient size to support
+ethnic churches, schools, restaurants, newspapers, and Landsmanshaften.
+Once the initial migrants have established themselves in particular cities,
+chosen for whatever reason, subsequent immigrants from the country of
+origin tend to travel to the same settlements.
+
+As a consequence of these processes, the correspondence of ethnicity
+with geographic region and community is quite strong. Scandinavians and
+Germans are concentrated in the Midwest; French-Canadians are located in
+northern New England; Italians are in southern New England and in the
+Mid-Atlantic states; and Jews, a heavily urban group, reside principally
+in New York City and Chicago. To cite instances of extreme ethnic
+concentration in states, 1920 census data on the foreign born reveal that
+Norwegians were represented in North Dakota at 15 times their national
+rate; French-Canadians were concentrated in New Hampshire at 27 times
+their rate in the country; and Mexicans were overrepresented in Arizona
+by a factor of 41 (Hutchinson 1956, pp. 34-48). It is also the case that
+first-generation American born continue to reside in the geographic regions
+of their parents; 1950 census data on natives of foreign or mixed paren-
+tage show representation rates of 19, 27, and 11 for the preceding three
+groups, in their respective states (Hutchinson 1956, pp. 39-43).
+
+The persistence of ethnic concentration means that regional and com-
+munity differences in industry location will have a stable impact on ethnic
+opportunity. There are striking differences among the immigrant groups
+in industry affiliation. This is principally a consequence of the industrial
+composition in the settlements where a group is concentrated, although the
+ethnic populations are themselves responsible for introducing several in-
+dustries into America—ready-made apparel manufacturing, for instance,
+is associated with Jewish immigrants (Hapgood 1966, p. 10). To illustrate
+the tendency toward ethnic concentration by industry, according to 1950
+census data on the foreign born, French-Canadians are employed in textile
+mills (a New England industry) at seven times their representation in the
+population. Mexicans work in farming at 11 times their expected rate, and
+in food processing at three times the expected rate (both industries have
+extensive operations in the Southwest and far west). Czechoslovakian and
+Yugoslavian immigrants are employed in primary metal processing at four
+times their representations in the country; these groups have large popu-
+lations in Pennsylvania, Ohio, and Illinois, which are centers of ferrous
+metalworks (Hutchinson 1956, pp. 224~-31).8+
+
+Industry affiliation is an important consideration in the analysis of
+occupational standing and mobility for several reasons. Industries differ
+in technology and, as a consequence, in mix of occupations. Textile manu-
+facturing and food processing, for instance, contain few skilled manual
+positions, while the majority of the blue-collar work force in printing and
+
+31 Industry concentration figures are based on data for operatives, except in the case
+of Mexicans in farming, for whom farm laborer figures were used.
+in aircraft manufacturing is classified as skilled (U.S. Bureau of the
+Census 1963, pp. 506-12). The occupational distribution in an industry
+is one determinant of the mobility prospects facing an individual, and
+constrains his advancement to a greater or lesser extent, depending on
+the shape of the distribution, as long as he remains employed in that
+sector of the economy.®? Where communities are centers of a particular
+industrial activity, the occupational composition of the dominant industry
+has an even more pervasive effect on labor market opportunity; indeed,
+this is the situation that exists in many development towns in Israel.
+
+Industries differ in other respects which can influence an individual’s
+occupational mobility prospects. In some, the firms characteristically fill
+their upper-manual positions by promotion from below; in other industries
+a craft model is the norm, which permits little possibility for upward
+movement. Demographic features of an industry are also relevant to under-
+standing mobility opportunity: some industries are expanding, and create
+new upper-manual and white-collar positions which might be filled through
+promotion; others are stable or declining in employment, and present
+limited promotion prospects. Finally, industries differ in the age composi-
+tion of their employees, a consideration relevant to mobility, as it specifies
+the amount of promotion and replacement hiring that will take place in
+the short-term future.
+
+It is unfortunate that industry and community characteristics have
+been neglected in the main thrust of research on status attainment, which
+has focused exclusively on individual-level variables. This omission is
+especially serious in the study of ethnic stratification, since, as we have
+documented, ethnic groups tend to be concentrated by region and settle-
+ment, and are therefore exposed to different industrial structures. Analyses
+of occupational standing have commonly attributed the ethnic effects
+which remain after controls for individual characteristics (father’s SES,
+respondent’s education and status of first job, etc.) to cultural background
+or motivational differences among the groups (Duncan and Featherman
+1972). While we have no reason to doubt the salience of such factors for
+understanding ethnic stratification, we do suggest that they are confounded
+in the residual ethnic terms with substantial industry and community
+effects.
+Aronoff, Myron J. 1973. “Development Towns in Israel.” In Israel: Social Structure
+and Change, edited by Michael Curtis and Mordecai Chertoff. New Brunswick:
+Transaction Books.
+
+Barkai, Haim. 1974. “A Model of Kibbutz Production and Factor Allocation.” Dis-
+cussion Paper no. 742. Jerusalem: Falk Institute.
+
+Bar Yosef, Rivka, Gile Schild, and Yudith Varshar. 1974. “Research on the Economic
+Situation of Large Families at the Time of the War.” In Hebrew, mimeographed.
+Jerusalem: Work and Welfare Research Institute, Hebrew University.
+
+Ben Porath, Yoram. 1973. “On East-West Differences in Occupational Structure in
+Israel.” In Israel: Social Structure and Change, edited by Michael Curtis and
+Mordecai Chertoff. New Brunswick: Transaction Books.
+
+Berler, Alexander. 1970. New Towns in Israel. Jerusalem: Israel Universities Press.
+
+Bettelheim, Bruno. 1969. Children of the Dream. New York: Macmillan.
+
+Blauner, Robert. 1964. Alienation and Freedom. Chicago: University of Chicago Press.
+
+Breton, Raymond. 1964. “Institutional Completeness of Ethnic Communities and the
+Personal Relations of Immigrants.” American Journal of Sociology 70 (September) :
+193-205.
+
+Brutzkus, Eliezer. 1964. Physical Planning in Israel. Jerusalem: E. Brutzkus.
+
+Cohen, Erik. 1968. “A Comparative Study of the Political Institutions of Collective
+Settlements in Israel.’ Mimeographed. Jerusalem: Department of Sociology, Hebrew
+University.
+
+. 1970. The City in the Zionist Ideology. Jerusalem: Institute of Urban and
+Regional Studies, Hebrew University.
+
+Duncan, Otis D., and David L. Featherman. 1972. “Psychological and Cultural Factors
+in the Process of Occupational Achievement.” Social Science Research 1 (June):
+121-45.
+
+Galle, Omer R. 1963. “Occupational Composition and the Metropolitan Hierarchy:
+The Inter- and Intra-Metropolitan Division of Labor.” American Journal of So-
+ciolcgy 69 (November): 260-69.
+
+Hapgood, Hutchins. 1966. The Spirit of the Ghetto. New York: Schocken.
+
+Hutchinson, E. P. 1956. Immigrants and Their Children, 1850-1950. New York: Wiley.
+
+Israel Central Bureau of Statistics. 1963a. Population and Housing Census 1961: The
+Settlements of Israel, Part 1. Publication no. 10. Jerusalem: Central Bureau of
+Statistics.
+
+. 1963b. Population and Housing Census 1961: The Settlements of Israel, Part 3.
+
+Publication no. 12. Jerusalem: Central Bureau of Statistics.
+
+. 1964. Population and Housing Census 1961: The Settlements of Israel, Part 4.
+Publication no. 18. Jerusalem: Central Bureau of Statistics.
+
+———. 1965. Population and Housing Census 1961: Procedures and Definitions. Publi-
+cation no. 25. Jerusalem: Central Bureau of Statistics.
+
+———. 1966. Population and Housing Census 1961: The Settlements of Israel, Part 6.
+Publication no. 28. Jerusalem: Central Bureau of Statistics.
+
+———. 1973a. Statistical Abstract of Israel. Jerusalem: Central Bureau of Statistics.
+
+. 1973b. Immigration to Israel 1948-1972. Special Series no. 416. Jerusalem:
+
+Central Bureau of Statistics.
+
+. 1974. The Standard Classification of Occupations 1972. Jerusalem: Central
+Bureau of Statistics.
+
+Israel Manpower Planning Authority. 1964. Manpower in Development Towns. Jerusa-
+lem: Ministry of Labor.
+
+Israel Ministry of Welfare. 1972. Settlements in Israel: Profiles. Jerusalem: Ministry
+of Welfare.
+
+Lichfield, Nathaniel. 1971. Israel’s New Towns: A Developmental Strategy. 3 vols.
+Jerusalem: Ministry of Housing.
+
+Matras, Judah. 1973. “Israel’s New Frontier: The Urban Periphery.” In Israel: Social
+Structure and Change, edited by Michael Curtis and Mordecai Chertoff. New
+Brunswick: Transaction Books.
+American Journal of Sociology
+
+Sicron, Moshe. 1957. Immigration to Israel (suppl.). Jerusalem: Central Bureau of
+Statistics.
+
+Smith, Herbert. 1972. Survey of Development Towns and Cities. No. 1. In Hebrew.
+Jerusalem: Smith Center for Research.
+
+Spiegal, Erika. 1966. New Towns in Israel. Stuttgart: Kramer.
+
+Spiro, Melford E. 1970. Kibbutz: Venture in Utopia. New York: Schocken.
+
+Stigler, George. 1966. The Theory of Price. New York: Macmillan.
+
+Taeuber, Karl E., and Alma F. Taeuber. 1965. Negroes in Cities: Residential Segrega-
+tion and Neighborhood Change. Chicago: Aldine.
+
+Talmon, Yonina. 1972. Family and Community in the Kibbutz. Cambridge, Mass.:
+Harvard University Press.
+
+U.S. Bureau of the Census. 1963. Census of Population 1960: Occupational Character-
+istics. Report no. PC(2)-7A. Washington, D.C.: Government Printing Office.
+
+Weintraub, Dov, and M. Shapira. 1971. “The Family in the Process of Change: Crisis
+and Continuity.” In Immigration and Social Change, edited by Dov Weintraub.
+Jerusalem: Israel Universities Press.
+
+Zarchi, Shaul, and Aryia Shiskin. 1972. Qiryat Shimona: Establishment of a Develop-
+ment Town. In Hebrew. Jerusalem: Ministry of Housing.

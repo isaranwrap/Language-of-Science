@@ -1,0 +1,1106 @@
+The Contagiousness of Aircraft Hijacking
+
+Author(s): Robert T. Holden
+
+Source: American Journal of Sociology, Vol. 91, No. 4 (Tan., 1986), pp. 874-904
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2779961
+
+Accessed: 08-06-2016 03:48 UTC
+Attempts to divert aircraft from their scheduled flight plans through force
+or threats of force are familiar occurrences in the United States and
+throughout the world. Such incidents are referred to by a variety of
+terms, including “aircraft hijacking,” “aerial hijacking,” “air piracy,” and
+“skyjacking.”
+
+Although there have been hijackings from 1931 to the present, their
+peak period was 1968-72 (see fig. 1). During that period there were 326
+hijacking attempts worldwide, or one every 5.6 days. These included 137
+attempts by individuals who boarded flights in the United States, or one
+such attempt every 13.3 days. Newspapers, television, and other mass
+media constantly carried stories about aircraft hijackings, and it was
+often suggested that the motivation to hijack planes spread from individ-
+ual to individual as a result of the media coverage.
+
+In this article, I will first detail various arguments about the conta-
+giousness of hijacking. I will then review the history of hijacking with a
+special focus on incidents that occurred in the United States during the
+period 1968-72 and on the possibility that contagion was involved. A
+general mathematical model of contagion will be developed and applied
+to data on hijacking attempts in the United States during the peak period.
+SOCIAL CONTAGION AND AIRCRAFT HIJACKING
+
+The assertion that aircraft hijacking is a contagious phenomenon, that
+one hijacking leads to another, appears in a wide variety of literature.
+Rich (1972) and Whelton (1972) write of a “skyjack virus” transmitted
+through the media. Phillips (1973) discusses the importance of imitation
+in explaining hijackings, and Chauncey (1975) and Minor (1975) consider
+a “hijacking as fad” hypothesis. Arey (1972) attributes several specific
+incidents to imitation of certain other incidents. Similar assertions are
+made in more general literature on “terrorism” and collective violence
+(e.g., Hacker 1981; Livingstone 1982; Pitcher, Hamblin, and Miller 1978)
+and in Hawkes’s (1971) discussion of a stochastic model of contagion. The
+cross-national diffusion of terrorist hijacking incidents is discussed by
+Heyman and Mickolus (1981). In another variation on the idea of conta-
+gion, Hamblin, Jacobsen, and Miller (1973) discuss hijacking in terms of
+the diffusion and modification of a basic invention, claiming in effect that
+each hijacker is attempting to outdo previous hijackers by inventing a
+better hijacking. The assertion of contagiousness of hijacking also ap-
+pears in newspapers (e.g., New York Times [January 28, 1972]) and
+magazines (e.g., U.S. News and World Report [February 17, 1968],
+p. 68).
+
+The claim that publicity stimulates subsequent hijackings receives cre-
+dence from studies of the effects of media coverage on other types of
+violent acts. Berkowitz and Macaulay (1971) report that violent crimes
+increased in the United States following certain well-publicized mass
+murders and following the assassination of President Kennedy. Phillips
+(1978, 1979, 1980) and Bollen and Phillips (1982) report that various types
+of suicides and murder-suicides increase following other well-publicized
+suicides and murder-suicides, and Phillips (1983) reports that homicides
+increase following well-publicized championship prizefights. Mazur
+(1982) reports that bomb threats against nuclear energy facilities are in-
+fluenced by media coverage of the nuclear energy controversy. Claims of
+contagiousness have also been made about larger-scale incidents of vio-
+lence, including racial disturbances (Spilerman 1970), disorders in schools
+(Ritterband and Silberstein 1973), political violence (Hamblin et al.
+1973), military coups (Li and Thompson 1975; Midlarsky 1970), and
+incidents of international terrorism (Hamilton and Hamilton 1983).
+
+Berkowitz (1984) reviews much of the literature on the effects of the
+depiction of violence and discusses a number of ways in which such
+depiction may lead to violence by the viewer. The National Institute of
+Mental Health (1982) reviews a number of studies demonstrating that
+children (but not necessarily adults) imitate aggressive behavior im-
+mediately after they have seen it on television. Of particular interest is
+that many of the studies have shown that imitation is more likely if
+aggressive acts are seen to be rewarded and less likely if such acts are seen
+to be punished.
+? A number of psychiatric theories have been advanced to explain hijacking. Specifi-
+cally, Time ([January 31, 1969], pp. 19-20) reports the views of several psychiatrists,
+none of whom had ever seen a hijacker. All attributed irrational motives to hijackers;
+e.g., one states that “the skyjacker believes that he can prove himself a decisive,
+effective human being by taking control of a plane, its crew and passengers, and
+commanding it to go to Cuba.” McWhinney (1971, p. 17) writes, “Hijacking has thus
+become, in the Cuban context at least, a form of direct physical outlet for the inner
+repressions and frustrations of pathological personality types.” The psychiatrist David
+Hubbard claims to have found evidence of mental disturbance in each person in a
+sample of hijackers and suggests that hijacking and other types of “terrorist” behavior
+are caused by faulty vestibular function of the middle ear and resultant difficulties in
+dealing with gravity (see Holden 1979; Hubbard 1971; Knebel 1971). He suggests that
+even hijackings by Palestinian guerrillas might be explained by such pathology instead
+of by the hijackers’ stated political objectives (reported in Knebel 1971). A number of
+other psychiatric theories of terrorist behavior (including terrorist aircraft hijacking)
+have been advanced, e.g., that terrorists suffer from the psychological effects of incon-
+sistent mothering (reported in Holden 1979). Another view is that of Rich (1972), who
+suggests that hijacking should be defined as a type of insanity: “committing the act of
+skyjacking makes a man a lunatic even as committing the act of murder makes a man
+a murderer” (p. 29). Psychiatric theories are not by themselves viable as explanations
+because they do not explain why hijacking was especially common, e.g., among Cu-
+ban refugees in the United States or among Palestinians, nor do they explain why the
+requisite mental pathology was more manifest during 1968—72 than at other times.
+
+* The most serious limitation of my operational definition is that it does not rule out
+“spurious” contagion as an alternative explanation of dependence between events.
+Since I do not (in this article) have the means to control for possible sources of spurious
+contagion, it would be pointless to use a more restrictive definition. Spurious contagion
+is discussed near the end of the article.
+
+4 Many other authors have proposed hijacking typologies. Hijacking for transporta-
+tion, as a means of escaping from or to a particular country or type of government, is
+noted by Aggarwala (1971), Clutterbuck (1975), Clyne (1973), Evans (1969), Joyner
+(1974), McWhinney (1975), Minor (1975), Rein (1971), Turi et al. (1972), Turner
+(1969), and Whelton (1972). Several authors distinguish hijackings by political ref-
+ugees from other hijackings for transportation, and Aggarwala (1971), Arey (1972),
+Joyner (1974), Evans (1969), and Loy (1970) distinguish hijackings by escaping crimi-
+nals. Hijacking for political purposes is noted by Aggarwala (1971), Agrawala (1973),
+Arey (1972), Clutterbuck (1975), Clyne (1973), Joyner (1974), McWhinney (1975),
+Minor (1975), and Turner (1969), although such incidents are often treated as unre-
+lated to extortion; Rein’s (1971) category of hijacking for blackmail appears to refer
+largely to extortion hijackings with political objectives. Turi et al. (1972) omit such a
+category and Mintz (1973) combines hijackings by “the political revolutionary” and
+“the propagandist” with those committed by “the troubled juvenile.” Most authors
+writing after 1972 also include a category of hijackings for ransom (Agrawala 1973;
+Joyner 1974; McWhinney 1975; Mintz 1973; Minor 1975; Turi et al. 1972), and Clyne
+(1973) goes so far as to distinguish ransom hijackers using real weapons from those
+who were bluffing. Most authors include a separate “mentally disturbed” category.
+The term appears in Aggarwala (1971), Loy (1970), Evans (1969), Turi et al. (1972),
+and Whelton (1972); Joyner (1974) and Turner (1969) refer to “unbalanced persons,”
+Clyne (1973) to “lunatics,” and McWhinney (1975) to the “lunatic fringe.” Rein (1971)
+includes such individuals under the category “inner directed motives,” and Arey (1972)
+writes of “losers and misfits” and “emotional disaster cases.” Time ([January 31, 1969],
+p. 19) suggests that all hijackers of U.S. planes to Cuba were either escaping criminals
+or emotionally disturbed. Hubbard (1971) and Rich (1972) regard all hijackers of U.S.
+planes as mentally unbalanced.
+TABLE 1
+
+DESTINATIONS DESIRED BY U.S. HIJACKERS, 1968-72
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Destination N %
+Transportation attempts: ......... lll 100.0
+Cuba 90 81.1
+Mexico .... 4 3.6
+Italy .... 3 2.7
+Canada 2 1.8
+Bahamas 1 a)
+Egypt ... 1 9
+Israel 1 ao
+North Korea .... 1 9
+North Vietnam .. 1 9
+South Vietnam 1 x]
+Sweden 1 9
+Switzerland ... 1 9
+United States 1 9
+Unknown ..... 3 2.7
+Extortion attempts: 26 100.0
+Bailout ... 17 65.4
+Algeria .. 3 11.5
+Bahamas . 2 7.7
+Cuba 1 3.8
+North Vietnam ....... 1 3.8
+United States 1 3.8
+Unknown ............6...00005 1 3.8
+
+ 
+
+Nore.—Aircraft boarded in 50 states or Puerto Rico.
+History
+
+Hijacking frequencies and dates given below are based on Federal Avia-
+tion Administration (FAA) documents (1983);5 other references cited give
+detailed descriptions of specific incidents. Additional information on the
+history of aircraft hijacking can be found in scholarly papers (e.g., Aggar-
+wala 1971; Evans 1969; McWhinney 1971; Turner 1969) and the popular
+press (Arey 1972; Hubbard 1971; Phillips 1973; Whelton 1972).
+
+Aircraft hijackings prior to the late 1950s bear little relation to the later
+incidents in the United States.° However, the incidents that began occur-
+ring in the late 1950s are relevant. From late 1958 through 1969, aircraft
+hijacking was predominantly a phenomenon of the Western Hemisphere,
+centered on Cuba, and many of the hijackings of U.S. planes to Cuba are
+best understood in that larger context. Of the 177 worldwide hijacking
+attempts between 1958 and 1969, 80% originated in the Western Hemi-
+sphere and 77% either originated in Cuba or were efforts to divert planes
+to Cuba.
+
+The incidents involving Cuba happened in several distinct phases. The
+first wave of hijackings began in 1958, after Fidel Castro had taken
+control of Cuba.’ Those hijackings were primarily attempts by anti-
+Castro individuals to divert Cuban planes to the United States. A number
+of Cuban boats were also hijacked to the United States.* Immediately
+after the Bay of Pigs invasion in 1961, the direction of the hijackings
+reversed and there was a brief wave of diversions of U.S. planes to Cuba,
+many of these carried out by Cuban exiles.? The earliest hijackings of
+U.S. planes to Cuba might thus be regarded as an extension of the inci-
+dents that occurred during the Cuban revolution.
+
+In the mid-1960s there were only a handful of hijacking attempts,
+including several attempts to and from Cuba and some isolated hijack-
+ings in Hawaii. However, as figure 1 shows, the hijacking rate in the
+United States increased dramatically in 1968 and remained high through
+1972. A similar increase occurred in hijacking attempts outside the
+United States. There were two peaks in the rate of U.S. hijacking activity
+during that period, one early in 1969 and one in 1972 (see fig. 2). The first
+peak consisted primarily of hijackings by individuals seeking transporta-
+tion to Cuba, whereas the second consisted primarily of extortion at-
+tempts.
+
+Transportation hijackings, 1968—72.—The first hijacking attempt in
+1968 occurred on February 9, when a U.S. Marine attempted unsuccess-
+fully to hijack a military charter flight out of South Vietnam. The first
+attempt in the United States followed shortly thereafter, on February 17,
+when a private plane was hijacked from Florida to Cuba. Four days later
+the first hijacking of a scheduled airline flight to Cuba was attempted,
+committed by an escaping murderer. A flood of similar incidents fol-
+lowed. In 1968 there was a total of 19 hijackings of domestic U.S. flights
+to Cuba plus a hijacking of a U-S. -registered plane from the Bahamas to
+Cuba. There were also unsuccessful attempts to hijack flights from the
+United States to Mexico and to South Vietnam.
+
+The hijacking pattern of 1968 continued in 1969, the biggest year ever
+for hijacking in the United States. Except for two incidents late in the
+year (see below), all the hijackers sought Cuba. The hijackings to Cuba
+during that period were largely routine. Airliners carried approach plans
+for the Havana airport and crews were instructed not to resist hijackers.
+There were also standard diplomatic procedures for obtaining the return
+of planes and passengers (Phillips 1973). As a result, there were no partic-
+ularly dramatic hijackings to Cuba whose impact might be traceable in
+the subsequent history of hijacking.
+
+The unique hijacking of 1968-69 occurred in October 1969, when an
+absent-without-leave Marine named Raphael Minichiello boarded a Los
+Angeles—San Francisco flight and hijacked it to Rome (Phillips 1973).
+That incident set a record for greatest distance traveled by a hijacker and
+received front-page publicity for several days in the United States and
+overseas. Ten days later there was a hijacking attempt by a 14-year-old
+boy in Cincinnati who, his mother claimed, had been influenced by the
+publicity (Vew York Times [November 11, 1969]). The Minichiello inci-
+dent seems to have influenced subsequent hijackers’ choices of destina-
+tions: every hijacker who preceded Minichiello in 1969 had sought Cuba,
+but two who followed soon after chose destinations in Europe. However,
+despite the anecdotal evidence of imitation, there was no great increase in
+the hijacking rate following the Minichiello incident (see fig. 2).
+
+Transportation hijacking attempts continued in the United States in
+1968 1969
+
+       
+
+     
+
+C
+TTIW
+DOAK
+COI
+OOO
+
+ 
+  
+
+ 
+
+JFMAMIIJASONDIFMAMIISITASOND
+
+ 
+
+1970 1971
+
+ 
+
+ 
+
+ 
+
+JFMAMISJASONOIFMAMISASONODO
+
+ 
+
+1972
+
+(D TRANSPORTATION TO CUBA
+© OTHER TRANSPORTATION
+
+@ exrorr10n
+
+ 
+
+Oe
+
+JFMAMJJASOND
+Fic. 2.—Monthly hijacking attempts—U.S.-boarded aircraft
+those who hijacked planes to Cuba were black Americans, who commited
+the hijackings during a period of militant civil rights activity in which
+leftist ideology was prominent. The white, non-Latin individuals, on
+whom much of the psychiatric theorizing by Hubbard (1971) and others is
+based, composed little more than a third of all transportation hijackers.
+
+Although far more hijackings occurred in the United States than in any
+other country, hijacking was a worldwide phenomenon. As figure 3
+shows, the peak years for transportation hijacking outside the United
+States were 1969 and 1970. Between 1968 and 1972 there were almost as
+many hijackings to Cuba from outside the United States as there were
+from within it. The majority of those incidents took place in Latin
+America, although there were also two attempted hijackings to Cuba
+from Japan and one from England. In addition to the foreign hijackings
+to Cuba, there were 22 attempts to hijack planes from the Soviet Union
+and Eastern Europe and a number of transportation hijackings in the
+Middle East, as well as many isolated incidents around the world.
+
+Some of the foreign hijackings were publicized in the United States,
+although many others were not. For example, one highly publicized inci-
+dent was the hijacking of a Japanese plane to North Korea, in March
+1970, by nine students wielding Samurai swords (Phillips 1973). Although
+an increase in the U.S. hijacking rate might be expected following that
+incident, figure indicates that none occurred.
+
+Extortion hijackings, 1968—72.—The first extortion attempt during
+the peak period occurred outside the United States. Following the Arab-
+Israeli war of 1967 and the diversion to Algeria of a plane carrying Moise
+Tshombe, the Popular Front for the Liberation of Palestine (PFLP) hi-
+jacked an Israeli airliner to Algiers on July 23, 1968 (Phillips 1973). With
+the cooperation of the Algerian government, the hijackers demanded that
+Israel free a number of Palestinian guerrillas in return for the release of
+the passengers. That incident was followed by a series of related inci-
+dents, some of which are described below.
+
+The first extortion hijacking in the United States, the first modern
+hijacking for money, occurred in June 1970.'' A man named Arthur
+Barkley held a plane hostage at Dulles Airport while demanding a ran-
+som of $100 million from the government. He was eventually over-
+powered, and his plans for escape were not clear. The Barkley incident
+JFMAMJJASONOJFMAMJIJASOND
+
+1972
+
+(D TRANSPORTATION To CUBA
+© OTHER TRANSPORTATION
+
+@ exrorrran
+
+ 
+
+JFMAMJJASOND
+Fic. 3.—Monthly hijacking attempts—foreign-boarded aircraft
+were hijacked by groups demanding political concessions. However, it
+was not until the end of May 1971 that another extortion hijacking oc-
+curred in the United States. That hijacker successfully held a plane for
+ransom and then ordered it to fly to Nassau, Bahamas, where he was
+arrested. A similar unsuccessful attempt was made the following month,
+by an extortionist who planned to escape to North Vietnam.
+
+It appears that up until that time there was little relationship between
+U.S. and foreign extortion hijackings. The first three U.S. extortion hi-
+jackings were the first modern attempts to hold planes for money, and
+those incidents did not closely follow on any foreign incidents. However,
+in July 1971, just a month after the third U.S. incident, a plane was
+hijacked for money outside the United States. That occurrence suggests
+that there may have been diffusion of ransom attempts from the United
+States to foreign countries. The next extortion hijacking in the United
+States, in September 1971, was an attempt to gain the release of several
+Black Panthers from prison. That incident happened during the same
+period as several hijackings of Jordanian planes by Palestinians.
+
+The most famous of all U.S. hijackings took place on November 24,
+1971. A man who boarded a flight in Portland, Oregon, under the name
+of D. B. Cooper hijacked the plane, demanding a ransom of $200,000 and
+two parachutes. His demands were met and he later bailed out with the
+money. The idea of a parachute escape may not have originated with
+Cooper, however; a hijacker who held a Canadian plane for ransom just
+12 days earlier had attempted unsuccessfully to bail out (Phillips 1973).
+
+A wave of extortion attempts followed Cooper’s (see fig. 2). In the
+following month there were two attempts, including one by a hijacker
+who demanded a parachute in an apparent attempt to imitate Cooper. Of
+the 31 U.S. hijacking attempts in 1972, 19 involved extortion and 15 were
+by hijackers who demanded parachutes.
+
+Hijacking for money also became common overseas (see fig. 3). Three
+months after the Cooper hijacking, the PFLP hijacked a West German
+plane, released the passengers, and held the plane for a $5 million ran-
+som. At least eight other foreign planes were hijacked for ransom in 1972,
+including flights from Indonesia, Ecuador, Brazil, and Australia, hi-
+jacked by individuals who apparently planned Cooper-style parachute
+escapes. A number of other foreign hijackers followed the PFLP’s earlier
+pattern of demanding the release of criminals or political prisoners.
+
+The hijacking rate in the United States began to decline in late 1972
+and never again reached the high level of the period 1968-72. In the 10-
+year period 1973-82, there was an average of only 9.3 hijacking attempts
+in the United States per year, compared with 29 attempts per year for
+1968-72. Foreign hijackings also decreased after 1972, though not as
+sharply as U.S. hijackings.
+HYPOTHESES
+
+The literature on contagion of violence and the historical discussion
+above suggest several factors on which contagion effects might depend. I
+will express them in terms of five hypotheses, which will be tested quan-
+titatively. The first is the basic hypothesis that contagion occurred. The
+history of hijacking yields a great deal of anecdotal support for this hy-
+pothesis, but some counterexamples have also been noted.
+
+HyportHEsis 1: The rate of aircraft hijacking attempts in the United
+States increased following other hijacking attempts.
+
+The view that hijacking was stimulated by media publicity leads to a
+refined version of the first hypothesis.
+
+HyporuHEsIs 2: The rate of aircraft hijacking attempts in the United
+States increased following publicized hijacking attempts, but not follow-
+ing unpublicized attempts.
+
+The third hypothesis is suggested by previous findings that behavior is
+more likely to be imitated if it is seen to be rewarded. The assumption is
+made that a “successful” hijacking was a “rewarded” hijacking.
+
+HyporuEsis 3: Successful hijacking attempts had a greater stimulating
+effect than unsuccessful attempts.
+
+The motivations for transportation and extortion hijacking attempts
+may be very different, and the history of hijacking indicates that the peak
+periods for the two types of hijackings were separated by three years.
+Thus, it seems reasonable to distinguish between the two types of inci-
+dents and to test the following quantitatively.
+
+HyporTuHEsis 4: Transportation hijackings were stimulated only by
+prior transportation hijackings, and extortion hijackings only by prior
+extortion hijackings.
+
+Many foreign hijackings were reported in the U.S. media, and there is
+a possibility that cross-national diffusion occurred. Alternatively, foreign
+hijackings were often different from U.S. hijackings and may not have
+been relevant to potential hijackers in the United States. The historical
+evidence for imitation of foreign hijackers is inconsistent, so it is impor-
+tant to distinguish foreign hijackings from U.S. hijackings and to test the
+following prediction.
+
+HyporuHEsis 5: The stimulating effect on the U.S. hijacking rate was
+greater for hijackings from the United States than for foreign hijackings.
+" The sociological literature contains several deterministic and stochastic models for
+social contagion. Those models typically incorporate increases or decreases in the rate
+of occurrences that are deterministic functions of time or of the total number of
+previous events. The logistic growth curve and several similar curves, e.g., have been
+fitted to data on hijackings and other types of event by Hamblin et al. (1973) and
+Pitcher et al. (1978). Various other authors have attempted to capture the dynamics of
+social contagion with stochastic models. The starting point fer most stochastic models
+is the Poisson process, which assumes the absence of dependence between event
+counts. Gleason (1980) reports that the Poisson model provides a good fit to incidents
+of international terrorism in the United States. The simple Poisson model has been
+generalized in various ways to allow for contagion effects. Coleman (1964) develops a
+“contagious Poisson” process in which the rate of new incidents increases linearly with
+the total number of previous incidents, and that model is considered in Midlarsky’s
+(1970) study of political coups and in Spilerman’s (1970) study of riots. Diekmann
+(1979) and Hamilton and Hamilton (1981, 1983) discuss various generalizations of the
+Coleman model, which incorporate a deterministic decrease in the rate of new inci-
+dents when the total number of incidents grows sufficiently large. Hamilton and
+Hamilton (1983) apply a model of that type to data on terrorism. The problem with the
+existing models is that they do not allow for stochastic decreases in the rate of new
+incidents. If hijacking attempts occur with randomness in time, there may be long
+periods during which no new incidents occur, even when the underlying intensity of
+the process is high. In that case, individuals’ memories of the previous incidents should
+fade and the rate of subsequent hijackings should begin to decline. It should even be
+possible for a contagious process to die out simply as a result of stochastic fluctuations
+in the frequency of events, if there is no additional generation of incidents by exoge-
+nous factors. Thus the previous models, which take into account only the total number
+of past events, are inadequate, since the recency of the events must also be considered.
+The sequence of airplane hijackings over time will be regarded as a
+point process, a sequence of points occurring randomly on the time line
+(Cox and Isham 1980). The events will be modeled with a discrete time
+version of the linear excitation model that Hawkes (1971) developed for
+orderly point processes in continuous time. >
+
+Time will be assumed to take the value ¢ in {..., —1, 0, 1, 2, ...}. The
+number of events (hijacking attempts) at time ¢ will be denoted by N; and
+is assumed to have a Poisson distribution with expectation \, = v + 8,
+where v is a constant (unexplained) baseline hijacking rate and 8, is
+an increment owing to the history of hijacking up through time ¢ — 1.
+Under the linear self-exciting model (adapted from Hawkes 1971), 8, =
+>2%_,W,,N,—», so that an event at time ¢ — » contributes an amount W,, to
+the hijacking rate at time ¢. The effects of multiple prior events are
+assumed to be additive. Because 5, involves only N,—;, N;—2, ..., the rate
+of new incidents at time ¢ is influenced only by events that occurred
+during at least one time period in the past.
+
+The lag structure {W,,} will be assumed to have the form
+
+ail + B+ B? +... + B*~4, l1sn<p
+a1 + B + B? +... + B?7') BR", n>p
+
+for some positive integer , where 0 = B < 1. The parameter a can be
+either positive or negative but is subject to certain restrictions (see Holden
+1985). If a > 0, the occurrence of a hijacking increases the intensity of the
+process above its previous level (i.e., contagion occurs). However, it is
+also mathematically possible to allow a < 0, so each event tends to reduce
+the subsequent rate of hijacking attempts.
+
+The lag structure is such that the contagiousness of an event (or its
+inhibiting effect, if «a < 0) increases steadily for p time periods, then
+declines. The specific form of the contagiousness function W,, simplifies
+many of the computations necessary in the statistical analysis (as de-
+scribed in Holden 1985).
+
+A very important property of the model is that as the lag m approaches
+infinity the lag coefficient W,, approaches zero, so the model incorporates
+the assumption that every incident tends to be forgotten eventually. Ex-
+Summary Parameters
+
+The parameterization of the effect of the kth input series in terms of a,,
+Bz, and p, is one of mathematical convenience only. For the purpose of
+interpretation, several computed quantities are far more useful. The first
+is the long-term effect O, = 2%, Wen, which can be interpreted as the
+expected number of additional hijacking attempts generated directly by
+each event in the kth input series (or the expected number prevented if a,
+is negative).
+
+The second summary quantity is the mean of the lag distribution, t, =
+2% =1 2Wep»/OQ,. When the input event has a stimulating effect, 7, gives the
+expected lag at which the generated output events occur. The mean lag
+may be misleading when the contagiousness function W,,, has a long tail.
+In that case, the median lag, &, may be a better indicator of the delay
+between an input event and the output events it generates. The various
+summary quantities thus describe the magnitude of the stimulating or
+inhibiting effect of an event and the delay at which the effect occurs.
+ing boarding location of hijacker(s); (3) hijacker’s desired destination;
+(4) nature of any extortion demands; and (5) outcome (successful or unsuc-
+cessful hijacking). The FAA information about extortion demands was
+sometimes supplemented with information from other sources (e.g., Phil-
+lips 1973).
+
+All incidents were first coded as either U.S. or foreign hijackings. The
+U.S. hijacking attempts included all incidents in which the hijacker(s)
+boarded the plane within any of the 50 states or Puerto Rico, since it was
+assumed that individuals in those areas were exposed to much of the same
+mass media content. There was no distinction made between scheduled
+airline flights and general aviation flights, and the registry of the plane
+was also considered immaterial. Any incident in which the hijacker
+boarded outside the United States and Puerto Rico was considered a
+foreign hijacking attempt. !*
+
+The FAA recorded attempts to hijack U.S.-registered aircraft as “suc-
+cessful,” “unsuccessful,” or “incomplete,” and attempts on foreign air-
+craft as “successful” or “unsuccessful.”'> Except for the fact that the latter
+two categories were combined for US. aircraft, the FAA code was used
+without modification. The appropriateness of the code is discussed fur-
+ther below.
+
+For the purpose of testing the dependence of contagion effects on pub-
+licity, media publicity was measured by coverage of hijacking incidents
+on the evening news programs of the three major U.S. television net-
+works. Data on television coverage were obtained from two sources. For
+the period of August 1968 through the end of 1972 data were obtained
+from the Vanderbilt Television News Archive Indexes and Abstracts. If
+the abstracts showed any mention of a particular hijacking attempt on the
+evening news broadcasts of ABC, CBS, or NBC during a period from
+zero to three days after the event, the event was coded as “reported.”
+Although some incidents were reported a day or more after their occur-
+rence, no attempt was made to record the exact dates of the reports or the
+amounts of coverage. The Vanderbilt archives were not in operation
+during the first seven months of 1968. For that period, data were ob-
+tained from indexes of the “CBS Evening News” and the same coding
+procedure was used.'°
+
+The television news data showed that about 90% of the hijacking
+attempts in the United States were reported on network evening news
+programs, and those not reported were almost exclusively attempts to
+hijack general aviation flights (i.e., private and commuter planes). As a
+result of the small number of unreported U.S. hijacking attempts, no
+distinction was made in the analyses between reported and unreported
+U.S. hijackings. However, only about one-third of all foreign hijacking
+attempts were reported (see table 2), so it was worthwhile to distinguish
+reported from unreported foreign incidents.
+ous successful hijackings from the United States. The long term effect 0
+was estimated as 0.506 new attempts generated by each successful at-
+tempt. The mean delay t was 35.5 days, and the median é was 32.0.
+However, that effect did not quite reach statistical significance at the .05
+level, and none of the effects of the other types of input events came close
+to significance. !”
+
+I also estimated the effects of the various types of input event jointly,
+and the results are shown in the right-hand side of the table. The x?
+statistics were obtained by successively deleting input series from the
+model and computing the change in the overall likelihood ratio statistic.
+Because the various types of input event are listed in the table in the order
+of their theoretical importance, the order of deletion of inputs was from
+the bottom to the top of the list. The results of the joint analysis were very
+similar to the results of the single-input analyses.
+(sep) Se] aun uerpaut = 3 pur “(skep) Be] awy ueeut =
+
+4 ‘syduiayje mau jo ‘ou
+
+ZL0°22 = (81) -X THIOL
+
+FP € YM /X OFVI-PooUrayT «
+
+U Sis L = (¢),X St aueoyrusis ¢Q° 10J anyea [eos ay L—" ALON
+
+ 
+
+ 
+
+060°S 891 $27 09s" 9e7 7 Vat 8°72 ecg “+ ss* payzodar you ‘durayye usi1as0j [nyssaoonsuy)
+cole Lg oss ors — £88'T S6LT Tose p- ct payzoda you ‘ydurayye ustaI0J [NJssaaIns¢
+L60°7 gee bre 608° — C177 zSz LZ oos’ — * WOISTAZ]9} “S'Q UO paysodar ‘ydur9}7e UStaI0j [NJssadonsu~—)
+90S°T 98 98 L6e° T8LT 06 06 122" noe wOIsTAg|ay > a uo payodas ‘ydura}ye us19I0J [NJssasong
+6787 or Or Orr’ vro'€ Ty ey 7) nn prt eees cots ss qdurayye “s'9 [nyssaoonsug,
+BSE Ss 87L 409° BSE L o7e ose gos popes e ess seer ese * yduiaye “Ss 4 [Nyssaoong
+azuey), 3 4 Uv aX 3 2 Uv LdWILLY SNOIATAg 40 IdAL,
+xX
+
+ee
+
+ 
+
+KILNIO[ GALVWILSY SLOT
+
+ATALVAVdIS GILVWILSY SLOGIAY
+
+ 
+
+SLAWALLY ONIMOV{IH “S' NO SLOaIAY NOIOVLNOD dO SALVINILSA
+Contagion Effects on Transportation Attempts
+
+In the remaining analyses, all hijacking attempts were categorized as
+either transportation or extortion attempts. I first performed analyses
+using transportation hijacking attempts in the United States as the output
+series and various types of transportation hijackings as input events.
+Those results are shown in the top section of table 4.
+
+When successful U.S. transportation hijackings were the only predic-
+tors of later U.S. transportation attempts, the long-term effect was es-
+timated to be Q. = 0.758, and the mean time lag was tT = 80.0 days.
+However, because the estimated contagiousness function had a very long
+tail, the median lag € = 60.6 days is a better measure of the delay before
+additional attempts occurred. The x’ statistic of 13.972 was significant at
+well beyond the .05 level. The unexplained rate of U.S. transportation
+attempts for that model was v = .0284, so the contagion effect of previ-
+ous successful transportation hijackings explained 53% of the overall
+level of .0608 U.S. transportation hijacking attempts per day.
+
+The estimated single-input effect of unsuccessful U.S. transportation
+hijacking attempts was negative, suggesting that unsuccessful attempts
+tended to inhibit subsequent attempts. However, neither that effect nor
+the effects of any type of foreign transportation attempt were statistically
+significant.
+
+Joint effects of all the types of transportation hijacking attempts were
+also estimated and tested in the manner described above (with inputs
+deleted from the bottom of the list to the top of the full model). As shown
+in the top right-hand part of table 4, the results of the joint estimation
+were very similar to the results obtained by estimating the effects sepa-
+rately. Thus, the only types of transportation hijacking that had a
+significant effect on subsequent transportation attempts in the United
+States were successful transportation hijackings that originated in the
+United States.
+
+Analyses of contagion effects of extortion attempts on transportation
+attempts in the United States are shown in the lower half of table 4.
+Successful U.S. transportation hijackings were also included in the joint
+analysis as a control series because of the significant effect found in the
+previous analysis. Because reporting of foreign extortion hijackings was
+highly correlated with their outcomes (see table 2), it was not possible to
+disaggregate foreign extortions to the same extent that foreign transporta-
+tion hijackings were disaggregated. Therefore, the foreign extortion at-
+tempts were disaggregated by outcome but not by television coverage.
+Also, the U.S. transportation hijackings did not overlap U.S. extortion
+hijackings temporally to an extent that allowed distinctions to be made
+between outcomes of U.S. extortion attempts in the analyses of transpor-
+tation attempts.
+tty gz s7r stl 9th Let Let ort” “++ payodas jou ‘Tnzssaoonsun ‘uste10q
+Tes" or vy 410° 80L°2 ee ee ect" “s+ * paysodai you ‘[nyssa0ons ‘us1210,5
+scot SL SL 887° £007 “el “ek Sse ‘ress paqzodas ‘njssazonsun ‘uS1e104
+TUT vy Ly 991" ysey ey ev TLz’ an payodar ‘qnyssaoons ‘us{sI0q
+L677 err 87 687° 9617 OTT eer pre ster sess nyssaoonsun ‘°S"¢Q
+ZL6°€T O8r S19 16S" ZL6°€T 9°09 0°08 BSL" corr esesseeeeeseces ss mmyssazons “Sa,
+suone}iodsuel
+agueyo 3 s ry} 2X 3 L oO LAWALLY SNOIATAG JO IAAL
+X
+
+7
+
+ 
+
+KILNIO[ GALVWILSY SLOTIAY
+
+ 
+
+ATALVAVAIS CALVWILSY SLOIIIT
+
+ 
+
+ 
+
+SLUWALLY ONIMOVIIH NOILVLYOdSNVAL ‘S'f) NO SLOIMAY NOIOVLNOD AO SALVWILSY
+
+valavs
+Contagion Effects on Extortion Attempts
+
+Analyses of contagion effects on U.S. extortion hijacking attempts are
+shown in table 5. The top of the table shows analyses of the effects of
+prior extortion hijackings. When effects were estimated separately, both
+successful and unsuccessful U.S. extortion attempts showed highly
+significant contagion effects. The long-term effect of a successful extor-
+tion was 2, = 2.014 new attempts, with a median lag of € = 44.8 days.
+The corresponding effect of an unsuccessful attempt was 2. = 1.412 and
+& = 59.5.
+
+The U.S. media coverage of foreign hijackings was highly correlated
+with their outcomes (successful foreign extortions were much more likely
+to be reported in the United States than unsuccessful ones, as shown in
+table 2), so effects could not be estimated for foreign attempts disag-
+gregated by both outcome and media coverage. Because the disaggrega-
+tion by outcome yielded more significant effects, only those results are
+shown. The analyses of the single-input effects of the foreign extortions
+showed a nonsignificant effect of successful incidents but a highly
+significant effect of unsuccessful incidents, with Q = 1.213 and a median
+lag of € = 39.0 days.
+
+The right-hand side of the top of table 5 shows the contagion effects
+estimated when all four types of previous extortion attempt were entered
+simultaneously as predictors. The value of © was reduced for each type of
+input event. Although both unsuccessful U.S. extortions and unsuccess-
+ful foreign extortions had produced very high x?s when used as the sole
+inputs, they contributed an increment of only 6.1 to the x? (with 6 df) in
+the joint analysis with successful U.S. extortions. Thus, when input series
+were deleted from the full model starting from the bottom of the list (i.e.,
+unsuccessful foreign extortions were deleted first), the only significant
+effect that remained was that of successful U.S. extortions.
+
+Contagion effects of transportation hijackings on extortion hijackings
+are shown in the lower portion of table 5. Successful U.S. extortion
+JP € YUM .X ONeI-POOyTaA'T x
+
+€ 214k} 0} aj0u aes ‘siajourered Jo UOTLOyHUAp! Jog “SIg'L = (€),X SI eUEIyTUsIS GQ JOJ anyeA [eNO WY —"ALON
+
+ 
+
+18S'Sb = (6),X [ROL
+
+ 
+
+ 
+
+ 
+
+ 
+
+oer’ sor sr 687° LSs°6 $07 $07 ety — r+ ydurayqe uoneyodsues usie10g
+TOT" sor sor sso 8190's ost ost OLE — rs * ydurayye uoeyodsuesy “¢°Q
+066'TY 0'0r ots 460°7 066'Tr Usp Ts 107 pores JNyssaons ‘uoTj10}x9 “SQ,
+vOe Oy = (ZT)X [RIOL
+
+zos's 12 Vez 18s" 420'0¢ 06E Sip etzT ors s sss [nyssaoonsun ‘uorsoyxe ‘UB18107
+LOT st st £10" 6sS°Z st st +80" vrtttttssss mnyssaoons ‘uons0}xe ‘UBI9I07
+y7s" ger ver v9e £S6°0F $'6S osg Get re TNJssaoonsun ‘u0TI07K9 “SQ.
+066° Tr Sut Sut £79" 066°Ir Sr Tss +10°7 Teves sessss sss Myssagons “UOrIO}x9 “°S*A)
+asueyd 3 a U aX 3 2 UO IdWaLLy SNOIATAg 40 AdAL
+
+x
+
+*U
+
+ 
+
+AILNIO[ GALVWILSY SLOAIAY
+
+ 
+
+AIGLVAVATS GAILVWILSY SLOTIAY
+
+ 
+
+ 
+
+SLAWALLY ONIMOVIIY NOILVINOdSNVAL “S') NO SLOGIAY NOIOVLNOD JO SALVWILSY
+
+Ss aTaVL
+hijackings were retained in the joint analysis as a control series. Because
+of the lack of temporal overlap in the transportation and extortion hijack-
+ings, it was not possible to disaggregate transportation hijackings to the
+extent that was done in table 4.
+
+The single-input effect of U.S. transportation hijacking attempts was
+negative but nonsignificant. The single-input effect of foreign transporta-
+tion hijacking attempts was also negative, with Q = —0.423 and € =
+20.5 days, and was significant at beyond the .05 level. However, when
+the contagion effects were estimated simultaneously and the effect of
+successful U.S. extortions was controlled, the effect of foreign transporta-
+tion attempts became positive and nonsignificant.
+
+Thus, the only significant effect on U.S. extortion attempts that re-
+mained was that of successful U.S. extortions. For that single-input
+model, the unexplained rate of extortion attempts was only .002, so the
+contagion effect of previous successful extortion hijackings explained
+about 85% of the .014 attempts per day.
+U.S. extortions were controlled. That result is entirely consistent with the
+anecdotal evidence. Although some U.S. extortion hijackers (e.g., D. B.
+Cooper) may have imitated foreign hijackers, the evidence seems much
+stronger that foreign extortions were stimulated by hijackings in the
+United States. The first modern hijackings for money occurred in the
+United States, and it was only after a number of such incidents that
+foreign hijackers made similar attempts. It was also in the United States
+that parachute escapes first caught on, and that tactic was later copied by
+foreign hijackers (the Canadian incident that preceded D. B. Cooper’s
+attempt was not widely publicized, and most hijackers were probably
+aware of only the U.S. extortions). Thus, the significant single-input
+effect of unsuccessful foreign extortion attempts on U.S. extortion at-
+tempts was spurious, since the causal connection ran in the other direc-
+tion.
+
+The discrepancy between the effects of successful and unsuccessful
+foreign extortion attempts can also be explained by referring to the history
+of hijacking. The successful foreign extortions during the 1968-72 period
+were generally politically motivated (e.g., those by Palestinian guerrillas)
+and preceded the period of extortions for money. Those incidents do not
+seem to have stimulated similar incidents in the United States. The
+foreign attempts to extort money that followed D. B. Cooper were largely
+coterminous with the unsuccessful foreign extortions. Thus, there was a
+(spurious) effect only of the unsuccessful incidents.
+
+Type of prior hijacking.—It was confirmed that transportation hijack-
+ings generated only transportation hijackings and extortion hijackings
+only extortion hijackings by the finding of contagion effects for certain
+hijacking attempts of the same type but none for hijackings of the oppo-
+site type. Although there were apparent inhibiting effects of the opposite
+type of hijacking when the effects of each input series were estimated
+separately, those effects were due to the lack of temporal overlap of
+transportation and extortion attempts and vanished when the full models
+(which controlled for the effect of the history of the same type of hijack-
+ing) were estimated.
+
+This result perhaps offers support to the view of hijacking as goal-
+directed behavior. The majority of the transportation hijackings in the
+United States were to Cuba, and those hijackers were predominantly
+Latinos (often Cuban exiles) or black Americans. For them, hijacking
+was a means of returning home or traveling to a presumably friendlier
+political climate. Although there were exceptions, extortion hijackers
+were predominantly white and appear to have been using hijacking to
+achieve the more commonplace goal of getting rich. The analyses suggest
+that hijackings of a particular type tended primarily to influence individ-
+uals with the appropriate type of motivation.
+Outcome of prior hijacking.—One of the most important hypotheses
+theoretically was the third, which predicted that successful hijackings
+had a greater stimulating effect than unsuccessful hijackings. I found no
+effects on the U.S. hijacking rate for foreign hijackings or for U.S. hijack-
+ings of the opposite type, regardless of their outcomes. Significant conta-
+gion effects, however, were found for successful U.S. hijackings of the
+same type (either transportation or extortion) but not for unsuccessful
+hijackings. Thus, the hypothesis was supported, provided it is inter-
+preted to refer only to hijackings of the same type and those from the
+United States.
+
+This finding suggests more rationality in the hijackers than is often
+credited. It is consistent with the view that the hijackers were genuinely
+attempting to solve problems because they should have been more willing
+to imitate a successful act than an unsuccessful one. But the result would
+not have been expected if hijackers were merely publicity seekers, since
+most hijackings received publicity regardless of their outcomes. The re-
+sult is even more at variance with Hubbard’s (1971) theory that the
+hijackers did not really want to go to Cuba but were seeking oblivion
+through an act symbolic of suicide. Hubbard’s views suggest that the
+effects of unsuccessful hijackings should have been greater than those of
+successful hijackings.
+
+A caveat must be added about the meaning of a “successful” hijacking.
+Instead of finding a better life in Cuba, hijackers who reached that desti-
+nation were usually imprisoned (Phillips 1973); thus, a successful trans-
+portation hijacking was not necessarily a successful solution to the hijack-
+er’s problems. That is equally true of extortions hijackings. Only five of
+the extortion attempts in the United States that followed D. B. Cooper
+were regarded by the FAA as successful, but even a successful hijacking
+was not necessarily a successful crime. Two of the bail-out attempts
+following Cooper’s were coded as successful, but both hijackers were
+captured within days. The other “successes” involved two groups of hi-
+jackers who extorted ransoms and then escaped to Algeria and one group
+that escaped to Cuba. In all three cases, the money was returned by the
+foreign government, although the hijackers were not. Thus, none of the
+extortionists who preceded or followed Cooper actually got away with
+the ransom. Moreover, recent reports (New York Times [February 13,
+1980]) that Cooper’s loot was found in the wilds of Washington State indi-
+cate that his crime was not as successful as was originally believed either.
+
+The difference between the effects of clearly unsuccessful hijackings
+and apparently successful (but, in reality, unsuccessful) hijackings sug-
+gest that viewers’ perceptions of the outcomes were based primarily on
+the initial image presented instead of on the eventual outcome of the
+hijacking. Incidents in which an immediate capture appeared as part of
+An Alternative to Contagion
+
+Consistent with the operational definition of contagion, any positive de-
+pendence (of a particular functional form) between counts of hijacking
+attempts in different time intervals has been attributed to contagion.
+However, there typically exist stochastic processes that, although not
+truly contagious, can generate observations that are statistically indistin-
+guishable from those generated by a contagious process, that is, processes
+that generate “spurious contagion” (Taibleson 1974). More specifically,
+there may be some underlying stochastic process {v,} such that N, is a
+Poisson variate with mean v,, where 1; is not a function of the history of
+{N,}. The process {N,} would then be a discrete-time doubly-stochastic
+Poisson process (Cox and Isham 1980). Elsewhere I derive the necessary
+form for a process {v;} yielding observations indistinguishable from those
+of the contagion process used in this article (Holden 1985).
+
+The possibility that the hijackings were generated by exogenous events
+may be particularly likely, given the nature of the contagiousness func-
+tions that were estimated. The significant effects of successful hijacking
+on attempts of the same type were spread over fairly long periods of time
+for both types of hijackings. Such long-tailed effects might be more con-
+sistent with spurious contagion than with causal connections between
+events. That is, exogenous factors may have raised the hijacking rate
+over certain long periods, yielding dependence between counts of events
+at time points within those periods. Of course, contagion and exogenous
+causation are not mutually exclusive, and it is possible that both types of
+effects occurred.
+Summary
+
+I found that each successful transportation hijacking in the United States
+generated an average of .758 additional attempts, with a median delay of
+60.6 days, and that that effect accounted for about 53% of the total rate of
+U.S. transportation hijacking attempts. Each successful extortion hijack-
+ing in the United States generated an average of 2.014 additional at-
+tempts, with a median delay of 44.8 days. That effect explained about
+85% of the total rate of U.S. extortion hijacking attempts.
+
+Even though it was not possible to show statistically that media cover-
+age was responsible for the stimulating effects, the results tend to support
+the common belief that hijacking spread as a result of publicity. That
+only successful hijackings had stimulating effects is consistent with previ-
+ous studies showing that violent acts are more likely to be imitated if they
+are seen to be rewarded. The finding is more consistent with the assump-
+tion that most hijackers were rational than that they were irrational. The
+general pattern of the findings lends support to the view that hijackers
+were seeking goals other than publicity.
+
+Finally, I have raised the possibility that exogenous factors may have
+created spurious contagion among hijacking attempts. I plan to do future
+research on that possibility.
+Arey, J. A. 1972. The Sky Pirates. New York: Scribner’s.
+
+Berkowitz, L. 1984. “Some Effects of Thoughts on Anti- and Prosocial Influences of
+Media Events: A Cognitive-Neoassociation Analysis.” Psychological Bulletin
+95:410—425.
+
+Berkowitz, L., and J. Macaulay. 1971. “The Contagion of Criminal Violence.”
+Sociometry 34:238—60.
+
+Bollen, K. A., and D. P. Phillips. 1982. “Imitative Suicides: A National Study of the
+Effects of Television News Stories.” American Sociological Review 47:802-9.
+
+Chauncey, R. 1975. “Deterrence: Certainty, Severity and Skyjacking.” Criminology
+12:447-73.
+
+Clutterbuck, R. 1975. Living with Terrorism. London: Faber & Faber.
+
+Clyne, P. 1973. An Anatomy of Skyjacking. London: Abelard-Schuman.
+
+Coleman, J. S. 1964. Introduction to Mathematical Sociology. New York: Free Press.
+
+Cox, D. R., and V. I. Isham. 1980. Point Processes. London: Chapman & Hall.
+
+Diekmann, A. 1979. “A Dynamic Stochastic Version of the Pitcher-Hamblin-Miller
+Model of Collective Violence.” Journal of Mathematical Sociology 6:272-82.
+
+Evans, A. E. 1969. “Aircraft Hijacking: Its Cause and Cure.” American Journal of
+International Law 63:695—710.
+
+Federal Aviation Administration. 1983. Aircraft Hijackings and Other Criminal Acts
+against Civil Aviation Statistical and Narrative Reports. Washington, D.C.: Fed-
+eral Aviation Administration, Office of Civil Aviation Security.
+
+Gleason, J. M. 1980. “A Poisson Model of Incidents of International Terrorism in the
+United States.” Terrorism 4:259-65.
+
+Hacker, F. J. 1981. “Contagion and Attraction of Terror and Terrorism.” Pp. 73-85
+in Behavioral and Quantitative Perspectives on Terrorism, edited by Y. G. Alexan-
+der and J. M. Gleason. New York: Pergamon.
+
+Hamblin, R. J., R. B. Jacobsen, and J. L. L. Miller. 1973. A Mathematical Theory of
+Social Change. New York: Wiley-Interscience.
+
+Hamilton, J. D., and L. C. Hamilton. 1981. “Models of Social Contagion.” Journal of
+Mathematical Sociology 8:133—60.
+
+Hamilton, L. C., and J. D. Hamilton. 1983. “Dynamics of Terrorism.” International
+Studies Quarterly 27:39-54.
+
+Hawkes, A. G. 1971. “Spectra of Some Self-exciting and Mutually Exciting Point
+Processes.” Biometrika 58:83-90.
+
+Heyman, E., and E. Mickolus. 1981. “Imitation by Terrorists: Quantitative Ap-
+proaches to the Study of Diffusion Patterns in Transnational Terrorism.” Pp. 175—
+228 in Behavioral and Quantitative Perspectives on Terrorism, edited by Y. G.
+Alexander and J. M. Gleason. New York: Pergamon.
+
+Holden, C. 1979. “Study of Terrorism Emerging as an International Endeavor.”
+Science 203:33-35.
+
+Holden, R. T. 1985. “Dynamic Models for Rare Events.” Unpublished manuscript.
+Bloomington: Indiana University, Department of Mathematics.
+
+Hubbard, D. G. 1971. The Skyjacker: His Flights of Fantasy. New York: Macmillan.
+
+Joyner, N. D. 1974. Aerial Hijacking as an International Crime. Dobbs Ferry, N.Y.:
+Oceana.
+
+Kaplan, A. 1981. “The Psychodynamics of Terrorism.” Pp. 35-50 in Behavioral and
+Quantitative Perspectives on Terrorism, edited by Y. G. Alexander and J. M.
+Gleason. New York: Pergamon.
+
+Knebel, F. 1971. “The Skyjacker.” Look 35 (February 19): 23-26.
+
+Li, R. P. Y., and W. R. Thompson. 1975. “The ‘Coup Contagion’ Hypothesis.”
+Journal of Conflict Resolution 19:63-88.
+
+Livingston, N. C. 1982. The War against Terrorism. Lexington, Mass.: Heath.
+
+Loy, F. E. 1969. “Department Reviews Problem of Aircraft Hijacking and Proposals
+for International Action.” Department of State Bulletin 60:212-15.
+. 1970. “Some International Approaches to Dealing with Hijacking of Air-
+craft.” International Lawyer 4:444-52.
+
+McWhinney, E. 1971. “International Legal Problem-Solving and the Practical Di-
+lemma of Hijacking.” Pp. 15—26 in Aerial Piracy and International Law, edited by
+E. McWhinney. Dobbs Ferry, N.Y.: Oceana.
+
+. 1975. The Illegal Diversion of Aircraft and International Law. Leyden,
+Netherlands: Sijthoff.
+
+Mazur, A. 1982. “Bomb Threats and the Mass Media: Evidence for a Theory of
+Suggestion.” American Sociological Review 47:407-11.
+
+Midlarsky, M. 1970. “Mathematical Models of Instability and a Theory of Diffusion.”
+International Studies Quarterly 14:60-84.
+
+Minor, W. W. 1975. “Skyjacking Crime Control Models.” Journal of Criminal Law
+and Criminology 66:94—105.
+
+Mintz, M. A. 1973. “Note on the Hijacker: His Criminal Evolution from Hijinks to
+Revolution.” Sociological Inquiry 43:89-93.
+
+National Institute of Mental Health. 1982. Television and Behavior: Ten Years of
+Progress and Implications for the Eighties. Vol. 1, Summary Report. Washington,
+D.C.: Government Printing Office.
+
+Phillips, D. 1973. Skyjack: The Story of Air Piracy. London: Harrap.
+
+Phillips, D. P. 1978. “Airplane Accident Fatalities Increase Just after Newspaper
+Stories about Murder and Suicide.” Science 201:748-50.
+
+. 1979. “Suicide, Motor Vehicle Fatalities, and the Mass Media: Evidence
+
+toward a Theory of Suggestion.” American Journal of Sociology 84:1150-74.
+
+. 1980. “Airplane Accidents, Murder, and the Mass Media: Toward a Theory
+
+of Imitation and Suggestion.” Social Forces 58:1001—24.
+
+. 1983. “The Impact of Mass Media Violence on U.S. Homicides.” American
+Sociological Review 48:560-68.
+
+Pitcher, B. L., R. L. Hamblin, and J. L. L. Miller. 1978. “Diffusion of Collective
+Violence.” American Sociological Review 43:23-35.
+
+Rein, B. 1971. “A Government Perspective.” Journal of Air Law and Commerce
+37:183-93.
+
+Rich, E. 1972. Flying Scared. New York: Stein & Day.
+
+Ritterband, P., and R. Silberstein. 1973. “Group Disorders in Public Schools.” Ameri-
+can Sociological Review 37:461-67.
+
+Spilerman, S. 1970. “The Causes of Racial Disturbance: A Comparison of Alternative
+Explanations.” American Sociological Review 35:627-29.
+
+Taibleson, M. H. 1974. “Distinguishing between Contagion, Heterogeneity and Ran-
+domness in Stochastic Models.” American Sociological Review 39:877—80.
+
+Turi, R. T., C. M. Friel, R. B. Sheldon, and J. P. Matthews. 1972. Descriptive Study
+of Aircraft Hijacking. Huntsville, Tex.: Sam Houston State University, Institute of
+Contemporary Corrections and the Behavioral Sciences.
+
+Turner, J. S. G. 1969. “Piracy in the Air.” Naval War College Review 22:86-116.
+
+Whelton, C. 1972. Skyjack. New York: Belmont/Tower.

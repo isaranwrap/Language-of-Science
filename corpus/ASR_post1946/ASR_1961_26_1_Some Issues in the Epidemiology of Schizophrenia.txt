@@ -1,0 +1,793 @@
+@SAGE As)A
+http://www.jstor.org/stable/2090507 ?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+ena to a field study of schizophrenia. I
+
+have selected schizophrenia as the focus
+of discussion for several reasons. Schizophre-
+nia disables; it does not kill. Approximately
+one hospital bed out of four in the United
+States is occupied by a schizophrenic patient,
+who has been hospitalized—on the average
+—for several years. The schizophrenic is
+always with us. How, and why, he comes
+into existence is an enigma. When society
+is faced with an unsolved health problem as
+severe as schizophrenia, research is not only
+worthwhile, but necessary. The strategic
+objective is to gain the knowledge to con-
+trol the problem. The requisite knowledge
+may not be forthcoming in this generation,
+but we should proceed to the task imbued
+with the conviction that the rigorous applica-
+tion of scientific methods will give us the
+knowledge we need to solve the problem at
+hand.
+
+Te lecture may be viewed as prolegom-
+health and disease. They are the clinical,
+laboratory, and epidemiological methods.
+Categorized briefly, the clinical method is
+directed toward individuals suffering from
+disease. The clinician focuses his attention
+upon the patient before him. The questions
+he asks, and the techniques he uses during
+the examination establish, in his judgment,
+the health or illness of the patient. To the
+clinician “health” is the absence of disease;
+“sickness” is the presence of signs and symp-
+toms of disease. The laboratory method
+examines fluids, excretions, or tissues taken
+from the bodies of patients. The laboratory
+scientist may not see the patient. He directs
+his attention to the disease process reflected
+in the fluid or tissue he examines. The
+epidemiological method studies disease and
+phenomena associated with disease in a
+population of individuals; some are “sick,”
+others are “well.”
+
+Epidemiology is not the study of epidem-
+ics, even though this is a common belief.
+The Greek phrase “epi-demos”—concerning
+the people—should be of as much interest
+to sociologists as to physicians. The focus of
+epidemiology is to relate the ways of living
+of a population, or a specific sub-group in
+it, to the observed distribution of a partic-
+ular disease. The epidemiologist tries to
+determine who develops the disease, when,
+and under what conditions.?
+
+Goldberger’s * researches on pellagra are
+a classic illustration of epidemiological
+method. In the early years of this century,
+pellagra was a common disease in the south-
+ern part of the United States. It was believed
+to be spread from person to person by infec-
+tion. Goldberger first studied pellagra in a
+mental hospital. He saw that some patients
+suffered from pellagra when they were
+admitted, whereas others developed the dis-
+ease in the hospital. Goldberger observed
+close contacts between members of the staff
+and the patients, but no staff members
+suffered from pellagra. The patients and
+staff were in intimate contact on the wards
+day after day; the patients developed pella-
+gra, but the staff did not. Goldberger inferred
+from this fact that pellagra is not an infec-
+tious disease. He then looked for something
+that differentiated the two groups. He noted
+that the staff did not eat with the patients.
+Furthermore, the staff ate different foods.
+He developed the working hypothesis that
+differences in diet might explain why pa-
+tients developed pellagra, but the staff did
+not. Goldberger then worked with a col-
+league, who tried an improved diet on a
+series of women patients afflicted with pella-
+gra. The women responded remarkably to
+this diet. Other institutions where pellagra
+was common were then studied. In one
+orphanage, for example, pellagra was seen
+in children above six years of age. Research
+showed that children under six years of age
+were given two cups of fresh milk daily;
+children six years of age and older were not
+given any milk, and fresh meat only once a
+week. Again the experimental method was
+used to test the hypothesis that diet is re-
+lated to the development of pellagra. All the
+children in the orphanage were given milk
+every day, and fresh meat four times a week
+for a year. No case of pellagra developed in
+this orphanage during the year of the exper-
+iment.
+
+In another experiment, a group of mental
+patients were given special diets for a year:
+no one developed the disease, whereas forty-
+seven per cent of the patients in a control
+group, in the same hospital, had a recurrence
+of pellagra. Other studies included the
+experimental development of pellagra in
+convicts. Diet was the answer; but what
+ingredients in the diet? Goldberger, and those
+who have followed him, traced the etiology
+of pellagra to the vitamin B complex,
+nicotinic acid, and the action of tryptophane.
+
+This sketch indicates that the epidemio-
+logical method is inductive and inferential.
+The co-existence of attributes, as well as
+variables, with health, or disease, is deter-
+mined by studying a defined population and
+its constituent parts in time, place, and cir-
+cumstance. Attributes and variables per-
+tinent to epidemiological study include such
+things as sex, race, age, occupation, educa-
+tion, diet, family composition, group customs,
+and personal habits. In addition, it encom-
+passes genetic composition, biochemistry,
+other forms of plant and animal life, and
+geographical environment. In brief, ep-
+idemiology is the application of ecological
+principles to the study of health, as well as
+disease, in a society. Its working hypotheses
+are conditional: If this, then that.
+
+The clinical, laboratory, and epidemiologi-
+cal methods have a common interest: disease
+in individuals. The clinician, the laboratory
+analyst, and the epidemiologist utilize the
+findings of his colleagues in adjacent fields
+to solve problems posed by disease. The tri-
+umph of the epidemiological method has
+been its utility in helping researchers trace
+out, step by step, interdependencies between
+the life ways of individuals and the appear-
+ance or non-appearance of disease in a popu-
+lation. The epidemiological method should be
+useful in our efforts to unravel the etiology of
+the tangled skein of human misery the medi-
+cal profession refers to as schizophrenia.
+young male, who had “degenerated into a
+state of dementia,” was described.* Three
+years later variants of this psychosis ® were
+identified. By the end of the nineteenth cen-
+tury dementia praecox had been incorporated
+into Kraepelin’s nosological scheme. The
+name “schizophrenia” was introduced into
+the literature in 1911.7 The term “schizo-
+phrenia” has replaced almost entirely the
+earlier “dementia praecox.”
+
+Six types of theories have been put for-
+ward since 1900 to account for the etiology
+of schizophrenia. The theory of a pathologi-
+cal lesion in the brain was enunciated first
+in 1904.8 After Noguchi,® in 1911, demon-
+strated that general paresis is traceable to
+an infection of Treponema pallidum, the
+“schizococcus” was pursued with vigor,!°
+but without success.1t The search for an in-
+fectious agent in schizophrenia goes on, but
+the uncritical enthusiasm of earlier days is
+lacking.
+
+The second type of etiological theory is
+biochemical in origin. Biochemical explana-
+tions of mental disorders are as old as Hip-
+4B. Morel, Traités des maladies mentales, Paris:
+Masson, 1860, p. 566.
+
+5J. L. Kahlbaum, Gruppierung der psychischen
+Krankheiten, Danzig: Kafemann, 1863.
+
+6E. Kraepelin, Dementia Praecox and Para-
+phrenia, translated from the Eighth German Edi-
+tion, Edinburgh: Livingston, 1925.
+
+7E. Bleuler, Dementia Praecox, oder die Gruppe
+der Schizophrenien, 1911, translated into English by
+Joseph Tinken, New York: International Universi-
+ties Press, 1950; p. 1.
+
+8A. Alzheimer, “Histologische Studien zur Dif-
+fernzialdiagnose der Progressiven Paralyse,” His-
+tologische und Histopathologische Arbeiten ueber die
+Grosshirnrinde mit besonderer Beruecksichtingung
+der Pathologischen Anatomie der Geisteskrank-
+heiten, Jena: Gustav Fischer, 1904, Volume I, p. 18;
+F. Nissl, Zur Histopathologie der Paralytischen
+Rindenerkrankung, Jena: Gustav Fischer, 1904,
+Volume I, p. 315.
+
+9H. Noguchi and J. W. Moore, ““A Demonstration
+of Treponema Pallidum in the Brain in Cases of
+General Paralysis,” Journal of Experimental Medi-
+cine, 17 (1913), p. 232.
+
+10 Walter L. Bruetsch, “Mental Disorders Arising
+from Organic Diseases,” in The Biology of Mental
+Health and Disease (108 authors), New York:
+Hoeber, 1952, pp. 303-326.
+
+11Henry Cotton’s ill-starred “Focal Infection
+Theory” may be traced to this school of thought.
+For a discussion of the point, see: Joseph Zubin,
+“Biometric Methods in Psychopathology,” in Paul
+H. Hoch and Joseph Zubin, editors, Depression,
+New York: Grune and Stratton, 1954, p. 126.
+who first applied the theoretical structure of
+psychoanalytic thought to the etiology of
+schizophrenia.1® The psychoanalytic position
+has been restated in numerous ways by more
+recent writers. Its validity still rests upon
+faith and assertion.
+
+The fifth type of etiological theory is a
+sociogenic one. It developed out of psycho-
+genic theory. Sullivan’s 1" theory of disor-
+dered relations between a child and his par-
+ents represented a deviation, if not a clean
+break, from the Freudian position. The most
+recent variant of the interpersonal explana-
+tion for schizophrenia is the “double bind”
+hypothesis enunciated by Bateson and his as-
+sociates.18 The “double bind” theory is based
+on the proposition that schizophrenia is the
+product of faulty communication between
+human beings. An individual who is en-
+meshed in social situations, where he receives
+conflicting messages on different psychologi-
+cal levels, develops deviant response patterns
+to handle the messages he receives. The the-
+ory assumes that schizophrenia is the indi-
+vidual’s adjustment to a pathogenic family
+environment—a family in which an individ-
+ual “can’t win” by acting in ways our society
+calls “normal.”
+
+The sixth variety of etiological theory is
+eclectic. Adolf Meyer accepted from Kra-
+epelin and Bleuler the concept that schizo-
+phrenia is a nosological entity, but he re-
+jected their ideas of etiology.1® Meyer taught
+that schizophrenia is a reaction to the forces
+which impinge upon the schizophrenic during
+the course of his life. Meyer insisted that
+schizophrenia, and other functional mental
+illnesses, have multiple etiological bases.
+Every individual is a product of many forces
+and experiences—heredity, body chemistry,
+nervous system, family, station in life, psy-
+chological experiences, and so on. The psy-
+chobiological approach is represented cur-
+rently by Leighton.”°
+
+The different etiological theories of schizo-
+phrenia have been substantiated only to the
+satisfaction of their protagonists. As a conse-
+quence, controversies revolve around the na-
+ture, phenomenology, onset, and course of
+this illness. What we know of schizophrenia
+has been derived almost entirely from the ob-
+servation of hospitalized cases. The classic
+psychiatric approach has been to reconstruct,
+post factum, in elaborate detail, a case his-
+tory, or a few case histories. Much of this
+writing has been ad hoc speculation to illus-
+trate the theoretical position of the author.
+When an investigator looks hard enough for
+an explanation of something he sees, or
+thinks he sees, he usually finds it. In the
+process he may create a myth, mistake it
+for reality, then vehemently defend his posi-
+tion. Meanwhile, the search for knowledge is
+diverted.
+
+Current controversies over schizophrenia
+are a heritage, in large part, of nineteenth
+century theories of disease. Throughout the
+nineteenth century, formal medical theory
+taught that the etiology of all diseases could
+be traced to constitutional predisposition, to
+changes in tissue, or to changes in cellular
+structure and function. Disease was dysfunc-
+tion within the physiological system, how-
+ever caused. The view was compatible with
+the Morgagnian theory of pathology. Gio-
+vanni Morgagni (1682-1771), the eighteenth
+century founder of modern pathology, taught
+that every symptom of disease reflects an
+underlying lesion in the body. Morgagni
+stressed pathology which could be seen, felt,
+weighed, or identified by microscopic, histo-
+logical, or chemical analyses. The researches
+
+ 
+
+reprinted in A. Lief, The Commonsense Psychiatry
+of Dr. Adolf Meyer, New York: McGraw-Hill,
+1958, pp. 247-259.
+
+20 Alexander Leighton, My Name Is Legion, New
+York: Basic Books, 1959.
+of Louis Pasteur (1822-1895), Robert Koch
+(1843-1910), and other nineteenth century
+scientists strengthened the doctrine that a
+specific disease is caused by a particular
+pathogenic organism. In the early years of
+the twentieth century, every discovery in
+microbiology and organic chemistry intensi-
+fied the search for the specific agents which
+cause disease. When the researches of Gregor
+Mendel (1822-1884) became known, in the
+early years of the present century, the tradi-
+tional medical assumption of constitutional
+predisposition in disease was bulwarked by
+genetic evidence.
+
+Schizophrenia is of so much interest to
+psychiatrists that the Second International
+Congress for Psychiatry, held in 1957, lim-
+ited its program to this illness. In spite of
+this interest—perhaps because of it—there
+was not a single concept or piece of evidence
+put forward by a participant that was not
+rejected or challenged by someone else. Even
+the name “schizophrenia” was disapproved
+of by several people.?! Psychiatrists, in brief,
+disagree about the phenomenology, etiology,
+and therapeutic course of schizophrenia.
+Moreover, there is controversy over what
+points they agree or disagree. This is con-
+fusing to a non-psychiatrist.
+
+The fact is, we do not know what causes
+the disease, disorder, or reaction the psychi-
+atrist labels schizophrenia. Epidemiological
+study may furnish the answer. I do not say
+it will. At the very least, it will provide a
+different perspective on the problem. When
+we observe persons in their homes, their
+family and friendship groupings, their neigh-
+borhoods, at work and at play, we see them
+in their natural habitats. When we study
+persons and groups in the socio-cultural en-
+vironments which enmesh them, we gain
+new knowledge about their motivations, as-
+pirations, frustrations, conflicts, joys, and
+sorrows. Systematic and sophisticated study
+of the ecology of human life may unravel
+the etiological threads that lead to schizo-
+phrenia. I believe a series of carefully de-
+signed field studies of mental illnesses should
+be planned and carried out in future years.
+(1) The Study Group. The first issue re-
+volves around the population to be studied.
+Ideally, the entire population of a society
+should be included in a definitive study.
+However, we are not likely to achieve this
+desideratum for a long time. The permissible
+alternative is a probability sample of suffi-
+cient size to keep the standard error small.
+If we study a sample, other problems that
+are associated with schizophrenia, such as
+the age of onset, need to be considered. For
+example, should persons above sixty years
+of age be included? Should an Index indi-
+vidual or an entire family be studied? How
+far should family relationships be followed?
+Numerous additional questions should be
+considered in the planning phase of the
+suggested study.
+
+Every experienced field researcher knows
+that before a study can succeed he must gain
+the cooperation of the persons in his sample.
+In a study dealing with a subject carrying
+the emotional charge that mental disease 2”
+does, gaining the support of a sample of in-
+dividuals for the length of time essential to
+the kinds of studies envisaged here is likely
+to be a complicated, time-consuming, and
+exhausting task. Nevertheless, from the ex-
+perience we have gained in an intensive field
+study of schizophrenia in Puerto Rico, I am
+convinced that the cooperation of adults in
+a sample can be gained. Our Puerto Rican
+study requires that each person drawn in the
+sample be given a two-and-one-half to three-
+hour psychiatric examination. Whether the
+examining psychiatrist diagnoses the sample
+person as schizophrenic or as having “no
+mental illness,” we study him in elaborate
+detail. The schizophrenic person, as well as
+one with “no mental illness’—and other
+adult members of their households—is inter-
+viewed by psychiatric social workers and so-
+cial scientists in the home, from one-hun-
+dred-and-ten to one-hundred-and-twenty-five
+hours. We mention this to indicate a field
+study need not be overwhelmed by the diffi-
+culties of working with a population of non-
+patients, who are “sick” or “well.”
+
+Field studies of mental illnesses should
+not be “one shot” operations. The population
+should be studied for at least one year; but
+five, ten, or possibly twenty years would be
+more desirable. However, the longer the pe-
+riod of observation the more difficult the
+task of following individuals from place to
+place. Staff problems, too, become compli-
+cated in long-range studies. Nevertheless, in
+my judgment, such studies are necessary.
+
+(2) Diagnosis. Diagnosis is a field prob-
+lem of primary importance. Diagnosis is not
+easy even in diseases where there is an iden-
+tifiable organic condition, and the clinician
+or researcher has a diagnostic instrument to
+aid him—such as an X-ray machine or a
+chemical test. The problem is more acute in
+schizophrenia. Here there is no chemical or
+physical test. Diagnosis is dependent solely
+upon the clinician’s judgment. A number of
+different subjective factors may enter the
+process: the psychiatrist’s conception of
+schizophrenia, the etiological doctrine he
+holds, how the person being examined thinks,
+talks, gestures, and the affect he presents.
+However, the subject’s reactions may be re-
+sponses to his cultural experiences and his
+judgments about the psychiatrist. Other fac-
+tors—such as age, sex, race, religion, and so-
+cial status—may enter into the diagnostic
+formulation.
+
+Psychiatrists are concerned about the re-
+liability and the validity of diagnoses. The
+reports of competent and responsible men
+who have wrestled with these questions show
+that the subject deserves attention. For ex-
+ample, Hoch recently reported that the ratio
+of first admissions diagnosed as manic de-
+pressives in comparison with schizophrenics
+reversed itself over a period of five years in
+one state hospital system. Hoch attributes
+this reversal not to a shift in the distribution
+of disease in the state’s population, but to a
+change in personnel and policy in the hos-
+pital system.?? Pasamanick supplemented
+this report with a statement of findings from
+the University hospital with which he is
+identified. Pasamanick found significant dif-
+ferences between the diagnostic classifica-
+tions placed upon patients with functional
+psychoses from one ward to another. On one
+ward, the diagnoses changed when the ward
+administrator changed. The interesting thing
+is that the diagnoses had been made by resi-
+dents, as well as the ward administrator, who
+was a trained psychiatrist.24 The point to
+remember about these reports is that they
+are based upon hospitalized patients.
+
+The problem of diagnosis is more compli-
+cated when a researcher is attempting to as-
+sess the mental status of a non-patient group.
+Leighton has furnished us some data on
+what happens when this is done. In the Mid-
+Town Study, New York City, six psychia-
+trists were asked to read the field protocols
+on fifty white, adult males. The psychiatrists
+were instructed to assess whether each man
+was mentally “well” or mentally “ill”; fif-
+teen were placed in an equivocal category,
+and five individuals were diagnosed as
+“well.” However, the five men who were di-
+agnosed as “well” differed for each of the six
+psychiatrists. One psychiatrist’s five “wells”
+were in another psychiatrist’s “sickest”
+group.”> Subsequent to this experience, the
+director of the project sat down with his
+fellow psychiatrists and worked out an oper-
+ational procedure that produced reliability
+between the psychiatrists. But we do not
+know if the diagnoses they made are valid,
+or merely the product of consensus within
+the group. These reports indicate that the
+validity and the reliability of diagnosis in
+functional mental disorders represent diffi-
+cult problems.
+
+Currently, psychiatry does not have a
+standard test which researchers may use to
+diagnose any of the functional mental ill-
+nesses. A standardized, valid, diagnostic test
+would enable a researcher to determine the
+presence or absence of functional mental ill-
+ness in individuals. Until this problem is
+solved, research into mental illness will con-
+tinue to be hampered. In sum, before we can
+move forward with confidence in epidemio-
+logical studies we need to establish criteria
+to differentiate a schizophrenic from a non-
+schizophrenic person. For present purposes,
+we shall assume this issue can be solved by
+careful planning, operational definitions,
+training of a field staff, and pilot studies.
+
+(3) The Measurement of Risk. The third
+issue revolves around the question of how we
+may relate socio-cultural factors to the de-
+velopment of schizophrenia. This issue is the
+core of the epidemiological method. Epidemi-
+ological studies directed toward uncovering
+the etiology of a disease often pass through
+two principal phases: the descriptive and the
+determinative. The descriptive phase is con-
+cerned with relating the “sick” to the “well.”
+The determinative phase tests inferences as
+to cause, developed in the descriptive phase.
+The essence of descriptive epidemiology is
+the comparison of risks in a population. Dur-
+ing the descriptive phase of a study the popu-
+lation should be observed so carefully that a
+statement of the risk of developing the dis-
+ease under examination is possible.
+
+The measurement of comparative risks is
+stated as a rate. A rate is computed by divid-
+ing the number of cases of the disease by the
+population at risk.26 The principal measures
+of risk are expressed in the concepts of inci-
+dence and prevalence. Incidence is a measure
+of the way a disease attacks a population,
+whereas prevalence is a measure of the extent
+of suffering in the population. Incidence is
+defined as the number of cases of a disease
+that develop in a population during a stated
+interval of time. Prevalence is the number of
+cases in a population at some point in time.
+Prevalence includes all cases active in a pop-
+ulation, whether new or old, whereas only
+new cases are encompassed in incidence.
+Either incidence or prevalence has meaning
+only when it is viewed as a measure of the
+risks individuals in a defined population en-
+counter of becoming ill of a specified disease,
+or suffering from it, at some point in time.27
+
+Determination of the number of “active”
+cases in a defined population during an in-
+terval of time is a requisite step toward a
+solution of the problem of etiology. This
+means individuals who are “sick,” but undi-
+agnosed and not being treated, as well as
+persons who are under medical care. So far
+as mental illness is concerned, we cannot
+continue to base studies on treated cases
+only, and then attempt to draw inferences
+from this segment of the population of ill
+persons, as if it represented the universe of
+“sick” individuals. Who reaches a psychi-
+atric facility may be more a product of the
+social system than of the disease process.
+Evidence is mounting that only a portion of
+individuals suffering from schizophrenia, or
+any other mental illness, are treated by psy-
+chiatric hospitals, clinics, and practitioners.
+The others are cared for by their families,
+non-psychiatric physicians, ministers, drug-
+gists, friends and neighbors, or through their
+own efforts.
+Each individual in a field study focused on
+etiology ought to be examined at the begin-
+ning of a period of observation and again at
+the end of it. Two examinations are a mini-
+mum in a one-year study. Over a longer
+period, periodic examinations are indicated.
+An examination at the beginning and the end
+of the period of observation would provide
+the elementary data essential for the calcu-
+lation of “true” prevalence and incidence
+rates. (I am making the assumption that a
+psychiatric examination can determine a
+“new” case of schizophrenia from an “old”
+one. This assumption itself deserves extended
+discusion.) Each rate ought to be determined
+with specific factors controlled statistically
+—such as age, sex, and socio-economic status.
+This procedure would enable the researcher
+to see if the amount of illness clusters in se-
+lected segments of the population.
+
+The cases of schizophrenia that become
+active during an interval of observation
+would be of primary importance from the
+viewpoint of unraveling etiology. The “new”
+cases enable the researcher to determine how
+the disorder attacks individuals. The data
+should be controlled for specified attributes
+and variables, which the researcher suspects
+are related to the presence or absence of the
+disease. If the “‘new” cases cluster in a par-
+ticular portion of the population, the re-
+searcher has located a possible clue to etio-
+logical factors. When this occurs the re-
+searcher understandably is encouraged. This
+is where he should exercise great caution. In
+his enthusiasm he may misinterpret clues
+and draw false inferences. A false lead will
+only confound future research. Observed dif-
+ferences may be a product of the research
+design, or the investigator may be drawing
+conclusions from incomparable data.?$
+Each individual in a field study focused on
+etiology ought to be examined at the begin-
+ning of a period of observation and again at
+the end of it. Two examinations are a mini-
+mum in a one-year study. Over a longer
+period, periodic examinations are indicated.
+An examination at the beginning and the end
+of the period of observation would provide
+the elementary data essential for the calcu-
+lation of “true” prevalence and incidence
+rates. (I am making the assumption that a
+psychiatric examination can determine a
+“new” case of schizophrenia from an “old”
+one. This assumption itself deserves extended
+discusion.) Each rate ought to be determined
+with specific factors controlled statistically
+—such as age, sex, and socio-economic status.
+This procedure would enable the researcher
+to see if the amount of illness clusters in se-
+lected segments of the population.
+
+The cases of schizophrenia that become
+active during an interval of observation
+would be of primary importance from the
+viewpoint of unraveling etiology. The “new”
+cases enable the researcher to determine how
+the disorder attacks individuals. The data
+should be controlled for specified attributes
+and variables, which the researcher suspects
+are related to the presence or absence of the
+disease. If the “‘new” cases cluster in a par-
+ticular portion of the population, the re-
+searcher has located a possible clue to etio-
+logical factors. When this occurs the re-
+searcher understandably is encouraged. This
+is where he should exercise great caution. In
+his enthusiasm he may misinterpret clues
+and draw false inferences. A false lead will
+only confound future research. Observed dif-
+ferences may be a product of the research
+design, or the investigator may be drawing
+conclusions from incomparable data.?$
+
+28The need for caution is illustrated by the
+following incident: The biochemical laboratory of
+the National Institute of Mental Health was study-
+ing the urine of a sample of carefully diagnosed
+schizophrenic patients and a matched sample of
+non-schizophrenic individuals. The research was
+directed toward the determination of the quantity
+of phenolic acids excreted in a standardized interval
+of time. The researchers found four compounds in
+the urine from the schizophrenics that were present
+in significantly higher amounts than the same com-
+pounds in the urine of the control group. They
+also found one compound in the urine of the con-
+trols that was present in significantly higher
+
+When the comparison of rates reveals a
+clustering of illness in a particular portion of
+the population and a relative absence of the
+disease in other portions, the researcher is in
+a position to formulate working hypotheses
+regarding etiology. If coexistence is found
+between the presence or absence of disease
+and the way of life of an individual or social
+group, then the researcher should examine
+painstakingly the conditions—ecological, so-
+cio-cultural, and so on—under which individ-
+uals live who are high risks, as well as low
+risks. By close, systematic study of the life
+ways of individuals and groups the epidemi-
+ologist may be able to learn how the disease
+process is related to the circumstances in
+which it develops. Close scrutiny of the hab-
+its and customs of persons who are afflicted
+with the disease being studied, as well as a
+comparable series of individuals who are free
+of the disease, is a variant of the “treated”
+versus “control” procedures so widely used in
+experimental studies. The epidemiologist
+simulates experimental procedure by the
+comparison of two groups of differential
+risks.
+
+Systematic field study of the processes
+which give rise to schizophrenic, as well as
+non-schizophrenic, behavior is indicated at
+the present time. When this is done, and I
+think it will be done eventually, socio-cul-
+tural factors should be studied along with
+heredity, biochemical processes, organic in-
+
+ 
+
+amounts than in the schizophrenics. The researchers
+thought they had a real clue until a colleague in the
+laboratory, who had had experience as an agricul-
+tural chemist, pointed out that the four compounds
+found in the urine of the schizophrenics were
+metabolites of substances in coffee. The compound
+found in the urine of the normal control group
+was a derivative of the oil of wintergreen. The
+researchers then observed the activities of the
+schizophrenics, who were hospitalized, and ques-
+tioned the normal controls, who were not hos-
+pitalized. They soon discovered that the schiz-
+ophrenics drank several more cups of coffee each
+day than the normals. Moreover, the normals
+cleaned their teeth with commercial toothpastes; the
+schizophrenics did not. Oil of wintergreen is a
+common flavoring ingredient in toothpaste. The
+chemical findings for the schizophrenics, as well as
+the controls, may be attributed to the social situa-
+tions in which the two groups lived. The source
+of this experience is: Seymour S. Kety, “Current
+Biochemical Theories of Schizophrenia,” Lecture
+presented by The Yale Medical Society, New Haven,
+Connecticut: Yale University, November 10, 1959.
+sults, and psychological mechanisms. The
+possible etiological effects of each of these
+factors probably can be understood only in
+their concomitant interdependencies.
+
+From the viewpoint of sociological theory,
+it would be desirable to postulate factors in
+the socio-cultural matrix which, directly or
+indirectly, give rise to disordered behavior in
+an individual. In doing this, the theorist
+should state clearly what he believes the con-
+nection is between socio-cultural factors,
+which impinge upon persons under defined
+conditions, and specified behavioral conse-
+quences. To investigate possible etiological
+linkages between socio-cultural variables and
+the development of schizophrenic behavior in
+the individual, the investigator needs to dif-
+ferentiate between independent and depend-
+ent variables. This elementary principle is
+overlooked commonly in psychiatric writing
+and research. In this field the tendency is to
+deal with many variables, on several levels,
+without specification.
+The called-for theoretical models should
+be formulated so precisely that they can be
+tested empirically in this society, as well as
+in other societies and cultures. Field studies
+are needed sorely in mental illness research.
+The replication of each study is also neces-
+sary.
+
+I hope I have not overstressed how little
+we know about schizophrenia. The question
+is relative. If our ideal is the precise knowl-
+edge to prevent this disease, then our
+achievement is zero. On the other hand, when
+we compare what we do know with zero, our
+achievement is infinite. Nevertheless, the
+problem is still before us: what gives rise to
+the phenomena we call schizophrenia? The
+answer can come only from theoretically-
+oriented and _ methodologically-disciplined
+future research.

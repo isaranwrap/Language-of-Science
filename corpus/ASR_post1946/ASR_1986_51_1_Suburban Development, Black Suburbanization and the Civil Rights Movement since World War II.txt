@@ -1,0 +1,1172 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+Structural models of suburban development and black population growth are
+developed for each of the post World War II decades. Changes in the determinants
+(region, age, distance to the central city, socioeconomic status, area, job
+concentration and population size) of black growth across the post-war decades are
+examined within the context of changing black-white relations. In addition, the
+reciprocal issue of change in the effect of black suburbanization on suburban devel-
+opment (population, job and areal growth) is examined. The basic thesis is that
+change in the process of black suburbanization has occurred during the post war
+decades in response to the changing Civil Rights climate. Maximum likelihood model
+estimates are generated for each decade using samples of all suburbs which had at
+least 10,000 population during each decade. The analysis shows that the determi-
+nants of black growth and the role of black suburbanization in suburban development
+have changed across the decades.
+national total of suburban residents (17 to 20
+percent) but since World War II through 1980,
+the percent suburban population has increased
+from 20 to about 40 percent (Muller, 1981:51).
+By 1970, almost all of metropolitan growth
+(95.6 percent) was due to the growth of fringe
+populations (U.S. Census of Population, 1970).
+
+The suburbanization of commerce and in-
+dustry has paralleled suburban population
+growth. The deconcentration of economic ac-
+tivities began in the 1920s with the increased
+use of the automobile but it wasn’t until after
+World War II with the increasing movement of
+retailing to the fringe that job suburbanization
+became a noticeable phenomenon. Suburban
+employment has accelerated in each decade
+since World War II, especially during the 1970s
+(Muller, 1981:121). Initially, a large proportion
+of the suburbanizing employment was in re-
+tailing, but recently manufacturing as well as
+wholesaling and administrative activities have
+begun to suburbanize in increasing numbers. In
+some ways, the fringe is displacing the central
+city as the economic focus of the metropolis
+(Sly and Tayman 1980a, 1980b).
+
+The suburbanization of blacks, however, has
+not followed the trends for population and em-
+ployment suburbanization. In 1970, blacks
+comprised about 11 percent of the total U.S.
+population and about 12 percent of the met-
+ropolitan population, but comprised only about
+5 percent of the suburban residents. Since
+World War I (through 1970), suburban percent
+black has increased only slightly from about
+3.0 to 5 parcent. In northern and western sub-
+urban rings, blacks have remained a constant
+three percent, while in southern rings percent
+black has declined from about thirty percent in
+1900 to about ten percent in 1970 (Farley,
+1970). Suburban blacks have also displayed
+segregated residential patterns similar to cen-
+tral city blacks (Stahura, 1983; Logan and
+Schneider, 1984). The persistent under-
+representation of blacks in the fringe as well as
+the segregated residential pattern has been of
+considerable interest to researchers in that
+these ecological patterns are argued to be the
+outcome of housing discrimination practiced
+by a variety of agents, including real estate
+developers, lending institutions, city, state and
+federal governments, etc. (Muller, 1981).
+
+During the past 20 years, however, blacks
+have begun to move to suburbs in increasing
+numbers and at a greater rate (Nelson, 1978,
+1980; Connolly, 1973; Logan and Schneider,
+1984). In the suburbs in this study, percent
+black has grown from 4.05 in 1950, to 4.20 in
+1960, to 4.80 in 1970, to 7.14 in 1980. The
+increase in black suburbanization implies that
+the suburban fringe has been “opened” to
+blacks and that discrimination practiced by
+various agents described by Muller (1981) has
+diminished. The reduction in suburban
+exclusionism is assumed to have resulted from
+the Civil Rights legislation of the 1950s and
+1960s.
+
+This study examines the parallels between
+the Civil Rights movement and changes in the
+process of black suburbanization. The basic
+thesis is that the determinants of black subur-
+ban population growth have changed across
+the post-war decades in response to the
+changing racial climate. A related thesis is that
+changes in the determinants of suburban de-
+velopment (areal, population and job growth)
+have also occurred, especially the role of black
+suburbanization. In Figure 1 is the model
+which explicates the reciprocal relationship
+The rapid acceleration in suburbanization
+during the 1950s was fueled by the deferred
+demand for housing created by World War II
+and the pre-war housing shortage. After the
+war, families began to spend their considerable
+war years’ savings for new housing; returning
+servicemen were able to easily secure housing
+loans guaranteed by the Federal Housing and
+Veterans Administration; and the delayed mar-
+riages and fertility caused by the war produced
+the increasing demand for new housing. Muller
+(1981:54) states that nearly 10 million new
+households were formed in the decade follow-
+ing the end of the war. The construction in-
+dustry responded to the massive demand by
+mass-producing housing on suburban tracts.
+This housing was cheaper and, in many ways,
+superior to similar central-city housing. The
+economic accessibility of fringe housing
+coupled with strong demand produced a
+central-city suburban migration stream which
+far surpassed that of previous decades.
+
+By the late 1950s, retailing activities began to
+move to suburbs to service the newly arrived
+immigrants who were rapidly losing their ties
+to Central Business District’s (CBD) retailing.
+Initially, retailing took the form of smaller
+‘strip’ shopping areas which were later
+supplanted during the 1960s by the larger
+“mall” type shopping centers (Muller, 1981).
+During the 1950s, other types of economic ac-
+tivities began to decentralize, but only at a
+fraction of the pace of later decades.
+
+The suburbs of the 1950s were primarily
+white enclaves with only a small number of
+predominately black fringe “towns” which
+existed before the post war suburbanization
+(Rose, 1972), several older ‘satellite’? suburbs
+which contained some black population, and
+“spillover” ghettos located adjacent to the
+central-city black enclaves (e.g., Farley, 1970;
+Muller, 1981). Blacks were, in fact, excluded
+from the newer suburbs by existing institu-
+tional discrimination such as the discrimi-
+natory practices in the administration of FHA
+loans, and newer exclusionary zoning ordi-
+nances.' Exclusionary zoning ordinances were
+R
+
+Age
+
+Area, ~ !
+Area,
+
+~ Dore)
+
+BLACK, SOOT iC
+
+a a SSX ail
+
+%
+
+ 
+
+ 
+
+Distance Population, —\
+Status Jobs, ne
+R R R R,
+
+1 The cross-sectional and change effects of the exogenous variables—age, region, distance and status—are
+not drawn on the diagram for simplicity of presentation. Operational definitions, means, and standard
+deviations are presented in Appendix A.
+Blacks also shared in the post-war prosperity
+in that the GI Bill of Rights, Veterans Admin-
+istration and the Federal Housing Authority
+provided avenues for better jobs, education
+and housing. Black expectations rose even
+further with the legal demise of the ‘separate
+but equal’ educational systems in 1954. In the
+remaining years of the 1950s, much of the ef-
+fort of the Civil Rights movement focused on
+educational gains, paying little attention to dis-
+criminatory housing practices. The issue of
+white ‘“‘suburbia’’ was of secondary im-
+portance.
+
+As a result, black suburban growth during
+the 1950s was confined primarily to suburbs
+with existing black populations. The best pre-
+dictor, then, of black change should be the
+size of the existing black population, i.e., the
+relationship between 1950 percent black and
+1960 percent black in Figure 1 should be large.
+In addition, those suburbs developing least
+rapidly are the ones most likely to have black
+population growth. Specifically, old suburbs
+(Farley, 1970; Schnore, et al., 1976; Connolly
+1973), low in socioeconomics status (Logan
+and Schneider, 1984; Marshall and Stahura,
+1979a; 1979b), large in area and population size
+(Marshall and Stahura, 1979a; 1979b) which are
+close to the central city (Logan and Schneider,
+1984; Muller, 1981) and which have smaller job
+concentrations (Farley, 1970; Marshall and
+Stahura, 1979a; 1979b) are hypothesized to
+have growing black populations. Finally, re-
+gional differences in suburban black growth are
+hypothesized, given the findings of Logan and
+Schneider (1984) and Marshall and Stahura
+(1979a). The rationales for these determinants
+of black change have been explicated and em-
+pirically demonstrated in the cited research
+and are not repeated here to conserve space.
+The above hypotheses refer to the cross-lagged
+relationships depicted in Figure 1, i.e., the
+effects of area, population size, job concen-
+tration, status, age, region, distance at time 1
+on percent black at time 2. In addition to
+the above specified ‘‘change’’ effects
+(Bohrnstedt, 1969), the cross-sectional effects
+of area, population, jobs, status, age, distance,
+region and percent black on each other are also
+specified in Figure 1. The cross-sectional ef-
+fects are not relevant to the basic theses but are
+causally ordered in lieu of estimating the cor-
+relations between residuals (size, area, jobs
+and percent black) at each time point.? The
+arguments for the cross-sectional effects are
+repetitive (similar to the change arguments)
+and are not presented to conserve space.
+Considering the determinants of suburban
+development, percent black is hypothesized to
+be negatively related to population, areal and
+job growth. The presence of a black population
+is argued to inhibit suburban development in
+that white suburban migrants and economic
+activities tend to avoid suburbs with black
+populations since such suburbs generally have
+poorer services and higher tax rates than white
+suburbs (Logan and Schneider, 1981a;
+Schneider and Logan, 1981) and since irra-
+tional fears about property values, etc., based
+on racial prejudice, influence locational deci-
+sions of individuals and of business/industry.
+Black suburbs, then, not allowed to share in
+the benefits of the post-war boom give FHA
+practices. Further, the newer practice of ex-
+clusionary zoning steered black migrants to
+suburbs which had little potential for develop-
+ment. Suburban population growth and in-
+creasing job concentration are also hypoth-
+esized to be related to areal size, age, region,
+distance and status. Suburbs with large
+amounts of land have greater potential for
+housing and industrial/commercial expansion.
+Older suburbs have lower growth potential
+since larger proportions of their land are al-
+ready developed and because redevelopment is
+more costly than developing land with no pre-
+vious usage. Older suburbs, therefore, are hy-
+pothesized to have slower population growth
+(or decline) and slower increases in job con-
+centration. Socioeconomic status is also hy-
+pothesized to be positively related to job and
+population increase (Stahura and Marshall,
+1982). Regional differences in suburban popu-
+lation (Stahura and Marshall, 1982; Guest,
+1979) and job growth (Stahura, 1982) are also
+anticipated based on previous research. Annex-
+ation is hypothesized to be related to region,
+status and distance from the central city. Sta-
+hura and Marshall (1982) have shown that re-
+gional differences in annexation exist (more in
+south and west) and that high status suburbs are
+also more likely to annex than are low status
+suburbs. Suburbs which are further from the
+central city are also more likely to annex given
+that they are less likely to be bounded by de-
+veloped land and/or incorporated cities.
+
+Finally, the 1950 indicators of suburban de-
+velopment (area, population, jobs) are hypoth-
+esized to be highly related to the 1960 values.
+Previous studies have demonstrated the per-
+sistence of such characteristics (e.g. Guest,
+1978; Stahura, 1978; 1979, 1982; Stahura and
+Marshall, 1982) and there is no reason to an-
+ticipate otherwise. More importantly, the
+character of suburbanization did not change
+during the decade so as to alter the ranking of
+suburbs with respect to size, area and job con-
+centration; growing suburbs continued to grow
+rapidly while stagnant suburbs showed little
+growth.
+235) which provided direct home-ownership
+subsidies to low-income families. Title 235 and
+its companion Title 236 program (rent subsidies
+to low-income families) provided the economic
+resources to low-incime families to obtain the
+housing made available by the Federal Housing
+legislation. Black expectations were rising as
+the Civil Rights movement challenged every
+form of institutionalized racism.
+
+Rising black expectations, however, were
+short-circuited to some degree. The gains made
+in federal legislation had little effect on exclu-
+sionary zoning practices of white suburbia.
+Zoning originated from enabling acts passed by
+State legislatures, and challenges to exclusion-
+ary zoning were rarely heard in Federal courts.
+Through the mid-1960s, legal decisions on local
+zoning strongly supported suburban
+exclusionism (for a review see Babcock, 1973;
+Masotti and Hadden, 1974; Platt, 1976; and
+Williams, 1978). The rising expectations were
+also frustrated by the continuation of discrimi-
+nation, especially in housing and education.
+This frustration lead to greater militancy
+(Williams, 1965; Lieberson and Silverman,
+1965) during the middle and late 1960s which
+took the form of widespread urban unrest.
+
+Suburbanization of population and economic
+activities continued during the 1960s. Popula-
+tion movement remained high but held a
+somewhat slower pace than in the 1950s (Mul-
+ler, 1981) while the suburbanization of eco-
+nomic activities began to accelerate. The de-
+mands for new housing remained high; massive
+suburban shopping malls were supplanting
+CBD retailing; and manufacturing began to
+leave central city areas for cheaper, available
+fringe land with lower tax rates. Suburbs con-
+tinued to endorse population and job growth as
+avenues to development.
+
+Spurred by the Civil Rights legislation and
+subsidy programs, larger numbers of blacks
+began to move to the suburbs (e.g. Connolly,
+1973), though to those that already contained
+black populations (e.g. Marshall and Stahura,
+1979a, Schnore et al., 1976). Despite the con-
+tinuing propensity to move to black fringe
+towns, satellites and ghettoized ‘spillover’
+black suburbs, there also developed a new
+“leapfrog” type of ghettoized suburb (iden-
+tified by Rose, 1972) located in white areas
+beyond the spillover ghettoes. These “‘leap-
+frog” suburbs contained less desirable housing
+(than adjacent areas) for which white demand
+had declined. Blacks were being allowed into
+some white suburbs because of the lowering
+white demand for the older housing, because
+of the changing civil rights climate, and be-
+cause of the spectre of civil unrest.
+
+As a result of these trends, 1960 percent
+black is hypothesized to be highly related to
+1970 percent black, but to a lesser extent than
+in the 1950s, since some previously white sub-
+urbs experienced black population growth. The
+remaining determinants of black change are
+also hypothesized to have changed during the
+1960s in that black growth, even though still
+primarily centered in older, lower-status,
+larger suburbs with low job concentrations,
+also was occurring in the newly “pioneered”
+suburbs whose characteristics may or may not
+match those of the other suburbs with black
+populations. Some change in the effects of age,
+status, etc. on black growth is therefore antici-
+pated. Given that 1960 percent black is hy-
+pothesized to explain less of the variance in
+1970 percent black than during the 1950s, the
+remaining determinants of change have more
+residual variance to explain—hence their ef-
+fects should be somewhat larger than for the
+1950s. In addition, it is hypothesized that per-
+cent black continued to be negatively related to
+suburban development in that black suburbs
+were still being bypassed by job expansion and
+population growth. Finally, the 1960 indicators
+of suburban development (area, jobs, popula-
+tion) are again expected to be highly correlated
+to 1970 levels, and the determinants of change
+in development during the 1960s should be
+similar to those-of the 1950s.
+black residency (using suburbs in this analysis
+as the data base). As white suburbanization
+diminished, black suburbanization and job
+suburbanization increased.
+
+The Civil Rights movement during the 1970s
+can be characterized as a period of retrench-
+ment and consolidation (Pettigrew, 1980:
+314-19). The momentum towards change pro-
+duced by the legislative successes of the 1960s
+and the pressure created by black activism was
+short-circuited by the social movement against
+the Viet Nam War and the assassination or
+imprisonment of many black leaders (Parrillo,
+1985:332). As a result few major pieces of Civil
+Rights legislation were produced during the
+1970s and, in fact, a number of legislative set-
+backs occurred. Federal judicial actions of the
+1970s generally upheld the Civil Rights gains of
+the 60s, but the executive branch of govern-
+ment, especially the Nixon administration,
+began to erode the gains with Congressional
+action. For example, the Title 235 and 236 sub-
+sidy acts (1968) were gutted by 1974, due to
+severe cutbacks in funds.
+
+Setbacks also occurred in the legislative fight
+to “open up” white suburbia. The apparent
+demise of exclusionary zoning due to the 1975
+Mount Laurel, New Jersey, decision (see Rose
+and Rothman, 1977) was a hollow victory for
+the Civil Rights movement in that later legisla-
+tion diluted the decision to make it applicable
+only to cities that were not already built up as
+single-family residential areas. Moreover, with
+the decline in public funds for the subsidy of
+low-income housing, suburban development of
+low-income housing was not likely to occur,
+given that this type of construction is usually a
+losing proposition to private builders. What-
+ever progress was achieved by the Mount
+Laurel Decision was more than negated by the
+Petaluma, California, decision (Fosburgh,
+1975) which legitimized the suburb’s use of
+zoning to limit new housing construction. The
+Petaluma decision gave developed suburbs a
+mechanism to continue to exclude blacks and
+other groups at the price of restricting growth.
+Several other decisions concerning Hartford,
+Connecticut (see Fellows, 1975; 1976) and
+Chicago (especially Hills vs. Gantreauz, 1976)
+also failed to force suburbs to accept lower-
+income housing.
+
+Given the continuance of exclusionary zon-
+ing and the retrenchment in the Civil Rights
+movement, the best predictor of 1980 percent
+black should be 1970 percent black; the re-
+lationship should be larger than that for the
+1960s. The 1970 ranking of suburbs in terms of
+percent black should be relatively unchanged
+in 1980 in that few, if any, new suburbs were
+opened to black occupancy. The “leapfrog”
+pattern of black suburbanization (Rose, 1972)
+of the 1960s did not continue into the 1970s.
+The effects of the other determinants of black
+change should also have changed. Given that
+percent black is hypothesized to become a
+more important determinant of black change,
+the remaining determinants of black growth
+(age, status, area, etc.) should become less im-
+portant, given the more restricted residual
+variance in 1980 percent black. Also, since few
+new suburbs have been opened to blacks, the
+nature of the relationship (sign directions) be-
+tween age, status, and black change should
+remain the same as for the 1960s.
+
+The relationships between 1970 measures of
+area, population size and job concentration and
+1980 measures are also hypothesized to have
+changed. Given the increased volume of job
+suburbanization and the decline in white sub-
+urbanization, the competition between suburbs
+for these resources has taken on a different
+character. As white, higher status migrants be-
+came scarcer, some suburbs were not able to
+maintain the same growth rate as previous dec-
+ades, while they continued to exclude blacks.
+Hence, some shift in the ranking of suburbs in
+terms of population growth is likely to have
+occurred. With the increase in the volume of
+job suburbanization, suburbs that could not
+previously compete successfully for these jobs
+were now in a position to benefit from the more
+selective development policies (growth caps
+and exclusion of nondesirable industries) being
+adopted by higher status suburbs. In fact, the
+conditions of the 1970s have given rise to a
+movement toward policies of restricted growth
+(e.g. Molotch, 1976). As a result, job growth
+should be affecting a broader spectrum of
+suburbs than in previous decades, producing a
+change in the ranking of suburbs in terms of job
+concentration.
+
+The role of percent black in suburban devel-
+opment is hypothesized to have also changed.
+With the increase in the volume of black sub-
+urbanization, percent black may now (com-
+pared to the 50s and 60s) have a positive effect
+on the suburb’s overall population growth. In
+addition, some of these “black” suburbs may
+also have benefited from the deflection of less
+desirable economic activities from the more
+selective suburbs. Given the movement
+towards growth caps, especially by higher-
+status suburbs, percent black may no longer be
+detrimental to job growth. Specifically, percent
+black is hypothesized to be either positively
+related or unrelated to suburban development
+compared to the negative relationship of previ-
+ous decades.
+is estimated for the 1950s, 1960s, and 1970s
+using maximum likelihood techniques (Jores-
+kog and Sorbom, 1978). The estimated models
+are then compared across decades. Ordinary
+least-squares techniques can be used to esti-
+mate the models and, in fact, yield quite similar
+results to the estimates reported in Table 1.
+However, LISREL was chosen as the statisti-
+cal technique for two reasons: the procedure
+used to compare the models necessitates the
+use of LISREL and correlated residuals, and
+model fit parameters are generated as standard
+output in LISREL. The sample sizes for each
+individual decade analysis are 426 for 1950—
+1960; 826 for 1960-1970; and 1163 for the
+1970-1980 analysis. For the comparisons be-
+tween models, for the 1950-1960 model to
+1960-1970, and 1970-1980 data, the sample
+size is 426. For the comparison of 1960-1970
+model to 1970-1980 data, the sample size is
+826. A suburb is defined as an incorporated
+place of at least 10,000 population size located
+within the bounds of a metropolitan area, but
+outside its central city. The samples for each
+decade comprise all cities that meet the defi-
+nitional criteria. The operationalizations of the
+variables, means, and standard deviations are
+presented in Appendix A.
+During the 1970s, the rankings of suburbs
+with respect to population, area and job con-
+centration shifted substantially, i.e., a signifi-
+cant number of suburbs either grew or de-
+clined at a faster pace than in previous dec-
+ades. However, contrary to the earlier argu-
+ment, some of the change resulted from an
+unexpected source, that is, higher status sub-
+urbs were the suburbs that exhibited the
+greatest population and job growth during the
+1970s (see columns 7 and 8, row 12 for the
+1970-1980 model). It was expected that the
+movement towards growth controls (Molotch,
+1976) and the continuation of exclusionary
+zoning among higher-status suburbs would
+have allowed lower status suburbs to begin to
+develop. However, higher-status suburbs con-
+tinued to disproportionately benefit from
+growth, creating greater status differentials
+between suburb. Logan (1976; 1978) and espe-
+cially Logan and Schneider (1981b) have dem-
+onstrated that the stratification between sub-
+urbs has indeed increased. What is most in-
+teresting is that the disproportionate growth of
+high-status suburbs is a more pronounced phe-
+nomenon during the 1970s in that status had
+only small positive effects on population
+growth and small negative effects on job
+growth during the 1950s and 1960s.
+
+It may be that a singificant proportion of
+high-status suburbs have aged to a point in
+their life cycles where transition is beginning to
+occur in the form of status downgrading and
+slowing growth (see Hoover and Vernon, 1962;
+Choldin, et al, 1980). In attempting to negate
+the negative effects of status downgrading and
+growth decline on tax revenues and to maintain
+their advantaged positions vis-a-vis other sub-
+urbs, some higher-status suburbs have begun
+to actively seek out higher-status migrants
+(perhaps even blacks) and businesses/
+industries. This change in pattern of develop-
+ment is reflected in the data in Table 1. Age
+was negatively related to population growth in
+the 1950s and 1960s but turned slightly positive
+PSI .09 ST 99 -88 24 22 54 7
+R? 10 43 01 12 716 -78 -46 -83
+
+CHI-SQUARE = 4.6495 w/19 df Probability Level = .9997
+1960-1970 Model (N = 826) DEPENDENT VARIABLES
+
+AREA, 60 POP, 60 JOBS,60 BLACK,60 AREA,70  POP.70 JOBS,70 BLACK, 70
+
+AREA, 60 = 26 00 ~.07 : 08 06
+POP, 60 _ _ -.1 00 <.02
+JOBS, 60 = = = .00
+BLACK, 60 = _ ~ _
+
+ 
+
+ 
+
+AREA, 70 _— _ — _
+Table 1. Standardized Maximum Likelihood Estimates (LISREL) of the Decade Models of Black Subur-
+banization and Development!
+
+1950-1960 Model (N = 426) DEPENDENT VARIABLES
+AREA, 50 POP, 50 JOBS, 50 BLACK,50 AREA,60 POP,60 JOBS,60 BLACK, 60
+
+AREA, 50 — 08 -00 —.14 —.07
+POP, 50 _- _— -00 -00
+JOBS, 50 _ _ _ -00
+BLACK, 50 — _— — —
+
+ 
+
+ 
+
+AREA, 60 — _ _
+during the 1970s, while age was positively re-
+lated to job growth during the 1950s and 1960s
+but was not related to job growth during the
+1970s (see columns 6, 7, row 9 in the three
+panels of Table 1). Higher-status suburbs have
+begun to turn to job growth as an avenue of
+development.
+
+The stability coefficients for percent black
+changed across the decades in the anticipated
+pattern. The 1950s and 1970s were similar in
+that little change occurred in the ranking of
+suburbs in terms of percent black, indicating
+few suburbs changed in their black growth
+pattern. During the 1960s, as hypothesized,
+significant change occurred in the stability
+coefficient in that a number of suburbs changed
+their black growth pattern. The improving
+race-relations climate opened some previously
+all-white suburbs to blacks, but as Rose (1972)
+has noted, these places tended to be lower-
+status areas where white demand for housing
+had declined. Nevertheless, some improve-
+ment was noted during the 1960s in that the
+increase in the volume of black migration
+(Connolly, 1973) was paralleled by a positive
+change in the black settlement pattern (more
+suburbs with black populations). However, as
+the high stability coefficient indicates, the
+trend towards wider dispersal did not continue
+into the 1970s despite the increase in black
+suburbanization during the decade.
+
+The changes in the remaining determinants
+of black growth also conformed to the pre-
+dicted pattern. It was hypothesized that the
+determinants of black growth (age, region,
+distance, status, area, population size and job
+concentration) would account for more of the
+variance in black growth during the 1960s than
+during the 1950s or 1970s. Separate multiple
+regression analyses indicated that the determi-
+nants of black change (age, region, etc.) ac-
+counted for more of the variance in black
+growth during the 1960s than for the 1950s and
+1970s.5 In addition, it was also demonstrated
+that the block of change determinants signifi-
+cantly improved in R? in each decade equation.
+
+Turning to the individual determinants of
+black growth, most were found to be small in
+magnitude, though a number were statistically
+significant (all non-zero coefficients reported in
+Table 1 are statistically significant at the .05
+level). In addition, some of these effects were
+found to vary across the decade models as
+hypothesized. Considering first the effects of
+the endogenous variables on black growth,
+area was predicted to be positively related to
+black growth. The hypothesis, however, was
+only supported by data from the 1950s. In the
+1960s and 1970s larger suburbs experienced
+slower black population growth. Apparently
+those suburbs with the resources (land area) to
+accommodate expansion and diversity in
+population and function did not include blacks
+in their development plans. Despite a small
+decline in magnitude, population size exerted
+the expected positive effect on black growth in
+each decade. Suburban job concentration was
+hypothesized to be negatively related to black
+change, but the expected effect was only pre-
+sent during the 1950s. The effect of job con-
+centration on black growth was not statistically
+significant during the 1960s and 1970s.
+
+The effects of the exogenous variables on
+black growth also changed in magnitude and
+direction across the decades. Of particular
+interest are changes in the effects of age and
+socioeconomic status on black growth. The
+effect of age on black growth during the 1950s
+was negative, became positive during the
+1960s, but was not significant during the 1970s.
+Black growth is no longer concentrated in older
+suburbs. That is, black populations in newer
+suburbs are now growing at the same rate. Also
+of importance is the change in the effect of
+socioeconomic status on black growth across
+the decades. During the 1950s and 1960s black
+growth was negatively related to status as hy-
+pothesized, but during the 1970s the relation-
+ship changed to positive. Black growth has
+shifted from lower-status suburbs to higher-
+status suburbs. This finding does not mean that
+black growth in the older, lower-class suburb
+with black populations has stopped. What is
+most likely is that ‘token’ black populations
+that exist in a significant number of predomi-
+nately white, higher-status suburbs are grow-
+ing at a more rapid pace than those in lower-
+status suburbs with larger black populations.
+The bulk of black growth continues to be cen-
+tered in suburbs with large black populations.
+
+There were also significant changes in the
+effects of black suburbanization on suburban
+development (change in size, population and
+job concentration), especially during the 1970s.
+Evidence supporting the hypothesis that per-
+cent black hinders suburban development is
+found for the 1950s and 1960s (see horizontal
+boxes in Table 1). Percent black is negatively
+related to population growth in both decades,
+while its effects on job growth were essentially
+zero. Percent black had a significant effect on
+land change (annexation) in the 1950s but this
+effect disappeared in the 1960s. The overall net
+effect of black suburbanization on suburban
+development was negative or neutral at best
+before 1970. During the 1970s, however, the
+effect of percent black on suburban develop-
+ment changed radically in that percent black
+emerged as a positive determinant of popula-
+tion, areal and job growth. Suburbs with black
+populations began to develop disproportion-
+ately in relation to other suburbs. Apparently
+some of the benefits of life in suburbia have
+begun to spill over into the older, lower-status
+residential areas with black populations. The
+population growth that is occurring may be due
+primarily to black population growth, and the
+job increase may be centered within those less
+desirable activities that have been deflected
+from white, higher-status suburbs. The net ef-
+fect on black suburbs, however, should be
+positive in terms of the strengthening of the tax
+base.
+
+The changes in the determinants of black
+growth and suburban development depicted in
+Table 1 were assumed to be statistically signifi-
+cant. A formal test is made by comparing each
+decade model with each other (SOs with the
+60s, 60s with the 70s, and 70s with the 80s) by
+utilizing incremental fit (or in this case, de-
+crease in fit) techniques developed by Bentler
+and Bonett (1980). An analysis reported in
+the 1960s correlations and then the 1970s correla-
+tions (in each case, the correlations are best on the
+same cohort of suburbs, unlike the analyses in the
+previous section). The generated fit (chi-square) of
+the 1950s model to the 1960s data can then be com-
+pared to the fit parameters for the null model. To the
+extent that the fit of the new model digresses from
+the null model, differences between the models can
+be assumed.
+
+In Appendix B are reported the results of the
+model comparisons. The first panel (Model Test)
+includes the results of the application of null models
+(best fitting decade models) to correlations from suc-
+ceeding decades. Models Mo, M, and Mp represent
+the fit statistics for the null models, i.e., Mo is the
+best-fitting 1950s model, M, is the best-fitting 1960s
+model and Mp is the best-fitting 1970s model. Models
+Mg and M, represent the comparisons between the
+1950s model to the 1960s and 1970s models. Consid-
+ering Ms, where the Mo structure (1950s) is fit to
+1960s data, the chi-square value is 57.4098 compared
+to a best-fitting 1950s model value of 4.6495. Consid-
+ering Ma, where the Mb structure (1960s) is fit to the
+1970s data, the chi-square value is 109.9028 com-
+pared to a best-fit 1950s value of 4.6495. The 1950s
+model is more similar to the 1960s model than it is to
+the 1970s model—the same conclusion drawn by the
+analysis in the previous section. Finally, considering
+the M, model where the M, structure (1960s) is fit to
+the 1970 data, the chi-square value is 121.511 com-
+pared to a best fit value (1960s) of 3.4034. The 1960s
+model is quite different from the 1970s model. The
+formal comparisons between the models are made in
+the second panel of Table 2 (Model comparisons)
+where the Bentler-Bonett (1980) incremented fit in-
+dices (A's) are presented. In each comparison, each
+models appears to be a significant digression from
+the null (best-fitting) models.
+black populations in 1960 had black population
+growth during the 1960s. However, the trend of
+the 1960s did not continue into the 1970s
+(BETA increased from .76 to .88). The court
+cases of the 1970s (especially the Petaluma,
+California decision) and the general retrench-
+ment of the Civil Rights movement were clear
+enough signals to suburbs that there were legal
+and popular bases for excluding blacks and
+other populations, whereas the initial legisla-
+tive successes and activist pressures during the
+1950s and 1960s might have encouraged or in-
+timidated some suburbs in their open housing
+policies. The historical parallels drawn be-
+tween the course of the Civil Rights movement
+and the ecological process of black suburbani-
+zation do not represent causal connections but
+are, nevertheless, highly suggestive of possible
+relationships between broad political and so-
+cial movements and the ecological structure of
+metropolitan America. Simkus (1978) similarly
+argues that the modest reductions in the segre-
+gation of blacks and whites by occupational
+group during the 1960s could be accounted for
+by the changing societal race-relations climate.
+
+Logan (1976; 1978) has argued that suburbs
+are political ‘“‘actors” which have some degree
+of control over how a suburb develops, i.e.,
+political factors operate in conjunction with
+and perhaps as a cause of ecological processes.
+In fact, Logan (1978) argues that the spatial
+distribution of population can be seen as an
+outcome of political processes. In the present
+case, suburbs appear to have the ability to ac-
+celerate or retard the invasion—succession pro-
+cess (ecological model most frequently used to
+explain black change) by changing local growth
+and development policies as dictated by the
+larger societal trends.
+
+The stability coefficients for suburban de-
+velopment also changed substantially during
+the past three decades. During the 1970s sig-
+nificant changes in the rankings of suburbs
+with respect to population size, area and job
+concentration occurred. As smaller, higher-
+status suburbs began to ‘age’ and undergo
+status downgrading and growth slowdown,
+eroding tax bases were bolstered by promoting
+economic development and population growth.
+This process is especially evident in an exami-
+nation of the changes in the effects of status on
+population, areal and job growth between the
+1950s and 1960s and the 1970s. During the
+1950s and 1960s suburban status was negatively
+related to job growth and had weak or no effect
+on population growth. During the 1970s subur-
+ban status became positively related to both
+population and job growth. This 1970s pat-
+tern is consistent with Logan’s (1976; 1978)
+argument that high-status suburbs solidify their
+comparative advantage in relation to other
+suburbs by promoting local industrial/business
+development (usually accompanied by popula-
+tion growth). By fueling population growth
+with employment expansion, these formerly
+small high-status suburbs may have begun to
+lose their ability to control their population
+composition by becoming too large and by
+having an increasing multiplicity of community
+interest groups that began to influence deci-
+sions concerning local land use. Because of
+increasing scale, furthermore, a few realtors no
+longer could control the entire suburban hous-
+ing market. As a result, blacks began to filter
+into these areas as restrictions on land use
+were relaxed and as job opportunities began to
+increase (consistent with the positive effect of
+status on black growth). It appears that some
+higher-status suburbs that previously had
+“token” black populations were experiencing
+black growth as an unanticipated by-product of
+these suburbs’ attempts to maintain their ad-
+vantageous position vis-a-vis other suburbs
+through local job expansion and population
+growth.
+
+In addition, during the 1970s, suburbs with
+large black population began to grow in popu-
+lation size, area and job concentration. The
+overall population growth of black suburbs is
+probably due to an increase in the volume of
+black suburbanization, while job expansion is
+probably due to the spillover or deflection of
+less desirable activities from other white,
+higher-status suburbs. Despite the continua-
+tion of the general practice of exclusionism and
+the prospect of continued segregation of blacks
+in the fringe, the positive effects of percent
+black on development and the emergence of a
+positive effect of status on black growth indi-
+cate that economic conditions in black suburbs
+will improve; population growth and job
+growth usually result in status upgrading (e.g.
+Guest, 1978).
+. Status is measured as the percent of the suburban
+population with 12 or more years of formal edu-'
+cation in 1950. Data were obtained from the Cen-
+sus of Population. X = 43.35, S.D. = 2.55.
+
+. Area is measured as the number of square miles.
+Data were taken from County and City Data
+Books. X = 8.09, S.D. = 7.87 (1950); X = 8.13,
+S.D. =_8.85 (1960); X = 10.19, S.D. = 13.76
+(1970); X = 11.68, S.D. = 20.09 (1980).
+
+. Population size is taken from the Census of
+Population. X = 20,073.49, S.D. = 19854.97
+(1950); X = 27258.24, S.D. = 20369.55 (1960); xX
+= 33413.61, S.D. = 24475.13 (1970); X =
+36878.46, S.D. = 54903.99 (1980).
+
+. Jobs is measured by the employment/residence
+ratio which is the ratio of the number of jobs in
+retailing, wholesaling, manufacturing and ser-
+vices in a suburb divided by the number of local
+residents who are employed in the same occu-
+pations. The data are taken from the Municipal
+Yearbooks and the 1980 Census of Population. X
+= 83.01, S.D. = 100.23 (1954); X = 89.99, S.D. =
+79.93 (1958); X = 90.77, S.D. = 70.48 (1967); X =
+98.16, S.D. = 48.12 (1977).
+
+. Black is the suburban percent black. Taken
+from the Census of Population. X = 4.02,
+S.D. =_8.10 (1950); X = 4.21, S.D. = 9.10
+(1960); X = 4.79, S.D. = 10.37 (1970); X =
+7.20, S.D. = 14.29 (1980).
+Louis H. Masotti and Jeffrey K. Hadden. Beverly
+Hills: Sage, Urban Affairs Annual Review.
+
+Babcock, Richard F. and Fred P. Bosselman. 1973.
+Exclusionary Zoning: Land Use Regulation and
+Housing in the 1970's. New York: Praeger.
+
+Bentler, P. M. and Douglas Bonett. 1980.
+“Significance Tests and Goodness of Fit in the
+Analysis of Covariance Structures.” Psychologi-
+cal Bulletin 88:588-606.
+
+Bohrnstedt, George. 1969. “Observations on the
+Measurement of Change.’ Pp. 113-33 in
+Sociological Methodology, edited by Edgar Bor-
+gatta. San Francisco: Jossey-Bass.
+
+Choldin, Harvey M., Claudine Hanson and Robert
+Bohrer. 1980. ‘‘Suburban Status Instability.”
+American Sociological Review 45:972-83.
+
+Connolly, Harold. 1973. “Black Movement into
+Suburbs: Suburbs Doubling Their Black Popula-
+tions During the 1960's.” Urban Affairs Quarterly
+9:91-111.
+
+Farley, Reynolds. 1970. ‘The Changing Distribution
+of Negroes within Metropolitan Areas: The
+Emergence of Black Suburbs.” American Journal
+of Sociology 75:512-29.
+
+Fellows, Lawrence. 1975. ‘Hartford Battles Suburbs
+for Federal Aid.” The New York Times, November
+17:33, 51.
+
+. 1976. “Hartford Blocks Aid for Suburbs.”
+The New York Times, January 19:1, 58.
+
+Fosburg, Lacey. 1975. ‘Coast City Upheld on Broad
+Growth Curbs.” The New York Times, August
+17:36.
+
+Guest, Avery. 1978. “Suburban Social Status: Per-
+sistence or Evolution?” American Sociological
+Review 43:251-64.
+
+. 1979, “Patterns of Suburban Growth, 1970-
+1975.” Demography 16:401-15.
+
+Hoover, Edgar M. and Raymond Vernon. 1962.
+Anatomy of a Metropolis. New York: Anchor
+Books.
+
+Jackson, Kenneth T. 1973. “The Crabgrass Frontier:
+150 Years of Suburban Growth in America.” Pp.
+196-221 in Urban Experience: Themes in Ameri-
+can History, edited by Raymond A. Mohl and
+James F. Richardson. Belmont, CA: Wadsworth
+Publishing.
+
+Joreskog, Karl G. and Dag Sorbom. 1978. LISREL
+IV User's Guide. Chicago: International Educa-
+tion Services.
+
+Kerlinger, Fred N. and Elazar E. Pedhazur. 1973.
+Multiple Regression in Behavioral Research. New
+York: Holt, Rinehart and Winston.
+
+Laska, Shirley B. and Daphne Spain (eds.). 1980.
+Back to the City. New York: Pergamon.
+
+Lieberson, Stanley and Arnold R. Silverman. 1965.
+“The Participants and Underlying Conditions of
+Race Riots.” American Sociological Review
+30:887-98.
+
+Logan, John R. 1976. *Industrialization and Stratifi-
+cation of Cities in Suburban Regions.” American
+Journal of Sociology 82:333-48.
+
+. 1978. “Growth, Politics and the Stratifica-
+tion of Places.” American Journal of Sociology
+84:404-16.
+
+Logan, John R. and Mark Schneider. 1981a. *Subur-
+ban Municipal Expenditure: The Effects of Busi-
+ness Activity, Functional Responsibility and Re-
+gional Context.’ Policy Studies Journal
+
+9:1039-50.
+
+. 1981b. “The Stratification of Metropolitan
+
+Suburbs, 1960-1970.” American Sociological Re-
+
+view 46:175-86.
+
+. 1984. “Racial Segregation and Racial Change
+in American Suburbs.” American Journal of
+Sociology 89:874—-88.
+
+Marshall, Harvey H. and John M. Stahura. 1979a.
+“Determinants of Black Suburbanization: Re-
+gional and Suburban Size Category Patterns.”
+Sociological Quarterly 20:237-53.
+
+. 1979b. “Black and White Population Growth
+in American Suburbs: Transition of Parallel De-
+velopment?” Social Forces 58:305-28.
+
+Masotti, Louis H. and Jeffrey K. Hadden (eds.).
+1974. Suburbia in Transition. New York: New
+Viewpoints, from the New York Times.
+
+Molotch, Harvey. 1976. ‘The City as a Growth Ma-
+chine: Toward a Political Economy of Place.”
+American Journal of Sociology 82:309-32.
+
+Muller, Peter O. 1981. Contemporary Suburban
+America. Englewood Cliffs, NJ: Prentice-Hall.
+
+Nelson, Kathryn P. 1978. “Movements of Blacks
+and Whites between Central Cities and Suburbs
+in 11 Metropolitan Areas, 1955-1975." Annual
+Housing Survey Working Paper no. 2. Washing-
+ton, D.C.: U.S. Department of Housing and Urban
+Development, Office of Economic Affairs.
+
+. 1980. “Recent Suburbanization of Blacks:
+How Much, Who, Where” prepared for the Office
+of Economic Affairs, U.S. Department of Housing
+Development, Washington, D.C.
+
+Parrillo, Vincent. 1985. Strangers to these Shores.
+2nd ed. New York: Wiley.
+
+Pettigrew, Thomas F. (ed.). 1980. The Sociology of
+Race Relations. New York: Free Press.
+
+Platt, Rutherford H. 1976. Land Use Control: Inter-
+face of Law and Geography. Washington, DC:
+Association of American Geographers, Resource
+Papers for College Geography, no. 75-1.
+
+Rose, Harold M. 1972. ‘The All Black Town: Sub-
+urban Prototype or Rural Slum?” in People and
+Politics in Urban Society, edited by Harlan Hahn.
+Beverly Hills: Sage. Urban Affairs Annual Review
+6:397-431.
+
+Rose, Jerome and Robert E. Rothman (eds.). 1977.
+After Mount Laurel: The New Suburban Zoning.
+New Brunswick, NJ: Center for Urban Policy Re-
+search, Rutgers University.
+
+Schneider, Mark and John R. Logan. 1981. “Fiscal
+Implications of Class Segregation: Inequalities in
+the Distribution of Public Goods and Services in
+Suburban Municipalities.” Urban Affairs Quar-
+terly 17:23-36.
+
+Schnore, Leo, Carolyn Andre and Harry Sharp.
+1976. “Black Suburbanization, 1930-1970." Pp.
+69-94 in The Changing Face of the Suburbs,
+edited by Barry Schwartz. Chicago: University of
+Chicago Press.
+
+Simkus, Albert. 1978. “Residential Segregation by
+Occupation and Race in Ten Urbanized Areas,
+1950-1970." American Sociological Review
+43:81-93.
+
+Singleton, Gregory H. 1973. ‘The Genesis of Subur-
+bia: A Complex of Historical Trends.” Pp. 29-50
+in Urbanization of Suburbs, edited by Louis H.
+Massatti and Jeffrey K. Hadden. Beverly Hills:
+Sage, Urban Affairs Annual Review, Vol. 7.
+
+Sly, David F. and Jeff Tayman. 1980a. ‘‘Metropoli-
+tan Morphology and Population Mobility: The
+Theory of Ecological Expansion Reexamined.”
+American Journal of Sociology 86:1119-37.
+
+. 1980b. “Changing Morphology and Munici-
+pal Service Expenditures in Cities and Rings.”
+Social Science Quarterly 61:595-611.
+
+Sobel, Michael and George Bohrnstedt. 1985. “The
+Use of Null Models to Evaluate the Fit of
+Structural Equation Models.” Forthcoming in
+Sociological Methodology. San Francisco: Jossey
+Bass.
+
+Stahura, John M. 1978. “The Evolution of Suburban
+Functional Roles.” Pacific Sociological Review
+21:423-39.
+
+———. 1979. *‘Suburban Status Evolution/
+Persistence: A Structural Model.” American
+Sociological Review 44:937-47.
+1982. “Determinants of Suburban Job
+Change in Retailing, Wholesaling, Service and
+Manufacturing Industries, 1960-1972.” Sociologi-
+cal Focus 15:347-57.
+
+. 1983. ‘Determinants of Change in the Distri-
+bution of Blacks Across Suburbs.” Sociological
+Quarterly 24:423-33.
+
+Stahura, John M. and Harvey H. Marshall. 1982.
+“The Role of Annexation in the Growth of Ameri-
+can Suburbs.” Sociological Focus 15:15—24.
+
+U.S. Bureau of Census. 1973. Census of Population,
+1970. Selected Area Reports: SMSA’s Social and
+Economic Data for Persons in SMSA’s by Resi-
+dence Inside or Outside Central Cities, Final Re-
+port PC (3)-ID.
+
+Williams, Robin Jr. 1965. ‘Social Change and Social
+Conflict: Race Relations in the United States,
+1944-64.” Sociological Inquiry 35:20-24.
+
+Williams, Roger M. 1978. “‘The Assault on Fortress
+Suburbia: How Long Can the Poor be Kept Out?”
+Saturday Review, Feb. 18:17-24.

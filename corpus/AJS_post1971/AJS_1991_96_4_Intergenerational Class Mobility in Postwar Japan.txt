@@ -1,0 +1,1272 @@
+Intergenerational Class Mobility in Postwar Japan
+
+Author(s): Hiroshi Ishida, John H. Goldthorpe and Robert Erikson
+
+Source: American Journal of Sociology, Vol. 96, No. 4 (Tan., 1991), pp. 954-992
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2780737
+
+Accessed: 08-06-2016 04:01 UTC
+1 An earlier version of this paper was presented at the meeting of the Research Com-
+mittee on Social Stratification, International Sociological Association, Berkeley, Cali-
+fornia, August 1987. This research was, in part, supported by grants of the Stiftung
+Volkswagenwerk, Hannover, to the CASMIN project. For helpful comments on ear-
+lier versions of this paper, we are indebted to Ronald Dore, Takeshi Inagami, Harold
+Kerbo, Walter Korpi, Carl le Grand, Yoshiaki Nishida, Sawako Shirahase, Ken’ichi
+Tominaga, Wout Ultee, participants in the seminar at the Nissan Institute of Japanese
+Studies, University of Oxford, England, and anonymous AJS referees. Requests for
+reprints should be sent to Hiroshi Ishida, Department of Sociology, Columbia Univer-
+sity, New York, New York 10027.
+
+© 1991 by The University of Chicago. All rights reserved.
+0002-9602/91/9604-0006$01.50
+nations do differ appreciably in the amount and pattern of their intergen-
+erational social mobility if this mobility is considered (as it was by these
+authors) at the “phenotypical” level of absolute rates—that is, of inflow,
+outflow, or total rates calculated in percentage terms from the standard
+mobility table.
+
+ii) A basic cross-national similarity can, however, be detected if inter-
+generational mobility is considered rather at the “genotypical” level of
+relative rates, as expressed by odds ratios implicit in the mobility table,
+which show the pattern of association between “origins” and “destina-
+tions” or, alternatively, the relative chances of individuals of differing
+origins subsequently being found at different destinations.’
+
+The main argument that underlies the FJH hypothesis could be stated
+as follows. Absolute mobility rates are influenced—via the marginal dis-
+tributions of the mobility table—by social structural changes, and indeed
+by a range of other factors, which can be regarded as exogenously deter-
+mined so far as particular individuals and families are concerned. Thus,
+since such factors will tend to be cross-nationally highly variable in their
+effects—in consequence, for example, of major differences in national
+economic and political histories—a corresponding degree of variation is
+likely to be observed in absolute rates. In contrast, relative rates are
+assessed net of all such exogenous effects and are influenced only by those
+factors operating within a society to create differences in mobility chances
+as between individuals of differing origin. If, then, it is the case, as FJH
+would believe, that industrial societies show a basic similarity in their
+patterns of socioeconomic inequality—as indicated, for example, in the
+ordering of occupational hierarchies and in the distribution of income and
+other resources within them—this similarity should in turn be reflected in
+relative rates or, as FJH express it, in “endogenous mobility regimes.”
+
+To operationalize the distinction between absolute and relative rates
+on which their hypothesis depends, FJH treat a set of cross-nationally
+comparable mobility tables as constituting a single three-way contingency
+table of origin (O) with J categories, destination (D) with J categories J
+= I), and nation (NV) with K categories. They then represent their hypoth-
+esis of similarity in relative rates by the multiplicative model:
+sent the “main” effects Hot origin, destination, and nation. The following
+two-way terms (79, 7o%, 7) represent the association between origin
+and destination, origin and nation, and destination and nation, respec-
+tively. The fact that the model does not contain the one possible three-
+way term, 9%, implies that OD will not vary with N; or, in other words,
+that, under the model, the odds ratios defining the OD association will
+be identical from one nation to another.
+
+However, the FJH hypothesis may not be most usefully construed in
+the strict sense represented by the model of equation (1)—which, not
+surprisingly, perhaps, has rarely given an entirely satisfactory fit to em-
+pirical data. The model does not in fact correspond to the hypothesis in
+its verbal formulation, in which only a “basic” similarity in relative rates
+is claimed (Featherman, Jones, and Hauser 1975, p. 340) and not the
+complete similarity that the model entails. One can, we believe, construe
+the hypothesis in a weaker, yet still meaningful sense as claiming that
+across industrial societies there prevails a common or “core” pattern of
+relative rates—or, as we would wish to say—of social fluidity, so that
+even where cross-national differences do appear, they are still better
+understood as variations on this common theme rather than, say, as
+constituting a set of distinctive types of fluidity.
+
+Working within the conceptual context of a class structure, Erikson
+and Goldthorpe (1987a, 1987b) have developed a model of such “core”
+fluidity and have applied this model to data on intergenerational mobil-
+ity—of a high standard of comparability—for seven Western and two
+Eastern European societies. The results thus obtained provide a measure
+of support for the FJH hypothesis, interpreted in the way we have sug-
+gested, in the following respects. (i) While statistically significant national
+deviations from core fluidity, as modeled, do in most cases show up, these
+deviations tend to be small relative to the extent of the cross-national
+commonality in fluidity patterns that is revealed.’ (ii) The effects identi-
+fied in the model as inhibiting or favoring intergenerational class mobility
+would appear to be cross-nationally present in creating this commonality,
+even if operating from one nation to another with differing force. (iii)
+The national deviations displayed are often not ones open to explanation
+in terms of macrosociological variables, by reference to which a system-
+atic typology of national fluidity patterns might in turn be constructed.
+The source of deviations from core fluidity that would appear to create
+greater difficulty for the FJH hypothesis is that of political intervention
+in the processes, or the outcomes of the processes, through which class
+inequalities in mobility chances are produced and intergenerationally sus-
+tained. But such intervention is itself highly variable, both in its objec-
+tives and in the degree of success that it achieves.*
+
+In this article, we have two, complementary aims. We seek, first, to
+extend these earlier analyses to the case of Japan and, in this way, to
+subject the FJH hypothesis to a further and, arguably, more demanding
+examination. Second, we wish to take the results we obtain as a basis
+for contributing to the now widely joined debate on the question of the
+“exceptionalism” or “peculiarity” of Japanese industrial society (for re-
+cent contributions, see Mouer and Sugimoto [1986]; and Dale [1986]).
+
+As the first nation outside the European cultural sphere to have
+reached the stage of “mature” industrialism, Japan represents an oppor-
+tunity to test all claims regarding “generic properties” of industrial soci-
+eties. And indeed such a test would seem all the more requisite in that
+two different arguments are extant that, while in large part opposed to
+each other, both lead to the conclusion that the FJH hypothesis will
+in fact have greater difficulty in accommodating the Japanese than the
+European experience.
+
+One of these two positions is well represented in the work of Nakane
+(1970). The general interpretation of contemporary Japanese society that
+Nakane offers is clearly intended as a critical alternative to that provided
+by Western, especially American, exponents of theories of modernization
+and of “convergent” industrialism. Nakane argues that many of the
+basic forms of traditional Japanese social structure have persisted in the
+course of industrialization and, indeed, have found new expression
+within an industrial context. Thus, she claims, in Japan the prevailing
+modes of group formation and group relations have always produced a
+society in which the dominant structural feature is “not that of horizontal
+stratification by class or caste but of vertical stratification by institution
+or group of institutions” (Nakane 1970, p. 87). In preindustrial Japan,
+the key institutions were those of the household (ie) and community; but
+at the present time the business enterprises, with their distinctive systems
+of “lifetime employment” and “company welfare,” have taken the lead-
+ing role in creating social identities and affiliations. “In Japanese society
+it is really not a matter of workers struggling against capitalists or manag-
+ers but of Company A ranged against Company B. The protagonists do
+not stand in vertical relationship to each other but instead rub elbows
+from parallel positions” (Nakane 1970, p. 87).
+It seems to follow that Western concepts of social stratification and
+hypotheses deriving from them are unlikely to be applied with much
+success to the Japanese case. As Nakane herself puts it: “Even if social
+classes like those in Europe can be detected in Japan, and even if some-
+thing vaguely resembling those classes that are illustrated in the textbooks
+of western sociology can also be found in Japan, the point is that in
+actual society this stratification is unlikely to function and that it does
+not really reflect the social structure” (1970, p. 87; our emphasis).*
+
+The second position that we should note finds strong expression in the
+work of another leading Japanese social scientist, Ken’ichi Tominaga. In
+a number of publications (but see esp., 1982) Tominaga has criticized the
+idea of Japanese “peculiarity” and has explicitly defended the relevance
+to Japan of Western theories of industrialism. In Tominaga’s view, those
+who, like Nakane, would see Japanese society as sui generis quite fail to
+appreciate the radical nature of the sociocultural changes that industrial-
+ization has produced, and their claims that traditional institutional forms
+are reestablished within the new industrial order are largely miscon-
+ceived. Thus, Tominaga points out that the “lifetime employment” sys-
+tem, to which so much attention has been given, is not in fact “tradi-
+tional” (it became common only after the First World War), is found
+only in certain types of Japanese companies, and must in any event be
+seen as differing only in degree and not in kind from employment prac-
+tices that are quite widespread in many Western societies. Changes in
+Japanese social stratification have in fact very closely followed the course
+that theories of industrial society would predict. Through industrializa-
+tion and accompanying social reforms, the traditional status order of
+Japanese society has been progressively undermined, and in its place
+there has developed a far less extreme and more “open” form of stratifi-
+cation, based not on the ascribed attributes of family, kinship, or place
+of origin but rather on the achieved attributes of education, occupation,
+and income (Tominaga 1988). Indeed, Tominaga is prepared to suggest
+that, despite its very different history, Japan can today be regarded as
+having joined the United States as preeminently a “land of equality”
+(1982).®
+
+What, then, is significant for our present purposes is that, through the
+
+5 Views such as those of Nakane are usually associated with the indigenous genre
+of nihonjinron—an extensive literature treating questions of Japanese identity and
+uniqueness—but it should be noted that they have been echoed by some Western
+students of Japan. See, e.g., Vogel (1967, p. 108): “The basic cleavages in Japanese
+society have not been between different social classes but between one corporate group
+(composed of people at different positions) and other corporate groups.”
+
+6 Defenses of Western theories of industrial society and “modernization” as applied
+to the Japanese case have of course also been provided by Western authors. For an
+early example, see Bennett (1967).
+presentation of Japan as a society that in this way exemplifies the “logic
+of industrialism” in action, Tominaga’s position (1979b, p. 83) also con-
+stitutes a challenge to the FJH hypothesis. For, while this hypothesis
+might allow for some initial developmental effect on social fluidity—in
+the period, say, of “take-off” into industrialism—it does not envisage,
+and indeed must preclude, any systematic relationship between fluidity
+and the further development of industrial societies (see Grusky and
+Hauser 1984, p. 20). Thus, if Tominaga’s arguments are valid, not only
+might one expect Japan, as a “land of equality,” to show fluidity consis-
+tently above the “core” level but, in any event, the essential features of
+its mobility regime would seem unlikely, because of their rather rapid
+evolution, to be adequately represented by any fixed model. In sum, one
+could say that from Nakane’s (1970) position the Japanese case threatens
+to expose the FJH hypothesis as being too universalistic—too neglectful
+of cultural diversity that industrialism does not necessarily preclude; but
+from Tominaga’s position, the critical potential of the Japanese case is
+to show the hypothesis as being too static—too neglectful of the develop-
+mental tendencies that are inherent in industrialism.
+
+Finally, on one point at least Tominaga appears to agree with Nakane:
+that is, in doubting the appropriateness of the concept of class to the
+analysis of Japanese society. Tominaga does not, like Nakane, mistrust
+universal concepts as such, but questions whether “class” is such a con-
+cept (see, esp., Tominaga, Naoi, and Imada, n.d., pp. 1-5). The origins
+of class distinctions lie, it is argued, in distinctive features of the history
+of European societies, and when the concept is applied to these societies
+it can then map out “real” social groupings; but Japan—like the United
+States, though for different reasons—has a history in which the idea of
+class did not spontaneously emerge, and thus its application to the pres-
+ent-day society must involve a degree of artificiality. If Japanese stratifi-
+cation is to be compared with that of other societies, a more “nominalist”
+conceptual approach is to be preferred—as, for example, that provided
+by mainstream American sociology in which stratification is envisaged
+as a hierarchy or continuum of “socioeconomic” status groupings.’
+on the results of national mobility inquiries as published, but rather on
+the secondary analysis of the original data sets of these inquiries, follow-
+ing the recoding of items of interest to standardized categories. In this
+way a substantial improvement in the quality of comparative data can
+be achieved (Goldthorpe 19855). Under the auspices of the CASMIN
+(Comparative Analysis of Social Mobility in Industrial Nations) project,
+located at the University of Mannheim, a major recoding exercise has
+been undertaken of mobility data collected in a number of industrial
+societies during the early and mid-1970s (for further details, see Erikson
+and Goldthorpe [1987a]), and Japanese material has recently been incor-
+porated into the data base.®
+
+The Japanese data source is the 1975 Social Stratification and Mobility
+National Survey (1975 SSM). This survey, designed by a consortium of
+Japanese social scientists, took as its population all males aged 20-69
+resident in Japan in 1975. The achieved sample size was 2,724, represent-
+ing a response rate of 68.1% (for further details of the inquiry, see Ando
+[1978]; Suzuki 1978).? For our comparative purposes we have restricted
+the sample to one of economically active men 20—64 years old, and we
+have recoded mobility data for these respondents to the categories of the
+class schema shown in table 1, which, in its sevenfold version, serves as
+the main basis for analyses within the CASMIN project.
+
+When the present (i.e., 1975) occupational and employment status dis-
+tributions of respondents to the 1975 SSM were set against nominally
+comparable distributions from the 1975 Japanese population census, cer-
+tain discrepancies emerged. Farmers and managers appeared somewhat
+overrepresented at the expense mainly of manual workers in industry;
+and employers and self-employed men were clearly overrepresented at
+the expense of employees. The most likely source of this latter discrep-
+ancy was thought to be that employers and the self-employed had higher
+response rates than employees since the former could be more readily
+found “at home” by interviewers.'° We decided therefore to apply a
+weighting factor to the sample ex post, which was designed to bring the
+employment status distribution of respondents into line with census data.
+"| After sample restriction and weighting, we obtained the usable sample size of 2,064.
+” One problem encountered in coding the Japanese data to the categories of the class
+schema should be mentioned, even though it is numerically rather minor. This con-
+cerns the employment status of “family worker,” which was accorded to 103 of our
+respondents and to 28 fathers. We have in fact followed the usual practice of the
+CASMIN project in placing such workers (where they are distinguished) together with
+“other” employees. In the case of Western nations, this may be justified on the
+grounds that family workers are typically in receipt of a wage or salary of some kind,
+even though they may also benefit, directly or indirectly (e.g., through payments in
+kind), from the proceeds of the family enterprise. However, we would believe that in
+the Japanese case the category of family worker includes, in addition to such family
+employees, some further number of persons who do not have claims to a regular wage
+or salary but whose income derives either from some share in profits (and who in
+Western surveys would probably have been treated as “partners”—i.e., as having
+employer or self-employed status) or is in the form of largely casual or ad hoc disburse-
+ments made by the family head. In particular, it would appear that until quite recent
+times—probably around the early 1960s—family workers on Japanese farms, even
+adults and married sons, could expect only such “pocket money” payment (see Fuku-
+take 1967, chap. 4). Thus, the allocation of all Japanese family workers alike to
+“employee” classes of the schema (in fact to classes III, V+ VI, VIIa, and VIIb) must
+be reckoned to involve a degree of distortion. Some—though we cannot identify
+which—would certainly have been more appropriately allocated to classes IVa +b or
+IVc; while we must acknowledge that such others who are neither partners in the
+family enterprise nor yet its paid employees do not readily fall into any of the classes
+of the schema.
+TN
+
+ae
+~exystururpe ur seakojdure yenueuuou
+
+(e27aMIUIOD pue UOTTeNsIUIWIpeE) spesd
+-saysiy ‘saaAojduia [enuewuou suynoy = BY TT
+
+ 
+
+auryNod :s1ax10M TenueUIUOU aUTNOY mm
+
+saakojduia fenuewu0ou
+
+jo siostasadns ‘syuaurystqe}
+
+-Sa JeLSsNpul [yews ur siaseuew ‘suerd
+
+-1UYd9} epes3-s9ySryY ‘spetsgso pur ‘s10}
+-esturupe ‘speuorssajoid apeis-1aM0'T ii
+
+siayIOM sioyatid
+
+yenuewuou jo srostAsadns ‘sue -oid aie] ‘syuaurystiqeysa peLsnput
+
+SdaxIOM -499} opei3-s9y Sy ‘staseuew pure ‘s10} aBIe] ur sIaZeueU ‘sTeIgjo pue ‘s107
+TeT[OI-ayIG MA It ~eIstUIUIpe ‘speuorssayoid :sse[D adtAIaS TI+I ~exsjuruipe ‘sfeuorssajoid apeis-s0y3tpy I
+
+apoyy apoy! SSeIQ-uaAag peal IM
+SSeIQ-OALT
+
+‘uorsiaa pasdeyjod
+
+ 
+
+ 
+
+VWEHOS SSVID FHL
+
+T ATaVvL
+“sse[o yoea 0} rajor Affensn |] am yoTyM
+Aq—'972 ,‘SSEPP BdTAIaS,,—aUIeU ay} BAIS ay “Sask[eU IMO UT pasn APUNbedy ysoUL BuO ay} St SMTBYOS ay} JO UOISIOA ssE[I-UaAaS OY} 4X9} JY} UT PayZoIpUl Sy— "ALON
+
+ 
+
+aaoge uononpoid Areuitid ut siayiom 13430 uoronpoid Areur
+ILA + 2AI 2295 pure yeinynsuge :siaioqe] [eInyNIUZy QnA. -lid Ut siayJOM JayIO pue yeINNIUBy ITA
+(uornonpoid Areur
+sIayIOM -lid ul jou) siayiom [enueul paT[rys (emmy[NI143e ut jOU) S13
+
+Ppal[rysuoN PIA -UN pue pal[Tystuies :s19y10M PaT[TysuON, SIA -YJOM TeNueUL pal[tysun pue pay[rystuses ey A,
+iii)
+
+iv)
+
+hierarchy (HI1, HI2)—effects on mobility resulting from differences
+between classes in the relative advantages they offer as classes of
+origin and their relative desirability as classes of destination (in this
+respect, a threefold hierarchical division of the class schema is intro-
+duced, as indicated in fig. 1 below);
+
+inheritance (IN1, IN2, IN3)—effects that increase the likelihood of
+individuals being found in the same class as that in which they
+originated;
+
+sector (SE)—an effect resulting from barriers to mobility between
+agricultural and nonagricultural classes; and
+
+affinity (AF1, AF2)—effects on mobility that derive from particular
+discontinuities (negative affinities) or linkages (positive affinities) be-
+tween classes and that operate additionally to the more generalized
+effects of hierarchy and sector.
+where F;; is the expected frequency in cell ij of the mobility table, 1n is a
+scale factor, 7? and +P are the main effects of class of origin and of
+destination, and the remaining eight terms refer to the two levels of
+hierarchy effects, the three levels of inheritance effects, a sector effect,
+and negative and positive affinity effects.
+
+In order to make more apparent the substantive content of the model,
+we show first in figure 1 how the effects of hierarchy, inheritance, sector,
+and affinity are seen as operating over the individual cells of the 7 x 7
+intergenerational mobility table based on our class schema. (The eight
+separate levels matrices relating to these effects are given in the Appen-
+dix.) Then, in figure 2, we report parameter estimates, in log-additive
+form, for each of the effects specified. The method by which these esti-
+mates were arrived at is discussed by Erikson and Goldthorpe (1987a).
+We further show in figure 2 the interaction parameters that result in each
+cell of the table when all effects that apply to that cell are summed. The
+arrow shape drawn in the figure serves to demarcate cells showing posi-
+tive and negative parameter values and thus helps bring out the main
+features of core fluidity: (i) a generally high—though variable—propen-
+sity for intergenerational class immobility (positive values in all cells on
+the main diagonal); (ii) two areas of high fluidity (positive values in off-
+diagonal cells) that involve white-collar and blue-collar classes, respec-
+tively; (iii) otherwise, a prevalence of either “neutral” or low fluidity,
+with particularly marked inequalities in mobility chances (high negative
+values in off-diagonal cells) being most often associated—as can be seen
+by reference back to figure 1—with sector effects, that is, barriers to
+mobility between agricultural and nonagricultural classes.
+
+In the case of nine European nations, Erikson and Goldthorpe (19875)
+fitted the model of core fluidity to intergenerational class mobility tables
+in three ways of varying strictness: first, with fixed, cross-nationally com-
+mon, parameters—as given in figure 2; second, with parameters esti-
+mated separately for each nation; and third, in variant form—that is,
+with modifications being allowed to the effects originally specified in
+order to achieve a fit of an acceptable degree of closeness. In table 3 we
+show the results of proceeding likewise with our Japanese table, and we
+also indicate how these results compare with those for European nations.
+
+When, to begin with, our model is applied with fixed parameters, the
+indications are (table 3, rows 1 and 2) that the fit achieved to the Japanese
+data is indeed less good than to the European. As can be seen, the
+standardized G? and A (the proportion of all cases that the model misclas-
+sifies) values returned for Japan are higher than those for any European
+nation, and the percentage reduction in the G’ from the independence
+model is lower; that is, the core model accounts for a smaller part of the
+total origin-destination association within the mobility table. However,
+when our model is applied with its parameters being allowed to vary
+(table 3, rows 3 and 4), a rather different picture emerges. In this case,
+while the fit to the Japanese table is still not acceptable, the deviations
+from the model are of much the same order of magnitude as those we
+have encountered in our analyses of European data. Both the G(S) and
+A values for Japan now fall within the European range, and the percent-
+age of the origin-destination association accounted for lies only just out-
+side it. On the basis of the findings presented in the first four rows of
+table 3, it could be suggested that the “contours” of social fluidity within
+the Japanese class structure, although apparently displaying some un-
+usual “highs” and “lows,” do nonetheless still follow broadly the same
+lines as those that seem to be characteristic of European societies. '
+We can further explore this possibility by considering how the model
+of core fluidity could most effectively be adapted in order to fit the Japa-
+nese data more closely. In working with European mobility tables, a
+G*(S) of around 40 or below was regarded as an acceptable fit since, with
+28 df allowed by the model (with parameters estimated separately for
+each nation), this would imply a P-value of .05 or greater. Of course,
+once changes to the model are allowed, there will be little difficulty in
+producing, ad hoc, a version to fit any national mobility table. Thus, in
+order to preserve interpretability in our results, we sought to restrict
+modifications to a minimum and, further, to make ones that were not
+prompted by the inspection of residuals alone but for which we could
+also claim some substantive grounds.
+
+Following this approach, we were able to devise a variant of the core
+model adequate to the Japanese data that required changes in only three
+cells of the mobility table—in each of which, it may be added, numbers
+were quite small. (i) The IN2 and IN3 terms were included in the cell
+indicating immobility in the class of agricultural workers, class VIIb; (ii)
+the AF 1 (negative affinity) term was included in the two cells indicating
+mobility from origins in the service class, I+TII (on the concept of the
+service class, see Goldthorpe [1982]), to either the skilled or nonskilled
+divisions of the working class, V+ VI and VIIa.
+
+The first modification of the model would seem required in conse-
+quence of the highly familial character of Japanese agriculture (see Fuku-
+take 1967; Dore 1978). In Japan the majority of farm workers are in fact
+members of the farmer’s family, and sons would appear to be accorded
+the status of “family worker” while their fathers are alive or at least still
+active. Thus, it turns out that 70% of men found in the VIIb-VIIb cell
+of the Japanese mobility table had fathers who were still family workers,
+even at the time of the respondent’s adolescence, and were themselves
+family workers, presumably waiting to inherit in turn. In other words,
+we need to adapt our model here to the fact that in the Japanese case
+most men who appear as immobile farm workers are not true members
+of an agricultural proletariat but rather are in the—protracted—process
+of succeeding their fathers as farmers. '*
+The second alteration to the model is required in order to accommodate
+an evidently very low propensity. for the sons of service-class families in
+Japan to be downwardly mobile into the ranks of the industrial working
+class. This we would relate to the awareness—perhaps exaggerated
+awareness (see Ishida 1986)— of the importance of educational credentials
+in Japan and to the fact of unusually low chances of work-life counter-
+mobility back from manual employment to service-class positions, which
+we can illustrate from our own comparative data.'* A particular concern
+may then be suggested on the part of service-class families to protect
+their offspring from being forced into manual jobs from which there
+might be no escape and a corresponding readiness to devote resources to
+this end. For example, the practice would seem widespread of more
+advantaged parents buying additional private tutoring for their children
+in the attempt to ensure an education appropriate to white-collar employ-
+ment (Fukutake 1982, pp. 209-11; Morishima 1982, pp. 182-83).
+
+When the core model with the changes indicated was fitted to the
+Japanese data, an acceptable G7(S) value of 35.9 was produced. '!* How-
+ever, it further emerged that under this variant model the HI2 and IN2
+terms were nonsignificant. These terms were therefore omitted and the
+model reestimated. The G?(S) and other results that were then returned
+are those in row 3 of table 3. (The levels matrices for this final version
+of the model are given in the Appendix.)
+
+In table 4 we seek to show what are the more detailed implications for
+the pattern of Japanese social fluidity of the variant model that we pro-
+pose. We report the parameter estimates for the model and give the
+interaction parameters that are produced under the model for each cell
+of the Japanese mobility table. Table 4 then corresponds to figure 2,
+TABLE 4
+
+PARAMETERS IN LOG-ADDITIVE FORM FOR EFFECTS IN THE VARIANT MODEL
+FOR JAPAN AND RESULTING INTERACTION PARAMETERS IN THE CELLS OF THE
+
+JAPANESE MoBILITy TABLE
+
+ 
+
+Parameters ..
+Standard error
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EFFECT
+
+Hii HI2 IN1 IN2 IN3 SE AFL AF2
+—.16 a £74 s .79° —.63 —.68> 37
+.07 .09 .29 14 17.06
+I+l Tr IVa+b IVe V+VI Vila VIIb
+174 21 21 —.79 —.84 -.84 -1.47
+21 74 0 —.63 0 —.16 -.79
+21 0 174 —.26 0 -—.16 -.79
+—.719 -.79  —.42 134 -.79  -.26 0
+—.16 0 0 —.63 174 2100 =.79
+—.16 -.16 —.16 -.79 21 4 =.63
+-1.47° 0 -.79° 0 --.79 —.16  -.79  —.26 1.53
+
+ 
+
+® Indicates parameters that initially returned a nonsignificant value at the 5% level and have then
+been omitted in reestimating the model.
+» Indicates parameters directly affected by modification to the core model.
+1. The fact that, as noted above and as indicated in table 4, two terms
+can be dropped from our variant model for Japan does of course imply
+further deviations from core fluidity. However, as regards the insignifi-
+cance of the HI2 term, this is in part offset—as may be seen by reference
+back to figure 1—by the inclusion of the AF1 (negative affinity) term in
+the I+ II-VIla cell. The main deviations that arise thus take the form of
+relatively low barriers to mobility between the service class and the two
+agricultural classes and a marked asymmetry in fluidity as between the
+service class and two divisions of industrial working class—low bar-
+riers to upward movement coexisting with high barriers to downward
+movement.
+
+2. The insignificance of the IN2 term, taken together with the inclusion
+of the IN3 term in the VIIb-VIIb cell, is of greater consequence. It means
+in fact that in the Japanese case all nonagricultural classes have the same
+level of inheritance. Comparison of the cell values given in table 4 with
+those of figure 2 then shows that in Japan the propensity for immobility
+within classes III, V+ VI, and VIIa—that is, among routine nonmanual
+employees and skilled and nonskilled industrial workers—is higher, rela-
+tive to “neutral” fluidity, than under the core model. On the other hand,
+this propensity is correspondingly low within classes I+II and IVa+b,
+those of the service class and the petty bourgeoisie. Two factors that may
+in part account for this feature of Japanese fluidity can be noted. First,
+the line between class I+TII and class III is particularly difficult to draw
+in the Japanese case because of the widespread practice in business and
+other organizations of young entrants being initially assigned to routine
+clerical grades even though they may be of graduate status and have been
+recruited specifically for, and will eventually move into, professional,
+administrative, or managerial positions (Cole and Tominaga 1976, p.
+74).!° Second, intergenerational stability within class IVa+b is likely to
+be depressed in the Japanese case as a result of the role played by self-
+employment—especially homework—as a response to unemployment
+and also to retirement at around age 55, which is usual in Japanese
+industry (cf. Steven 1983, pp. 80-86; also Cole and Tominaga 1976, pp.
+77-78).
+
+3. The sector effect on mobility would appear to be well below core
+level in the Japanese case. This feature can be associated—as in several
+European societies, notably the FRG, Hungary, and Poland—with a
+high frequency of part-time farming or, alternatively, the supplementing
+of farm-family incomes through various kinds of industrial work (Fuku-
+take 1967, 1982, chap. 11), which would appear to be practices that
+typically reduce the barriers to intergenerational mobility between ag-
+ricultural and nonagricultural classes.”°
+
+4. In the final outcome, then, areas of both relatively low and relatively
+high fluidity are displayed within the Japanese pattern as represented by
+our model. In general, though the tendency is for somewhat less unequal
+mobility chances to be shown up than those implied by “core” fluidity.
+In particular, it may be observed from the comparison of figure 2 and
+table 4 that, in those off-diagonal cells where “neutral” fluidity is not
+indicated, Japan has values that are in fact closer to “neutral” fluidity
+than are the corresponding parameters under the core model in all cases
+but two—those indicating downward mobility from service-class origins
+into industrial working-class positions. To provide some overall assess-
+ment, we have computed the values of all 441 odds ratios that are implicit
+in the 7 X 7 mobility table, both under the core model and under the
+Japanese variant model as applied to the Japanese data. Comparing cor-
+responding ratios, we find that, in 54% of cases, the Japanese value is
+the closer to 1— indicating higher fluidity than the core expectation—and
+in 40%, the further from 1—indicating lower fluidity—with the remain-
+ing values being identified.
+
+Our results here could then be regarded as consistent with, though at
+the same time more differentiated than, those reported by Yamaguchi
+(1987) on the basis of a Japan—England—United States comparison. Thus,
+our finding that Japan tends to have high fluidity—relative to core expec-
+tations—apart from some high propensities for immobility is in line with
+Yamaguchi’s suggestion that, overall, the Japanese pattern of social flu-
+idity is “closer to quasi-independence” (1987, p. 489) than those of the
+other two nations he studies. However, Yamaguchi does not, for exam-
+ple, pick up the relatively low propensity for immobility among the petty
+bourgeoisie—the “status” categories on which his analysis is based do
+not take account of differences in employment relations; nor could his
+analysis reveal the low sectoral barrier that we have noted—he has only
+a single “farm” category treated as one of status—nor the marked asym-
+metry in propensities for long-range mobility between the service class
+and working class.
+
+Finally in this section we report on the results of two supplementary
+analyses that we have undertaken. The first was prompted by the possi-
+bility that even if, as we would suppose, the concept of class is applicable
+to Japanese society, we may still not have implemented our class schema
+in the way most appropriate to the Japanese case: in particular, we may
+not have given due recognition to the fact—which Nakane (1970) and
+many other commentators have emphasized—that the employment rela-
+tions and conditions of Japanese workers are influenced as much, if not
+more, by the type and especially the size of the firm in which they are
+employed as by their own occupation or skill level (cf. Cole 1979; Clark
+1979; and the discussion in Mouer and Sugimoto [1986], pp. 281-88).
+
+To explore this possibility to some extent, we modified the form of our
+class schema so as to provide for a distinction between large and small
+firms. The dividing line was set at 300 employees, which is that most
+often used in official Japanese statistics for the manufacturing industry.
+Specifically, we recategorized respondents’ and respondents’ father’s
+class positions in the following ways:
+
+1. Where the employing firm was large, cases originally allocated to
+class III were transferred to class I+ II—the assumption being that in
+large firms even routine nonmanual workers would tend to be more or
+less fully integrated, in terms of their employment relations and condi-
+tions, into administrative and managerial bureaucracies.
+
+2. All cases allocated to classes V+ VI and VIIa were reallocated to
+two new classes, V-VIIa (large) and V-VIlIa (small)—the assumption here
+being that, so far as employment relations and conditions are concerned,
+the division within the industrial working class by size of firm is more
+consequential than that by skill.
+
+With our mobility data organized on the basis of this modified version
+of the class schema, we then repeated the analyses described above. The
+main finding was that very little difference was made to the general
+pattern of our results. The core model, without fixed parameters, fitted
+slightly better (G’[S] = 51.0 as against 53.8) but with a broadly similar
+pattern of residuals; and our preferred variant model then fitted some-
+what less well (G’[S] = 45.4 as against 39.5). We can thus say that we
+do not find any obvious indications that our class schema in its original
+form fails to give insight into some highly distinctive feature of Japanese
+social fluidity which attention to the size of employing firms would
+reveal?!
+The second supplementary analysis that we undertook was aimed at
+investigating the stability of the Japanese pattern of social fluidity in the
+light of claims, such as those made by Tominaga (1982; and see also
+1969; 1979b), of relatively rapid change in the direction of greater open-
+ness. Ideally we would have wished to work with appropriate data from
+two or more mobility inquiries carried out at different times. However,
+since such data coded to our class schema were not available to us, we
+resorted to birth-cohort analysis of the data of the 1975 inquiry. We
+divided the sample into four cohorts—those of men born 1911-20,
+1921-30, 1931-40, and 1941-50 (men born between 1951 and 1955, who
+were only 20-24 years old at the time of inquiry, were omitted); and, in
+order to maintain adequate cell counts, we resorted to the fivefold version
+of the class schema, as shown in table 1.”” We then fitted to the intergen-
+erational mobility tables for our four cohorts what has elsewhere been
+referred to as the constant social fluidity (CSF) model (Erikson, Gold-
+thorpe, and Portocarero 1983). This model is in fact identical to that of
+equation (1) above, but with cohort being substituted for nation. It thus
+states that, while an association will exist between origin and cohort and
+destination and cohort, as well as between origin and destination, no
+three-way interaction occurs: in other words, the set of odds ratios defin-
+ing the association between origin and destination is identical across co-
+horts.
+
+When applied to the Japanese data, this CSF model shows a rather
+satisfactory fit: G? is 49.0 (P = .43; df 48). The model misclassifies only
+3.9% of all cases and accounts for 88.8% of the total origin-destination
+association. However, it is true that in this way we achieve only a
+“global” test of the hypothesis of constant fluidity, and the presence of
+various specific trends in fluidity, within an overall constancy, cannot be
+ruled out.
+
+We therefore went on to consider a further model that provides for a
+linear trend in each of the 16 odds ratios in the basic set of our 5 X 5
+tables; that is, the model allows each of these ratios to increase or de-
+crease linearly across the four cohorts distinguished (for a similar model,
+see Goldthorpe [1987], pp. 78-85). When this model is applied to the
+Japanese data, the reduction in G’ from the CSF model is not significant
+(AG? = 14.9, Adf = 16, P > .50). Furthermore, inspection of the linear
+3 For the CSF model, G? = 44.8, df = 48, P = .60. The improvement in fit made
+by providing for linear trends was again not significant (AG? = 5.3, Adf = 16, P >
+90), and of the trends displayed in the 100 odds ratios, 43 went toward and 39 away
+from greater fluidity, while 18 reversed.
+
+24 The question might be raised of what changes, if any, appear in the various effects
+specified in the Japanese variant of the core model if this is itself fitted to successive
+cohorts within our sample. It would of course be in principle possible for such changes
+to occur even while the pattern of relative rates—that is, of odds ratios—that was
+generated remained unaltered. The practical difficulty that we encounter in trying to
+answer this question is that we must of course work with the sevenfold version of the
+class schema (in terms of which the model is specified), and even if we then collapse
+our four cohorts to just two, e.g., to those of men born 1911-30 and 1931-50, the
+resulting tables are disturbingly sparse. However, from an exercise conducted on this
+basis, we find no significant differences from the earlier to the later cohort for the two
+inheritance effects or for the sectoral effect in the model, and we find a shift (increase)
+in the positive affinity term that is only marginally significant. The differences in
+which we would have greatest confidence occur in the two remaining terms: the
+hierarchy effect (HI1) strengthens across the two cohorts while the negative affinity
+effect (the extended AF1 term) weakens. These changes would then be consistent with
+a shift in fluidity patterns toward closer conformity with the core model—service-
+class sons showing, e.g., a reduced propensity to become farm workers but an in-
+creased propensity to become industrial workers. It may be noted that our results here
+fail to confirm Yamaguchi’s findings (1987), based on analyses of data from the 1975
+Japanese mobility study and that of 1955, that diagonal (or in our terms, inheritance)
+effects decrease over time while the association between origins and destinations in
+off-diagonal cells tends generally to increase. However, our results as a whole are in
+broad agreement with those of other Japanese sociologists who have compared mobil-
+ity tables based on the 1975 survey with ones based on the surveys of both 1955 and
+1965. Thus, Kojima and Hamana (1984) have shown that the CSF model fits the
+mobility tables for 1955, 1965, and 1975 when these are organized on the basis of an
+eightfold occupational classification. The fit ceases to be acceptable if either a fivefold
+Given, then, the results we have thus far presented in this article, how
+should the Japanese case be regarded from the standpoint of the FJH
+hypothesis (which, according to our understanding, claims that within
+the social fluidity patterns of industrial nations a large commonality pre-
+vails)? There is no doubt that, when set against the model of core fluidity
+that we have proposed, the Japanese pattern has its “peculiar” features.
+These however, in our view, can be better understood as variations on
+a common theme—represented by the core model—than as expressions
+of a national social structure that is in some way distinctive. A model
+developed from the experience of European societies does prove capable
+of reproducing Japanese mobility data to a very substantial extent.”
+
+In this regard, we would wish to emphasize, first, the relatively few
+modifications that need to be made to the form of the core model in order
+to produce a fitting variant for Japan; and, second, the fact that, while
+the overall extent of the Japanese deviation from the core pattern is more
+extensive than that found in some of the European nations we have
+studied (as is indicated in table 3), it could still scarcely be reckoned as
+extravagant. Thus, what we can at all events say is that the Japanese
+case does not create special problems for the FJH hypothesis in the sense
+in which we take it. If this hypothesis is to be rejected on the basis of
+the Japanese data, it could have been rejected already on the basis of the
+European data that we have previously analyzed.
+
+On the other hand, we would note that arguments claiming that Japan
+is sui generis or possesses a quite different form of stratification to that
+found in European societies can draw little support from our findings.
+Thus, if it were the case, as Nakane (1970)—and also Tominaga (1982,
+1988)—would maintain, that the “European” concept of class is inap-
+propriate to the study of Japanese society, one would not expect an analy-
+sis that rests on this concept to produce results that are largely compara-
+ble to those achieved for European nations. Contrary to Nakane’s claim
+that class as a form of social stratification is “unlikely to function” in
+Japan and “does not really reflect the social structure” (1970, p. 87), we
+would see in our findings clear evidence that a class structure does indeed
+function in Japan, and it functions in much the same way as in other
+industrial societies, to generate a pattern of unequal mobility chances.
+We do not, we should stress, seek here to challenge the contention that
+class consciousness, or even class awareness, is only rather weakly devel-
+oped among the Japanese population. But what we do wish to maintain
+is, first, that sociologists need not be restricted in the concepts they apply
+to those that are prevalent among the “lay members” of the societies
+they study; and, second, that class is in any event a concept relevant not
+only to how individuals view the social world and act within it but also
+to what actually happens to them—in the present context, to what
+chances of mobility or immobility they have experienced or may expect.
+
+Again, if we assume that Tominaga (1982) is suggesting that Japan,
+together with the United States, is outstanding in showing how these
+inequalities are diminished by the onward march of industrialism, our
+evidence is once more uncongenial. As we have shown, social fluidity in
+Japan does tend to be somewhat above the level provided for by the core
+model, and Japan could certainly be regarded as a more “open” society
+than some European ones; even so, it can scarcely claim preeminence.
+Thus, if we calculate odds ratios under our national variant model for
+Sweden, we find that a still-larger proportion of odds ratios fall below
+“core” expectations than in the Japanese case—83% as against the 54%
+reported above.”° Furthermore, we have also failed to find support for
+the argument to which Tominaga is more obviously committed: that
+social fluidity in Japan is, at all events, on a steadily rising trend. To the
+contrary, our results would indicate that, despite the rapid economic
+growth and structural change that have characterized modern Japan, a
+large measure of stability has in fact been preserved in the pattern of
+its social fluidity—just as, it may be noted, the FJH hypothesis would
+imply.
+the version that we have adopted; or, at all events, no further qualifica-
+tions to the hypothesis would seem required to those that have already
+been suggested on the basis of analyses of mobility in European nations
+(Erikson and Goldthorpe 1987a, 19876). However, if we now wish to
+focus our attention on the more general issue of the “exceptionalism” of
+Japan as an industrial society, we must examine not only social fluidity
+or the pattern of relative mobility rates, but also absolute rates. As we
+noted earlier, FJH complement their claim of a basic cross-national simi-
+larity in relative rates with the argument that, pace Lipset and Zetterberg
+(1959), absolute rates can be expected to vary widely under the influence
+of diverse “exogenous” factors. Thus, Japan could still be distinctive in
+terms of this variation even though conforming to the generic pattern in
+its “endogenous mobility regime.”
+
+To begin with, we may consider total mobility rates. In the Japanese 7
+X 7 intergenerational class mobility table, the proportion of respondents
+whose present class is different from their class of origin—that is, who
+are found in cells off the main diagonal of the table—is 73%. The range
+of total mobility rates for nine European nations is from 54% to 76%.
+Thus, while Japan tends toward the higher end of the range—with a
+rate that exceeds those of seven out of nine European nations but falls
+below those of Hungary and Sweden—no very compelling evidence of
+exceptionalism is here provided.
+
+However, if we turn next to inflow and outflow mobility rates, a some-
+what different picture emerges. Rather than attempting to present these
+rates in full, we resort, in figures 3 and 4, to graphic methods in order
+to show the Japanese rates in relation to the corresponding European
+ones. From both of these figures it is in fact apparent that the Japanese
+data are not easily assimilated into the European pattern. With 18 of the
+43 inflow rates represented in figure 3 (flows not exceeding 5% in any
+nation are excluded), the Japanese value falls outside the European
+range; and this is likewise the case with 15 of the 39 outflow rates that
+are represented in figure 4. Moreover, these departures from the Euro-
+pean pattern are of a rather systematic kind.
+
+Thus, more detailed examination of figure 3 will reveal that, of the 18
+instances of outlying Japanese inflow rates, five feature inflow from class
+IVa+b (the petty bourgeoisie) that is greater than in any European na-
+tion, and a further 10 feature inflow from class V + VI or class VIIa (the
+two divisions of the industrial working class) that is less. And similarly,
+of the 15 outlying outflow rates in figure 4, five feature outflow to class
+III (routine nonmanual employees) that is above the European range,
+and seven more demonstrate outflow to either class V+ VI or class VIIa
+below the European range. On this basis, then, and from other informa-
+tion contained in figures 3 and 4, it is possible to draw a number of more
+general conclusions concerning the distinctiveness of class formation or
+“reproduction” in modern Japanese society, especially as regards the
+service class and the working class.
+
+The Japanese service class is, to begin with, quite clearly set apart
+from those of European nations in the pattern of its recruitment. The
+class not only comprises an exceptional proportion of men of petty-bour-
+geois origins, it tends also, as figure 3 indicates, to recruit heavily from
+among the sons of farmers. Thus, of men found in class I+ II within the
+Japanese sample, as many as 55% reported fathers who were engaged in
+proprietorship or self-employment of some kind. This may be set against
+a European range of from only 12% to 38%. Offsetting this, and in turn
+a source of further distinctiveness, is then the very limited degree to
+which the Japanese service class includes men of working-class origins:
+only 10% of its members had fathers in classes V+VI and VIIa, as
+compared with from 28% to 49% among our European nations. At the
+same time, the intergenerational stability of the Japanese service class
+would appear, in the light of figure 4, to be unusually low: only 47% of
+the sons of service-class fathers are themselves found in service-class
+positions as against a European range of 52%-67%. However, if, for
+reasons noted above, we regard class III as being more closely associated
+with class I+II in Japan than in most of our European nations, a rather
+different conclusion is suggested. Intergenerational stability within the
+white-collar bloc, which is constituted by classes I+II and III together,
+turns out to be quite high in Japan: 65% of the sons of white-collar
+fathers are found in white-collar positions and only 19% in the working-
+class positions of classes V+ VI and VIIa. This may be compared with
+the corresponding European ranges of 52%—-64% and 28%—43%, respec-
+tively.
+
+Turning, then, to the Japanese working class, the feature that is most
+obviously distinctive is the very low level of its self-recruitment. In this
+respect, our European nations themselves show wide variation—the pro-
+portions of industrial workers who are the sons of industrial workers
+extending from 78% down to 39%. However, the Japanese figure is lower
+still, at only 21%. In just the same way as the service class, the Japanese
+working class is far more extensively recruited than would seem typical
+in Europe from among the sons of the petty bourgeoisie and farmers:
+65% of men in classes V+ VI and VIIa in the Japanese sample were of
+class IVa+b or IVc origins as against a European range of from only
+7% to 45%. Moreover, the Japanese working class is also distinctive in
+its low level of intergenerational stability. In our European nations, from
+61% to 73% of the sons of working-class fathers were themselves found
+in working-class positions; but the corresponding figure for Japan is only
+56%. If, then, its low self-recruitment and its low stability are taken
+QIIA PLIA IA+A OAT GRAIL LIL LI+h
+QIIA ELIA IAtA OAT QIIA PITA TAtA PAT GPAL TIT II+1
+
+|
+QIIA ELIA ITAtA OAL GPAL III LI+l
+“pepnpoxe are uolyeu Aue ul %¢ ZuIpesoxe jou sMOTJ “(SouT] [e21I12A Aq payeotput)
+suoyyeu uvadoing ouru Joy a8ue1 ay} YIM paredutos (Op yoe[q Aq pazeorput se) uedef Joy saye1 Mmopino a8ejueIag—"p “OL
+
+uoTJeuTysep JO sessetD
+together, the “social metabolism” of the Japanese working class must
+be reckoned as falling clearly outside the European experience. Unlike
+the white-collar bloc, which, on a comparative view, would appear to
+have formed as a rather stable collectivity, the working class that has
+emerged in modern Japan must be said to possess only a very poorly
+developed “demographic identity” (Goldthorpe 1985a, 1987). And it is
+then, one may add, a rather obvious speculation that the small proportion
+of manual workers in Japan who could be regarded, in Sorokin’s terms
+(1959, chap. 17), as being both “hereditary” and “lifetime” proletarians
+is a factor in the existence of only a weakly developed working-class
+consciousness alongside a “relatively strong middle-strata conscious-
+ness” that has been described by several Japanese investigators (see, e.g.,
+Murakami 1984).
+
+Thus, at the “phenotypical” level of absolute mobility rates, a case
+for Japanese distinctiveness can indeed be made out—even while main-
+taining that at the “genotypical” level of relative rates Japan, along with
+other industrial nations, shares in a largely common pattern. What is of
+course implied by such a position is that the source of this Japanese
+distinctiveness must be traced primarily to the “shape” of the Japanese
+class structure and to trends of class structural change during the modern
+period. This point is in fact one that we can bring out empirically in the
+data of table 2.
+
+From this table, an association is readily apparent between those fea-
+tures of the Japanese distributions of class origins and destinations that
+depart most sharply from the European pattern and those features of
+Japanese inflow and outflow rates that chiefly attracted our attention
+above. Thus, the tendency for inflows to be high from class IVa+b and
+low from classes V+VI and VIIa can be related to the proportion of
+our Japanese sample with petty-bourgeois fathers being well above the
+European range while that with working-class fathers is well below it.
+And, likewise, the tendency for outflows to be high to class III and low to
+classes V + VI and VIla can be related to—by European standards—the
+unusually large proportion of our Japanese sample found in routine non-
+manual positions and the small proportion in manual ones.
+
+It should therefore be clear enough that, if we wish to account for
+Japanese distinctiveness in absolute rates of intergenerational class mobil-
+ity, we must account for the historical development of the Japanese class
+structure rather than for any special features in Japanese social fluidity.”’
+To attempt such a task in any detail must of course lie beyond the scope
+of the present article, but there are two points of a general and prelimi-
+nary kind that, given the purposes at hand, seem relevant.
+
+First, some insights are to be gained from “patterns of growth” analy-
+sis and, specifically, from recognizing the trajectory of development fol-
+lowed by Japan as a “latecomer” to the process of industrialization.
+Most important, it is in this way that the relatively small size of the
+Japanese working class can best be understood. In nations that industrial-
+ized early—for example, England and Scotland—the period of rapid
+decline in the agricultural work force was accompanied by a massive
+transfer of labor into manual, wage-earning jobs in industry, and it was
+only at a later stage that a significant expansion in white-collar employ-
+ment began (Goldthorpe 1987, chap. 11). In Japan, in contrast, the phas-
+ing of these changes has been far more compressed. The decline in agri-
+culture has gone together with a marked increase in white collar as well
+as blue-collar employment, and the latter would, moreover, seem already
+to have reached its peak. As a latecomer, Japan experienced a rather
+precocious growth of large industrial and commercial bureaucracies and
+hence of white-collar positions (Dore 1973; Cole and Tominaga 1976, pp.
+76-82); on the other hand, the latecomer’s advantage of being able to
+take over advanced, labor-saving technology, in manufacturing industry
+especially, has allowed Japan to “catch up” in its economic development
+without ever needing an industrial working class of the size that typically
+emerged in Western nations (Singlemann 1978; Gagliani 1985)—even
+though, we should note, table 2 may well exaggerate this difference in
+relating only to men.”
+
+Second, though, it would also seem essential to take into account in-
+fluences shaping the Japanese class structure that are of a more specific
+kind than could be captured by the “patterns of growth” analysis. Thus,
+for example, one must recognize the persistence into the stage of ad-
+vanced industrialism of a still relatively numerous petty bourgeoisie.
+Small-scale, and usually familial, business enterprises would appear to
+have survived in Japan to a greater extent than in most Western indus-
+trial societies (Hara 1979; Patrick and Rohlen 1987). Many such enter-
+prises are in the service sector, but small-scale manufacturing also re-
+mains important within the context of the much-discussed “dualism” of
+CONCLUSIONS
+
+In this article, we have had two main objectives. First, we have sought
+to use the Japanese case in order to provide a further test of the FJH
+hypothesis. Taking this hypothesis to claim that industrial societies are
+characterized by a common or core pattern of relative rates of intergener-
+ational mobility—for which we have provided a formal model—we
+know that the hypothesis receives some measure of support from mobility
+data for a number of European societies. Here, then, we have asked
+whether a similar outcome is achieved when we turn to Japan, the lead-
+ing industrial nation outside the European cultural sphere. Second, we
+have attempted to draw on our analyses of Japanese mobility data in
+order to contribute to the wider debate on Japanese exceptionalism. In
+this debate, questions concerning the nature of Japanese social stratifica-
+tion have held a prominent place, and assessments of inequalities of
+condition and opportunity in present-day Japan within a comparative
+perspective have been implied, if not systematically presented.
+Evidently, then, the issues that we address are not independent of
+each other. Indeed, as we have noted, positions already taken up in the
+literature would lead one to expect that the FJH hypothesis would not
+in fact show up as well against Japanese as against European data be-
+cause the Japanese form of industrial society is a distinctive one. How-
+ever, it is perhaps when compared with such expectations that the results
+we have reported take on greatest interest. For our two main findings
+are (1) that the Japanese case does not appear to create any special prob-
+lems for the FJH hypothesis but (2) that an argument for the distinctive-
+ness of Japanese mobility rates, and in turn processes of class formation
+or reproduction, can nonetheless be made—at least in relation to Euro-
+pean experience.
+
+As regards relative rates, our analyses of data from the 1975 SSM
+survey indicate that Japan does not display any greater deviations from
+our model of core social fluidity than those found among European na-
+tions. That is to say, Japanese peculiarities in relative rates can be de-
+tected, but they are no greater than, say, West German, Hungarian,
+Trish, or Polish peculiarities; and there would thus seem little basis for
+proposing a distinctive Japanese type of fluidity pattern, rather than
+seeing Japanese fluidity as representing simply another national variation
+on the common theme that our core model serves to define. Furthermore,
+such a finding must throw doubt on larger claims either that Japanese
+social stratification is sui generis and not amenable to analysis via the
+concepts of Western sociology or that it represents a particularly ad-
+vanced version of a generic form—for example, in the degree of equality
+in relative mobility chances that it allows. To repeat, then, the point we
+made earlier: our analyses of Japanese mobility at all events add nothing
+to the argument for rejecting, or qualifying, the FJH hypothesis and
+hence do not lead us to change the assessment of the FJH hypothesis that
+was made on the basis of our European data and that we summarized
+at the start of this article.
+
+It is when we shift attention from relative to absolute mobility rates
+that the case for Japanese distinctiveness emerges. Although the Japanese
+total mobility rate is not exceptional, inflow and outflow rates alike show
+departures from the ranges established by our European data that are
+frequent and systematic; and, in turn, patterns of intergenerational re-
+cruitment and stability, among the Japanese service class and working
+class especially, are likewise set apart from the European experience.
+This result is chiefly produced, as we have shown, through the Japanese
+“mobility regime,” which is not itself unusually deviant from our core
+model, operating within a class structure that, in the course of industrial-
+ization, has developed in a very different way from the class structures
+of our European nations. In part, this reflects Japan’s status as a late-
+comer; but furthermore, as we have suggested, it is in this respect that
+some scope does exist for Japanese institutional specificities to be in-
+voked.
+
+Thus, rather than calling the FJH hypothesis into greater doubt, the
+Japanese case may serve in the end to underline the importance of the
+insight that this hypothesis expresses. That is to say, if cross-national
+regularities in social mobility are to be discovered, this will not be at the
+APPENDIX
+
+Levels Matrices for the Model of Core Social Fluidity and for the
+Japanese Variant
+
+The matrices for the hierarchy (HI), inheritance (IN), sector (SE), and
+affinity (AF) effects in the core model and in the Japanese variant are as
+shown in figure Al.
+
+It should be noted that in the case of HI and IN, a separate matrix is
+provided for each shift in the level of the effect. For example, since—as
+is indicated in figure 1—we aim to capture hierarchy effects on the basis
+of a threefold division of our class schema, we need here two matrices.
+In HI1, we put at level 1 cells that imply no hierarchical mobility, and
+at level 2 all those that do imply such mobility. Then in HI2 we put at
+level 2 those cells that imply a “two-step” movement—that is, from the
+highest hierarchical division to the lowest or vice versa—while all other
+cells go to level 1. Correspondingly, the three IN matrices should be
+interpreted as providing for a base level of inheritance effects and for
+two shifts from this to higher-level inheritance effects. In the case of SE,
+on the other hand, there is only one level of effect, and the two AF effects
+are seen as going in opposite directions, AF1 relating to negative and
+AF? to positive affinities.
+
+Each matrix relates, of course, to the cells of the 7 X 7 class mobility
+table, and the term above each is that by which the effect it represents
+is indexed in our model as expressed by equation (2) in the text. For
+further details, see Erikson and Goldthorpe (19874).
+CORE
+
+HI1 (a(i, j))
+
+ANNA
+ANNA
+Adaanaana
+Adaadaa
+Adaadana
+Aadaaadaa
+nANAANAN
+
+HI2 (b(i, j))
+
+Nada
+Addddag
+dade
+dddddded
+dddddae
+ddd
+daANAANA
+
+IN1 (c(i, j))
+
+dada
+deadanae
+dan aNae|
+aed Nd ae
+aA Nd dae
+WAM ade
+Addadade
+
+IN2 (dG, j))
+
+ddd
+dHeddaded
+Haddad
+Head
+tA NA de
+dade
+Adda
+REFERENCES
+
+Ando, Bunshiro. 1978. “Hyohon Sekkei” (Sample design). Pp. 16—28 in Shakai Kaiso
+to Shakai Ido (Social stratification and social mobility), edited by the 1975 SSM
+Committee. Tokyo: 1975 SSM Committee.
+
+Bennet, John W. 1967. “Japanese Economic Growth: Background for Social
+Change.” Pp. 411-53 in Aspects of Social Change in Modern Japan, edited by
+Ronald P. Dore. Princeton, N.J.: Princeton University Press.
+
+Broadbridge, Seymour. 1966. Industrial Dualism in Japan. London: Cass.
+
+Clark, Rodney. 1979. The Japanese Company. New Haven, Conn.: Yale University
+Press.
+
+Cole, Robert E. 1979. Work, Mobility and Participation: A Comparative Study of
+American and Japanese Industry. Berkeley: University of California Press.
+Cole, Robert E., and Ken’ichi Tominaga. 1976. “Japan’s Changing Occupational
+Structure and Its Significance.” Pp. 53-95 in Japanese Industrialization and Its
+Social Consequences, edited by Hugh Patrick. Berkeley: University of California
+Press.
+
+Dale, Peter N. 1986. The Myth of Japanese Uniqueness. New York: St. Martin’s.
+
+Dore, Ronald P. 1973. British Factory—Japanese Factory. Berkeley: University of
+California Press.
+
+. 1978. Shinohata. New York: Pantheon.
+
+Erikson, Robert, and John H. Goldthorpe. 1987a. “Commonality and Variation in
+Social Fluidity in Industrial Nations. Part I: A Model for Evaluating the ‘FJH
+Hypothesis.’ ” European Sociological Review 3:54-77.
+
+. 19876. “Commonality and Variation in Social Fluidity in Industrial Nations.
+Part II: The Model of Core Social Fluidity Applied.” European Sociological Review
+3:145-66.
+
+Erikson, Robert, John H. Goldthorpe, and Lucienne Portocarero. 1983. “Intergenera-
+tional Class Mobility and the Convergence Thesis.” British Journal of Sociology
+34:303—43.
+
+Featherman, David L., F. Lancaster Jones, and Robert M. Hauser. 1975. “Assump-
+tions of Social Mobility Research in the U.S.: The Case of Occupational Status.”
+Social Science Research 4:339-60.
+
+Fukutake, Tadashi. 1967. Japanese Rural Society. Ithaca, N.Y.: Cornell University
+Press.
+
+. 1982. The Japanese Social Structure. Tokyo: University of Tokyo Press.
+
+Gagliani, Giorgio. 1985. “Long-Term Changes in the Occupational Structure.” Euro-
+pean Sociological Review 1:183-210.
+
+Goldthorpe, John H. 1982. “On the Service Class, Its Formation and Future.” Pp.
+162-85 in Social Class and the Division of Labour, edited by Anthony Giddens and
+Gavin Mackenzie. Cambridge: Cambridge University Press.
+
+. 19854. “Soziale Mobilitat und Klassenbildung: Zur Erneuerung einer Tradi-
+
+tion soziologischer Forschung.” Pp. 174-204 in Die Analyse Sozialer Ungleichheit,
+
+edited by Hermann Strasser and John H. Goldthorpe. Opladen: Westdeutscher
+
+Verlag.
+
+. 19856. “On Economic Development and Social Mobility.” British Journal
+of Sociology 36:549—73.
+
+Goldthorpe, John H., in collaboration with Catriona Llewellyn and Clive Payne.
+1987. Social Mobility and Class Structure in Modern Britain, 2d rev. and enlarged
+ed. Oxford: Clarendon.
+
+Grusky, David B., and Robert M. Hauser. 1984. “Comparative Social Mobility Re-
+visited: Models of Convergence and Divergence in 16 Countries.” American Socio-
+logical Review 49:19-38.
+
+Hara, Akira. 1979. “Kaikyu Kosei no Shinsuikei” (A new estimation of class composi-
+tion). Pp. 325-64 in Ryotaisen kan no Nihon Shihonshugi (Japanese capitalism
+between the two wars), edited by Yoshio Ando. Tokyo: Todai Shuppan Kai.
+
+Hout, Michael. 1983. Mobility Tables. Beverly Hills, Calif.: Sage.
+
+Ishida, Hiroshi. 1986. “Educational Credentials, Class, and the Labor Market: A
+Comparative Study of Social Mobility in Japan and the United States.” Ph.D.
+dissertation. Harvard University, Department of Sociology.
+
+Iwamoto, Takeyoshi. 1985. “Sedaikan Ido no Susei Bunseki” (Trend analysis of
+intergenerational mobility). Pp. 215-28 in Suri Shakaigaku no Genzai (Contempo-
+rary mathematical sociology), edited by Junsuke Hara and Michio Umino. Tokyo:
+Suri Shakaigaku Kenkyukai.
+
+Kojima, Hideo, and Atsushi Hamana. 1984. “Shokugyo Ido no Keiko Bunseki”
+(Trend analysis of occupational mobility). Ibaraki Daigaku Kyoiku Gakubu Kiyo
+33:17-32.
+Lipset, S. M., and Hans L. Zetterberg. 1959. “Social Mobility in Industrial Soci-
+eties.” Pp. 11-75 in Social Mobility in Industrial Society, edited by S. M. Lipset
+and Reinhard Bendix. Berkeley: University of California Press.
+
+Morishima, Michio. 1982. Why Has Japan “Succeeded”? Cambridge: Cambridge Uni-
+versity Press.
+
+Mouer, Ross, and Yoshio Sugimoto. 1986. Images of Japanese Society. London: KPI.
+
+Murakami, Yasusuke. 1984. Shin Chukan Taishu no Jidai (The age of new middle
+mass). Tokyo: Chuo Koronsha.
+
+Nakane, Chie. 1970. Japanese Society. Berkeley: University of California Press.
+
+Patrick, Hugh, and Thomas Rohlen. 1987. “Small-Scale Family Enterprises.” Pp.
+331-84 in The Political Economy of Japan, Vol. 1: The Domestic Transformation,
+edited by Kozo Yamamura and Yasukichi Yasuba. Stanford, Calif.: Stanford Uni-
+versity Press.
+
+Saxenhouse, Gary P. 1976. “Country Girls and Communication among Competitors
+in the Japanese Cotton-spinning Industry.” Pp. 97-125 in Japanese Industrializa-
+tion and Its Social Consequences, edited by Hugh Patrick. Berkeley: University of
+California Press.
+
+Singlemann, Joachim. 1978. From Agriculture to Services: The Transformation of
+Industrial Employment. Beverly Hills, Calif.: Sage.
+
+Sorokin, Pitirim A. 1959. Social and Cultural Mobility. Glencoe, Ill.: Free Press.
+
+Steven, Rob. 1983. Classes in Contemporary Japan. Cambridge: Cambridge Univer-
+sity Press.
+
+Suzuki, Tatsuzo. 1978. “Hyohon Seido” (Sample accuracy). Pp. 16-28 in Shakai
+Kaiso to Shakai Ido (Social stratification and social mobility), edited by the 1975
+SSM Committee. Tokyo: 1975 SSM Committee.
+
+Tokuyasu, Akira. 1986. “Nihon ni okeru Sangyoka to Sedaikan no Susei Bunseki”
+(Industrialization and trends in intergenerational mobility in Japan). Pp. 101-11 in
+Shakai Kaiso no Susei to Hikaku (Trends and comparisons of social stratification),
+edited by Ken’ichi Tominaga. Tokyo: SSM Susei to Hikaku Kenkyukai.
+
+Tominaga, Ken’ichi. 1969. “Trend Analysis of Social Stratification and Social Mobil-
+ity in Contemporary Japan.” Developing Economies 7:471—-98.
+
+. 1979a. “Shakai Kaiso to Shakai Ido eno Apurochi” (Approaches to social
+
+stratification and social mobility). Pp. 3-29 in Nihon no Kaiso Kozo (The structure
+
+of social stratification in Japan), edited by Ken’ichi Tominaga. Tokyo: Todai Shup-
+pan Kai.
+
+. 1979b. “Shakai Kaiso to Shakai Ido no Susei Bunseki” (Trend analysis of
+
+social stratification and mobility). Pp. 33-87 in Nihon no Kaiso Kozo (The structure
+
+of social stratification in Japan), edited by Ken’ichi Tominaga. Tokyo: Todai Shup-
+pan Kai.
+
+. 1982. “Problems of Viewpoint in Interpreting Japanese Society: Japan and
+
+the West.” Ostasiatisches Seminar, Freie Universitat Berlin, Occasional Papers no.
+
+38,
+
+ 
+
+ 
+
+ 
+
+. 1988. Nihon Sangyo Shakai no Tenki (Change in Japanese industrial society).
+Tokyo: Todai Shuppan Kai.
+
+Tominaga, Ken’ichi, Atsushi Naoi, and Takatoshi Imada. n.d. “Current Trends in
+Studies of Social Stratification and Mobility in Japan.” University of Tokyo.
+
+Vogel, Ezra F. 1967. “Kinship Structure, Migration to the City, and Modernization.”
+Pp. 91-111 in Aspects of Social Change in Modern Japan, edited by Ronald P.
+Dore. Princeton, N.J.: Princeton University Press.
+
+Yamaguchi, Kazuo. 1987. “Models for Comparing Mobility Tables: Towards Parsi-
+mony and Substance.” American Sociological Review 52:482—94.

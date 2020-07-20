@@ -1,0 +1,1491 @@
+The Promotion Paradox: Organizational Mortality and Employee Promotion Chances in
+Silicon Valley Law Firms, 1946—1996
+
+Author(s): Damon Jeremy Phillips
+
+Source: American Journal of Sociology, Vol. 106, No. 4 (January 2001), pp. 1058-1098
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/320293
+
+Accessed: 08-06-2016 04:28 UTC
+INTRODUCTION
+
+Many studies in organizational theory, as well as articles in the popular
+press, suggest that employees are most likely to obtain career advancement
+and long-term employment within firms that have favorable life chances
+(e.g., survival, productivity, profitability). An association between firm life
+chances and firm growth underlies this positive relationship (Whetten
+1987). Favorable life chances imply more openings within an organization,
+generating greater mobility. Indeed, the argument that firm life chances
+and employee promotion chances are positively related has great intuitive
+appeal.
+
+However, previous findings have underappreciated that a firm’s rela-
+tion to its employees and the labor market is affected by its competitive
+position. A consideration of the dynamics surrounding the bargaining
+strength of an employer suggests that there is a negative relation between
+firm life chances and employee promotion chances. In the exchange of
+rewards between the employer and employee, the stronger the firm’s bar-
+gaining position, the less the firm will be compelled to cede rewards and
+resources to the employee in the form of promotions. Therefore, employers
+with favorable life chances may actually disadvantage employee attain-
+ment. Ironically, this negative relation exists alongside the advantages due
+to growth.
+
+Likewise, this negative relation can be predicted from the potential
+employee’s perspective if one considers that employees choose jobs as a
+function of the expected value of income from employment. Using this
+rational choice approach, the expected value is the income earned as a
+junior employee plus the probability of being promoted times the net
+present value of the income stream associated with being a senior em-
+ployee, manager, or owner.’ If the expected value is observable and con-
+stant across all firms, there is a tradeoff between promotion rates and the
+net present value of the income stream. In other words, firms that are
+more likely to fail offer less future income and thus must offer a higher
+promotion rate to recruit employees.’
+
+This rational choice perspective is consistent with the bargaining power
+approach since firms with favorable life chances have bargaining strength
+to the extent that they have resources that members of the labor market
+value: higher future income. Similar to the notion of bargaining power
+within economics (see Lindblom 1948; Lindbeck and Snower 1986), per-
+spectives on the employment relationship are most effective when they
+are consistent from both the perspective of the employer and employee
+(Siow 1994). It is reasonable to expect that the bargaining power and
+individual rational choice explanations are consistent rather than in com-
+petition. Whether due to the career choices of potential employees eval-
+uating the firm’s competitive position, or firm decisions that incorporate
+its competitive position, the resulting prediction is that there exists a
+negative relation between firm life chances and employee promotion
+chances.
+
+This article focuses on the likelihood of making partner in a law firm
+from the firm’s perspective. The bulk of the sociological research pointing
+to a relationship between firm life chances (e.g., firm growth) and employee
+promotion chances features conceptual and empirical analyses from the
+The Relationship between Organizational and Career Processes
+
+This research agenda fills a void in our understanding of the relationship
+between organizational and career processes. Within the organizations
+community, the open-systems perspective has made commonplace our
+understanding that an organization’s environment has relevant ramifi-
+cations for the strategy, structure, and life chances of firms (Lawrence and
+Lorsch 1967; Meyer and Rowan 1977; Hannan and Freeman 1977; Scott
+1992).
+
+Despite this acknowledgement, researchers of labor markets and careers
+have yet to fully incorporate the relationship between employers and their
+environment to understanding stratification, in general, and career pro-
+cesses, in particular (Baron and Bielby 1980). Most studies have focused
+on individual or positional influences on promotion or the effect of or-
+ganizational or environmental characteristics on the existence of employ-
+ment-related structures. For example, studies of within-firm promotions
+have often focused on the role of vacancy chains and their relationship
+to the employer’s growth (White 1970; Stewman and Konda 1983; Wholey
+1985; Rosenbaum 1989).
+
+Less often do scholars of employee opportunity structures examine the
+impact of the organization’s success and fitness—with respect to its en-
+vironment—on the career trajectories of its members. Some studies have
+examined how labor supply, labor demand (Bridges and Villemez 1991),
+and institutional pressures (Baron, Davis-Black, and Bielby 1986; Edel-
+man 1990) affect the creation and evolution of internal labor markets.
+Unfortunately, these studies do not explore whether the existence of formal
+opportunity structures are influenced by an employer’s performance.
+Moreover, these studies do not directly examine career trajectories, rather
+they seek to explain the existence of particular bureaucratic governance
+structures of opportunity and control. While we tend to infer promotion
+patterns based on organizational structures, we are unable to understand
+the variance within particular formal structures due to organizational life
+chances.
+
+Thus, while the scholarship on internal labor markets and promotion
+chances has been a substantial contribution to organizational sociology,
+we have not fully developed an understanding of how career trajectories
+are influenced by the fate of the employer—where career trajectories are
+embedded. I argue that fruitful insights can be obtained by understanding
+how employee opportunity structures are influenced by an employer’s
+relationship to its ecological niche. To date, there have been few attempts
+to develop a research agenda capable of linking firm survival and career
+mobility.
+
+Research is moving in this direction, however. Brittain and Wholey
+(1991) examine the effect of industry volatility and uncertainty on quits
+and layoffs. However, they do not consider firms as instruments through
+which environmental pressures influence career trajectories. Haveman
+and Cohen (1994) show that population dynamics (e.g., foundings, merg-
+ers, and dissolutions) create and destroy jobs, thus generating career mo-
+bility. Drawing insight from the vacancy chain perspective, their study
+traces a clear link between population dynamics and job changes, marking
+a new path of research that examines the consequences of firm life chances
+on individual mobility. In another study that simultaneously considers
+organizational and career processes, Sgrensen (1999) addresses how the
+structure of competition affects patterns of career mobility. He finds that
+firms that recruit from the same sources as their competitors have lower
+growth rates, due to the competition in the more dense regions of the
+labor market. While these studies have advanced the understanding of
+the relationship between firms and individual mobility, there exist many
+unanswered questions. Without further developing an understanding of
+the relationship between a population of firms and the careers of indi-
+viduals, the conclusions made by organizational theorists and career re-
+searchers will be sorely incomplete.
+
+One key to further understanding the relationship between the fate of
+firms and individual careers is exploring the relationship between a firm’s
+life chances and the promotion chances of individuals that work within
+them. This article seeks to demonstrate that contradictory outcomes exist
+and shape the opportunity structure of individual careers. That is, there
+is a negative relation between firm life chances and the promotion chances
+of its employees. Moreover, it uses bargaining power as a conceptual
+framework for understanding why this relation exists. In essence, firm
+life chances are associated with the firm’s bargaining strength in the
+employment relationship.' Employers with strong life chances (ie.,
+BACKGROUND AND THEORY
+Organizational Growth and Employee Promotion Chances
+
+The intuition that there is a positive relationship between employer and
+employee success is supported by studies that examine the impact of
+organizational growth on employee promotions (Stewman and Konda
+1983; Rosenbaum 1984; Wholey 1985). While a conclusion drawn by other
+sociologists as well as economists (Chiang 1986; Holzer 1991), much of
+the research linking growth and promotion chances has been developed
+by scholars in the vacancy chain tradition (White 1970). This research is
+accompanied by articles in the business popular press that claim long-
+term employment and employee advancement occur in successful firms
+(e.g., Hatvany and Pucik 1981).
+
+White’s (1970) seminal work introduced vacancy chains into discussions
+of mobility by noting how the retirement of Methodist clergy initiated a
+chain of vacancies filled sequentially by an occupant in a lower rank.
+Using insights from White (1970) and Keyfitz (1973), Stewman and Konda
+(1983; Stewman 1986) developed and refined a model of multiple grade
+ratios to predict promotion patterns. In addition to factors such as cohort
+size and exit rate, Stewman and Konda (1983) found that the rate of
+promotions increases with organizational growth. The logic is straight-
+forward: organizational growth involves the creation of new vacancies at
+the top and new subunits throughout the organization, which leads to
+them being filled by new hires and lower-ranked employees. Thus,
+whereas a retirement was the catalyst for increased attainment by lower-
+ranked employees in White (1970), organizational growth was also iden-
+tified as a mechanism for attainment.
+
+The relationship between firm growth and the probability of promotion
+is not confined to vacancy chain research however. Rosenbaum (1984)
+argues, with empirical evidence, that firm growth allows more people to
+be winners in a tournament selection. Pfeffer (1983) uses an analysis of
+a US. railway industry case study from 1885 to 1940 (Morris 1973) to
+draw a similar conclusion. He shows that a lack of growth is one of the
+
+chances, I expect my arguments to hold for other indicators of firm strength. For
+institutions that rarely fail, such as universities, one would require an indicator of firm
+strength that is more appropriate for the context.
+factors responsible for a firm’s inability to hold or attract young talent.
+The increasing net loss of talent resulted in further performance problems
+and organizational decline, leading to the failure of some of the organi-
+zations in the railroad industry.
+
+The extension of each of these arguments is that there is a positive
+relation between the life chances of firms and the promotion chances of
+its employees. However, I argue that alongside the positive contribution
+of firm growth to employee promotion chances, a negative relation, also
+associated with firm life chances, exists. This relationship is captured with
+the following insight: favorable life chances are associated with bargaining
+power on the part of the firm. Bargaining power privileges the firm to
+limit the resources it shares with its employees without detrimental con-
+sequences. This view is consistent with Sgrensen and Kalleberg (1981)
+and Sgrensen (1983) in their argument that employers turn away from
+internal promotions and toward the external labor market to the extent
+that the employer has greater power than the employee. Promotions are
+one of the rewards and resources that employers concede when their
+advantage is weakened.
+lationship between firm strength and promotion can be derived from the
+perspective of the potential employee. Two assumptions are necessary.
+First, firm strength is correlated with profits the firm shares with those
+promoted. In other words, stronger firms have greater rewards to share
+with their members than do weaker firms. Second, potential employees
+are able to select employers with the goal of maximizing their expected
+value of income. The potential employee is able to distinguish a set of
+employers on the probability of promotion and the rewards given to those
+promoted. The expected value of income is a function of rewards given
+to those promoted, as well as the probability of promotion.
+
+Given these two assumptions, weaker firms must offer higher proba-
+bilities of promotion in order to attract potential employees. The rela-
+tionship between firm strength and promotion chances is a result of po-
+tential employees rationally choosing employers based on a calculation of
+expected future income. The stronger the firm’s competitive position, the
+greater its rewards to those promoted and the greater its ability to min-
+imize the probability of promotion promised to potential employees. Com-
+petitive strength gives the employer the ability to offer lower promotion
+without punishment from the labor market.
+
+Similarly, one may reasonably posit that firms with strong life chances
+offer highly valued jobs that reward their employees with highly observ-
+able and positive information about their individual talent. Employees
+take jobs at firms with strong life chances because it will imply that they
+are high-quality employees. Future income is expected to be higher when
+an employee is seeking a job in firms with greater firm strength since
+employment increases the income of future jobs. In this case, firms with
+highly valued jobs are able to offer lower chances of promotion in
+exchange for inferring the talent of its employees. Bargaining power, in
+this case, is derived from the signaling ability of firms with strong life
+chances.
+
+This phenomenon is one that I term the promotion paradox. Firms with
+strong life chances (e.g., survival, productivity, profitability, etc.) have
+greater bargaining power than do firms with weak life chances. Similar
+to Hannan’s (1998) use of firms occupying robust and fragile positions,
+strong life chances allow a firm to be less susceptible to environmental
+variation and shocks (such as labor turnover). While occupying strong
+competitive positions allows a firm to attract and retain employees seeking
+to obtain a share of the firm’s resources, the firm is able to deny the same
+resources to many employees without severe penalty. When coupled with
+the fact that weak life chances reflect a firm that has a high likelihood
+of failure, firms at risk of failure become the contexts for employee
+promotions.
+
+This proposition has both counterintuitive and paradoxical elements.
+First, it argues against the intuition derived from vacancy chain and
+organizational growth studies, in addition to reports in the popular lit-
+erature. Whereas these contributions suggest that firms with strong life
+chances are also the best context for employee promotions, I modify the
+argument. Independent of firm growth rates, firms with weak life chances
+(i.e., having a high risk of failure) are the best contexts for employee
+promotions. Second, the proposition is paradoxical. If promotion occurs
+more often in firms that have a high likelihood of failure, there is a risk
+of seeking tenure in a firm that is likely to fail. Firm failure, as Haveman
+and Cohen (1994) demonstrate, is tantamount to the destruction of one’s
+job. I argue that it is exactly this tension that often describes the em-
+ployment relationship.
+
+To be clear, I am not arguing that the prevalence of vacancies is ir-
+relevant to promotions. It is tautologically true that a job must exist if
+an individual is to fill it. Rather, I would argue that vacancy-based per-
+spectives tend to remain agnostic about conditions that lead to the creation
+of vacancies. Bargaining power is one important determinant of when
+vacancies are actually created.
+DATA AND METHOD
+Context
+
+I test my proposition using longitudinal data on Silicon Valley law firms
+and cohorts of attorneys that work within the firms. Law firms are an
+appropriate context for testing my proposition for three related but distinct
+reasons. First, promotion to partner is clearly a substantial increase in
+both the associate’s pecuniary and nonpecuniary rewards. By using law
+firms, one avoids employment contexts in which pay and promotions are
+decoupled. In essence, the relationship between firm strength and ad-
+vancement is less “noisy” than other work arrangements. Second, law
+firms allow a clear distinction between the firm and its employees. The
+firm is the set of partners, whereas the employees are the associates. In
+many contexts, this distinction is less clear, and in some cases, it is con-
+tinuous rather than qualitative. Third, law firms emphasize promotion
+from within. Wholey (1985) notes that candidates for promotion to partner
+are much more likely to be those hired initially as first-year associates
+than a lateral hire from another law firm. Therefore, law firms are a
+sensible case for an initial test of my proposition. I use the period from
+1946 to 1996 to observe firm failures and individual promotions. Given
+that the emergence of Silicon Valley is attributed to events that occurred
+after World War II (Saxenian 1981), starting the observation period in
+Santa Clara County and the Emergence of Silicon Valley: A Synopsis
+
+While the geographic region nicknamed Silicon Valley is now known as
+a center for high-tech research and entrepreneurial activity, the pre-World
+War II characterization of the region (Santa Clara County) was that of
+fertile agricultural soil (Saxenian 1981). World War II was the turning
+point for the county’s shift to a technological economy. The war served
+as a catalyst for the creation of many organizations, such as Hewlett
+Packard. Eventually, through the founding of technological firms by Stan-
+ford graduates and spin-offs from existing firms, a critical mass of elec-
+tronics-based firms arose, facilitating the emergence of a semiconductor
+industry. A steady growth in the success and prominence of these firms
+eventually led to the term “Silicon Valley,” coined around 1971 by an
+electronics trade publication journalist.
+
+It is within this context that a niche for lawyers and their firms opened
+and expanded. Silicon Valley has an abundance of technologically oriented
+corporate clients for law firms. While not every Silicon Valley law firm
+seeks and serves high-tech corporate clients, a large part of the legal
+community is directly or indirectly dependent upon the success of the
+technologically oriented industries. In addition to corporate clients, Silicon
+Valley has a large supply of well-educated individual clients, with rela-
+tively high incomes (Saxenian 1981). These clients require their own legal
+representation and advice.
+an incentive system or motivating device used by employers (Stinchcombe
+1974). The transition from associate to partner is accompanied by in-
+creased attainment, as well as a new functional role within the firm.
+Partnership encompasses several new tasks and responsibilities, empha-
+sizing a different set of skills in firm management that transcends the
+traditional tasks involved with practicing law as an associate (Nelson
+1988).
+
+Clients prefer and tend to have strong relations with a firm’s partners
+over its associates, giving the partners a source of bargaining power (Smi-
+gel 1969, pp. 156-60). However, Smigel (1969) distinguishes between large
+and small firms by noting that small firm associates are often encouraged
+to establish strong ties with clients. In the large firms studied, associate
+contact is deemphasized (p. 201). This observation is consistent with other
+accounts given by attorneys distinguishing between small and large law
+firms (Pyszka and Clark 1997). To the extent that firm size is consistent
+with firm strength, Smigel’s (1969) observation suggests that one way in
+which a firm’s lower bargaining power is manifested is through policies
+that dictate an associate’s access to sources of revenue.
+
+The decision to promote to partner typically involves both objective
+and subjective measures. Objectively, partners consider an associate’s
+number of billable hours and papers or briefs written. In addition, it is
+typical for partners to consider both the state of the legal market and the
+firm’s economic situation when making promotion decisions (Gilson and
+Mnookin 1989; Hildebrandt 1989; Greene 1999). Subjectively, partners
+consider an associate’s untested ability to attract, retain, and enhance the
+firm’s client relations. Since many of these factors are exogenous to as-
+sociates, it is difficult for associates to predict their promotion chances or
+verify that the firm is faithfully executing the up-and-out contract (Kahn
+and Huberman 1988; Gilson and Mnookin 1989; Kordana 1995; Schmidt
+1998).
+Data
+
+The data were collected from annual Martindale-Hubbell directories using
+the 1945 edition through the 1996 edition, for law firms and attorneys in
+Silicon Valley, California (Martindale-Hubbell 1945-96). Galanter and
+Palay (1991) note that while being the most comprehensive legal direc-
+tories available, the Martindale-Hubbell directories only list those attor-
+neys that have passed the bar examination. As a result, associates that
+pass the bar after the firm is surveyed must wait another year before
+being included in the directory. This creates a potential error in the mea-
+surement and estimation of an associate’s tenure, a control variable in
+the promotion model. In addition, the Martindale-Hubbell Law Directory
+is like all directories of organizations with an unknown probability of
+excluding very small and short-lived organizations (< 1 year). To the extent
+that this occurs, one would expect this bias to make the task of demon-
+strating a liability of newness (Freeman, Carroll, and Hannan 1983) more
+difficult.
+
+Silicon Valley is a relatively self-contained market for legal services in
+Northern California (Suchman 1993; Escher and Morze 1998), making its
+choice as a context appropriate.* In this study, Silicon Valley comprises
+the following ten cities: Redwood City, Menlo Park, Palo Alto, Los Altos,
+Mountain View, Sunnyvale, Santa Clara, Cupertino, Campbell, and San
+Jose. In 1996, Silicon Valley hosted 209 law partnerships employing 2,375
+active attorneys. The directories list attorney and law firm characteristics
+and, when followed across time, provide information on the life chances
+of law firms and the mobility of the attorneys that work within them.
+This collection generated data on 512 law partnerships across the 50 years,
+which comprises every firm listed with more than one active attorney
+(Le., solo practitioners are excluded).’
+
+In addition to coding firm-level data, the Martindale-Hubbell direc-
+tories were used to collect data on 12 cohorts of attorneys in Silicon Valley
+firms at four-year intervals, beginning in 1946 and ending in 1990. Only
+those attorneys hired directly out of law school or after a one-year clerk-
+ship are included. Within a cohort, the attorney’s demographic charac-
+teristics and background, employer, and position in the firm are coded
+annually until they exit the labor market, or become right-censored at
+1996. This generated a total of 443 attorneys. Supplementary data on law
+firm practice areas and employee demographics was collected from the
+National Association for Law Placement Directory of Legal Employers
+(1991-96) and the Legal Directory of the Santa Clara County Bar As-
+sociation (1967-96).
+Firm characteristics —Each firm’s age is simply recorded as the num-
+ber of years since the firm first appeared in the Martindale-Hubbell Law
+Directory biographical section. Firm size is operationalized in two ways:
+(1) the total number of full-time partners and (2) the total number of full-
+time associates. This distinction is important given the law firm context.
+The number of partners captures ownership size, whereas the number of
+associates captures the number of employees. Given this distinction, it is
+clear that employee size more easily captures the concept of organizational
+size, as considered in organizational sociology (Scott 1992). In contrast,
+there is little to guide our understanding of ownership size in the pro-
+motion context. Therefore, it will be important to examine each opera-
+tionalization of size independently. Given that the distribution of firm
+sizes is log-normal (skewed to reflect a few relatively large firms), the log
+of each size variable is coded."
+
+It is convention within the study of law firms to consider the ratio of
+associates to partners. Profits primarily come from the firm’s ability to
+leverage the skills of the partners with the efforts of the associates. As a
+measure of firm leverage, the ratio of associates to partners serves as a
+proxy for firm performance and a mechanism that drives promotion rates
+(Galanter and Palay 1991). Firms with greater leverage are considered to
+be stronger firms, with lower promotion rates.
+
+A well-specified model that includes the ratio of associates to partners
+as an interaction effect requires the inclusion of the inverse of the number
+of partners instead of the number of partners (Bradshaw and Radbill
+1987). There is no theoretical justification for including the inverse of
+the number of partners in a model of employee promotion. Rather, using
+partnership and associate size as separate components, instead of the ratio
+of associates to partners, provides a theoretically consistent model with
+easily interpretable results. This is especially the case since, in this data,
+the ratio is highly correlated to the number of associates.’ Examining the
+effect of the number of associates, while controlling for the number of
+partners, is preferred to inserting the associate to partner ratio as an
+interaction effect.
+
+Firm scope is operationalized as a continuous variable from 0 to 1. It
+captures the number of law practice areas that a law firm reports in the
+Martindale-Hubbell Law Directory in a particular year, divided by the
+total number of practice areas that are reported across all firms in that
+year. For example, if a firm in a certain year practices law in eight areas,
+but a maximum of 16 areas of law are possible, the firm’s scope is half
+of the total market. Since the number of practice areas grows from eight
+possible areas in 1946 to 79 possible areas in 1996, this measurement
+allows a relative measurement of firm scope. Given that the Silicon Valley
+legal community is in its early stages and has yet to reach maturity, it is
+difficult to directly test Carroll’s (1985) predictions. However, if Carroll
+(1985) is correct, midrange firms should be facing higher failure rates as
+they become the victims of generalists’ competitive pressures. Accordingly,
+I will test for this indicator by including a quadratic term for firm scope.
+
+Population density —Population density is calculated as the log of the
+total number of law firms in Silicon Valley for a given year. For the
+promotion to partner models, I also calculated the log of the number of
+law firms in Silicon Valley that hired at least one associate. Since not
+every firm hires associates in a given year, the hiring density may provide
+a better indicator of competition for labor.
+
+Firm status—Firm status is operationalized as the proportion of the
+firm’s attorneys that have degrees from six elite law schools (Yale, Har-
+vard, Columbia, New York, Stanford, and Chicago) within the law firm.
+The greater the number, the greater the firm’s social status. These law
+schools were selected by examining the legal affiliations of individuals in
+national and regional institutions (political and economic) since World
+War II. An assortment of methods was used to acquire this information:
+recording the affiliations of individuals in Who’s Who entries, National
+Law Journal lists of prominent attorneys, local politicians and judges,
+and so on.
+There are several alternative explanations or potential sources of unob-
+served heterogeneity that can be addressed with the use of control var-
+iables. Prominent among these variables is whether the firm is one of
+many offices, whether the subset of the area of law that a firm practices
+is specific to individual clients or corporate clients, the rate of partner
+growth and turnover, the particular era or time period in question, and
+the individual characteristics of the employee.
+
+Branch or single office —A dummy variable is coded “1” if the focal
+firm is one of many offices. It is likely that multiple (branch) office firms
+affect, and are affected by, the competitive landscape differently than
+single office firms.
+
+Individual versus corporate clients —Heinz and Laumann (1982) in
+their study of the Chicago bar found that one of the most distinguishing
+dimensions along which lawyer competition and interaction takes place
+is whether the types of law that a firm practices address the needs of
+individual clients as well as corporate clients. Firms that have individuals
+as customers compose a social system that is distinguishable from those
+firms that focus solely on corporate customers. To capture this effect, a
+variable is coded “1” if the firm practices any areas of law that pertain
+to individual clients (e.g., family law, probate and estate, etc.). Otherwise,
+the variable is coded “0.”
+
+A representative listing of each firm’s clients would also be informative
+to this study. Unfortunately, a complete listing of clients for each firm in
+Silicon Valley from 1946 to 1996 does not exist. Moreover, the subset of
+firms that provides a representative list of their clients does not do so
+reliably. Fortunately, much of the variance of firm clientele tends to be
+captured by the firm’s size (larger firms have larger corporate clients) and
+the individual client dummy variable used here (Smigel 1969; Heinz and
+Laumann 1982).
+
+Growth and partner turnover.—Proportional growth of the number of
+partners is coded to capture the rate with which the firm is creating and
+filling new vacancies for partnership. To capture promotions due to part-
+ners leaving the firm and creating vacancies to be filled, a variable is
+coded to capture the proportion of partners to leave in the past year. This
+variable also controls for the effect of firm failure due to partners aban-
+doning the firm. Each of these variables addresses two aspects of the
+vacancy chain argument: vacancies are created by growth, and vacancies
+are created by the departure of senior members.
+
+Period effects Four dummy variables are coded to capture activity
+before 1970, between 1970 and 1986, between 1987 and 1991, and between
+1992 and 1996. Before 1970, there was little change in the social and
+economic landscape of Silicon Valley. However, beginning around 1970,
+Silicon Valley experienced a period of rapid growth, lasting until the stock
+market drop and subsequent recession (1987-91). Finally, the years 1992
+to 1996 are coded to capture the beginning of the postrecession era. These
+dummy variables serve to capture some of the unobserved heterogeneity
+that may be due to the time period that the firm or attorney may exist
+in.
+
+Individual characteristics —Organizational demography and career
+mobility researchers have identified individual-level factors that influence
+promotion chances. Here, I include the attorney’s age, plus six dummy
+variables. Each attorney’s date of birth is given in the Martindale-Hubbell
+Law Directory. Age has competing effects. New employees who are
+younger than the average new hire are often assumed to be more qualified
+(Rosenbaum 1984). On the other hand, age also reflects work force ex-
+perience, which would enhance one’s promotion chances. Age is obtained
+from each attorney’s reported date of birth.
+
+A dummy variable is included to capture whether the attorney is a
+woman. If the new hire attended an elite law school (Yale, Harvard,
+Stanford, Columbia, New York, and Chicago), a dummy variable was
+coded “1.” Finally, there are three indicators of associate quality: (1) grad-
+uated with magna/summa cum laude, (2) was a member of an honors
+society, and (3) served as a law clerk for a judge.
+estimation of the changes of the event occurring while controlling for age
+dependence (Tuma and Hannan 1984).
+
+I model the hazard rate of firm failure and promotion with piecewise
+constant exponential models. This approach allows the inclusion of firm
+age (in the failure rate model) and attorney tenure (in the promotion rate
+model), while avoiding misspecification that accompanies other functional
+forms. A piecewise constant exponential model splits the time axis into
+time periods. In the model for firm failure, the time axis is split according
+to firm age, whereas in the model for promotions, the axis is split according
+to employee tenure. It assumes that transition rates are constant in each
+of these intervals. However, base rates vary freely across time periods.
+The assumption is that the period-specific baseline rate can vary across
+time periods, but the covariates have the same (proportional) effects (Roh-
+wer 1993).
+
+The resulting model gives an age dependent constant (a “y-intercept”)
+for each time piece of the model. There are different strategies for choosing
+the appropriate time periods. To estimate this model, it is important to
+choose time segments that are long enough to contain a meaningful num-
+ber of events (i.e., firm failures). For example, a firm age segment from
+20 to 22 years old could not be estimated if no firms fail within this age
+window. Some theoretical predictions may require that the time periods
+take on particular values. In my model, I assume no a priori knowledge
+of age dependence. The null is an exponential hazard rate model without
+time periods (where it is assumed that rates are time invariant). From
+this baseline, I only include those time periods that led to an improvement
+in the chi-square fit of the failure rate model (P < 0.05). As a result, the
+y-intercepts included in the model are statistically significant with respect
+to a chi-squared model improvement test.
+is a drop in the number of law firms, which recovers after 1991, continuing
+on the same slope until the end of the observation period in 1996. Figure
+2 shows the number of law firm foundings and failures over the same
+time period. Again, most of the activity begins after 1966 and increases
+until 1986. In 1987, it appears that the drop in population is due to a
+large reduction in the number of foundings combined with a slight increase
+in the number of failures. The number of foundings recovers by 1992,
+however, and continues to increase.
+
+Figure 3 is a bar graph showing a count of the number of new hires
+sampled in each cohort (the striped bar). The second (dark colored) bar
+is a count of the subset of new hires that were eventually promoted. Most
+of the new hires sampled represent cohorts from 1966 forward. A relatively
+large fraction of those hired in 1970 were eventually promoted to partner.
+The slopes of the new hires and the subset eventually promoted both
+increase, albeit at drastically different rates. The number of new hires
+increases at a much higher rate than the subset of those eventually pro-
+moted. The fact that the 1990 cohort is right censored implies that the
+subset of new hires promoted is incomplete. This figure does not include
+any new hires promoted after 1996.
+
+Figure 4 is a graph reporting the number of years to promotion for the
+87 associates that were promoted to partner. While it is clear that most
+of the promotions occur in the fifth to the eighth year, 25.3% of the
+associates were promoted in less than 5 years. It appears that there are
+two peaks. The first peak reveals that some attorneys are promoted as
+early as their second and third years of tenure. The second peak occurs
+“In an effort to understand whether early promotions occurred across cohorts, and
+varied with the size or age of the firm, I examined the raw data. It appears that the
+early promotions are more likely to occur in the earlier cohorts. However, early pro-
+motions are distributed across cohorts, with some occurring in the 1990 cohort. There
+does not appear to be a statistically strong relationship with respect to firm size or
+age. Spurr (1987), using data from 14 large New York law firms from 1969 to 1973,
+found that promotions ranged from 3 years to over 10 years, with fewer early pro-
+motions than appear in my data. He found that law firms that handled bigger claims
+waited longer to promote.
+
+‘ST also tested for density dependence (Hannan and Carroll 1992) but found no effect.
+A priori, there is no reason to expect that Silicon Valley law firms from 1946 to 1996
+would be subject to legitimation effects. By 1946, law firms were in existence and part
+of the cognitive awareness in northern California, and thus legitimated since at least
+the late-1800s (Hubbell Legal Directory 1889).
+(P < 0.01), demonstrating the lower likelihood of failure attributed to high
+status (Podolny 1993; Park 1997).
+
+Therefore, low competition, older age, larger size, and higher status all
+lower the likelihood of failure. The effect of scope is curvilinear but clearly
+shows that generalists have stronger life chances. In many ways, the
+ecological competition of law firms resembles the contexts of breweries,
+newspapers, hotels, and other contexts that ecologists have studied. Next,
+I test the relationship between these indicators of firm strength and the
+likelihood of associate promotions.
+
+The models for predicting the likelihood of promotion are presented in
+table 2. If my thesis is correct, the greater the probability of law firm
+failure, the greater the likelihood of associate promotion to partner. I test
+this thesis by examining the effect of the probability of failure indepen-
+dently of the population and firm-level covariates, and with these cov-
+ariates in the model as well. Including the individual-level covariates in
+the full model (models 4 and 6) allows the observation of the direct effects
+of each variable on the promotion rate, as well as their indirect contri-
+bution to the likelihood of failure. Furthermore, it insures that the prob-
+ability of failure cannot be explained away by including the population
+and firm-level variables. I test the proposed relationship between firm life
+chances and associate promotion chances directly by estimating the effect
+of the predicted probability of firm failure on the likelihood of promotion.
+
+In model 1 of table 2, the y-intercepts for tenure verify that promotion
+chances improve with tenure. Consistent with past research on the pro-
+motion chances by sex, women are less likely to be promoted (P < 0.05).
+Older new hires (P < 0.10), members of honor societies (P < 0.05), and
+elite law school graduates (P < 0.05) have higher rates of promotion. These
+models also include controls for the cohort that the attorney was sampled
+from. The cohort controls indicate that attorneys hired in 1970 have the
+highest likelihood of promotion with respect to the reference category
+(1946-66). This cohort coincides with the emergence of Silicon Valley.
+
+Except for population density, model 1 shows that each of the covariates
+are in the expected direction and statistically significant. While not sta-
+tistically significant, population density decreases the likelihood of pro-
+motion. Model 2, which substitutes the logged density of firms that hired
+in the most previous cohort, provides a more labor market specific measure
+of competition. Showing evidence of oligopolistic power, model 2 reveals
+that for those cohorts in which less than eight firms hired all of the
+associates, there is a negative relation between hiring density and pro-
+motion chances. When hiring density is greater than eight (the average
+hiring density is 46.57), there is a positive relation between hiring density
+and promotion chances.’®
+
+Firm age is represented as a set of dummy variables that match the
+age y-intercepts of the firm failure model (table 1). The reference category
+is firms 31 years and older. Strong support would require that each co-
+efficient be statistically significant, with descending magnitude. In other
+words, the coefficient for firms 0-2 years old should be the largest and
+significant, followed by the coefficient for firms 3-5 years, and so on. The
+model shows a strong effect for firm age. All age dummy variables are
+TABLE 1
+MLE or Firm FAILure: SILICON VALLEY LAW FIRMS
+
+ 
+
+ 
+
+Covariate (1)
+
+ 
+
+Firm age:
+<2 Years oo. eee eee eee 7.77
+TABLE 2
+MLE oF PROMOTION RATES: SILICON VALLEY ATTORNEYS
+
+ 
+
+ 
+
+ 
+
+1 2 3 4 5 6° 7*
+Tenure:
+O-3 years ....... ec e cece cece —4.60 —5.19 —4.89 —5.09 —5.19 —5.14 —5.17
+
+mn oay og wey ay ey og wm
+This content downloaded from 170.140.26.180 on Wed, 08 Jun 2016 04:28:48 UTC
+All use subject to http://about.jstor.org/terms
+TABLE 2 (Continued)
+
+ 
+
+ 
+
+MoveL
+1970 Feet eee eee eee e eee ee eee
+VOT4 occ cee e cece e eee ene
+W978 occ e cece cece eee eee eee eens
+1982 2... cece eee eee eect eee eee eee es
+1986 2.2... eee eee eee eee ee eee tees
+1990 Lo. e cece eect eee eee e ees
+
+Max of log likelihood (df) ..............
+
+1.45*
+(71)
+1.02
+(.90)
+—.95
+(1.08)
+—.92
+(1.11)
+—143
+(1.14)
+—1.46
+(1.24)
+—213.65
+(29)
+
+2.09**
+(.73)
+1.12*
+(.62)
+—3.26**
+(1.15)
+—4.46**
+(1.61)
+—7.36**
+(2.79)
+—8.02**
+(3.06)
+—212.67
+(30)
+
+.78*
+(.46)
+-99*
+(50)
+—1.29**
+(47)
+—1.20**
+(.39)
+—1.65**
+(.38)
+—2.07**
+(.43)
+— 229.96
+(17)
+
+87*
+(46)
+87*
+(.50)
+—1.46**
+(47)
+—1.33**
+(.40)
+—1.70**
+
+(.39)
+
+    
+ 
+
+ 
+
+ 
+
+(43)
+—224.77
+(18)
+
+2.33**
+(74)
+1.19*
+(.63)
+—3.54**
+(1.18)
+—4,83**
+(1.65)
+—8.04**
+(2.88)
+—8.85**
+(3.16)
+—208.19
+(32)
+
+85*
+(46)
+.88*
+(50)
+—1.58**
+(49)
+—1.39**
+(.40)
+—1.75**
+(39)
+—2.34%*
+(45)
+—219.48
+(17)
+
+2.31**
+(74)
+1.15**
+(.62)
+—3.68**
+(1.18)
+—4,90**
+(1.64)
+—8.04**
+(2.85)
+—8.97%*
+(3.13)
+—202.61
+(1)
+
+ 
+
+Note.—Data are given for 1,775 person-years, 443 attorneys, and 87 promotions. y-intercepts are x’ tested.
+“ Without near-death firms (2% of sample): 1,735 person-years, 85 promotions.
+
+* P <.10, one-tailed tests.
+* P< .05.
+** P< 01.
+significant (P < 0.05), with each dummy variable having a magnitude less
+than the previous dummy."”
+
+The two measures of size give opposite findings. Ownership size, given
+as the logged number of partners, increases the likelihood of promotion.
+The more traditional measure of organizational size, employee size, de-
+creases the likelihood of promotion. Both measures are significant at the
+P < 0.05 level. Therefore, there is support for employee size, but not
+ownership size.
+
+Promotion is less likely in generalist firms, though not statistically sig-
+nificant once competition is appropriately specified. While not shown here,
+a quadratic representation of generalism was not significant. The fact that
+promotion is more likely in firms that have individual clients supports
+Heinz and Laumann’s (1982) argument that the higher status and more
+selective members of the legal profession are the attorneys and firms that
+practice law for corporate clients (also see Abbott 1988). Finally, high
+status firms are less likely to promote associates to partners, but similar
+to scope, this effect is not significant in model 2.
+
+Models 3-7 test the central proposition, that there is a negative rela-
+tionship between a firm’s life chances and the promotion chances of its
+employees. Model 3 introduces the predicted probability of firm failure
+for the employer, as a predictor of promotion. Using each of the coefficients
+from the full firm failure model (table 1), I generate hazard rates of failure
+of each of the firms in the promotion sample, according to the firm and
+population characteristics each firm faces. Thus, for each person-year,
+there exists a hazard rate of failure for the focal attorney’s employer. The
+hazard rate is transformed to the predicted probability of firm failure
+using the following formulation,
+
+Predicted probability of firm failure = 1 — exp(u"),
+
+where yp” is the hazard rate of firm failure. This transformation is used
+by scholars that have similar approaches (Hannan and Carroll 1992; Car-
+roll and Harrison 1994; and Lee and Harrison 1998). Interestingly, model
+3 reveals that there is no statistically significant linear relationship be-
+tween the likelihood of firm failure and associate promotion to partner.
+This is surprising given the findings in models 1 and 2 that strongly
+support my proposition.
+
+An examination of the distribution of the probability reveals an im-
+portant pattern—greater than 98% of the firms have a probability of
+failure less than 0.07, while less than 2% have probabilities of failure
+between 0.07 and 0.99 (see the appendix for the distribution of proba-
+bilities). It is possible that the relationship between the probability of
+failure and promotion chances is different for firms with a very high
+probability of failure. Specifically, the “promotion paradox” may not apply
+to firms that are “near death.”
+
+There are two ways of verifying my contention that the hypothesis does
+not hold for firms that are near death. First, including a quadratic term
+for the probability of failure should clarify the results and provide a better
+model fit. Specifically, the linear term should be positive and the quadratic
+term negative. Second, one would expect that running the models without
+the 2% of the firms that are the most likely to fail should result in a strong
+linear effect for the predicted probability of failure. I use both as a means
+of verification.
+
+Models 4 and 5 examine the associate to partner promotion rate with
+the quadratic specification. Introducing the quadric term does clarify the
+relationship between firm life chances and employee promotion chances.
+In model 4, both the linear and squared terms have strong statistical
+significance (P < 0.01 and P < 0.05, respectively). Model 5 reveals that
+while attenuated, the linear term remains significant (P < 0.05) after the
+inclusion of the population and firm-level variables. The quadratic term
+is now marginally significant. Interestingly, model 4 also indicates that
+several of the population and firm-level variables have direct effects on
+the probability of promotion, independent of their contribution to the
+likelihood of failure. Strongest among these covariates are the growth
+rate, ownership size, and employee size. The dummy variables for an
+individual client focus, while attenuated, remain significant as well. The
+effect for firm age largely disappears once a firm’s likelihood of failure is
+controlled for. Independent of the likelihood of failure, firms ages 10-30
+years are the most likely to promote. This result is interesting since many
+of the firms 10-30 years old were founded between the years 1966-86.
+This period, while profitable, was also highly uncertain, with law firms
+pioneering risky fee arrangements with high-tech start-up clientele (Wool-
+ley 1992; Chanen 2000). The hiring density remains unchanged from
+model 1. This is not surprising since the predicted probability of failure
+is calculated using the entire population density, and not the subset mod-
+eled in model 5.
+
+Models 6 and 7 examine the promotion to partner likelihood after ex-
+cluding the 2% of firms with the greatest likelihood of failure (the near
+death firms). The results are consistent with models 4 and 5. Except for
+near death firms, there is a statistically strong relationship between the
+predicted probability of firm failure and the likelihood of promotion (P
+< 0.01). Therefore, both strategies to validate the near death explanation
+support this modification to my original thesis.
+
+Overall, the final model supports the proposition that the greater a
+Taken together, the results allow us to address the thesis that is central
+to this article. There is strong evidence of a negative relation between
+firm life chances and employee promotion chances. Law firms that are
+young, small, narrow in scope, or lower in status have a higher likelihood
+of failure but are also contexts where the likelihood of promotion is high-
+est. Moreover, there is a clear relationship between a firm’s likelihood of
+failure and the promotion chances of individuals that work within the
+firm. Whether through the decision of firms during the tenure of an as-
+sociate, or the decision of attorneys in their selection of an employer, firms
+with weak life chances have less bargaining power. This lack of bargaining
+power results in better promotion chances for employees.
+
+It is likely that near death firms lack the power to retain any of their
+employees. At some point, one’s employer is so unattractive that employee
+exit is the most likely outcome. In this case, the likelihood of observing
+a promotion declines quickly as it becomes clearer that promotion will
+have little value. Therefore, while my theory accurately predicts the re-
+lationship between the likelihood of failure and the likelihood of pro-
+motion for 98% of the cases, a caveat is necessary. The promotion paradox
+is relevant in every case except for those firms that are near death.
+
+My prediction with respect to firm age was supported. Silicon Valley
+law firms suffer from a liability of newness. Younger firms are the most
+likely to fail. This finding is consistent with age dependence in auditing
+firms, another professional service firm. Boone, Brocheler, and Carroll
+(1998) found that Dutch auditing firms from 1896 to 1970 suffered from
+a liability of newness. Their finding for age dependence is less clear after
+1970, however, when supply and demand regulations were instituted. The
+lack of strength due to its “newness” places a young employer at a dis-
+advantage, resulting in higher promotion rates. A young firm does not
+have access to all sources of labor, neither is it as readily equipped to
+replace lost employees as are more established firms. Furthermore, this
+firm is more likely to desire input from new hires concerning the culture
+and direction of the organization than would an older firm. The inclusion
+of the likelihood of failure into the promotion model significantly dimin-
+ishes the effect of firm age, giving stronger reason to consider the “liability
+of newness” argument with respect to firm bargaining strength.
+
+Interestingly, the effect for firms between 10 and 30 years old remains
+statistically significant once the probability of failure is included. This
+suggests that there remain aspects of bargaining power not incorporated
+into the law firm’s probability of failure. Given that many of the firms
+in this category were founded during the birth and initial rise of Silicon
+Valley, there are two potential sources of unobserved heterogeneity. First,
+the initial rise in Silicon Valley was characterized by unique fee structures
+pioneered by Silicon Valley law firms. These law firms took equity in a
+young firm in lieu of standard fees. While becoming increasingly more
+common, the strategy is high risk (relying on the success of the new
+venture) and was viewed by many more established firms (e.g. New York
+and Chicago firms) as unethical. This increased risk may have led to firms
+within the 10-30-year age category to lose bargaining power without
+having that loss reflected in the firm’s likelihood of failure. Second, 10-30
+years of age is the time when the law firm’s original founders reach
+retirement age (the average founding age is approximately 42 years old).
+It is possible that the uncertainty surrounding the departure of a firm’s
+founders reduces the firm’s bargaining power. Since the founder’s age
+was not included in generating the probability of law firm failure, I may
+have overlooked this source of unobserved heterogeneity. Future research
+should examine those populations in which older firms are more likely to
+fail, to determine whether the promotion paradox is robust with respect
+to firm age.
+
+The findings for organizational size provide fruitful insight. Employee
+size, the more traditional interpretation of organizational size, supports
+the promotion paradox framework. Large firms are more likely to survive,
+and because of their stronger position, they are less likely to promote
+associates to partners. Independent of its contribution to the firm’s like-
+lihood of failure, there is a direct effect for the number of associates. This
+direct effect is in part due to the increased competition between associates
+that occurs for coveted partnership positions (ceteris paribus). Indepen-
+dent of the effect of size on the firm’s likelihood of failure, the greater
+the number of associates, the greater the competition that each associate
+faces, thus lowering the likelihood of promotion.
+
+Firms with many owners are less likely to survive and are more likely
+to be the contexts for promotions. This result, and its resilience once the
+firm’s probability of failure is included, is consistent with other findings
+in vacancy chain and graded ratio research (Stewman and Konda 1983).
+One difference between my conceptualization and the graded ratio re-
+search, however, is in the underlying mechanism. Stewman and Konda
+(1983) would model the ratio of partners to associates as the firm structure
+that modifies the creation of vacancies through growth and attrition (see
+p. 649). I examine the number of partners, associates, attrition, and growth
+independently, emphasizing the number of partners and associates as in-
+dependent indicators of firm strength and the propensity to promote rather
+than factors that modify the creation of vacancies. Despite this difference,
+the observed outcome is similar: the more partners a firm has (controlling
+for the number of associates), the greater its propensity to promote.
+
+One plausible interpretation of this finding involves the cost of pro-
+motion to the original set of partners. Partnership size may reflect the
+cost to each partner when a new partner is promoted. For example, if a
+firm with only two partners promotes an associate to partner, the division
+of profits decreases by 1/6 or 0.167 (1/2 minus 1/3) for the two original
+partners. However, if a law firm with 20 partners promotes an associate,
+the division of profits decreases by only 0.002 (1/20 minus 1/21). Therefore,
+the greater the number of partners, the lower the cost to the average
+partner for promoting an associate to share in the profits as a partner.
+
+In support of past research, generalists and high-status employers are
+both more likely to survive and less likely to promote (although neither
+is statistically significant in the final model). In the context of law firms,
+a service industry heavily dependent upon human capital, generalism may
+have a different meaning than in past research contexts, such as news-
+papers (Carroll 1985). There are two significant differences. The first (a
+conceptual difference) is that areas of practice within the legal profession
+have a strong component of supply-side social construction. Rich social
+processes are involved in determining the value and boundaries of various
+specialties of law (Heinz and Laumann 1982; Abbott 1988). Second (an
+empirical difference), from 1946 to 1996, the number of distinguishable
+areas of law in Silicon Valley increased from eight to approximately 79.
+Therefore, what it means to be a generalist necessarily changes. While I
+attempted to capture this increased differentiation by operationalizing
+generalism relative to the total number of distinguishable areas in a par-
+ticular year, understanding the proliferation of practice areas requires
+further exploration. In short, future research should examine the role of
+generalism in more detail.
+
+The findings on firm status support the notion that high-status firms
+have meaningful competitive advantages (Podolny 1993; Park 1997).
+High-status law firms have a lower likelihood of failure. Whereas most
+in the legal press assume that size and status are interchangeable, I con-
+ceptualize and model each factor separately. Indeed, separating these var-
+iables yields insight in the study of law firms that have been previously
+overlooked.
+
+Contrary to expectations, the results indicate that while not significant,
+the greater the population density, the lower the likelihood of promotion.
+I expect that the result in model 1 reflects the fact that population density
+does not capture labor market competition as well as product market
+competition. For the promotion to partner model, the hiring density more
+easily captures the competition in the labor market. The finding for the
+hiring density suggests that when only a few firms hire associates, these
+firms possess oligopolistic (or oligopsonistic) power (Blair and Harrison
+1993). In other words, the set of employers may collude with respect to
+their hiring and promotion practices in order to avoid interfirm compe-
+tition for labor. Once there are greater than eight employers (solving for
+the inflection point of the linear and quadratic term), collusion is no longer
+possible, and the competition for associates more closely resembles the
+neoclassical case of perfect competition. Thus, the majority of associates
+in my sample have increased promotion chances due to competition be-
+tween firms for labor.
+
+The negative relation between law firm strength and associate pro-
+motion chances remains when controlling for demographics (age, race,
+and sex), human capital (elite law school, honor society, etc.), being one
+of many law offices, firm growth, firm attrition, and whether the firm
+seeks individual clients.’* The controls for growth and attrition provide
+an interesting method of testing for direct vacancy chain effects. Firm
+growth increases the likelihood of promotion, as expected. This finding
+verifies past research on the relationship between organizational growth
+and promotion chances, while serving as a reminder of the irony of the
+promotion paradox. Alongside the advantages due to growth, there is a
+negative relation between firm strength and the likelihood of promotion.
+Not only may law firm growth increase job opportunities, but it may be
+one of the factors that increases the bargaining strength of the firm as
+well. Consistent with past work, the results show that firm growth is a
+positive and significant predictor of promotion.
+
+These findings are not inconsistent with vacancy chain effects. On the
+contrary, they compliment vacancy chain processes. Firm bargaining
+strength is the result of the relationship between the firm and its envi-
+ronment. This relationship is one mechanism that determines when va-
+cancies are opened and closed. Vacancies are created when the employer
+Law Firm Employment
+
+First, the legal labor market is a unique market. Most law firms, as
+partnerships, have atypical organizational forms. In partnerships, there
+is a clear distinction between the firm and the employees. The firm is the
+set of partners, and the employees are the associates. Promotions to partner
+are largely made from within, rather than laterally. Associates that become
+partners are then members of the firm, responsible for making promotion
+decisions in the next round.
+
+In contrast, the traditional work arrangement is characterized by a more
+continuous relationship between the firm and its employees. Employees
+are thought to move up the rungs of a job ladder, where increases in
+status and pay associated with each additional rung rarely constitute an
+increase on the order of making partner in a law firm. In fact, some
+organizations employ symbolic promotions, which are characterized by a
+change in job title, but little else. Moreover, the entity making the pro-
+motion decisions is often another superior that may not use the firm’s
+strength in their decision. Thus, applying the promotion paradox to other
+organizational forms may be premature. The evidence demonstrates the
+promotion paradox’s relevance to up-or-out partnerships. Future research
+Another unique aspect to my study is its location in Silicon Valley. For
+both employers and employees, Silicon Valley is a high growth region.
+The dynamics of competition and market entry, and thus firm strength,
+may be different in more mature industries. Silicon Valley is also a region
+characterized by an incredibly low level of unemployment and high com-
+pensation. During 1997, the Santa Clara County unemployment rate was
+3.1%, the lowest in the United States (4.9%). Furthermore, 1996 income
+data reveal that the average annual earning in Silicon Valley was $43,510
+compared to $28,040 nationally (Hoffman 1997). Employees, especially
+professionals, fear loss of employment or income due to transfer less often
+than do employees in other regions of California or the United States.
+The great number of exits in my study (recall that only 87 of 463 new
+hires were promoted) draws attention to the uniqueness of the law firm
+as an employer. Caution must be taken in generalizing results to contexts
+that do not reflect these patterns. This may influence the shape of the
+bargaining power dynamics in ways that do not exist in most employment
+relations.
+
+An interesting aspect of studying Silicon Valley is the opportunity to
+investigate the employment relationship within one of the most econom-
+ically influential regions in the entire world. To my knowledge, this is the
+first in-depth, rigorous analysis of firm competition and career advance-
+ment within Silicon Valley to address these issues across a 50-year period.
+Thus, while Silicon Valley is unique, it is also critically important for both
+scholars and practitioners to glean insight from studies of a region that
+has set the technological pulse and direction of the United States and
+much of the world.
+This study is an important contribution to organization theory, as well
+as research on stratification and career mobility. First, it conceptually and
+empirically bridges the void between research on organizations as em-
+bedded in environments and the career advancement opportunities of the
+organization’s employees. Second, the richness of the data allows one to
+test alternative hypotheses while exploring new ideas in a way that has
+not been possible in past research. For example, while some may argue
+that growth or attrition are the covariates of primary relevance, I find
+that the promotion paradox exists whether or not these better-known
+engines of mobility are controlled for. This is important, for it suggests
+that the influence of the firm’s environment is largely independent of the
+usual indicators of promotion opportunities. Third, this research advances
+the understanding of professional career mobility (attorneys) in service,
+human capital intensive, industries (legal services).
+
+One of the most important contributions lies at the theoretical under-
+pinnings of this thesis: that there is a significant relationship between an
+organization’s life chances and its bargaining strength. Without taking
+this relationship into account, along with its implications for organizations
+and their employees, we are led to an incomplete interpretation of strat-
+ification and career advancement. This research opens more possibilities
+for the applications of organizational theory to understanding an indi-
+vidual’s structure of opportunity (Baron and Bielby 1980). While this
+article focuses on the contributions of organizational ecology and popu-
+lation dynamics, there is a larger theme of understanding how the fate
+and life chances of firms influences the rewards and opportunities of
+individuals that has only begun to be explored.
+
+The findings of this study have particular implications for stratification.
+Traditionally, the syntheses between organizations and stratification has
+given us the insight that organizational and environmental attributes drive
+variation in individual attainment. Much of this work has examined dif-
+ferences in opportunity as a function of the firm’s economic sector/industry
+and whether the firm has formalized employment structures (Baron 1984).
+Extending this research, this article suggests that an associate’s oppor-
+tunity structure is also a function the law firm’s competitive strength.
+The stratification of Silicon Valley law firm associates is influenced by
+the distribution of firm competitive strength within the population. More
+mobile (or less stable) careers are positively associated with populations
+dominated by law firms with strong life chances. To the extent that a
+population of employers has weaker life chances, opportunity structures
+become more stable while the rewards of partnership become more likely
+to be attained.
+The results of this study offer new insights to the study of law firms
+in particular. My analyses would argue that modeling law firm promotion
+systems as up-and-out firms (O’Flaherty and Siow 1995), professional
+labor markets (Wholey 1985), or arenas for tournament-based promotions
+(Galanter and Palay 1991) are credible but incomplete representations. A
+more complete understanding of organizational influences on attainment
+and mobility requires us to better understand the role of the organization’s
+environment in influencing bargaining strength.
+TABLE A2
+DESCRIPTIVE STATISTICS FOR 1,775 PERSON-YEARS (443 SILICON VALLEY
+NEw Hires), 1946-96
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+Variable Min Max Mean SD
+Tenure (yrs) 1 11 2.97 1.82
+Promotion .. 0 1 05 see
+Attorney’s age 25 55 31.57 4.63
+Female ........ 0 1 235
+Elite law school 0 1 18
+Magna/summa .. 0 1 09
+Honors society 0 1 23
+Clerk/extern .. 0 1 04 see
+Firm age ... 1 49 15.75 9.53
+In(density) .. 2.08 5.34 4.99 45
+In(hiring density) . .00 4.09 3.71 64
+In(partners) . -00 4.47 2.34 94
+In(associates) . 00 5.33 247 1.20
+Scope ... O01 62 23 42
+Individual clients . 0 1 84
+Branch office . 0 1 57 see
+Growth (%) .. .00 3.00 20 27
+Attrition (%) . -00 56 07 14
+Firm status . -00 1.00 23 19
+
+ 
+
+Probability of failure ... -00 99 01 08
+REFERENCES
+
+Abbott, Andrew. 1988. The System of Professions: An Essay on the Division of Expert
+Labor. Chicago: University of Chicago Press.
+
+Baron, James N. 1984. “Organizational Perspectives on Stratification.” Annual Review
+of Sociology 6:737-65.
+
+Baron, James N., and William T. Bielby. 1980. “Bringing the Firms Back In:
+Stratification, Segmentation, and the Organization of Work.” American Sociological
+Review 45 (5): 737-65.
+
+Baron, James N., Alison Davis-Blake, and William T. Bielby. 1986. “The Structure of
+Opportunity: How Promotion Ladders Vary within and among Organizations.”
+Administrative Science Quarterly 31:248-73.
+
+Bellows, Paul F. 1987. “Breakups: Facing the Practical Issues.” Legal Economics 13
+(4): 25-32.
+
+Blair, Roger D., and Jeffrey L. Harrison. 1993. Monopsony: Antitrust Law and
+Economics. Princeton, N.J.: Princeton University Press.
+
+Boone, Christopher, Vera Brocheler, and Glenn R. Carroll. 1998. Custom Service:
+Application and Tests of Resource Partitioning Theory among Dutch Auditing Firms
+from 1896 to 1992. Working paper. IMIO (Institute of Management, Innovation, and
+Organization), University of California, Berkeley.
+
+Bradshaw, York, and Larry Radbill. 1987. “Method and Substance in the Use of Ratio
+Variables (in Comments).” American Sociological Review 52 (1): 132-35.
+
+Bridges, William P., and Wayne J. Villemez. 1991. “Employment Relations and the
+Labor Market: Integrating Institutional and Market Perspectives.” American
+Sociological Review 56:748-64.
+
+Brittain, Jack W., and Douglas R. Wholey. 1991. “Structure as an Environmental
+Property: Industry Demographics and Labor Market Practices.” Pp. 155-88 in Social
+Mobility and Social Structure, edited by Ronald L. Breiger. New York: Cambridge
+University Press.
+
+Carroll, Glenn. 1985. “Concentration and Specialization: Dynamics of Niche Width in
+Populations of Organizations.” American Journal of Sociology 90 (6): 1262-83.
+
+Carroll, Glenn R., and J. Richard Harrison. 1994. “On the Historical Efficiency of
+Competition between Organizational Populations.” American Journal of Sociology
+100 (3): 720-49.
+Carroll, Glenn R., and Anand Swaminathan. 2000. “Why the Microbrewery
+Movement? Organizational Dynamics of Resource Partitioning in the U.S. Brewing
+Industry.” American Journal of Sociology 106 (3): 715-62.
+
+Chamberlain, N. W., and J. W. Kuhn. 1965. Collective Bargaining, 2d ed. New York:
+McGraw-Hill.
+
+Chanen, Jill Schachner. 2000. “Banking on Client Futures.” ABA Journal 86 (June):
+78.
+
+Chiang, Shin-Hwan. 1986. “Cost Saving, Wages and the Growth of the Firm.”
+Economic Journal 96:798-807.
+
+Cyert, Richard M., and James G. March. 1998. A Behavioral Theory of the Firm, 2d
+ed. Englewood Cliffs, N.J.: Prentice-Hall.
+
+Edelman, Lauren B. 1990. “Legal Environments and Organizational Governance: The
+Expansion of Due Process in the American Workplace.” American Journal of
+Sociology 95:1401-40.
+
+Escher, W. Jon, and Suzanne L. Morze. 1998. “Building a Silicon Valley Office.” White
+paper. Major, Hagen, and Africa, San Jose, California.
+
+Freeman, John, Glenn R. Carroll, and Michael T. Hannan. 1983. “The Liability of
+Newness: Age Dependence in Organizational Death Rates.” American Sociological
+Review 48:692-710.
+
+Galanter, Marc, and Thomas Palay. 1991. Tournament of Lawyers: The Transformation
+of the Big Law Firm. Chicago: University of Chicago Press.
+
+Gilson, Ronald J., and Robert H. Mnookin. 1989. “Coming of Age in a Corporate Law
+Firm: The Economics of Associate Career Patterns.” Stanford Law Review 41:
+567-95.
+
+Greene, Jenna. 1999. “What It Takes to Make Partner.” Recorder, January 29.
+
+Hannan, Michael T. 1988. “Social Change, Organizational Diversity, and Individual
+Careers.” Pp. 48-49 in Social Change and the Life Course, vol. 1. Edited by M. W.
+Riley. Newbury Park, Calif.: Sage.
+
+. 1998. “Rethinking Age Dependence in Organizational Mortality: Logical
+Formalizations.” American Journal of Sociology 104 (1): 126-64.
+
+Hannan, Michael T.,, and Glenn R. Carroll. 1992. Dynamics of Organizational
+Populations. New York: Oxford University Press.
+
+Hannan, Michael T., and John Freeman. 1977. “The Population Ecology of
+Organization.” American Journal of Sociology 82:929-64.
+
+Hatvany, Nina, and Vladmir Pucik. 1981. “Japanese Practices and Productivity.”
+Organizational Dynamics special feature: 4-22.
+
+Haveman, Heather A., and Lisa E. Cohen. 1994. “The Ecological Dynamics of Careers:
+The Impact of Organizational Founding, Dissolution, and Merger of Job Mobility.”
+American Journal of Sociology 100 (1): 104-52.
+
+Heinz, John P., and Edward O. Laumann. 1982. Chicago Lawyers: The Social Structure
+of the Bar. Evanston, Ill: Northwestern University Press.
+
+Hildebrandt, Bradford W. 1989. “Firms in Trouble.” Pp. 308-39 in Law Office
+Management. Commercial Law and Practice Course Handbook, no. 520. New York:
+Practicing Law Institute.
+
+Hillman, Robert W. 1990. Law Firm Breakups: The Law and Ethics of Grabbing and
+Leaving. Boston: Little, Brown.
+
+Hoffman, Auren. 1997. “Comment: Good Times Aren’t Rolling Throughout State.”
+Business Journal, December 22.
+
+Holzer, Harry J. 1991. “Employment, Unemployment and Demand Shifts in Local
+Labor Markets.” Review of Economics and Statistics 73 (1): 25-32.
+
+Hubbell Legal Directory. 1889. Hubbell Legal Directory. New York: Hubbell
+Publishing.
+
+International Financial Law Review. 1994. “Death of a Law Firm.” International
+Financial Law Review 13 (3): 2.
+. 1995. “Mid-Size Firms in Trouble in New York.” International Financial Law
+Review 14 (12): 2.
+
+Kahn, Charles, and Gur Huberman. 1988. “Two-Sided Uncertainty and ‘Up-or-Out’
+Contracts.” Journal of Labor Economics 6 (4): 423-44.
+
+Keyfitz, Nathan. 1973. “The Individual Mobility in a Stationary Society.” Population
+Studies 27:335-52.
+
+Kordana, Kevin A. 1995. “Law Firms and Associate Careers: Tournament Theory
+versus the Production-Imperative Model.” Yale Law Journal 104:1907-34.
+
+Lawrence, Paul R., and Jay Lorsch. 1967. Organization and Environment: Managing
+Differentiation and Integration. Boston: Harvard University, Graduate School of
+Business Administration.
+
+Lee, Jeho, and J. Richard Harrison. 1998. “Innovation and Industry Bifurcation: The
+Emergence of Strategic Groups.” Working paper. Dallas School of Management,
+University of Texas.
+
+Lindbeck, Assar, and Dennis J. Snower. 1986. “Wage Setting, Unemployment, and
+Insider-Outsider Relations.” American Economic Review 76 (2): 235-39.
+
+Lindblom, Charles E. 1948. “Bargaining Power in Price and Wage Determination.”
+Quarterly Journal of Economics 62 (3): 396-417.
+
+Martindale and Hubbell, Inc. 1945-96. Martindale-Hubbell Law Directory. Summit,
+N.J.: Martindale & Hubbell.
+
+Meyer, John W., and Brian Rowan. 1977. “Institutionalized Organizations: Formal
+Structure as Myth and Ceremony.” American Journal of Sociology 83:340-63.
+
+Morris, S. 1973. “Stalled Professionalism: The Recruitment of Railway Officials in the
+United States, 1885-1940.” Business History Review 47:317-34.
+
+National Association for Law Placement. 1991-96. Directory of Legal Employers.
+Washington, D.C.: National Association for Law Placement.
+
+Nelson, Robert L. 1988. Partners with Power. Berkeley and Los Angeles: University
+of California Press.
+
+O'Flaherty, Brendan, and Aloysius Siow. 1995. “Up-or-Out Rules in the Market for
+Lawyers.” Journal of Labor Economics 13 (4): 709-35.
+
+Park, Douglas. 1997. The Competitive Dynamics of Status and Niche Width:
+Investment Banking in the United States, 1920-1950. Ph.D. dissertation. Graduate
+School of Business, Stanford University.
+
+Pfeffer, Jeffrey. 1981. Power in Organizations. Marshfield, Mass.: Pitman.
+
+1983. “Organizational Demography.” Pp. 299-359 in Research on
+Organizational Behavior, vol. 5. Edited by L. L. Cummings and B. Staw. Greenwich,
+Conn.: JAI.
+
+Podolny, Joel M. 1993. “A Status-Based Model of Market Competition.” American
+Journal of Sociology 98 (4): 829-72.
+
+Pyszka, Gloria, and Lisa Clark. 1997. Wide World of Work: Legal and Nonlegal Careers,
+Stanford Law Alumni Talk about Their Choices and Experiences. Stanford, Calif.:
+Stanford Law School Office of Career Services.
+
+Rohwer, Gotz. 1993. TDA: Transition Data Analysis, ver. 5.2. Working papers.
+Universitat Bochum.
+
+Rosenbaum, James E. 1984. Career Mobility in a Corporate Hierarchy. New York:
+Academic Press.
+
+. 1989. “Employee Misperceptions.” Pp. 329-53 in Handbook of Career Theory,
+edited by M. B. Arthur, D. T. Hall, and B. S. Lawrence. New York: Cambridge
+University Press.
+
+Santa Clara County Bar Association. 1967-96. Legal Directory of the Santa Clara
+County Bar Association. San Jose, Calif.: Santa Clara County Bar Association.
+Saxenian, Anna Lee. 1981. “Silicon Valley and Spatial Structure: The Industrial Basis
+of Urbanization in Santa Clara County, California.” Working Paper no. 345.
+University of California, Berkeley, Institute of Urban and Regional Development.
+Schelling, Thomas C. 1956. “An Essay on Bargaining.” American Economic Review
+46 (3): 281-306.
+
+Schmidt, Sally. 1998. Keeping the Keepers: Strategies for Associate Retention in Times
+of Attrition. Washington, D.C.: National Association for Law Placement Foundation
+for Research & Education.
+
+Scott, W. Richard. 1992. Organizations: Rational, Natural, and Open Systems, 3d ed.
+Englewood Cliffs, N.J.: Prentice-Hall.
+
+Siow, Aloysius. 1994. “Hierarchical Careers.” Industrial Relations 33 (1): 83-105.
+
+Smigel, Erwin O. 1969. The Wall Street Lawyer. Bloomington: Indiana University
+Press.
+
+Sgrensen, Aage B. 1983. “Processes of Allocation to Open and Closed Positions in
+Social Structure.” Zeitschrift fiir Soziologie 12:203-24.
+
+Sgrensen, Aage, and Arne L. Kalleberg. 1981. “Outline of a Theory for the Matching
+of Persons to Jobs.” Pp. 49-74 in Sociological Perspectives on the Labor Market,
+edited by Ivar Berg. New York: Academic Press.
+
+Sgrensen, Jesper B. 1999. “Executive Migration and Interorganizational Competition.”
+Social Science Research 28:289-315.
+
+Spurr, Stephen J. 1987. “How the Market Solves an Assignment Problem: The
+Matching of Lawyers with Legal Claims.” Journal of Labor Economics 5, 4, pt. 1,
+502-32.
+
+Stewman, Shelby. 1986. “Demographic Models of Internal Labor Markets.”
+Administrative Science Quarterly 31:212-47.
+
+Stewman, Shelby, and Suresh L. Konda. 1983. “Careers and Organizational Labor
+Markets: Demographic Models of Organizational Behavior.” American Journal of
+Sociology 88 (4): 637-85.
+
+Stinchcombe, Arthur L. 1974. Creating Efficient Industrial Administration. New York:
+Basic Books.
+
+Suchman, Mark C. 1993. “On the Role of Law Firms in the Structuration of Silicon
+Valley.” Working Paper, ser. 11. Presented to the 1993 Annual Meeting of the Law
+and Society Association, Chicago, July.
+
+Tuma, Nancy Brandon, and Michael T. Hannan. 1984. Social Dynamics: Models and
+Methods. Orlando, Fla.: Academic Press.
+
+Whetten, David A. 1987. “Organizational Growth and Decline Processes.” Annual
+Review of Sociology 13:335-58.
+
+White, Harrison. 1970. Chains of Opportunity: System Models of Mobility in
+Organizations. Cambridge, Mass.: Harvard University Press
+
+Wholey, Douglas R. 1985. “Determinants of Firm Internal Labor Markets and Large
+Law Firms.” Administrative Science Quarterly 30:318-35.
+
+Williamson, Oliver. 1983. “Credible Commitments: Using Hostages to Support
+Exchange.” American Economic Review 73:519-40.
+
+Woolley, Scott. 1992. “Law Firm Takes Equity in Lieu of Fees.” Orange County
+Business Journal 15 (50): 3.

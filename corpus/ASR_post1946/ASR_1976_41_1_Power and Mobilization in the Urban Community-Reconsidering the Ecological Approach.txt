@@ -1,0 +1,1149 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+Hawley’s theory that the distribution of system power in the urban community is related to
+its capacity for mobilization on public issues is examined in the framework of a model specify-
+ing mobilization, the scope of municipal government, the MPO ratio and organizational dimen-
+sions of system power (employment concentration and absentee-ownership) as consequences of
+the city’s functional role in an urban division of labor. The model treats mobilization as an
+unobserved variable mediating the effects of community structure on three policy variables:
+municipal government expenditures, urban renewal and poverty program funding. Coefficients
+estimated under the model suggest that, while the MPO ratio is strongly dependent on urban
+function and organizational structure, its direct effect on mobilization is stronger than effects
+produced by these factors. The model postulating mobilization is then compared with the
+results of separate regressions calculated for each policy variable. The data indicate that it
+constitutes a reasonably good fit to regression estimates where municipal expenditures and
+urban renewal success are dependent variables but not in the case of poverty funds. With regard
+to the latter, the organizational measures of system power prove more important than the MPO
+ratio. Furthermore, governmental scope is found to be a moderately important variable inter-
+vening between elements of community structure and policy consequences, but its influence is
+considerably less than that of other variables in the model. In conclusion, general support is
+claimed for an ecological approach which views urban public policy as the end result of a
+sequence of conditions originating with city size and economic function.
+policies to one regarding the ability of the
+community to “mobilize” itself to act in con-
+cert on matters of public concern. Third,
+Hawley’s study suggested a new methodology
+of community power research, one that used
+data from such sources as the U.S. Census to
+yield measures on a variety of variables for a
+large sample of cities.
+
+The present investigation will employ a
+similar methodology to deal with some unre-
+solved issues raised by Hawley’s work. Specif-
+ically, my objectives are to: (1) conceptualize
+and measure ecological or system power as an
+attribute of the primary collective units of the
+community, organizations; (2) examine the
+validity of the concept of mobilization as a
+Hawley hypothesized that the ability of a
+community to undertake urban renewal pro-
+jects depended on the distribution of system
+power.’ Arguing that power refers to the
+presence of functions that adminster or co-
+ordinate a system, he proposed that the pro-
+portion of the local population in managerial
+roles could be viewed as an indicator of the
+distribution of power which would lend itself
+to ready calculation from published sources.
+Thus, he computed the ratio of employment
+in occupations classed as managers, officials
+and proprietors to the total employed labor
+force of the city. The higher this ratio, pre-
+sumably, the greater the number of persons
+performing managerial functions and the
+greater the dispersion of power. It was Haw-
+ley’s specific theory that participation in man-
+agerial activity should be inversely related to
+the degree of urban renewal success, for the
+likelihood that decision-making would be-
+come immobilized through controversy would
+increase as more actors became involved in de-
+cision-making processes. His data yielded sub-
+stantial support for this hypothesis: under a
+variety of controls, the MPO ratio was nega-
+tively associated with urban renewal success
+over a set of American cities.
+
+Among the investigations this study pro-
+voked was a series of attempts to ascertain the
+similarity between Hawley’s index of power
+distribution and those derived from “qualita-
+tive” methods such as interviews with local
+elites. The surprising finding was that the
+Following these writers, it is my position
+that the validity of the MPO ratio does not
+stand or fall on its association with measures
+pertaining to the political reputation or parti-
+cipation of individual leaders. It is meaningful
+to consider the distribution of resources and
+personnel among functional units based in the
+community as a dimension of power which
+may be unrelated or even inversely related to
+the pattern of elite participation in decision-
+making. However, the MPO ratio as a measure
+of power may be criticized on other grounds,
+reflecting certain features of the ecological ap-
+proach which limit its usefulness for studying
+power and other organizational problems.
+
+Ecologists have made broad claims for the
+utility of their approach as a means of under-
+standing social organization (Schnore, 1958;
+Duncan and Schnore, 1959; Gibbs and Martin,
+1959; Duncan, 1961). Their use of this con-
+cept, however, is generally limited to prob-
+lems of functional differentiation and inter-
+dependence. For example, Duncan and
+Schnore (1959:142) write: “Ecological struc-
+ture is conceived as an organization of func-
+tions—activities that are dependent on other
+activities.”” Moreover, these writers argue that
+in the study of social organization: “.. . the
+elementary unit of analysis—the ‘atom’ so to
+speak—is the ‘pattern of activity’ or simply
+‘activity.’ ”’* As a central organizational vari-
+able, power or dominance is also defined in
+functional terms. It becomes a particular kind
+of activity—a set of tasks which serve to co-
+ordinate the execution of sustenance func-
+tions. Thus, Hawley equates power with the
+performance of managerial functions in his
+study of urban renewal.
+
+The issue to be raised here is that one can
+distinguish between power as an organization
+of resources and population necessary to ex-
+ecute a function from the nature of the func-
+tion itself. The former conception directs at-
+tention to the structure of collective units
+which engage in community action instead of
+the type of action undertaken. Hawley’s ap-
+proach is consistent with that of ecologists
+generally in focusing on the nature of func-
+tional tasks to the exclusion of functional
+units.“ Its limitations are evident if one con-
+siders the meaning of the MPO ratio. If it in-
+forms us of the number of individuals in
+managerial roles, it tells nothing about the or-
+ganizational base over which these managers
+exercise control. Hence, the owner of a corner
+grocery store receives the same weight in Haw-
+ley’s index as his counterpart in an industrial
+corporation employing thousands of workers.
+
+I suggest, then, that the problem of power
+as a property of the urban ecosystem is best
+addressed in the analysis of the aggregate of
+organizational units in the community which
+perform its basic tasks, generate its resources,
+structure the activities of its population and
+govern its linkages to the larger society. Two
+dimensions of such organizational power may
+be treated: (1) among the local units present
+in a city, one may consider the distribution of
+control over local resources and employment;
+(2) given a particular power distribution
+among agents residing in a specific urban
+place, one should ask further whether these
+actors are autonomous or dependent on ad-
+ministrative control originating outside the
+city in question. In one sense, system power is
+centralized if resources and employment are
+concentrated in relatively few units, and
+these, moreover, are locally controlled.*®
+
+By stressing the organizational aspects of
+system power, however, I do not mean to ig-
+nore function altogether. If power in terms of
+organization is conceptually distinct from
+power as a type of function, it is nevertheless
+true that the two are causally related. The
+nature of the task performed by an enterprise
+sets definite constraints on its structure and
+scale, the latter conceived both in terms of the
+size of individual operating units and the de-
+gree to which activities are concentrated in
+federated corporate structures with branch
+plants in multiple urban sites (Bain, 1954;
+Pappenfort, 1959; Thompson, 1965:159).
+ren, 1970). Common to most of these ap-
+proaches is the assumption that structural
+characteristics of the city determine its
+capacity for collective action, its “mobiliza-
+tion” potential. The inference is that for the
+city to be an effective system, it must achieve
+a high level of coordination among its ele-
+ments and a commitment to action which will
+permit resources to be channeled into new
+areas of collective endeavor.
+
+It is particularly important to note that the
+concept of mobilization implies a process
+which is relatively invariant across different
+types of policy outcomes. The prevailing ori-
+entation is to ignore those facets of the com-
+munity policy-making process which may be
+unique to particular issues and regard all such
+programs, expenditures and resolutions as
+consequences of a single underlying
+dynamic.® Although it is a variable of central
+theoretical importance, mobilization is never
+directly measured. It is treated as an unob-
+served mechanism which accounts for the rela-
+tionship between various quantitative indi-
+cators of policy-making (urban renewal pro-
+jects, budget expenditures, fluoridation pro-
+grams, etc.) and measured properties of com-
+munity structure (size, economic base, form
+of government, ethnicity and occupational
+composition). Although the issue is glossed
+over in the literature, it is important to ob-
+serve that these policy outputs themselves are
+not indicators of mobilization but rather con-
+sequences. While this might seem a trivial
+point to some, I would suggest that an ac-
+curate model of these phenomena should
+At this point, it is useful to consider a pos-
+sible causal sequence by which a community’s
+role in a territorial division of labor affects its
+capacity to take action on matters of public
+policy. This approach embodies a basic eco-
+logical principle: that cities are interdepen-
+dent units in a national system and the
+characteristics of a given urban place reflect
+the specific functions it performs with refer-
+ence to that larger system (Duncan and Reiss,
+1956).
+
+Consistent with the ecological approach to
+power, I suggest that the functional role
+played by a given city in relation to the
+broader society determines the organization
+of the task units that comprise it. Such organi-
+zation, in turn, has consequences for the exer-
+cise of managerial functions in the urban com-
+munity. In an earlier article only recently
+made easily accessible to sociologists, Mills
+and Ullmer (1970) examined the effects on
+community welfare of the same two dimen-
+sions of community organization considered
+here: concentration and external control. In
+their view, the most significant impact of such
+arrangements was through their tendency to
+diminish the occupational stratum of small
+businessmen: local owners and managers of
+small-scale enterprise. Following their argu-
+ment, I hypothesize that where “system”
+power is structured in such a way that local
+sustenance activities are controlled by large
+absentee-owned organizations, managerial
+functons are narrowly channeled in the ad-
+ministration of the few dominant units in
+which most of the population is employed.
+Thus, a high MPO ratio is likely to imply
+small-scale, locally controlled units and a low
+one, large-scale, externally-owned enter-
+prises.”
+
+The structure of city government is
+specified as the next link in this causal chain.
+A common theme in the comparative urban
+policy-making literature has been the extent
+to which the structure of municipal govern-
+ment mediates the impact of ecological
+characteristics of the community on the na-
+ture of its decision outputs (Lineberry and
+Fowler, 1967). The main focus of such work
+has been on a “reformed-nonreformed” di-
+mension of local government. Although there
+is a good deal of evidence that this factor is
+systematically related to such variables as the
+community’s economic function, size, class
+and ethnic composition, etc. (Kessel, 1962;
+Alford and Scoble, 1965), the best data indi-
+cate that it adds relatively little to these as a
+predictor of public innovation or performance
+(Aiken and Alford, 1970).
+
+Attention has recently been directed to
+another aspect of municipal government
+which is seen to have important consequences
+for policy-making. Turk (1973) and Liebert
+(1974) have conducted independent studies
+which reveal that the functional “diversity” or
+“scope” of local government is related to the
+volume of policy produced. By governmental
+scope is meant the range of services provided
+by city hall. Both writers draw from the
+formal organizations literature to argue that
+more differentiated governmental organiza-
+tions should exhibit a greater capacity for
+mobilization or innovation. Liebert
+(1974:770), however, advances a second claim
+which raises serious questions about the valid-
+ity of one frequently used indicator of com-
+munity performance, general municipal
+government expenditures. Because cities vary
+widely in the number of services they provide,
+he argues, it is incorrect to treat municipal
+spending as an “output” measure unless con-
+sideration is given to governmental scope. In
+his words: “.. .the overwhelming evidence is
+that ‘general municipal expenditures’ is a two-
+dimensional variable representing both the de-
+gree of functional inclusiveness and the level
+of municipal performance in the provision of
+public services.”
+
+Liebert’s emphasis is on a set of historical
+and regional circumstances through which cer-
+tain cities were legally assigned more roles
+than others. Neither he nor Turk attempt to
+examine the degree to which governmental
+scope depends on community composition in
+a fashion similar to that of reformism. This
+can be treated as one objective of the present
+study: to assess the extent to which govern-
+mental scope conveys the effects of com-
+munity structure on policy outputs. Since
+analyses of reformism in local government re-
+gard this pattern as dependent on the occupa-
+tional and ethnic composition of the city (Al-
+ford and Scoble, 1965; Banfield and Wilson,
+1963; Kessel, 1962), it is probably correct to
+locate governmental scope subsequent to the
+performance of managerial occupational roles
+in the causal sequence under scrutiny here.
+Given the finding that the influence of city
+officials tends to be low where that of mana-
+gerial elites is high (Morlock, 1974) and Lie-
+bert’s suggestion that the power of such offi-
+cials may be high where city government per-
+forms many functions, one might expect that
+employment in managerial occupations would
+have a negative effect on governmental scope.
+
+The next variable of interest is mobiliza-
+tion, the process believed to convey the ef-
+fects of community structure on the level of
+policy outputs, the latter representing the end
+product of this system of relationships. My
+strategy will be to first present and interpret a
+model specifying mobilization, and subse-
+quently to test the adequacy of that model in
+reproducing the coefficients estimated under
+separate models predicting individual policy
+variables.
+on path analysis, a method for dealing with
+causal systems now well established in the
+sociological literature (Duncan, 1966). The
+units of analysis are the central cities of the
+largest 110 metropolitan areas in the United
+States circa 1965. One or more measures of
+each property discussed above has been made
+on each city with the exception of mobiliza-
+tion. I have no data concerning this process.
+Indeed, its ambiguous meaning in the litera-
+ture would make it very difficult to define
+operationally. Still, it may be useful to con-
+ceive of mobilization as an unobserved vari-
+able and use techniques currently being pro-
+posed in the path analysis literature for identi-
+fying its role in the system under considera-
+tion (Costner, 1969; Land, 1970; Hauser and
+Goldberger, 1971).
+
+Beginning with the most remote cause, I
+follow strong precedents in the ecological
+literature by indexing a city’s functional role
+in the national division of labor by its popula-
+tion size and dominant economic activity. Pat-
+terns of functional variation by size underlie
+nearly all approaches to the urban hierarchy
+such as central place theory (Berry and Pred,
+1961) and metropolitan dominance (Bogue,
+1949; Duncan et al., 1960). Furthermore, the
+variety of functions exhibited by American
+cities is largely reducible to a manufacturing-
+nonmanufacturing dimension (Duncan et al.,
+1960; Hadden and Borgatta, 1965; Berry,
+1972). As Duncan and Reiss (1956:14) point
+out: “The relation between manufacturing
+and almost any other function tends to be
+substitutive.” Thus, the specific indicators of
+“exogenous” variables in this analysis are pop-
+ulation size (transformed to its natural loga-
+rithm) and the percent of the urban labor
+force in manufacturing.*®
+
+The two organizational dimensions of the
+
+ 
+
+8 The population size variable has been trans-
+formed for each city to its natural logarithm to ad-
+just for skewness in its distribution. The source of
+the population data is the County and City Data
+Book, 1962 (U.S. Bureau of the Census, 1962). The
+manufacturing data pertain to the SMSA in which
+the selected community is the central city. They
+were obtained from the Office of Business Eco-
+nomics of the U.S. Department of Commerce and
+cover patterns of employment by industry for 215
+SMSAs as of 1960.
+community’s ecological structure discussed
+above, concentration and external control, are
+measured respectively by a Gini index of con-
+centration of employment in employing units
+and an index of employment in absentee-
+owned plants. The Gini acquires high values in
+cities where a small proportion of the total
+number of organizational units employs a
+large percentage of total employment.® Ex-
+ternal control is the percent of total city em-
+ployment in plants operated by manufactur-
+ing corporations which were listed among the
+1000 largest in 1963-64 with headquarters
+outside the city in question.'® Although the
+concentration data cover all nongovernmental
+employment, the absentee-ownership data
+were available only for manufacturing.
+
+As in Hawley’s study, the level of manager-
+ial activity is indexed by the MPO ratio." Re-
+garding governmental scope, I employ a mea-
+sure designed by Turk (1970) which taps the
+extent to which money spent by city govern-
+ment is evenly distributed across the following
+functions: police and fire protection, health
+care, highways, education and welfare. This
+index has low values in cities where few or no
+municipal funds go to one or more of the
+above services.’ ?
+
+ 
+
+9 These data were coded from County Business
+Patterns, 1967 (U.S. Bureau of the Census, 1967)
+and also refer to the SMSA. The CBP data consist of
+tallies of employing units by size and industry (non-
+governmental) for all counties and SMSAs in the
+United States. Technical discussions of the Gini co-
+efficient may be found in Duncan and Duncan
+(1955) and Alker and Russett (1966).
+
+10 These data were derived from the Fortune Plant
+and Product Directory, 1963-64 (Editors of Fortune,
+1964) which contains information on headquarters
+and branch plant location for the largest 1000 manu-
+facturing corporations in the United States. The
+measure of absentee-ownership used here is quite
+similar to one constructed by Michael Aiken (1970)
+in an investigation of related topics.
+
+11 The source of these data is the United States
+Census (U.S. Bureau of the Census, 1960).
+
+12 The measure of governmental scope is identical
+in calculation to Gibbs and Martin’s index of the
+division of labor (1962). The formula is:
+where X = municipal government expenditures for
+the “i”th function, and i ranges across the six func-
+tions referred to in the text. These data were coded
+from the County and City Data Book, 1962 (U.S.
+Bureau of the Census, 1962). It must be acknowl
+edged that the present analysis of governmental
+scope or diversity is not a direct replication of
+Liebert’s research, since it is based on Turk’s rather
+than Liebert’s measure. Turk’s measure is somewhat
+more general, since it pertains to city government
+activity on six service dimensions, whereas Liebert’s
+measure involves only two: education and welfare.
+Moreover, Liebert’s data refer to the possession of
+legal responsibility by the city for these services,
+while those used by Turk refer to the distribution of
+expenditures. It is not inconceivable that some muni-
+cipal government funds may go to the provision of
+services for which the formal responsibility lies with
+another agency.
+estimated by ordinary least-squares regression,
+and the coefficients are partial regression
+slopes in standard form. Paths with coeffi-
+cients smaller than .05 were deleted and the
+regressions re-calculated.
+
+As for estimating the paths to and from
+mobilization, Hauser and Goldberger (1971)
+suggest canonical correlation as a means of ob-
+taining efficient estimates in overidentified
+models such as the present one.'* With all
+variables prior to mobilization treated as the
+“independent” set and those subsequent to it
+as the “dependent” set, a pair of first canon-
+ical variates was extracted which correlated at
+587. Obtaining the coefficients for paths
+leading to mobilization, one substitutes the
+variable weights on the independent canonical
+variate. Thus, mobilization becomes a linear
+combination of its predictors. The estimates
+s les 3
+7 "9
+v. Ge \ &d
+x)
+
+diysueumo uolyeuqUesu0D
+-eequesqy
+
+  
+          
+
+(he ezis
+uo1zetndog a
+edoos
+yequeuudencs
+
+ve
+851
+
+an ™
+
+>< a ea:
+a |
+
+3 3
+
+|
+
+res
+of mobilization’s effects on the policy vari-
+ables are simply the zero-order correlations
+between the linear composite and these indi-
+cators (Hauser and Goldberger, 1971:113).
+
+The correlations among the disturbances
+associated with the policy variables may then
+be obtained by conventional techniques (Dun-
+can, 1966). One aspect of the model which
+may concern some readers is that no distur-
+bance term is specified with reference to
+mobilization. This is an omission necessitated
+by the canonical model which may seem at
+odds with reality. The assumption that an un-
+observed process mediates the effects of this
+system of variables on policy outputs need
+not imply that it has no determinants but
+those included here. However, as Hauser and
+Goldberger (1971:100) observe, permitting v,
+w and x to be intercorrelated virtually sub-
+sumes the notion of a source of residual vari-
+ance in mobilization. That is, the residual cor-
+relations among the policy variables which are
+unaccounted for by the measured predictors
+could result from a disturbance in mobiliza-
+tion or a source unrelated to it, but it would
+be impossible to tell the difference without
+measuring this property directly. In other
+words, the data would be equally compatible
+with two models; one specifying a disturbance
+in mobilization and uncorrelated disturbances
+in the policies, or one specifying that the
+former is zero and the latter correlated. In
+either case, the important thing is that one
+acknowledges that the correlations among the
+policy indicators are not wholly explained by
+the set of measured predictors.
+ance.
+
+The index of governmental scope is direct-
+ly affected by all preceding terms in the
+model, but the pattern is somewhat at odds
+with expectations. The influence of the MPO
+ratio is small and positive. Although its antici-
+pated negative correlation with scope appears
+at the zero-order level (rt = -.222), this is ap-
+parently explained by the mutual dependence
+(in opposite directions) of these two variables
+on manufacturing and concentration. Thus,
+city governments of broad functional scope
+are likely to appear in manufacturing cities
+with high employment concentration and
+some tendency toward local rather than ab-
+sentee-ownership. It is possible that the ser-
+vice burden placed on municipal government
+is greater in cities dominated by large manu-
+facturing plants (Thompson, 1965:286), re-
+quiring a wider range of functions to be per-
+formed by city hall. Furthermore, there is evi-
+dence that large-plant manufacturing cities
+can generate more municipal revenue at lower
+tax rates than their nonmanufacturing coun-
+terparts (Groves and Riew, 1963), enabling
+municipal government to provide more ser-
+vices while reducing its dependence on
+agencies such as state and county government.
+
+Given the kind of data available for the
+present analysis, it is impossible to address
+adequately Liebert’s suggestion that historical
+factors played a major role in determining
+variation in the scope of municipal govern-
+ment. However, his view that such conditions
+resulted in the early-established cities of the
+Northeast having diversified government can
+be empirically evaluated. One might argue
+Although age and presence in the North-
+east are indeed related to governmental scope,
+their effects are small and they do not signifi-
+cantly disturb those of variables in Figure 1.
+Moreover, their addition to the equation in-
+creases the explained variance in governmental
+scope by less than 2%.
+
+Next, let us consider mobilization. The pat-
+tern of effects would seem to offer clear con-
+firmation for Hawley’s view that the MPO
+ratio identifies a dimension of community
+structure which makes a strong independent
+contribution to the probability of successful
+decision-making. Concentration and absentee-
+ownership, portrayed here as competing facets
+of system power, fail to display a comparable
+influence on mobilization. Moreover, govern-
+mental scope, while having a significant effect,
+can hardly be said to “mediate” the effects of
+the ecological composition of the city on
+mobilization.
+
+Direct effects are also evident from the
+“exogenous” variables, size and manufactur-
+ing. It may be useful to consider them relative
+to the various indirect paths through which
+they influence mobilization.’® Such a pro-
+cedure may enhance understanding of the
+mechanisms through which a city’s role in the
+national urban system affects its capacity to
+act on public issues.
+
+Research on comparative urban policy-
+making has consistently revealed that popula-
+tion size is associated with a greater volume of
+outputs (Aiken and Alford, 1970). This find-
+ing is clearly replicated in the present analysis.
+In addition to a substantial direct contribu-
+tion to mobilization, the indirect effects of
+size are virtually in every instance positive.
+The indirect paths sum to .258.
+
+It is always difficult to account satisfac-
+torily for the influence of variables like city
+size on patterns of community performance.
+There is a sense in which it might be viewed as
+a “residual” term. If the model were perfectly
+accurate, it might be possible to identify all
+the structural changes which occur in the city,
+as it changes in size, which have direct conse-
+quences for decision-making processes. Other
+writers, attempting to devise a theoretical ex-
+planation for the importance of size, have sug-
+gested that it reflects organizational density
+(Aiken and Alford, 1970) and extralocal inte-
+gration (Turk, 1970). The idea that size indi-
+cates the number of ties linking an urban
+place to the broader social environment is, of
+course, a central principle in human ecology
+(@uncan et al., 1960), one with potentially
+important implications for the capacity to
+generate local policy. The largest cities have
+the greatest extralocal influence and visibility,
+improving their competitive position vis a vis
+smaller places in obtaining such resources as
+state and federal funds for local projects.
+
+Although direct and indirect effects of size
+on mobilization are positive, the same is not
+true in the case of manufacturing. Its direct
+effect is negative (-.176 ) as is that produced
+by its tendency to increase absentee-owner-
+ship (-.070). However, by increasing concen-
+tration and governmental scope and reducing
+the MPO ratio, manufacturing makes a posi-
+tive contribution to mobilization. Such posi-
+tive indirect effects, in fact, outweigh the
+negative influence, yielding a total effect of
+.246. Thus, while both size and manufacturing
+have positive implications for mobilization,
+the pattern is more complex in the case of
+manufacturing, for it operates in such a way
+as to alter a range of community characteris-
+tics which may have opposing consequences
+for policy-making.
+that justifies the specification of an unob-
+served process of mobilization. The test con-
+sists of a comparison between the results ob-
+tained under the assumption of mobilization
+with those produced by independent regres-
+sions of each policy measure on the observed
+predictors.'” The relevant calculations are
+presented in Table 2.
+
+A first assessment of the accuracy of the
+model specifying mobilization concerns its
+ability to account for the variance in the
+policy variables relative to the model which is
+not “constrained” by this assumption. By this
+criterion, the constrained model seems to fit the
+data fairly well. The difference between the
+two estimates of R? is very small in the cases
+of municipal expenditures and urban renewal,
+although it is somewhat greater with respect
+to poverty program funding.
+A second comparison can be made between
+the path coefficients obtained by the “uncon-
+strained” regressions of the policy variables on
+the observed predictors with the “reduced
+form” coefficients corresponding to the same
+paths under the constrained model. The latter
+are simply the products of the paths from an
+observed predictor to mobilization and from
+it to a policy measure. Thus, the reduced form
+coefficient for the regression of expenditures
+on population size is just (.433)(.525) = .227.
+
+Considering municipal expenditures at
+greater length, Table 2 indicates a rather close
+correspondence between the constrained and
+unconstrained coefficients. The effects of
+manufacturing and the MPO ratio are some-
+what understated by the constrained model,
+but on the whole the fit seems rather good. In
+the case of urban renewal, the fit again is gen-
+erally good with some minor deviations from
+the true values associated with concentration
+and manufacturing. The constrained model is
+least capable of recovering the pattern of ef-
+fects with regard to poverty funding. In fact,
+the conclusion reached earlier concerning the
+greater importance of Hawley’s “functional”
+measure of system power for mobilization
+than the “organizational” measures used here
+(concentration and absentee-ownership) is
+clearly wrong with respect to this policy out-
+put. Of the variables in the model, the hierar-
+chy of effects is led by concentration, then
+absentee-ownership and size, with the remain-
+ing variables playing relatively minor roles.
+
+It would seem, then, that which dimension
+of system power, functional or organizational,
+best accounts for community policy outputs
+depends on the type of policy under consider-
+ation. There is not space here to adequately
+explore the reasons for this finding, but one
+might recall Turk’s (1970) suggestion that the
+poverty program at the time these data were
+collected had not yet attracted the public at-
+tention nor aroused the controversy character-
+istic of programs such as urban renewal and
+might therefore be seen as a “relatively pure
+instance of interorganizational relations.” Im-
+plied in his statement is the view that the par-
+ticipation of established organizations in com-
+munity affairs differs in nature from that of
+The principal issues with which this study
+has been concerned are the following: (1) the
+utility of an ecological approach to com-
+munity decision-making which views policy
+outputs as the result of a sequence of causes
+originating in the city’s functional role in a
+national urban system; (2) the extent to
+which an organizational dimension of ecologi-
+cal or community power might prove more
+meaningful than the functional dimension im-
+plied by Hawley’s MPO ratio; (3) the extent
+to which the scope of city government ex-
+plains variation among communities in the
+level of policy-making and the degree to
+which governmental scope depends on a set
+of ecological causes; (4) the utility and valid-
+ity of treating diverse policies as outcomes of
+a single process termed “mobilization.”
+
+Reviewing the implications of the analysis
+for each issue in turn, I would suggest, first,
+that an ecological model specifying size and
+function as basic exogenous characteristics of
+the urban community receives general sup-
+port, as these properties have been found to
+influence a chain of elements of urban struc-
+ture which have distinct consequences for lo-
+cal policy-making.
+
+Second, the conception of ecological or
+system power as the organization associated
+with the performance of an urban function
+would also appear to be meaningful in light of
+the data. Concentration and
+absentee-ownership are facets of the
+distribution of power and resources in the
+locality which are strongly dependent on city
+size and function and have equally significant
+consequences for the distribution of
+managerial roles (the MPO ratio), the
+structure of city government and the level of
+urban policy-making. Whether the direct in-
+fluence of these organizational variables on
+policy outputs is greater than that of the MPO
+ratio depends on the type of policy, but it is
+interesting to note that, whether system
+power is conceived in organizational or func-
+tional terms, Hawley’s theory that decision-
+making is enhanced where such power is con-
+centrated would seem to find support.
+
+Third, the scope of city government is re-
+vealed as an important intervening variable,
+conveying some of the impact of ecological
+structure on policy outputs. It does not, how-
+ever, make a very large contribution to the
+prediction of outputs, its direct effects being
+considerably smaller than those of other vari-
+ables in the model. One might conclude that
+while the concept of governmental scope is a
+useful addition to the repertoire of commun-
+ity traits known to influence decision-making
+patterns, it does not render spurious all other
+observed associations between policy variables
+and community properties.
+
+Finally, it is not easy to pass judgment on
+the usefulness of the concept of mobilization
+in the present analysis. The conclusions I
+would draw are roughly similar to those
+reached by other writers dealing with similar
+problems involving multiple-indicator situa-
+tions and unobserved variables (Hauser,
+1972). Like that of socioeconomic status,
+concepts such as mobilization, innovation or
+collective action appear to be theoretically ap-
+pealing ways of describing an unobserved pro-
+cess believed to account for patterns of simil-
+arity among a set of measured variables. In the
+present case, the approach employing mobili-
+zation permitted the construction of a far
+more parsimonious model explaining three
+policy variables than could have been pro-
+duced without it. Furthermore, in the case of
+two of these variables, the coefficients esti-
+mates under that model exhibited a rather
+good fit to those generated by regressing each
+policy indicator separately on the set of de-
+terminants. It is nevertheless clear that certain
+valuable information would have been lost if
+one accepted the hypothesis of mobilization
+uncritically without proceeding to consider
+any sources of uniqueness among the three
+policies. The result would have been an overly
+conservative judgment regarding the impact of
+organizational variables on policy-making. It
+would seem that decisions regarding the valid-
+ity of concepts like mobilization must pro-
+ceed on a case by case basis. Their usefulness
+is likely to vary from one body of data to the
+next. This is not to discourage such efforts; on
+the contrary, it is highly desirable that sys-
+tematic attempts be made to isolate such pat-
+terns of similarity among policy outputs in
+order to better understand their variability
+across communities and the conditions
+responsible for it.
+Bain, Joe S.
+
+1954 ‘Economics of scale, concentration, and the
+condition of entry in twenty manufacturing
+industries.” American Economic Review
+19:15-39,
+
+Banfield, Edward C. and James Q. Wilson
+1963 City Politics. New York: Random House.
+Berry, Brian J. L.
+
+1972 “Latent structure of the American urban
+system with international comparisons.” Pp.
+11-60 in B. J. L. Berry (ed.), City Classifica-
+tion Handbook: Methods and Applications.
+New York: Wiley-Interscience.
+
+Berry, Brian J. L. and Allen J. Pred
+
+1961 Central Place Studies: A Bibliography of
+Theory and Applications: Philadelphia: Re-
+gional Science Institute.
+
+Blalock, Hubert M.
+
+1969 Theory Construction: From Verbal to
+Mathematical Formulations. Englewood
+Cliffs, N.J.: Prentice-Hall.
+
+Bogue, Donald J.
+
+1949 The Structure of the Metropolitan Com-
+munity. Ann Arbor: Horace H. Rackham
+School of Graduate Studies, University of
+Michigan.
+
+Clark, Terry N.
+
+1968 “Community structure, decision-making,
+budget expenditures, and urban renewal in
+51° American communities.” American
+Sociological Review 33:576-93.
+
+1973 Community Power and Policy Outputs.
+Beverly Hills: Sage.
+
+Costner, Herbert L.
+
+1969 “Theory, deduction, and rules of corre-
+spondence.” American Journal of Sociology
+72:245-63.
+
+Crain, Robert L. and Donald B. Rosenthal
+
+1967 “Community status as a dimension of local
+decision-making.” American Sociological
+Review 72:970-84.
+
+Duncan, Otis Dudley
+
+1961 “From social system to ecosystem.” Socio-
+logical Inquiry 31:140-9.
+
+1966 “Path analysis: sociological examples.”
+American Journal of Sociology 72:1-16.
+
+1971 ‘‘Path analysis: sociological examples:
+addenda.” Pp. 136-8 in H. M. Blalock (ed.),
+Causal Models in the Social Sciences.
+Chicago: Aldine-Atherton
+
+Duncan, Otis Dudley and Beverly Duncan
+
+1955 “A methodological analysis of segregation
+indexes.” American Sociological Review
+20:210-7.
+
+Duncan, Otis Dudley and Albert J. Reiss, Jr.
+
+1956 Social Characteristics of Urban and Rural
+
+Communities, 1950. New York: Wiley.
+Duncan, Otis Dudley and Leo F. Schnore
+
+1959 “Cultural, behavioral, and ecological per-
+
+spectives in the study of social organiza-
+tion.” American Journal of Sociology
+65:132-46.
+Duncan, Otis Dudley, W. Richard Scott, Stanley Lieb-
+erson, Beverly Duncan and Hal. H. Winsborough
+
+1960 Metropolis and Region. Baltimore: Johns
+
+Hopkins Press.
+Editors of Fortune
+
+1963 Plant and Product Directory (Volume 1).
+
+New York: Time, Inc.
+Gibbs, Jack P. and Walter F. Martin
+
+1959 “Toward a theoretical system of human eco-
+logy.” Pacific Sociological Review 2:29-36.
+
+1962 “Urbanization, technology, and the division
+of labor: international patterns.” American
+Sociological Review 27:667-77.
+
+Groves, Harold M. and John Riew
+
+1963 “The impact of industry on local taxes: a
+simple model.” National Tax Journal
+16:137-45.
+
+Hadden, Jeffrey K. and Edgar F. Borgatta
+
+1965 American Cities: Their Social Character-
+
+istics. Chicago: Rand McNally.
+Hauser, Robert M.
+
+1972 “Disaggregating a social-psychological model
+of educational attainment.” Social Science
+Research 1:159-88.
+
+Hauser, Robert M. and Arthur S. Goldberger
+
+1971 “The treatment of unobserved variables in
+path analysis.” Pp. 81-117 in H. L. Costner
+(ed.), Sociological Methodology, 1973-74.
+San Francisco: Jossey-Bass.
+
+Hawley, Amos H.
+
+1950 Human Ecology: A Theory of Community
+Structure. New York: Ronald.
+
+1963 ‘Community power and urban renewal suc-
+cess.” American Journal of Sociology
+68:422-31.
+
+Kessel, John H.
+
+1962 “Governmental structure and political en-
+vironment: a statistical note about Ameri-
+can cities.” American Political Science Re-
+view 56:615-20.
+
+Land, Kenneth C,
+
+1970 “On the estimation of path coefficients for
+unmeasured variables from correlations
+among observed variables.” Social Forces
+48:506-11.
+
+Liebert, Roland J.
+
+1974 “Municipal functions, structure, and ex-
+penditures: a reanalysis of recent research.”
+Social Science Quarterly 54:765-83.
+
+Lineberry, Robert L. and Edmund P. Fowler
+
+1967 “Reformism and public policies in American
+cities.” American Political Science Review
+61:701-16.
+
+Long, Norton
+
+1969 “The corporation, its satellites, and the local
+community.” Pp. 163-76 in David W. Minar
+and Scott Greer (eds.), The Concept of
+Community. Chicago: Aldine.
+Mills, C. Wright and Melville J. Ullmer
+
+1970 “Small business and civic welfare.” Pp.
+124-54 in Michael Aiken and Paul E. Mott
+(eds.). The Structure of Community Power.
+New York: Random House.
+
+Morlock, Laura L.
+
+1974 “Business interests, countervailing groups,
+and the balance of influence in 91 cities.”
+Pp. 309-28 in Willis D. Hawley and Fred-
+erick M. Wirt (eds.), The Search for Com-
+munity Power, 2nd edition. Englewood
+Cliffs, N.J.: Prentice-Hall.
+
+Pappenfort, Donnell M.
+
+1959 “The ecological field and the metropolitan
+community: manufacturing and manage-
+ment.” American Journal of Sociology
+64:380-5.
+
+Parsons, Talcott
+
+1957 “The distribution of power in American
+
+society.” World Politics 10:620-34.
+Schnore, Leo F.
+
+1957 “Satellites and suburbs.” Social Forces
+26:121-9.
+
+1958 “Social morphology and human ecology.”
+American Journal of Sociology 71:620-34.
+
+Schulze, Robert O.
+
+1958 “The role of economic dominants in com-
+munity power structures.” American Socio-
+logical Review 23:3-9.
+
+Straits, Bruce C.
+
+1965 “Community adoption and implementation
+of urban renewal.” American Journal of
+Sociology 71:590-613.
+
+Thompson, Wilbur R.
+
+1965 A Preface to Urban Economics. Baltimore:
+
+Johns Hopkins Press.
+Turk, Herman
+
+1970 ‘“Interorganizational networks in urban
+society: initial perspectives and comparative
+research.” American Sociological Review
+35:1-18.
+1973 Interorganizational Activation in Urban
+Communities: Deductions from the Concept
+of System. Rose Monograph Series. Wash-
+ington, D.C. American Sociological Associa-
+tion.
+
+U.S. Bureau of the Census
+
+1960 United States Census of Population: General
+Social and Economic Characteristics. Wash-
+ington, D.C.: U.S. Government Printing
+Office.
+
+1962 County and City Data Book. Washington,
+D.C.: U.S.Government Printing Office.
+
+1967 County Business Patterns. Washington,
+D.C.: U.S. Government Printing Office.
+
+U.S. Housing and Home Finance Agency
+
+1960 Fourteenth Annual Report. Washington, D.
+
+C.: U.S. Government Printing Office.
+U.S. Office of Economic Opportunity
+
+1966 Poverty Program Information as of April 1,
+1966. Washington, D.C.: U.S. Office of
+Economic Opportunity.
+
+Vidich, Arthur J. and Joseph Bensman
+
+1958 Small Town in Mass Society. Princeton, N.
+
+J.: Princeton University Press.
+Walton, John
+
+1967 “The vertical axis of community organiza-
+tion and the structure of power.” Social Sci-
+ence Quarterly 48:353-68.
+
+Warren, Roland L.
+
+1970 “Toward a non-utopian normative model of
+the community.” American Sociological Re-
+view 35:219-27.
+
+1972 The Community in America, 2nd edition.
+Chicago: University of Chicago Press.
+
+Williams, James M.
+
+1973 “The ecological approach in measuring com-
+munity power concentration: an analysis of
+Hawley’s MPO ratio.” American Sociologi-
+cal Review 38:230-42.

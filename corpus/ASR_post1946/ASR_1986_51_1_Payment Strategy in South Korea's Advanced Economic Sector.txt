@@ -1,0 +1,1030 @@
+American Sociological Association, Sage Publications, Inc. are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+SSAGE
+Although sociologists have long been dissatis-
+fied with market explanations of earnings, up
+to World War II they did little research on the
+subject. Since that time they have made prog-
+ress in explaining how social and cultural
+forces influence pay by demonstrating two
+types of effects on earnings: (a) ascriptive ef-
+fects as indicated by the worker’s race, sex,
+age, ethnicity, and social class position, and (b)
+structural effects as indicated by labor unions,
+market resources of firms, occupational and
+enterprise monopolies, and governmental
+controls (Berg, 1981).
+
+In early studies of newly industrializing
+societies, sociologists (Abegglen, 1958; Lam-
+bert, 1963; Chaplin, 1967) contrasted local
+ascriptive payment systems (e.g., paying work-
+ers according to their social status) with west-
+ern market systems (e.g., paying workers ac-
+cording to their skill and productivity). Later,
+Dore (1973), Cole (1979), Marsh and Mannari
+(1976), and others revised this strategy because
+some ascriptive payment systems seemed to
+represent rational responses to local economic
+conditions. Paying workers according to their
+age, then, could maximize enterprise produc-
+tivity and worker security over the long run
+more than rewarding them for their skills
+(Taira, 1970). Researchers also found the as-
+sumption of a single local labor market to be
+inadequate. The pay determinants of craft
+workers (Scoville, 1973) sometimes did not ex-
+plain pay in the service or large manufacturing
+sectors (Marsh and Mannari, 1976;
+Tachibanaki, 1982).
+
+As the world economy expands, explaining
+local payment systems becomes more complex
+because managers learn about payment sys-
+tems in other countries and experiment with
+them in their own countries. Especially in
+newly industrializing countries, managers
+weigh how they might combine local payment
+practices with innovations from abroad in
+order to maximize productivity and profits. It
+is a challenge to students of comparative labor
+markets to explain how different payment
+systems are melded to meet singular local con-
+ditions.
+
+This research analyzes the payment system
+devised by the Hyundai Motor Company of
+Korea, a new industry in a newly industrializ-
+ing country that is competing for world auto-
+mobile sales. The Korean case is important
+because it represents a response to four un-
+usual circumstances: (1) a very rapid pace of
+national industrialization, (2) a religious cul-
+tural heritage that legitimizes hierarchical re-
+lationships between groups, (3) a case of expo-
+sure to both eastern and western payment
+systems, and (4) a case of massive technologi-
+cal dependency on foreign countries.
+
+In this paper we describe: (1) these four con-
+ditions and hypothesize how they might influ-
+ence the company’s payment system, (2) the
+research methods and statistical procedures,
+(3) the organization of the factory, its labor
+force, and its payment system, (4) the results of
+a multiple regression analysis of the factors
+underlying the payment system of Hyundai,
+and (5) why management devised a payment
+1. Rapid Industrialization. In 1961, 49 percent
+of Korea’s gross domestic product (GDP) was
+in agriculture, 13 percent in manufacturing,
+and 38 percent in the services. By 1981, the
+GDP for manufacturing almost tripled to 37
+percent, while that for agriculture declined to
+20 percent, and that of service rose to 43 per-
+cent (Bank of Korea, 1980, 1983). In this period
+the country sustained an unusually high annual
+rate of GNP growth: 9.3 percent. Today,
+Korea is a relatively advanced industrial na-
+tion. In terms of life expectancy, adult literacy,
+per capita energy consumption, per capita
+GNP in U. S. dollars, and percent of labor
+force in manufacturing, Korea’s position is
+above that held by Italy in 1960 (Form,
+1976:25). Korea’s explosive growth strained
+traditional labor markets, called for a large and
+new industrial labor force, a forced-draft pro-
+gram to train it, and new inducements to keep
+it committed to an industrial way of life (Moore
+and Feldman, 1960).
+2. The Confucian Ethic of Authority. Rapid
+industrialization undoubtedly strained
+traditional relationships sanctioned by Confu-
+cian ethics of hierarchy. The ethic embodies
+three principles and five basic norms called
+Samgang Oryun. Samgang governs hierarchi-
+cal relations between king and subject, hus-
+band and wife, and father and son. Oryun deals
+with righteousness between king and subject,
+distinctions between husband and wife, filial
+piety, order between old and young, and good
+faith between friends. Koreans also practice an
+elaborate stratification etiquette unparalleled
+in the East. Together, the ethic and etiquette
+encourage defining the enterprise as a family
+system: employers should act as responsible
+parents toward their employees and workers
+should be loyal and not be overly concerned
+with monetary rewards.
+Governmental-industrial relations policies
+seem designed to implement the Confucian
+ethic. Labor—-management conflict is frowned
+upon and labor unions are discouraged. All
+enterprises with 100 or more employees must
+have labor-management councils (Nosa
+Hyeobeuihoe) made up of an equal number of
+labor and management representatives. The
+Council’s functions are to improve produc-
+tivity, train workers, resolve disputes, promote
+workers’ interests, improve safety and the
+work environment, and increase labor-
+management cooperation. The government's
+Factory New Community Movement
+(Gongjang Saemaul Undong) is the Council’s
+ideological fulcrum. The Movement’s slogan
+is: ‘Treat employees like family; do factory
+work like my family’s business.” Together,
+Confucian ethics and governmental policies
+should incline managers to reward workers
+more for their social status (age, family obliga-
+tions, seniority) than for their training, skills,
+productivity, and work experience.
+
+3. Financial and Technological Dependency.
+Since 1960, Korea has been especially depen-
+dent on other industrial countries (Lim, 1982).
+By January, 1984, Korea’s total foreign bor-
+rowing amounted to 42.6 billion U.S. dollars
+(Jungang Ilbosa, 1984), a sum approximately
+equal to the government's budget in 1982. Fi-
+nancially, Korea depends primarily on Japan
+and secondarily on the United States. Korea’s
+industries have also depended on the two
+countries for most of its new technology. Con-
+trary to dependency theory (Griffin and Enos,
+1970), Korea is a case of a dependent country
+that became industrialized while it raised its
+standard of living (see Barrett and Whyte,
+1982: 1086). Korea is now beginning to compete
+successfully for overseas markets with Japan,
+Taiwan, the United States, and Brazil. It is
+Korea’s technological dependence, especially,
+that should expose it to some Japanese and
+American industrial and personnel practices.
+4. Exposure to Eastern and Western Pay Sys-
+tems. The recruitment, training, and pay sys-
+tems of Korea’s advanced industrial sector
+represent a mix of practices found in new in-
+dustrial societies, Japan, and the West.
+Korea’s historic antipathy toward Japan in-
+hibits managers from openly acknowledging
+Japanese influences. Yet, because Japan has
+dominated much of Korea’s big business since
+1894, residues of Japanese personnel practices
+remain. Large Korean companies have
+adopted one Japanese practice (Cole, 1971:71)
+of having three levels of supervisors evaluate
+each worker's performance and grade it on
+three levels. Many Korean managers and
+workers also praise the practice of permanent
+employment found in some large Japanese
+firms.
+
+Personnel practices at Hyundai illustrate a
+mixture of eastern and western practices found
+in most large Korean firms. Want-ads for
+workers were posted in newspapers, in the
+cafeteria, and on factory gates. Yet, as in the
+West (Granovetter, 1974), only a minority of
+Hyundai's workers learned about openings
+through the mass media; the remainder were
+informed by relatives or friends working in the
+plant. Hyundai added a “premodern” pater-
+nalistic touch (Bendix, 1956), however. Once
+an applicant was hired, two employees had to
+vouch for his identity (all production em-
+ployees were males) and financial soundness.
+Recommenders had to agree to compensate the
+company for any damages to property the new
+employee might cause.
+
+Other personnel practices were consonant
+with modern western ones however. One-half
+of the employees were given an entrance ex-
+amination to determine their suitability for em-
+ployment; one-quarter were provided job
+training by the company; and the rest were
+selected for their previous vocational training
+or qualified work experience. On the basis of
+their test scores, work experience and training,
+workers were more or less permanently as-
+signed specific jobs. Finally, supervisors as-
+signed pay raises on the basis of individual job
+performance. Hyundai’s managers, however,
+voiced both a traditional ideology of responsi-
+bility toward their workers and an ideology of
+individual merit, productivity, and perfor-
+mance.
+
+How might these four cross-cutting factors
+affect the pattern of manual workers’ earnings?
+Two polar possibilities are: payment according
+to the workers’ social status and obligations, or
+payment according to job skills and market
+demands. When many large Japanese firms
+confronted conditions similar to Korea's con-
+ditions today (workers from rural areas, short-
+age of skilled labor, and high market demands
+for goods), they opted for the social status or
+age-graded nenko system that (a) paid workers
+according to their age and family obligations,
+(b) guaranteed them life-time employment, and
+(c) trained them continuously to acquire new
+skills. Korean managers were aware of this
+system and could have adopted it, but they
+chose not to. Assuming a rational calculus on
+their part, we conclude that they thought they
+did not have to and that other systems would
+serve them better.
+
+An important concern for Korea’s managers
+was how to obtain and retain young skilled
+workers. Nenko employers offered these
+workers job security in exchange for immedi-
+ate high wages. Other employers had to pay
+especially high wages to attract the skilled, but
+few could do this (Taira, 1970). We suggest that
+perhaps the more rapid pace of Korean indus-
+trialization, the greater financial and techno-
+logical contact with foreign countries, and the
+greater governmental pressure to expand pro-
+duction rapidly (van Helvoort, 1979) created
+such a turbulent labor market that even man-
+agers in the advanced sector had to up-bid the
+pay of skilled workers. This is typical in new,
+rapidly industrializing countries (Brown, 1977,
+Ch. 2).
+
+Confucian values and residues of Japanese
+practices could have convinced managers to
+place some weight on social status (age, marital
+The above considerations suggest that Hyun-
+dai would pay workers primarily for their
+human capital: skills, vocational training, and
+previous work experience. Where skilled
+workers are in short supply, expanding enter-
+prises like Hyundai would be especially hard
+pressed to retain them without higher pay.
+Training them in specialized work, moreover,
+would further increase their market worth.
+Though semiskilled and unskilled workers are
+in greater supply than the skilled, even the
+nonskilled receive some training; in a tight
+labor market, therefore, efforts must be made
+to reduce worker turnover. Management
+traditionally does this by rewarding them for
+their seniority, offering them as much overtime
+as possible, and upgrading their skills (Rees
+and Shultz, 1970:122). We expected this pat-
+tern to emerge at Hyundai. Under some condi-
+tions, seniority and repeated cost-of-living ad-
+justments almost eliminate earnings dif-
+ferentials among the skill levels (Lambert,
+1963:116, 140). We did not expect this to hap-
+pen because demand for skilled workers in
+Korea was almost insatiable. It is true that
+fringe benefits tend to reduce labor turnover.
+Given the relative youth of Hyundai's labor
+force, we did not expect fringe benefits to
+greatly affect its mobility.
+
+In short, we expected the basis of pay at
+Hyundai to tilt toward the western pattern of
+paying workers more for their human capital
+than for their social status. We expected earn-
+ings to be based more on workers’ occu-
+pational skills, vocational training, and previ-
+ous work experience than on their age, marital
+status, family obligations, seniority, and formal
+education. The influence of seniority is least
+The significance of a case for study depends
+upon its importance in the economy and on its
+representativeness. The Hyundai Group is the
+largest single private enterprise in Korea, em-
+ploying about 80,000 workers. According to
+Fortune, in 1983 it was the 41st largest corpo-
+ration in the world outside of the United
+States. Hyundai consists of 28 companies en-
+gaged in shipbuilding, engineering and con-
+struction, international trading, vehicles, elec-
+tronic and electrical equipment, machinery and
+metal products, construction material, furni-
+ture, and shipping. Most of the personnel prac-
+tices investigated in this study, such as pay-
+ment system, bonus for overtime work, fringe
+benefits, recruitment, and training are applied
+in all of Hyundai’s companies. These practices
+are also typically found in the advanced indus-
+trial sector of Korea, such as shipbuilding,
+steel fabrication, machinery and metal prod-
+ucts, the areas in which Hyundai operates.
+Hyundai thus represents the advanced-core in-
+dustrial sector of the country.
+
+This research examines the pay system of
+the Hyundai Motor Company. In 1967 Hyundai
+established an automobile assembly plant in
+Ulsan and by 1976 it was expanded to produce
+the entire vehicle. From 1968 to 1983, em-
+ployment rose from 488 to 7,966 workers. By
+1983, Hyundai became the largest Korean pro-
+ducer of vehicles, turning out 140,000 auto-
+mobiles, buses, and trucks. Because public vo-
+cational schools were unable to fill the urgent
+demand for trained industrial workers, Hyun-
+dai joined the government’s drive to train
+workers. Its Vocational Training Institute
+trained workers for other companies, but it
+also trained about one-fifth of its present labor
+force, the bulk of whom were assigned un-
+skilled and semiskilled jobs. Hyundai's main
+plant is located in Ulsan, a city on the East Sea
+(Sea of Japan), about 200 miles southeast of
+Seoul. In response to industrial expansion, the
+city’s population boomed from 92,000 in 1963
+to 451,000 in 1983.
+
+Hyundai was organized somewhat like a
+military establishment. Employees were re-
+quired to have their hair cut short and wear the
+grey Hyundai uniform. Their rank was re-
+vealed by the shape of their name tags which
+were pinned on the left breast pocket. Produc-
+tion workers (chickwon) were directly super-
+The study universe included all (2,811) non-
+supervisory manual workers engaged in direct
+production who had been employed for at least
+one year. All were male. In order to obtain a
+sample that represented the main manufactur-
+ing functions and the entire range of occu-
+pational skills, we assigned all departments to
+four strata of increasing skill. Two departments
+were randomly selected from each stratum.
+Since we wanted about a ten-percent sample
+and anticipated some loss in the interviewing
+process, we selected 330 names. The average
+optimum allocation of these workers to the
+eight departments was computed and they were
+randomly sampled from personnel lists, using a
+table of random numbers. Workers were asked
+to return a questionnaire that asked them about
+their socioeconomic background and occu-
+pational history, and included a request for an
+interview. We had 91-percent return. Bae
+interviewed 299 workers, almost all of whom
+were cooperative. These interviews provided
+information on the worker's: hourly wage and
+monthly earnings, ascriptive and human-
+capital characteristics, job search behavior,
+and attitudes toward the payment system,
+labor unions, and management’s personnel
+practices. In addition, interviews were con-
+ducted with personnel managers who provided
+information on recruitment practices, pay
+scales, fringe benefits, promotion practices,
+and their perceptions of how workers regarded
+their personnel and pay practices.
+Hyundai hired its workers after they had com-
+pleted their military service. The company
+gave some vocational training to about one-
+quarter of its employees.
+
+Hyundai’s manual workers averaged five
+years of tenure; the range was one to fifteen
+years. Typical of automobile plants elsewhere,
+only one-fifth of the workers were skilled; the
+remaining nonskilled worked primarily on as-
+sembly lines, automatic machines, and simple
+inspection operations. Both the distribution of
+occupational skills and functional operations at
+Hyundai were similar to the auto plants that
+Form (1976:49) had studied earlier in four
+countries.
+
+When analyzed by skill, most worker char-
+acteristics in Table 1 revealed statistically sig-
+nificant differences by the chi-square test.
+Compared to the less skilled, the skilled had
+more education, more vocational training, pre-
+Management and clerical employees were paid
+monthly salaries while production and service
+workers were paid hourly rates. Total earnings
+for workers included wages, bonuses, seniority
+allowances, and fringe benefits. When hired,
+the worker’s standard hourly wage (SHW) was
+a function of education and military service.
+Graduates from middle school (nine years) who
+did not finish military service received 430 won
+(about .55 U.S. dollars). If military service was
+completed, as it was almost universally, an
+additional 55 won (13 percent) was added to the
+SHW. High-school graduates (12 years) re-
+ceived 15 won more than middle-school gradu-
+ates, and those graduated from vocational high
+school received 20 won more than middle-
+school graduates. The highest starting wage of
+505 won was only 17 percent more than the
+lowest. The SHW was increased by 20 won
+after three months of training and increased
+annually at the beginning of the year. New
+SHWs were based on the government’s wage
+policy, the financial condition of the company,
+and competitive wage rates. All workers re-
+ceived about 55 percent of the average allotted
+increment as an adjustment for inflation and
+company productivity. The remaining 45 per-
+cent was assigned on the basis of job perfor-
+mance. Low merit increases were assigned to
+20 percent of the workers; middle merit to 60
+percent, and high merit to 20 percent. Thirty
+percent of the average SHW increment was
+based on the evaluations of the three super-
+visors (chojang, banjang, and kisa) and 15 per-
+cent by the department chief (bujang).
+
+Total monthly earnings included hourly
+wages multiplied by number of working hours
+(adjusted for overtime), bonus, and seniority
+allowance. Those with one year of seniority
+received 10,000 won (about 13 dollars), 20,000
+for two years, 30,000 for three and four years,
+and 40,000 for five years or more. Employees
+usually received bonuses four times a year
+The mean monthly earnings of Hyundai’s
+workers in 1983, including bonuses, were
+355,000 won, about 456 U.S. dollars. When
+overtime and benefits are excluded, the earn-
+ings approximated the national average for
+manufacturing employees. Although Hyun-
+dai’s workers often complained about being
+forced to work overtime, their overtime earn-
+ings made them a relatively affluent. In
+1983, their earnings exceeded the national
+monthly average for manufacturing workers
+(Bank of Korea, 1983) by 56 percent. Total
+monthly earnings ranged from 192,000 to
+545,000 won, the highest being 2.84 times that
+of the lowest. This range is high even for
+Japanese workers (Funahashi, 1973:390; Cole,
+1971:77) and it is inconceivable for western
+employees for whom the range very rarely ex-
+ceeds 50 percent (Form 1976:47).
+
+The Hyundai payment system contained an
+anomaly. Entering wage rates were based on
+education and vocational training and not skill
+but the pay range for education was low—only
+12 percent. The range in monthly earnings for
+all workers was much higher, however. It is
+true that seniority benefits affected the range,
+but since seniority pay rates were the same for
+all workers, they would tend to equalize earn-
+ings slightly. The maximum award for five
+years of seniority (40,000 won) accounted for
+less than two percent of the basic monthly pay
+of current assembly workers. Two other im-
+portant factors affected individual earnings:
+amount of overtime and changes in SHW.
+Since overtime rates were the same for all
+workers, main variations in pay rates resulted
+from supervisors’ evaluations of individual
+performance: this determined 45 percent of the
+annual change in the SHW. Since we could not
+obtain data on supervisors’ evaluations, the
+bases of the evaluations had to be inferred.
+
+How much variation in individual perfor-
+mance should be expected for automobile
+workers? The technology of automobile man-
+ufacturing does not permit large variation in
+individual productivity (Edwards, 1979). Most
+productivity increases result from technologi-
+cal and organizational improvements. Assem-
+bly lines move at a set pace. Parts-making ma-
+chines are preset to make pieces automatically
+at set rates, but operators do vary a bit in their
+ability to change worn chisels and make minor
+machine adjustments. Most testing and in-
+specting is done with set gauges and proce-
+dures, but some tasks require more skill than
+others. Greatest variations in individual pro-
+ductivity occur among skilled workers, but
+evaluating their performance is difficult be-
+cause their work is not standardized.
+
+Altogether, these technological consid-
+erations suggest that variation in SHW should
+be small (perhaps no more than five percent)
+for assemblers, no more than 15 percent for
+operators of automatic machines, testers, and
+inspectors, and probably 30 percent for
+skilled workers.' Wage differentials between
+the skilled and unskilled should increase over
+time, moreover, because the skilled continue
+to improve their productivity for a longer pe-
+riod of time (Reynolds, 1974:120).
+
+The research problem is to ascertain
+whether, in their evaluations of individual
+performance, supervisors rewarded produc-
+tivity as reflected in the worker's skill, vo-
+cational training, and previous work experi-
+ence, or whether they rewarded social status as
+revealed by the worker's age, marital status,
+formal education, and plant seniority. Plant
+seniority is the most difficult variable to inter-
+pret. While it can be interpreted as work expe-
+rience that increases productivity, the infer-
+ence must be guarded. Experience for an as-
+sembler has a rapidly declining productivity
+curve, while that for a skilled worker has a long
+rising curve. Where genuine internal labor
+markets exist, all workers become more valu-
+able over time because they are continually
+trained for more skilled jobs. Hyundai’s man-
+agement, however, had not systematically up-
+graded workers in 15 years. Since 90-percent
+of the workers remained at their initial job
+level, and if, over time, the pay rates of assem-
+bly line and craft workers were raised equally,
+we may conclude that individual productivity
+was not the probable basis of supervisory
+evaluations.
+
+Two important parameters of payment sys-
+tems are the range in pay for different skills,
+functions, and seniority cohorts, and the pay
+range within a given function, skill, and
+seniority cohort. In western firms, skill or pro-
+ductivity are the main determinants of pay
+rates, so little overlap normally exists in the
+pay rates of unskilled and skilled labor.
+Moreover, workers with the same skill in a
+given firm typically receive wages that vary in
+a narrow band; the lower the skill, the nar-
+rower the band. Over the years, wage rates for
+skilled workers in American automobile firms
+have ranged from 25 to 50 percent more than
+those of assemblers. Assemblers with the most
+seniority have received less than five percent
+more than assemblers with the least seniority.
+For skilled workers, the highest seniority rates
+have been about 15 percent above the lowest
+(Form, 1976:47; UAW, 1980, 1983). Brown
+(1977, Ch. 3) has shown that such pay-rate
+differentials have remained very stable over
+the years. In short, the payment norm in west-
+ern enterprises has been: wage hierarchy be-
+tween skill levels and wage “equality” within
+levels.
+
+What is the range in pay at Hyundai for skill,
+technological function, education, and senior-
+ity? In Table 2, the skill ratio (skilled + un-
+skilled) in SHW is 1.15; for technological func-
+tion (craft + assembler), 1.10; for education
+(high school + primary school), .98; and for
+seniority (five years or more + less than two
+years), 1.40. All these ratios are slightly higher
+when calculated for total monthly earnings, but
+their relative positions remain the same.
+Hyundai's skill ratio for SHW is less than half
+of that typical of the West and the same is true
+for technological function. The small pay range
+for education approximates the western norm,
+but the range for seniority is twice that of west-
+ern automobile firms.
+
+Data in Table 3 further reveal a much wider
+pay range within skill level, technological
+function, and seniority cohort than is typical of
+western firms. In Hyundai, the highest SHW
+for unskilled workers was 82 percent higher
+than the lowest. In contrast to the western
+case, at Hyundai the ratio declines as skill level
+increases. The highest paid machine tender re-
+ceived 90 percent more than the lowest, while
+the difference was 55 percent for craft workers.”
+Curiously, the highest SHW for workers with
+2-5 years of seniority was 69 percent more
+than the lowest, while the ratio was lower for
+The correlation matrix of the earnings vari-
+ables in Table 4 shows that seniority correlated
+most with SHW (.77), followed by skill, age,
+and marital status which are of moderate size
+(.40). Not surprisingly, skill, education, and
+vocational training are moderately related, but
+skill and seniority are weakly so. Skill is nega-
+tively associated with age and marital status.
+Multiple regression analysis is needed to de-
+termine the independent contribution of the
+variables.
+
+Data in Table 5 show that the seven variables
+that determine SHW and monthly earnings, re-
+spectively, contribute to 65 and 40 percent of
+the total variance.3 The standardized betas re-
+veal that the best predictors of SHW are
+seniority and skill, followed by marital status
+and vocational training. Age, education, and
+years of previous work experience have no
+independent effect on SHW. Seniority is the
+most powerful determinant of SHW, with a
+standardized beta of 0.59, but the contribution
+of skill is also important, at 0.43. Apparently,
+management also rewarded marital status, be-
+cause with all other variables controlled, the
+married received five percent more won in
+their SHW than the single. While vocational
+training was most important in hiring, it was
+least important later on.
+
+In the regression of total monthly earnings
+(see Table 5), the standardized beta for skill
+level (0.45) was higher than that for seniority
+(0.37). Marital status contributed even more to
+monthly than to hourly earnings, but vo-
+cational training was not statistically signifi-
+cant. The relative rise in the contribution of
+skill and marital status to monthly earnings
+probably reflects selectivity in the allocation of
+overtime work. The negative correlations of
+skill and technological function with age sug-
+gest that older and less skilled workers were
+more concentrated in the assembly and
+machining departments. If the skilled were as-
+signed more overtime than the less skilled, this
+may account for the higher contribution of skill
+than SHW to total monthly earnings. This
+could represent management’s way of reward-
+ing skilled workers in a tight labor market
+without raising their rates of training and hiring
+more skilled workers.
+
+A measure of monthly overtime was calcu-
+lated by multiplying 26 days by eight hours and
+removing the bonus from the previous monthly
+pay. The regression of the log of overtime on
+the determinants of pay revealed that skill had
+the largest standardized beta (.35) followed by
+marital status (.25). No other variable was
+statistically significant. Separate regressions
+were run for each skill level. None of the vari-
+ables was statistically significant.
+Table 5. Multiple Regression of Log of Standard Hourly Wage and Total Monthly Earnings
+
+ 
+
+ 
+
+Independent Variables
+
+Unstandardized (Standardized) Coefficient
+
+ 
+
+Hourly Wage
+
+Total Monthly Earnings
+
+ 
+
+ 
+
+Years of seniority 117 (.59) -118  (.37)
+Skill level 069  (.43) -118  (.45)
+Marital status -051 (17) 104 (.21)
+Vocational training -007. (.11) -001 (—.01)*
+Age —.003 (—.10)* —.004 (—.09)
+Years in previous jobs .006  (.05)* —.001 (—.00)*
+Education —.003 (—.04)* —.002 (—.02)*
+Constant 6.2 12.2
+Multiple R? 81 65
+Adjusted R? 65 40
+F-value 47 17
+N 299 299
+
+ 
+
+* Not significant at the
+
+-05 level.
+trial labor was scarce. The average seniority at
+Hyundai was only five years and, perhaps sig-
+nificantly, the maximum seniority benefit was
+for five years of service. If management could
+induce workers to remain for five years, the
+chance of their leaving would be greatly re-
+duced, especially if additional seniority was
+informally recognized in the annual evaluations
+of work performance. Additional overtime was
+an added incentive for workers to stay. Tilting
+overtime in favor of married workers further
+enabled management to stabilize its unskilled
+and semiskilled labor force. With respect to the
+skilled, management was reluctant to assign
+them a SHW that was much above that of the
+other workers. This was management's public
+statement that it recognized the importance of
+the workers’ family obligations. The company
+met the skilled workers’ demand for equity by
+assigning them even more than average over-
+time work. Obviously, management could have
+trained more skilled workers, but it chose not
+to do so.
+
+The variance in earnings explained by un-
+ambiguous social status variables (age and
+marital status) was lower at Hyundai than in
+comparable Japanese factories (Marsh and
+Mannari, 1976:120-—56; Funahashi, 1974:390),
+while the human capital variables (skill, vo-
+cational training, and seniority to some extent)
+explained more. Hyundai’s pay system seemed
+to fall somewhere between Japan's nenko sys-
+tem and the western market system. Hyundai’s
+workers apparently preferred this western tilt
+in their particular situation. In the interviews
+we asked them to rank the importance of four
+determinants of pay: seniority, education, re-
+sponsibility or skill, and the physical demands
+of the job. Responsibility clearly ranked first,
+followed by seniority and physical demands
+which ranked almost equally, and education,
+which ranked a weak last.
+
+The administration of the payment system
+generally supported the workers’ beliefs. While
+SHW skill differentials were low, the skilled
+monthly earnings were typically 22 percent
+more than the unskilled, a ratio that ap-
+proaches that of the American automobile in-
+dustry (UAW, 1980, 1983). This bonus for skill
+was almost permanent because it was in effect
+almost from the time the skilled were first
+hired. Though the skilled were attracted to
+other enterprises, they could not easily surpass
+their present earnings by moving. In 1982, only
+8.5 percent of all production workers quit
+Hyundai. This turnover rate is low for U.S.
+firms and it is also low for Japanese nenko
+firms. Cole (1971:116) and Marsh and Mannari
+(1971:804) reported annual turnover rates be-
+tween 17 and 23 percent for automobile and
+engine production firms.
+
+Company loyalty was not a major consid-
+eration in workers’ decisions to stay. In the
+interviews, only 18 percent indicated that
+Hyundai was better to work for than other
+companies. Three-quarters had thought about
+quitting and 30 percent had actually engaged in
+some form of job search. Finally, almost
+two-thirds of all workers thought that they
+should not work for the same company until
+retirement. Belief differences by skill level
+were trivial. Both workers and management
+were not altogether happy with the present
+payment system, however. Both voiced their
+approval of Japan's nenko system. About
+three-quarters of the employees preferred to
+work for a company and supervisors who
+showed personal concern for the workers’
+welfare more than for a company that de-
+manded nothing extra from its employees but
+was unconcerned about their personal lives
+(see Marsh and Mannari, 1976:354, for the
+questions asked). Workers felt that they lived
+up to nenko obligations: they worked hard,
+long, and loyally for Hyundai, but management
+would not guarantee them job security, train
+them for better jobs, provide a dependency
+bonus, or show concern for their personal
+problems.
+
+In the interviews, management reported that
+workers were unreasonable and ungrateful.
+Management felt it behaved responsibly, in ac-
+cord with the Confucian tradition. It paid well,
+provided full-time work, shared profits (a
+bonus equal to four months’ pay), provided
+some food and housing subsidy, and recog-
+nized loyalty and family responsibilities by re-
+warding seniority and by providing the married
+with more overtime. In short, management
+demanded trust from their workers, and work-
+ers demanded formal guarantees.
+
+From the workers’ perspective, management
+had them trapped. Almost half concluded that
+no promotion was possible for them at Hyun-
+dai. The others thought that perhaps in ten
+years they might be promoted to chojang or
+bangjang. But even these were dreary produc-
+tion jobs that paid only 12 percent more in
+basic monthly pay. Workers also felt ambiva-
+lent about the overtime situation. Although by
+Korean standards the amount of overtime was
+not excessive or inhumane, workers felt that
+they had insufficient leisure to enjoy their
+families. They had become so dependent on
+overtime earnings, however, that they did not
+like the prospect of reducing them and their
+present earnings.
+
+Management's strategy was self-conscious.
+Its pay policies gave the company financial and
+operational flexibilty, contained labor turn-
+over, and demonstrated a sense of social re-
+sponsibility. By balancing rewards for skill,
+seniority, and marital status, management did
+not violate any group’s sense of equity.4 Over-
+time earnings, bonuses, and other benefits
+raised earnings above those of most other in-
+dustrial employees. Though Hyundai’s per-
+worker costs were above the national average,
+savings were made in the size of its labor force
+and training costs. In 1979, the company re-
+leased 3,000 workers and it did not want to do
+that again. Yet if the automobile market were
+to turn very soft, management could release
+workers because it was not bound by custom
+or contract to keep them. Management could
+minimize lay-offs by simply reducing overtime
+work, however. On the other hand, if the
+market continued to expand, management
+could consider developing an internal labor
+market.
+
+Almost all recent observers of Japanese
+firms that embrace the nenko system have ob-
+served that their managers prefer a more flexi-
+ble system that reduces the proportion of per-
+manent employees and pays workers more for
+their skills than for their social status. The
+nenko system worked well when skilled labor
+was in short supply, the market was expanding
+predictably, and manufacturing technology
+was changing slowly. Workers could gradually
+improve their skills and pay with increasing
+experience and age. Today, faced with a pool
+of young skilled workers, changing world
+markets, and rapidly changing technology, the
+preferred payment system would reduce life-
+time employment and tip the status—skill bal-
+ance toward increasing rewards for skill.
+Hyundai’s payment strategy seems to have at-
+tained that balance.
+
+This study confirms the view that managers
+in rapidly developing countries rationally eval-
+uate alternative payment strategies when de-
+signing their own. Though Hyundai's managers
+were aware of Japan’s nenko system and the
+West’s market-driven system, they devised a
+system that balanced the two to fit their local
+situation. The rapid pace of industrialization
+and turbulent world markets (in this case
+automobile) created such a fluid labor market
+that management became convinced that it
+could not fully implement either payment sys-
+tem. The traditional tenets of Confucian ethics
+seemed to have had at best only an indirect
+impact. By rewarding seniority and marital
+status, management recognized the workers’
+social status obligations, and by carefully dis-
+tributing overtime work, management re-
+warded skill while it retained a trained labor
+force.
+
+This study suggests that sociologists must
+pay more attention to how labor and manage-
+ment respond to local labor markets in the
+context of their separate and joint traditions
+and experiences. Though labor economists
+have stressed the importance of the local labor
+market, they have not examined how labor,
+management, and their institutions respond to
+it as it changes. This is what sociologists are
+best equipped to do.
+——. 1983. Economic Statistics Yearbook. Seoul.
+
+. 1984. Monthly Bulleting 33 December. Seoul.
+
+Barrett, Richard E. and Martin King Whyte. 1982.
+“Dependency Theory and Taiwan: Analysis of a
+Deviant Case.” American Journal of Sociology
+87:1064-89.
+
+Bendix, Reinhard. 1956. Work and Authority in In-
+dustry. New York: Wiley.
+
+Berg, Ivar (ed.). 1981. Sociological Perspectives on
+Labor Markets. New York: Academic.
+
+Brown, Henry Phelps. 1977. The Inequality of Pay.
+Berkeley: University of California Press.
+
+Chaplin, David. 1967. The Peruvian Industrial Labor
+Force. Princeton, NJ: Princeton University Press.
+
+Choi, Jang Jip. 1983. Interest conflict and political
+control in South Korea: a study of labor unions in
+manufacturing industries. PhD Thesis. University
+of Chicago.
+
+Cole, Robert E. 1971. Japanese Blue Collar: The
+Changing Tradition. Berkeley: University of
+California Press.
+
+. 1979. Work, Mobility, and Participation.
+Berkeley: University of California Press.
+
+Dore, Ronald. 1973. British Factory—Japanese
+Factory. Berkeley: University of California Press.
+
+Edwards, Richard. 1979. Contested Terrain: The
+Transformation of the Work Place in the Twentieth
+Century. New York: Basic Books.
+
+Form, William H. 1976. Blue-Collar Stratification:
+Autoworkers in Four Countries. Princeton, NJ:
+Princeton University Press.
+
+1978. ** Working-Class Divisions and Political
+Consensus in France and the United States.” Pp.
+263-96 in Comparative Social Research, 4 edited
+by Richard F. Tomasson. Greenwich, CT: JAI.
+
+Form, William and Fred C. Pampel. 1978. “Social
+Stratification and the Development of Urban
+Labor Markets in India.’’ Social Forces
+57:119-35.
+
+Freeman, Richard E. 1979. Labor Economics. En-
+glewood Cliffs, NJ: Prentice-Hall.
+
+Funahashi, Naomichi. 1974. “The Industrial Reward
+System: Wages and Benefits.” Pp. 361-97 in
+Workers and Employers in Japan, edited by
+Kazuo Okochi, Bernard Karsh, and Solomon B.
+Levine. Princeton, NJ: Princeton University
+Press.
+
+Granovetter, Mark. 1974. Getting a Job: A Study of
+Contacts and Careers. Cambridge, MA: Harvard
+University Press.
+
+Griffin, Keith B. and J. L. Enos. 1970. ‘Foreign
+Assistance: Objectives and Consequences.” Eco-
+nomic Development and Cultural Change
+18:313-27.
+
+Inkeles, Alex and David H. Smith. 1974. Becoming
+Modern. Cambridge, MA: Harvard University
+Press.
+
+Jungang, Ilbosa. 1984. January 25 Jugang IIbo (Cen-
+tral Daily News).
+
+Lambert, Richard D. 1963. Workers, Factories, and
+Social Change in India. Princeton, NJ: Princeton
+University Press.
+
+Lim, Hyun-Chin. 1982. Dependent development in the
+world system: the case of South Korea. PhD The-
+sis, Harvard University, Cambridge, MA.
+
+Moore, Wilbert E. and Arnold S. Feldman, (eds.).
+1960. Labor Commitment and Social Change in
+Structural models of suburban development and black population growth are
+developed for each of the post World War II decades. Changes in the determinants
+(region, age, distance to the central city, socioeconomic status, area, job
+concentration and population size) of black growth across the post-war decades are
+examined within the context of changing black-white relations. In addition, the
+reciprocal issue of change in the effect of black suburbanization on suburban devel-
+opment (population, job and areal growth) is examined. The basic thesis is that
+change in the process of black suburbanization has occurred during the post war
+decades in response to the changing Civil Rights climate. Maximum likelihood model
+estimates are generated for each decade using samples of all suburbs which had at
+least 10,000 population during each decade. The analysis shows that the determi-
+nants of black growth and the role of black suburbanization in suburban development
+have changed across the decades.
+national total of suburban residents (17 to 20
+percent) but since World War II through 1980,
+the percent suburban population has increased
+from 20 to about 40 percent (Muller, 1981:51).
+By 1970, almost all of metropolitan growth
+(95.6 percent) was due to the growth of fringe
+populations (U.S. Census of Population, 1970).
+
+The suburbanization of commerce and in-
+dustry has paralleled suburban population
+growth. The deconcentration of economic ac-
+tivities began in the 1920s with the increased
+use of the automobile but it wasn’t until after
+World War II with the increasing movement of
+retailing to the fringe that job suburbanization
+became a noticeable phenomenon. Suburban
+employment has accelerated in each decade
+since World War II, especially during the 1970s

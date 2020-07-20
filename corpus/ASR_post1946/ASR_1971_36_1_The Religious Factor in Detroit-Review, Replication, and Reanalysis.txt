@@ -1,0 +1,1421 @@
+@SAGE As)A
+Sage Publications, Inc., American Sociological Association are collaborating with JSTOR to digitize,
+preserve and extend access to American Sociological Review
+Ethic thesis to the United States has
+
+two aspects that go far to explain its
+attractiveness to many American sociologists.
+On the one hand, the tracing of economic
+attitudes and behavior to religious values
+and beliefs is a nonobvious but intuitively
+interesting linkage. As such, it seems to pro-
+vide a persuasive instance where sociology
+has developed insights that are not apparent
+to the layman. At the same time, the primary
+application of the hypothesis to the United
+States makes this more than a purely theo-
+retical exercise. The division of the American
+population into one quarter Catholic and
+three quarters Protestant, it is argued, must
+be taken into account if we are to understand
+such nonreligious features of American life
+as its stratification and mobility system, eco-
+nomic organization, and socialization prac-
+tices.
+
+The single, most influential writing on
+the Protestant Ethic hypothesis is probably
+Gerhard Lenski’s The Religious Factor
+(1963).1 As a widely available and forcefully
+
+Te application of Weber’s Protestant
+
+* This investigation was carried out through the
+University of Michigan’s Detroit Area Study. I am
+indebted to Edward O. Laumann with whom I col-
+laborated in designing the 1966 Detroit Area Study.
+Many of the specific problems involved in replica-
+tion and reanalysis were solved by James House
+and Paula Pelletier, who worked as research as-
+sistants on this part of the project. Gerhard Lenski
+kindly furnished advice on use of certain codes
+from his 1958 study.
+
+1The 1963 Anchor edition is not simply a reprint
+of the original 1961 Doubleday edition but contains
+important changes in analysis and writing. All ref-
+erences in this paper will be to the 1963 edition.
+written book, Lenski’s work has been fre-
+quently cited.2 No doubt a major reason for
+its impact is that it reports strikingly posi-
+tive findings and concludes that the Protes-
+tant Ethic thesis is relevant to contemporary
+America, that Protestant-Catholic differences
+in secular attitudes are both large and mani-
+fold (more so in fact than class differences),
+and that these indirect effects of religion in
+America seem to be on the increase rather
+than the decrease. One other characteristic
+of Lenski’s work that distinguishes it from
+most other efforts in this area is its concern
+to measure social psychological attitudes and
+values that intervene between religious iden-
+tification and larger macro-social processes
+such as occupational mobility.®
+
+Despite its intriguing nature, the Amer-
+icanized version of the Protestant Ethic
+thesis, and more specifically Lenski’s con-
+clusions, have met with some criticism. At
+
+2 For example, the article on “The Sociology of
+Religion” in the new and highly regarded Interna-
+tional Encyclopedia of the Social Sciences (1969,
+Volume 13, p. 412) describes The Religious Factor
+as “perhaps the most successful attempt to apply
+survey research to the sociology of religion,” and
+briefly notes the positive findings of the book.
+
+3 Most other work on this topic investigate only
+the general connection between religious membership
+and socioeconomic variables such as income. See
+Glenn and Hyland (1967), which includes a fairly
+complete set of references to earlier studies. For
+more recent analyses emphasizing socioeconomic
+status, see Glockel (1969) and Warren (1970).
+Featherman (1969) provides one of the few analyses
+(other than Lenski’s) which include intervening so-
+cial psychological variables, though the intervention
+in this case is between different points in the
+achievement process for adults.
+the theoretical level, questions have been
+raised as to whether Weber really intended
+to argue that the Protestant Ethic was an
+important cause of the rise of capitalism,
+and, even if so, whether he expected the
+Protestant-Catholic distinction to continue
+to lead to similar economic differences in the
+twentieth century.* More practical questions
+have focused on whether such gross cate-
+gories as “Catholic” and “Protestant” are
+analytically useful in the United States,
+since there are important ethnic lines within
+American Catholicism and both ethnic and
+denominational differences among American
+Protestants. Finally, at the empirical level
+enough contradictory findings have appeared
+to raise some doubts about the reliability of
+the positive findings reported in The Re-
+ligious Factor (see especially Greely, 1964).
+
+The present paper will not attempt to deal
+with the first type of question, but will as-
+sume that whatever Weber may have in-
+tended, it is not unreasonable to determine
+whether there are Protestant-Catholic differ-
+ences in beliefs and values relevant to eco-
+nomic advancement. We will deal briefly at
+one point with the second type of question
+on ethnic and denominational differences
+within the major religions, but that is also
+not our primary focus. The analysis and
+findings described here are mainly relevant
+to the third question, namely, the reliability,
+and therefore validity, of reported Protes-
+tant-Catholic differences, using Lenski’s
+
+4The wide disagreements on this point indicate
+that The Protestant Ethic and the Spirit of Capi-
+talism (Weber, 1930) can be read in different ways.
+I myself see Weber’s citation of religious differences
+in education and business (pp. 38-40) as suggesting
+continuation into the twentieth century of Protes-
+tant-Catholic differences in secular values. That
+Weber, as a careful scholar, emphasized the com-
+plexity of any causal analysis of capitalism does not
+mean that he lacked a bold thesis himself. In any
+case, the impact of Weber’s writing on the Protes-
+tant Ethic has certainly been largely based on this
+thesis, whether or not Weber himself would today
+subscribe to it.
+
+5 Glock and Stark (1965) have particularly em-
+phasized denominational differences within Pro-
+testantism. Their dependent variables, however, are
+religious and moral values closely tied to the origins
+of American denominations, and they do not deal
+with values linked to the Protestant Ethic hypothe-
+sis. See Warren (1970) for a careful analysis of de-
+nominational differences in education, occupation,
+and income. An original review of The Religious
+Factor (Rosen, 1962) questioned the lack of atten-
+tion to ethnic differences.
+earlier results as the focus of investigation.
+More simply, we shall present results from
+both a replication and a reanalysis of Len-
+ski’s findings, with a review along the ways
+of the original findings themselves.
+
+Lenski’s research was carried out in 1958
+within the framework of the Detroit Area
+Study, a continuing survey research and
+training unit of the University of Michigan.
+It was appropriate that in 1966 the Detroit
+Area Study included as part of another re-
+search effort an attempt to replicate and ex-
+tend certain small but important aspects of
+the investigation reported in The Religious
+Factor. However, the replication was by no
+means complete and exact, and several limi-
+tations must be stressed at the outset.
+
+First, almost the entire focus of the 1966
+replication was on the Weberian hypothesis
+developed and tested by Lenski in Chapter
+3 (“Religion and Economics”) of his book.
+The book deals with several other topics,
+such as “Religion and Politics,” which are
+not relevant at all here, and with still other
+topics such as “Religion and Family Life,”
+that are relevant but are tested only slightly,
+if at all, by the present data.
+
+Second, this replication began more as an
+“extension” than as a simple replication. We
+hoped to duplicate Lenski’s results and then
+to carry out—more carefully than his sample
+and techniques allowed—several further
+analyses, for example, on the relevance of
+ethnicity to religious differences. We did not,
+therefore, repeat quite all the questions
+needed for a full replication even of the eco-
+nomic aspect of the 1958 DAS survey, and
+we did not attempt seriously to follow his
+exact ordering of questions.
+
+Third, replication is not a simple concept
+and can obviously never be carried out per-
+fectly.6 Apart from sampling error, which
+can be estimated, and real changes over time,
+
+6 The term “replication” is used here to refer to
+the deliberate repetition at a later point in time of
+part or all of a completed piece of research in order
+to determine whether the same results obtain. This
+usage is related to but not the same as that com-
+mon to experimental designs (Fisher, 1951:58-60).
+A helpful discussion of the present usage appears in
+Lykken (1968). The type of replication used here
+would probably be termed “operational replication”
+by Lykken, as opposed to “constructive replication,”
+which does not attempt to duplicate the research
+procedures of the original investigation but rather
+to operationalize the relevant constructs in other
+ways.
+Both the 1958 and 1966 data are based on
+samples from the metropolitan Detroit popu-
+lation—city and surrounding suburbs. The
+Detroit SMSA defined by the Bureau of the
+Census actually consists of three counties,
+but in both 1958 and 1966 thinly populated
+outlying parts of the counties (plus the city
+of Pontiac) were not included in the survey
+sample boundaries, primarily to reduce time
+and costs.7 The sample area was defined to
+be somewhat larger in 1966 than in 1958 in
+order to accommodate expansion of actual
+suburban areas, but the percentage of the
+total SMSA population included in the total
+sample area was quite similar for the two
+years: 87% in 1958 and 85% in 1966. Sub-
+urban towns that had experienced recent
+growth were all included in the 1966 boun-
+daries, and it does not appear likely that im-
+portant parts of the “1958 population” had
+moved beyond the 1966 boundaries, Thus,
+we regard the total populations available for
+the two studies as essentially the same, ex-
+cept for whatever long-distance migration
+
+7 Information on the 1956 sampling was obtained
+from Lenski (1963:16-17) and from “Sampling De-
+sign for the 1957-58 Detroit Area Study” (1959).
+Neither of the above sources specified the lower age
+limit for the 1956 sample, referring simply to
+“adults.” The lower cut-off of 21 mentioned below
+is found in the “Interviewer’s Instruction Booklet”
+for the 1957-58 study. Information on the 1966
+sampling appears in Schuman (1967).
+may have taken place between the Detroit
+SMSA and the rest of the United States
+during the intervening eight years.
+
+Although the geographically defined popu-
+lations were essentially the same for the two
+studies, the 1966 survey screened out parts
+of the general population that were included
+in 1958. We need to indicate the likely effect
+of this differential screening on comparisons
+between the two sets of results.
+
+The sample used in 1958 involved essen-
+tially a cross section selection of occupied
+dwelling units from the geographic area
+described above. Within each dwelling unit,
+all persons age 21 and over were listed and
+one was selected at random for interview.
+No type of household appears to have been
+screened out. Of the 750 households selected
+for interview, 656 resulted in complete inter-
+views—a response rate of 87%.
+
+The sample in 1966 drew a cross section
+of occupied dwelling units, but considered
+eligible for random selection within house-
+hold, only white males, ages 21 through 64,
+born in the United States or Canada. A
+total of 1,013 cases were obtained, with a
+response rate of 80%.® Each of the screen-
+ing factors requires brief consideration. In-
+cluded in parentheses is the number of cases
+that were excluded from the sample as or-
+iginally drawn because of the criterion dis-
+cussed.
+Lenski’s 1958 results. One of his most strik-
+ing conclusions is that differences be-
+tween “socio-religious groups” are generally
+heightened when third generation Americans
+are studied separately.
+
+. Exclusion of Women (N=268) and of
+Native-Born Men over 65 (N=92): In the
+chapter directly replicated by the 1966
+study, certain of the tables are confined to
+men, and others include both sexes. There
+is no indication that results differ by sex
+where questions are relevant to both sexes.
+The same applies to age, except that the
+finding reported above on third generation
+effects suggests that Protestant-Catholic
+differences may well increase among younger
+people. Nonetheless, possible specification
+by age or sex must be allowed for and will
+be discussed below after presentation of
+major results.
+
+. Differences in response rates: The difference
+between the response rates for the two
+years is partly a function of the restriction
+of the 1966 sample to working age males—
+a particularly difficult category to reach.
+It may also reflect the general downward
+trend of response rates reported in most
+studies over the past two decades. Insofar
+as the latter is the case, the difference may
+reduce comparability between the obtained
+samples for the two years. While there is
+no particular reason to expect such an ef-
+fect, especially given the relatively small
+percentage difference, the possibility cannot
+be ruled out. It provides a good example
+of the difficulty of achieving “literal repli-
+cation” (Lykken, 1968).
+The 1958 survey asked men and working
+women to answer for themselves, and wives
+to answer in terms of what they would want
+in their husbands’ job; the 1966 survey, as
+mentioned earlier, did not include women.
+
+Lenski considers the 5th alternative the
+one best representing the “Protestant Ethic”
+as conceived by Weber, the 4th also a par-
+tial indicator of the Ethic, and the Ist a
+popular but questionable approach to oper-
+ationalizing the same construct. The 3rd
+alternative, and to a lesser extent the 2nd,
+are regarded as “completely in opposition to
+any conception of the Protestant Ethic”
+(Lenski, 1963:87).
+
+Lenski notes “how strong a hold the Prot-
+estant Ethic, in the classical sense, has on all
+segments of the American population”:
+nearly half of the 1958 sample ranked the
+5th alternative highest, and two-thirds se-
+lected either the 5th or the 4th alternative.
+Our results in 1966 are almost identical,
+with 47% of the sample making the 5th
+alternative first choice, and another 27%
+selecting the 4th alternative.
+
+Turning to differences by religion, Lenski
+reports that the following percentages of the
+three religious groups rank first the “classic
+Protestant Ethic” alternative (“the work is
+important and gives a feeling of accomplish-
+ment”): 2° Protestants, 52%; Jews, 48%;
+Catholics, 44%. The difference of 8 percent-
+age points between Protestants and Catholics
+is not great, but it meets the .10 level of
+significance (one-tailed) used in The Re-
+ligious Factor. The small Jewish subsample
+does not differ significantly (p>.10, one-
+tailed) from either of the other categories.
+Lenski also notes, without presenting data,
+that “application of controls for class posi-
+tion of respondents and of their parents, and
+for the education of respondents . . . revealed
+that the differences between white Protes-
+tants on the one hand and Jews and Catholics
+on the other are greater among the better
+educated and in the middle classes than
+among the less well educated and the work-
+ing classes.” (Lenski, 1963:91).
+
+On the other hand, Lenski finds that Jews
+and Catholics are high on alternatives 1 and
+4 which refer to chances for advancement
+and high income. He reports only the per-
+centage for the two alternatives combined
+and without controls: 11 Jews, 45%; Cath-
+olics, 40%; Protestants, 31%. This differ-
+ence confirms Lenski’s belief that there are
+two somewhat separate though related sys-
+tems of work values which deserve to be
+distinguished. Protestants tend to be higher
+on the “classic” Protestant Ethic, while Jews
+and Catholics are higher on the more con-
+temporary version. Finally, Lenski notes that
+all the reported differences are small and
+cannot account for the major part of the
+relative economic success of Protestants and
+
+10Tt is not completely clear that totals for re-
+ligious groups were used, but absence of qualifica-
+tions makes this likely. Here as elsewhere in this
+paper, Lenski’s fourth “socio-religious” category of
+Negro Protestants is omitted; all respondents in-
+cluded in the three categories shown are white.
+
+11 This assumes that each percentage stands for
+first choice of one alternative or the other—an
+assumption implied but not explicit (Lenski 1963:
+91). The percentages here, it should be noted, are
+largely determined by the preceding set, but the
+determination is not complete since there were two
+other possible response categories to the question.
+Jews as against Catholics. Perhaps for this
+reason, he does not include results for this
+question in his summary table comparing the
+size of differences by religion with the size
+of differences by social class (Lenski, 1963:
+326).
+
+Our own findings on this question are re-
+ported in Table 1. The results successfully
+replicate Lenski’s work in part. A somewhat
+greater proportion of Protestants than Cath-
+olics give first rank to the sense of accom-
+plishment and worth of work. The difference
+of 5 percentage points between the two
+groups would not be significant for Lenski’s
+sample sizes, but just makes the 10% level
+of significance (one-tailed) for our larger
+subsamples. There is also a trend for Cath-
+olics to be higher (by 4 percentage points)
+than Protestants on first choice given to in-
+come or chances for advancement. Lenski’s
+finding that Jews were highest on first choice
+of advancement or income, and Protestants
+lowest, does not hold up well. The differences
+are slight and Jews are actually lowest on
+these combined responses (and highest on
+the “classical” Protestant Ethic response).
+
+As noted above, Lenski reports, but does
+not present, data showing that the religious
+factor operates more strongly among the
+middle-class and better educated. We have
+created social class (occupation and income)
+and educational controls as close as possible
+to those generally used by Lenski.1? Com-
+parisons between Protestants and Catholics
+within class and educational categories for
+the work-values question are shown in Table
+2. (There are too few Jews to allow for such
+controls.) Our results bear out the 1958
+finding that differences between Protestants
+and Catholics are primarily located within
+the upper stratum. Among the upper-middle
+class and the college-educated, Protestant-
+Catholic differences increase slightly over
+that found for the total samples, while only
+small, though consistent, differences occur
+
+12 The social class and educational criteria used
+in the two surveys and the resulting distributions
+are shown below, with cases omitted where classi-
+ficatory information is lacking:
+The 1966 study used the same occupational group-
+ings as Lenski, but raised the cutting point for
+income by $2,000 to take account of changes in
+income level between 1958 and 1964. Partly as a
+result of this change, the 1966 “social class” dis-
+tribution is somewhat different from Lenski’s. There
+is also a slight difference in occupational distribu-
+tions as such, since Lenski’s combined middle-class
+categories account for 43%, as against 47% for
+the 1966 sample. This may represent a change in
+the Detroit occupational structure, but may simply
+be a result of sampling error plus the 1966 exclu-
+working at some job. But others say that
+they would be a lot happier if they didn’t
+have to work and could take life easy. How
+do you feel about this? Why is that?” Re-
+spondents were then coded into one of three
+general categories: 1. a completely positive
+attitude toward work, which emphasizes its
+intrinsic rewards or its moral character; 2.
+a neutral attitude, which involves a prefer-
+ence for working, but one based on extrinsic
+factors, such as boredom with too much
+leisure; 3. a negative attitude, which in-
+volves a frank assertion by the respondent
+that he would be happier if he did not have
+to work,
+
+The 1958 survey found the following per-
+centages of males in each religious group
+expressing a positive attitude toward work:
+Jews, 42%; Protestants, 30%; Catholics,
+23%. The difference between Protestants
+and Catholics here is significant at the .10
+level, according to the table Lenski provides
+(1963:372). He also reports that controls
+for generation, region of birth, and class
+show Protestant-Catholic differences to be
+on the increase rather than on the decrease.
+“Catholics who were northern born, third-
+generation Americans were much more likely
+to have a negative attitude toward work than
+were first- and second-generation immigrants
+(36% vs. 14%)” (p. 90). The opposite trend
+occurred among Protestants for positive at-
+titudes toward work (30% vs. 24%). More-
+over, positive attitudes toward work were
+directly correlated with social class for Prot-
+estants, but the correlation was inverse for
+Catholics (see Lenski, 1963:98, Table 10).
+Lenski interprets this to mean that Protes-
+tants take a more positive attitude toward
+more demanding and rewarding positions,
+while Catholics show a more positive attitude
+toward positions that are less demanding
+and hence less rewarding. None of the above
+controls are applied to Jews because of small
+sample sizes, and there is no comment on
+the largest percentage differences in 1958
+for the question, those between Jews and
+both Protestants and Catholics.
+
+Our own findings on this question are
+shown in Table 3, alongside Lenski’s results
+where these were reported in detail. The
+value of placing results from both years
+together is to allow direct comparisons of
+trends in subgroup differences. Absolute per-
+cents for any given subgroup should not be
+compared, however, since as explained earlier
+the 1958 survey included parts of the popu-
+lation excluded in 1966. For the present
+question, the populations are somewhat closer
+than usual, since Lenski presents these data
+also only for males, but there are still differ-
+ences by age and birth place.
+
+Our results do not replicate those of
+Lenski’s with regard to Protestant-Catholic
+differences. We find only a trivial and unre-
+liable difference on this question for the two
+religious groups as a whole, When genera-
+tion is introduced as a third variable, we
+find slight and probably unreliable effects
+opposite to those reported by Lenski. When
+social class is introduced as a third variable,
+there is little variation of any kind in nega-
+tive attitudes toward work. There is a ten-
+dency for positive attitudes to increase with
+Lenski's Findings
+
+T
+
+1966 Findings
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Religious Group Pos. Neut. Neg. N Pos. Neut. Neg. N
+Protestants 30% (not separated) (-) 32% 585 11% (481)
+Catholics: 23. (not separated) (-) 33 5S 12 (421)
+Jews 42 (not separated) (-) 34 55 10 (29)
+By Generation:
+Protestant,
+3rd Gen. or 30% (not separated) (40) 33% 54% 14% (259)
+More
+Protestant,
+2nd Gen. or 24 (not separated) (37) 36 56 8 (125)
+Less
+Catholic,
+3rd Gen. or (not separated) 36 (22) 32 57 11 (190)
+More
+Catholic,
+2nd Gen. or (not separated) 14 (69) 35 52 14 (219)
+Less
+By Class:
+Protestant:
+Upper
+Middle 36% 52% 12% (25) 46% 46% 9% (145)
+Lower
+Middle 32 $7 11 (19) 26 64 10 (84)
+Upper
+Working 23 56 21 (39) 28 59 12 (172)
+Lower
+Working 30 33 37 (27) 22 68 10 (78)
+Catholic:
+Upper
+Middle 19 56 25 (16) 39 53 8 (95)
+Lower
+Middle 18 57 25 (28) 34 57 9 (88)
+Upper
+Working 18 64 18 (38) 30 56 15 (171)
+Lower
+Working 33 48 19 (21) 30 $5 15 (66)
+36% $2% 12% (25)
+
+32 57 11 (19)
+23 56 21 (39)
+30 33 37 (27)
+19 56 25 (16)
+18 57 25 (28)
+18 64 18 (38)
+
+33 48 19 (21)
+Shifting from attitudes toward work to
+values about consumption, Lenski “inquired
+into the manner in which families use their
+income.” One question concerned installment
+buying: Changing the subject a bit, do you
+think it’s a good idea or a bad idea to buy
+things on the installment plan? Lenski re-
+ports 46% of his total sample in favor of
+installment buying, 38% against, with the
+balance not decided. In 1966 we find 47%
+for, 50% against, and 3% other. The differ-
+ences here are not great and could easily
+result from differences in sample design (e.g.,
+Negroes included in 1958 but not in 1966),
+changes over time, or a combination of
+sampling error and format variation.1%
+
+Lenski reports the following percents by
+religious groups in terms of disapproval of
+installment buying: Jews, 56%; Protestants,
+44%; Catholics, 40%. The Protestant-Cath-
+olic difference is not reliable even at the .10
+level (one-tailed), but Lenski does find the
+same interaction with generation reported
+earlier: Catholics closer to immigrant status
+(1st and 2nd generation) are more disap-
+proving of installment buying than are
+Catholics in or beyond the third generation;
+the opposite is true among Protestants. Table
+4 presents the 1958 findings, along with com-
+parable percentages from the present study.
+
+13This question was included at the end of a
+five-minute attitude form which the respondent
+filled out himself mid-way in the hour interview.
+The form was completed entirely within the larger
+interview and does not result in loss of respondents;
+such a procedure was used primarily to allow ob-
+servations of the house to be made by the inter-
+viewer for purposes unconnected with the present
+replication. The 1958 and 1966 questions were
+worded identically, but the 1958 version included
+an interview box for “unsure” if volunteered; the
+1966 item did not offer such a choice explicitly.
+This latter minor difference in format occurs also
+for the “attitude toward work” question discussed
+earlier.
+Our overall findings by religion show even
+less of a Protestant-Catholic difference than
+the small one reported by Lenski. We also
+found a reversal for Jews, with the latter
+less rather than more disapproving of in-
+stallment buying than the other two groups.
+This was such a puzzling finding that it led
+us to check our entire coding procedure for
+the question, but a count based on the
+original 29 raw questionnaires for the sub-
+sample of Jews confirmed the finding already
+reported.1+
+
+14 A control for occupation shows that this favor-
+ability toward installment buying is much stronger
+among Jewish businessmen (7 of 9 favoring) than
+The Religious Factor presents the results
+for several relevant attitude questions which
+we did not attempt to replicate exactly in
+the 1966 study. Lenski’s findings on these
+questions will be briefly reviewed, with our
+reason for omitting the question or the re-
+sults of modifying it also noted.
+
+(a) Belief in the Possibility of Success:
+Lenski asked two questions designed to de-
+termine whether a respondent believed it is
+possible to rise from the working-class to
+the middle-class and whether he believed
+that ability rather than family connections
+makes for success. He reports that with class
+held constant (dichotomized into Middle-
+class vs. Working-class), over 10% more
+Protestants than Catholics hold such beliefs.
+We did not attempt to replicate these ques-
+tions because we could not see a clear con-
+nection between them and Weber’s central
+focus on the Protestant Ethic. As Lenski
+himself had earlier stressed, the concern with
+work that supposedly developed out of early
+Protestant views had to do not with the
+striving after extrinsic success, but with posi-
+tive satisfaction in pursuing one’s vocation
+in this world.
+
+(b) Divine Concern with Economic Striv-
+ing: A somewhat more relevant question
+seemed to be one that asked whether “God
+
+ 
+
+among Jewish professionals (4 of 11). We suspect
+that this question may be ambiguous to some
+businessmen, and that they may interpret it as
+indicating favorability toward allowing installment
+buying by customers, rather than in terms of per-
+sonal preference.
+is more pleased when people try to get ahead,
+or when people are satisfied with what they
+have and don’t try to push ahead.” But
+Lenski found only a five percentage points
+difference between Protestants and Catholics
+on this question, though in the “right direc-
+tion.” He also reports that the question was
+difficult for respondents to answer and that
+many tried to avoid the forced choice. For
+these reasons, the question was not included
+in the 1966 study.
+
+(c) Use of Leisure Time: In another
+chapter of The Religious Factor, Lenski re-
+ports data from an earlier (1953) Detroit
+Area Study, which shows a trend for Protes-
+tants to say they would use extra leisure
+time productively (e.g., social service work,
+reading, gardening) rather than indulgently
+(e.g., loafing, going to movies, shopping).
+This seems to be directly relevant to Weber’s
+conception of a puritan work ethic, and we
+included the following similar (although not
+identical) question in our study immediately
+after the question on whether the respondent
+would be happier working or not working:
+“Suppose you did have a lot of free time.
+What would you most like to do with it?”
+Responses were coded into two basic cate-
+gories of “Productive” (mainly self-improve-
+ment in content) and “Indulgent” (mainly
+casual social contacts, sports, and recrea-
+tion). Differences by religion in 1966 are
+shown below:
+Protestants (28%) than Catholics (19%)
+gave more than one reason for saving. We
+did not find this numerical result as pertinent
+to the thrift argument as other questions,
+and therefore did not attempt to repeat the
+long series of inquiries used to obtain it.
+
+(e) Follow-up to Installment Buying:
+After the question on installment buying re-
+ported earlier, the 1958 study asked: “Why
+do you feel this way?” Lenski reports that
+in explaining their disapproval, Protestants
+more often cited moral reasons than Catho-
+lics: 30% of the working-class Protestants,
+as against 18% of the working-class Cath-
+olics. Figures for middle-class respondents
+are not given, but by implication are less
+clear. Of the additional attitude questions
+treated in this section, this is the only one
+which seems both directly relevant to the
+main argument and somewhat promising in
+terms of reported results. It is unfortunate
+that we were not able to include it in the
+1966 study.
+work as a necessary evil and emphasize secu-
+rity rather than achievement. The Benjamin
+Franklins of today should presumably be
+men who wish to escape from the union rank
+and file, not contribute to its solidarity.
+
+Lenski focuses on the lower middle class
+(clerks and salesmen) as the place in the
+social structure where union membership is
+possible but not taken for granted. He finds
+that 38% of the Catholics in the middle
+class (N= 27) belong to unions, while only
+15% of the middle class Protestants (N = 33)
+have such membership. (No difference ap-
+pears among working class men.) Our results
+do not replicate the white collar difference:
+among clerical and sales workers we find
+that 23% of the Protestants (N=66) and
+23% of the Catholics (N=49) belong to
+unions.
+
+The 1958 study did not include other ques-
+tions on union involvement. But Lenski re-
+fers to other surveys done through the De-
+troit Area Study and elsewhere which show
+Protestant-Catholic differences. He cites the
+1952 Detroit Area Study data showing that
+Protestant union members attend union
+meetings less often than Catholics and also
+say they are less “interested” in their union
+than Catholics. We did not repeat either of
+these questions exactly, but we did ask union
+members whether they felt “very involved”
+or “not very involved” in their union. Ex-
+actly 28% of the union members (177 Prot-
+estant union members, 166 Catholics) of
+each religious group claimed to be “very
+involved.” A control for occupational level
+did not change this indication of no differ-
+Respondent's Father's Occupation
+
+Occupational Middle Upper Working Lower Working Farmer
+
+Cath. Cath. Prot. Cath.
+
+         
+ 
+ 
+
+Prot. Prot. Cath. Prot.
+
+   
+
+Level
+
+     
+
+Upper Middle
+Lower Middle
+Upper Working
+
+Lower Working
+
+ 
+
+Total
+
+N
+earlier results only with regard to Jews. As
+Table 5 shows, we find no difference at all
+between Protestants and Catholics on this
+measure.
+
+(c) Budgeting: Lenski was interested in
+discovering whether Protestants were more
+likely than Catholics to budget family ex-
+penditures. He found, however, no difference
+between the two religious groups on this
+question, and we therefore did not attempt to
+replicate the question.
+
+(d) Vertical Mobility: We have saved
+until last the question of “vertical mobility,”
+which Lenski treats first. Although it is obvi-
+ously important to discover such differences
+if they exist, their origin is bound to be
+ambiguous. Even given the same attitudes
+and values, groups starting from different
+points will end at different points.
+
+Lenski reports on the conflicting evidence
+in this area, and then presents data (p. 85)
+from the 1958 study showing greater Protes-
+tant than Catholic intergenerational mobility
+among white males. His data are not un-
+ambiguous, and this is an area where there
+is a fair amount of replication, often with
+larger national samples and using more re-
+cent analytic techniques.1> Nevertheless, we
+A problem with comparisons of “Protes-
+tants” and “Catholics” is the vague and
+omnibus nature of such labels. For one thing,
+“Protestant” covers many different denomi-
+nations and sects in America, and Weber was
+at pains to detail differences as well as sim-
+ilarities among these. In addition, within re-
+ligious groups, individuals differ widely in
+the depth of their involvement, and if indeed
+it is religion that is a source of attitudes and
+values, we might expect these variations in
+involvement to lead to variations in adher-
+ence to the “Protestant Ethic.”
+
+Lenski handles the first problem by argu-
+ing that “denominational groupings within
+Detroit Protestantism no longer consti-
+tute self-contained socio-religious groups”
+(1963:21). He notes that his 1958 data show
+large “amounts” of marriage and friendship
+across denomination lines, and that half the
+Protestant respondents were in favor of de-
+nominational mergers. Most significantly, he
+reports that dependent variables in his data
+show few differences by denomination that
+are not simply accounted for by class posi-
+tion or regional background (1963:396-
+398).
+
+Our own larger sample allows a somewhat
+more adequate analysis of denominational
+effects, and shows them to be about as im-
+pressive as simple Protestant-Catholic differ-
+ences. Using only the four denominations on
+which we have at least 75 respondents, and
+employing the Work Values question dis-
+cussed earlier, we obtain the results shown
+in Table 7. Even with controls for three
+indicators of socioeconomic status, five of the
+six between-denomination comparisons are as
+large as the original Protestant-Catholic dif-
+ference we reported in Table 1, and four of
+the six are as large as the Protestant-Catholic
+difference reported for this question in The
+Religious Factor. It is not clear that the
+ordering of denominations is what a careful
+reader of Weber would anticipate, since
+the more “Calvinistic” Presbyterians score
+closest to the Catholics, while the Lutherans
+are unexpectedly high in giving the classic
+Protestant Ethic response. However, it does
+appear that “Protestants” constitute a rather
+heterogeneous category, and that at the very
+least we must expect responses for that cate-
+gory to vary depending on the varying pro-
+portions of these denominations in different
+parts of the United States.1¢
+
+16 We also attempted to learn to what extent a
+control for ethnicity affected the Protestant-Catholic
+difference reported in Table 1. We included our
+three religious groups (Protestants, Catholics, Jews)
+and also eight nationality groupings (based on a
+question about “What nationality background do
+you think of yourself as having—that is, besides
+being an American?”) as predictors in a single
+Let us turn now to individual differences
+in personal involvement in religion. Lenski
+deals with the important issue of depth of
+commitment by constructing one index of
+“associational involvement” in the church as
+a formal organization, and another index of
+“communal involvement” in the informal but
+encompassing subcommunity of co-religion-
+ists. The former is operationalized by fre-
+quency of attendance at church services, the
+latter by the degree to which primary rela-
+tionships are limited to members of the same
+religion. (See Lenski, 1963:23, for details of
+index construction.) He shows that the two
+indices are only slightly related to each
+other, hence can usefully be treated as sepa-
+rate measures.
+
+Although Lenski makes a convincing case
+for the general importance of “communal
+involvement” as a vehicle for religious influ-
+ence, it turns out that the index does not
+distinguish within religious groups in terms
+of economic attitudes and behaviors. He con-
+cludes that “the churches, rather than the
+sub-communities, are the primary source of
+the differences in economic behavior” be-
+tween Protestants and Catholics (pp. 124-
+125).
+
+As the above quotations suggest, associa-
+tional involvement does appear to be an im-
+portant specifying variable for the 1958 data.
+In most of the questions where comparisons
+were possible, frequency of church atten-
+dance among Protestants was positively asso-
+ciated with the Weberian “spirit of capital-
+ism.” There was no, or even a slight, negative
+relationship for the same variables among
+Catholics. The quantitative results for each
+question are not presented by Lenski in
+tabular form, but most of the questions which
+are reported to show the relationship in-
+volve social positions (e.g., self-employment)
+rather than values or attitudes. In particular,
+neither the question on what is valued about
+
+ 
+
+multiple classification analysis. With nationality
+controlled, the original five point percentage dif-
+ference between Protestants and Catholics on the
+Work Values question is halved. Thus ethnicity
+does seem to be a relevant variable, as Rosen
+(1962) and others have argued. Both ethnic and
+denominational effects are much slighter when the
+dependent variable shifts to the “attitudes toward
+work” question. Apparently the latter variable is
+simply not a useful one in this study, for as we
+saw earlier it fails to show any significant relation
+to religion,
+work, nor positive attitudes toward work as
+against leisure, showed any relation in 1958
+to degree of associational involvement. This
+lack of a relation is not treated by Lenski
+as a negative finding concerning the influ-
+ence of the religious factor on economic be-
+havior, but rather as a sign that “the Protes-
+tant churches have allowed the doctrine of
+the calling to be neglected.”
+
+Our own findings, reported in Table 8,
+differ considerably from Lenski’s, insofar as
+comparisons can be made.
+
+1. Lenski reports that the “work values”
+question showed little relation to associa-
+tional involvement; we find a consistent
+trend for the more actively involved among
+both Protestants and Catholics to say that
+the significance of the work is their main
+concern in choosing a job. This may simply
+reflect uncontrolled variations within crude
+class categories that are related to associa-
+tional involvement.
+
+2. For attitudes toward work, we find a
+relation that Lenski apparently expected:
+positive attitudes going with frequent church
+attendance among Protestants but not among
+Catholics. However, Lenski’s own findings
+appear to have been in the opposite direction.
+
+3. Lenski finds both occupational self-
+employment and disapproval of installment
+buying greater among more actively involved
+Protestants. We find weak trends in the op-
+posite direction for both religious groups.
+
+4. Lenski reports that both membership
+and interest in unions are least among active
+Protestant church-goers. We find opposite
+trends.
+
+More generally we find little systematic or
+meaningful difference in the effect of associa-
+tional involvement on Protestants and Catho-
+lics. We have not been able to attempt repli-
+cation of certain questions used by Lenski
+in this analysis because they were not in-
+cluded in the 1966 survey, but the results
+we can check are not encouraging.
+
+Lenski reports several other ways in which
+some of the dependent variables under dis-
+cussion seem to be influenced by type of
+religious commitment. For example, he finds
+that a “devotional” orientation, as indicated
+by personal prayer and concern to determine
+God’s will when making decisions, is posi-
+tively associated with a commitment to work.
+But in this instance, as elsewhere in these
+“Protestant Protestants Catholics
+
+Ethic" Middle Class Working Class | Middle Class Working Class
+
+Response
+
+     
+   
+
+Active Marg. Active Marg. Active Marg. Active Marg.
+
+ 
+
+          
+
+(79) (154) (58) (201) (144) (37) (155) (85)
+
+Intrinsic work val-
+
+       
+ 
+  
+
+      
+      
+       
+    
+   
+
+uation in job choice 67% 43% 38% S4% 43% 42% 29%
+
+Positive attitude
+
+toward work 43 32 37 38 31 29
+
+Disapproves of in-
+
+stallment buying 43 46 46 48 60
+
+Presently self-
+
+employed 16 22 27 4 6
+*
+
+Member of union™” 31 19 36 61 67
+
+Very involved in
+union
+
+  
+ 
+
+23
+omitted women, the foreign born, and men
+over 65, and it also had a somewhat lower
+response rate than did the 1958 study. It is
+conceivable that these differences in target
+populations account for some of the differ-
+ences in results. Although we have not at-
+tempted a complete reanalysis of Lenski’s
+1958 data, we have done so using age, sex,
+and nativity controls on the initial Protes-
+tant-Catholic differences for three main
+items: “work values,” “attitudes toward
+work,” and “installment buying.” It it worth
+noting that the reanalysis proved a great
+deal more difficult than anticipated, because
+of the problems encountered first of all
+merely in reproducing the original results
+reported in The Religious Factor, before pro-
+ceeding to introduce sample controls. In only
+one of the attitudes reviewed here were we
+able to obtain Lenski’s published results per-
+fectly, although in the other two cases the
+discrepancies were minor and very likely due
+to differences in placement of one or two
+cases. The possible explanations for such
+minor discrepancies are manifold: errors in
+our, or Lenski’s, use of computing equip-
+ment; errors by Lenski in preparation of
+tables or at later stages in writing; errors by
+us in interpretation of Lenski’s codes and
+recodes; actual damage to the data over the
+intervening decade. The whole effort left us
+with a healthy respect for the variability of
+percentages for reasons other than either
+sampling or measurement error, and with a
+sense of how easily borderline significance
+levels can be altered in this size sample by
+minor changes in coding conventions (for
+example, inclusion or not of missing data
+when calculating percents). We suspect that
+these problems in reanalysis are not unique
+to Lenski’s data, and that only with the
+greatest care is it possible to transmit data
+and codes in reliable form from one investi-
+gator to another.
+
+When controls for age, sex, and nativity
+were applied to bring Lenski’s sample to es-
+sentially the same composition as the 1966
+replication, the results did in fact tend to con-
+verge. For the “work values” item this means
+that in the 1958 tables rerun using only
+21- to 64-year-old, native-born males, Prot-
+estant-Catholic differences were reduced to
+almost the exact sizes of the 1966 results
+given in Table 1. For example, “the work is
+important . . .” shows a 6% Protestant-
+Catholic difference in Table 9, as compared
+with our 5% difference in 1966. Thus our
+earlier report of a successful replication for
+this item holds and is even improved when
+the 1958 and 1966 samples are brought more
+closely into line.
+
+The two other items in Table 9 show a
+similar movement toward the 1966 results
+when similar age, sex, and nativity controls
+are applied. This means, however, that Prot-
+estant-Catholic differences for these items
+tend to disappear among 1958 native-born
+men under 65. For the “attitude toward
+work” item, the original difference reported
+by Lenski appears to come entirely from
+men over 64 and men born outside the United
+States—relegating the result either to the
+record of a disappearing generation or an
+indicator of the religious correlates of old age.
+Because of the difficulties noted above in
+Most of our conclusions about an intrinsi-
+cally religious factor must, therefore, be neg-
+ative. But not quite all, for a single question
+on work values repeated in 1966 did, as
+already reported, replicate Lenski’s results;
+moreover, stronger findings were produced
+in favor of his hypothesis than were apparent
+in his own 1958 data. Also, the question
+seems theoretically closer to the conceptual
+meaning of the “Protestant Ethic” than most
+of the other variables introduced by Lenski.
+It is possible, of course, that the finding is
+due to chance, given the large number of
+results that have been reviewed here. But it
+is important to avoid Type II as well as
+Type I errors, and for that reason the “work
+values” result bears closer examination.
+The 1966 difference between Protestants
+and Catholics in their basis for evaluating
+jobs has proven surprisingly tenacious. In
+particular, under a variety of controls Protes-
+tants, significantly more often than Catholics,
+rank as most important their attitude that
+“the work is important and gives a feeling
+of accomplishment.” Examination of this re-
+sponse using combinations of socioeconomic
+background factors has specified the religious
+difference, but in the process generally
+sharpens rather than eliminates it. Several
+such controls are shown in Table 10.
+
+The difference on this question is rather
+clearly located in upper middle-class and, to
+a lesser extent, upper blue-collar occupa-
+tions. These occupational differences in turn
+are not much changed when either respon-
+dent’s education or father’s education is held
+constant. An interesting interpretation of the
+results might note that the three occupational
+areas in question—professional, managerial,
+and craftsmen—are probably the most non-
+routinized parts of the occupational struc-
+ture. They are types of occupations that can
+be entered both for intrinsic reasons relating
+to the content of the work and for extrinsic
+reasons having to do with advancement in
+income and status. Religious sources of
+values could thus operate to fill these posi-
+The 1966 Detroit Area Study replication
+of parts of the 1958 Detroit Area Study has
+called into question conclusions derived from
+the earlier survey that bear on “religion and
+economics.”’ Four explanations are available.
+
+(1) There may have been a genuine change
+in Protestant or Catholic attitudes and values
+during the intervening eight years. This ex-
+planation seems the least plausible one to
+me, because the variables involved do not
+appear subject to rapid change on the basis
+of transient events. Lenski’s own conclusions
+point toward gradual widening of Protestant-
+Catholic differences.
+
+(2) Variations between the two surveys
+may result from the more limited population
+defined by the 1966 study. Women, men over
+64, and the foreign-born were deliberately
+excluded, and the response rate was also
+somewhat lower in 1966. There is little in
+
+17 The application of significance tests to complex
+survey analysis has been attacked and defended
+regularly at least since Hanon Selvin’s (1957) “A
+Critique of Tests of Significance in Survey Re-
+search.” However, none of the more controversial
+issues are involved in the present point, which con-
+cerns only the loss of clear meaning to conventional
+significance levels as an analyst scans many tables
+and selects for interpretation the few that are
+“significant.”
+Lenski’s analysis to suggest that these factors
+should affect major conclusions, but our re-
+analysis of Lenski’s 1958 data does seem to
+point to such special but not especially
+meaningful subpopulations as the source of
+some of his findings.
+
+(3) Lenski’s results may point toward re-
+ligious differences of a much more specific
+and limited character than he expected and
+concluded. This is the import of the one suc-
+cessful replication in 1966, which concerns
+a single but strategic question on work values
+and locates the religious difference mainly
+among men in professional and managerial
+occupations. Those interested in the Protes-
+tant Ethic hypothesis would seem well ad-
+vised to follow up this result, staying close
+to whatever the item represents. It must also
+be kept in mind that the difference discovered
+here is by no means a large one.
+
+(4) There is the real possibility that all
+the differences reported by Lenski, as well
+as the one most successfully pursued in the
+1966 data, are due to “chance.” The reader
+who has followed the detailed comparison
+of the 1958 and 1966 results may have noted
+by now that the original findings presented
+by Lenski were by no means uniform and
+large in their implications for a “religious
+factor” in the economic realm. For a num-
+ber of variables introduced by Lenski, there
+were no reliable differences even in 1958,
+and in other cases the differences barely met
+the rather lenient demand of a one-tailed
+significance level of .10. In still other cases,
+there were no 1958 differences between Prot-
+estants and Catholics as a whole, but dif-
+ferences appeared in certain subgroups when
+controls were applied. Such subgroups were
+often quite small, and selective attention to
+them capitalized on sampling error. A more
+general problem that runs through The Re-
+ligious Factor is a tendency to assume a basic
+Protestant-Catholic difference as fact, and
+therefore to interpret negative findings as
+adding specific nuances in meaning to the
+nature of this fact, rather than as calling it
+into general question. For example, when
+“communal involvement” turns out to be un-
+related to economic values, Lenski’s conclu-
+sion is that “the churches, rather than the
+subcommunities, are the primary source of
+the [religious] differences in economic be-
+havior” (1963:124-125). But another, and
+at least equally reasonable conclusion, would
+have been that an important linking hypo-
+thesis had been tested and disconfirmed, rais-
+ing the problem of whether the earlier find-
+ings meant what they seemed to mean about
+religious differences.
+
+While the specific implications of this
+paper have to do with the Protestant Ethic
+thesis as developed by Lenski, there is surely
+a larger implication concerning the place of
+replication in empirical sociology. The Re-
+tigious Factor was an original and stimulat-
+ing work, and while the analysis carried out
+within it seems somewhat problematic in
+1969, the primary issue lies not with the
+book but with the need to strengthen tradi-
+tions that make replication an assumed part
+of sociological research. This is particularly
+true when the original finding is a nonobvi-
+ous but intuitively interesting one. As with
+all science, the development of sociology can
+be greatly stimulated by unexpected results,
+but the more remarkable an empirical find-
+ing, the more it requires careful scrutiny and
+systematic replication.
+Fisher, Ronald A.
+
+1951 The Design of Experiments. New York:
+Hafner.
+
+Glenn, Norval and Ruth Hyland
+
+1967 “Religious preference and wordly success:
+Some evidence from national surveys.”
+American Sociological Review 32 (Feb-
+ruary):73-85.
+
+Glock, Charles Y. and Rodney Stark
+
+1965 Religion and Society in Tension. Chicago:
+
+Rand McNally.
+Glockel, Glen L.
+
+1969 “Income and religious affiliation.” Amer-
+ican Journal of Sociology 74 (May) :632-
+649.
+
+Greely, Andrew M.
+
+1964 “The Protestant ethic: Time for a mora-
+torium.” Sociological Analysis 24 (Spring):
+20-33.
+
+Lenski, Gerhard
+
+1963 The Religious Factor. Garden City, N.Y.:
+
+Anchor Books.
+Lykken, David T.
+
+1968 “Statistical significance in psychological re-
+search.” Psychological Bulletin 70 (Sep-
+tember) :151-159.
+
+Rosen, Bernard C.
+
+1962 “Review of The Religious Factor.” Ameri-
+can Sociological Review 27 (February):
+111-113.
+
+Schuman, Howard
+
+1967 “Sampling memorandum on the 1965-66
+Detroit area study.” Multilith. Ann Arbor:
+Detroit Area Study.
+
+Selvin, Hanan
+
+1957 “A critique of tests of significance in
+survey research.” American Sociological
+Review 22 (October) :1957.
+
+Warren, Bruce
+
+1970 The Relationship Between Religious Prefer-
+ence and Socioeconomic Achievement of
+American Men. Ph.D. dissertation, Univer-
+sity of Michigan.
+
+Weber, Max
+
+1930 The Protestant Ethic and the Spirit of
+Capitalism. New York: Charles Scribner’s
+Sons.

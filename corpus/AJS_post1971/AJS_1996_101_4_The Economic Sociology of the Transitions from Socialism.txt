@@ -1,0 +1,376 @@
+The Economic Sociology of the Transitions from Socialism
+
+Author(s): Neil Fligstein
+
+Source: American Journal of Sociology, Vol. 101, No. 4 (Jan., 1996), pp. 1074-1081
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2782240
+
+Accessed: 08-06-2016 04:19 UTC
+Victor Nee and David Stark have been studying socialist societies for at
+least 10 years. Both have been fortuitously placed to consider the great
+and dramatic changes that have occurred in those societies. They have
+been producing interesting work that tries to develop theory and, more-
+over, have bravely collected data. Yu Xie has come later to this field, but
+his work is thoughtful and careful. These papers are solid and important
+contributions, not just to the study of societies transitioning from social-
+ism, but to political and economic sociology.
+
+I have three purposes in this comment. First, I want to discuss how I
+think the papers are incomplete. The papers present clues about what is
+happening in these societies, but their results raise as many puzzles as
+they answer. Second, I want to consider how these papers generally do
+and do not contribute to the dialogue that is ongoing about comparative
+capitalisms in economic sociology. I am concerned as to how little the
+concerns of the two literatures coincide. Finally, I want to suggest how
+these papers show that political and economic sociology and the nas-
+cent theory of institutions they imply ought to be more closely linked
+with these studies of transitions to capitalism because there are benefits
+for all sides.
+
+Victor Nee’s paper is the most explicit in theoretical terms. His basic
+argument is that in state socialist societies, rewards were tied to one’s
+position in the party. As these societies marketize, rewards will increas-
+ingly come from entrepreneurship and investments in human capital (i.e.,
+skills that the labor market rewards). In earlier work, Nee (1989) argued
+that this process was moving rapidly and the privileged position of party
+membership would erode quickly. He now argues that the privileged
+position of the politicians will slowly recede. Rewards may still accrue
+to a privileged position, but, over time, this will decrease in importance
+as market-oriented factors come into play.
+
+1 This comment was prepared while I was a fellow at the Center for Advanced Study
+in the Behavioral Sciences supported by a National Science Foundation grant (SBR-
+9022192). I would like to thank Doug Guthrie for comments. Address correspondence
+to Neil Fligstein, Department of Sociology, University of California, Berkeley, Cali-
+fornia 94720.
+Nee’s data have several problems. The sample was generated in a
+complex way that suggests that it is nonrandom (at least in its largest
+area units). It is also the case that Nee studies household income and
+then uses individual-level characteristics as predictors. This may account
+for why some of the human capital variables have weak effects. Another
+big problem is that income from an earlier time point is assessed retro-
+spectively. Caution should be used in drawing conclusions to larger popu-
+lations. Nevertheless, there exist few alternative data on these issues.
+
+I have no quarrel with Nee’s general interpretation of the results.
+There is evidence that people connected with the government continue
+to enjoy rewards. There is also evidence that families with entrepreneurs
+earn more income. There is little evidence in Nee’s data to support the
+assertion that the party members themselves become entrepreneurs. It
+appears that in China, there are large rewards attached to remaining a
+government employee, at least so far. In terms of changes in family
+income from 1983 to 1989, being a government official has some relation
+to income changes. Having family members who were entrepreneurs
+appears to have affected income changes. This would seem to support
+Nee’s assertion that being a government official continued to be impor-
+tant to increase economic rewards, but at a declining rate. The most
+troubling results for Nee’s perspective are the human capital variables.
+Their effects were very small, and in some cases the returns to education
+were negative. This does not look like a society that is rapidly marketiz-
+ing and producing Western-style labor markets.
+
+There is an up and down side to Nee’s approach to studying this
+problem. The upside is that his simple hypothesis is testable, and we can
+tell which parts are supported and unsupported. This is to be applauded
+in a discipline where it is often hard to tell what the hypothesis is. But,
+the down side is that there are several equally plausible stories that offer
+us clues about what may be occurring in China.
+
+No matter what Nee asserts, the heavy hand of the state is everywhere
+in his numbers. For instance, his division of the data into regions shows
+clearly that the Chinese government has divided up the country zones
+and created what Nee calls redistributive, corporatist, and laissez-faire
+zones. There is a kind of social experimentation that must be fascinating
+to understand (it is briefly taken up in Yu Xie and Emily Hannum’s
+paper). It appears that this is being done with the intention of raising
+people’s incomes by offering them a variety of incentives and new oppor-
+tunities to earn income, but not of producing an unfettered Western-style
+market. State actors are allowing more than one set of institutions to
+accomplish this.
+
+While the economic advantages of people who work for the govern-
+ment are being equaled by those who work for themselves, there is no
+evidence that the advantage of working for the government is disap-
+pearing. One indicator that working for the state is still lucrative is that
+these people have not left the government to enter the private sector.
+More important, people who are entrepreneurs are dependent on the
+state for government contracts, the ability to buy and sell land, to develop
+land, to control local product markets, and to gain access to capital.
+
+My basic problem with Nee’s argument is that his model assumes that
+there is no social structure in the market part of the economy and that
+state actors have lost their control over that part of the economy. Nee
+has not proven anything about the relative expansion or decline of the
+political power of the cadres and their control over the economy or their
+relationship to those who are being given the right to develop the econ-
+omy. From what I know, state owned and so-called entrepreneurial firms
+are living together in a symbiotic relationship. There is no obvious oppo-
+sition between them. In fact, my guess is that China’s new entrepreneurs
+know quite a bit about where their privileges come from and they do not
+find the political apparatuses or state-sector firms to be a problem, but
+an opportunity.
+
+One place where this shows up is that there are few economic advan-
+tages for those who, while not entrepreneurs, are selling labor power into
+the market. The low returns for human capital question whether China
+is building Western-style capitalism. It is not obvious what produces
+these results, but let me make some suggestions. First, wage rates may
+still be more or less under central control. This implies that classes of
+workers with different human capital endowments are not free to ex-
+change their labor power to the highest bidder. Second, other labor mar-
+ket actors (local party members, unions) are connected to the state and
+they are able to control inequality by making arguments about equity.
+Third, labor market rules and the difficulty of hiring and firing workers
+might restrict the existence of a competitive labor market. My general
+point is that understanding labor markets requires understanding their
+social structure and Nee’s results point to this as an obvious field of
+research.
+
+The paper by Yu Xie and Emily Hannum challenges the core of Victor
+Nee’s argument. Using a different data set that focuses only on people
+living in the largest cities, Xie and Hannum try to evaluate whether or
+not development has increased inequality in cities. They are also inter-
+ested in whether or not human capital returns have increased as economic
+development proceeds, and if party membership matters for income in-
+equality.
+
+There are several ways in which comparing the two China papers is
+difficult. Nee’s sample does not include people from the largest cities.
+Xie and Hannum use individual income (a better measure) as opposed
+to family income. Their measure of political connections is whether a
+person is a party member. This seems a lot less salient than Nee’s mea-
+sure of political connections—that is, whether a person holds a govern-
+ment job. Finally, Nee’s data set measures whether or not a person
+was an entrepreneur. Xie and Hannum’s analysis does not break out
+entrepreneurs as a separate group.
+
+In spite of these differences, there are two striking similarities in the
+results. First, education exerts weak effects on earnings in both analyses.
+Second, having a government connection increases income. Xie and Han-
+num find little evidence that inequality has increased in their city data,
+but differences in the sampling of the data sets may be responsible. They
+do not consider inequality due to differences in entrepreneurship. This
+is where Nee’s data are stronger.
+
+Xie and Hannum argue that Victor Nee’s perspective has little sup-
+port. I disagree. Nee shows that different patterns of economic devel-
+opment increase inequality across China. He also shows that having
+a position with the state and being an entrepreneur influences income
+inequality. Where I agree with Xie and Hannum is that Nee has shifted
+his position from his earlier work (Nee 1988) where he argued that the
+decline of state actors and the rise of markets would be more rapid than
+it appears to be. Xie and Hannum’s strongest argument is that Nee
+ignores the major negative result that education has not become more
+important in China. They end by suggesting that the reason that China
+does not look more Westernized is because it is not following a Western
+track. Xie and Hannum call for the need for a more institutional and
+political approach to understanding China’s transition, consistent with
+my comments on the limits of Nee’s analysis.
+
+Stark’s basic argument is that the reorganization of state property in
+Hungary has been controlled by people who have acted on their own to
+create new property forms. These actors (and they are never identified
+by name or rank) have taken the opportunities in their environments and
+acted to create new property institutions. Stark’s assertion is that the
+attempt to reduce their uncertainty is what drives them. They do so by
+diversifying, redefining, and recombining resources.
+
+I am extremely sympathetic to Stark’s argument. His “actors” do not
+have overarching plans, but instead are trying to use whatever resources
+they have to keep their firms going. The making of a market economy
+in Hungary, from this perspective, is the result of thousands of people
+in the formerly state-controlled firms working out their problems of or-
+ganizing suppliers and customers in order to produce products.
+
+Using some extremely imaginative data collection, Stark presents a
+snapshot of the ownership patterns of the largest Hungarian firms. Priva-
+tization has basically meant that firms formerly run from ministries have
+been reconstituted as holding companies. They have organized their parts
+as companies as well, creating wholly or partially owned companies that
+run autonomously. This has created groups of firms that have at their
+core some large firms; most remain at least partially owned by the state.
+Stark has done a lot of what I think would be useful for Nee to do next:
+try to take apart what is actually going on in the real economy.
+
+My main problem with Stark’s argument is the lack of connection
+between the politics of privatization, the reorganization of property
+rights, and the emergence of an “efficient” capitalist economy in Hun-
+gary. I will discuss each connection separately. The evidence is that firms
+have reorganized themselves along corporate lines and lines of ownership
+have generally followed previous relationships between organizations
+where the state still remains the main owner of firms.
+
+A simple explanation for what Stark has observed is found in the politics
+of privatization. State actors released formal ministerial control over state
+firms by incorporating them, and then encouraging them to establish own-
+ership links to their important suppliers and customers. State actors also
+(either intentionally or unintentionally) produced a crisis in the system by
+trying to enforce hard budget constraints on firms with the predictable con-
+sequence of throwing the entire system into financial crisis. It appears that
+Stark’s results were not produced by thousands of actors acting to produce
+anew world on their own, but instead by actors armed with a pretty clear
+set of rules produced by politicians. One could argue that all of this was
+precipitated by Western advisors and international organizations who
+forced this kind of policy on the Hungarian government. The turbulence
+caused by both the shift in ownership patterns and the imposition of hard
+budget constraints can be tracked back to this cause.
+
+If my account is right, then much of the story loses its force. Also, the
+value of the term “recombinant” property for understanding what is
+likely to happen in Hungary is not obvious. As long as the government
+continues to own parts of large organizations and the banks, they will
+feel compelled to find ways to bail them out in times of crisis. Just because
+shareholdings have dispersed does not mean that ultimately the largest
+shareholders do not have to deal with the fortunes of the firm. This is
+especially true if that shareholder happens to be the state. And even if
+the state is not the main owner of firms, there will be political pressure to
+help out large, failing firms because of their contribution to employment.
+
+The last part of Stark’s paper concentrates on trying to find out why the
+proliferation of ownership patterns might be effective for the firms. This
+part of the paper is very speculative and offers little evidence. It is not clear
+why property rights would matter to these reorganizations, which are being
+driven, not by the mixed ownership patterns, but by firms trying to find
+markets in which they can be competitive either locally or internationally.
+The problem for these firms is competition, not property rights.
+
+Stark could have considered what “cultural frames” or conceptions of
+control (Fligstein 1990) were going to guide a manager’s actions to meet
+competition. He has provided a lot of evidence that there are two major
+ways in which the economy is being reorganized to deal with competition:
+the integration of production around a core technology, and the production
+of groups of firms with diversified products. The former tries to organize
+firms, their suppliers, and main customers; and latter tries to spread risk.
+These strike me as good candidates for more sustained cultural analysis.
+Both are strategies to deal with competition. Integrating production con-
+trols competitors and secures markets. Diversification is a risk-spreading
+device to insure that the firm survives even though some of its pieces will
+not prosper (Fligstein 1996). Are these two approaches to the problem of
+solving competition in different industries or different size classes of firms?
+Which side, if any, do state actors support? This is where the real social
+structure between these firms is being played out.
+
+I would like to expand on what I think is the spirit of Xie and Han-
+num’s comments in their conclusion. They argue that any view of these
+transitions has to be grounded in the current politics and institutions of
+these societies. Nee is trying to get away from having to see these factors
+as consequential. I think Nee’s attempt is misguided because it is an
+empirical question as to whether or not these societies are producing
+Western-style markets. Explicitly understanding state actors as well as
+their intentions and policies and then studying the consequences in the
+social structuring of markets makes much more analytic sense. The at-
+tempt to downplay these types of social process makes Nee’s analysis
+incomplete. Nee’s strategy of working with a theory garners us empirical
+leverage, but there is no reason why China’s income distribution has to
+end up like that in the United States. Xie and Hannum are right that
+these are political and institutional choices made within societies as much
+as market processes that undergird economic growth.
+
+Stark has done exactly what I proposed: he has looked at how political
+choices have effects on the organization of markets (in this case, property
+rights). I am, however, not convinced that he has shown a distinct causal
+role of the reorganization of property rights in the reorganization of Hun-
+gary. This is because he has not theorized these institutions and their
+links to one another. I agree with Stark’s view that each of these societies
+is likely to produce a different kind of capitalism. There are good reasons
+to believe that states, existing law, and the actions of political and eco-
+nomic elites will promote a unique blend of property rights, governance
+structures, and rules of exchange in these societies (Fligstein 1995, 1996).
+But I think there is much more analytic leverage that he can get on what
+might happen from his careful understanding of the situation.
+
+This takes me to the literatures that are ignored in these papers. Nee
+positions his argument in the “new institutionalism” in economics (he
+cites North in particular). But little of North’s work is reflected here.
+There is no concern with the efficient design of institutions, their political
+and cultural production, and how existing institutions shape societal
+change, path dependence, and their unintended effects (North 1990). I
+see even less of rational choice institutionalism, which focuses on how
+political actors undertake to structure economic institutions (Shepsle
+1990). This is a huge mistake because it is clear that China’s leaders have
+been experimenting with their institutions. Have the designed institutions
+produced the intended results, or is Nee right in implying that China’s
+leaders are losing control? How would we look for data either way?
+
+The Stark paper focuses on connecting itself to the recent literature in
+economic sociology that focuses on comparative capitalisms, particularly
+the work on Asian societies. But Stark only draws out one line of that
+thought: the fact that Asian firms seem to have unique social structures
+that he characterizes as networks. But he ignores the great variation in
+those structures and how they work. He also ignores that states have
+played interesting and complex roles in the generation of these social
+structures (see Hamilton and Biggart 1988; Hadley 1970; Johnson 1980).
+Networks operate in many ways and these distinctions need to be made
+explicit in order for them to be analytically useful (Granovetter 1994;
+Powell and Smith-Doerr 1994).
+
+Stark does not reference the “historical” institutionalism in political
+science, which would seem a natural set of allies for his project. This
+group of scholars argues that preexisting institutions influence the shape
+of what will come next. They see that actors, ideas, and politics are
+important to the shape of new institutions (e.g., Steinmo et al. 1994;
+March and Olsen 1989). Finally, there is little attempt to connect back
+to organizational theory, which actually provides a great deal of support
+for Stark’s view that organizational actors reduce uncertainty and try to
+make their organizations survive (Scott 1992; Fligstein 1996). His organi-
+zational actors try everything they can to get their organizations to sur-
+vive to the next period.
+
+There are two great institution-building projects going on in these
+societies: state building and market building (Dobbin 1994; Fligstein
+1996). These projects cannot be divorced from one another because much
+of state building is about market building, both in terms of setting rules
+for markets and the state’s role in markets and also deciding how societies
+will respond to markets in fields like social policy. This period in the
+former socialist societies is like the 1880-1920 era for the advanced
+REFERENCES
+
+Alt, James, and Kenneth Shepsle, eds. 1990. Perspectives on Positive Political Econ-
+omy. New York: Cambridge University Press.
+
+Dobbin, Frank. 1994. Forging Industrial Policy. Princeton, N.J.: Princeton Univer-
+sity Press.
+
+Fligstein, Neil. 1990. Transformation of Corporate Control. Cambridge, Mass.: Har-
+vard University Press.
+
+. 1995. “Theoretical and Comparative Perspectives on Corporate Organiza-
+
+tion.” Annual Review of Sociology 21:21—43.
+
+. 1996. “Markets as Politics.” American Sociological Review, in press.
+
+Granovetter, Mark. 1994. “Business Groups.” Pp. 453-75 in The Handbook of Eco-
+nomic Sociology, edited by Neil Smelser and Richard Swedberg. New York: Russell
+Sage.
+
+Hadley, Eleanor M. 1970. Antitrust in Japan. Princeton, N.J.: Princeton University
+Press.
+
+Hamilton, Gary, and Nicole Woolsey Biggart. 1988. “Market Culture and Authority:
+A Comparative Analysis of Management and Organization in the Far East.” Ameri-
+can Journal of Sociology 94:S52-S94.
+
+March, James G., and Johan P. Olsen. 1989. Rediscovering Institutions: The Organi-
+zational Basis of Politics. New York: Free Press.
+
+Nee, Victor. 1989. “A Theory of Market Transition: From Redistribution to Markets
+in State Socialism.” American Sociological Review 54:663—81.
+
+North, Douglass. 1990. Institutions, Institutional Change, and Economic Perfor-
+mance. Cambridge: Cambridge University Press.
+
+Powell, Walter, and Laurel Smith-Doerr. 1994. “Networks and Economic Life.” Pp.
+368-402 in The Handbook of Economic Sociology, edited by Neil Smelser and
+Richard Swedberg. New York: Russell Sage.
+
+Scott, W. Richard. 1992. Organizations: Rational, Natural, and Open Systems. Engle-
+wood Cliffs, N.J.: Prentice Hall.
+
+Steinmo, Sven, Kathleen Ann Thelen, and Frank Longstreth. 1992. Structuring Poli-
+tics: Historical Institutionalism in Comparative Analysis. Cambridge: Cambridge
+University Press.
+
+Williamson, Oliver. 1975. Markets and Hierarchies.New York: Free Press.

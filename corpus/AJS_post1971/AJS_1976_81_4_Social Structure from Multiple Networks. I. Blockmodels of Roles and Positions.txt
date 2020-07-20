@@ -1,0 +1,1673 @@
+Social Structure from Multiple Networks. I. Blockmodels of Roles and Positions
+Author(s): Harrison C. White, Scott A. Boorman and Ronald L. Breiger
+
+Source: American Journal of Sociology, Vol. 81, No. 4 (Jan., 1976), pp. 730-780
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/2777596
+
+Accessed: 08-06-2016 03:23 UTC
+1 Support from the National Science Foundation under grant GS-2689 is gratefully
+acknowledged. In addition to Phipps Arabie, Gregory H. Heil, Paul R. Levitt, and
+Francois Lorrain (who have coauthored related papers with us), Paul Bernard and
+Joseph E. Schwartz had substantial, specific impact on the work. The generosity of
+Belver C. Griffith, Nicholas C. Mullins, and S. Frank Sampson in supplying and
+interpreting data is deeply appreciated, as were A. P. M. Coxon’s detailed comments
+on earlier drafts. The editorial advice of Carolyn J. Mullins led to notable improve-
+ments in the exposition. Thanks are due the Mathematical Social Science Board for
+supporting two small conferences on models of role networks, at which early versions
+of this work were discussed. Access to computer facilities was kindly given by the
+Cambridge Project and its director, Dr. Douwe Yntema, The senior author wrote a
+draft of this paper while holding a Guggenheim Fellowship.
+
+2Network metaphors date back at least to Simmel (1950, 1955; first published in
+1908) and the so-called formal school of German sociologists. Simmel emphasized the
+ubiquity of social networks based on “the actual similarity of [individuals’] talents,
+inclinations, activities, and so on” (1955, p. 128) and which cross-cut the categorical
+attributes of persons. Von Wiese, strongly influenced by Simmel, stressed the multi-
+plicity of types of social ties and the analytic desirability of reducing network
+structures. If the “constantly flowing stream of interhuman activity” were halted in
+its course for one moment, von Wiese (1941, pp. 29-30) suggested, we would observe
+precincts of economics (Boorman 1975; Marschak and Radner 1972;
+Schelling 1971; see also Leijonhufvud 1968). Sociologists’ and anthro-
+pologists’ attempts to develop the metaphor into operational concepts have
+taken two directions. One has emphasized the paths or “threads” in a
+single network: the manner in which long chains of contact wind their
+way through large social systems (Milgram 1967; Pool and Kochen 1958;
+Rapoport 1963; Coleman 1964; Hunter and Shotland 1974; White
+1970a, 1970b; Lee 1969; Granovetter 1973, 1974). The second has em-
+phasized the “knittedness” of interconnections within a network and the
+overlaps between multiple (many-stranded) types of networks for a
+given population (typically small; see Theoretical Background section,
+below). Our operational concepts follow the second tradition but are
+consistent with the first.
+
+After demonstrating the utility of these concepts as applied to five case
+studies, we redefine the classic concepts of role and position so that they
+apply to concrete, observable interactions, ordered by a new framework.
+We take as given the incidence of each of several distinct types of tie
+across all pairs in a population (see for example figs. 1 and 3 below).
+Ties of each given type are treated as a separate entity (a matrix). Each
+is a separate network to be contrasted with other such networks, rather
+than merged with them to form a complex bond between each pair of
+actors. This analytic segregation of network types is basic to our frame-
+work. From it, aggregation emerges as a concept with dual aspects:
+actors are partitioned into structurally equivalent sets within each net-
+work; simultaneously, though, networks are mapped into a set of images
+that can be specifically interpreted for specific populations. The resulting
+“blockmodel” is a view of social structure obtained directly from aggrega-
+tion of the relational data without imposing any a priori categories or
+attributes for actors. Our fundamental argument is that the enormous
+variety of concrete social structures is reflected in the variety of possible
+blockmodels; furthermore, blockmodels provide tools for ordering this
+diversity.
+
+The essential phenomenon portrayed in network imagery, we argue, is
+the absence of connections between named individuals. The logical sym-
+metry between ties that are “present” and ties that are “absent” (i.e.,
+all others) has encouraged proponents of graph theory to overlook the
+
+“an apparently impenetrable network of lines between men. There is not only a line
+connecting A with B, and B with C, etc., but C is directly connected with A, and,
+moreover, A, B, and C are enclosed within a circle. Not only is there ove line con-
+necting A with B, and not only one circle in which they are both enclosed, but there
+are many connecting lines. . . . A static analysis of the sphere of the interhuman
+will . . . consist in the dismemberment and reconstruction of this system of relations.
+Outside this network, above and below it, there can be nothing that is social, unless
+we leave the plane of empirical observation.”
+American Journal of Sociology
+
+social asymmetry that exists between social action and its complement
+(Harary, Norman, and Cartwright 1965; cf. Simmel 1950, pp. 311-16)?
+
+This paper and its forthcoming companion, Part II, present no models of
+processes over time; there are neither predictions of other behavior nor
+explications of a stochastic process of tie formation and dissolution that
+would sustain an observed blockmodel. In this paper the arguments for
+a blockmodel as a picture of social structure are specific to the context of,
+and the data available for, each case study. Yet blockmodels provide a
+natural framework for discussing various types of structural change:
+numerous changes in individual ties can still be consistent with an un-
+changed structural pattern; changes in the “circulation” of actors among
+the structurally equivalent sets can still reflect the same structural pattern
+for a given network, and changes in network patterns can occur and yet
+leave sets of actors unchanged.
+
+The next section of this paper examines the broad theoretical under-
+pinnings of our research. The second major section presents definitions and
+the methods of analysis. The third section exhibits analyses based on five
+case studies. The fourth section provides an interpretation of “role” and
+“position.”
+to organic solidarity (Durkheim), from traditional to means-rational orien-
+tation (Weber), or from ascribed to achieved status (Linton). In our
+view, the major problem with postclassical social theory has been that
+its concepts remain wedded to categorical imagery. All sociologists’ dis-
+course rests on primitive terms—‘“status,” “role,” “group,” “social control,”
+“interaction,” and “society” do not begin to exhaust the list—which require
+an aggregation principle in that their referents are aggregates of persons,
+collectivities, interrelated “positions,” or “generalized actors.” However,
+sociologists have been largely content to aggregate in only two ways:
+either by positing categorical aggregates (e.g., “functional subsystems,”
+“classes’””) whose relation to concrete social structure has been tenuous; or
+by cross-tabulating individuals according to their attributes (e.g., lower-
+middle-class white Protestants who live in inner city areas and vote
+Democrat). Both methods have “often led to the neglect of social struc-
+ture and of the relations among individuals” (Coleman 1958).5 In con-
+trast to the standard wisdom, there is a growing list of empirical findings
+regarding the effect (and frequency) of “accidents” and “luck” in the
+actual functioning of societies: the transmission of useful information
+among scientists (Menzel 1962), the attainment of general economic
+success (Jencks et al. 1972), and the location of desirable jobs (Grano-
+vetter 1974; see also Boorman 1975). These findings force us to ask
+whether the stuff of social action is, in fact, waiting to be discovered in
+the network of interstices that exist outside the normative constructs and
+the attribute breakdowns of our everyday categories.
+fication of concrete entities by their attributes. Second, to describe social
+structure, we must aggregate these regularities in a fashion consistent with
+their inherent nature as networks.
+
+The cultural and social-psychological meanings of actual ties are largely
+bypassed in the development. We focus instead on interpreting the pat-
+terns among types of tie found in blockmodels. Our sole assumption here
+is that all ties of a given observed type share a common signification
+(whatever their content may be). From these patterns, we develop
+below (and in Part II) operational concepts of role and position.”
+
+In our view “position,” in the concrete sense of office in a formal
+organization or membership on a committee, is a concept quite independent
+from “role.” The blockmodels of this paper can be said to identify posi-
+tions, but only in an elementary sense. In Part II we extend the analysis
+to encompass multiple egos and, thence, role structures; we hope also
+that this extension can describe, in the language of Mitchell (1969, pp. 45—
+49), the existence and interrelations of “institutions.”
+
+At best, blockmodels can make only a partial contribution to the analy-
+sis of formal organizations as structures of offices. The network metaphor
+is unavoidable in developing models of formal organization, even of the
+simplest kind (Williamson 1970, chap. 2). However, fundamentally new
+developments of the metaphor are needed, such as that proposed by
+Friedell (1967) and that implied by the argument of Cohen and March
+(1974).
+
+Analyzing systems of formal organizations will require still further
+developments of network imagery, and these cannot be divorced from
+models of elites and the ways in which they may control large social
+systems through the structure of network access. Recent work on director
+interlocks (e.g., Levine 1972) and on advisory systems (Mullins 1972),
+as well as formally analogous models of interlocks in dual individual-posi-
+tion systems (Breiger 19745; Bonacich 1972), may point in the right
+direction.
+
+One practical reason for the caution of Mitchell and Barnes in using
+network concepts was the lack of satisfactory methods for aggregating
+networks among individuals. A related reason was the paucity of research
+on networks among nodes that represented collectivities and organizations.
+There are few systematic analyses of networks among such nodes (but see
+Fortes 1945, Mayer 1960, and Savage and Deutsch 1960); however,
+engineering and operations research have huge descriptive and normative
+
+7 Our stress on relationships among patterns suggested to one of our referees an analogy
+to Lévi-Strauss’s work on “meaning.” He thereby credited us with too much and too
+little. We use that term without the rich ethnographic insight of Lévi-Strauss; however,
+we do discuss the falsifiability of an ideal-type pattern and (White 19745) its null
+expectation. In our view, the delineation of concrete social structure should be
+analytically divorced from symbolic and cultural analysis.
+literatures on flows within networks (see Ford and Fulkerson 1962) that
+may prove suggestive (see White 1973) .8
+
+Both Mitchell and Barnes emphasized “anchored” networks (networks
+seen from the perspective of a particular member), because they wanted to
+show how network concepts illuminate the manipulative activities of con-
+crete persons in real situations. Their conceptual approach differs from
+our observer viewpoint in this paper and the multiple-ego viewpoint of
+Part II. In particular, they merged different types of tie and inferred
+a complex, overall quality from the multiplex bond between the anchor
+person and each of his contacts.” In contrast, we argue for the value
+(from the observer’s viewpoint) of treating the network based on each
+analytically separable type of tie as a separate entity. Furthermore,
+Mitchell and Barnes paid more attention to the different facets of meaning
+measured for each type of tie; they also stressed the importance of rich
+observation by a participant observer as, for example, in Kapferer’s work
+(1972).1° In contrast, we argue, following Durkheim, that a theory should
+be developed only in terms of the overall structure that is the context for
+particular transactions. We cite as evidence Boorman’s (1975) model of
+job information exchange, noting that his results regarding stability and
+optimality were obtained from postulates of a very simple, overall network
+structure.
+
+Mitchell and Barnes treated sociometry, especially balance theory,
+with some disdain.’ Although many powerful analyses of data have used
+a variety of sociometric concepts (see, e.g., the excellent survey articles
+by Glanzer and Glaser [1959, 1961]), many of the data are from experi-
+mental “groups” and other populations aggregated within a sociological
+vacuum. Moreover, with the crucial exception of the analyses by Davis,
+Holland, and Leinhardt (see Part II), balance theorists have had little
+Contrasts with Sociometry
+
+Sociometry’s most common goal for a single type of tie was the identifica-
+tion of cliques (or similar configurations) of tightly clustered individuals;
+a secondary goal was chains of connectivity. The clique concept embodies
+the root idea of aggregation by relations rather than by attributes that is
+indispensable to blockmodels. Sociometry’s other major goal (most not-
+able in balance theory) has been to interpret the interpenetration, or over-
+lap, among different types of tie.
+
+We now draw five contrasts between sociometry and blockmodels. The
+first two are prompted by the restrictive nature of the clique concept.
+First, persons not in cliques are usually disregarded (i.e., treated as out-
+side the effective sociometric system). In contrast, blockmodeling requires
+searching for a complete partition, such that sets of persons can be struc-
+turally important regardless of whether the sets resemble cliques. Second,
+even when (as in MacRae 1960) cliques are defined as we define struc-
+turally equivalent sets (i-e., by similarity in ties to third parties rather than
+by choices of one another), the clique imagery is retained and is often
+allowed to limit the interpretation. In blockmodels, on the other hand,
+partitioning of individuals is only one side of a dual problem; the other
+is to interpret the pattern formed on the one or more networks by the
+partition.1*
+
+The third contrast is in use of spatial imagery. Most sociometry deals
+with only one type of tie, sometimes an overall type constructed from
+separate kinds of data. Several investigators (e.g., Laumann and Pappi
+1973) eschew the crudity of clique description, preferring instead to view
+the population as embedded in some abstract space (usually Euclidean).
+Even ordinal measures of similarity between pairs can be converted into
+quantitative measures of location and distance through some variant of
+multidimensional scaling (Shepard 1962; Kruskal 1964a, 19646; McFar-
+land and Brown 1973; Arabie and Boorman 1973; Shepard 1974). Cliques,
+as well as many other sociometric concepts (e.g., connectivity), can then
+be expressed in terms of locations and distances within the space. In con-
+trast, blockmodels assume no such spatial embedding. Presumably each
+network, each distinct quality of tie, requires its own space, whereas
+blockmodels are able to sidestep this matter. Perhaps a more basic ques-
+tion, though, is whether avy spatial representation is suitable for a net-
+work, since the essential feature of social networks may well be the sharp
+breaks in patterns—the “holes” in the networks.'*
+
+The fourth contrast concerns boundaries. Sociometry usually takes as
+given some split between the population studied and the rest of the world
+(ie., it assumes a clearcut enclave). However, Barnes emphasized the
+artificiality of this presupposition and urged instead a distinction be-
+tween the finite “reach” of network effects and the notion of a sharp
+boundary around a particular set of people (1972, p. 16). In two of the
+case studies below (the biomedical and the Firth-Sterling), we argue that
+blockmodels apply to networks among people who are embedded in a
+larger world and who thus comprise an “open” population.
+
+The fifth contrast involves a basic methodological issue. Moreno’s
+original emphasis on concrete diagrams of ties among individuals was
+sound. As sociometric analysis “advanced,” though, it became more and
+more wedded to approximations by indices (of which spatial embeddings
+and triad inventories [Holland and Leinhardt 1976] are among the most
+sophisticated). Balance theory initially signaled a reversal of this trend;
+however, as soon as it became clear that no real data sets were “balanced”
+in the classical sense, researchers began an unrewarding search for indices
+of the degree of deviation from classical balance (see, e.g., Flament 1963).
+We argue, instead, that sociological analysis needs explicit models of the
+structures in observed populations, no¢ measures or statistical indices of
+deviations from some convenient ideal structure. Blockmodels were de-
+veloped to meet this need.
+> a RR |
+|
+
+x x XXX XX X Xx\
+|
+
+x xX |
+
+x |
+
+|
+
+\
+
+xx |
+
+ 
+
+AND THON OD
+represent “unawareness of man or his work,” distinguishing pairs of indi-
+viduals who reciprocate “unawareness” (the right-hand matrix) from
+pairs in which only one individual indicated an “unawareness” tie (the
+middle matrix). Only an arbitrarily chosen subset of 28 members of the
+full sample (NV = 107) is included.
+
+Blockmodeling begins with weakening and extending the algebraic con-
+cept of “structurally equivalent” actors in a network (Lorrain and
+White 1971). A self-consistent search procedure is used to partition a
+population into sets of structurally equivalent actors—blocks. In each
+data matrix, we rearrange the row and column of each individual, so that
+the members of a block are grouped together. We also use the term block
+for a rectangular submatrix in which ties of the given type from members
+of one block to members of another block are reported. (The context
+will specify which of the two meanings is intended.) Attention is focused
+particularly on blocks which have no, or very few, instances of ties:
+these are termed zeroblocks.
+
+Look ahead to figure 3, in which the 28 persons in figure 1 have been
+partitioned into four blocks. (For example, the first block has five mem-
+bers: individuals numbered 9, 26, 23, 4, 1.) The rows and columns for
+individuals have been rearranged so that each of the three matrices can
+be seen as 16 blocks displaying ties from one of the four sets (blocks) of
+individuals to another. For example, in each matrix of figure 3 the upper
+left block reports any ties among the first five individuals; adjoining it on
+the right is the block reporting any ties from these five to the second set
+| block] of six individuals; and so on. There are eight zeroblocks in the left
+matrix, five in the middle one, and four in the right-hand one. The pattern
+of zeroblocks in this figure is interpreted in the next section, where case
+studies are discussed.
+
+A blockmodel is a hypothesis about a set of data matrices: it specifies
+for each matrix which blocks will be zeroblocks when some common parti-
+tion of the population is imposed on all the matrices (as in fig. 3). A
+blockmodel consists of a square binary matrix, called an image, for each
+type of tie. Each image has a row and a corresponding column for each
+block (in fig. 3, the top panel of three 4 x 4 matrices shows an image for
+each type of tie). The ordering of blocks within the blocked matrices is
+arbitrary, as is the ordering of members within a block.
+
+Five ideas are basic to blockmodels. First, structural equivalence re-
+quires that members of the population be partitioned into distinct sets,
+each treated homogeneously not only in its internal relations but also in
+its relations to each other such set. Second, the primary indicator of a
+relation between sets is not the occurrence but the absence of ties between
+individuals in the sets. Third, many different types of tie are needed to
+portray the social structure of a population. Fourth, the nature of a type
+Bonds and Segregation
+
+Suppose the networks for a given population satisfy a particular block-
+model hypothesis. When these matrices are rearranged and partitioned
+accordingly, those blocks which are not zeroblocks are usually not com-
+pletely filled with ties. They have a speckled appearance because choices
+from members of the row block to members of the column block are
+interspersed with blanks showing no ties. There are several reasons for
+this situation. First, if the data are sociometric responses, then the num-
+ber of responses per person is usually limited to an arbitrary number
+that is normally insufficient to yield solid blocks of entries. If an observer
+infers ties (instead of asking the subjects about them), he will be unable
+to monitor all possible pair interactions continuously; thus he may miss
+brief occasional contacts that are, in fact, enough to maintain a tie (if not
+to originate it). At any given time, chance fluctuations (who has been
+talking to whom, etc.) may determine which particular ties are coded as
+present.
+
+Second, aside from limitations in data collection, the persons being
+studied may not be motivated to report all their ties. At some times, they
+may even wish to conceal some ties from others, or even from themselves—
+hence also from any investigator. The act of revealing a tie—one’s asym-
+metric contribution to a pair connection—is a tactical decision in an on-
+going situation.1*
+
+Third, there is no need for a person to maintain every tie to all indi-
+viduals who belong to his own or another block, even though the num-
+ber of ties between (or within) these blocks may be considerable. Maintain-
+ing a tie requires time and energy; in addition, it makes a claim on an-
+other person’s attention. Blockmodeling requires that ties of a given type
+from any person in one block to any person in another be equivalent in
+structural significance; however, not everyone need choose to mobilize
+all such ties all the time (White 1974c).
+
+Finally, the population need not be a natural group in mutual face-
+
+15 This theme is further developed in Schelling (1960), That self-censorship actually
+occurs is further suggested by the Firth-Sterling Corporation data analyzed below.
+to-face contact, all of whose members are automatically acquainted with
+one another. It may be a contact network in which a particular person may
+never even have heard of half the others, as in figure 1. Blockmodels are
+wholly applicable to such cases.
+
+The blockmodel hypothesized for a set of matrices is an interrelated set
+of inferences from those data to an aggregated pattern of ties among cer-
+tain sets of persons. The memberships of these sets (the blocks) are influ-
+enced by each other through the incidence of ties of every type across the
+whole population. Bonds is the term’ assigned to those blocks which are
+not zeroblocks, even though many or most of the entries are blanks.
+
+Sociometric stars and other concepts that try to capture individuals’
+popularity have no direct analogue in blockmodels.17 Segregation of
+choices, as between boys and girls in grammar school classrooms (Bjer-
+stedt 1956), has often been noticed in sociometric analyses. This phe-
+nomenon can be described by zeroblocks in a blockmodel, but has ap-
+parently been investigated only for a priori categories of persons, such
+as male and female. With reference to less extreme forms of segregation,
+think of zeroblocks (such as those in the mutual contact matrix of fig.
+3) as marking the boundaries of choices by subgroups. Because individual
+popularity depends on the size and composition of the group or unit
+under consideration, it may be argued that this class of sociometric con-
+cepts depends logically on blockmodels (or some closely related apparatus)
+for delimiting the boundaries of such units. Within the top left block of
+the figure 3 mutual contact matrix, for example, it is apparent that the
+first individual (#9) is most popular (he is chosen by each of his block-
+mates) while the second individual (#26) receives fewer choices. This
+fact is masked, however, in the unpermuted data of figure 1, which shows
+individual #26 receiving more choices overall than individual #9.
+only four possibilities for any pair of individuals on a given type of tie:
+reciprocal, null, or one-way (two possibilities). In contrast, blockmodels
+permit 16 images on two blocks; these are shown, and fixed labels as-
+signed, in figure 2. In sociometry, three of the four possibilities are struc-
+turally distinct; in blockmodeling, 10 of the 16 images are distinct (see
+fig. 2).
+
+In the blockmodels for five of our case studies, images E and V (and F
+and W) occurred frequently and are substantively important. V can cap-
+ture, in a crude 2 X 2 pattern, the structure of a hierarchy as usually
+idealized: ties of deference extended within each block to one’s immediate
+superiors are also observed from the lower to the higher blocks in the
+hierarchy. In contrast, image Y can be seen as aggregate deference ac-
+corded only by persons in the lower block only to persons in the higher
+block. Call EZ the “hangers-on” pattern. It suggests differential standing,
+but in a different way. Here the second block is not internally coherent but
+is part of an overall deference structure. The image suggests a distinc-
+tion between the center and the periphery.
+
+Images P and N represent pure reflexivity and pure symmetry, respec-
+tively. Sociometric balance theory may be expressed by these two images:
+positive binding within each of two cliques (reflexivity—-P) and hostility
+between the two cliques (symmetry—V). Element C singles out one
+clique from the remaining isolated individuals. If the type of tie repre-
+sented here has negative connotations, then either C or D shows a con-
+centration of hostility within a subset.
+
+Images H and T are patterns for perceptions held by members of both
+blocks: all ties from both blocks go to one block. Images S and G show
+people split into a passive block on the one hand and an active block that
+does not discriminate between itself and the passives in ties of the type
+under study. The usual forced-choice procedures for gathering sociometric
+data would preclude discovery of patterns S and G.
+must require that if any one of the refined blocks being combined into a
+coarse block is a bond, the coarse block must also be a bond. Often two
+blocks are not sufficient to capture even the gross patterns in a block-
+model for a case study.'”
+
+Observe that each bond in the C,F pair of images for two blocks is
+also a bond in the Z,F pair: even when the number of blocks is the same,
+one blockmodel may be a refined (i.e., more demanding) version of
+another. In principle, one can construct an inclusion lattice”? of block-
+models, on a given number of types of tie, beginning with those on two
+blocks and then extending the lattice to three and more blocks. In prac-
+tice, the possible blockmodels are far too numerous for this to be useful.
+For example, there are 104 single images with three blocks, which are
+distinct under permutation of blocks.
+
+Formally, the pair of images C,F is simply a more demanding version of
+V,F, but (as will become apparent) the social structures described have
+quite different qualities. Blockmodels provide a framework for making
+substantive judgments and interpretations; they supply a set of formal
+answers. However, the solution must be proposed, as well as validated, on
+substantive grounds.
+1 1
+
+Fic. 2—The 16 possible 2 X 2 binary matrices. Grouped into 10 rows, one for
+each set that is equivalent under permutation of the two blocks. The letter labels used
+here and in the text are applied only to these matrices (never to designate other
+images or to data matrices).
+termed crystallizers: they resemble sociometric stars in importance, not be-
+cause of the number of choices they receive but because of their strategic,
+“structural” position in the overall matrix following from the hypothesized
+model. Other persons are allowed multiple, alternative assignments by the
+BLOCKER algorithm; these are termed floaters. They are somewhat anal-
+ogous to the sociometric isolate, who receives few or no choices.”+
+
+The number of different blockmodel hypotheses, even with just two or
+three blocks and just two types of tie, is so large that some other ap-
+proach is desirable for initial exploration. Breiger has developed a hier-
+archical clustering algorithm that partitions men into possible blocks and
+then finds a blockmodel by inspecting the data matrices rearranged ac-
+cording to the partition.” It is called concor; its formal behavior is
+analyzed in Breiger et al. (1975); some mathematical properties are de-
+scribed in Schwartz (1974).
+
+The difference between the two algorithms is as follows. concor pro-
+duces from raw data an assignment of individuals to blocks, and thence
+suggests a blockmodel hypothesis. BLOCKER demands a blockmodel hy-
+pothesis and derives from it any assignment of men to blocks that satisfies
+the hypothesis for the given set of data matrices. Matrix entries in any
+numerical form can be direct input to concor, whereas each tie must be
+coded as either 0 or 1 before BLocKER can be used. Substantive judgment
+is required in both: in concor, on when to stop the further splitting of
+blocks; in BLocKER, on what blockmodels constitute appropriate hypotheses.
+
+BLOCKER searches for pure zeroblocks; an assignment is rejected for a
+blockmodel hypothesis if even one tie thereby appears in any zeroblock.
+CONCOR partitions the population in a way that may be intuitively char-
+acterized as yielding sharp contrasts in densities of ties between different
+blocks. The image suggested by concor can be refined by varying the
+cutoff level of tie density below which a block is coded as a zeroblock.
+FIVE CASE STUDIES
+
+This section reports five case studies on which we tested blockmodels.
+Four concern adults in work situations; only one (the Firth-Sterling Cor-
+poration management) included all of the population’s relevant authority
+figures. Two are panel studies using at least four time periods. Four of
+the populations are primarily face-to-face groups of fewer than 20 mem-
+bers, and one is a subsample from a larger sample (NV = 107). Four are
+exposed to normal turnover in members. All five include systematic data on
+individual attributes. All the populations are twentieth-century and Ameri-
+can. This section concludes by illustrating the use of blockmodels with
+overtime data for two of the studies.
+
+For four of our case studies (all but the biomedical research network),
+detailed independent analyses are presented in the original studies of the
+interactions. These discussions have informed our search for blockmodel
+hypotheses used as input to BLOCKER and are also used to validate some
+of our findings. We cite here five general findings from the case studies
+which illustrate this validation of the blockmodels and also additional
+insights obtained. (1) coNcor, a mechanical search algorithm not depen-
+dent on our perceptions of the “meaning” of the data, produces a partition
+of individuals into blocks which is equivalent at the three- or four-block
+level of refinement to the identification of major groupings in the original
+study of the interactions, in all four cases for which such comparisons
+may be made (see results reported below and in Breiger et al. 1975). This
+strong finding suggests the validity of our approach to network aggrega-
+tion. (2) Even though many of our hypotheses which are tested by
+BLOCKER are informed by our reading of the original studies, blockmodels
+constructed across several different types of social relation in each study
+are valuable in portraying the overall social structure. (3) BLOCKER parti-
+tions for coarse (two- and three-block) models agree with the partitions
+independently derived by concor. (4) In each case study, we suggest
+additional interpretation (based on a finer partition of individuals into
+blocks and/or a consideration of the patterns of relations brought out in
+the blockmodel) which goes beyond the analyses of the original accounts.
+(5) The case of the biomedical research network, for which a detailed
+analysis of the interactions among the population’s members does not exist,
+A Biomedical Research Network
+
+Data.—Griffith et al. (1973) identified 173 scientists studying the neural
+control of hunger and thirst. Of these, 107 responded to Griffith’s question-
+naire. In more than half the possible instances (as fig. 1 shows) one
+respondent was unaware of another, as can be expected in an open popula-
+tion.
+
+Blockmodel_—In order to apply BLOCKER to these data, each entry
+in the matrices must be coded in binary form. Only a reciprocated choice
+
+n “mutual contact” was regarded as strong enough by itself to prevent a
+zeroblock; thus symmetric choices on mutual contact were coded “xX”
+and the rest coded “blank.” “Unaware of” is not like other, substantive,
+types of tie, so unreciprocated choices on it were treated as a distinct type
+of tie, with reciprocated choices constituting a third type. A blockmodel
+hypothesis, stated in the top panel of figure 3, for these three types of tie
+was developed by systematically exploring intuitively plausible block-
+models. At the left in figure 3 is the partition—the unique assignment
+(defined in Appendix A)—of men to blocks that BLOCKER yields when the
+data are tested against the hypothesis. The bottom panel shows the data
+matrices with rows and columns blocked in conformity with this partition:
+inspection shows the blockmodel is confirmed.
+
+Interpretation—Interpret the blockmodel in status terms. (Blocks are
+ordered from high to low status.) On symmetric “mutual contact,” the
+bottom two blocks are connected neither internally nor to one another, and
+the bottom block has no connections with any block, including itself. The
+bottom block belongs to the population only in the cultural sense that it
+has no asymmetric unawareness of the block that is obviously the leading
+set of researchers. No block has asymmetric unawareness ties to the top
+block; yet that block has asymmetric unawareness entries to each of the
+others; we might call this a snob effect.
+
+Further tests——-CcoNcor was applied (not shown here) to the data
+matrices for “mutual contact” and “unaware.” Its first split of the 28
+men yielded a partition similar to BLOCKER’s: the first two groups in the
+latter became one group, and the last two a second, except for two inter-
+changes. After two more splits, the partition was
+
+(1 4.9 23 2 10 26) (2419 12 14) (67 28 11 15 13 16)
+(18 22 3 5 8 17 20 21 25 27). [1]
+
+The extreme blocks are close to those of figure 3; the middle two are
+
+more mixed. For all three types of tie, we constructed a blockmodel from
+the concor partition by defining a zeroblock as any block with less than a
+specified fraction of the average density of entries for the given type of tie.
+For any cutoff fraction between 1/10 and 1/2, the resulting blockmodel
+was very close to that of figure 3.
+
+Each of two additional arbitrarily chosen sets of 28 persons (not over-
+lapping with each other or with the first) was then blockmodeled in exactly
+the same way, again using concor. The two resulting blockmodels were
+close to each other and to the blockmodel in figure 3. Although the full
+sample of 107 had not yet been simultaneously partitioned (see Breiger
+1976), we inferred that in the larger study both the blockmodel pattern
+and the block memberships would correspond with the results reported
+for these subsamples. Everyone in the network knows the top dogs (block
+a), but although these top dogs collaborate with some researchers in lower
+strata, they appear to remain ignorant of most lesser mortals. Members
+of block 5 appear to be very active researchers, aware of one another.
+Unlike those in the bottom block, members of the third block (c) are not
+just on the sidelines; they frequently see at least some researchers in
+higher blocks. Clearly, the complete interconnectedness of a face-to-face
+group or other community is not necessary for the coherence of this social
+structure. Neither these blocks nor (more importantly) the global pattern
+of relations over the network would emerge from counts of individual
+“popularity” or from conventional clique analysis.
+negative relations a distinct name. In all of our case studies we use “Like”
+and “Antagonism” for positive and negative affect, respectively.
+
+Blockmodeling —concor was applied to all eight matrices of figure 4.2%
+This algorithm is not explicitly concerned with locating zeroblocks; data
+of all three choice rankings are processed by it. After two splits the parti-
+tion into three blocks was
+
+(10596411 8) (12 12 14157 16) (13 3 17 18). [2]
+
+This partition was then imposed on the eight data matrices (the results
+are shown in fig. 4). We assumed that in a population of 18 persons, only
+the top two choices were strong enough to invalidate a zeroblock (establish
+a bond), so each block which contained no entry greater than 1 was
+Social Structure from Multiple Networks. I
+
+represented as a zeroblock. The resulting blockmodel is shown in the top
+panel of figure 4.
+
+To apply BLockER, which requires binary input data, values of 2 and 3
+were coded as 1, the rest as 0. When the blockmodel shown in figure 4 was
+tested on the data using BLOCKER, the unique assignment found was exactly
+that derived from concor! Direct inspection of figure 4 confirms this find-
+ing (note that third choices, coded as 1, should be ignored).
+
+In the image for esteem, the three blocks are ordered in a complete
+linear hierarchy, which is certainly plausible in a monastery. The bottom
+block has a bond to itself and to each of the higher blocks on every kind
+of positive relation; yet it also has reciprocated bonds with both of the
+other blocks on all four negative relations. Liking bonds are universal
+with one exception: the second block does not match its esteem bond for
+the first with a liking bond. The two top blocks exchange no positive
+sanction (“praise” in fig. 4); however, the first block, top on esteem,
+concedes influence to the second.
+
+Refinements and interpretations —If we return to the CONCoR approach
+and raise the cutoff density for zeroblocks to half the average density,
+the resulting blockmodel is
+(Recall that this image fits the data with 2’s and 3’s coded 1 and all other
+entries 0.) Name the blocks from top to bottom and from left to right
+a, b, c, d, e. In brief, within the old top block, @ is now a hanger-on to 5;
+within the old second block, d defers to the core block c. It was c, but not
+d, that esteemed the initial top block, and then it only esteemed the core
+(4). Moreover, it was the hanger-on, a, who conceded influence to the
+initial second block, but only to its core, c. (The old bottom block of
+losers remains the same; it [e] esteemed only the hangers-on [a] of the
+old top block.)
+
+The other images in the refined blockmodel can be read from the data
+matrices in figure 4. All four positive images confirm the hangers-on and
+deference structures within the former blocks. There are three more
+liking bonds than esteem bonds, but except for this fact and the special
+asymmetry in esteem and influence among the top blocks (already men-
+tioned), the four positive images are almost identical. The refinement of
+negative bonds is simpler: in each of the four negative images there are
+reciprocal bonds between 5 and the bottom three blocks (c, d, e) but
+almost none to b’s hangers-on (a). And the loser, e, though receiving many
+or all types of negative bonds from the other four blocks and reciprocating
+to both a and 8, sends no negative bond to d; however, e sends all four
+types of negative bond to @’s masters (c).
+
+Comparison with Sampson’s analysis.—Both the blockmodels for three
+blocks and that for five blocks can be compared with Sampson’s own
+analysis. Sampson (1969, p. 370) posited a definite clique structure for
+the monastery at time T4, on the basis of sociometric graphs (drawn
+from the data shown in fig. 4), his own observation, and his interpretation
+of events and personal attributes. His Young Turks are led by monks 2,
+Social Structure from Multiple Networks. I
+
+1, and 12 (in descending order of leadership), with 14, 15, 7, and 16 as
+followers. His Loyal Opposition is led by 4, with 5 a popular member, 6
+and 11 as members, and 9 less fully attached. He saw three Outcasts: 3,
+17, and 18. The other three monks (10, 8, and 13) wavered between the
+two cliques, which he described as being in intense conflict.
+
+Both concor and BLOCKER agreed on the split into three blocks (shown
+in fig. 4). Sampson’s Loyal Opposition is wholly contained in the first
+block; the Young Turks are exactly the men in the second block; the
+Outcasts are wholly contained in the third block. Sampson’s Waverers 8
+and 10 are in the Loyal Opposition block, whereas Waverer 13 is in the
+Outcast block.
+
+Our refined five-block blockmodel splits the Young Turks exactly as did
+Sampson, with 1, 2, and 12 as leaders; however, the first two blocks split
+the Loyal Opposition differently, as well as enlarging it. Monk 5 is changed
+from Sampson’s “socio-emotional leader” (p. 360) to membership in the
+Loyal Opposition’s hangers-on block. Sampson earlier observed (p. 322,
+n. 32): “His [monk 5’s] circumspect aloofness from interpersonal conflicts
+served to preserve his relatively high ranking on most measures through-
+out the study, but as a consequence, his influence on others was more
+that of a detached role model than a framer of opinion or action.” And
+Waverer 8 is in the leading block (%) of the Loyal Opposition according
+to the blockmodel.
+
+The pattern of relations given in figure 4’s blockmodel—the eight images
+on three blocks—accords with Sampson’s basic contention of a fight be-
+tween the Loyal Opposition and the Young Turks. The blockmodel reports
+strong ambivalence within the Young Turks—simultaneous positive and
+negative bonds of many types—but none within the enlarged Loyal Opposi-
+tion; all of these reports accord with the detailed statements in Sampson’s
+analysis. The blockmodel makes three further important assertions: the
+Young Turks are conceded top position in a linear hierarchy of the three
+blocks on influence, while the enlarged Loyal Opposition is conceded top
+spot in a hierarchy on esteem. Third, the bottom block has but one internal
+type of bond which is negative; it also receives Like bonds from above,
+as well as the negative bonds that its members return in kind: this implies
+that the bottom block is a meaningful social unit in a sense different from
+that of Sampson’s “‘pseudo-group.”
+
+Bits of evidence in Sampson’s detailed textual account support these
+further assertions; for example, monk 13 nominates, and is the only man
+to vote for, 3 as chairman of an important meeting (p. 354).24 Our
+American Journal of Sociology
+
+assertions contradict some of Sampson’s summary statements, but this
+fact per se is not as important as the fact that blockmodeling has per-
+mitted us to move beyond the picture Sampson drew—beyond the kinds
+of inferences that are technically feasible from sociometric diagrams. The
+blockmodel on five blocks necessarily differs from Sampson’s conclusions;
+it analyzes units finer than his factions but ignores the distinctive behavior
+of individuals that he emphasized. Until the matrices for earlier time
+periods are taken up below, the main support for the refined blockmodel
+is the consistency across images of the pattern within each faction.
+
+One week after the period to which these data refer, an explosion started.
+The Superior and the Novice Master, together with the handful of senior
+monks (none of them included in the sociometric population of the 18
+monks in training), decided in their regular review process to expel monks
+2, 3, 17, and 18. The reasons given by the senior staff were, for the latter
+three, that they were “too immature” and had “personality problems,”
+while monk 2 was considered “too independent, questioning and arrogant”
+(Sampson 1969, p. 373). Only monks 1, 2, and 3 of the 18 had been to
+college and were candidates to be full clerical monks; they were older and
+restless even under the drastically reduced discipline their seniors had insti-
+tuted a year earlier, before their arrival and that of monks 10 through 18.
+
+Almost at once, monk 1 voluntarily departed. Then, within a week, monks
+16, 15, 14, and 7 left, in that order. A few days later, 13 and 8 left, also
+voluntarily. A month later still, monk 10 left. Of the six remaining from
+the 18, note that four had been there in the old days before the change of
+discipline, and five were in the Loyal Opposition. A puzzle in both Samp-
+son’s picture and the blockmodel is why monk 12 remained. Otherwise the
+blocks found in building the refined blockmodel from pure sociometric data
+fit the initial departures perfectly: monk 1 followed his blockmate im-
+mediately, and the next wave of four was precisely the block asserted to
+be their subsidiary; only after them did monk 13 leave, and he preceded
+the two from the Loyal Opposition.
+Social Structure from Multiple Networks. I
+
+R-D) is itself a classic. A production section that wired switchboard banks
+in a Western Electric plant was transferred to a separate room; for a year
+men shared this room with an observer who, with other researchers, re-
+peatedly interviewed the 14 men, monitored official records, and so forth.
+
+The observers reported their judgment of the incidence of five types
+of tie? (shown in the matrices of fig. 5). Two are the familiar Like and
+Antagonism, but three others report context-specific types: ‘““Games” is the
+designation for a kind of affectionate horseplay (including “pinging” the
+upper arm); “Help” (with production tasks) is our name for a second
+type; “Windows” reports chronic quarrels over opening windows. The
+observers saw these as stable interaction patterns established when the
+section had settled down. In all types but Help, each tie is reciprocated. A
+man need not “send” any ties of a given type. When applying BLOCKER,
+each tie reported as present was coded “1.”
+
+In addition to two inspectors (called hereafter I1 and 13, after Homans),
+there were nine wiremen (numbered from W1 to W9 by position in the
+room from front to back) and three soldermen (S1, $2, S4). Layout was
+fixed: W1-W3 were assisted by the solderman at the front of the room,
+S1; W4-W6 by S2; and W7-W9 by S4; I! and I3 shared inspection of
+banks from the middle team.
+
+Interpreting all the kinds of evidence, R-D, followed by Homans, con-
+cluded that the social structure was based on two cliques, located mainly
+in the front and the back of the room, respectively. They listed the mem-
+bers in the front as W1, W3, W4, S1, and I1, and those in the back
+as W7, W8, W9, and S4; but they also saw nuances within each group
+and discussed other individuals as fringe members. At other places in their
+accounts, they emphasized that individuals have differential standing or
+prestige in the informal social structure. To us, their account strongly
+suggested a hangers-on pattern within each clique as well as strata cutting
+across the cliques.
+
+Developing a blockmodel.—Games ties were described as friendly, and
+for both them and Like ties the hangers-on pattern (the EZ element within
+the clique) seems appropriate. But Games ties were much more numerous
+than Like ties, so it seemed likely there should be more men in a core
+group on Games than in a core group on Like. Like and Games between
+them thus should differentiate each clique into three blocks. Antagonism
+was concentrated on, and within, the set of men whom both R-D and
+Homans judged to be, at best, marginal to the cliques, and who would
+appear in the bottom blocks of the two cliques. These three types of tie
+suggested a blockmodel for six blocks on Like, Games, and Antagonism;
+it was not clear what pattern to expect on Help or on Windows, except
+that the latter should be concentrated in the back of the room. This ap-
+proach suggests not only the images but also the memberships of at least
+the higher blocks.
+
+The initial blockmodel was adjusted by inspection of the actual choices;
+it is shown in the top panel of figure 5 as the first three images. The data,
+also shown in figure 5, fit this blockmodel: BLocKER indeed yields the
+unique assignment shown (see Appendix A). Two important points should
+(W4 S1 W3 WI Il) (W2 WS I3)
+(Ws W9 W7 S4) (W6 $2), [5]
+
+again perfect conformation to boundaries in the full six-block blockmodel!
+CONCOR first distinguished between the cliques and then, within each set
+positively bound together, distinguished strata. A blockmodel on these four
+blocks can be aggregated from the one on six blocks in figure 5 by taking
+the logical union of the first two rows and the first two columns, and then
+doing likewise for the fourth and fifth rows and columns.
+
+One can also emphasize the differentiation into strata as the overriding
+feature, rather than the split between cliques. Suppose we combine the
+first and fourth blocks of figure 5, the second and fifth, and the third and
+sixth. When unions of the corresponding rows and columns are computed,
+the five images become
+
+L G A A Ww
+1 10 111 0 0 1 1 11 111
+100 111 0 0 11 0 111
+0 0 0 1 10 111 1161 1 11
+
+When this blockmodel was applied by BLOCKER to the five data matrices,
+we obtained a single solution: the top block is the union of the first and
+fourth blocks of figure 5, and so forth.
+
+The analyses of the Bank Wiring Room in R-D and in Homans are the
+basis for the blockmodel and so can hardly be cited as independent evi-
+dence.
+Test based on reasons for work stoppage.—In the original report,
+Roethlisberger and Dickson (1939, pp. 428-32) stated that the bank
+wiring department allowed the nine wiremen to claim allowances for un-
+usual work stoppages “beyond their control.” Wiremen frequently claimed
+more time allowances than were necessary (contrary to the intent of the
+wage-incentive scheme) because they were willing to trade some loss of
+income for some gain in security (expressed as uniformity in output
+curves). Each time a wireman claimed a time allowance, he was supposed
+to give the reason for the delay. R-D coded 12 classes of reasons and
+then cross-tabulated the claims by reason and wireman. Generalized at-
+titudes need have little relation to specific position in a particular popula-
+tion, but context-specific attitudes such as these reasons should be affected
+by one’s position and should, hence, resemble those of others in equivalent
+positions.
+
+In this cross-tabulation, each wireman has a column and each reason a
+row. We used concor to split the wiremen on the basis of their respective
+columns of counts.2” The result is
+
+(W1 W2 W3 W4 WS) (W6 W7 W8 W9). [6]
+It is at once apparent that the split is precisely that between the blocks
+of the front clique and those of the back (see [4] or [5]). In particular,
+the marginal members W2, W5, and W6, whom Homans did not place, are
+each grouped with the wiremen from the appropriate upper blocks.
+
+In only two of our case studies did the population have specific job
+assignments, and only the Bank Wiring Room also had fixed locations.
+Let us return to the six-block partition given in figure 5. We already know
+that joint membership in a block follows neither from having the same one
+of the three jobs nor from having different jobs. Sayles (1958, a mono-
+graph on industrial work groups) criticized the earlier literature for giving
+too much independent importance to dynamics in small groups as such;
+the keys to social structure and process, he argued, were kinds of job and
+the flow of work imposed among jobs. At first sight, it seems that our
+analysis provides a counterexample; however, close examination shows
+that the split between cliques is as important a determinant of the six
+blocks as is the division among strata, and the cliques clearly emerge from
+the layout of the room. Similarly, for all types of tie except Antagonism,
+the pattern of bonds between blocks depends on the clique split as much
+as on strata.
+Social Structure from Multiple Networks. I
+
+style house, expenses paid. They were subject to observation and required
+to supply many self-reports, including a complete rank ordering of the
+other 16 by “favorableness of feeling” during each of the 16 weeks of
+the experiment. Newcomb reported only measures of association for the
+rank orderings (which contributed only indirectly to his account of the
+social-psychological dynamics). Here we take polar types of tie (Like and
+Antagonism), abstracted from the rank order for the last week of the
+second experiment, and suggest a blockmodel for three blocks. The indi-
+vidual-level data were described by Newcomb’s associate, Nordlie (1958),
+who developed an independent interpretation that is more explicit than
+Newcomb’s. Individuals are numbered as in Nordlie’s Appendix A, as are
+ranks (from 1 for most favorable to 16 for least; no ties permitted). (The
+parallel first, experiment will be discussed in Part II.)
+
+Developing a blockmodel_—In a population of this size, the top two
+ranks were believed to represent strong friendship choices; the bottom two,
+strong antagonism. There is a scapegoat in this group (man 10), who
+received one of the bottom three choices of each of the other 16 persons.
+For application of BLocKER, the top two choices were coded as Like ties;
+the bottom three, as Antagonism ties. There seemed to be a top group
+that disdained the others, so the V,F blockmodel (for two blocks) was
+hypothesized. The result was a split of men into blocks for which Like and
+Antagonism satisfy the blockmodel; men 13, 9, 17, 1, 8, 6, and 4 were in
+the top block. This is the only split that yields a solution, and it stipulates
+two floaters (men 2 and 5) who can be placed separately or together in
+either block (see also Appendix A).
+
+An obvious refinement is a split of the bottom block into (1) losers
+and (2) a stratum not internally antagonistic and ambivalently oriented
+to the top block of seven: the blockmodel is
+for that type of tie).28 With the top two ranks defined as Like choices
+and the bottom three as Antagonism, for any cutoff density below one-fifth
+the average density on that type of tie, the resulting blockmodel is the
+same as the one presented above. When the cutoff density is raised fur-
+ther, the first bonds to disappear are the bottom block’s positive bond to
+itself and its negative bond to the second block.
+
+Comparison of the blockmodel with Nordlie’s interpretation —Nordlie’s
+(1958, pp. 67-77) study of “sugbrouping” yields an assignment of men to
+“clusters” for week 15 that is entirely consistent with our blockmodel.
+For each pair of men, Nordlie computed the rank correlation coefficient
+of the choices sent by each to the 15 others, excluding themselves. This
+matrix of “intra-pair agreement” was then clustered as described by
+Nordlie (1958, pp. 70-71) to produce subgroups of nonoverlapping mem-
+bership and a residue of men assigned to no cluster. Nordlie discovers
+five subgroups for week 15 of the second experiment: (1, 5, 6, 8, 13), (2,
+4,17), (7, 11, 12), (3, 14), (15, 16). Men 9 and 10 are not assigned.
+Each of the five subgroups is contained within a single block of our
+three-block blockmodel, if the two floaters (men 2 and 5) are allowed
+either of their assignments.
+
+Nordlie does not distinguish Like and Antagonism, and he does not
+go on to examine and interpret concrete patterns of ties among his
+clusters. The blockmodel above suggests a combination of balance theory
+(in some form) with hierarchy as the forces at work.
+man of elite social and business standing brought into the ailing company
+a few years earlier).
+
+Developing a blockmodel—With such ties, there were no precedents
+for hypothesizing a blockmodel. concor was applied to the data matrices
+for all eight detailed types of relation (the seven reported by White
+[1961, p. 192], with choices on the fifth type—Respect for Knowledge and
+Respect for Decisions—separated into two matrices). The partition into
+three blocks found?® was
+
+(119 13) (24678115) (5 10 12 14 3 16). [7]
+
+Since each choice had been carefully considered by the respondents,
+the cutoff density chosen for zeroblocks was zero (i.e., a single choice
+in a block prevented its being coded as a zeroblock). The top panel of
+figure 6 reports our blockmodel on three images: Similar Business Policy,
+Personal Friendship, and Uncomfortableness. The blockmodel was ob-
+tained by imposing the above partition onto the matrices for these rela-
+tions. The bottom panel shows the resulting blocked matrices. (Obviously—
+an implication of the zero cutoff density—this partitioning matches that
+produced by BLocKER for this blockmodel.)
+
+Included in both the Policy and Uncomfortableness matrices of choices
+are guesses about the question “who .. . might single you out... ?”
+(for each relation). Guesses were requested in order to increase the
+scope of choices, especially on uncomfortableness. Indeed, 19 of the
+27 guesses coincided with direct choices, while few were reciprocated (an
+indication that these were surrogate choices rather than realistic percep-
+tions of others’ choices). Every guess that did not coincide with a choice
+fell into one of the 10 bonds shown in the images; none fell into any of
+the eight zeroblocks.
+
+Interpretation—We now turn to a substantive examination of the
+blockmodel, considering first the division of men into blocks. The partition
+is neither into departments nor into formal ranks. When CoNCoR was ap-
+plied twice more (to split the two big blocks), then men 4 and 15 were
+separated out within the left-hand block; and men 3, 16, and 5 were split
+from the rest of the right-hand block (see [7]). These five blocks, ordered
+as in the permutation shown above, correspond exactly to the grouping of
+managers by their attitudes to R&D (inferred from their questionnaire
+responses, interviews, and actions in specific conflicts over R&D [White
+1960, 1961]). Indeed, the permutation classifies managers by degree of
+hardheadedness toward R&D. The Executive Vice-President (12), the
+Treasurer (14), and the Director of Abrasives Production (10) were
+utterly skeptical. The Personnel Manager (16) and the two R&D man-
+agers concerned with alloys (3 and 5)—-the more routine side of produc-
+tion, in which only routine development was carried on—were close seconds.
+All three Sales Managers, plus the overall coordinator of R&D (1) and
+the man (2) who ran the most speculative research project, were most
+optimistic and favorable to R&D. The President’s Trouble Shooter (15,
+in charge of expediting some new products) and manager 4 (a respected
+engineer with several inventions that he was trying to produce by a job
+shop operation) were favorable but not optimistic about results. In the
+middle were the President (11), the Vice President for Production (9),
+and the Accountant (13), in the observer’s opinion the most realistic
+persons of the entire group; all three were acutely aware both of the
+poor record of Firth-Sterling’s R&D and of the crucial importance (for
+the company’s image and borrowing capacity) of having an R&D program.
+
+The blockmodel on the three main blocks with the three specific images
+makes equal sense. In figure 6 the block of 11, 9, and 13 is put on top,
+consonant with its obvious preeminence in the eyes of all. It exchanges
+policy bonds with the Sales block (the middle block in the partition [7])
+and receives a policy bond from the hardheaded block; in addition, each
+block has a policy bond to itself. On Personal Friendship, the top block
+Blockmodels also make sense out of data describing social structure over
+time. The possibilities are numerous. Blocks can be stable over time, with
+the blockmodel changing. On the other hand, a blockmodel may be stable,
+with the blocks’ memberships changing as roles and positions rotate among
+individuals (of course, we would need independent confirmation of such
+changes). Or there can be complete stability, at least for the coarse parti-
+tions into blocks together with associated blockmodel images. Successive
+observations of choices existed for two of the cases analyzed above, the
+monastery and the fraternity. The results are quite similar.
+
+The fraternity data—The stability of both the blockmodel and the
+blocks, after the first few weeks of maneuvering, is the main result for the
+fraternity. We imposed the three-block partition found for the final week
+on the data for each earlier week. We also computed the density of the
+top two choices in each block for each week (number of choices divided
+by number of cells in which choices could occur); we then computed the
+density for the bottom three choices. Figure 7 shows the results of this
+procedure for selected weeks: 0, 3, 5, 8, 13, 15. The development seems
+clear. In the initial week, the blocks show little variation in density; thus,
+there is little justification for asserting that the three blocks exist as distinct
+structural entities. By the third week, though, a pattern is clearly discern-
+ible; the top two blocks clearly show no internal antagonism, and the
+third is clearly at the bottom of a three-part hierarchy. Then, by at least
+the fifth week, not only the final blocks but also the final blockmodel have
+emerged with remarkable clarity. Thereafter the stability is marked. Now
+if either BLOCKER or CONCoR is applied to the data for an intermediate
+week, much the same blocks and blockmodel are found, whereas neither a
+clear blockmodel nor clear blocks emerged from their application to data
+for the first two weeks.
+
+This conclusion has little interest if men are simply repeating the same
+choices week after week; the argument in our section on methods was that
+men should be expected to change their choices over time, but within the
+confines of blocks that contain bonds. For example, take choices made
+by the top block. In week 0, these seven men made 14 Like choices (top
+two ranks); eight were of different persons from those whom each chose
+in the final week. Of these eight choices, five created bonds not predicted
+in the coarse V,F model (that is, the bonds were from the top block to the
+other block of 10 men); three added to the existing bond. By chance, one
+would expect an outcome like this: 10/17 in the forbidden block and
+7/17 in the block allowed according to the Like image.
+
+In order to complete this example, we repeated the comparison with
+week 15 for each week in turn. Define a change for week i to be a choice
+in week i that is not matched by a choice in week 15. We then summed
+changes for weeks 0-4 and compared them with changes summed for the
+10 weeks 5-15.5° Data for the first five weeks show as many changes of
+individual Like choices (38) as were made in the last 10. In the first five
+weeks, 60% of the changes fall in the zeroblock—exactly the chance ex-
+pectation—but in the last 10 only 34% of the (relatively fewer) changes
+are in the zeroblock of the week 15 model. When parallel counts were made
+for Antagonism choices (the bottom three ranks), a similar picture
+emerged: 45% of the early weeks’ choices differed from those of week 15,
+compared with 22% for the late weeks. For the early weeks, exactly the
+chance expectation (40%) fell in the zeroblock in the F image, while only
+14% of the (relatively infrequent) changes in late weeks lay in this for-
+bidden block. There is some indication, then, that individuals’ choices
+continue changing even after a blockmodel has stabilized; in addition, after
+week 4, the changes—both for positive and for negative ties—conform
+much better to the final blockmodel.*1
+
+The monastery data—Sampson claimed that, during the period to
+which his data refer, groupings emerged within the monastery and polariza-
+tion developed among them; blockmodeling does not show such clear-cut
+changes over time. At period T1, before the new cohort of novices arrived,
+monks 4, 5, and 6 were the core men, with 9 and 8 more peripheral; 7 was
+isolated, but immediately became friendly with monk 16 in the new group.
+By T2, according to Sampson’s observation, monks 1 and 2 stood out as
+the most respected in the whole group of 18. Then incidents multiplied as
+traditional discipline surfaced (even though in much milder form): for
+example, some new novices were shocked when shown the waxed whip for
+the Order’s traditional mortifications. About period T3, monk 2, without
+explicit disapproval from the officials, instigated meetings of the novices
+to discuss their routine. In the formal vote for chairman of the meeting,
+he received 11 votes while monk 1 received three (only monk 4 was not
+present).
+
+Our analysis of change is confounded by the fact that the sociometric
+data used here are retrospective from T4. Thus the data for periods T2
+through T4 show only moderate changes. Even when the refined partition
+into five blocks is imposed upon the earlier data matrices, the counts in
+blocks are quite uniform across time periods. The sums of weighted
+choices, by block, for Like are shown in the top panel of figure 8.
+consistent decline in Like between the top two blocks (roughly, Sampson’s
+Loyal Opposition) and the middle two (the Young Turks); however,
+the buildup of liking within the bottom block (which Sampson dismissed
+as the Outcasts) is equally striking. So also is the increasing focus of
+liking ties within the Loyal Opposition (largely from ties withdrawn from
+the other blocks) upon their leaders.
+
+The parallel sums for Antagonism are shown in the bottom panel of
+figure 8. Again, the five blocks are discernible at the earlier periods. The
+only notable pattern changes are the concentration of antagonism from
+the leaders we identify in the Loyal Opposition upon the Young Turks’
+leaders (these Loyal Opposition leaders, in turn, are increasingly disliked
+by followers within the Young Turks).
+
+Much the same changes over time are seen in the other three positive
+types of tie and in the negative types. Even the refined partition into
+five blocks yields sharp discrimination in the two earlier periods. Sampson
+gave careful instructions for the retrospective choices, reminding each
+respondent of a salient event marking that period. But it is impossible to
+validate them as faithful representations of perceptions at T2 and T3.
+
+We noted in the section on methods that constraints on data collection,
+random fluctuation in social relations, and the differential maintenance and
+concealment of ties over time give rise in a natural way to “speckled”
+blocks (bonds) that are only partly filled with choices. Our model allows
+for changes in the novices’ ties over time, but our hypothesis was that
+such changes would generally confine themselves to bonds and would not
+affect zeroblocks (as defined by the blockmodel for period T4). If choices
+for T2 and T3 are really just surrogates for T4, they should fall within
+the bonds specified by the blockmodel of T4; the same outcome should
+also hold if they are truly for a different period but the same blockmodel is
+hypothesized. According to the ‘“top-two, bottom-two” cutoffs used in
+applying BLOCKER, among the 25 blocks in each image, about half are
+zeroblocks. Of the 131 choices on the four positive types of tie at T3, a
+third (43 choices) do not coincide with some choice at T4. Of these 43,
+11 created bonds within zeroblocks. For negative types of tie, the cor-
+responding figures are: 128 choices, 48 T3 discrepancies from T4, and 7
+entries falling at T3 into blocks which are zeroblocks at T4. To put this
+another way, of the 2,183 entries that are zero in the eight data matrices
+for T4, the majority (59%) are in zeroblocks; however, of the cells that
+are zero at T4 but not at T3, four-fifths (80%) are confined at T3 to
+blocks that are bonds in the T4 blockmodel. If T2 is compared to T4, the
+figures for positive ties are: 130 choices, 62 discrepancies; 20 of the
+latter appear in zeroblocks of the T4 blockmodel. For negative ties the
+figures are 121, 69, and 17, respectively.
+
+The implications seem simple and agree in general with the Newcomb
+IMPLICATIONS: CONCRETE SOCIAL STRUCTURE
+
+Sociologists have long been tortured by their inability to specify clearly
+the meaning of two fundamental terms, “role” and “position” (see the
+excellent brief review by Catton [1964, pp. 936-43]). All agree that no
+cogent theory of social structure can dispense with the concepts these
+terms try to capture (one reason Mitchell [1969] is so soft-spoken about
+networks is that they seem conceptually remote from role and position).
+Part of the trouble, we submit, is the lack of generally applicable opera-
+tionalizations: no matter how cogent the prose discussion of role and
+position (or cognate terms), the sense of insight fades as the writer (or
+his reader) tries to apply them to various concrete social structures.®”
+
+We now suggest that the purposely neutral terms employed until now
+—hblock and blockmodel—provide operational definitions for the substan-
+tive concepts of role and position. We then suggest a way to interpret
+concrete social structures in these terms. We require three primitive terms:
+Blockmodels as Roles among Positions
+
+A blockmodel is a hypothesis, a representation proposed for the social
+structure that exists in the population’s claims. Three terms can be used
+to describe a blockmodel:
+
+(4) position—each of the sets into which the population is partitioned
+is a position. The technical term “block” is a synonym for this substan-
+tive concept.33
+
+(5) bond—a nonzero entry from one position to another in the image
+
+for a toft.
+(6) image—the report, in the form of a binary matrix, of the bonds
+
+on a given toft among all positions.
+
+By its definition, a blockmodel is a simultaneous graph homomorphism
+in mathematical terms (Heil and White 1974). Mapping the population
+into positions requires mapping each data graph matrix simultaneously
+onto the corresponding image. By the definition of a homomorphic map-
+ping, there is no bond from one position to another if and only if there
+is no claim from any member of the first position to any member of the
+other position. Thus, in the terms used earlier, each image is fully specified
+from its zeroblocks when the persons in a data matrix are partitioned into
+positions.
+American Journal of Sociology
+
+The theoretical content of a blockmodel hypothesis, then, is a trans-
+formation of individual claims into a statement of social bonds (i.e., ties
+within and among positions). Reflexivity (the existence of “self-choices”
+or unity entries on the diagonal of a matrix) now emerges as a major
+substantive question about each position, rather than (as in sociometry)
+a mere technicality of presentation for a claims matrix. We argue (and
+further elaborate in Part II) that a bond has truly social content—is
+“received” by the target position as well as “sent” by the row position—
+whether or not there is a reciprocal bond on that toft from the target to
+the sender position.
+
+Not only have we left open the actual semantic content of the claims
+on a toft; we have also not specified the general nature of tofts. One or
+more of the tofts might refer to rights, another to duties, another to con-
+tracts, another to evaluations, and so on through the long list of general
+natures proposed in various analyses of roles (once again, legal applica-
+tions are obvious). It seems to us worthwhile to define position and role
+within as abstract and flexible a cultural framework as possible, so that
+the cultural content of the social structure becomes a question for empirical
+research rather than a matter of definition. Sustained analysis of social
+structure, we reiterate, requires keeping the two sides of the analysis as
+distinct as possible.
+
+Our next definition is abstract in cultural terms but specific to the
+population and its positions in the blockmodel:
+
+(7) role set—a pair of vectors for all blockmodel images: one the
+ordered set of rows for that position, the other the columns for that po-
+sition.34
+
+Thus a role set is simply a statement of bonds sent and bonds received,
+by a position, on all the tofts. Observe that a position’s bond (or lack of
+one) to itself on each toft is part of its role set. There is no need to report
+the role set for each position as a pair of vectors because the set of images
+for the blockmodel is a complete inventory of the role sets for all positions.
+Where the first toft has connotations of deference, and the second of
+domination, one interprets the first position as the superior of the second.
+Or, one could begin with no knowledge of the imputed quality of the tofts
+but with attribute data for the individual members: for example, the fact
+that members of the second position shared higher standing in various
+other contexts and populations. Then one would infer that the second
+toft had the quality of deference and the first connoted domination.
+
+As we have seen in the case studies, one must usually work with a wide
+variety of clues as to possible standings of positions and qualities of tofts.
+As more case studies are analyzed, we can hope that regularities will
+emerge, clarifying what sort of array is to be found in what context.
+“Context” must include what tofts one can and does elicit as data.
+
+An array can take many forms, as the case studies show. The linear
+hierarchy or partial order is only one class of possibilities, though an
+important one. The array may indicate hierarchy though all bonds are
+reciprocated: see, for example, the Bank Wiring Room blockmodel on
+like and antagonism, which is a refinement of an E,F blockmodel, not a
+V,W one. And the hierarchical array suggested for Newcomb’s fraternity
+is a refinement of a blockmodel with both symmetric and asymmetric
+bonds, namely, V,F.
+American Journal of Sociology
+
+Classic balance theory suggests the P,N array as the concrete social
+structure seen by an observer. Here there is no question of hierarchy;
+instead, we have the familiar idea of rigid polarization into two opposing
+parties.
+
+If one finds the blockmodel C,D on a pair of tofts, it suggests that there
+is no array (no overall social structure on that population); the population
+falls into two unrelated cliques, each of which responds only on its “own”
+toft. On the other hand, the blockmodel X,Y suggests a highly integrated
+structure; for example, let X mean “seeks as husbands” and Y mean “seeks
+as wife,” and partition the population by sex.
+
+There are 57 distinct pairs of images on two positions; but we do not
+speculate about the significance of each one. The case studies illustrate
+how the investigator is usually led toward discriminating more than two
+positions in his blockmodel hypothesis. Taxonomies of multiposition block-
+models,?* and taxonomies of tofts, must be evolved as the empirical base
+is widened; in addition, careful attention must be given to the many rele-
+vant conceptual analyses in the literature.87 Some developments along
+these lines will be a byproduct of Part II.
+structures, a more complex level of overall integration that need not
+accompany regularities of the concrete sort described here.
+
+The approaches we have described are applicable to open network
+populations (e.g., a contact network composed of biomedical researchers)
+as well as to the small, closed groups that are the traditional preserve of
+sociometric investigators. Blockmodel applications to a third class of popu-
+lations—those comprising groups as varied as informal associations and
+corporate boards of directors—are reported elsewhere (Breiger et al.
+1975) .38 This broad applicability results from the ability of blockmodels to
+address the problematic issue of locating the boundaries of social interac-
+tion. In our view, large, loosely bounded, “open” populations are particu-
+larly interesting subjects for blockmodeling. We suggested that our sample
+of 28 scientists (from Griffith’s 107 respondents) reflected the structural
+pattern evident in the larger population. This claim deserves serious
+scrutiny: if it is upheld in future work, network analysis can be generalized
+to the study of populations far larger than those studied by earlier network
+techniques.
+
+Even if evolutionary or discontinuous changes of structure can be identi-
+fied and congruence with. personal and cultural perceptions established,
+models of structure are not sufficient unto themselves. Eventually one
+must be able to show how concrete social processes and individual manipu-
+lations shape and are shaped by structure. A natural next step, then, is to
+identify how flows of information and other transactions relate to images
+and their change. One fundamental problem here is that many social
+settings may admit not just a single equilibrium outcome, but multiple
+alternative equilibria, with which particular equilibrium is reached depend-
+ing in part on accidents of early interaction (compare the earlier comments
+on the Newcomb fraternity data; compare also Simon’s [1957] model of
+Homans’s theory of small groups). In turn, the interesting questions may
+bear on what external forces may cause a social structure to pass from
+one equilibrium configuration to another. A number of quite distinct tradi-
+tions of model building seem to be converging on this same set of problems,
+including Schelling’s work on “tipping” phenomena (1971) as well as
+models of the genetic evolution of social behavior (Boorman and Levitt
+1973; Boorman 1974).
+
+There is an important limitation in the viewpoint urged thus far. As we
+stated in the very first paragraph, connectivity properties in networks
+receive only tangential attention. The contrast between weak and strong
+ties should be a major factor in connectivity analyses for large populations
+(Rapoport and Horvath 1961; Granovetter 1973; Boorman 1975). Block-
+models as developed thus far deal chiefly with strong ties, whether in
+open-network populations or in small enclaves. It may be harder to find
+nontrivial blockmodels for weak ties (e.g., sociometric choices in casual or
+temporary groups such as those used in social psychological experiments) 3°
+
+Connectivity has also been a major concern in sociometric studies of
+closed populations. Overlaps among cliques often have been used (e.g.,
+Coleman 1961; Young and Larson 1965) to indicate structure (although
+there is no agreed-upon or powerful way to model overlaps). Blockmodels
+impose a partition of a population into disjoint blocks or positions (except
+for floaters—see Appendix A). Clique overlap is captured only by the
+device of cross-cutting partitions (as in the Bank Wiring Room). We focus
+instead on modeling overlaps between independent networks and on ag-
+gregating multiple networks while retaining their network character (the
+incidence of “holes” as zeroblocks). The practical tradeoff is between
+developing statistical measures of clique overlap (e.g., Alba 1973) on the
+one hand, and on the other hand interpreting aggregate patterns across
+multiple networks. New techniques may provide new vistas. Of particular
+promise is a new nonhierarchical clustering model now in the process of
+development by Arabie and Shepard (Arabie and Shepard 1973; Shepard
+1974). The idea underlying this model is one of allowing arbitrarily given
+proximity data to define their own lattice of overlapping clusters in a
+natural and unconstrained way.
+
+Finally, we need to enlarge the base of case studies. We particularly
+need data from which we can learn how new recruits to a population
+merge with, or change, the structure reflected in a blockmodel. In the
+terminology introduced earlier, when will a new recruit become a “crystal-
+lizer,” and when a “floater”? When will his initial ties of various types
+relegate him to a block that is marginal to the structure? Is the Z pattern,
+on specified tofts, the normal context for indoctrination or socialization
+into an open network population? Is the V,F array (on positive- and
+negative-affect ties, respectively) characteristic of clustering and deference
+within stable small, closed groups? Only with a broader empirical base
+can general regularities be sought.
+APPENDIX A
+Floaters and Crystallizers
+
+In each case study reported in this paper, BLOCKER yields a unique assign-
+ment of men to blocks, subject to two limitations. First, an assignment is
+termed unique even though one or more men can each be in two or more
+blocks, for the given unique assignment of the rest of the population; how-
+ever, these “floaters” must be specified. The extreme example is a man
+with no ties of any type, who can therefore be in any block simply because
+he is irrelevant; it would be misleading to create a different overall assign-
+ment for each of his possible locations. Second, the minimum number of
+men any block can contain must be specified; otherwise, for example, a
+vacuous solution with no men in some block would have to be counted.
+The acronym for this parameter, MIN, is used hereafter to designate the
+minimum block size thought appropriate for a given population and
+blockmodel. For convenience, the two specifications are reported together
+here for each case study:
+where the top row is the left set of reasons, etc. The wiremen in the back
+clique usually cited reasons from the second set; the wiremen from the
+front, almost never. These reasons, 7, 8, 9, 11, associated with the wiremen
+W6, W7, W8, W9, include “Waiting for Solderman” and “Waiting for
+Inspector,” but not “Waiting for Trucker.” Roethlisberger and Dickson
+(1939) noted that the “waiting” class of reasons is highly subjective and
+“includes reasons which placed the biame for delays upon people instead
+of upon things” (p. 431). This maximal taking advantage of discretion,
+coupled with resentment at equals and superiors (soldermen and inspec-
+tors, not truckers), fits in with the tendency to fight over windows within
+the back clique (see fig. 5) and conforms with R-D’s finding that the
+back clique “resented any show of superiority more than the others did
+because they were in the most subordinate position” (p. 523). Reason 9
+is somewhat a technicality, as wireman W9 was assigned to making repairs
+(p. 432). Reason 11 is not discussed in the source (see p. 432).
+
+If the back clique’s reasons tended to fall into an imputed “resent-
+ment” category, the front clique’s reasons indicated “playing the game”
+or perhaps a “craftsman’s ethic.” In roughly one-fifth of all instances of
+time allowances for the front clique, its members gave no reason at all,
+while the comparable figure for the back clique was 8%. Mostly, the rea-
+sons of the front clique are objective, as R-D define that term (e.g., cable
+reversals were detected by inspectors’ tests). However, they label ‘“defec-
+tive wire” and “defective solder” as subjective reasons. It may be argued
+that these reasons are different from those in the “waiting” class (reasons
+6, 7, 8) in that they represent a “professional” judgment.
+Arabie, P., and R. N. Shepard. 1973. “Representation of Similarities as Additive
+Combinations of Discrete, Overlapping Properties.” Paper read at Mathematical
+Psychology Meetings, Montreal, August 1973.
+
+Barnes, J. A. 1972. “Social Networks.” Addison-Wesley Module Publications 26.
+Reading, Mass.: Addison-Wesley.
+
+Bjerstedt, A. 1956. Interpretations of Sociometric Choice Status. Lund: Gleerup.
+
+Boissevain, J. 1973. Preface to Network Analysis: Studies in Human Interaction, edited
+by J. Boissevain and J. C. Mitchell. The Hague: Mouton.
+
+Bonacich, P. 1972. “Techniques for Analyzing Overlapping Memberships.” Pp. 176-85 in
+Sociological Methodology 1972, edited by Herbert L. Costner. San Francisco:
+Jossey-Bass.
+
+Boorman, S. A. 1974. “Island Models for Takeover by a Social Trait Facing a
+Frequency-dependent Selection Barrier in a Mendelian Population.” Proceedings of
+the National Academy of Sciences, USA 71 (11): 2103-7.
+
+. 1975. “A Combinatorial Optimization Model for Transmission of Job In-
+formation through Contact Networks.” Bell Journal of Economics 6 (Spring):
+216-49.
+
+Boorman, S. A., and P. R. Levitt. 1973. “A Frequency-dependent Natural Selection
+Model for the Evolution of Social Cooperation Networks.” Proceedings of the
+National Academy of Sciences, USA 70 (1): 187-89.
+
+Boorman, S. A., and H. C. White. 1976. “Social Structure from Multiple Networks.
+II. Role Structures.” American Journal of Sociology, in press.
+
+Breiger, R. L. 1974a. “Blockmodel Analysis of Elite Structures.” Paper presented at
+the M.S.S.B. Conference on Elites, Harvard University, October 1974.
+
+. 1974b. “The Duality of Persons and Groups.” Social Forces 53 (December):
+
+181-90.
+
+. 1976. “Career Attributes and Network Structure: A Blockmodel Study of a
+Biomedical Research Specialty.” American Sociological Review, vol. 41 (February),
+in press.
+
+Breiger, R. L., S. A. Boorman, and P. Arabie. 1975. “An Algorithm for Clustering
+Relational Data with Applications to Social Network Analysis and Comparison with
+Multidimensional Scaling.” Journal of Mathematical Psychology 12 (August):
+328-83.
+
+Catton, W. R., Jr. 1964. “The Development of Sociological Thought.” Pp. 912-50 in
+Handbook of Modern Sociology, edited by Robert E. L. Faris. Chicago: Rand
+McNally.
+
+Cohen, M. D., and J. G. March. 1974. Leadership and Ambiguity: The American
+College President. New York: McGraw-Hill.
+
+Coleman, J. S. 1958. “Relational Analysis: The Study of Social Organizations with
+Survey Methods.” Human Organization 17 (Winter): 28-36.
+
+. 1961. The Adolescent Society. New York: Free Press.
+
+. 1964. Introduction to Mathematical Sociology. New York: Free Press.
+
+Davis, J. A. 1970, “Clustering and Hierarchy in Interpersonal Relations: Testing Two
+Graph Theoretical Models on 742 Sociograms.” American Sociological Review 35
+(October): 843-52.
+
+Ekeh, P. 1974. Social Exchange Theory. Cambridge, Mass.: Harvard University Press.
+
+Flament, C. 1963. Applications of Graph Theory to Group Structure. Englewood
+Cliffs, N.J.: Prentice-Hall.
+
+Ford, E. B. 1955. “Rapid Evolution and the Conditions Which Make It Possible.”
+Cold Spring Harbor Symposia on Quantitative Biology 20: 230-38.
+
+Ford, L. R., Jr., and D. R. Fulkerson. 1962. Flows in Networks. Princeton, N.J.:
+Princeton University Press.
+
+Fortes, M. 1945. The Dynamics of Clanship among the Tallensi. Oxford: Oxford
+University Press.
+
+Friedell, M. F. 1967. “Organizations as Semilattices.” American Sociological Review
+32 (February): 46-54,
+
+Glanzer, M., and R. Glaser. 1959. “Techniques for the Study of Group Structure and
+Behavior: I. Analysis of Structure.” Psychological Bulletin 56 (September): 317-32.
+
+. 1961. “Techniques for the Study of Group Structure and Behavior: II. Em-
+pirical Studies of the Effects of Structure in Small Groups.” Psychological Bulletin
+58 (January): 1-27.
+
+Granovetter, M. S. 1973. “The Strength of Weak Ties.” American Journal of Sociology
+68 (May): 1360-80.
+
+. 1974. Getting a Job: A Study of Contacts and Careers. Cambridge, Mass.:
+Harvard University Press.
+
+Green, H. A. J. 1964. Aggregation in Economic Analysis. Princeton, N.J.: Princeton
+University Press.
+
+Griffith, B. C., V. L. Maier, and A. J. Miller. 1973. “Describing Communication
+Networks through the Use of Matrix-based Measures.” Mimeographed. Philadelphia:
+Drexel University, Graduate School of Library Science.
+
+Groeneveld, L. P. 1974. “Bureaucracy and the Organization of Science: A Structural
+Analysis of the National Science Foundation.” Ph.D. dissertation, Department of
+Sociology, University of Indiana.
+
+Gross, N., W. S. Mason, and A. W. McEachern. 1958, Explorations in Role Analysis.
+New York: Wiley.
+
+Harary, F., R. Norman, and D. Cartwright. 1965. Structural Models: An Introduction
+to the Theory of Directed Graphs. New York: Wiley.
+
+Heil, G. H., and H. C. White. 1974. “An Algorithm for Constructing Homomorphisms
+of Multiple Graphs.” Unpublished paper, Department of Sociology, Harvard Uni-
+versity.
+
+Hilton, P. J., and S. Wylie. 1960. Homology Theory: An Introduction to Algebraic
+Topology. New York: Cambridge University Press.
+
+Holland, P. W., and S. Leinhardt. 1973. “The Structural Implications of Measurement
+Error in Sociometry.” Journal of Mathematical Sociology 3 (January): 1-27.
+
+. 1976. “Local Structure in Social Networks.” In Sociological Methodology 1976,
+edited by David R. Heise. San Francisco: Jossey-Bass, in press.
+
+Homans, G. C. 1950. The Human Group. New York: Harcourt, Brace & World.
+
+Hunter, J. E., and R. L, Shotland. 1974, “Treating Data Collected by the ‘Small World’
+Method as a Markov Process.” Social Forces 52 (March): 321-32.
+
+Jencks, C., et al. 1972. Inequality: A Reassessment of the Effect of Family and
+Schooling in America. New York: Harper & Row.
+
+Kapferer, B. 1972. Strategy and Transaction in an African Factory. Manchester:
+Manchester University Press.
+
+Kruskal, J. B. 1964a. “Multidimensional Scaling by Optimizing Goodness of Fit to a
+Nonmetric Hypothesis.” Psychometrika 29 (March): 1-28.
+
+. 1964b. “Nonmetric Multidimensional Scaling: A Numerical Method.” Psy-
+chometrika 29 (June): 115-59.
+
+Larsen, O. N., and W. R. Catton, Jr. 1962. Concept and Sociology. New York: Harper
+& Row.
+
+Laumann, E. O., and F. U. Pappi. 1973. “New Directions in the Study of Community
+Elites.” American Sociological Review 38 (April): 212-30.
+
+Lee, N. Howell. 1969. The Search for an Abortionist. Chicago: University of Chicago
+Press.
+
+Leijonhufvud, A. 1968. On Keynesian Economics and the Economics of Keynes: A
+Study in Monetary Theory. London: Oxford University Press.
+
+Levine, J. H. 1972. “The Sphere of Influence.” American Sociological Review 37
+(February): 14-27.
+
+Levins, R. 1968. Evolution in Changing Environments. Princeton, N.J.: Princeton
+University Press.
+
+Lorrain, F. P., and H. C. White. 1971. “Structural Equivalence of Individuals in
+Social Networks.” Journal of Mathematical Sociology 1 (January): 49-80.
+
+McFarland, D. D., and D. J. Brown. 1973. “Social Distance as a Metric: A Systematic
+Introduction to Smallest Space Analysis.” Pp. 213-53 in Bonds of Pluralism: The
+Form and Substance of Urban Social Networks, edited by Edward O. Laumann.
+New York: Wiley.
+
+McQuitty, L. L., and J. A. Clark. 1968. “Clusters from Iterative Intercolumnar Cor-
+relational Analysis.” Educational and Psychological Measurement 28 (Summer):
+211-38.
+
+MacRae, D. 1960. “Direct Factor Analysis of Sociometric Data.” Sociometry 23
+(December): 360-71.
+
+Marschak, J., and R. Radner. 1972. Economic Theory of Teams. New Haven, Conn.:
+Yale University Press.
+
+Mayer, A. C. 1960. Caste and Kinship in Central India: A Village and Its Region.
+Berkeley: University of California Press.
+
+Mayr, E. 1963. Animal Species and Evolution. Cambridge, Mass.: Harvard University
+Press.
+
+Menzel, H. 1962. “Planned and Unplanned Scientific Communication.” Pp. 417-41 in
+The Sociology of Science, edited by Bernard Barber and Walter Hirsch. New York:
+Free Press.
+
+Merton, R. K. 1959. Social Theory and Social Structure. 2d ed. Glencoe, Ill.: Free Press.
+
+Milgram, S. 1967. “The Small World Problem.” Psychology Today 1 (May): 61-67.
+
+Mitchell, J. C., ed. 1969. Social Networks and Urban Situations. Manchester: Man-
+chester University Press, for Institute of Social Research, Zambia.
+
+Mullins, N. C. 1972. “The Structure of an Elite: The Public Advisory Structure of
+the Public Health Service.” Science Studies 2 (January): 3-29.
+
+Nadel, S. F. 1957. The Theory of Social Structure. London: Cohen & West.
+
+Newcomb, T. M. 1961. The Acquaintance Process. New York: Holt, Rinehart &
+Winston.
+
+Nordlie, P. G. 1958. “A Longitudinal Study of Interpersonal Attraction in a Natural
+Group Setting.” Ph.D. dissertation, University of Michigan.
+
+Pool, I. de S., and M. Kochen. 1958. Unpublished manuscript on contact networks.
+Cambridge: Massachusetts Institute of Technology.
+
+Rapoport, A. 1963. “Mathematical Models of Social Interaction.” Pp. 493-579 in
+Handbook of Mathematical Psychology, Vol. II, edited by R. D. Luce, R. R. Bush,
+and E. Galanter. New York: Wiley.
+
+Rapoport, A., and J. W. Horvath. 1961. “A Study of a Large Sociogram.” Behavioral
+Science 6 (October): 280-85.
+
+Roethlisberger, F. J., and W. J. Dickson. 1939. Management and the Worker. Cam-
+bridge, Mass.: Harvard University Press.
+
+Sampson, S. F. 1969. “Crisis in a Cloister.” Ph.D. dissertation, Cornell University.
+
+Savage, I. R., and K. A. Deutsch. 1960. “A Statistical Model of the Gross Analysis of
+Transaction Flows.” Econometrica 28 (July): 551-72.
+
+Sayles, L. R. 1958. Behavior of Industrial Work Groups. New York: Wiley.
+
+Schaller, G. B. 1972. The Serengeti Lion. Chicago: University of Chicago Press.
+
+Schelling, T. C. 1960. The Strategy of Conflict. Cambridge, Mass.: Harvard University
+Press.
+
+. 1971. “Dynamic Models of Segregation.” Journal of Mathematical Sociology
+1 (July): 143-86.
+
+Schwartz, J. E. 1974. “An Examination of Iterative Blocking Algorithms for
+Sociometry.” Unpublished paper, Department of Sociology, Harvard University.
+
+Shepard, R. N. 1962. “The Analysis of Proximities: Multidimensional Scaling with an
+Unknown Distance Function.” Psychometrika 27 (1): 125-40; 27 (2): 219-46.
+
+. 1974, “Representation of Structure in Similarity Data: Problems and Pros-
+pects.” Psychometrika 39 (December): 373-421.
+
+Simmel, G. 1950. The Sociology of Georg Simmel. Translated and edited by Kurt H.
+Wolff. New York: Free Press.
+
+. 1955. Conflict and the Web of Group-A ffiliations. Translated by Kurt H.
+Wolff and Reinhardt Bendix. New York: Free Press.
+
+Simon, H. A. 1957. Models of Man. New York: Wiley.
+American Journal of Sociology
+
+Struhsaker, T. T. 1967. “Social Structure among Vervet Monkeys (Cercopithecus
+aethiops).” Behaviour 29 (1): 83-121.
+
+Suppes, P. 1960. Axiomatic Set Theory. New York: Van Nostrand,
+
+Szasz, G. 1963. Introduction to Lattice Theory. New York: Academic Press.
+
+White, H. C. 1960. “Management Conflict over Research and Development: A Case
+Study.” Ph.D. dissertation, Department of Sociology, Princeton University.
+
+. 1961. “Management Conflict and Sociometric Structure.” American Journal of
+
+Sociology 67 (September): 185-99.
+
+. 1963. An Anatomy of Kinship. Englewood Cliffs, N.J.: Prentice-Hall.
+
+. 1970a. Chains of Opportunity. Cambridge, Mass.: Harvard University Press.
+
+. 1970b. “Search Parameters for the Small World Problem.” Social Forces 49
+
+(December): 259-64.
+
+1973. “Everyday Life in Stochastic Networks.” Sociological Inquiry 43
+
+(Spring): 43-49.
+
+. 1974a. “Models for Interrelated Roles from Multiple Networks in Small
+
+Populations.” Pp, 52-102 in Proceedings of the Conference on the Application of
+
+Undergraduate Mathematics in the Engineering, Life, Managerial and Social Sciences,
+
+edited by P. J. Knopp and G. H. Meyer. Atlanta: Georgia Institute of Technology.
+
+. 19746, “Null Probabilities for Blockmodels of Social Networks.” Unpublished
+paper, Department of Sociology, Harvard University.
+
+Wiese, L. von. 1941. Sociology. Edited and annotated by F. H. Mueller. New York:
+Oskar Priest.
+
+Williamson, O. E. 1970. Corporate Control and Business Behavior. Englewood Cliffs,
+N.J.: Prentice-Hall.
+
+Wilson, E. O. 1971. The Insect Societies. Cambridge, Mass.: Harvard University Press.
+
+Young, R. C., and O. F. Larson. 1965. “A New Approach to Community Structure.”
+American Sociological Review 30 (December): 926-34.
+
+Zelditch, M., Jr. 1968. “Status, Social.” International Encyclopedia of the Social
+Sciences 13:250-56.
+
+Znaniecki, F. 1940. The Social Role of the Man of Knowledge. New York: Columbia
+University Press.

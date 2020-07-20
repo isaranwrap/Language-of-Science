@@ -1,0 +1,374 @@
+@SAGE As)A
+http://www.jstor.org/stable/2089339?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+URING the past decade many changes
+
+of law and administrative policy have
+
+favored desegregation of ethnic min-
+orities. A challenging question for the social
+scientist is the determination of the degree
+to which policy changes are followed by
+changes in actual practice. To meet this
+challenge three actions are necessary: (1)
+the development of adequate operational
+definitions of the term segregation, including
+specification of the kind of segregation being
+considered, (2) the invention of valid and
+sensitive measures of segregation, and (3)
+the application of such measurements
+through time to reflect changes of practice
+coincident with or consequent upon such
+changes in policy.
+
+With regard to segregation by residence
+the first two steps have been taken. During
+the past decade, a number of different seg-
+regation indexes have been developed and
+applied to American cities.1 It should now
+
+1 For illustrations of the various indexes which
+have been proposed see Wendell Bell, “A Proba-
+be possible to take the third step and by
+application of one or more of these indexes
+at different points in time, determine inter-
+vening changes of segregation patterns.
+
+ 
+
+bility Model for the Measurement of Ecological
+Segregation,” Social Forces, 32 (May, 1954), pp.
+357-364; Donald O. Cowgill and Mary S. Cowgill,
+“An Index of Segregation Based on Block Statistics,”
+American Sociological Review, 16 (December, 1951),
+pp. 825-831; Julius Jahn, Calvin F. Schmid, and
+Clarence Schrag, “The Measurement of Ecological
+Segregation,” American Sociological Review, 12
+(June, 1947), pp. 293-303; Julius A. Jahn, “The
+Measurement of Ecological Segregation: Derivation
+of an Index Based on the Criterion of Reproduci-
+bility,” American Sociological Review, 15 (Feb-
+ruary, 1950), pp. 100-104; Eshref Shevky and
+Marilyn Williams, The Social Areas of Los Angeles,
+Berkeley and Los Angeles: University of California
+Press, 1949, pp. 47-57; and Eshref Shevky and
+Wendell Bell, Social Area Analysis, Stanford: Stan-
+ford University Press, 1955, pp. 24-25, and 43-53.
+For critical evaluations see Otis Dudley Duncan
+and Beverly Duncan, “A Methodological Analysis
+of Segregation Indexes,” American Sociological Re-
+view, 20 (April, 1955), pp. 210-217; Richard Horn-
+seth, “A Note on ‘The Measurement of Ecological
+Segregation’ by Julius Jahn, Calvin F. Schmid,
+As the developer of one of the afore-
+mentioned indexes, the writer proposes in
+this paper to compare the degree of segrega-
+tion as measured by that index in 1950 with
+previously reported patterns for 1940. This
+index has two advantages over any of the
+others yet developed: (1) It is designed
+to be used on the basis of blocks as the areal
+units and thus measures segregation more
+delicately than the others, all of which use
+census tracts as the areal units. (2) Block
+statistics are available for many more cities
+than are included in the group for which
+census tract data are available. From the
+1950 census, block data were published for
+209 cities, whereas the census tract series
+included only 62 cities.
+
+For the benefit of the reader who is un-
+familiar with this index, it may be stated
+briefly that the index is a ratio between the
+number of blocks with no nonwhites and
+the total number of blocks which would
+contain no nonwhite households if the non-
+whites were completely segregated and living
+in the minimum possible number of blocks?
+The possible range of the index is from .000
+to 1.000, with .000 indicating a complete lack
+of segregation and 1.000 representing com-
+plete segregation.
+
+Table 1 shows the indexes for 50 selected
+cities for 1950 and for 1940 as well as the
+degree of increase or decrease which took
+place during the decade.
+The general pattern of segregation in
+1950 remained very similar to what it was
+in 1940. Of the 185 cities included in both
+series, Miami remained the highest. How-
+ever, another Florida city, St. Petersburg,
+added to the series in 1950, surpassed the
+Miami score by a slight margin, .972 as
+compared with .969, and Orlando was only
+slightly lower with .962.
+
+Again, as in 1940, many of the cities of
+the Great Lakes area and cities along the
+Mason-Dixon line ranked relatively high.
+
+At the low end of the scale were some
+suburban municipalities? such as Oak Park,
+Tll., which had an index of .000. Other
+cities at the low end of the scale included
+many New England cities and several on
+the West Coast.
+
+With the low index in Oak Park, the range
+of indices for the 209 cities in 1950 was
+from .000 to .972 for St. Petersburg, or only
+slightly less than the complete range of
+possibility.
+
+The degree of similarity between the seg-
+regation scores in 1940 and 1950 is indicated
+by Figure 1.
+
+It is readily evident that the cases cluster
+close to the diagonal line, denoting a high
+positive correlation between the two years.
+The product moment correlation coefficient
+was actually +-.887.
+
+Obviously had all scores remained exactly
+the same, all data would have fallen on the
+diagonal line. The scatter away from this
+line then is indicative of the degree of change
+and the direction of the change.
+TABLE 1. SEGREGATION ScoRES OF Firry SELECTED AMERICAN CITIEs, 1940 AND 1950*
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Segregation Rank Segregation Rank Change
+Score 1940 Score 1950 in Score
+City 1940 (187 Cities) 1950 (209 Cities) 1940 to 1950
+Baltimore, Md. 847 45 -910 18 + .063
+Boston, Mass. 853 36 -836 93 —.017
+Buffalo, N. Y. +851 39 -851 76 -000
+Chicago, I. +893 13 -880 42 —.013
+Cicero, In. -200 184 231 204 +.031
+Cincinnati, O. .861 27 .837 90 —.024
+Cleveland, O. 874 20 +855 72 —.019
+Cleveland Heights, O. -309 182 -481 196 +.172
+Dearborn, Mich, 586 158 -500 195 — .086
+Detroit, Mich. -861 28 -838 89 —.023
+Duluth, Minn. 419 177 392 200 —.027
+East St. Louis, Ill. +918 5 +922 10 +.004
+Evansville, Ind. 856 32 929 6 +.073
+Fall River, Mass. 379 177 274 203 —.105
+Flint, Mich. +924 3 +954 4 +.030
+Fort Wayne, Ind. 845 46 +918 12 +.073
+Gary, Ind. -867 26 +933 5 + .066
+Glendale, Calif. 2331 181 +409 198 +.078
+Grand Rapids, Mich. «782 91 914 15 +.132
+Hamilton, O. -900 10 914 16 +.014
+Harrisburg, Pa. -870 24 898 23 +.028
+Houston, Tex. «716 126 815 110 +.099
+Irvington, N. J. +333 180 +333 202 -000
+Jacksonville, Fla. -894 12 -905 20 +.011
+Lakewood, O. 425 176 +056 207 —.369
+Lawrence, Mass. -603 153 .514 194 —.089
+Los Angeles, Calif. -821 61 798 121 —.023
+Lowell, Mass. 345 - 179 -409 199 +.064
+Madison, Wis. 689 132 527 193 —.162
+Miami, Fla. +974 1 -969 2 —.005
+Milwaukee, Wis. 913 7 +927 7 +.014
+Minneapolis, Minn. -781 92 789 130 + .008
+New Orleans, La. +738 116 746 153 +.008
+New York City, N. Y. -798 81 794 122 —.004
+Oak Park, Ill. 179 186 -000 209 —.179
+Omaha, Neb. +888 14 +909 19 +.021
+Philadelphia, Pa. +813 67 -821 103 +.008
+Pittsburgh, Pa. 789 88 -809 115 +.020
+Pontiac, Mich. -921 4 -919 11 —.002
+Portland, Me. +426 175 +355 201 —.071
+Quincy, Mass. «188 185 -100 205 — .088
+Roanoke, Va. +916 6 927 8 +.011
+Saginaw, Mich. 733 120 +912 17 +.179
+St. Louis, Mo. +813 68 857 68 +.044
+San Francisco, Calif. 816 64 -693 174 —.123
+San Jose, Calif. 544 165 548 191 + .004
+Union City, N. J. -105 187 -100 206 —.005
+Washington, D. C. 624 150 -540 192 —.084
+Wheeling, W. Va. +853 37 -899 22 + .046
+Wichita, Kans, -906 8 .915 14 +.009
+Composite Index
+(185 cities) -830 -863 +.033
+
+ 
+
+ 
+
+* Printing costs prohibit reproduction of scores for all cities included in the study. The Cities included
+here are: the eighteen cities with populations of 500,000 or more in 1950, the sixteen highest ranking cities
+in 1950 for which scores were available in both years, and the sixteen lowest ranking cities in 1950 for which
+scores were available in both years. The complete table may be secured from the author upon request.
+re, Md. .847 45 .910 18
+
+Mass, +853 36 -836 93
+N.Y. 851 39 -851 76
+, I. +893 13 -880 42
+ne -200 184 231 204
+ati, O. 861 27 837 90
+d, O. +874 20 855 72
+d Heights, O. -309 182 481 196
+n, Mich. 586 158 -500 195
+Mich. +861 28 -838 89
+Minn. +419 177 +392 200
+Louis, Ill. +918 5 -922 10
+lle, Ind. 856 32 -929 6
+er, Mass. 379 177 274 203
+ich. +924 3 +954 4
+yne, Ind. 845 46 +918 12
+d. -867 26 +933 5
+>, Calif. 331 181 -409 198
+apids, Mich. - 782 91 «914 15
+n, O. +900 10 +914 16
+irg, Pa. -870 24 898 23
+1, Tex. «716 126 815 110
+n,N.J. +333 180 +333 202
+ville, Fla. +894 12 +905 20
+od, O. 425 176 .056 207
+e, Mass. -603 153 .514 194
+eles, Calif. 821 61 798 121
+Mass. 345 » 179 +409 199
+1, Wis. 689 132 527 193
+Fla. +974 1 -969 2
+cee, Wis. 913 7 +927 7
+olis, Minn. 781 92 789 130
+leans, La, +738 116 - 746 153
+rk City, N. Y. .798 81 .794 122
+k, Ill. 179 186 -000 209
+Neb. +888 14 +909 19
+phia, Pa. +813 67 -821 103
+gh, Pa. 789 88 -809 115
+Mich. +921 4 +919 11
+l, Me. +426 175 +355 201
+Mass. - 188 185 -100 205
+e, Va. +916 6 +927 8
+, Mich. .733 120 .912 17
+s, Mo. +813 68 857 68
+ncisco, Calif. -816 64 -693 174
+>, Calif. 544 165 548 191
+ity, N. J. +105 187 -100 206
+ton, D.C. +624 150 -540 192
+g, W. Va. +853 37 -899 22
+
+Kans, -906 8 915 14
+
+ 
+
+ 
+
+I+. +4
+
+P+tti i) b++4 1)
+
+t | [4
+1950
+Index
+
+ 
+
+1.0
+
+ 
+
+ 
+
+ 
+
+1+
+5
+1940 Index
+
+ 
+
+1.0
+
+mont.
+
+In general, the cities showing such marked
+rises in segregation scores appeared to be
+those which fell in the middle ranges of the
+index in 1940, i.e., those which had only a
+moderate degree of segregation in the earlier
+year. The range of the 1940 scores for these
+20 cities was from .309 to .782.
+
+No city in the deep south changed as
+much as .100 in either direction.
+
+Only 7 cities had decreases of .100 or
+more. Lakewood, O. showed the greatest
+drop, —.369. Several other suburban munici-
+palities with relatively small numbers of
+nonwhites also had marked decreases. Such
+changes probably signify no trend, but reflect
+simply the instability of an index based on
+small numbers. This is not an admission that
+the index is invalid. On the contrary, the
+index is a true and valid measure of the
+segregation at the time of the census, re-
+gardless of size of city and numbers of
+nonwhites involved. However, if there are
+few nonwhite households, the index must be
+expected to fluctuate more widely through
+time, since the movement of a few families
+will produce marked changes in the index.
+
+However, two independent cities, Madi-
+son, Wis. and San Francisco, Calif., also
+showed marked decreases. In the case of
+San Francisco this is especially significant
+in view of the fact that the adjoining cities
+of Berkeley and Oakland had similar drops
+in segregation scores. Apparently the San
+Francisco area moved in a counter-direction
+to the more prevalent tendency on the west
+coast toward a tighter segregation pattern.
+It would be interesting to analyze the parti-
+cular factors behind these opposing tenden-
+cies. One might suspect that the movement
+of Negroes to western cities during the dec-
+ade would tend toward more marked segre-
+gation, hence higher segregation scores. On
+the other hand, since this index pertains to
+all non-whites, including Mongoloids, it is
+possible that the dispersion of Japanese with
+internment during World War II had perma-
+nent effects which tended to reduce the
+segregation scores in cities with heavy con-
+centrations of Oriental population. This may
+be the explanation of the sharp reduction
+of segregation in the San Francisco area.
+However, further study of the specific situa-
+tion will be required to test the accuracy
+of this hypothesis.
+
+Perhaps the only consolation to be drawn
+from this analysis by the proponents of
+desegregation is the fact that the nation’s
+capital was among those cities experiencing a
+considerable reduction in the degree of segre-
+gation. In Washington, the score fell from
+-624 in 1940 to .540 in 1950, a drop of .084.
+
+The cities which decreased more than
+.050 manifested a wide variation in the
+initial degree of segregation in 1940. The
+range was from .188 to .850. Apparently the
+degree of initial segregation did not deter-
+mine which cities decreased.

@@ -1,0 +1,1434 @@
+The Economics of Movement Success: Business Responses to Civil Rights Mobilization
+Author(s): Joseph Luders
+
+Source: American Journal of Sociology, Vol. 111, No. 4 (January 2006), pp. 963-998
+Published by: The University of Chicago Press
+
+Stable URL: http://www.jstor.org/stable/10.1086/498632
+
+Accessed: 08-06-2016 04:40 UTC
+This article explores why movements are successful in obtaining
+concessions from economic actors. While social movement theorists
+have suggested that economic actors weigh the costliness of protests,
+the author considers the vulnerability of movement targets to both
+the cost of disruptions in routine transactions and the cost of con-
+ceding to movement demands. By addressing the magnitude of these
+costs and their interaction, the author derives an economic oppor-
+tunity structure to predict the receptivity of economic actors to
+movement demands and the likely struggles among them over the
+decision to yield. Also, this cost-assessment approach reveals pat-
+terns of vulnerability across economic sectors to the costs of dis-
+ruptive mobilization. The author tests this analysis based on case
+studies of the responses of economic actors to civil rights mobili-
+zation in the 1960s in five Southern localities. These cases depict
+how the character of protest and variation in the configuration of
+business communities defined the range of movement outcomes from
+relatively swift accommodation to persistent resistance.
+sufficient to bring victory are often unclear (Koopmans and Statham 1999).
+Moreover, confronted with ostensibly similar circumstances favorable to
+success, social actors vary in their receptivity to movement demands
+(Giugni 1999)’ This variation highlights the fundamental question at
+issue: What explains the responses of targets and bystanders to movement
+demands? It is only by devising a theoretical account of the conditions
+under which these actors choose to yield that movement success or failure
+can be explained.
+
+Recent debates about social movement outcomes underscore the need
+for further theoretical development in this area (Giugni, McAdam, and
+Tilly 1999). For instance, there has been considerable disagreement over
+whether disruptive or violent movements are more successful than those
+that are less contentious. A related dispute concerns the significance of
+the broader structural context in which a movement is situated. Some
+argue that general external circumstances are determinative whereas oth-
+ers suggest that internal, movement-controlled variables better explain
+movement outcome. In assessing both debates, Giugni (1999) concludes
+that the veracity of the competing positions “varies according to the sit-
+uation.” What is needed, then, is a theory of how situations and actors
+differ or, put another way, an account of the factors that make certain
+movement targets more or less receptive to movement demands.
+
+Previous studies have highlighted the importance of movement-
+imposed costs, but the theoretical analysis has been narrow and limited.
+I propose a consideration of these costs to enhance explanations of the
+responsiveness of targets to movement demands. Since a general theory
+that conflates the differing costs for diverse actors runs the risk of excessive
+generality, I focus here on the responses of economic actors. Extending
+the logic of prior studies, I advance three main propositions: first, economic
+duress is a major proximate cause behind the decision of economic actors
+EXPLAINING MOVEMENT OUTCOME
+
+A partial explanation for receptivity to movement demands appears in
+the existing literature. Gamson’s (1975) finding that unruly groups with
+limited goals are highly successful is suggestive. Although much is left
+untheorized, Piven and Cloward (1977) argue that political or economic
+actors respond to the “institutional disruptions” resulting from insurgency.*
+Likewise, Tilly (1999, p. 260) argues that power holders respond to move-
+ment displays of “worthiness, unity, numbers and commitment.” Tilly
+indicates that these factors are salient because their increase threatens
+power holders—usually state actors—with more contentious behavior if
+social movement demands are ignored. Again, responsiveness follows from
+the perceived costliness of prolonged disruptions to routine social, political,
+and economic transactions. Similarly, McAdam (1982, p. 30) states, “In
+essence, what insurgents are seeking . . . is the ability to disrupt their
+opponent’s interests to such an extent that the cessation of the offending
+tactic becomes a sufficient inducement to grant concessions.” Although a
+relationship between cost assessments and receptivity to movement de-
+mands is indicated, this line of reasoning is not extended. Since the dis-
+tinctive vulnerabilities of movement targets are not explored, it is unclear
+why certain tactics might give more offense than others and therefore are
+more likely to trigger the granting of concessions. To comprehend this
+dependence and the decision to yield, it is necessary to shift away from
+a movementcentric perspective to consider more fully the reasoning be-
+hind the actions of movement targets.
+
+Building on the insights of Wilson (1961), Lipsky (1968), and Burstein
+et al. (1995), I propose a cost-assessment perspective that draws attention
+to the dependence of movement targets on other actors (see also Terchek
+1974). Burstein et al.’s approach usefully highlights the interactions among
+social movement organizations, targets, and third parties: “Essentially, the
+more dependent the target is on the SMO, the more power the SMO has
+over the target, and the more likely it is to succeed. A central task for
+any protest group, then, is to increase the target’s dependence, directly
+or indirectly” (1995, p. 293). Although the clarity of this formulation rep-
+resents a theoretical advance, virtually absent from the analysis is a con-
+sideration of the factors that make targets dependent and more vulnerable.
+Indeed, Burstein and his coauthors bemoan the lack of research on how
+target characteristics affect movement outcome. The research presented
+here is meant to redress this deficiency.
+
+From the logic embedded in these previous studies, a rudimentary hy-
+pothesis emerges to serve as a starting point for theory building: actors
+weigh the effects of accepting or resisting change, and they accommodate
+if they regard the costs of resistance as outweighing the costs of acceptance.
+What counts as a cost depends on the type of actor. For political actors
+in democratic regimes, social protest might cost an officeholder electoral
+support and thereby elicit concessions. Among economic actors, the focus
+of this study, I suggest that perceived threats to current or anticipated
+profits must be central to explanations of accommodation or intransi-
+gence." For instance, in the case of the civil rights movement, the operators
+of segregated lunch counters evaluated the cost of serving African-
+Americans against the losses from disruptive sit-ins, picketing, white vi-
+olence, and reduced local consumption. Likewise, the manufacturers of
+cosmetics consider the value of animal testing against the damage from
+negative publicity and boycotts.’ This proposition is not meant to be
+pathbreaking; labor activists have long appreciated that threats to profits
+are a useful means to stimulate concessions. Labor economists (Hicks 1932;
+Ashenfelter and Johnson 1969; Kennan 1986) have likewise demonstrated
+in studies of bargaining theory that employers do indeed weigh the costs
+of concessions against the disruption of strikes.° Yet, from this elementary
+beginning, a more sophisticated set of propositions about the factors shap-
+ing these cost calculations can be devised.
+
+Among the costs that social movement activities directly or indirectly
+impose upon economic actors, two general types should be distinguished.
+First, by carrying out protests, demonstrations, picketing, litigation, and
+so on, social movements can disrupt regular business activity, attract
+negative publicity, or impose financial penalties upon recalcitrant firms.
+Movements may also enlist the assistance of third parties, including state
+actors, to impose costs upon targets or bystanders. These third parties
+can, for instance, withdraw investments, support boycotts, reduce fund-
+ing, or impose fines. The losses resulting directly and indirectly from
+movement actions will be referred to as disruption costs. Most move-
+ments—including environmentalism, animal-rights activism, antinuclear
+activism, gun control advocacy, and others—have used similar tactics to
+generate potent disruption costs. Second, acceding to movement demands
+may also harm the profits of certain firms or sectors. The actual or an-
+ticipated losses resulting from movement success are designated here as
+concession costs. Included in the assessment of concession costs must be
+a consideration of opposition to capitulation from private third parties or
+public officials. For instance, white opponents of racial equality often
+threatened store owners with retaliatory boycotts if they desegregated,
+and local officials sometimes warned businesses of legal harassment should
+they integrate their facilities. In weighing the decision to resist or yield
+to movement demands, it is assumed that economic actors consider both
+disruption and concession costs.
+the specific combination of disruption and concession costs, economic
+actors can be expected to respond differently to social protest.
+
+From the convergence of aggregate disruption and concession costs, I
+derive an economic opportunity structure to predict the responses of spe-
+cific economic actors to social movement demands as well as the general
+prospects of movement success. The economic opportunity structure can
+be depicted in a schematic fashion by scaling the magnitude of disruption
+and concession costs into low and high, and overlapping the two dimen-
+sions (see fig. 1). Doing so generates four ideal-types from which I infer
+the likely responses of economic actors to their circumstances.
+
+With a convergence of both the low cost of movement acceptance and
+high exposure to losses because of movement-initiated disruptions, eco-
+nomic actors in cell 1 will prefer to make concessions and act on behalf
+of accommodation. It is expected that these accommodators will act before
+others to advocate concessions, sway community sentiment in favor of
+reform, or serve as brokers of agreements.’ For economic actors capable
+of responding unilaterally to protest demands, this location in the eco-
+nomic opportunity structure is the most conducive to movement success.
+However, unless additional gains might be expected, this logic suggests
+that vulnerable economic actors will support the smallest compromise
+necessary to bring about the cessation of protests and a restoration of
+normal business activity. Next, vulnerability to both the costs of move-
+ment success and movement-initiated disruptions (cell 2) makes these
+economic actors an anxious lot. Without the choice of low-cost compro-
+mise, but desiring a means to end disruptions, these vacillators lack an
+optimal response. Depending on the formidability of the movement, they
+will waver between repression, perhaps in alliance with other opponents
+of change, engage in dilatory tactics (e.g., conducting protracted negoti-
+ations), and make nominal concessions to halt protest activities. To escape
+their situation, more mobile vacillators may pursue exit as an option by
+relocating their business operation. Or, to the extent that their concession
+costs are high because of fears of third-party reprisals, it is possible that
+vacillators will seek to outmaneuver or overcome these opponents of ca-
+pitulation. Next, unaffected by either movement success or disruptions,
+the relatively comfortable position of actors in cell 3 allows them to re-
+spond in a manner consistent with dominant community standards; they
+will thus be conformers to local sentiment.* Finally, the high cost of social
+movement success and the relative insulation of the economic actors in
+cell 4 will encourage them to offer durable opposition to change; hence,
+they are dubbed resisters. Like other opponents to movement ambitions,
+resisters are predicted to attempt to suppress movements, encourage others
+to do the same (including state authorities), and thwart the actions of
+accommodators. Against these adversaries, movement success is least
+likely.
+
+Although thus far the calculation of disruption and concession costs by
+individual actors has been presented as relatively clear and unequivocal,
+three observations should be made about the impact of the social and
+cultural definition of costs upon central hypotheses of this analysis. First,
+while this analysis concerns individual decision makers, collective inter-
+pretation and action among economic actors is expected. In weighing the
+decision to make concessions, similarly situated economic actors likely to
+share their cost perceptions deliberate together and seek to act in unison
+to reduce their individual exposure to interpersonal sanctions and reprisals
+by the opponents of change. In addition, coordinated action reduces the
+social sanctions that might be applied to individual actors opting to de-
+viate from local norms. It can be expected, then, that accommodators
+seek to unite into broad coalitions under the auspices of extant business
+groups such as local chambers of commerce or narrower sectoral
+associations.
+Next, to the extent that movement demands necessitate violations of
+personal or cultural norms, economic cost considerations may be less
+relevant. For example, in the case of the civil rights movement, an os-
+tensible accommodator might respond as a vacillator because the cultural
+cost of “race mixing” is regarded as high, or a prospective resister might
+capitulate unexpectedly because of the perceived fairness of movement
+demands. While it is conceptually possible to treat these breaches within
+a broader definition of concession costs, doing so would violate the pre-
+sumption of strategic behavior among economic actors. Ultimately, the
+contribution of cultural norms to the responses of economic actors to
+movement demands is an empirical question. If personal values or cultural
+norms are significant, then the patterns of capitulation or resistance should
+regularly deviate from the expectations based principally on disruption
+and concession costs. In this regard, the observation that the overwhelm-
+ing majority of Southern business concerns opted to accept desegregation
+rather than close is suggestive.
+
+Finally, cost interpretations can change over time. At the outset of a
+movement campaign, the general impact of public disorder upon the
+broader business climate may be relatively unclear, in particular for those
+economic actors that are not direct targets of movement agitation. Com-
+peting cost interpretations will be offered and debated. As time passes,
+however, the acquisition of new information based upon the outcomes of
+local or remote disturbances may enable actors to develop revised cost
+assessments. For example, following the widely reported decline in outside
+investment in Little Rock, Arkansas, after the 1957 school desegregation
+crisis, many economic actors elsewhere reconsidered the costs of resistance.
+The turmoil in Birmingham, Alabama, in 1963 further reinforced the
+interpretation that racial disruptions were inimical to economic devel-
+opment. Likewise, after whites evinced a willingness to eat at integrated
+lunch counters or to shop in fully integrated stores, most proprietors could
+abandon the fear that accepting the civil rights agenda meant financial
+disaster. The position of actors in the economic opportunity structure is
+not fixed, but may shift as cost assessments are revised based on new
+information during a cycle of protest. If the apparent concession costs
+decline, vacillators might be expected to move toward accommodation.
+Thus, an explanation of the behavior of economic actors must be sensitive
+to the impact of cultural norms upon cost assessment as well as the chang-
+ing interpretations of cost over time among individual decision makers
+during a broader cycle of protest.
+SECTORAL VARIATION IN COST EXPOSURE
+
+Various studies demonstrate that the characteristics of economic sectors
+shape the processes of democratic transitions, strike outcome, economic
+development, and even the likelihood of civil wars (Shafer 1994; Card
+and Olson 1995; Paige 1997; Ross 1999; Boix 2003). Following a similar
+logic, a cost-assessment perspective also provides a basis for speculation
+about variation in the vulnerability of specific types of enterprises to
+disruption costs. For violent, revolutionary movements intent on sup-
+planting the economic order, it is not surprising that the universal threat
+posed to all eliminates most subtle distinctions among economic actors.
+However, distinctions can be made for the more common situations found
+in modern democratic polities in which reformist movements engage in
+nonviolent protests, demonstrations, boycotts, picketing, and similar
+forms of disruptive behavior. Under these more typical circumstances,
+economic interests dependent on local consumption are especially vul-
+nerable as consumers shy away from the sites of contention. Local con-
+sumers might change their behavior to honor a boycott or to avoid ha-
+rassment by picketers or boycotters, or they may refrain from consumption
+because of anticipated inconvenience (e.g., extra traffic, crowds, etc.) or
+violence. Thus, the interests most vulnerable to the disruption costs of
+standard protest activities include retail merchants, hoteliers, restaura-
+teurs, and tourist-related businesses. Similarly, the prospective profits of
+interests reliant on local growth likewise suffer from protest activities that
+attract negative publicity, frighten away new investment, and discourage
+in-migration. These interests may include local financial institutions, real
+estate brokers, developers, utilities, and various service-sector enterprises.
+In general, then, relatively immobile, locally oriented, consumption- and
+growth-dependent sectors are more susceptible to disruptions in routine
+spending and investment behavior, and thus are more vulnerable to dis-
+ruption costs. Although not necessarily troubled by local disorder, similarly
+exposed to boycotts or reputational damage are makers of brand-name
+products selling in consumer markets and national chain stores or
+franchises.
+
+By contrast, other interests are more insulated from disruption costs.
+Although demonstrations, protests, boycotts, and pickets may be sufficient
+to dampen ordinary consumption and local growth, they are less effective
+at interrupting manufacturing processes unless the employees of the tar-
+geted enterprises are rendered unwilling or unable to execute their routine
+tasks (e.g., the sabotage of machinery, a strike among industrial workers,
+etc.). Shielded from external disruption as well are those enterprises in
+uncompetitive, high-demand markets (such as operators of key transpor-
+tation nodes) and those selling undifferentiated goods or services in high-
+demand nonlocal markets (e.g., petroleum).’ Also, economic actors that
+do not depend on continued local growth or attracting new investment
+such as those relying on prior capital investments—including heavy man-
+ufacture, mineral extraction, and refining—may be less vulnerable to pro-
+test activity.’ These more insulated economic actors either conform to
+local custom or resist movement demands depending on the cost of of-
+fering concessions. While this sketch is not exhaustive, these hypotheses
+hint at distinctive patterns of sectoral vulnerability to disruption costs.
+
+These general patterns of vulnerability also clarify the relationship be-
+tween countermovements and concession costs. Like movements, coun-
+termovements can exploit the same sectoral vulnerabilities to disrupt busi-
+ness operations and raise the cost of conceding to movement demands.
+Whereas interests insulated from movement disruptions will be similarly
+untroubled by countermovement interference, those interests vulnerable
+to disruption costs find themselves comparably exposed to greater con-
+cession costs. A notable impact that countermovements have upon the
+responses of economic actors to movement demands is the amplification
+of concession costs to push prospective accommodators toward vacillation.
+
+Although attention to the sectoral patterns of cost exposure should be
+useful in clarifying the responsiveness of economic actors to movement
+demands, cultural and political factors can complicate these predictions.
+As noted above, fervent cultural commitments might induce vulnerable
+or insulated actors to respond to movement demands in a manner incon-
+sistent with their economic interests. State action that affects only certain
+economic interests and not others, or that enables movements to inflict
+costs upon actors otherwise insulated from disruption, can likewise in-
+troduce variation in disruption cost exposure that is unrelated to sectoral
+characteristics. An adequate account of movement success must be at-
+tentive to how these cultural or governmental factors may affect the mag-
+nitude of disruption costs in a manner inconsistent with predictions based
+on sectoral vulnerabilities.
+
+Using these predictions for receptivity to movement demands, this anal-
+ysis has the potential to enhance explanations of movement outcomes in
+several ways. Depending on the location of discrete actors within the
+economic opportunity structure and their ability to offer unilateral redress
+CIVIL RIGHTS AND SOUTHERN BUSINESS
+
+To assess the merit of the hypotheses above, I consider the responses of
+economic actors to Southern civil rights mobilization in five localities
+during the 1960s. Although discrete economic actors are the units of anal-
+ysis, local case studies are used for three reasons. First, since the behavior
+of countermovements, other economic interests, and public officials can
+affect the magnitude of both disruption and concession costs, economic
+actors cannot be easily abstracted from their specific context without
+omitting relevant considerations. Second, if a movement expands the
+scope of conflict as suggested by Schattschneider (1960), additional actors
+beyond the immediate targets may be drawn into the fray, and their
+behavior, too, helps to substantiate the theoretical approach presented
+here. To the extent that movement protests generate broader economic
+disruptions, interests unharmed at the outset might become accommo-
+dators urging conciliation. Also instructive is the constellation of actors
+that continues to oppose the movement, and those that linger on the
+sidelines as bystanders. Thus, an analysis that considers multiple interests
+within a single locality can provide a more robust test of the hypotheses
+about the relationship between cost assessments and responsiveness to
+movement agitation as well as sectoral variation in cost exposure. Finally,
+case studies are used because they can be sufficiently fine grained to
+demonstrate the central hypotheses of this analysis: the perception of
+financial duress is a major factor causing economic actors to support
+concessions to movement demands; the variation in the behavior among
+these actors is consistent with the predictions based upon their assessment
+of aggregate disruption and concession costs (their position in the economic
+opportunity structure); and economic interests in certain sectors are con-
+sistently more likely to accept, ignore, or resist movement demands than
+others.
+
+Applied to this reform movement, a cost-assessment approach predicts
+a set of responses based upon the specification of the impact of both
+disruption and concession costs on local business enterprises. For the vast
+majority of Southern economic actors, the cost of accepting the move-
+ment’s principal goal of racial integration was low (Bloom 1987). Among
+local consumption and most service-sector businesses, the magnitude of
+the concession costs depended on the willingness of whites to continue to
+patronize their establishments. Unless white bystanders or customers ac-
+tively oppose integration, it is predicted that these vulnerable economic
+actors will behave as accommodators and yield as disruption costs rise.
+White countermobilization against integration will raise concession costs
+and place these enterprises in the position of vacillators, as they cannot
+integrate without incurring the wrath of organized whites, nor can they
+refuse to do so as long as costly movement disruptions continue. Under
+these conditions, repression, waffling, and temporizing are expected. In-
+sulated from the costs of movement disruption, the preferences of man-
+ufacturing interests likely varied depending upon local labor market con-
+ditions. Whereas those that benefited from racially split labor markets to
+keep overall labor costs down (Bonacich 1972) can be expected to behave
+as resisters, manufacturing employers that did not benefit substantially
+from these racial divisions are predicted to conform to dominant local
+customs and remain indifferent to negotiations. Finally, for local interests
+tied to labor-intensive agriculture and dependent upon black labor, racial
+integration represented a broader threat, and strong resistance is expected.
+Yet even for plantation interests, the swiftness of agricultural mechani-
+zation and spread of the use of herbicides during this period was eroding
+the economic imperatives for movement opposition (Payne 1995). Thus,
+except for those agricultural localities where resisters continued to flourish,
+differing combinations of accommodators, vacillators, and conformers
+populated most Southern communities.
+
+From a cost-assessment perspective, successful civil rights agitation
+depended on the strategic targeting of vulnerable interests and imposing
+sufficient economic burdens upon them. These accommodators might be
+targeted not only to make unilateral concessions but also to push for a
+negotiated settlement over potential opposition of other actors. Other
+movement strategies might include increasing the magnitude of disruption
+costs to shift conformers toward accommodation. Along these lines, ef-
+fective mobilization may involve enlisting the support of national state
+authorities or other third parties to intervene in a manner that modifies
+the cost assessments of adversaries or bystanders. Conversely, both poor
+target selection and the use of tactics that do not impose sufficient dis-
+ruption costs upon targets reduce a movement’s prospects for success.
+
+Drawing upon the many rich sources on the movement, I sketch the
+interests and vulnerabilities of the key actors in each of the five cases.
+Next, I describe movement activities as well as countermobilization in
+these localities to estimate the magnitude of disruption and concession
+costs for various economic actors. Finally, I document the responses of
+local economic actors to civil rights mobilization and survey the evidence
+for the proposed relationship between their cost assessments and respon-
+siveness to movement demands. The cases—Greensboro, North Carolina;
+New Orleans, Louisiana; Albany, Georgia; Birmingham, Alabama; and
+Greenwood, Mississippi—were selected to capture variation in the ex-
+posure of economic actors to disruption and concession costs.
+
+The success against downtown merchants in Greensboro may be re-
+garded as a case in which movement activists hit vulnerable interests with
+severe disruption costs, and other insulated enterprises with low conces-
+sion costs offered no opposition. By contrast, the initial sit-in movement
+against local merchants in New Orleans faltered because of the inability
+to impose potent disruption costs and third-party mobilization against
+capitulation. The next agitation phase to integrate downtown facilities
+benefited from the simultaneous federal judicial intervention to compel
+public school desegregation, which generated massive tumult, negative
+publicity, and a broader economic disruption. This combination of height-
+ened civil rights protests and disorders stemming from school desegre-
+gation placed not only merchants but also many other vulnerable interests
+in tourism, real estate, services, development, and banking in the position
+of reluctant accommodators. The civil rights defeat in Albany demon-
+strates the simple point that strategic decisions matter. Whereas in New
+Orleans, targeted and general disruptions brought victory, the movement’s
+irregular and diffuse protests against downtown businesses in Albany
+were insufficient to produce serious economic distress and ultimately led
+to defeat. Other tactical mistakes and the general lack of exposure to
+serious disruption costs encouraged economic interests to conform during
+months of protest. Taking stock of the setback in Albany, movement
+activists tried something different in Birmingham. Instead of concen-
+trating on public officials, the movement targeted specific downtown busi-
+nesses and enlisted the unwitting assistance of the intemperate chief of
+local law enforcement to produce massive disorders and correspondingly
+broad disruption costs. Although segregationist countermobilization and
+resistance from the steel interests produced initial vacillation, the rapid
+Greensboro, North Carolina
+
+As a bustling center for textile manufacture and insurance, major eco-
+nomic actors in Greensboro had neither a compelling interest in the de-
+fense of Jim Crow nor considerable exposure to the disruption costs of
+civil rights protests. Consequently, it is anticipated that these interests
+will largely conform to dominant local customs. Downtown merchants
+and other consumption-dependent enterprises are predicted to be vul-
+nerable to protest events. Coupled with the weakness of Greensboro seg-
+regationists and their inability to heighten concession costs, these vul-
+nerable interests should behave as accommodators.
+
+In this context, on February 1, 1960, four African-American college
+students began a sit-in campaign to desegregate the downtown commer-
+cial facilities. Despite the exposure of these businesses, lacking prior ex-
+perience with the costs of this form of protest, downtown merchants
+initially feared that integration “would lead to a major loss of profits and
+disaffection of white customers” (Chafe 1980, p. 93). The merchants vac-
+illated and, with protests suspended during the negotiation process, they
+refused the April recommendations of a biracial committee for a trial
+period of integration (Vew York Times, April 6, 1960). After protests re-
+sumed and an economic boycott was instituted, however, these same in-
+terests quickly relented. Woolworth’s managers estimated that protest
+New Orleans, Louisiana
+
+At the junction of the Mississippi River and the Gulf of Mexico, New
+Orleans served as a major transportation node for the region. In addition,
+petroleum refining, petrochemical production, natural gas industries, and
+tourism contributed to the city’s economic base. None of these sectors
+depended on Jim Crow for economic prosperity, and all but tourism were
+insulated from the disruption costs that movements might impose. Not
+only were industrial and shipping interests shielded from disruptions in
+production processes, but they also lacked motivation to act as “boosters”
+seeking out new investment. This combination of low vulnerability to
+disruption costs and low concession costs vested key economic actors with
+the capacity to conform to the dominant Jim Crow heritage and to remain
+indifferent to the costs of racial turmoil. The exposure of the tourism
+sector, downtown consumption interests, and a few progrowth boosters
+provided civil rights activists with a weakness, but unlike Greensboro,
+segregationist organizations exerted considerable leverage and had the
+capacity to push prospective accommodators toward vacillation. The com-
+bination of conformers and vacillators foreshadows a response not so
+much of intense resistance as indecision, drift, and fecklessness.
+
+With the onset of the 1960 sit-in movement in March, local economic
+interests responded with indifference, abdicated a leadership role, and
+ceded control over the local response to organized segregationists. Con-
+sistent with predictions, these segregationist organizations emerged pri-
+marily from the 22 parishes (counties) most committed to labor-intensive
+cotton agriculture (McMillen 1971, p. 63)."’ Without any organized de-
+mands for moderation, local authorities responded to student protests
+against segregated seating arrangements and employment discrimination
+with expulsion, fines, arrest, and imprisonment. At the urging of segre-
+gationist organizations and members of the legislature, Governor Davis
+introduced a set of “law and order” bills to further reinforce the legal
+resources available to punish demonstrators (McCarrick 1964). The small-
+scale pickets and sit-ins in 1960 generated enthusiasm, but the activities
+of this fledgling chapter of the Congress of Racial Equality (CORE) failed
+to operate at a scale sufficient to harm local merchants. At the close of
+1960, as local merchants in other states desegregated their lunch counters,
+the sit-in movement in New Orleans ended in failure (Oppenheimer 1989).
+For those seeking to desegregate downtown facilities, the integration
+of two public schools in November by federal court order was fortuitous
+because it was far more disruptive to the city economy. This supportive
+federal action, which was not aimed at particular economic actors but
+instead at the local educational authorities, provoked a severe backlash.
+The White Citizens’ Council promptly held a rally during which segre-
+gationists called on the audience of five thousand to boycott the schools
+and march on the offices of the school board to protest the board’s com-
+pliance with the order (Keesing’s Research Reports 1970, p. 74). The next
+day, thousands of whites walked through the downtown, passing through
+the state supreme court, city hall, the federal courts, and the board of
+education building. Later, the demonstration arrived in the business dis-
+trict and there deteriorated into a riot in which whites made unprovoked
+attacks upon blacks. After African-Americans began to fight back, law
+enforcement intervened. Taking up the call to boycott the school, a crowd
+of white women, who came to be known as the “cheerleaders,” gathered
+to scream at and shove all who dared to enter. Verbal intimidation and
+disorder around the school persisted for the entire academic year without
+public officials offering any serious attempt to disperse the segregationists
+despite national and international publicity of this horrific racial hatred
+(Bartley [1969] 1999, p. 337). On the contrary, the city’s mayor refused
+to intervene for the sake of protecting civil rights or quelling the public
+disorders wrought by the segregationists (McCarrick 1964, p. 202).
+These events are striking because they deviate from the conventional
+expectation that disruptions in public order or negative publicity auto-
+matically compelled Southern economic actors to capitulate to movement
+demands (Ashmore 1958; Bloom 1987). Whereas in cities like Greensboro,
+Atlanta, Dallas, and elsewhere, business fears about the economic con-
+sequences of racial disturbances had prompted relatively rapid calls for
+moderation or even advance preparation for integration, New Orleans
+business leaders refused to accept any such leadership role for over a year.
+
+Explanations for this lack of leadership in New Orleans typically high-
+light the greater “traditionalism” of the New Orleans elite (Inger 1969).
+Inger goes on to describe the New Orleans elite as closed, insular, and
+uninterested in attracting new investment or engagement in civic affairs.
+Likewise, Fairclough claims that “the city’s leaders did not fail to head
+off the crisis simply through miscalculation or lack of nerve... . One
+can argue that they indeed were more prejudiced than their counterparts
+in more ‘progressive’ cities” (Fairclough 1995, pp. 261-62). Lacking guid-
+ance from moderate business leaders, vehement organized segregationists
+were capable of directing the local response toward intransigence and
+tolerance for anti—civil rights disorders. Yet little evidence is offered to
+demonstrate that New Orleans elites were more traditional than else-
+where, and since similarly traditional elites capitulated to the civil rights
+movement in other cities, something more is necessary.
+
+A cost-assessment explanation of this unwillingness to act draws at-
+tention to the exposure of economic actors to the costs of protest and
+movement success. As indicated above, from this perspective, the con-
+stituent elements of the “New Orleans elite” is perhaps less distinctive for
+their traditionalism than for their peculiar insulation from both disruption
+and concession costs of civil rights mobilization. The fundamental im-
+portance of the port and shipping in New Orleans economy, the relative
+insulation of these sectors from the costs of racial unrest, and the lack of
+interest in attracting new investment allowed for disinterest in racial
+equality. The major industries based on the extraction and processing of
+natural resources (petroleum and natural gas) were similarly shielded.
+With a strong market position, local and absentee owners or managers
+of these firms had less reason to worry about the negative effects of racial
+contention on routine economic transactions. Cobb (1988, p. 66) identifies
+both New Orleans and Birmingham as cities “whose well-developed heavy
+industrial base helped to make its Big Mule leadership less interested in
+further growth.” Finally, the common description of these actors as “old
+money” implies fortunes less dependent on robust local economic
+development.
+
+Since this ensemble of interests lacked compelling economic imperatives
+to organize for the defense of Jim Crow institutions, a cost-assessment
+analysis accounts for conformity to dominant community preferences.
+Economic development, then, does not necessarily prompt local elites to
+embrace liberal or democratic values; instead, certain forms of develop-
+ment permit continued support of institutions and practices hostile to
+these currents. The opposition to racial equality among these actors should
+not be regarded simply as an expression of their traditionalism, but as
+evidence of their unusual isolation from the disruption costs that precip-
+itate moderation, as well as of the strength of segregationist mobilization.
+
+Other business interests in New Orleans, however, suffered from the
+costs of public disorders. Consistent with predictions, tourism and down-
+town business activity fell with the escalation in black protest and press
+coverage of contentious white countermobilization against school inte-
+gration. By the end of 1960, these disruptions reportedly reduced sales at
+the large department stores by as much as 40%, hotel and restaurant
+business was down 20%, and other tourist-dependent interests were like-
+wise feeling hardship (Inger 1969, pp. 61-62). Against the backdrop of
+public school disorders, CORE’s 1961 resumption of sit-ins and picketing
+in the downtown shopping section only intensified the financial pain of
+resistance.
+
+After the disastrous tumult of the 1960-61 academic year and amid
+ongoing protests, these vulnerable economic actors in particular began to
+show greater interest in accommodation. As Rogers notes (1993, p. 85),
+“the events of 1960-1961 had made the city’s white economic elites ex-
+tremely sensitive to the costs of racial disruption.” With the economic
+situation worsening in early 1962, a representative of the Chamber of
+Commerce implored Harry Kelleher, a respected corporate lawyer, to ne-
+gotiate a compromise with black representatives. Major bankers likewise
+supported action to head off further disruption. Describing the impetus
+for this action, Kelleher (SIER 1997) observed, “The specter of economic
+pressure certainly tipped the scales in favor of affirmative action.” At the
+same time, fear of economic reprisals instigated by the Citizens’ Council
+produced secrecy, hesitation, and delay, and discouraged overt support
+for accommodation. Finally, after a visit from Martin Luther King, Jr.,
+in late 1962, rising concern about strengthened sit-ins, pickets, and a
+tightened boycott prompted downtown merchants finally and very quietly
+to desegregate their lunch counters, toilets, and water fountains in Sep-
+tember—two years after the onset of protests (Fairclough 1995, p. 284).”
+Albany, Georgia
+
+Situated in southwestern Georgia amid the vestiges of the Old South,
+Albany served as a processing and transportation center for local agri-
+cultural products such as cotton, pecans, corn, and peanuts. Light industry
+and wholesale and retail enterprises also made up the core of the local
+economy. Since few economic actors continued to depend on subordination
+of black labor, most interests are predicted to conform to local Jim Crow
+traditions. Downtown consumption and growth-dependent interests can
+be expected to yield amid mounting protest. Also, the lack of strong
+segregationist organization in Albany meant that local interests had less
+fear of white reprisals. In some ways, then, Albany resembled Greensboro,
+but the outcome of civil rights activity was markedly different.
+
+Protests began in the late fall of 1961 and stretched into August 1962.
+Student Nonviolent Coordinating Committee (SNCC) organizers arrived
+in the summer of 1961 to begin a broad campaign against “all forms of
+racial domination in Albany” (Morris 1984, p. 241). Although relations
+between SNCC and the local chapter of the NAACP and other organi-
+zations were tense, local activists formed the Albany Movement to bring
+together and coordinate the competing elements. Attempts to integrate
+the Albany bus terminal and train station resulted in the arrest of the
+participants. To protest these arrests, hundreds marched to city hall and
+were likewise arrested. Martin Luther King, Jr., and his organization, the
+Southern Christian Leadership Conference (SCLC), joined the movement
+in mid-December, at which time 500 people languished in jail. His arrest
+generated a rush of enthusiasm, but his swift release two days later fol-
+lowing a hollow truce confused and dispirited many. In January 1962,
+SNCC launched a bus boycott that, three weeks later, resulted in the
+closure of the bus line (Williams 1987, p. 171). Sporadic sit-ins were
+staged in the early months of the year, and a general boycott of white
+merchants was intensified in March. Further protest marches followed,
+frequently targeting city hall and always resulting in mass arrests. During
+these protests, police chief Laurie Pritchett made certain that the jails had
+ample capacity for further arrests and that the police applied local laws
+without resort to brutality or violence. After many months of agitation
+and mass jailing, the movement floundered without achieving the inte-
+gration of the city’s facilities.
+
+Unlike the early explanations of this defeat, which pointed to squabbles
+within the movement and poor planning, more recent commentary em-
+phasizes Pritchett’s use of nonviolent, legal strategies of repression
+(McAdam 1982; Barkan 1984). McAdam argues that Pritchett’s strategy
+of repression denied civil rights activists the violent clashes with suprem-
+acists that were necessary to compel federal action. Unable to provoke
+the white violence necessary to cause federal intervention, “insurgents
+lacked the leverage to achieve anything more than a standoff with the
+local supremacist forces in Albany” (McAdam 1982, p. 177). Absent violent
+countermovement reprisals to trigger federal intervention—McAdam’s
+“critical dynamic”—he suggests that the movement failed because of in-
+sufficient leverage. Barkan, too, points to Pritchett’s effective use of le-
+galistic forms of repression, but Barkan’s analysis suggests a resource-
+depletion hypothesis. The costs of fines, bail, legal representation, and
+lower movement morale resulting from harassment arrests and incarcer-
+ation, Barkan argues, drained resources and thus administered the “de-
+cisive blow” against the Albany Movement. While valid, both accounts
+overlook a key component in the explanation of the defeat: the inability
+of the movement to impose substantial costs upon vulnerable local actors.
+
+The cost-assessment hypothesis refines McAdam’s and Barkan’s in-
+vestigations of the Albany defeat in several ways. First, this analysis
+clarifies how the federal government contributes to “movement leverage.”
+Although McAdam does not elaborate upon the concept of movement
+leverage below the national level, this analysis indicates that federal sup-
+port transforms the cost calculations of movement opponents. Federal
+intervention not only involves the obvious use of coercive capacity; the
+central state can also impose fines and penalties and necessitate costly
+litigation or withhold valued expenditures. Movement opponents must
+consider whether or not these added costs outweigh the benefits of con-
+tinued resistance. Second, absent federal involvement, a cost-assessment
+analysis suggests that the task of imposing costs upon local actors fell
+solely upon the movement and the tactical ingenuity of the activists. In
+contrast to McAdam, who appears to assume that the movement was
+incapable of victory in Albany without federal intervention, this approach
+suggests instead that closer attention to the effect of movement tactics
+upon local actors is necessary.
+
+A cost-assessment approach implies that an optimal movement strategy
+must involve selecting the proper targets (who are both vulnerable and
+potentially amenable to making concessions) and then mounting a serious
+and sustained disruption of their operations. In identifying the best targets
+and generating disruption costs, Albany Movement leaders made a series
+of tactical mistakes. The erratic choice of targets and the general lack of
+focus made the effective imposition of disruption costs virtually impos-
+sible. This interpretation echoes King’s own assessment and others who
+have suggested that the disparate goals “spread the Movement too thinly”
+(Barkan 1984, p. 557).
+
+In particular, to the extent that movement leaders fixed upon any target,
+they chose the wrong one: elected officials. Members of the city govern-
+ment had few reasons for entering into good-faith negotiations or making
+substantive concessions. Lacking a strident clamor from vulnerable eco-
+nomic actors, federal coercion, or a plausible threat of political reprisals,
+these officials had many reasons to resist capitulation. Thus the move-
+ment’s irregular targeting of city officials wasted precious resources bailing
+out and defending those who marched to and demonstrated in front of
+city hall. Relatively few direct action events disrupted business operations
+and, to the extent that they were tried, they were uncoordinated with
+other efforts and used only after the movement was already reeling from
+prior setbacks. As Lewis notes (1970, p. 155), the boycott “pained. . .
+but did not seriously cripple the merchants.” Had the many hundreds
+who were arrested in large demonstrations before city hall targeted those
+likely to be accommodators, the outcome of the Albany Movement might
+have been substantially different even without federal intervention.
+
+Indeed, King ultimately arrived at strikingly similar conclusions about
+the failure of the Albany Movement. Summing up King’s analysis, Garrow
+states that the Albany Movement would have been more successful “if
+the movement had targeted Albany’s business leaders, rather than the
+city’s elected officials. The boycott of downtown stores had been an ef-
+fective but limited tactic, King decided, because the movement’s direct
+action efforts had not been combined with the boycott so as to inflict a
+maximum penalty upon those business leaders” (Garrow 1986, p. 226).
+King likewise argued that the marches to city hall were misplaced. Instead,
+he suggested that, because of the political weakness of blacks in Albany,
+the marches should have been directed at “the businesses in the city”
+because “the political power structure listens to the economic power struc-
+ture” (King quoted in Garrow 1986, p. 226). While Pritchett’s strategies
+Birmingham, Alabama
+
+As the “the Pittsburgh of the South,” Birmingham’s iron and steel interests
+dominated this industrial city. The local managers and owners of these
+enterprises supported Jim Crow as a means of keeping wages low, and
+they opposed efforts to attract new industry to Birmingham, as this was
+thought to increase the competition for workers and raise labor costs.
+These industrialists had supported the election of the notorious T. Eugene
+“Bull” Connor in the 1930s to the city commission “to crush the Com-
+munist-integrationist menace” represented by the Congress of Industrial
+Organizations (Thornton 1991, p. 47). Absentee ownership of the United
+States Steel Corporation and its subsidiaries, which overshadowed the
+urban political economy, further reduced the potential for indigenous re-
+form leadership. These interests, unconcerned about attracting external
+investment and shielded from the disruptions of movement agitation,
+lacked incentives to bargain or compromise. Along with the backing of
+working-class whites, these sectoral interests bolstered local resistance to
+racial equality and refused the path of moderation.
+
+While iron and steel interests benefited from sectoral insulation, other
+actors were far less sheltered, and movement activists appreciated this
+weakness (McWhorter 2001). As elsewhere, a worsening racial situation
+caused growing concern among consumer and service interests, and it
+was from these sectors that opposition to the likes of Bull Connor even-
+tually coalesced (Eskew 1997). These interests, concentrated in real estate,
+services, and downtown consumption, sought to expand and diversify the
+city’s economic base. Sidney Smyer, a real-estate executive and former
+head of the local Chamber of Commerce, organized the successful political
+drive to change the structure of city government in an indirect move to
+unseat reactionary elements like Connor. After Connor lost the 1963 elec-
+tion, he, along with the other city commissioners, refused to step down;
+consequently, for several months, the city had two separate governments
+representing differing economic elite factions. As Bartley explains (1995,
+pp. 332-33), “The basic rift was between the iron aristocracy, which iden-
+tified segregation with low wages and a docile work force, and service-
+sector businessmen, whose goals were economic growth and maximizing
+of real estate values.”
+The rise of mass protest in 1963 widened this split. As demonstrations,
+boycotts, and general disorder continued from April through May, graphic
+incidents of police repression drew enormous negative publicity and cost
+downtown retailers an estimated weekly loss of $750,000." Continued
+disorder, the trade association of the merchants concluded, “would have
+a drastic and far-reaching economic effect on the metropolitan area”
+(McWhorter 2001, p. 268). Having learned from the defeat in Albany,
+King explained that these economic consequences were deliberate: “You
+don’t win against a political power structure where you don’t have the
+votes. But you can win against an economic power structure when you
+have the economic power to make the difference between a merchant’s
+profit and loss” (King quoted in Bloom 1987, p. 174). Even as regular
+operations for iron and steel interests continued, the racial crisis engulfing
+the city devastated downtown commercial activity.
+
+After hesitating because of fear of white reprisals, deteriorating eco-
+nomic conditions eventually compelled beleaguered merchants to agree
+to a settlement on the condition that the city’s economic leadership pub-
+licly support the agreement (Eskew 1997; Morris 1993). Although steel
+interests resisted concessions, a committee of economic elites eventually
+endorsed the agreement that accepted the movement’s principal demands:
+the desegregation of various downtown facilities, the hiring of more blacks
+in nonmenial positions, job promotions for blacks, the release of jailed
+demonstrators, and the creation of a biracial committee to continue dis-
+cussions. With the endorsement of a major faction of the city’s economic
+leadership and additional disruptive protests to compel compliance, vac-
+illating interests reduced their exposure to concession costs and charted
+a jagged course to a position of accommodation.
+
+The Birmingham case corroborates key elements of the cost-assessment
+logic. Iron and steel manufacturers, being insulated from disruption costs,
+behaved principally as resisters opposed to concessions. Also, after initial
+vacillation, downtown merchants, service, and real-estate interests, among
+others, rebelled against these resisters and shifted toward accommodation
+to negotiate an agreement under as much collective cover as possible. The
+accommodators were, as predicted, clustered in those sectors that were
+most sensitive to disruption costs, most eager to promote local growth,
+and lacking an economic interest in defending segregation. Lastly, the fate
+of the Birmingham struggle demonstrated the value of targeting vulner-
+able interests with severe disruption.
+Greenwood, Mississippi
+
+While the dramatic clashes in Birmingham are widely remembered, a
+band of dedicated activists and their supporters encountered strong op-
+position in Greenwood. Situated in Leflore County at the edge of the vast
+plantations of the Delta, Greenwood served as a major center for the
+cultivation and trading of cotton. With Delta planters dependent upon
+cheap black agricultural labor, the civil rights movement potentially posed
+a fundamental challenge to these economic interests. At the same time,
+however, the mechanization of cotton agriculture was rapidly reducing
+the demand for farm labor. In 1954, the year of the Brown v. Board of
+Education decision, over 85% of the cotton harvest in Mississippi was
+still picked by hand, and therefore, the concession costs of the nascent
+civil rights movement were initially quite high, but by 1965, the proportion
+of the cotton crop picked by hand had plummeted to only about 25%
+(Wright 1991, p. 182). Thus, concession costs were declining swiftly in
+this period as planters became far less dependent upon African-American
+agricultural workers. On the other side, declining dependence on black
+labor and the corresponding economic vulnerability of tenant farmers and
+sharecroppers meant that the local movement was unable to impose dis-
+ruption costs upon planters to coerce capitulation.'* This convergence of
+factors predicts resistance from plantation interests that declines in fervor
+as agricultural mechanization shifts their position from staunch resisters
+to conformers. As elsewhere, downtown merchants, especially in a city
+with a large black population, were vulnerable to disruption costs. To the
+extent that organized white resistance elevated the costs of conceding to
+movement demands, vacillation can be expected. With this mixture of
+resisters and vacillators, movement success depended upon external in-
+tervention or a weakening of resistance among the opponents to change
+based upon declining concession costs.
+
+Consistent with these expectations, Greenwood economic actors resisted
+change at the outset, indeed long before protests even began. In the wake
+of the 1954 Brown decision, local planters and their allies enthusiastically
+organized a chapter of the segregationist White Citizens’ Council, which
+later served as state headquarters in the 1960s."° Nor was this pattern
+
+exceptional among plantation counties. Across the South, it was in those
+localities most dependent on labor-intensive agriculture that the Citizens’
+Council found the greatest support and where the defense of white su-
+premacy was most entrenched (McMillen 1971; James 1988). As a Mis-
+sissippi Councilor candidly explained: “The NAACP’s motto is ‘The Ne-
+gro shall be free by 1963’—and shall we accept that? We can’t have it,
+for if we do, it would ruin the economic system of the South. The men
+of the South are either for our council or against it. There can be no fence
+straddling” (Vander Zanden 1965, p. 28). Often depicted as the upper-
+class variant of the Ku Klux Klan, the council relied upon more sophis-
+ticated modes of coercion. Whereas Klansmen resorted to private violence,
+Councilors used their influence over local livelihoods and law enforcement
+as weapons against agitators and to keep whites in line.'’ In the years
+after Brown, such threats of economic reprisal against those involved in
+civil rights activities were especially common in plantation counties (Vew
+York Times, April 9, 1955). Further bolstering planter political leverage
+in Greenwood was the election of Charles Sampson as mayor in 1957, a
+Citizens’ Council member and representative of plantation interests
+(Payne 1995, p. 135). Thus, SNCC’s foray into the Mississippi Delta “ap-
+peared foolhardy, if not suicidal” (Dittmer 1995, p. 124).
+
+Despite this resistance and enticed by the possibility of breaching this
+fortress of white supremacy, SNCC chose Greenwood to be the site of a
+major voter-registration campaign in 1962 and the state headquarters in
+1964. Yet rather than protesting for the integration of public accommo-
+dations, SNCC activists were instead committed to grassroots organizing
+and the cultivation of local leadership for durable political engagement.
+Eschewing sit-in demonstrations and the like, key organizers believed
+that white dominance in black majority counties was “most vulnerable—
+at the ballot box” (Dittmer 1995, p. 124). Greenwood organizers canvassed
+local residents to encourage them to register to vote, held regular meetings,
+and marched to the courthouse with potential registrants. All of these
+activities helped to build up an organizational base, fostered a greater
+sense of solidarity, and reduced fears of challenging the status quo. How-
+ever, as in Albany, the targeting of political actors was ineffective at
+achieving movement goals. After a year of struggle, some 1,500 local
+blacks had attempted to register, but only 50 had been added to the voting
+rolls (Branch 1988, p. 725). Perhaps not surprisingly, Dittmer (1995, p.
+213) reports that by the end of 1963 the local movement was thoroughly
+demoralized.
+
+The registration drives in 1963 and 1964 produced some disruptions in
+public order and generated media coverage of antirights intimidation and
+violence, but they were insufficient to harm enterprises that were poten-
+tially vulnerable. As a newspaper correspondent reported in 1963: “Green-
+wood has felt no repercussions from the unfavorable headlines it has been
+winning in the Northern press because it is not making any real effort to
+attract new industry.” Rather, the manufacturing industries that had al-
+ready been lured to Leflore County “seemed happy enough” (New York
+Times, July 9, 1963). Commenting the following year on the difficulties
+of bringing about change in places such as Greenwood, a staff member
+of the U.S. Civil Rights Commission noted, “The process of change usually
+begins when community leadership decides the price of keeping the status
+quo is too high. Unfortunately, the price can be quite low in a small town
+where the loss of new industry or convention business may not be im-
+portant factors” (Wall Street Journal, August 27, 1964). Despite the con-
+tinued willingness of hundreds of locals to brave the threats associated
+with attempting to register to vote, the absence of significant costs imposed
+on vulnerable business interests, the reticence of the federal government,
+and the corresponding intransigence of local public officials made even
+modest gains elusive.
+
+The enactment of the Civil Rights Act of 1964 furnished activists with
+new weapons to impose greater costs upon noncompliant enterprises, but
+resistance continued. As Jim Crow barriers fell across the South, including
+in Jackson, the new civil rights law failed to sweep away segregation in
+Greenwood. To “test” for compliance with the newly enacted law, a few
+local activists unaffiliated with SNCC—the McGhee brothers and their
+followers—attempted to desegregate public accommodations through di-
+rect action. In response, restaurant owners converted their establishments
+to private clubs; lunch counters and soda fountains were removed for fear
+of a loss of white business (New York Times, August 27, 1964). A single
+movie theater, belonging to a larger chain, integrated only to have or-
+ganized segregationists form a picket to accost both black and white
+patrons. During several visits to the theater, maverick activists had re-
+peated encounters with a hostile crowd of three hundred whites. On one
+occasion, Jake McGhee was dragged from his seat and beaten; a few
+weeks later he was again injured by flying glass when a bottle crashed
+through the window of the car taking their group from the theater. Days
+later, three whites abducted and beat Silas McGhee, and, in a separate
+incident, an unidentified white shot him in the head as he sat in his car.
+Not only blacks were terrorized. Threats of violent reprisal forced the
+newspaper editor of the Greenwood Commonwealth to leave town after
+he mildly criticized extremism in print and crossed the picket line at the
+theater (Vew York Times, November 8, 1964). Caught between the move-
+ment and recalcitrant whites, the theater eventually closed.
+
+As SNCC disintegrated in Greenwood in 1965, local activists, under a
+variety of organizational auspices, intermittently targeted economic actors
+with picketing and boycotts. As was the case elsewhere in the Mississippi
+Delta, the amplification of disruption costs slowly widened an emerging
+factional split between “the new merchant-oriented upper class” in favor
+of adherence to federal law and plantation elites opposed to making con-
+cessions (Luce 1983, p. 359). This division appears clearly in a description
+offered by the state director of the segregationist State Sovereignty Com-
+mission of a comparable boycott in nearby Canton. Entreated to negotiate
+a settlement between the merchants suffering from a black boycott and
+the executive committee of the Canton Citizens’ Council, the director
+began the meeting by asking the council members to stand up and state
+their occupation. Upon doing so, Johnston declared (1990, p. 332), “Not
+a single one of you is affected by the boycott. You are farming, or in
+various professions, and do not depend on retail trade for your liveli-
+hoods!” Johnston’s account reveals the differences in cost exposure un-
+derlying this split within the business community with vacillating mer-
+chants, on one side, and an alliance between resisters and conformers, on
+the other.
+
+The assassination of Martin Luther King, Jr., in 1968 vastly strength-
+ened a boycott begun by the Greenwood Movement the prior fall. Local
+movement leaders channeled the anger into a highly organized campaign
+to gain the use of courtesy titles and better jobs in downtown stores, and
+to prompt local business leaders to pressure city hall into negotiations for
+jobs and better services. Like many others that had been organized across
+Mississippi, this boycott “crippled business” in the downtown center (Vew
+York Times, April 29, 1968). Remarking upon the efficacy of the boycott,
+one local merchant speculated: “As far as I can tell, it’s 100 per cent
+effective” Jackson Daily News, April 29, 1968). Similarly, the head of the
+local chamber of commerce retail committee explained, “All the damn
+stores [were] going broke. Retail stores. Not all of them but a great many
+of them. All of them suffering” (Alex Malouf, interview, August 31, 2003).
+Not long after the intensification of the boycott, the poorer storeowners
+and those most dependent upon black business began conceding to move-
+ment demands (Booth 1968). In addition to agreeing to the use of courtesy
+titles and hiring more blacks, several boycotted merchants sent a petition
+to the city council to encourage a meeting with movement leaders.
+
+This time, segregationists offered no organized resistance to change,
+and white moderates became increasingly critical of the mayor’s lackluster
+record in promoting economic development and his intransigence amid
+painful boycotts. In 1969, the mayor ultimately lost his reelection bid
+against “a coalition of white merchants and blacks” (Luce 1983, p. 338).
+The ongoing decline in planter dependence upon black agricultural labor
+contributed to the shift of these die-hard resisters to the position of con-
+formers. Describing the comparable mechanization of cotton agriculture
+in Alabama, an officer of the state Farm Bureau observed: “I don’t find
+farm labor the big problem it used to be” (Greenberg 1980, p. 125). Co-
+inciding with this transformation was the decline of the Citizens’ Council
+and a business-led shift in state politics away from reactionary extrem-
+ism.'* Greenberg’s (1980, p. 125) eloquent depiction of this shift in Ala-
+bama is fitting for Mississippi as well: “The end was unheralded. There
+was no advertisement in twenty-two Alabama newspapers, like the one
+sponsored by the major business associations in 1965, announcing the
+demise of the racial order. By the late sixties, the Farm Bureau and white
+farmers had unobtrusively given up the race question; without share-
+croppers, with machines, beef and soybeans, they could afford to.” After
+years of vacillation, heightened disruption and falling concession costs
+allowed downtown interests to respond to movement demands. Although
+the enactment of federal legislation no doubt strengthened the hand of
+local activists, Payne notes that (1995, p. 328) “most Greenwood activists
+feel strongly that the immediate cause of real change, change that they
+could feel in their daily lives, came in response to economic pressure.”
+The principal white representative for the merchants likewise concluded
+in retrospect that it was the boycott that “ended that whole era” (Malouf,
+interview, August 31, 2003).
+DISCUSSION AND CONCLUSION
+
+While not an exhaustive treatment of these local struggles, the case studies
+support the basic proposition that economic actors weigh the financial
+impact of disruption and concession costs. Going beyond the simple as-
+sertion that costs matter, this analysis refines the distinctions among these
+costs and offers a set of propositions about how their convergence affects
+responsiveness to movement demands. Numerous historical studies of the
+responses of Southern business leaders to the civil rights movement further
+corroborate the hypothesis that the patterns of cost exposure stimulated
+concessions (e.g., Jacoway and Colburn 1982). This analysis comports also
+with studies of Southern political development that highlight the struggles
+between Old South plantation interests and modernizing New South in-
+terests dedicated to the promotion of Southern industrial development
+and economic growth (Nicholls 1960; Greenberg 1980; Luebke 1990; Cobb
+1993; Wright 1996). Based on a consideration of the economic opportunity
+structure, the findings presented here suggest that the distinctive char-
+acteristic of these modernizers was not simply their commitment to in-
+dustrial growth (since many industrial interests happily conformed to the
+regional norm of Jim Crow and low wages), but also the vulnerability of
+their agenda to economic disruptions and negative publicity of the sort
+that the civil rights movement produced. Next, the extreme rarity of
+Southern business closures in response to threatened integration suggests
+that economic interests generally trumped personal preferences or local
+cultural norms.’’ Even as the economic actors in these case studies be-
+haved strategically to protect their business interests largely irrespective
+of their personal views, more research on the impact of cultural norms
+upon the responsiveness of economic actors to other movements is
+necessary.
+
+The case studies further demonstrate that, while exposure to disruption
+and concession costs is not structurally predetermined, sectoral regularities
+can be detected. The relatively immobile, local consumption, service, and
+growth-dependent sectors, for which disruption costs were generally far
+higher than concession costs, came forward to make concessions. Despite
+considerable unrest and negative publicity, the conspicuous lack of sup-
+port for yielding in New Orleans among industrial firms outside local
+consumer markets, commercial-transportation interests, and “old money”
+notables evinced the predicted responses of conformers. Threats to the
+racially split labor market placed Birmingham iron and steel interests in
+opposition to integration, and, consistent with findings regarding the re-
+actionary commitments of labor-intensive agriculture, plantation interests
+provided the staunchest support for the preservation of Jim Crow (James
+1988). Explanations of the responses of economic actors to protest activity
+must address variation in sectoral vulnerability, and additional research
+might offer further refinements.
+
+Finally, these vulnerabilities to disruption and concession costs con-
+dition not only the preferences and unilateral behavior of economic actors,
+but also the probable struggles among them and the general likelihood
+of winning concessions from these targets. As depicted in all of the case
+studies, vulnerable actors negotiated compromises with movement activ-
+ists. Insulated segments of the business community conformed and some-
+times obstructed bargaining and conciliation. As expected, the struggles
+among economic actors and countermovement agitation shaped the bar-
+gaining process. In Greensboro, the weakness of white countermobiliza-
+tion allowed accommodators to respond with relative swiftness and ease
+to movement demands. By contrast, similarly positioned interests in New
+Orleans and Birmingham vacillated amid threats of reprisal. It is a curious
+paradox that the same racist violence that furthered the enactment of
+national civil rights legislation (McAdam 1982) deterred ostensible ac-
+commodators from making concessions and thereby reduced the local
+movement’s immediate prospects for success. In any case, these findings
+reinforce the proposition that explaining movement success involves a
+consideration of the extent of countermovement opposition (Meyer and
+Staggenborg 1996) and of how this agitation affects the cost calculations
+of movement targets. By revealing these factors, a cost-assessment per-
+spective clarifies the underlying dynamics affecting the behavior of eco-
+nomic actors and, more generally, movement outcome.
+
+While this investigation concentrates on the civil rights movement, the
+pattern should apply to other comparable movements as well. For in-
+stance, antinuclear activists often used the formal licensing procedure,
+which includes hearings and opportunities for legal challenges, to delay
+the construction of new facilities and thereby cause “financial problems
+for the utility” (Riidig 1990, p. 308). Describing the activities of British
+environmentalists, Seel and Plows (2000, p. 126) observe that “the basis
+of the cost escalation strategy is that while corporations often do not want
+to understand the arguments or values of radical environmentalists, the
+one thing they do understand very well is a balance sheet.” Similarly,
+recent fears about negative publicity and boycotts over labor conditions
+in overseas factories have caused many American corporations to propose
+and adopt new codes of conduct to reduce their exposure to such accu-
+sations (Spar 1998). Economic disruptions have often been important con-
+siderations for those seeking political changes as well. With some success,
+gay and black civil rights activists have urged sympathetic groups to
+boycott certain inhospitable states.’” While many examples might be cited,
+the economic motivations for responsiveness are unmistakable.
+
+This analysis also reveals that protest has limits for bringing about
+substantive change. While disruptive protests were effective at compelling
+vulnerable interests to desegregate, they had less impact on the many
+other economic actors shielded from these costs. Unable to threaten these
+other targets with economic harm, the effectiveness of movement agitation
+for bringing about racial equality had severe limitations. Without greater
+support from the federal government after 1964 and the creation of new
+legal weapons to impose costs upon the intransigent, movement contention
+would likely have obtained far fewer gains (Heckman and Paynor 1989).
+Also, had the ambitions of the civil rights movement been more threat-
+ening to Southern economic interests, the demolition of Jim Crow insti-
+tutions would have been much more difficult to achieve. Indeed, the many
+successes of the civil rights movement must be attributed in no small
+measure to the disappearance of resisters from the region (Piven and
+Cloward 1977; James 1988).
+
+This analysis suggests other possibilities for future research as well.
+Analogous to the economic cost-assessment hypothesis proposed here, a
+similar political cost-assessment approach might be developed to refine
+the concept of political opportunity structure (POS). While research on
+the concept of POS has produced many useful speculations and some
+generalizations about the responses of government authorities to move-
+ment mobilization (Tarrow 1994), POS is often less a predictive theory
+than a device to draw attention to a cluster of salient variables. Thus
+POS highlights factors such as the presence of elite allies, but the avail-
+ability of these benefactors is treated as exogenous. Left relatively unex-
+amined is how political opportunities are enlarged or why certain dis-
+ruptions, and not others, should be advantageous to specific movements.”
+To account for the ability of movements to cultivate alliances, garner
+broader political support, and convert disruptive behavior into “political
+pressure,” a theoretical description of the general structure of motives
+among public officials is necessary (Mayhew 1974; Arnold 1990). While
+this investigation has concentrated on the behavior of economic actors,
+prior research on political cost assessment might be usefully combined
+with social movement theory to produce more robust accounts of move-
+ment outcome. With a few exceptions (e.g., Burstein 1985), this sort of
+cross-fertilization has seldom been undertaken. Similarly, additional the-
+oretical speculation might delineate the interaction between the economic
+and political structures of opportunity. In several cases, the escalation of
+disruption costs triggered political mobilization of vulnerable economic
+actors that, in turn, contributed to an expansion in political opportunities.
+Favorable legislation or judicial rulings can furnish activists with new
+weapons to impose costs upon recalcitrant targets. To tease out these
+interactions, further research might join studies of movement outcome
+with theories concerning variation in political influence based on the struc-
+ture of economic sectors (Gourevitch 1977; Shafer 1994; Boix 2003) or on
+social network analysis (Knoke 1990).
+
+My aim here has been simply to derive a more precise theoretical ex-
+planation of the responses of economic actors to social movement demands
+based on a set of rudimentary assumptions about variation in cost ex-
+posure. Refining prior theories, I argued that the vulnerability to disrup-
+tion and concession costs define an economic opportunity structure that
+clarifies the prospects for the success of movements targeting economic
+actors. Further, I speculated that a pattern of sectoral exposure helps to
+explain why certain economic actors regularly respond more favorably to
+protest movement demands than others. While structural conditions may
+be conducive to movement success, taking advantage of these vulnera-
+bilities depends on choosing the proper target and generating protests of
+sufficient magnitude to threaten the profit of these interests. By appre-
+ciating the specific costs that diverse movements impose and their vari-
+ation across targets, the patterns of movement success and failure can be
+better understood.
+REFERENCES
+
+Amenta, Edwin, and Michael P. Young. 1999. “Making an Impact: Conceptual and
+Methodological Implications of the Collective Goods Criterion.” Pp. 22-41 in How
+Social Movements Matter, edited by M. Giugni, D. McAdam, and C. Tilly.
+Minneapolis: University of Minnesota Press.
+
+Andrews, Kenneth T. 2001. “Social Movements and Policy Implementation: The
+Mi ppi Civil Rights Movement and the War on Poverty, 1965-1971.” American
+Sociological Review 66:71-95.
+
+Arnold, R. Douglas. 1990. The Logic of Congressional Action. New Haven, Conn.:
+Yale University Press.
+
+Ashenfelter, Orley, and George E. Johnson. 1969. “Bargaining Theory, Trade Unions,
+and Industrial Strike Activity.” American Economic Review 59:35-49.
+
+Ashmore, Harry S. 1958. An Epitaph for Dixie. New York: Norton.
+
+Baker, Liva. 1996. The Second Battle of New Orleans: The Hundred-Year Struggle to
+Integrate the Schools. New York: Harper Collins.
+
+Barkan, Steven E. 1984. “Legal Control of the Civil Rights Movement.” American
+Sociological Review 49:552-62.
+
+Bartley, Numan V. (1969) 1999. The Rise of Massive Resistance: Race and Politics in
+the South during the 1950s. Baton Rouge: Louisiana State University Press.
+
+. 1995. The New South, 1945-1980. Baton Rouge: Louisiana State University
+Press.
+
+Bloom, Jack S. 1987. Class, Race, and the Civil Rights Movement. Bloomington:
+Indiana University Press.
+
+Boix, Charles. 2003. Democracy and Redistribution. New York: Cambridge University
+Press.
+
+Bonacich, Edna. 1972. “A Theory of Ethnic Antagonism: The Split Labor Market.”
+American Sociological Review 37:547-59.
+
+Booth, Mary. 1968. Interview by Robert Wright, Greenwood, Miss., August 7. Howard
+University, Ralph J. Bunche Oral History Collection.
+
+Branch, Taylor. 1988. Parting the Waters: America in the King Years, 1954-1963. New
+York: Simon & Schuster.
+
+Burstein, Paul. 1985. Discrimination, Jobs, and Politics: The Struggle for Equal
+Employment Opportunity in the United States since the New Deal. Chicago:
+University of Chicago Press.
+
+Burstein, Paul, Rachel L. Einwohner, and Jocelyn A. Hollander. 1995. “The Success
+of Political Movements: A Bargaining Perspective.” Pp. 275-95 in The Politics of
+Social Protest: Comparative Studies of States and Social Movements, edited by
+J. C. Jenkins and B. Klandermans. Minneapolis: University of Minnesota Press.
+
+Card, David, and Craig A. Olson. 1995. “Bargaining Power, Strike Durations, and
+Wage Outcomes: An Analysis of Strikes in the 1880s.” Journal of Labor Economics
+13:32-61.
+
+Chafe, William H. 1980. Civilities and Civil Rights: Greensboro, North Carolina, and
+the Black Struggle for Freedom. New York: Oxford University Press.
+
+Cobb, James C. 1988. “Beyond Planters and Industrialists: A New Perspective on the
+New South.” Journal of Southern History 54:45-68.
+
+. 1990. “Somebody Done Nailed Us on the Cross’: Federal Farm and Welfare
+
+Policy and the Civil Rights Movement in the Mississippi Delta.” Journal of American
+
+History 77:912-36.
+
+. 1993. The Selling of the South: The Southern Crusade for Industrial
+Development, 1936-1990. Urbana: University of Illinois Press.
+
+Dittmer, John. 1995. Local People: The Struggle for Civil Rights in Mississippi. Urbana:
+University of Illinois Press.
+Edwards, Richard. 1979. Contested Terrain: The Transformation of the Workplace in
+the Twentieth Century. New York: Basic Books.
+
+Eskew, Glenn T. 1997. But for Birmingham: The Local and National Movements in
+the Civil Rights Struggle. Chapel Hill: University of North Carolina Press.
+
+Fairclough, Adam. 1995. Race and Democracy: The Civil Rights Struggle in Louisiana,
+1915-1972. Athens: University of Georgia Press.
+
+Friedman, Gerald. 1988. “Strike Success and Union Ideology: The United States and
+France, 1880-1914.” Journal of Economic History 48:1-25.
+
+Gamson, William A. 1975. The Strategy of Social Protest. Homewood, Ill.: Dorsey.
+
+Garrow, David J. 1986. Bearing the Cross: Martin Luther King, Jv. and the Southern
+Christian Leadership Conference. New York: Vintage.
+
+Giugni, Marco. 1999. “How Social Movements Matter: Past Research, Present
+Problems, Future Developments.” Pp. xiii-xxxiii in How Social Movements Matter,
+edited by M. Giugni, D. McAdam, and C. Tilly. Minneapolis: University of Minnesota
+Press.
+
+Giugni, Marco, Doug McAdam, and Charles Tilly, eds. 1999. How Social Movements
+Matter. Minneapolis: University of Minnesota Press.
+
+Gourevitch, Peter A. 1977. “International Trade, Domestic Coalitions, and Liberty:
+Comparative Reponses to the Crisis of 1973-1896.” Journal of Interdisciplinary
+History 8:281-313.
+
+Greenberg, Stanley B. 1980. Race and State in Capitalist Development: Comparative
+Perspectives. New Haven, Conn.: Yale University Press.
+
+Hansen, John Mark. 1985. “The Political Economy of Group Membership.” American
+Political Science Review 79:79-96.
+
+Heckman, James J., and Brook J. Paynor. 1989. “Determining the Impact of Federal
+Anti crimination Policy on the Economic Status of Blacks: A Study of South
+Carolina.” American Economic Review 79:138-77.
+
+Hicks, John. (1932) 1963. The Theory of Wages. New York: Macmillan.
+
+Inger, Morton. 1969. Politics and Reality in an American City: The New Orleans School
+Crisis of 1960. New York: Center for Urban Education.
+
+Jacoway, Elizabeth, and David R. Colburn, eds. 1982. Southern Businessmen and
+Desegregation. Baton Rouge: Louisiana State University Press.
+
+James, David R. 1988. “The Transformation of the Southern Racial State: Class and
+Race Determinants of Local-State Structures.” American Sociological Review 53:
+191-208.
+
+Johnston, Erle. 1990. Mississippi’s Defiant Years. Forest, Miss.: Lake Harbor.
+
+Keesing’s Research Reports. 1970. Race Relations in the USA, 1954-1968. New York:
+Charles Scribner.
+
+Kennan, John. 1986. “The Economics of Strikes.” Pp. 1091-1137 in Handbook of Labor
+Economics, edited by Orley Ashenfelter and Richard Layard. New York: North-
+Holland.
+
+Kitschelt, Herbert. 1986. “Political Opportunity Structures and Political Protest: Anti-
+nuclear Movements in Four Democracies.” British Journal of Political Science 16:
+57-85.
+
+Knoke, David. 1990. Political Networks: The Structural Perspective. New York:
+Cambridge University Press.
+
+Koopmans, Ruud, and Paul Statham. 1999. “Ethnic and Civic Conceptions of
+Nationhood and Differential Success of the Extreme Right in Germany and Italy.”
+Pp. 225-52 in How Social Movements Matter, edited by M. Giugni, D. McAdam,
+and C. Tilly. Minneapolis: University of Minnesota Press.
+
+Lewis, David L. 1970. King: A Critical Biography. New York: Praeger.
+
+Lipsky, Michael. 1968. “Protest as a Political Resource.” American Political Science
+Review 62:1144-58.
+
+Luce, Randall Craig. 1983. “Racial Relations and Political Change: A Social History
+of a Southern County, 1886-1981.” Ph.D. dissertation. University of California, Santa
+Barbara, Department of Anthropology.
+
+Luebke, Paul. 1990. Tar Heel Politics: Myths and Realities. Chapel Hill: University
+of North Carolina Press.
+
+Mayhew, David R. 1974. Congress: The Electoral Connection. New Haven, Conn.:
+Yale University Press.
+
+McAdam, Doug. 1982. Political Process and the Development of Black Insurgency,
+1930-1970. Chicago: University of Chicago Press.
+
+McCarrick, Earlean Mary. 1964. “Louisiana’s Official Resistance to Desegregation.”
+Ph.D. dissertation. Vanderbilt University, Department of Political Science.
+
+McMillen, Neil R. 1971. The Citizens’ Council: Resistance to the Second
+Reconstruction. Urbana: University of Illinois Press.
+
+. 1973. “Development of Civil Rights, 1956-1970.” Pp. 154-76 in A History of
+
+Mississippi, vol 2. Edited by Richard Aubrey McLemore. Jackson: University and
+
+College Press of Mississippi.
+
+. 1977. “Black Enfranchisement in Mississippi: Federal Enforcement and Black
+Protest in the 1960s.” Journal of Southern History 43:351-72.
+
+McVeigh, Rory. 1999. “Structural Incentives for Conservative Mobilization: Power
+Devaluation and the Rise of the Ku Klux Klan, 1915-1925.” Social Forces 77:
+1461-96.
+
+McWhorter, Diane. 2001. Carry Me Home: Birmingham, Alabama, the Climactic Battle
+of the Civil Rights Revolution. New York: Simon & Schuster.
+
+Meyer, David S., and Suzanne Staggenborg. 1996. “Movements, Countermovements,
+and the Structure of Economic Opportunity.” American Journal of Sociology 101:
+1628-60.
+
+Montgomery, David. 1979. Workers Control in America: Studies in the History of
+Work, Techonology, and Labor Struggles. Cambridge: Cambridge University Press.
+
+Morris, Aldon. 1984. The Origins of the Civil Rights Movement: Black Communities
+Organizing for Change. New York: Free Press.
+
+. 1993. “Birmingham Confrontation Reconsidered: An Analysis of Dynamics
+and Tactics of Mobilization.” American Sociological Review 58:621-36.
+
+Nicholls, William H. 1960. Southern Tradition and Regional Progress. Chapel Hill:
+University of North Carolina Press.
+
+Olson, Mancur. 1965. The Logic of Collective Action. Cambridge, Mass.: Harvard
+University Press.
+
+Oppenheimer, Martin. 1989. The Sit-In Movement of 1960. New York: Carlson.
+
+Paige, Jeffery. 1997. Coffee and Power: Revolution and the Rise of Democracy in Latin
+America. Cambridge, Mass.: Harvard University Press.
+
+Patterson, Barbara. 1964. The Price We Pay. Southern Regional Council and the Anti-
+Defamation League.
+
+Payne, Charles M. 1995. I’ve Got the Light of Freedom: The Organizing Tradition and
+the Mississippi Freedom Struggle. Berkeley and Los Angeles: University of
+California Press.
+
+Piven, Frances Fox, and Richard Cloward. (1979) 1977. Poor People’s Movements:
+Why They Succeed, How They Fail. New York: Vintage Books.
+
+Rogers, Kim Lacy. 1993. Righteous Lives: Narratives of the New Orleans Civil Rights
+Movement. New York: New York University Press.
+
+Ross, Michael L. 1999. “The Political Economy of the Resource Curse.” World Politics
+51:297-322.
+
+Riidig, Wolfgang, ed. 1990. Anti-nuclear Movements: A World Survey of Opposition
+to Nuclear Energy. Essex: Longman.
+
+Schattschneider. 1960. The Semisovereign People: A Realist’s View of Democracy in
+America. New York: Holt, Rinehart, & Winston.
+
+Seel, Benjamin, and Alex Plows. 2000. “Coming Live and Direct: Strategies of Earth
+First!” Pp. 112-32 in Direct Action in British Environmentalism, edited by Benjamin
+Seel, Matthew Paterson, and Brian Doherty. New York: Routledge.
+
+Shafer, D. Michael. 1994. Winners and Losers: How Sectors Shape the Development
+Prospects of States. Ithaca, N.Y.: Cornell University Press.
+
+SIER (Southern Institute for Education and Research). 1997. A House Divided. VHS.
+New Orleans: Tulane University.
+
+Spar, Debora L. 1998. “The Spotlight on the Bottom Line: How Corporations Export
+Human Rights.” Foreign Affairs 77:7-12.
+
+Tarrow, Sidney. 1994. Power in Movement. New York: Cambridge University Press.
+
+Terchek, Ronald J. 1974. “Protest and Bargaining.” Journal of Peace Research 11:
+133-44.
+
+Thornton III, J. Mills. 1991. “Municipal Politics and the Course of the Movement.”
+In New Directions in Civil Rights Studies, edited by A. Robinson and P. Sullivan.
+Charlottesville: University Press of Virginia.
+
+Tilly, Charles. 1999. “From Interactions to Outcomes in Social Movements.” Pp. 253-70
+in How Social Movements Matter, edited by M. Giugni, D. McAdam, and C. Tilly.
+Minneapolis: University of Minnesota Press.
+
+Tversky, Amos, and Daniel Kahneman. 1991. “Loss Aversion in Riskless Choice: A
+Reference-Dependent Model.” Quarterly Journal of Economics 106:1039-61.
+
+Vander Zanden, James W. 1965. Race Relations in Transition. New York: Random
+House.
+
+Williams, Juan. 1987. Eyes on the Prize: America’s Civil Rights Years, 1954-1965.
+New York: Viking.
+
+Wilson, James Q. 1961. “The Strategy of Protest: Problems of Negro Civic Action.”
+Journal of Conflict Resolution 3:291-303.
+
+. 1984. “The Politics of Regulation.” Pp. 82-103 in The Political Economy:
+Readings in the Politics and Economics of American Public Policy, edited by
+Thomas Ferguson and Joel Rogers. New York: M. E. Sharpe.
+
+Wolff, Miles. 1970. Lunch at the Five and Ten. New York: Stein & Day.
+
+Wright, Gavin. 1991. “Economic Aspects of the Civil Rights Movement.” Pp. 175-83
+in New Directions in Civil Rights Studies, edited by Armstead L. Robinson and
+Patricia Sullivan. Charlottesville: University of Virginia Press.
+
+. 1996. Old South, New South: Revolutions in the Southern Economy since the
+
+Civil War. Baton Rouge: Louisiana State University Press.
