@@ -1,3 +1,6 @@
 articles/*
 .ipynb_checkpoints/*
 .DS_Store
+corpus/*
+example.pdf
+example.txt
