@@ -4,3 +4,6 @@ articles/*
 corpus/*
 example.pdf
 example.txt
+tesseract-corpus*
+.Rhistory
+highlight_ex.py
