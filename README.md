@@ -1,5 +1,5 @@
 # Language of Science
-Extracting text from pdf files of journal articles from the Americal Journal of Sociology and the American Sociological Review (1896-2011) into .txt files. 
+Extracting text and header information from pdf files of journal articles from the Americal Journal of Sociology and the American Sociological Review from the years of 1896 to 2011 into a corpus for NLP analysis. 
 
 ![pipeline](https://github.com/isaranwrap/Language-of-Science/blob/master/pipeline.png)
 Naively, we would just pop the pdf into PyTesseract (Python wrapper for Google's Tesseract-OCR [Optical Character Recognition] Engine) and call it a day. But this only works if the pdfs/images you feed in are nice. And it turns out to be a little bit of a chicken-and-egg situation --> to find a good image text conder, you need to specify the crop ahead of time... but if you want a good crop, you need to know where your text is. So, how do we work arround this issue?
